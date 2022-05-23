@@ -6,15 +6,48 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+
+.typography--variant-h1 {
+  font-size: 60px;
+  line-height: 72px;
+  font-weight: 700;
 }
 
-* {
-  box-sizing: border-box;
+.typography--variant-h2 {
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 700;
+}
+
+.typography--variant-h3 {
+  font-size: 36px;
+  line-height: 42px;
+  font-weight: 600;
+}
+
+.typography--variant-h4 {
+  font-size: 26px;
+  line-height: 34px;
+  font-weight: 600;
+}
+
+.typography--variant-h5 {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.typography--variant-h6 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.typography--variant-body {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 400;
 }
