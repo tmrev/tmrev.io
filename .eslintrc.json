@@ -1,3 +1,98 @@
 {
-  "extends": "next/core-web-vitals"
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest": true,
+    "jest/globals": true
+  },
+  "extends": [
+    "plugin:react/recommended",
+    "plugin:jest/recommended",
+    "airbnb",
+    "plugin:@next/next/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "@typescript-eslint",
+    "modules-newline",
+    "eslint-plugin-no-inline-styles",
+    "write-good-comments",
+    "no-loops",
+    "sort-keys-fix",
+    "simple-import-sort",
+    "jest"
+  ],
+  "rules": {
+    "indent": "off",
+    "@typescript-eslint/indent": ["error", 2], // 2 spaces === 1 tab
+    "react/jsx-filename-extension": [
+      2,
+      {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
+      }
+    ],
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/function-component-definition": "off",
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": [
+      "error"
+    ],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsFor": [
+          "state"
+        ]
+      }
+    ],
+    "import/extensions": 0,
+    "import/no-unresolved": 0,
+    "react/jsx-props-no-spreading": "off",
+    "camelcase": "warn",
+    "no-underscore-dangle": "warn",
+    "no-inline-styles/no-inline-styles": "warn",
+    "write-good-comments/write-good-comments": "warn",
+    "no-loops/no-loops": "error",
+    "sort-keys-fix/sort-keys-fix": "error",
+    "import/prefer-default-export": "warn",
+    "react/jsx-sort-props": [
+      "error",
+      {
+        "callbacksLast": true,
+        "shorthandFirst": true,
+        "reservedFirst": true
+      }
+    ],
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error",
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ],
+    "no-console": [
+      "error"
+    ],
+    "react/jsx-key": "error",
+    "@typescript-eslint/no-unused-vars": "error",
+    "no-shadow": "off",
+    "@typescript-eslint/no-shadow": [
+      "error"
+    ]
+  }
 }
