@@ -1,10 +1,11 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 import {
-  DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery,
+  DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
 } from '../../models/tmdb';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
+const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
 export const tmdbApi = createApi({
   baseQuery: fetchBaseQuery({
@@ -24,7 +25,22 @@ export const tmdbApi = createApi({
       }),
       transformResponse: (response: DiscoverTv) => response,
     }),
+    getMovie: builder.query<Movie, MovieQuery>({
+      query: (data) => ({
+        url: `/movie/${data.movie_id}?api_key=${apiKey}`,
+      }),
+      transformResponse: async (response: Movie) => {
+        const res = await fetch(`${tmrevAPI}/imdb/${response.imdb_id}`);
+
+        const data = await res.json();
+
+        return {
+          ...response,
+          imdb: data,
+        };
+      },
+    }),
   }),
 });
 
-export const { useGetDiscoverMovieQuery, useGetDiscoverTvQuery } = tmdbApi;
+export const { useGetDiscoverMovieQuery, useGetDiscoverTvQuery, useGetMovieQuery } = tmdbApi;

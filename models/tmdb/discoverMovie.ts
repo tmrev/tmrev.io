@@ -1,6 +1,6 @@
 export interface DiscoverMovie {
   page: number;
-  results: Result[];
+  results: DiscoverMovieResult[];
   total_results: number;
   total_pages: number;
 }
@@ -9,7 +9,7 @@ export interface DiscoverMovieQuery {
   page: number
 }
 
-interface Result {
+export interface DiscoverMovieResult {
   poster_path: null;
   adult: boolean;
   overview: string;

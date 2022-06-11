@@ -4,12 +4,13 @@ import Link from 'next/link';
 import React from 'react';
 
 import Typography from '../components/common/typography';
+import Screen from '../components/landing-page/screen';
 import Navigation from '../components/navigation';
 import { useGetDiscoverMovieQuery, useGetDiscoverTvQuery } from '../redux/api/tmdbAPI';
 import imageUrl from '../utils/imageUrl';
 
 const Home: NextPage = () => {
-  const { data: movieData, isLoading: movieIsLoading } = useGetDiscoverMovieQuery({ page: 1 });
+  const { data: movieData } = useGetDiscoverMovieQuery({ page: 1 });
   const { data: tvData } = useGetDiscoverTvQuery({ page: 1 });
 
   // TODO: refactor not sure how to update font dynamically
@@ -28,38 +29,12 @@ const Home: NextPage = () => {
     </>
   );
 
-  if (movieIsLoading) {
-    return (
-      <div className=" overflow-x-hidden flex">
-        <aside className="w-[385px] bg-white h-screen p-8">
-          <Typography className="text-tmrev-purple-main" variant="h3">TMREV</Typography>
-        </aside>
-        <div className="snap-mandatory snap-y h-screen w-screen overflow-scroll overflow-x-hidden">
-          <div className="snap-center flex justify-center items-center h-screen w-full bg-teal-600">
-            <Typography variant="h1">Loading...</Typography>
-          </div>
-
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className=" overflow-x-hidden flex">
       <Navigation />
       <div className="snap-mandatory snap-y h-screen w-screen overflow-scroll overflow-x-hidden">
         {movieData && movieData.results.map((movie) => (
-          <div key={movie.id} className="snap-center relative flex justify-center items-center h-screen w-full transition-all duration-300">
-            <Image priority layout="fill" objectFit="cover" src={imageUrl(movie.backdrop_path || '', undefined, false)} />
-            <div className=" absolute bottom-0 top-0 right-0 left-0 bg-black opacity-40" />
-            <div className="absolute z-40 bottom-8 left-8 max-w-[50%]">
-              <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
-              {renderTitle(movie.title, '/')}
-            </div>
-            <div className="absolute bottom-8 right-8">
-              <Typography className="text-white" variant="h1">{movie.vote_average}</Typography>
-            </div>
-          </div>
+          <Screen key={movie.id} movie={movie} />
         ))}
         {tvData && tvData.results.map((tv) => (
           <div key={tv.id} className="snap-center relative flex justify-center items-center h-screen w-full">

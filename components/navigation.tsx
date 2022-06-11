@@ -51,6 +51,7 @@ const urlLinks = [
 const Navigation:FunctionComponent = () => {
   const [desktopOpen, setDesktopOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
+
   const ref = useRef<HTMLDivElement>(null);
 
   const handleClickOutside = (e: MouseEvent) => {
@@ -62,7 +63,9 @@ const Navigation:FunctionComponent = () => {
   useEffect(() => {
     document.addEventListener('click', handleClickOutside, true);
 
-    return () => document.removeEventListener('click', handleClickOutside, true);
+    return () => {
+      document.removeEventListener('click', handleClickOutside, true);
+    };
   }, []);
 
   const renderSideBar = () => (
@@ -109,58 +112,67 @@ const Navigation:FunctionComponent = () => {
   );
 
   return (
-    <nav className={clsx(
-      'fixed z-50 top-0 p-2 left-0 right-0 w-full',
-      'bg-white rounded lg:h-screen  lg:relative transition-all duration-300',
-      desktopOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
-    )}
-    >
-      {renderSideBar()}
-      {/* Mobile Menu Button */}
-      <Button
-        className="lg:hidden flex"
-        variant="icon"
-        onClick={() => setMobileOpen(true)}
+    <AnimatePresence>
+
+      <motion.nav
+        animate={{ y: 0 }}
+        className={clsx(
+          'fixed z-50 top-0 p-2 left-0 right-0 w-full',
+          'bg-white rounded lg:h-screen  lg:relative transition-all duration-300',
+          desktopOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
+        )}
+        exit={{ y: -500 }}
+        initial={{ y: -100 }}
+        transition={{ y: { type: 'tween' } }}
       >
-        <span className="material-symbols-outlined">
-          menu
-        </span>
-      </Button>
-      {/* Mobile Expand Button */}
-      <Button
-        className="hidden lg:flex mb-8"
-        title={desktopOpen ? 'See Less' : 'See More'}
-        variant="icon"
-        onClick={() => setDesktopOpen(!desktopOpen)}
-      >
-        <span className="material-symbols-outlined -rotate-90">
-          {desktopOpen ? 'expand_less' : 'expand_more'}
-        </span>
-      </Button>
-      {desktopOpen && <Typography className="text-tmrev-purple-main hidden lg:block" variant="h3">TMREV</Typography>}
-      <ul className={clsx('hidden lg:block space-y-4', desktopOpen ? 'mt-32' : 'mt-0')}>
-        {urlLinks.map((link) => (
-          <li key={link.url}>
-            <Link passHref href={link.url}>
-              <a className="flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none" title={link.title}>
-                <span className="material-symbols-outlined">
-                  {link.icon}
-                </span>
-                {desktopOpen && <Typography variant="h5">{link.title}</Typography>}
-              </a>
-            </Link>
-          </li>
-        ))}
-      </ul>
-      <div className={clsx(
-        'hidden absolute lg:flex items-center space-x-4 transition-all duration-300',
-        desktopOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
-      )}
-      >
-        <Image className="rounded-full" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
-        {desktopOpen && <Typography variant="h6">Kegen Guyll</Typography>}
-      </div>
-    </nav>
+        {renderSideBar()}
+        {/* Mobile Menu Button */}
+        <Button
+          className="lg:hidden flex"
+          variant="icon"
+          onClick={() => setMobileOpen(true)}
+        >
+          <span className="material-symbols-outlined">
+            menu
+          </span>
+        </Button>
+        {/* Mobile Expand Button */}
+        <Button
+          className="hidden lg:flex mb-8"
+          title={desktopOpen ? 'See Less' : 'See More'}
+          variant="icon"
+          onClick={() => setDesktopOpen(!desktopOpen)}
+        >
+          <span className="material-symbols-outlined -rotate-90">
+            {desktopOpen ? 'expand_less' : 'expand_more'}
+          </span>
+        </Button>
+        {desktopOpen && <Typography className="text-tmrev-purple-main hidden lg:block" variant="h3">TMREV</Typography>}
+        <ul className={clsx('hidden lg:block space-y-4', desktopOpen ? 'mt-32' : 'mt-0')}>
+          {urlLinks.map((link) => (
+            <li key={link.url}>
+              <Link passHref href={link.url}>
+                <a className="flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none" title={link.title}>
+                  <span className="material-symbols-outlined">
+                    {link.icon}
+                  </span>
+                  {desktopOpen && <Typography variant="h5">{link.title}</Typography>}
+                </a>
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <div className={clsx(
+          'hidden absolute lg:flex items-center space-x-4 transition-all duration-300',
+          desktopOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
+        )}
+        >
+          <Image className="rounded-full" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
+          {desktopOpen && <Typography variant="h6">Kegen Guyll</Typography>}
+        </div>
+      </motion.nav>
+    </AnimatePresence>
+
   );
 };
 
