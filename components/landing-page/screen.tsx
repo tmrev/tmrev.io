@@ -5,6 +5,7 @@ import React, { FunctionComponent, useMemo } from 'react';
 import { DiscoverMovieResult, MovieQuery } from '../../models/tmdb';
 import { useGetMovieQuery } from '../../redux/api/tmdbAPI';
 import imageUrl from '../../utils/imageUrl';
+import { createMediaUrl } from '../../utils/mediaID';
 import Typography from '../common/typography';
 
 interface Props {
@@ -13,12 +14,12 @@ interface Props {
 
 const renderTitle = (title: string, url: string) => (
   <>
-    <Link passHref href={url}>
+    <Link passHref href={`/movie/${url}`}>
       <a className="hover:underline text-white hidden lg:block">
         <Typography variant="h1">{title}</Typography>
       </a>
     </Link>
-    <Link passHref href={url}>
+    <Link passHref href={`/movie/${url}`}>
       <a className="hover:underline text-white lg:hidden block">
         <Typography variant="h3">{title}</Typography>
       </a>
@@ -39,7 +40,7 @@ const Screen:FunctionComponent<Props> = ({ movie }: Props) => {
       <div className=" absolute bottom-0 top-0 right-0 left-0 bg-black opacity-40" />
       <div className="absolute z-40 bottom-8 left-8 max-w-[50%]">
         <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
-        {renderTitle(movie.title, '/')}
+        {renderTitle(movie.title, createMediaUrl(movie.id, movie.title))}
       </div>
       <div className="absolute flex flex-col bottom-8 right-8">
         <Image height={32} src="/images/icons/imdb/imdb-icon.svg" width={64} />

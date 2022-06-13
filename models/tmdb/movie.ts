@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 interface Movie {
   adult: boolean;
   backdrop_path: string;
@@ -25,6 +26,9 @@ interface Movie {
   vote_average: number;
   vote_count: number;
   imdb: IMDB
+  credits: Credits;
+  release_dates: ReleaseDates;
+  reviews: Reviews;
 }
 
 interface IMDB {
@@ -65,12 +69,88 @@ interface ProductionCountry {
   name: string;
 }
 
+interface Credits {
+  cast: Cast[];
+  crew: Cast[];
+}
+
+interface Cast {
+  adult: boolean;
+  gender: number;
+  id: number;
+  known_for_department: string;
+  name: string;
+  original_name: string;
+  popularity: number;
+  profile_path: null | string;
+  cast_id?: number;
+  character?: string;
+  credit_id: string;
+  order?: number;
+  department?: string;
+  job?: string;
+}
+
+enum OriginalLanguage {
+  CS = 'cs',
+  Empty = '',
+  En = 'en',
+  Es = 'es',
+  Fr = 'fr',
+}
+
+interface ReleaseDates {
+  results: Result[];
+}
+
+export interface Result {
+  iso_3166_1: string;
+  release_dates: ReleaseDate[];
+}
+
+interface ReleaseDate {
+  certification: string;
+  iso_639_1: OriginalLanguage;
+  note: string;
+  release_date: Date;
+  type: number;
+}
+
+interface Reviews {
+  page: number;
+  results: ReviewsResult[];
+  total_pages: number;
+  total_results: number;
+}
+
+interface ReviewsResult {
+  author: string;
+  author_details: AuthorDetails;
+  content: string;
+  created_at: Date;
+  id: string;
+  updated_at: Date;
+  url: string;
+}
+
+interface AuthorDetails {
+  name: string;
+  username: string;
+  avatar_path: string;
+  rating: number;
+}
+
 interface SpokenLanguage {
-  iso_639_1: string;
+  english_name: string;
+  iso_639_1: OriginalLanguage;
   name: string;
 }
 
 export type {
-  Genre, Movie, MovieQuery,
-  ProductionCompany, ProductionCountry, SpokenLanguage,
+  AuthorDetails, Cast, Credits,
+  Genre, Movie, MovieQuery, OriginalLanguage,
+  ProductionCompany, ProductionCountry, ReleaseDate,
+  ReleaseDates,
+  Reviews, ReviewsResult,
+  SpokenLanguage,
 };

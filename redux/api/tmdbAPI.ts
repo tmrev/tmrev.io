@@ -1,4 +1,5 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
+import { HYDRATE } from 'next-redux-wrapper';
 
 import {
   DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
@@ -27,7 +28,7 @@ export const tmdbApi = createApi({
     }),
     getMovie: builder.query<Movie, MovieQuery>({
       query: (data) => ({
-        url: `/movie/${data.movie_id}?api_key=${apiKey}`,
+        url: `/movie/${data.movie_id}?api_key=${apiKey}&append_to_response=credits,release_dates,reviews`,
       }),
       transformResponse: async (response: Movie) => {
         const res = await fetch(`${tmrevAPI}/imdb/${response.imdb_id}`);
@@ -41,6 +42,19 @@ export const tmdbApi = createApi({
       },
     }),
   }),
+  // eslint-disable-next-line consistent-return
+  extractRehydrationInfo(action, { reducerPath }) {
+    if (action.type === HYDRATE) {
+      return action.payload[reducerPath];
+    }
+  },
 });
 
-export const { useGetDiscoverMovieQuery, useGetDiscoverTvQuery, useGetMovieQuery } = tmdbApi;
+export const {
+  useGetDiscoverMovieQuery,
+  useGetDiscoverTvQuery,
+  useGetMovieQuery,
+  util: { getRunningOperationPromises },
+} = tmdbApi;
+
+export const { getDiscoverMovie, getDiscoverTv, getMovie } = tmdbApi.endpoints;
