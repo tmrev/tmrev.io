@@ -142,7 +142,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           </Button>
           {/* Mobile Expand Button */}
           <Button
-            className="hidden lg:flex mb-8"
+            className="hidden lg:flex mb-8 fixed"
             title={desktopOpen ? 'See Less' : 'See More'}
             variant="icon"
             onClick={() => setDesktopOpen(!desktopOpen)}
@@ -151,8 +151,11 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               {desktopOpen ? 'expand_less' : 'expand_more'}
             </span>
           </Button>
-          {desktopOpen && <Typography className="text-tmrev-purple-main hidden lg:block" variant="h3">TMREV</Typography>}
-          <ul className={clsx('hidden lg:block space-y-4', desktopOpen ? 'mt-32' : 'mt-0')}>
+          <ul className={clsx(
+            'hidden lg:block space-y-4 fixed',
+            desktopOpen ? 'top-36' : 'top-16',
+          )}
+          >
             {urlLinks.map((link) => (
               <li key={link.url}>
                 <Link passHref href={link.url}>
@@ -160,14 +163,22 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
                     <span className="material-symbols-outlined">
                       {link.icon}
                     </span>
-                    {desktopOpen && <Typography variant="h5">{link.title}</Typography>}
+                    <Typography
+                      className={clsx(
+                        desktopOpen ? 'opacity-100 block' : 'opacity-0 hidden',
+                        'transition-all duration-300',
+                      )}
+                      variant="h5"
+                    >
+                      {link.title}
+                    </Typography>
                   </a>
                 </Link>
               </li>
             ))}
           </ul>
           <div className={clsx(
-            'hidden absolute lg:flex items-center space-x-4 transition-all duration-300',
+            'hidden lg:flex fixed items-center space-x-4 transition-all duration-300',
             desktopOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
           )}
           >
