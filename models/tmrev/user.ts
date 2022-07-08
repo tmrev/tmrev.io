@@ -1,4 +1,4 @@
-import type { Review, WatchList } from '.';
+import type { TmrevReview, WatchList } from '.';
 
 interface User {
   displayName?: string
@@ -8,7 +8,7 @@ interface User {
   uuid: string
   backdropPath?: string
   following?: string[],
-  reviews: Review[],
+  reviews: TmrevReview[],
   watchLists: WatchList[]
 }
 
