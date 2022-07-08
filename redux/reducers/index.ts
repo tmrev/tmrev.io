@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux';
 
-import { tmdbApi } from '../api/tmdbAPI';
+import { tmrevApi } from '../api';
 
 const rootReducer = combineReducers({
-  [tmdbApi.reducerPath]: tmdbApi.reducer,
+  [tmrevApi.reducerPath]: tmrevApi.reducer,
 });
 
 export type RootState = ReturnType<typeof rootReducer>;

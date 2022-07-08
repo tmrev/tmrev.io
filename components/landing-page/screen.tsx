@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React, { FunctionComponent, useMemo } from 'react';
 
 import { DiscoverMovieResult, MovieQuery } from '../../models/tmdb';
-import { useGetMovieQuery } from '../../redux/api/tmdbAPI';
+import { useGetMovieQuery } from '../../redux/api';
 import imageUrl from '../../utils/imageUrl';
 import { createMediaUrl } from '../../utils/mediaID';
 import Typography from '../common/typography';

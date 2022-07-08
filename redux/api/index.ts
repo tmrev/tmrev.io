@@ -4,11 +4,12 @@ import { HYDRATE } from 'next-redux-wrapper';
 import {
   DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
 } from '../../models/tmdb';
+import { User, UserQuery } from '../../models/tmrev';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
-export const tmdbApi = createApi({
+export const tmrevApi = createApi({
   baseQuery: fetchBaseQuery({
     baseUrl: 'https://api.themoviedb.org/3/',
     prepareHeaders: (headers) => headers,
@@ -30,16 +31,29 @@ export const tmdbApi = createApi({
       query: (data) => ({
         url: `/movie/${data.movie_id}?api_key=${apiKey}&append_to_response=credits,release_dates,reviews`,
       }),
-      transformResponse: async (response: Movie) => {
-        const res = await fetch(`${tmrevAPI}/imdb/${response.imdb_id}`);
+      transformResponse: async (response: Movie, _, arg) => {
+        const urls = [
+          `${tmrevAPI}/imdb/${response.imdb_id}`,
+          `${tmrevAPI}/movie/all/${arg.movie_id}`,
+        ];
+        const requests = urls.map((url) => fetch(url));
+        const responses = await Promise.all(requests);
+        const promises = responses.map((res) => res.json());
 
-        const data = await res.json();
+        const movieReviews = await Promise.all(promises);
 
         return {
           ...response,
-          imdb: data,
+          imdb: movieReviews[0],
+          tmrevReviews: movieReviews[1],
         };
       },
+    }),
+    getUser: builder.query<User, UserQuery>({
+      query: (data) => ({
+        url: `${tmrevAPI}/user/full/${data.uid}`,
+      }),
+      transformResponse: (response: User) => response,
     }),
   }),
   // eslint-disable-next-line consistent-return
@@ -54,7 +68,8 @@ export const {
   useGetDiscoverMovieQuery,
   useGetDiscoverTvQuery,
   useGetMovieQuery,
+  useGetUserQuery,
   util: { getRunningOperationPromises },
-} = tmdbApi;
+} = tmrevApi;
 
-export const { getDiscoverMovie, getDiscoverTv, getMovie } = tmdbApi.endpoints;
+export const { getDiscoverMovie, getDiscoverTv, getMovie } = tmrevApi.endpoints;

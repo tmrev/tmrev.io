@@ -1,12 +1,12 @@
 import { Action, configureStore, ThunkAction } from '@reduxjs/toolkit';
 import { createWrapper } from 'next-redux-wrapper';
 
-import { tmdbApi } from '../api/tmdbAPI';
+import { tmrevApi } from '../api';
 import rootReducer, { RootState } from '../reducers';
 
 export const store = () => configureStore({
   devTools: process.env.NODE_ENV !== 'production',
-  middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(tmdbApi.middleware),
+  middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(tmrevApi.middleware),
   reducer: rootReducer,
 });
 

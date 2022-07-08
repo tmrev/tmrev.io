@@ -5,7 +5,7 @@ import React from 'react';
 
 import Typography from '../components/common/typography';
 import Screen from '../components/landing-page/screen';
-import { useGetDiscoverMovieQuery, useGetDiscoverTvQuery } from '../redux/api/tmdbAPI';
+import { useGetDiscoverMovieQuery, useGetDiscoverTvQuery } from '../redux/api';
 import imageUrl from '../utils/imageUrl';
 
 const Home: NextPage = () => {
