@@ -5,13 +5,12 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
-import ReactMarkdown from 'react-markdown';
-import remarkGfm from 'remark-gfm';
 
 import Typography from '../../components/common/typography';
 import Crew from '../../components/movie/crew';
+import Reviews from '../../components/movie/reviews';
 import { MovieQuery, ReleaseDate } from '../../models/tmdb';
-import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../redux/api/tmdbAPI';
+import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../redux/api';
 import { wrapper } from '../../redux/store';
 import { formatRuntime, numberShortHand } from '../../utils/common';
 import formatDate from '../../utils/formatDate';
@@ -98,11 +97,11 @@ const MoviePage: NextPage<Props> = () => {
                     <a className="flex items-center space-x-2">
                       <Image height={32} objectFit="contain" src="/images/icons/imdb/imdb-icon.svg" width={32} />
                       <p className="opacity-75">
-                        {data.imdb.averageRating}
+                        {data.imdb?.averageRating}
                       </p>
                       <p className="opacity-75">
                         (
-                        {numberShortHand(Number(data.imdb.numVotes)) }
+                        {numberShortHand(Number(data.imdb?.numVotes)) }
                         )
                       </p>
                     </a>
@@ -138,6 +137,7 @@ const MoviePage: NextPage<Props> = () => {
               </div>
             </div>
             <div className="flex flex-col space-y-3">
+
               <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
                 <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
                 <Typography className="flex flex-wrap items-center" variant="h1">
@@ -150,38 +150,16 @@ const MoviePage: NextPage<Props> = () => {
                 </Typography>
                 <p className="mt-8">{data.overview}</p>
               </div>
-              <div className="divide-y mt-8">
+              <div className="divide-y mt-8 mb-40">
                 <Crew cast={directors} title="Directors" />
                 <Crew cast={producers} title="Producers" />
                 <Crew cast={writers} title="Writers" />
               </div>
+              <div className="!my-16" />
               <div className="divide-y mt-40 space-y-8">
                 <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">POPULAR REVIEWS</h2>
-                {data.reviews.results.map((value) => (
-                  <div key={value.id} className="flex items-start p-3 space-x-3">
-                    <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full relative">
-                      <Image
-                        className="rounded-full"
-                        layout="fill"
-                        src={value.author_details.avatar_path}
-                      />
-                    </div>
-                    <div className=" max-w-xs md:max-w-lg 2xl:max-w-5xl space-y-4 overflow-hidden">
-                      <p className="font-semibold">
-                        <span className="font-normal opacity-75">Reviewed by</span>
-                        {' '}
-                        {value.author}
-                      </p>
-                      <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                        {value.content}
-                      </ReactMarkdown>
-                      <p className="opacity-75">
-                        User Rating
-                        {' '}
-                        {value.author_details.rating}
-                      </p>
-                    </div>
-                  </div>
+                {data.tmrevReviews.map((value) => (
+                  <Reviews key={value._id} review={value} />
                 ))}
               </div>
             </div>
