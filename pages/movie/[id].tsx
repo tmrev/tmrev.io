@@ -9,6 +9,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 import Typography from '../../components/common/typography';
+import Crew from '../../components/movie/crew';
 import { MovieQuery, ReleaseDate } from '../../models/tmdb';
 import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../redux/api/tmdbAPI';
 import { wrapper } from '../../redux/store';
@@ -70,7 +71,7 @@ const MoviePage: NextPage<Props> = () => {
   return (
     <div className="bg-tmrev-gray-dark relative flex flex-col justify-center items-center w-full">
       <div className="relative w-full h-96 lg:h-[500px]">
-        <Image layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
+        <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-tmrev-gray-dark h-full w-full" />
       </div>
       <div className="px-0 lg:px-8 mt-0 lg:-mt-16 z-30">
@@ -80,8 +81,9 @@ const MoviePage: NextPage<Props> = () => {
         )}
         >
           <div className="flex text-white">
-            <div className="hidden lg:flex divide-y lg:flex-col mr-8">
+            <div className="hidden lg:flex lg:flex-col mr-8">
               <Image
+                priority
                 className="rounded"
                 height={500}
                 objectFit="cover"
@@ -135,46 +137,23 @@ const MoviePage: NextPage<Props> = () => {
                 </div>
               </div>
             </div>
-            <div className="flex flex-col">
-              <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
-              <Typography className="flex flex-wrap items-center" variant="h1">
-                {data.title}
-                <span className=" ml-2 text-2xl opacity-75">
-                  (
-                  {formatDate(data.release_date)}
-                  )
-                </span>
-              </Typography>
-              <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl mt-8">
-                <p>
-                  {data.overview}
-                </p>
+            <div className="flex flex-col space-y-3">
+              <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
+                <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
+                <Typography className="flex flex-wrap items-center" variant="h1">
+                  {data.title}
+                  <span className=" ml-2 text-2xl opacity-75">
+                    (
+                    {formatDate(data.release_date)}
+                    )
+                  </span>
+                </Typography>
+                <p className="mt-8">{data.overview}</p>
               </div>
               <div className="divide-y mt-8">
-                <div className="flex items-center space-x-3 py-2">
-                  <p>Directors</p>
-                  {directors.map((director) => (
-                    <Link key={director.id} passHref href="/">
-                      <a className=" text-blue-400 hover:underline">{director.original_name}</a>
-                    </Link>
-                  ))}
-                </div>
-                <div className="flex items-center space-x-3 py-2">
-                  <p>Producers</p>
-                  {producers.map((producer) => (
-                    <Link key={producer.id} passHref href="/">
-                      <a className=" text-blue-400 hover:underline">{producer.original_name}</a>
-                    </Link>
-                  ))}
-                </div>
-                <div className="flex items-center space-x-3 py-2">
-                  <p>Writers</p>
-                  {writers.map((writer) => (
-                    <Link key={writer.id} passHref href="/">
-                      <a className=" text-blue-400 hover:underline">{writer.original_name}</a>
-                    </Link>
-                  ))}
-                </div>
+                <Crew cast={directors} title="Directors" />
+                <Crew cast={producers} title="Producers" />
+                <Crew cast={writers} title="Writers" />
               </div>
               <div className="divide-y mt-40 space-y-8">
                 <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">POPULAR REVIEWS</h2>
@@ -184,7 +163,7 @@ const MoviePage: NextPage<Props> = () => {
                       <Image
                         className="rounded-full"
                         layout="fill"
-                        src={imageUrl(value.author_details.avatar_path)}
+                        src={value.author_details.avatar_path}
                       />
                     </div>
                     <div className=" max-w-xs md:max-w-lg 2xl:max-w-5xl space-y-4 overflow-hidden">
@@ -193,7 +172,6 @@ const MoviePage: NextPage<Props> = () => {
                         {' '}
                         {value.author}
                       </p>
-                      {/* <div dangerouslySetInnerHTML={{ __html: value.content }} /> */}
                       <ReactMarkdown remarkPlugins={[remarkGfm]}>
                         {value.content}
                       </ReactMarkdown>
