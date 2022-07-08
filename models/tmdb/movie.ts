@@ -1,3 +1,5 @@
+import { TmrevReview } from '../tmrev';
+
 /* eslint-disable no-unused-vars */
 interface Movie {
   adult: boolean;
@@ -25,10 +27,11 @@ interface Movie {
   video: boolean;
   vote_average: number;
   vote_count: number;
-  imdb: IMDB
+  imdb?: IMDB
   credits: Credits;
   release_dates: ReleaseDates;
   reviews: Reviews;
+  tmrevReviews: TmrevReview[]
 }
 
 interface IMDB {
