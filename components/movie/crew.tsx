@@ -13,10 +13,10 @@ const Crew:FunctionComponent<Props> = ({ title, cast }: Props) => {
 
   return (
     <div className="flex items-center space-x-3 py-2">
-      <p>{title}</p>
+      <p>{`${title}: `}</p>
       {cast.map((castMember) => (
         <Link key={castMember.id} passHref href="/">
-          <a className="text-blue-400 hover:underline">{castMember.original_name}</a>
+          <a className="text-white hover:underline">{castMember.original_name}</a>
         </Link>
       ))}
     </div>

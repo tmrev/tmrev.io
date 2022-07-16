@@ -3,6 +3,7 @@ module.exports = {
     './pages/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
   ],
+  darkMode: 'media',
   plugins: [],
   theme: {
     extend: {
@@ -25,6 +26,7 @@ module.exports = {
             secondary: '#340049',
           },
         },
+        white: '#FFFDFA',
       },
     },
   },

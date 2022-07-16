@@ -17,7 +17,7 @@ const Button:FunctionComponent<Props> = ({
       case 'secondary':
         return clsx('p-2 rounded bg-gray-500 hover:bg-gray-600 text-white');
       case 'icon':
-        return clsx('p-2 rounded hover:bg-gray-100 flex item-center justify-center');
+        return clsx('p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark flex item-center justify-center');
       default:
         return clsx('p-2 rounded text-left hover:underline');
     }

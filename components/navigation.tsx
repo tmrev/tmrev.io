@@ -78,14 +78,13 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
         <motion.div
           ref={ref}
           animate={{ x: 0 }}
-          className="fixed shadow rounded bg-white z-50 left-0 top-0 bottom-0 w-3/4"
+          className="fixed shadow rounded bg-white dark:bg-black z-50 left-0 top-0 bottom-0 w-3/4"
           exit={{ x: -500 }}
           initial={{ x: -100 }}
           transition={{ x: { type: 'tween' } }}
         >
           <div className="p-4">
             <div className="flex items-center">
-              <Typography className="text-tmrev-purple-main flex-grow" variant="h3">TMREV</Typography>
               <Button
                 variant="icon"
                 onClick={() => setMobileOpen(false)}
@@ -99,7 +98,15 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               {urlLinks.map((link) => (
                 <li key={link.url}>
                   <Link passHref href={link.url}>
-                    <a className="flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none" title={link.title}>
+                    <a
+                      className={
+                        clsx(
+                          'flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none',
+                          'dark:hover:bg-tmrev-gray-dark',
+                        )
+                      }
+                      title={link.title}
+                    >
                       <span className="material-symbols-outlined">
                         {link.icon}
                       </span>
@@ -116,13 +123,13 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
   );
 
   return (
-    <div className="flex">
+    <div className="flex bg-white dark:bg-black">
       <AnimatePresence>
         <motion.nav
           animate={{ y: 0 }}
           className={clsx(
-            'fixed z-50 top-0 p-2 left-0 right-0 w-full',
-            'bg-white rounded lg:h-screen  lg:relative transition-all duration-300',
+            'fixed z-50 top-0 bottom-0 p-2 left-0 right-0 w-full',
+            ' dark:text-white lg:h-screen  lg:relative transition-all duration-300',
             desktopOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
           )}
           exit={{ y: -500 }}
@@ -159,7 +166,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
             {urlLinks.map((link) => (
               <li key={link.url}>
                 <Link passHref href={link.url}>
-                  <a className="flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none" title={link.title}>
+                  <a className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none" title={link.title}>
                     <span className="material-symbols-outlined">
                       {link.icon}
                     </span>
@@ -182,7 +189,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
             desktopOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
           )}
           >
-            <Image className="rounded-full" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
+            <Image className="rounded-full dark:bg-white" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
             {desktopOpen && <Typography variant="h6">Kegen Guyll</Typography>}
           </div>
         </motion.nav>

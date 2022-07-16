@@ -68,18 +68,18 @@ const MoviePage: NextPage<Props> = () => {
   if (!data) return null;
 
   return (
-    <div className="bg-tmrev-gray-dark relative flex flex-col justify-center items-center w-full">
+    <div className="dark:bg-black bg-white relative flex flex-col justify-center items-center w-full">
       <div className="relative w-full h-96 lg:h-[500px]">
         <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
-        <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-tmrev-gray-dark h-full w-full" />
+        <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
       </div>
       <div className="px-0 lg:px-8 mt-0 lg:-mt-16 z-30">
         <div className={clsx(
-          'bg-tmrev-gray-dark p-8 flex',
+          'dark:bg-black bg-white p-8 flex',
           'lg:rounded',
         )}
         >
-          <div className="flex text-white">
+          <div className="flex dark:text-white text-black">
             <div className="hidden lg:flex lg:flex-col mr-8">
               <Image
                 priority
@@ -142,7 +142,7 @@ const MoviePage: NextPage<Props> = () => {
                 <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
                 <Typography className="flex flex-wrap items-center" variant="h1">
                   {data.title}
-                  <span className=" ml-2 text-2xl opacity-75">
+                  <span className=" ml-2 text-2xl dark:opacity-75 opacity-50">
                     (
                     {formatDate(data.release_date)}
                     )
