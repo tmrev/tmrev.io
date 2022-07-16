@@ -19,12 +19,12 @@ const urlLinks = [
     title: 'Movies',
     url: '/movies',
   },
-  {
-    auth: false,
-    icon: 'tv',
-    title: 'TV shows',
-    url: '/tv',
-  },
+  // {
+  //   auth: false,
+  //   icon: 'tv',
+  //   title: 'TV shows',
+  //   url: '/tv',
+  // },
   {
     auth: false,
     icon: 'person',
