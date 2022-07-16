@@ -1,6 +1,5 @@
 import clsx from 'clsx';
 import { AnimatePresence, motion } from 'framer-motion';
-import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, {
@@ -11,6 +10,7 @@ import { useAppDispatch, useAppSelector } from '../hooks';
 import { setOpenNavigation } from '../redux/slice/navigationSlice';
 import Button from './common/Button';
 import Typography from './common/typography';
+import Profile from './navigation/profile';
 
 const urlLinks = [
   {
@@ -198,14 +198,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               </li>
             ))}
           </ul>
-          <div className={clsx(
-            'hidden lg:flex fixed items-center space-x-4 transition-all duration-300',
-            isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
-          )}
-          >
-            <Image className="rounded-full dark:bg-white" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
-            {isNavigationOpen && <Typography variant="h6">Kegen Guyll</Typography>}
-          </div>
+          <Profile />
         </motion.nav>
       </AnimatePresence>
       {children}
