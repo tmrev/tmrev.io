@@ -13,3 +13,9 @@ export function formatRuntime(runtime: number): string {
 
   return `${rhours}h ${rminutes}m`;
 }
+
+export function extractNameFromEmail(email: string | null):string {
+  if (!email) return '';
+
+  return email.split('@')[0];
+}

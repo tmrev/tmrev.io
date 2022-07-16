@@ -8,6 +8,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 import { TmrevReview } from '../../models/tmrev';
+import { extractNameFromEmail } from '../../utils/common';
 
 interface Props {
   review: TmrevReview
@@ -50,7 +51,7 @@ const Reviews:FunctionComponent<Props> = ({ review }:Props) => {
     if (!data.displayName) {
       return (
         <Link passHref href={`/user/${userId}`}>
-          <a>{data.email.split('@')[0]}</a>
+          <a>{extractNameFromEmail(data.email)}</a>
         </Link>
       );
     }
