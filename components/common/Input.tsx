@@ -20,7 +20,7 @@ const Input = React.forwardRef<HTMLInputElement, Props>(({ type, error, ...other
         className={clsx(
           'border-2 px-2 py-1 rounded w-full',
           'dark:bg-black opacity-100 dark:border-black dark:text-white',
-          'focus:outline-white focus:outline-1',
+          'dark:focus:outline-white focus:outline-black focus:outline-1',
         )}
         type={type === 'password' && isPasswordVisible ? 'text' : type}
       />

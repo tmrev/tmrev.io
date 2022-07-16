@@ -27,7 +27,7 @@ const Login: NextPage = () => {
     defaultValues,
     resolver: yupResolver(schema),
   });
-  const { signInWithEmailAndPassword } = useAuth();
+  const { signInWithEmailAndPassword, signInWithGoogle } = useAuth();
   const router = useRouter();
   const [firebaseError, setFirebaseError] = useState<string>('');
 
@@ -40,12 +40,21 @@ const Login: NextPage = () => {
     }
   };
 
-  return (
-    <div className="h-screen w-screen flex justify-center items-center bg-black p-4">
-      <div className="px-4 py-8 bg-tmrev-gray-dark rounded w-full max-w-2xl flex justify-center items-center">
+  const onGoogle = async () => {
+    try {
+      await signInWithGoogle();
+      router.push('/');
+    } catch (error: any) {
+      setFirebaseError(handleError(error.message));
+    }
+  };
 
+  return (
+    <div className="h-screen w-screen flex justify-center items-center bg-white text-black dark:text-white dark:bg-black p-4">
+      <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex justify-center items-center">
         <form className="flex flex-col w-full space-y-4" onSubmit={handleSubmit(onSubmit)}>
           <h1 className="text-3xl font-semibold text-tmrev-alt-yellow">The Movie Review</h1>
+          <Button onClick={onGoogle}>Use Google</Button>
           <Input
             className="px-3 py-1 border rounded"
             {...register('email')}
