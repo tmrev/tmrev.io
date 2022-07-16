@@ -2,8 +2,9 @@ import clsx from 'clsx';
 import { AnimatePresence, motion } from 'framer-motion';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import React, {
-  FunctionComponent, useEffect, useRef, useState,
+  FunctionComponent, useEffect, useMemo, useRef, useState,
 } from 'react';
 
 import { useAppDispatch, useAppSelector } from '../hooks';
@@ -50,12 +51,15 @@ const urlLinks = [
   },
 ];
 
+const hiddenRoutes = ['login', 'register'];
+
 interface Props {
   children: React.ReactNode
 }
 
 const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const router = useRouter();
 
   const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
   const dispatch = useAppDispatch();
@@ -75,6 +79,12 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
       document.removeEventListener('click', handleClickOutside, true);
     };
   }, []);
+
+  const isIncluded = useMemo(() => (
+    hiddenRoutes.some((value) => router.pathname.includes(value))
+  ), [router.pathname]);
+
+  if (isIncluded) return children as any;
 
   const renderSideBar = () => (
     <AnimatePresence>
