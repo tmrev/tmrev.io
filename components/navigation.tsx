@@ -6,6 +6,8 @@ import React, {
   FunctionComponent, useEffect, useRef, useState,
 } from 'react';
 
+import { useAppDispatch, useAppSelector } from '../hooks';
+import { setOpenNavigation } from '../redux/slice/navigationSlice';
 import Button from './common/Button';
 import Typography from './common/typography';
 
@@ -53,8 +55,10 @@ interface Props {
 }
 
 const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
-  const [desktopOpen, setDesktopOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
+
+  const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
+  const dispatch = useAppDispatch();
 
   const ref = useRef<HTMLDivElement>(null);
 
@@ -130,7 +134,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           className={clsx(
             'fixed z-50 top-0 bottom-0 p-2 left-0 right-0 w-full',
             ' dark:text-white lg:h-screen  lg:relative transition-all duration-300',
-            desktopOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
+            isNavigationOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
           )}
           exit={{ y: -500 }}
           initial={{ y: -100 }}
@@ -150,17 +154,17 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           {/* Mobile Expand Button */}
           <Button
             className="hidden lg:flex mb-8 fixed"
-            title={desktopOpen ? 'See Less' : 'See More'}
+            title={isNavigationOpen ? 'See Less' : 'See More'}
             variant="icon"
-            onClick={() => setDesktopOpen(!desktopOpen)}
+            onClick={() => dispatch(setOpenNavigation(!isNavigationOpen))}
           >
             <span className="material-symbols-outlined -rotate-90">
-              {desktopOpen ? 'expand_less' : 'expand_more'}
+              {isNavigationOpen ? 'expand_less' : 'expand_more'}
             </span>
           </Button>
           <ul className={clsx(
             'hidden lg:block space-y-4 fixed',
-            desktopOpen ? 'top-36' : 'top-16',
+            isNavigationOpen ? 'top-36' : 'top-16',
           )}
           >
             {urlLinks.map((link) => (
@@ -172,7 +176,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
                     </span>
                     <Typography
                       className={clsx(
-                        desktopOpen ? 'opacity-100 block' : 'opacity-0 hidden',
+                        isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
                         'transition-all duration-300',
                       )}
                       variant="h5"
@@ -186,11 +190,11 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           </ul>
           <div className={clsx(
             'hidden lg:flex fixed items-center space-x-4 transition-all duration-300',
-            desktopOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
+            isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
           )}
           >
             <Image className="rounded-full dark:bg-white" height={45} src="https://avatars.dicebear.com/api/identicon/kegen.svg" width={45} />
-            {desktopOpen && <Typography variant="h6">Kegen Guyll</Typography>}
+            {isNavigationOpen && <Typography variant="h6">Kegen Guyll</Typography>}
           </div>
         </motion.nav>
       </AnimatePresence>

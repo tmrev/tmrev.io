@@ -56,11 +56,12 @@ export const tmrevApi = createApi({
       transformResponse: (response: User) => response,
     }),
   }),
-  // eslint-disable-next-line consistent-return
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
       return action.payload[reducerPath];
     }
+
+    return null;
   },
 });
 
