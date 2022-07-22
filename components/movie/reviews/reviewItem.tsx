@@ -7,8 +7,9 @@ import Skeleton from 'react-loading-skeleton';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
-import { TmrevReview } from '../../models/tmrev';
-import { extractNameFromEmail } from '../../utils/common';
+import { useAppSelector } from '../../../hooks';
+import { TmrevReview } from '../../../models/tmrev';
+import { extractNameFromEmail } from '../../../utils/common';
 
 interface Props {
   review: TmrevReview
@@ -22,12 +23,13 @@ interface User {
 
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
-const Reviews:FunctionComponent<Props> = ({ review }:Props) => {
+const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [data, setData] = useState<User>();
   const {
     userId, _id, notes, averagedAdvancedScore,
   } = review;
+  const { navigationOpen } = useAppSelector((state) => state.navigation);
 
   const fetchUser = async () => {
     try {
@@ -72,16 +74,22 @@ const Reviews:FunctionComponent<Props> = ({ review }:Props) => {
           src={`https://avatars.dicebear.com/api/identicon/${userId}.svg`}
         />
       </div>
-      <div className=" max-w-xs md:max-w-lg 2xl:max-w-5xl space-y-4 overflow-hidden">
-
+      <div className={`
+      max-w-xs md:max-w-sm 2xl:max-w-5xl
+      ${navigationOpen && '2xl:!max-w-3xl md:!max-w-xs'} 
+      space-y-4`}
+      >
         <p className="font-semibold max-w-[350px] min-w-[200px]">
           <span className="font-normal opacity-75">Reviewed by</span>
           {' '}
           {renderUserName()}
         </p>
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
-          {notes}
-        </ReactMarkdown>
+        <div className="max-h-60 overflow-auto">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>
+            {notes}
+          </ReactMarkdown>
+        </div>
+
         <p className="opacity-75">
           User Rating
           {' '}
@@ -92,4 +100,4 @@ const Reviews:FunctionComponent<Props> = ({ review }:Props) => {
   );
 };
 
-export default memo(Reviews);
+export default memo(ReviewItem);

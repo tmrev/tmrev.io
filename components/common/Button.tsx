@@ -25,7 +25,7 @@ const Button:FunctionComponent<Props> = ({
         );
       case 'icon':
         return clsx(
-          'p-2 rounded  flex item-center justify-center',
+          'p-2 rounded flex item-center justify-center',
           hoverEffect && 'hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark',
         );
       default:

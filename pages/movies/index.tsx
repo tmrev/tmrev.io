@@ -63,7 +63,6 @@ const Movies:FunctionComponent = () => {
               </div>
             </a>
           </Link>
-
         ))}
       </div>
 

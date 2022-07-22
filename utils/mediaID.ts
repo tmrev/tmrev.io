@@ -1,4 +1,4 @@
-function parseMediaId(id: string): number {
+function parseMediaId(id?: string): number {
   if (!id) return 0;
 
   return Number(id.split('-')[0]);

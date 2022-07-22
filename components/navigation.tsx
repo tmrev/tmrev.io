@@ -143,7 +143,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           animate={{ y: 0 }}
           className={clsx(
             'fixed z-50 top-0 bottom-0 p-2 left-0 right-0 w-full',
-            ' dark:text-white lg:h-screen  lg:relative transition-all duration-300',
+            'dark:text-white lg:h-screen  lg:relative transition-all duration-300',
             isNavigationOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
           )}
           exit={{ y: -500 }}
@@ -153,7 +153,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           {renderSideBar()}
           {/* Mobile Menu Button */}
           <Button
-            className="lg:hidden flex"
+            className="lg:hidden flex bg-black"
             variant="icon"
             onClick={() => setMobileOpen(true)}
           >

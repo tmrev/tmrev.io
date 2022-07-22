@@ -4,7 +4,7 @@ import { HYDRATE } from 'next-redux-wrapper';
 import {
   DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
 } from '../../models/tmdb';
-import { User, UserQuery } from '../../models/tmrev';
+import { MovieScore, User, UserQuery } from '../../models/tmrev';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -49,6 +49,12 @@ export const tmrevApi = createApi({
         };
       },
     }),
+    getTmrevAvgScore: builder.query<MovieScore, number>({
+      query: (data) => ({
+        url: `${tmrevAPI}/movie/score/${data}`,
+      }),
+      transformResponse: (response: MovieScore[]) => response[0],
+    }),
     getUser: builder.query<User, UserQuery>({
       query: (data) => ({
         url: `${tmrevAPI}/user/full/${data.uid}`,
@@ -70,6 +76,7 @@ export const {
   useGetDiscoverTvQuery,
   useGetMovieQuery,
   useGetUserQuery,
+  useGetTmrevAvgScoreQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

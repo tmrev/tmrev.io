@@ -17,7 +17,7 @@ interface Movie {
   poster_path: null;
   production_companies: ProductionCompany[];
   production_countries: ProductionCountry[];
-  release_date: Date;
+  release_date: string;
   revenue: number;
   runtime: number;
   spoken_languages: SpokenLanguage[];
@@ -151,7 +151,8 @@ interface SpokenLanguage {
 
 export type {
   AuthorDetails, Cast, Credits,
-  Genre, Movie, MovieQuery, OriginalLanguage,
+  Genre, IMDB,
+  Movie, MovieQuery, OriginalLanguage,
   ProductionCompany, ProductionCountry, ReleaseDate,
   ReleaseDates,
   Reviews, ReviewsResult,

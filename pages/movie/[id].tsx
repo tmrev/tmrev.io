@@ -2,17 +2,20 @@ import { skipToken } from '@reduxjs/toolkit/query';
 import clsx from 'clsx';
 import { NextPage } from 'next';
 import Image from 'next/image';
-import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
-import Typography from '../../components/common/typography';
+import CopyLink from '../../components/movie/copyLink';
 import Crew from '../../components/movie/crew';
-import Reviews from '../../components/movie/reviews';
+import MetaData from '../../components/movie/metaData';
+import MovieRevenue from '../../components/movie/movieRevenue';
+import MovieStats from '../../components/movie/movieStats';
+import MovieReviewList from '../../components/movie/reviews/reviewList';
 import { MovieQuery, ReleaseDate } from '../../models/tmdb';
-import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../redux/api';
+import {
+  getMovie, getRunningOperationPromises, useGetMovieQuery,
+} from '../../redux/api';
 import { wrapper } from '../../redux/store';
-import { formatRuntime, numberShortHand } from '../../utils/common';
 import formatDate from '../../utils/formatDate';
 import imageUrl from '../../utils/imageUrl';
 import { parseMediaId } from '../../utils/mediaID';
@@ -34,8 +37,10 @@ const MoviePage: NextPage<Props> = () => {
     return null;
   }, []);
 
-  // eslint-disable-next-line max-len
-  const { data } = useGetMovieQuery(payload || skipToken, { skip: router.isFallback });
+  const { data } = useGetMovieQuery(
+    payload || skipToken,
+    { skip: router.isFallback },
+  );
 
   const directors = useMemo(() => {
     if (!data) return [];
@@ -83,71 +88,43 @@ const MoviePage: NextPage<Props> = () => {
             <div className="hidden lg:flex lg:flex-col mr-8">
               <Image
                 priority
-                className="rounded"
+                className="rounded aspect-[2/3]"
                 height={500}
                 objectFit="cover"
                 src={imageUrl(data.poster_path || '', 400, true)}
                 width={350}
               />
-              <div className="max-w-[350px]">
-                <div className="flex items-center w-full mt-4">
-                  <h2 className=" text-xl font-semibold">Rating</h2>
-                  <span className="flex-grow" />
-                  <Link passHref href={`https://www.imdb.com/title/${data.imdb_id}/`}>
-                    <a className="flex items-center space-x-2">
-                      <Image height={32} objectFit="contain" src="/images/icons/imdb/imdb-icon.svg" width={32} />
-                      <p className="opacity-75">
-                        {data.imdb?.averageRating}
-                      </p>
-                      <p className="opacity-75">
-                        (
-                        {numberShortHand(Number(data.imdb?.numVotes)) }
-                        )
-                      </p>
-                    </a>
-                  </Link>
-                </div>
-                <div className="flex items-center w-full mt-4">
-                  <h2 className="text-xl font-semibold">Genres</h2>
-                  <span className="flex-grow" />
-                  <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
-                    {data.genres.map((value) => (
-                      <Link key={value.id} passHref href="#">
-                        <a className="hover:underline">
-                          <span>{value.name}</span>
-                        </a>
-                      </Link>
-                    ))}
-                  </p>
-                </div>
-                <div className="flex items-center w-full mt-4">
-                  <h2 className="text-xl font-semibold">Runtime</h2>
-                  <span className="flex-grow" />
-                  <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
-                    {formatRuntime(data.runtime)}
-                  </p>
-                </div>
-                <div className="flex items-center w-full mt-4">
-                  <h2 className="text-xl font-semibold">Age Rating</h2>
-                  <span className="flex-grow" />
-                  <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
-                    {ageRating.length && ageRating[0].certification}
-                  </p>
-                </div>
-              </div>
+              <MetaData
+                ageRating={ageRating.length ? ageRating[0].certification : ''}
+                genres={data.genres}
+                imdb={data.imdb}
+                runtime={data.runtime}
+                tmdb={
+                  {
+                    id: data.id,
+                    title: data.title,
+                    vote_average: data.vote_average,
+                    vote_count: data.vote_count,
+                  }
+                }
+              />
             </div>
             <div className="flex flex-col space-y-3">
-
               <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
-                <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
-                <Typography className="flex flex-wrap items-center" variant="h1">
-                  {data.title}
-                  <span className=" ml-2 text-2xl dark:opacity-75 opacity-50">
+                <span className="flex items-center space-x-2">
+                  <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
+                  <CopyLink link={`https://tmrev.io${router.asPath}`} />
+                </span>
+                <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
+                  <span className="mr-2">
+                    {data.title}
+                  </span>
+                  <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
                     (
                     {formatDate(data.release_date)}
                     )
                   </span>
-                </Typography>
+                </h1>
                 <p className="mt-8">{data.overview}</p>
               </div>
               <div className="divide-y mt-8 mb-40">
@@ -155,12 +132,27 @@ const MoviePage: NextPage<Props> = () => {
                 <Crew cast={producers} title="Producers" />
                 <Crew cast={writers} title="Writers" />
               </div>
-              <div className="!my-16" />
-              <div className="divide-y mt-40 space-y-8">
-                <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">POPULAR REVIEWS</h2>
-                {data.tmrevReviews.map((value) => (
-                  <Reviews key={value._id} review={value} />
-                ))}
+              <div className="!space-y-16 !mt-16 md:!mt-[7rem]">
+                <div className="block lg:hidden">
+                  <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">INFORMATION</h2>
+                  <MetaData
+                    ageRating={ageRating.length ? ageRating[0].certification : ''}
+                    genres={data.genres}
+                    imdb={data.imdb}
+                    runtime={data.runtime}
+                    tmdb={
+                      {
+                        id: data.id,
+                        title: data.title,
+                        vote_average: data.vote_average,
+                        vote_count: data.vote_count,
+                      }
+                    }
+                  />
+                </div>
+                <MovieReviewList reviews={data.tmrevReviews} />
+                <MovieStats id={id as string} />
+                <MovieRevenue dataSet="Weekend Box Office Performance" title={data.title} year={data.release_date.split('-')[0]} />
               </div>
             </div>
           </div>

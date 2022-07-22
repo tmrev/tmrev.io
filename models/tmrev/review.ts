@@ -35,6 +35,27 @@ interface UpdatedAt {
   nanoseconds: number
 }
 
+interface MovieScore {
+  _id: ID;
+  totalScore: number;
+  plot: number;
+  theme: number;
+  climax: number;
+  ending: number;
+  acting: number;
+  characters: number;
+  music: number;
+  cinematography: number;
+  visuals: number;
+  personalScore: number;
+}
+
+interface ID {
+  tmdbID: number;
+  title: string;
+}
+
 export type {
-  AdvancedScore, CreatedAt, TmrevReview, UpdatedAt,
+  AdvancedScore, CreatedAt, MovieScore,
+  TmrevReview, UpdatedAt,
 };
