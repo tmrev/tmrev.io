@@ -17,14 +17,22 @@ const Search:FunctionComponent = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
   const lastResult = useGetSearchMovieQuery(
     { language: 'en-US', page: currentPage - 1, query },
-    { skip: currentPage === 1 },
+    { skip: currentPage === 1 || !query },
   );
   const currentResult = useGetSearchMovieQuery(
     { language: 'en-US', page: currentPage, query },
+    { skip: !query },
   );
   const nextResult = useGetSearchMovieQuery(
     { language: 'en-US', page: currentPage + 1, query },
+    { skip: !query },
   );
+
+  useEffect(() => {
+    if (query) {
+      setCurrentPage(1);
+    }
+  }, [query]);
 
   const combined = useMemo(() => {
     const arr = [];
@@ -43,7 +51,7 @@ const Search:FunctionComponent = () => {
     }
   };
 
-  const debouncedScroll = useMemo(() => debounce(onScroll, 500), []);
+  const debouncedScroll = useMemo(() => debounce(onScroll, 1000), []);
 
   useEffect(() => {
     window.addEventListener('scroll', debouncedScroll);
