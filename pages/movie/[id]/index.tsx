@@ -5,20 +5,19 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
-import CopyLink from '../../components/movie/copyLink';
-import Crew from '../../components/movie/crew';
-import MetaData from '../../components/movie/metaData';
-import MovieRevenue from '../../components/movie/movieRevenue';
-import MovieStats from '../../components/movie/movieStats';
-import MovieReviewList from '../../components/movie/reviews/reviewList';
-import { MovieQuery, ReleaseDate } from '../../models/tmdb';
-import {
-  getMovie, getRunningOperationPromises, useGetMovieQuery,
-} from '../../redux/api';
-import { wrapper } from '../../redux/store';
-import formatDate from '../../utils/formatDate';
-import imageUrl from '../../utils/imageUrl';
-import { parseMediaId } from '../../utils/mediaID';
+import CopyLink from '../../../components/movie/copyLink';
+import CreateReviewButton from '../../../components/movie/createReviewButton';
+import Crew from '../../../components/movie/crew';
+import MetaData from '../../../components/movie/metaData';
+import MovieRevenue from '../../../components/movie/movieRevenue';
+import MovieStats from '../../../components/movie/movieStats';
+import MovieReviewList from '../../../components/movie/reviews/reviewList';
+import { MovieQuery, ReleaseDate } from '../../../models/tmdb';
+import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../../redux/api';
+import { wrapper } from '../../../redux/store';
+import formatDate from '../../../utils/formatDate';
+import imageUrl from '../../../utils/imageUrl';
+import { parseMediaId } from '../../../utils/mediaID';
 
 interface Props {}
 
@@ -94,6 +93,7 @@ const MoviePage: NextPage<Props> = () => {
                 src={imageUrl(data.poster_path || '', 400, true)}
                 width={350}
               />
+              <CreateReviewButton />
               <MetaData
                 ageRating={ageRating.length ? ageRating[0].certification : ''}
                 genres={data.genres}
@@ -126,6 +126,9 @@ const MoviePage: NextPage<Props> = () => {
                   </span>
                 </h1>
                 <p className="mt-8">{data.overview}</p>
+                <div className="w-full lg:hidden">
+                  <CreateReviewButton />
+                </div>
               </div>
               <div className="divide-y mt-8 mb-40">
                 <Crew cast={directors} title="Directors" />

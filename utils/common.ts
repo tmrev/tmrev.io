@@ -28,3 +28,8 @@ export const debounce = (fn: Function, ms = 300) => {
     timeoutId = setTimeout(() => fn.apply(this, args), ms);
   };
 };
+
+export function roundWithMaxPrecision(n:number, precision = 1) {
+  const precisionWithPow10 = 10 ** precision;
+  return Math.round(n * precisionWithPow10) / precisionWithPow10;
+}

@@ -3,6 +3,7 @@ import Skeleton from 'react-loading-skeleton';
 
 import { useAppSelector } from '../../hooks';
 import { useGetTmrevAvgScoreQuery } from '../../redux/api';
+import { roundWithMaxPrecision } from '../../utils/common';
 import { parseMediaId } from '../../utils/mediaID';
 import RadarChart from '../common/charts/radar';
 
@@ -64,8 +65,13 @@ const MovieStats:FunctionComponent<Props> = ({ id }) => {
 
   return (
     <div className={` ${navigationOpen ? 'xl:max-w-4xl' : 'max-w-full'}  space-y-8`}>
-      <div className="flex items-center relative">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">THE MOVIE REVIEW (RATING)</h2>
+      <div className="flex-col items-center relative">
+        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">
+          THE MOVIE REVIEW (
+          {roundWithMaxPrecision(data.totalScore, 1)}
+          )
+        </h2>
+
       </div>
       <RadarChart
         datasets={datasets}

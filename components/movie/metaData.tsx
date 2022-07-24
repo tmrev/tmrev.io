@@ -26,7 +26,6 @@ interface MetaItemProps {
 
 const MetaItem:FunctionComponent<MetaItemProps> = ({ children, title }:MetaItemProps) => (
   <div className="flex items-center w-full mt-4">
-
     <h2 className="text-xl font-semibold">{title}</h2>
     <span className="flex-grow" />
     {children}

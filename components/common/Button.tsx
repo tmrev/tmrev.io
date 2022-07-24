@@ -1,8 +1,10 @@
 import clsx from 'clsx';
 import React, { FunctionComponent, useMemo } from 'react';
 
+export type ButtonVariant = 'primary' | 'secondary' | 'icon' | 'text'
+
 interface Props extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'primary' | 'secondary' | 'icon' | 'text'
+  variant?: ButtonVariant
   hoverEffect?: boolean
 }
 
@@ -15,7 +17,7 @@ const Button:FunctionComponent<Props> = ({
     switch (variant) {
       case 'primary':
         return clsx(
-          'p-2 rounded bg-blue-500  text-white',
+          'p-2 rounded bg-blue-500  text-white disabled:opacity-25 ',
           hoverEffect && 'hover:bg-blue-600',
         );
       case 'secondary':
@@ -35,7 +37,7 @@ const Button:FunctionComponent<Props> = ({
 
   return (
     // eslint-disable-next-line react/button-has-type
-    <button {...other} className={`${renderClassName()} ${className} dark:text-white`} type={staticType}>
+    <button {...other} className={`${renderClassName()} ${className} dark:text-white disabled:cursor-not-allowed`} type={staticType}>
       {children}
     </button>
   );

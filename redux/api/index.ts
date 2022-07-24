@@ -4,7 +4,9 @@ import { HYDRATE } from 'next-redux-wrapper';
 import {
   DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
 } from '../../models/tmdb';
-import { MovieScore, User, UserQuery } from '../../models/tmrev';
+import {
+  CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore, User, UserQuery,
+} from '../../models/tmrev';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -15,6 +17,22 @@ export const tmrevApi = createApi({
     prepareHeaders: (headers) => headers,
   }),
   endpoints: (builder) => ({
+    addTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
+      invalidatesTags: ['TMREV_SCORE'],
+      query: (body) => {
+        const newBody = structuredClone(body);
+        delete newBody.token;
+
+        return {
+          body: newBody,
+          headers: {
+            authorization: body.token,
+          },
+          method: 'POST',
+          url: `${tmrevAPI}/movie`,
+        };
+      },
+    }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
       query: (data) => ({
         url: `/discover/movie?api_key=${apiKey}&page=${data.page}`,
@@ -50,6 +68,7 @@ export const tmrevApi = createApi({
       },
     }),
     getTmrevAvgScore: builder.query<MovieScore, number>({
+      providesTags: ['TMREV_SCORE'],
       query: (data) => ({
         url: `${tmrevAPI}/movie/score/${data}`,
       }),
@@ -69,9 +88,11 @@ export const tmrevApi = createApi({
 
     return null;
   },
+  tagTypes: ['MOVIE', 'TMREV_SCORE'],
 });
 
 export const {
+  useAddTmrevReviewMutation,
   useGetDiscoverMovieQuery,
   useGetDiscoverTvQuery,
   useGetMovieQuery,
