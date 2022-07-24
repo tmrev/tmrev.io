@@ -29,7 +29,7 @@ const CreateReviewButton:FunctionComponent = () => {
     }
   };
 
-  return <Button className="mt-4" variant="primary" onClick={handleMovieReview}>Review Movie</Button>;
+  return <Button className="mt-4 w-full" variant="primary" onClick={handleMovieReview}>Review Movie</Button>;
 };
 
 export default CreateReviewButton;

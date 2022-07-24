@@ -142,7 +142,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
         <motion.nav
           animate={{ y: 0 }}
           className={clsx(
-            'fixed z-50 top-0 bottom-0 p-2 left-0 right-0 w-full',
+            'relative',
             'dark:text-white lg:h-screen  lg:relative transition-all duration-300',
             isNavigationOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
           )}
@@ -152,15 +152,17 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
         >
           {renderSideBar()}
           {/* Mobile Menu Button */}
-          <Button
-            className="lg:hidden flex bg-black"
-            variant="icon"
-            onClick={() => setMobileOpen(true)}
-          >
-            <span className="material-symbols-outlined">
-              menu
-            </span>
-          </Button>
+          <div className="lg:hidden flex bg-black fixed z-40 w-full p-2">
+            <Button
+              className=""
+              variant="icon"
+              onClick={() => setMobileOpen(true)}
+            >
+              <span className="material-symbols-outlined">
+                menu
+              </span>
+            </Button>
+          </div>
           {/* Mobile Expand Button */}
           <Button
             className="hidden lg:flex mb-8 fixed"
