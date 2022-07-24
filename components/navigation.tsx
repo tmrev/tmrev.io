@@ -15,6 +15,12 @@ import Profile from './navigation/profile';
 const urlLinks = [
   {
     auth: false,
+    icon: 'search',
+    title: 'Search',
+    url: '/search',
+  },
+  {
+    auth: false,
     icon: 'movie',
     title: 'Movies',
     url: '/movies',

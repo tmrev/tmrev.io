@@ -2,11 +2,15 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
 import {
-  DiscoverMovie, DiscoverMovieQuery, DiscoverTv, DiscoverTvQuery, Movie, MovieQuery,
+  DiscoverMovie, DiscoverMovieQuery,
+  DiscoverTv, DiscoverTvQuery, Movie,
+  MovieQuery, SearchMovieQuery,
+  SearchMovieResponse,
 } from '../../models/tmdb';
 import {
   CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore, User, UserQuery,
 } from '../../models/tmrev';
+import { generateUrl } from '../../utils/common';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -67,6 +71,11 @@ export const tmrevApi = createApi({
         };
       },
     }),
+    getSearchMovie: builder.query<SearchMovieResponse, SearchMovieQuery>({
+      query: (data) => ({
+        url: `${generateUrl('https://api.themoviedb.org/3/search/movie', data)}&api_key=${apiKey}`,
+      }),
+    }),
     getTmrevAvgScore: builder.query<MovieScore, number>({
       providesTags: ['TMREV_SCORE'],
       query: (data) => ({
@@ -98,6 +107,7 @@ export const {
   useGetMovieQuery,
   useGetUserQuery,
   useGetTmrevAvgScoreQuery,
+  useGetSearchMovieQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

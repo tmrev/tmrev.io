@@ -33,3 +33,13 @@ export function roundWithMaxPrecision(n:number, precision = 1) {
   const precisionWithPow10 = 10 ** precision;
   return Math.round(n * precisionWithPow10) / precisionWithPow10;
 }
+
+export const generateUrl = (url: string, params: any) => {
+  const myUrlWithParams = new URL(url);
+
+  Object.keys(params).forEach((value) => {
+    myUrlWithParams.searchParams.append(value, params[value]);
+  });
+
+  return myUrlWithParams.href;
+};

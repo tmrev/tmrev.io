@@ -1,5 +1,5 @@
-import { DiscoverMovie, DiscoverMovieQuery, DiscoverMovieResult } from './discoverMovie';
-import { DiscoverTv, DiscoverTvQuery } from './discoverTv';
+import type { DiscoverMovie, DiscoverMovieQuery, DiscoverMovieResult } from './discoverMovie';
+import type { DiscoverTv, DiscoverTvQuery } from './discoverTv';
 import type {
   Cast, Credits,
   Genre, IMDB,
@@ -7,6 +7,11 @@ import type {
   ProductionCompany, ProductionCountry, ReleaseDate, ReleaseDates,
   SpokenLanguage,
 } from './movie';
+import type {
+  SearchMovie,
+  SearchMovieQuery,
+  SearchMovieResponse,
+} from './searchMovie';
 
 export type {
   Cast, Credits,
@@ -16,5 +21,7 @@ export type {
   Movie,
   MovieQuery,
   ProductionCompany, ProductionCountry, ReleaseDate, ReleaseDates,
+  SearchMovie, SearchMovieQuery,
+  SearchMovieResponse,
   SpokenLanguage,
 };
