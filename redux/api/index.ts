@@ -50,6 +50,7 @@ export const tmrevApi = createApi({
       transformResponse: (response: DiscoverTv) => response,
     }),
     getMovie: builder.query<Movie, MovieQuery>({
+      providesTags: ['MOVIE'],
       query: (data) => ({
         url: `/movie/${data.movie_id}?api_key=${apiKey}&append_to_response=credits,release_dates,reviews`,
       }),
@@ -66,7 +67,7 @@ export const tmrevApi = createApi({
 
         return {
           ...response,
-          imdb: movieReviews[0],
+          imdb: movieReviews[0] || [],
           tmrevReviews: movieReviews[1],
         };
       },
