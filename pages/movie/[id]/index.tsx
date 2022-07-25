@@ -79,7 +79,7 @@ const MoviePage: NextPage<Props> = () => {
       </div>
       <div className="px-0 lg:px-8 mt-0 lg:-mt-16 z-30">
         <div className={clsx(
-          'dark:bg-black bg-white p-8 flex',
+          'dark:bg-black bg-white p-0 md:p-8 flex',
           'lg:rounded',
         )}
         >
