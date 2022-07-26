@@ -58,3 +58,17 @@ body {
   line-height: 22px;
   font-weight: 400;
 }
+
+@layer components {
+  ::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 12px;
+  background-color: theme('colors.black');
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background-color: theme('colors.tmrev.gray.dark');
+  -webkit-box-shadow: 0 0 1px rgba(8, 8, 8, 0.5);
+}
+}
+
