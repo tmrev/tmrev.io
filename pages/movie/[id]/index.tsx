@@ -131,7 +131,7 @@ const MoviePage: NextPage<Props> = () => {
                     <CreateReviewButton />
                   </div>
                 </div>
-                <div className="divide-y mt-8 mb-40">
+                <div className="divide-y mt-8 mb-40 md:flex flex-col">
                   <Crew cast={directors} title="Directors" />
                   <Crew cast={producers} title="Producers" />
                   <Crew cast={writers} title="Writers" />

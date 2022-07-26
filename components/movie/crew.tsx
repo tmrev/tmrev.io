@@ -12,13 +12,15 @@ const Crew:FunctionComponent<Props> = ({ title, cast }: Props) => {
   if (!cast.length) return null;
 
   return (
-    <div className="flex items-center space-x-3 py-2">
-      <p>{`${title}: `}</p>
-      {cast.map((castMember) => (
-        <Link key={castMember.id} passHref href="/">
-          <a className="text-white hover:underline">{castMember.original_name}</a>
-        </Link>
-      ))}
+    <div className="flex flex-col md:flex-row items-start md:items-center md:space-x-3 py-2 ml-3">
+      <span className="w-max">{`${title}: `}</span>
+      <div className="flex flex-col md:flex-row">
+        {cast.map((castMember) => (
+          <Link key={castMember.id} passHref href="/">
+            <a className="text-white hover:underline mr-3">{castMember.original_name}</a>
+          </Link>
+        ))}
+      </div>
     </div>
   );
 };

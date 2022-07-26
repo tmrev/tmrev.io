@@ -72,6 +72,12 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
 
   const ref = useRef<HTMLDivElement>(null);
 
+  useEffect(() => {
+    if (mobileOpen) {
+      setMobileOpen(false);
+    }
+  }, [router]);
+
   const handleClickOutside = (e: MouseEvent) => {
     if (ref.current && !ref.current.contains(e.target as any)) {
       setMobileOpen(false);

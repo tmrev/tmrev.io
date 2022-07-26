@@ -1,4 +1,5 @@
 import { yupResolver } from '@hookform/resolvers/yup';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useState } from 'react';
 import { useForm } from 'react-hook-form';
@@ -6,10 +7,14 @@ import * as yup from 'yup';
 
 import { useAppDispatch } from '../../hooks';
 import { useAuth } from '../../provider/authUserContext';
-import { setClearModal } from '../../redux/slice/modalSlice';
+import {
+  Content,
+  setClearModal, setModalContent, setOpenModal,
+} from '../../redux/slice/modalSlice';
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
 import Input from '../common/Input';
+import RegisterPanel from '../register';
 
 interface Props {
   isModal: boolean
@@ -47,6 +52,19 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
     }
   };
 
+  const openRegisterModal = () => {
+    const content:Content = {
+      children: <RegisterPanel isModal redirectPath={`${router.asPath}/review`} />,
+      closeFunc: () => dispatch(setOpenModal(false)),
+      description: 'enorder to review a movie on trmev you need to login',
+      outsideClick: true,
+      title: 'Please Login to review',
+    };
+
+    dispatch(setOpenModal(true));
+    dispatch(setModalContent(content));
+  };
+
   const onSubmit = async (data: typeof defaultValues) => {
     try {
       await signInWithEmailAndPassword(data.email, data.password);
@@ -82,6 +100,18 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
         {firebaseError && (
           <p className="text-red-500 mt-1">{firebaseError}</p>
         )}
+        {!isModal ? (
+          <Link passHref href="/register">
+            <a className="w-full text-center text-blue-400">
+              <p>Need an account?</p>
+            </a>
+          </Link>
+        ) : (
+          <Button className="w-full text-center hover:no-underline " onClick={openRegisterModal}>
+            <p className="text-blue-400">Need an account?</p>
+          </Button>
+        )}
+
       </form>
     </div>
   );

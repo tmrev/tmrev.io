@@ -1,6 +1,7 @@
 import { yupResolver } from '@hookform/resolvers/yup';
 import axios from 'axios';
 import { User } from 'firebase/auth';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useState } from 'react';
 import { useForm } from 'react-hook-form';
@@ -9,11 +10,14 @@ import * as yup from 'yup';
 import { useAppDispatch } from '../../hooks';
 import { useAuth } from '../../provider/authUserContext';
 import { tmrevAPI } from '../../redux/api';
-import { setClearModal } from '../../redux/slice/modalSlice';
+import {
+  Content, setClearModal, setModalContent, setOpenModal,
+} from '../../redux/slice/modalSlice';
 import { extractNameFromDisplayName } from '../../utils/common';
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
 import Input from '../common/Input';
+import LoginPanel from '../login';
 
 interface Props {
   isModal: boolean
@@ -69,6 +73,19 @@ const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Prop
         Authorization: token,
       },
     });
+  };
+
+  const openLoginModal = () => {
+    const content:Content = {
+      children: <LoginPanel isModal redirectPath={`${router.asPath}/review`} />,
+      closeFunc: () => dispatch(setOpenModal(false)),
+      description: 'enorder to review a movie on trmev you need to login',
+      outsideClick: true,
+      title: 'Please Login to review',
+    };
+
+    dispatch(setOpenModal(true));
+    dispatch(setModalContent(content));
   };
 
   const onSubmit = async (data: typeof defaultValues) => {
@@ -129,6 +146,17 @@ const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Prop
         <Button type="submit" variant="primary">Register</Button>
         {firebaseError && (
           <p className="text-red-500 mt-1">{firebaseError}</p>
+        )}
+        {!isModal ? (
+          <Link passHref href="/login">
+            <a className="w-full text-center text-blue-400">
+              <p>All ready have an account?</p>
+            </a>
+          </Link>
+        ) : (
+          <Button className="w-full text-center hover:no-underline " onClick={openLoginModal}>
+            <p className="text-blue-400">All ready have an account?</p>
+          </Button>
         )}
       </form>
     </div>
