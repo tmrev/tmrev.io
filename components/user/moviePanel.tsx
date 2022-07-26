@@ -5,6 +5,7 @@ import React, { FunctionComponent } from 'react';
 import { TmrevReview } from '../../models/tmrev';
 import { useGetMovieQuery } from '../../redux/api';
 import imageUrl from '../../utils/imageUrl';
+import { createMediaUrl } from '../../utils/mediaID';
 
 interface Props {
   movie: TmrevReview
@@ -16,7 +17,7 @@ const MoviePanel: FunctionComponent<Props> = ({ movie }:Props) => {
   if (!data) return null;
 
   return (
-    <Link passHref href={`/movie/${movie.tmdbID}`}>
+    <Link passHref href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}>
       <a>
         <div>
           <div className="aspect-[2/3] h-[200px] w-[150px] md:h-[300px] md:w-[250px] relative rounded">
