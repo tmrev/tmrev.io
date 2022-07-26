@@ -49,8 +49,8 @@ const Search:FunctionComponent = () => {
 
     return (
       <>
-        {userListSearchData.map((value: any) => (
-          <Link key={value._id} passHref href={`/user/${value._id}`}>
+        {userListSearchData.map((value) => (
+          <Link key={value._id} passHref href={`/user/${value.uuid}`}>
             <a className={clsx(
               'flex-col text-center ',
               'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
@@ -64,7 +64,7 @@ const Search:FunctionComponent = () => {
                 <Image
                   layout="fill"
                   objectFit="contain"
-                  src={`https://avatars.dicebear.com/api/identicon/${value._id}.svg`}
+                  src={`https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
                 />
               </div>
               <h1 className="font-semibold text-xl">

@@ -56,3 +56,15 @@ export const generateUrl = (url: string, params: any) => {
 
   return myUrlWithParams.href;
 };
+
+export const renderImageSrc = (user: any) => {
+  if (user?.photoURL) return user.photoURL;
+
+  if (user?.photoUrl) return user.photoUrl;
+
+  if (user?.displayName) return `https://avatars.dicebear.com/api/identicon/${user.displayName}.svg`;
+
+  if (user?.email) return `https://avatars.dicebear.com/api/identicon/${extractNameFromEmail(user.email)}.svg`;
+
+  return 'https://avatars.dicebear.com/api/identicon/foobar.svg';
+};
