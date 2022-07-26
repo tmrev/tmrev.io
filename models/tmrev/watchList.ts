@@ -16,4 +16,8 @@ interface WatchList {
   tags: string[]
 }
 
-export type { WatchList };
+interface WatchListSearchQuery {
+  q: string
+}
+
+export type { WatchList, WatchListSearchQuery };

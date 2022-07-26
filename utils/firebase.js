@@ -2,7 +2,13 @@ import errorCodes from '../constants/firebaseErrors.json';
 
 // eslint-disable-next-line import/prefer-default-export
 export function handleError(key) {
-  const index = key.split('(')[1].split(')')[0];
+  try {
+    const index = key.split('(')[1].split(')')[0];
 
-  return errorCodes[index];
+    return errorCodes[index];
+  } catch (err) {
+    // eslint-disable-next-line no-console
+    console.error(err);
+    return '';
+  }
 }

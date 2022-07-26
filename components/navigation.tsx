@@ -143,7 +143,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
   );
 
   return (
-    <div className="flex bg-white dark:bg-black">
+    <div className="flex bg-black overflow-hidden">
       <AnimatePresence>
         <motion.nav
           animate={{ y: 0 }}
@@ -209,7 +209,9 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           <Profile />
         </motion.nav>
       </AnimatePresence>
-      {children}
+      <div className="w-full overflow-y-auto">
+        {children}
+      </div>
     </div>
 
   );

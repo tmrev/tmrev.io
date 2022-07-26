@@ -3,7 +3,9 @@ import dayjs from 'dayjs';
 import { NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import React, { useCallback, useEffect, useMemo } from 'react';
+import React, {
+  useCallback, useEffect, useMemo, useRef,
+} from 'react';
 
 import Button from '../../../components/common/Button';
 import CopyLink from '../../../components/movie/copyLink';
@@ -22,6 +24,7 @@ const ReviewPage: NextPage = () => {
   const router = useRouter();
   const dispatch = useAppDispatch();
   const { user } = useAuth();
+  const ref = useRef<HTMLDivElement>(null);
 
   const { id } = router.query;
 
@@ -36,6 +39,15 @@ const ReviewPage: NextPage = () => {
       movie_id: 0,
     };
   }, [id]);
+
+  useEffect(() => {
+    if (ref.current) {
+      ref.current.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }
+  }, [ref]);
 
   const { data } = useGetMovieQuery(payload, { skip: !payload });
   const [addReview] = useAddTmrevReviewMutation();
@@ -82,7 +94,7 @@ const ReviewPage: NextPage = () => {
           seconds: dayjs().unix(),
         },
         notes: currentReview.notes,
-        public: false,
+        public: true,
         release_date: dayjs(data.release_date).format('YYYY-MM-DD'),
         reviewedDate: currentReview.reviewedDate || dayjs().format('YYYY-MM-DD'),
         title: data.title,
@@ -118,7 +130,7 @@ const ReviewPage: NextPage = () => {
       </div>
       <div className="px-0 lg:px-8 mt-0 lg:-mt-16 z-30">
         <div className={clsx(
-          'dark:bg-black bg-white p-8 flex',
+          'dark:bg-black bg-white p-0 md:p-8 flex',
           'lg:rounded',
         )}
         >
@@ -152,7 +164,7 @@ const ReviewPage: NextPage = () => {
                 </h1>
                 <p className="mt-8">{data.overview}</p>
               </div>
-              <div className="!space-y-16 !mt-16 md:!mt-[7rem]">
+              <div ref={ref} className="!space-y-16 !mt-16 md:!mt-[7rem]" id="review">
                 <UserRating />
                 <div className="lg:hidden mt-8">
                   <Button

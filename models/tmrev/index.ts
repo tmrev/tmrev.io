@@ -5,7 +5,7 @@ import type {
 } from './review';
 import type { TheNumberData, TheNumbers, Title } from './theNumbers';
 import type { User, UserQuery } from './user';
-import type { WatchList } from './watchList';
+import type { WatchList, WatchListSearchQuery } from './watchList';
 
 type Timestamp = {
   seconds: number
@@ -20,5 +20,5 @@ export type {
   Title,
   TmrevReview, UpdatedAt, User,
   UserQuery,
-  WatchList,
+  WatchList, WatchListSearchQuery,
 };

@@ -20,6 +20,19 @@ export function extractNameFromEmail(email: string | null):string {
   return email.split('@')[0];
 }
 
+export function extractNameFromDisplayName(displayName: string | null) {
+  if (!displayName) return null;
+
+  const spreadName = displayName.split(' ');
+
+  if (spreadName.length === 1) return { firstName: spreadName[0] };
+
+  return {
+    firstName: spreadName[0],
+    lastName: spreadName[1],
+  };
+}
+
 export const debounce = (fn: Function, ms = 300) => {
   let timeoutId: ReturnType<typeof setTimeout>;
   // eslint-disable-next-line func-names

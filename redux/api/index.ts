@@ -8,12 +8,13 @@ import {
   SearchMovieResponse,
 } from '../../models/tmdb';
 import {
-  CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore, User, UserQuery,
+  CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore,
+  User, UserQuery, WatchList, WatchListSearchQuery,
 } from '../../models/tmrev';
 import { generateUrl } from '../../utils/common';
 
 const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
-const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
+export const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
 export const tmrevApi = createApi({
   baseQuery: fetchBaseQuery({
@@ -90,6 +91,16 @@ export const tmrevApi = createApi({
       }),
       transformResponse: (response: User) => response,
     }),
+    getWatchList: builder.query<WatchList[], WatchListSearchQuery>({
+      query: (data) => ({
+        url: `${tmrevAPI}/watch-list/search?q=${data.q}`,
+      }),
+    }),
+    searchUser: builder.query<User[], string>({
+      query: (data) => ({
+        url: `${tmrevAPI}/user/search?q=${data}`,
+      }),
+    }),
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -109,6 +120,8 @@ export const {
   useGetUserQuery,
   useGetTmrevAvgScoreQuery,
   useGetSearchMovieQuery,
+  useGetWatchListQuery,
+  useSearchUserQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

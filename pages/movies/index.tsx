@@ -1,5 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 /* eslint-disable @typescript-eslint/no-shadow */
+import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
 import React, {
@@ -49,12 +50,16 @@ const Movies:FunctionComponent = () => {
   if (!combined) return null;
 
   return (
-    <div className="p-4">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+    <div className="p-0 w-full mt-16 lg:mt-0">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
         {combined.map((value) => (
           <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-            <a key={value.id}>
-              <div className="bg-white relative aspect-[2/3] w-[400px] h-[600px] rounded">
+            <a key={value.id} className="flex justify-center items-center">
+              <div className={clsx(
+                'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                'lg:w-[300px] lg:h-[500px]',
+              )}
+              >
                 <Image
                   layout="fill"
                   objectFit="cover"
@@ -65,7 +70,6 @@ const Movies:FunctionComponent = () => {
           </Link>
         ))}
       </div>
-
     </div>
   );
 };
