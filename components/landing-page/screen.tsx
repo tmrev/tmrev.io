@@ -42,7 +42,7 @@ const Screen:FunctionComponent<Props> = ({ movie }: Props) => {
         <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
         {renderTitle(movie.title, createMediaUrl(movie.id, movie.title))}
       </div>
-      <div className="absolute flex flex-col bottom-8 right-8">
+      <div className="absolute flex flex-col bottom-6 right-[5rem]">
         <Image height={32} src="/images/icons/imdb/imdb-icon.svg" width={64} />
         <Typography className="text-white" variant="h1">{data && data.imdb?.averageRating}</Typography>
       </div>

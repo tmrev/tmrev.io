@@ -89,11 +89,6 @@ const ReviewPage: NextPage = () => {
 
       const newPayload: CreateTmrevReviewQuery = {
         advancedScore: currentReview.advancedScore,
-        averagedAdvancedScore,
-        createdAt: {
-          nanoseconds: dayjs().valueOf(),
-          seconds: dayjs().unix(),
-        },
         notes: currentReview.notes,
         public: moviePublic,
         release_date: dayjs(data.release_date).format('YYYY-MM-DD'),
@@ -101,11 +96,6 @@ const ReviewPage: NextPage = () => {
         title: data.title,
         tmdbID: data.id,
         token,
-        updatedAt: {
-          nanoseconds: dayjs().valueOf(),
-          seconds: dayjs().unix(),
-        },
-        userId: user.uid,
       };
 
       await addReview(newPayload);

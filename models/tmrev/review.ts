@@ -1,5 +1,3 @@
-import { Timestamp } from '.';
-
 interface TmrevReview {
   _id: string,
   advancedScore: AdvancedScore | null,
@@ -15,18 +13,13 @@ interface TmrevReview {
 }
 
 interface CreateTmrevReviewQuery {
-  advancedScore: AdvancedScore;
-  averagedAdvancedScore: number;
-  notes: string
-  createdAt: Timestamp
-  public: boolean
-  // YYYY-MM-DD
-  release_date: string
+  title: string,
+  advancedScore: AdvancedScore,
+  tmdbID: number
   reviewedDate: string
-  title: string
-  tmdbID: number;
-  updatedAt: Timestamp;
-  userId: string
+  notes: string
+  public: boolean
+  release_date: string
   token?: string
 }
 interface CreateTmrevReviewResponse {
