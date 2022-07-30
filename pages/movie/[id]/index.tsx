@@ -155,7 +155,7 @@ const MoviePage: NextPage<Props> = () => {
                     />
                   </div>
                   <MovieReviewList reviews={data.tmrevReviews} />
-                  <MovieStats id={id as string} />
+                  <MovieStats id={id as string} reviews={data.tmrevReviews} />
                   <MovieRevenue dataSet="Weekend Box Office Performance" title={data.title} year={data.release_date.split('-')[0]} />
                 </div>
               </div>

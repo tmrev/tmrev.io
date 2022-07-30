@@ -2,21 +2,67 @@ import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
 import { useAppSelector } from '../../hooks';
+import { TmrevReview } from '../../models/tmrev';
 import { useGetTmrevAvgScoreQuery } from '../../redux/api';
 import { roundWithMaxPrecision } from '../../utils/common';
+import { getMedian, getStandardDeviation } from '../../utils/math';
 import { parseMediaId } from '../../utils/mediaID';
 import RadarChart from '../common/charts/radar';
 
 interface Props {
   id?: string
+  reviews: TmrevReview[]
 }
 
-const MovieStats:FunctionComponent<Props> = ({ id }) => {
+const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
   const { navigationOpen } = useAppSelector((state) => state.navigation);
   const { data, isLoading, isFetching } = useGetTmrevAvgScoreQuery(
     parseMediaId(id),
     { skip: !parseMediaId(id) },
   );
+
+  const formatReviews = useMemo(() => {
+    if (!reviews) return null;
+
+    const plot: number[] = [];
+    const acting: number[] = [];
+    const theme: number[] = [];
+    const climax: number[] = [];
+    const ending: number[] = [];
+    const chars: number[] = [];
+    const music: number[] = [];
+    const cinema: number[] = [];
+    const visuals: number[] = [];
+    const personalScore: number[] = [];
+
+    reviews.forEach((value) => {
+      if (!value.advancedScore) return;
+
+      plot.push(value.advancedScore.plot);
+      acting.push(value.advancedScore.acting);
+      theme.push(value.advancedScore.theme);
+      climax.push(value.advancedScore.climax);
+      ending.push(value.advancedScore.ending);
+      chars.push(value.advancedScore.characters);
+      music.push(value.advancedScore.music);
+      cinema.push(value.advancedScore.cinematography);
+      visuals.push(value.advancedScore.visuals);
+      personalScore.push(value.advancedScore.personalScore);
+    });
+
+    return {
+      acting,
+      chars,
+      cinema,
+      climax,
+      ending,
+      music,
+      personalScore,
+      plot,
+      theme,
+      visuals,
+    };
+  }, [reviews]);
 
   const labels: string[] = useMemo(() => {
     if (!data) return [];
@@ -30,25 +76,47 @@ const MovieStats:FunctionComponent<Props> = ({ id }) => {
   }, [data]);
 
   const datasets: any[] = useMemo(() => {
-    if (!data) return [];
+    if (!data || !reviews || !formatReviews) return [];
 
     return [
       {
-        backgroundColor: 'rgba(255, 192, 0, 0.2)',
+        backgroundColor: 'rgba(255, 192, 0, 1)',
         borderColor: 'rgba(255, 192, 0, 1)',
         data: [
-          data.plot,
-          data.theme, data.climax,
-          data.ending,
-          data.acting, data.characters,
-          data.music,
-          data.cinematography, data.visuals, data.personalScore,
+          getMedian(formatReviews.plot),
+          getMedian(formatReviews.theme),
+          getMedian(formatReviews.climax),
+          getMedian(formatReviews.ending),
+          getMedian(formatReviews.acting),
+          getMedian(formatReviews.chars),
+          getMedian(formatReviews.music),
+          getMedian(formatReviews.cinema),
+          getMedian(formatReviews.visuals),
+          getMedian(formatReviews.personalScore),
         ],
         fill: false,
         label: 'Average Scores',
       },
+      {
+        backgroundColor: '#4E26E2',
+        borderColor: '#4E26E2',
+        data: [
+          getStandardDeviation(formatReviews.plot),
+          getStandardDeviation(formatReviews.theme),
+          getStandardDeviation(formatReviews.climax),
+          getStandardDeviation(formatReviews.ending),
+          getStandardDeviation(formatReviews.acting),
+          getStandardDeviation(formatReviews.chars),
+          getStandardDeviation(formatReviews.music),
+          getStandardDeviation(formatReviews.cinema),
+          getStandardDeviation(formatReviews.visuals),
+          getStandardDeviation(formatReviews.personalScore),
+        ],
+        fill: false,
+        label: 'Standard Deviation',
+      },
     ];
-  }, [data]);
+  }, [data, formatReviews]);
 
   if (isLoading || !data) {
     if (!isFetching) {
@@ -80,7 +148,7 @@ const MovieStats:FunctionComponent<Props> = ({ id }) => {
           {
             plugins: {
               legend: {
-                display: false,
+                display: true,
                 labels: {
                   color: 'white',
                 },
@@ -99,6 +167,7 @@ const MovieStats:FunctionComponent<Props> = ({ id }) => {
                   color: '#3B3B3B',
                 },
                 grid: {
+                  circular: true,
                   color: '#3B3B3B',
                 },
                 max: 10,
@@ -110,6 +179,7 @@ const MovieStats:FunctionComponent<Props> = ({ id }) => {
                 ticks: {
                   backdropColor: '#3B3B3B',
                   color: 'white',
+                  display: false,
                 },
               },
             },
