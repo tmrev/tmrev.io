@@ -1,5 +1,5 @@
 import React, {
-  FunctionComponent, memo, useEffect, useState,
+  FunctionComponent, memo, useEffect, useMemo, useState,
 } from 'react';
 
 import RateItem from './rateItem';
@@ -11,8 +11,6 @@ interface Props {
   defaultValue?: number | null;
 }
 
-const array = [1, 3, 5, 7, 9];
-
 const RateList: FunctionComponent<Props> = ({
   setValue,
   label,
@@ -20,6 +18,11 @@ const RateList: FunctionComponent<Props> = ({
 }: Props) => {
   const [selectedValue, setSelectedValue] = useState<number | null>(
     defaultValue || null,
+  );
+
+  const array = useMemo(
+    () => Array.from({ length: 10 }, (v, k) => k + 1),
+    [],
   );
 
   useEffect(() => {
