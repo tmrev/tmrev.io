@@ -63,25 +63,31 @@ const MovieRevenue:FunctionComponent<Props> = ({ title, year, dataSet }) => {
   }, [data, dataIndex]);
 
   const datasets: Datasets[] = useMemo(() => {
-    if (!data.length) return [];
+    try {
+      if (!data.length) return [];
 
-    return [
-      {
-        backgroundColor: '#4E26E2',
-        data: data[dataIndex].data.map((value) => Number(value.totalGross.replace(/[^0-9.-]+/g, ''))),
-        label: 'Total Gross',
-      },
-      {
-        backgroundColor: '#FD4C55',
-        data: data[dataIndex].data.map((value) => Number(value.gross.replace(/[^0-9.-]+/g, ''))),
-        label: 'Gross',
-      },
-      {
-        backgroundColor: '#FFC000',
-        data: data[dataIndex].data.map((value) => Number(value.perTheater.replace(/[^0-9.-]+/g, ''))),
-        label: 'Per Theater',
-      },
-    ];
+      return [
+        {
+          backgroundColor: '#4E26E2',
+          data: data[dataIndex].data.map((value) => Number(value.totalGross.replace(/[^0-9.-]+/g, ''))),
+          label: 'Total Gross',
+        },
+        {
+          backgroundColor: '#FD4C55',
+          data: data[dataIndex].data.map((value) => Number(value.gross.replace(/[^0-9.-]+/g, ''))),
+          label: 'Gross',
+        },
+        {
+          backgroundColor: '#FFC000',
+          data: data[dataIndex].data.map((value) => Number(value.perTheater.replace(/[^0-9.-]+/g, ''))),
+          label: 'Per Theater',
+        },
+      ];
+    } catch (error) {
+      // eslint-disable-next-line no-console
+      console.error(error);
+      return [];
+    }
   }, [data, dataIndex]);
 
   if (isLoading || !data.length) {
@@ -133,7 +139,6 @@ const MovieRevenue:FunctionComponent<Props> = ({ title, year, dataSet }) => {
 
         </div>
       </div>
-
       <BarChart
         datasets={datasets}
         labels={labels}
