@@ -3,6 +3,7 @@ import Skeleton from 'react-loading-skeleton';
 
 import { useAppSelector } from '../../hooks';
 import { TmrevReview } from '../../models/tmrev';
+import { useAuth } from '../../provider/authUserContext';
 import { useGetTmrevAvgScoreQuery } from '../../redux/api';
 import { roundWithMaxPrecision } from '../../utils/common';
 import { getMedian, getStandardDeviation } from '../../utils/math';
@@ -15,11 +16,24 @@ interface Props {
 }
 
 const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
+  const { user } = useAuth();
   const { navigationOpen } = useAppSelector((state) => state.navigation);
   const { data, isLoading, isFetching } = useGetTmrevAvgScoreQuery(
     parseMediaId(id),
     { skip: !parseMediaId(id) },
   );
+
+  const userReview = useMemo(() => {
+    if (!reviews || !user) return [];
+
+    const findReview = reviews.filter((value) => value.userId === user.uid);
+
+    if (findReview.length) {
+      return findReview;
+    }
+
+    return [];
+  }, [user, reviews]);
 
   const formatReviews = useMemo(() => {
     if (!reviews) return null;
@@ -78,7 +92,7 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
   const datasets: any[] = useMemo(() => {
     if (!data || !reviews || !formatReviews) return [];
 
-    return [
+    const chartData = [
       {
         backgroundColor: 'rgba(255, 192, 0, 1)',
         borderColor: 'rgba(255, 192, 0, 1)',
@@ -116,7 +130,32 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
         label: 'Standard Deviation',
       },
     ];
-  }, [data, formatReviews]);
+
+    if (userReview.length) {
+      chartData.push(
+        {
+          backgroundColor: '#FD4C55',
+          borderColor: '#FD4C55',
+          data: [
+            userReview[0].advancedScore?.plot,
+            userReview[0].advancedScore?.theme,
+            userReview[0].advancedScore?.climax,
+            userReview[0].advancedScore?.ending,
+            userReview[0].advancedScore?.acting,
+            userReview[0].advancedScore?.characters,
+            userReview[0].advancedScore?.music,
+            userReview[0].advancedScore?.cinematography,
+            userReview[0].advancedScore?.visuals,
+            userReview[0].advancedScore?.personalScore,
+          ],
+          fill: false,
+          label: 'Personal Score',
+        },
+      );
+    }
+
+    return chartData;
+  }, [data, formatReviews, userReview]);
 
   if (isLoading || !data) {
     if (!isFetching) {

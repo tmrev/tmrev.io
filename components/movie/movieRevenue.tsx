@@ -13,9 +13,12 @@ interface Props {
   title: string,
   year: string
   dataSet: Title
+  id: number
 }
 
-const MovieRevenue:FunctionComponent<Props> = ({ title, year, dataSet }) => {
+const MovieRevenue:FunctionComponent<Props> = ({
+  title, year, dataSet, id,
+}) => {
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [isFetching, setIsFetching] = useState<boolean>(false);
   const [data, setData] = useState<TheNumbers[]>([]);
@@ -25,7 +28,7 @@ const MovieRevenue:FunctionComponent<Props> = ({ title, year, dataSet }) => {
   const fetchTheNumbers = async () => {
     setIsLoading(true);
     setIsFetching(true);
-    const response = await fetch(`${tmrevAPI}/numbers/daily?title=${title}&year=${year}`);
+    const response = await fetch(`${tmrevAPI}/numbers/daily?title=${title}&year=${year}&id=${id}`);
     const jsonData: TheNumbers[] = await response.json();
     setIsLoading(false);
     setIsFetching(false);
