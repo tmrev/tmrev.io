@@ -4,7 +4,7 @@ import { NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, {
-  useCallback, useEffect, useMemo, useRef,
+  useCallback, useEffect, useMemo, useRef, useState,
 } from 'react';
 
 import Button from '../../../components/common/Button';
@@ -25,6 +25,7 @@ const ReviewPage: NextPage = () => {
   const dispatch = useAppDispatch();
   const { user } = useAuth();
   const ref = useRef<HTMLDivElement>(null);
+  const [moviePublic, setMoviePublic] = useState<boolean>(true);
 
   const { id } = router.query;
 
@@ -94,7 +95,7 @@ const ReviewPage: NextPage = () => {
           seconds: dayjs().unix(),
         },
         notes: currentReview.notes,
-        public: true,
+        public: moviePublic,
         release_date: dayjs(data.release_date).format('YYYY-MM-DD'),
         reviewedDate: currentReview.reviewedDate || dayjs().format('YYYY-MM-DD'),
         title: data.title,
@@ -114,7 +115,7 @@ const ReviewPage: NextPage = () => {
       // eslint-disable-next-line no-console
       console.error(error);
     }
-  }, [user, currentReview, data, canSubmitReview(), averagedAdvancedScore]);
+  }, [user, currentReview, data, canSubmitReview(), averagedAdvancedScore, moviePublic]);
 
   useEffect(() => {
     canSubmitReview();
@@ -145,6 +146,12 @@ const ReviewPage: NextPage = () => {
                 width={350}
               />
               <Button disabled={canSubmitReview()} variant="primary" onClick={submitReview}>Submit Review</Button>
+              <Button
+                variant="secondary"
+                onClick={() => setMoviePublic(!moviePublic)}
+              >
+                {moviePublic ? 'Make Private' : 'Make Public'}
+              </Button>
             </div>
             <div className="flex flex-col space-y-3">
               <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
