@@ -119,7 +119,7 @@ const ReviewPage: NextPage = () => {
         <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
       </div>
-      <div className="px-0 lg:px-8 mt-0 lg:-mt-16 z-30">
+      <div className="px-4 mb-6 lg:px-8 mt-0 lg:-mt-16 z-30">
         <div className={clsx(
           'dark:bg-black bg-white p-0 md:p-8 flex',
           'lg:rounded',

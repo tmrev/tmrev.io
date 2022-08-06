@@ -1,3 +1,4 @@
+/* eslint-disable sort-keys-fix/sort-keys-fix */
 import clsx from 'clsx';
 import React, {
   FunctionComponent, useCallback, useEffect, useMemo, useState,
@@ -29,20 +30,15 @@ const UserRating: FunctionComponent = () => {
   const [expand, setExpand] = useState<boolean>(true);
   const dispatch = useAppDispatch();
   const inputs = useMemo(() => ({
-    acting: {
-      defaultValue: acting,
-      label: 'Acting',
-      setValue: setActing,
+    plot: {
+      defaultValue: plot,
+      label: 'Plot',
+      setValue: setPlot,
     },
-    characters: {
-      defaultValue: characters,
-      label: 'Characters',
-      setValue: setCharacters,
-    },
-    cinematography: {
-      defaultValue: cinematography,
-      label: 'Cinematography',
-      setValue: setCinematography,
+    theme: {
+      defaultValue: theme,
+      label: 'Theme',
+      setValue: setTheme,
     },
     climax: {
       defaultValue: climax,
@@ -54,30 +50,35 @@ const UserRating: FunctionComponent = () => {
       label: 'Ending',
       setValue: setEnding,
     },
+    acting: {
+      defaultValue: acting,
+      label: 'Acting',
+      setValue: setActing,
+    },
+    characters: {
+      defaultValue: characters,
+      label: 'Characters',
+      setValue: setCharacters,
+    },
     music: {
       defaultValue: music,
       label: 'Music',
       setValue: setMusic,
     },
-    personalScore: {
-      defaultValue: personalScore,
-      label: 'Personal Score',
-      setValue: setPersonalScore,
-    },
-    plot: {
-      defaultValue: plot,
-      label: 'Plot',
-      setValue: setPlot,
-    },
-    theme: {
-      defaultValue: theme,
-      label: 'Theme',
-      setValue: setTheme,
+    cinematography: {
+      defaultValue: cinematography,
+      label: 'Cinematography',
+      setValue: setCinematography,
     },
     visuals: {
       defaultValue: visuals,
       label: 'Visuals',
       setValue: setVisuals,
+    },
+    personalScore: {
+      defaultValue: personalScore,
+      label: 'Personal Score',
+      setValue: setPersonalScore,
     },
   }), []);
 
