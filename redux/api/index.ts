@@ -13,8 +13,9 @@ import {
 } from '../../models/tmrev';
 import { generateUrl } from '../../utils/common';
 
-const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
+export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 export const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
+export const tmdbAPI = 'https://api.themoviedb.org/3/';
 
 export const tmrevApi = createApi({
   baseQuery: fetchBaseQuery({

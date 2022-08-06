@@ -11,7 +11,7 @@ interface Props {
 const WatchListPanel: FunctionComponent<Props> = ({ watchlist }:Props) => (
   <Link passHref href={`/watch-list/${watchlist._id}`}>
     <a>
-      <div className="flex flex-col items-center justify-center border-tmrev-gray-dark">
+      <div className="flex flex-col items-center justify-center bg-black hover:bg-tmrev-gray-dark p-4 rounded">
         <div className="aspect-[2/3] h-[200px] w-[150px] relative rounded">
           <Image
             className="rounded"
@@ -22,7 +22,7 @@ const WatchListPanel: FunctionComponent<Props> = ({ watchlist }:Props) => (
 
         </div>
         <h3
-          className="w-max font-semibold text-lg text-white bg-black p-1 whitespace-pre-wrap rounded"
+          className="w-max font-semibold text-lg text-white p-1 whitespace-pre-wrap rounded"
         >
           {watchlist.title}
         </h3>
