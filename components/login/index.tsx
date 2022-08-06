@@ -7,6 +7,7 @@ import * as yup from 'yup';
 
 import { useAppDispatch } from '../../hooks';
 import { useAuth } from '../../provider/authUserContext';
+import { tmrevAPI } from '../../redux/api';
 import {
   Content,
   setClearModal, setModalContent, setOpenModal,
@@ -14,7 +15,7 @@ import {
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
 import Input from '../common/Input';
-import RegisterPanel from '../register';
+import RegisterPanel, { createTMREVAccount } from '../register';
 
 interface Props {
   isModal: boolean
@@ -42,6 +43,13 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
   const { signInWithEmailAndPassword, signInWithGoogle } = useAuth();
   const router = useRouter();
   const [firebaseError, setFirebaseError] = useState<string>('');
+
+  const findUserByUid = async (uid: string) => {
+    const res = await fetch(`${tmrevAPI}/user/isUser/${uid}`);
+    const data = await res.json();
+
+    return data;
+  };
 
   const handleAction = () => {
     if (isModal) {
@@ -76,7 +84,12 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
 
   const onGoogle = async () => {
     try {
-      await signInWithGoogle();
+      const { user } = await signInWithGoogle();
+      handleAction();
+      const dbUser = await findUserByUid(user.uid);
+      if (!dbUser) {
+        await createTMREVAccount(user);
+      }
       handleAction();
     } catch (error: any) {
       setFirebaseError(handleError(error.message));

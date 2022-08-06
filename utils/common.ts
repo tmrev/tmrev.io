@@ -33,6 +33,17 @@ export function extractNameFromDisplayName(displayName: string | null) {
   };
 }
 
+export function extractName(displayName: string | null, email: string) {
+  if (!displayName) {
+    return {
+      firstName: extractNameFromEmail(email),
+      lastName: extractNameFromEmail(email),
+    };
+  }
+
+  return extractNameFromDisplayName(displayName);
+}
+
 export const debounce = (fn: Function, ms = 300) => {
   let timeoutId: ReturnType<typeof setTimeout>;
   // eslint-disable-next-line func-names

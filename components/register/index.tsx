@@ -38,6 +38,22 @@ const defaultValues = {
   password: '',
 };
 
+export const createTMREVAccount = async (user: User, data?: typeof defaultValues) => {
+  const names = extractNameFromDisplayName(user.displayName);
+  const token = await user.getIdToken();
+
+  await axios.post(`${tmrevAPI}/user`, {
+    email: user.email,
+    firstName: names?.firstName || data?.firstName || '',
+    lastName: names?.lastName || data?.lastName || '',
+    uuid: user.uid,
+  }, {
+    headers: {
+      Authorization: token,
+    },
+  });
+};
+
 const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Props) => {
   const {
     register, handleSubmit, formState: { errors },
@@ -57,22 +73,6 @@ const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Prop
     } else {
       router.push(redirectPath);
     }
-  };
-
-  const createTMREVAccount = async (user: User, data?: typeof defaultValues) => {
-    const names = extractNameFromDisplayName(user.displayName);
-    const token = await user.getIdToken();
-
-    await axios.post(`${tmrevAPI}/user`, {
-      email: user.email,
-      firstName: names?.firstName || data?.firstName || '',
-      lastName: names?.lastName || data?.lastName || '',
-      uuid: user.uid,
-    }, {
-      headers: {
-        Authorization: token,
-      },
-    });
   };
 
   const openLoginModal = () => {
