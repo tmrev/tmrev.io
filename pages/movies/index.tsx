@@ -7,6 +7,7 @@ import React, {
   FunctionComponent, useEffect, useMemo, useState,
 } from 'react';
 
+import MetaTags from '../../components/common/MetaTag';
 import { getDiscoverMovie, getRunningOperationPromises, useGetDiscoverMovieQuery } from '../../redux/api';
 import { wrapper } from '../../redux/store';
 import { debounce } from '../../utils/common';
@@ -51,6 +52,11 @@ const Movies:FunctionComponent = () => {
 
   return (
     <div className="p-0 w-full mt-16 lg:mt-0">
+      <MetaTags
+        description="Discover new Movies"
+        title="Browsing latest and most popular movies"
+        url="/movies"
+      />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
         {combined.map((value) => (
           <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>

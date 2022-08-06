@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
+import MetaTags from '../../../components/common/MetaTag';
 import MoviePanel from '../../../components/user/moviePanel';
 import WatchListPanel from '../../../components/user/watchListPanel';
 import { useAuth } from '../../../provider/authUserContext';
@@ -78,6 +79,12 @@ const UserProfile:NextPage = () => {
 
   return (
     <div className="my-16 px-0 lg:my-0  text-white">
+      <MetaTags
+        description=""
+        image={renderImageSrc(data)}
+        title={`${data.displayName || extractNameFromEmail(data.email)} | Profile`}
+        url={`/user/${payload.uid}`}
+      />
       <div className="flex items-center w-full space-x-4 bg-tmrev-gray-dark p-6">
         <div className="relative h-16 w-16">
           <Image className="rounded-full" layout="fill" objectFit="cover" src={renderImageSrc(data)} />

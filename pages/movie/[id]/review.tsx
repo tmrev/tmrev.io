@@ -8,6 +8,7 @@ import React, {
 } from 'react';
 
 import Button from '../../../components/common/Button';
+import MetaTags from '../../../components/common/MetaTag';
 import CopyLink from '../../../components/movie/copyLink';
 import UserRating from '../../../components/movie/userRating';
 import { useAppDispatch, useAppSelector } from '../../../hooks';
@@ -115,6 +116,13 @@ const ReviewPage: NextPage = () => {
 
   return (
     <div className="dark:bg-black bg-white relative flex flex-col w-full">
+      <MetaTags
+        description={`Reviewing ${data.title}`}
+        image={imageUrl(data.poster_path || '', 400, true)}
+        largeImage={imageUrl(data.backdrop_path || '')}
+        title={`${data.title} | Review`}
+        url={createMediaUrl(data.id, data.title)}
+      />
       <div className="relative w-full h-96 lg:h-[500px]">
         <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />

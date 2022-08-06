@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
+import MetaTags from '../../../components/common/MetaTag';
 import CopyLink from '../../../components/movie/copyLink';
 import CreateReviewButton from '../../../components/movie/createReviewButton';
 import Crew from '../../../components/movie/crew';
@@ -17,7 +18,7 @@ import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../.
 import { wrapper } from '../../../redux/store';
 import formatDate from '../../../utils/formatDate';
 import imageUrl from '../../../utils/imageUrl';
-import { parseMediaId } from '../../../utils/mediaID';
+import { createMediaUrl, parseMediaId } from '../../../utils/mediaID';
 
 interface Props {}
 
@@ -73,6 +74,13 @@ const MoviePage: NextPage<Props> = () => {
 
   return (
     <div>
+      <MetaTags
+        description={data.overview}
+        image={imageUrl(data.poster_path || '', 400, true)}
+        largeImage={imageUrl(data.backdrop_path || '')}
+        title={data.title}
+        url={createMediaUrl(data.id, data.title)}
+      />
       <div className="dark:bg-black bg-white relative flex flex-col justify-center items-center w-full">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />

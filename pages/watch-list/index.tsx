@@ -1,6 +1,7 @@
 import { NextPage } from 'next';
 import React from 'react';
 
+import MetaTags from '../../components/common/MetaTag';
 import WatchListPanel from '../../components/user/watchListPanel';
 import { useAuth } from '../../provider/authUserContext';
 import { useGetUserQuery } from '../../redux/api';
@@ -25,6 +26,11 @@ const WatchList:NextPage = () => {
 
   return (
     <div className=" px-8 mt-16">
+      <MetaTags
+        description=""
+        title={`${data.displayName || extractNameFromEmail(data.email)} | WatchLists`}
+        url="/watch-lists"
+      />
       <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-xl md:text-2xl">
         {`${renderName()} | WATCHLISTS`}
       </h2>
