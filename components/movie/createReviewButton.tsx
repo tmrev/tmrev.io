@@ -19,7 +19,7 @@ const CreateReviewButton:FunctionComponent = () => {
       const content:Content = {
         children: <LoginPanel isModal redirectPath={`${router.asPath}/review`} />,
         closeFunc: () => dispatch(setOpenModal(false)),
-        description: 'enorder to review a movie on trmev you need to login',
+        description: 'in order to review a movie on trmev you need to login',
         outsideClick: true,
         title: 'Please Login to review',
       };

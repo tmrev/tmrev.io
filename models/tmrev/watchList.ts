@@ -20,4 +20,12 @@ interface WatchListSearchQuery {
   q: string
 }
 
-export type { WatchList, WatchListSearchQuery };
+interface AddMovieToWatchList {
+  token: string
+  listId: string
+  data: {
+    id: number
+  }
+}
+
+export type { AddMovieToWatchList, WatchList, WatchListSearchQuery };

@@ -7,7 +7,8 @@ import React, {
 
 import Input from '../components/common/Input';
 import {
-  useGetSearchMovieQuery, useGetWatchListQuery, useSearchUserQuery,
+  useGetSearchMovieQuery, useSearchUserQuery,
+  useSearchWatchListQuery,
 } from '../redux/api';
 import { debounce, extractNameFromEmail } from '../utils/common';
 import imageUrl from '../utils/imageUrl';
@@ -21,7 +22,7 @@ const Search:FunctionComponent = () => {
     { language: 'en-US', page: currentPage, query },
     { skip: !query },
   );
-  const { data: watchListSearchData } = useGetWatchListQuery({ q: query }, { skip: !query });
+  const { data: watchListSearchData } = useSearchWatchListQuery({ q: query }, { skip: !query });
   const { data: userListSearchData } = useSearchUserQuery(query, { skip: !query });
 
   useEffect(() => {

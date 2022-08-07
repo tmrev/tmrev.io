@@ -11,6 +11,7 @@ export interface Content {
   closeFunc: Function
   children?: React.ReactNode
   buttons?: Button[]
+  renderWithDefaultBody?: boolean
 }
 
 type Button = {

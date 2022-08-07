@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import { GetServerSideProps, NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import nookies from 'nookies';
 import React from 'react';
 
 import { Movie } from '../../../models/tmdb';
@@ -10,8 +11,16 @@ import { apiKey, tmdbAPI, tmrevAPI } from '../../../redux/api';
 import imageUrl from '../../../utils/imageUrl';
 import { createMediaUrl } from '../../../utils/mediaID';
 
-const fetchWatchList = async (id: string): Promise<WatchList> => {
-  const res = await fetch(`${tmrevAPI}/watch-list/${id}`);
+const fetchWatchList = async (id: string, token?: string): Promise<WatchList> => {
+  const res = await fetch(
+    `${tmrevAPI}/watch-list/${id}`,
+    {
+      headers: {
+        Authorization: token,
+      } as any,
+    },
+  );
+
   const data = await res.json();
   return data;
 };
@@ -60,33 +69,40 @@ UserWatchList.defaultProps = {
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const { id } = context.query;
+  const cookies = nookies.get(context);
 
-  if (id && typeof id === 'string') {
-    const watchList = await fetchWatchList(id);
-    const moviePromises = watchList.movies.map((movieId) => fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) => resp.json()));
+  try {
+    if (id && typeof id === 'string') {
+      const watchList = await fetchWatchList(id, cookies.token);
+      const moviePromises = watchList.movies.map((movieId) => fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) => resp.json()));
 
-    const movies = await Promise.all(moviePromises);
+      const movies = await Promise.all(moviePromises);
 
-    let movieRecord:Record<string, Movie> = {};
+      let movieRecord:Record<string, Movie> = {};
 
-    movies.forEach((movie) => {
-      movieRecord = {
-        [movie.id]: movie,
-        ...movieRecord,
+      movies.forEach((movie) => {
+        movieRecord = {
+          [movie.id]: movie,
+          ...movieRecord,
+        };
+      });
+
+      return {
+        props: {
+          movies: movieRecord,
+          watchList,
+        },
       };
-    });
+    }
 
     return {
-      props: {
-        movies: movieRecord,
-        watchList,
-      },
+      props: {},
+    };
+  } catch (error) {
+    return {
+      props: {},
     };
   }
-
-  return {
-    props: {},
-  };
 };
 
 export default UserWatchList;

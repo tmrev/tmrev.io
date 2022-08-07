@@ -15,7 +15,7 @@ const Modal:FunctionComponent = () => {
     return () => {};
   };
 
-  if (content.children) {
+  if (content.children && !content.renderWithDefaultBody) {
     return (
       <div className="fixed top-0 bottom-0 left-0 right-0 z-50 flex justify-center items-center h-screen w-screen bg-black bg-opacity-60">
         <OutsideClickHandler onOutsideClick={handleCloseFunc}>
@@ -33,6 +33,7 @@ const Modal:FunctionComponent = () => {
         <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex-col justify-center items-center">
           <h1 className="text-3xl font-semibold text-tmrev-alt-yellow">{content.title}</h1>
           <p className="">{content.description}</p>
+          {content.children}
           <div>
             {content.buttons && content.buttons.map((button) => (
               <Button

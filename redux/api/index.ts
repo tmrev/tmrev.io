@@ -11,6 +11,7 @@ import {
   CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore,
   User, UserQuery, WatchList, WatchListSearchQuery,
 } from '../../models/tmrev';
+import { AddMovieToWatchList } from '../../models/tmrev/watchList';
 import { generateUrl } from '../../utils/common';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
@@ -23,6 +24,17 @@ export const tmrevApi = createApi({
     prepareHeaders: (headers) => headers,
   }),
   endpoints: (builder) => ({
+    addMovieToWatchList: builder.mutation<void, AddMovieToWatchList>({
+      invalidatesTags: ['WATCH_LIST'],
+      query: (body) => ({
+        body: body.data,
+        headers: {
+          authorization: body.token,
+        },
+        method: 'POST',
+        url: `${tmrevAPI}/watch-list/${body.listId}`,
+      }),
+    }),
     addTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
       invalidatesTags: ['TMREV_SCORE'],
       query: (body) => {
@@ -92,14 +104,22 @@ export const tmrevApi = createApi({
       }),
       transformResponse: (response: User) => response,
     }),
-    getWatchList: builder.query<WatchList[], WatchListSearchQuery>({
+    getUserWatchLists: builder.query<WatchList[], string>({
       query: (data) => ({
-        url: `${tmrevAPI}/watch-list/search?q=${data.q}`,
+        headers: {
+          authorization: data,
+        },
+        url: `${tmrevAPI}/watch-list`,
       }),
     }),
     searchUser: builder.query<User[], string>({
       query: (data) => ({
         url: `${tmrevAPI}/user/search?q=${data}`,
+      }),
+    }),
+    searchWatchList: builder.query<WatchList[], WatchListSearchQuery>({
+      query: (data) => ({
+        url: `${tmrevAPI}/watch-list/search?q=${data.q}`,
       }),
     }),
   }),
@@ -110,7 +130,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
-  tagTypes: ['MOVIE', 'TMREV_SCORE'],
+  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST'],
 });
 
 export const {
@@ -121,8 +141,10 @@ export const {
   useGetUserQuery,
   useGetTmrevAvgScoreQuery,
   useGetSearchMovieQuery,
-  useGetWatchListQuery,
+  useSearchWatchListQuery,
   useSearchUserQuery,
+  useGetUserWatchListsQuery,
+  useAddMovieToWatchListMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

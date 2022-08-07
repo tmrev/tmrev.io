@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
+import AddToWatchList from '../../../components/movie/addToWatchListButton';
 import CopyLink from '../../../components/movie/copyLink';
 import CreateReviewButton from '../../../components/movie/createReviewButton';
 import Crew from '../../../components/movie/crew';
@@ -103,6 +104,7 @@ const MoviePage: NextPage<Props> = () => {
                   width={350}
                 />
                 <CreateReviewButton />
+                <AddToWatchList movie={data} />
                 <MetaData
                   ageRating={ageRating.length ? ageRating[0].certification : ''}
                   genres={data.genres}
@@ -137,6 +139,7 @@ const MoviePage: NextPage<Props> = () => {
                   <p className="mt-8">{data.overview}</p>
                   <div className="w-full lg:hidden">
                     <CreateReviewButton />
+                    <AddToWatchList movie={data} />
                   </div>
                 </div>
                 <div className="divide-y mt-8 mb-40 md:flex flex-col">
