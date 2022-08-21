@@ -3,6 +3,7 @@ import OutsideClickHandler from 'react-outside-click-handler';
 
 import { useAppSelector } from '../../hooks';
 import Button from './Button';
+import HeaderText from './typography/headerText';
 
 const Modal:FunctionComponent = () => {
   const { isOpen, content } = useAppSelector((state) => state.modal);
@@ -31,7 +32,9 @@ const Modal:FunctionComponent = () => {
     <div className="fixed top-0 bottom-0 left-0 right-0 z-50 flex justify-center items-center h-screen w-screen bg-black text-white bg-opacity-60">
       <OutsideClickHandler onOutsideClick={handleCloseFunc}>
         <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex-col justify-center items-center">
-          <h1 className="text-3xl font-semibold text-tmrev-alt-yellow">{content.title}</h1>
+          <HeaderText>
+            {content.title}
+          </HeaderText>
           <p className="">{content.description}</p>
           {content.children}
           <div>

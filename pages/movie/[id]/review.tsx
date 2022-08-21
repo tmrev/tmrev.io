@@ -9,6 +9,7 @@ import React, {
 
 import Button from '../../../components/common/Button';
 import MetaTags from '../../../components/common/MetaTag';
+import HeaderText from '../../../components/common/typography/headerText';
 import CopyLink from '../../../components/movie/copyLink';
 import UserRating from '../../../components/movie/userRating';
 import { useAppDispatch, useAppSelector } from '../../../hooks';
@@ -154,7 +155,7 @@ const ReviewPage: NextPage = () => {
             <div className="flex flex-col space-y-3">
               <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
                 <span className="flex items-center space-x-2">
-                  <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
+                  <HeaderText headingType="p">movie</HeaderText>
                   <CopyLink link={`https://tmrev.io${router.asPath}`} />
                 </span>
                 <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">

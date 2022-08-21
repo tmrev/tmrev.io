@@ -6,6 +6,7 @@ import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
+import HeaderText from '../../../components/common/typography/headerText';
 import AddToWatchList from '../../../components/movie/addToWatchListButton';
 import CopyLink from '../../../components/movie/copyLink';
 import CreateReviewButton from '../../../components/movie/createReviewButton';
@@ -123,7 +124,7 @@ const MoviePage: NextPage<Props> = () => {
               <div className="flex flex-col space-y-3">
                 <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
                   <span className="flex items-center space-x-2">
-                    <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
+                    <HeaderText headingType="p">movie</HeaderText>
                     <CopyLink link={`https://tmrev.io${router.asPath}`} />
                   </span>
                   <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
@@ -149,7 +150,7 @@ const MoviePage: NextPage<Props> = () => {
                 </div>
                 <div className="!space-y-16 !mt-16 md:!mt-[7rem]">
                   <div className="block lg:hidden">
-                    <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">INFORMATION</h2>
+                    <HeaderText headingType="h2">Information</HeaderText>
                     <MetaData
                       ageRating={ageRating.length ? ageRating[0].certification : ''}
                       genres={data.genres}

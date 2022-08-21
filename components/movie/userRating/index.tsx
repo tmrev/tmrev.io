@@ -8,6 +8,7 @@ import { useAppDispatch } from '../../../hooks';
 import { setCurrentReview } from '../../../redux/slice/reviewsSlice';
 import { debounce } from '../../../utils/common';
 import Button from '../../common/Button';
+import HeaderText from '../../common/typography/headerText';
 import RateList from './rateList';
 
 type RatingType = 'acting' | 'characters' |
@@ -117,7 +118,7 @@ const UserRating: FunctionComponent = () => {
   return (
     <div className="flex-col space-y-4">
       <div className="flex items-center">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">RATING</h2>
+        <HeaderText headingType="h2">Rating</HeaderText>
         <div className="flex-grow" />
         <Button variant="icon" onClick={() => setExpand(!expand)}>
           <span className="material-symbols-outlined">
@@ -139,7 +140,7 @@ const UserRating: FunctionComponent = () => {
         )
       }
       <div>
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">NOTES</h2>
+        <HeaderText headingType="h2">Notes</HeaderText>
         <textarea
           className={clsx(
             'border-2 p-2 rounded w-full',
@@ -151,7 +152,7 @@ const UserRating: FunctionComponent = () => {
         />
       </div>
       <div className="space-y-4">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">REVIEW DATE</h2>
+        <HeaderText headingType="h2">Review Date</HeaderText>
         <input
           className={clsx(
             'border-2 p-2 rounded w-full',

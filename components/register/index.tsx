@@ -17,6 +17,7 @@ import { extractNameFromDisplayName } from '../../utils/common';
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
 import Input from '../common/Input';
+import HeaderText from '../common/typography/headerText';
 import LoginPanel from '../login';
 
 interface Props {
@@ -111,7 +112,7 @@ const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Prop
   return (
     <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex justify-center items-center">
       <form className="flex flex-col w-full space-y-4" onSubmit={handleSubmit(onSubmit)}>
-        <h1 className="text-3xl font-semibold text-tmrev-alt-yellow">The Movie Review (Register)</h1>
+        <HeaderText headingType="h1">The Movie Review (Register)</HeaderText>
         <Button onClick={onGoogle}>Create an account with Google</Button>
         <div className="flex space-x-4">
           <Input

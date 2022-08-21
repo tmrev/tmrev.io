@@ -2,6 +2,7 @@ import { NextPage } from 'next';
 import React from 'react';
 
 import MetaTags from '../../components/common/MetaTag';
+import HeaderText from '../../components/common/typography/headerText';
 import WatchListPanel from '../../components/user/watchListPanel';
 import { useAuth } from '../../provider/authUserContext';
 import { useGetUserQuery } from '../../redux/api';
@@ -31,9 +32,9 @@ const WatchList:NextPage = () => {
         title={`${data.displayName || extractNameFromEmail(data.email)} | WatchLists`}
         url="/watch-lists"
       />
-      <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-xl md:text-2xl">
+      <HeaderText headingType="h2">
         {`${renderName()} | WATCHLISTS`}
-      </h2>
+      </HeaderText>
       <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 items-start mt-4">
         {data.watchLists.map((watchList) => (
           <div key={watchList._id} className="flex justify-center">

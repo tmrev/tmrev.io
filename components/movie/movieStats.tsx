@@ -9,6 +9,7 @@ import { roundWithMaxPrecision } from '../../utils/common';
 import { getMedian, getStandardDeviation } from '../../utils/math';
 import { parseMediaId } from '../../utils/mediaID';
 import RadarChart from '../common/charts/radar';
+import HeaderText from '../common/typography/headerText';
 
 interface Props {
   id?: string
@@ -164,7 +165,7 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
 
     return (
       <div className="hidden lg:block lg:max-w-xl xl:w-full xl:max-w-none space-y-8">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">THE MOVIE REVIEW (RATING)</h2>
+        <HeaderText headingType="h2">THE MOVIE REVIEW (RATING)</HeaderText>
         <Skeleton baseColor="#3B3B3B" className=" mt-8" height={512} highlightColor="#555555" />
       </div>
     );
@@ -173,12 +174,11 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
   return (
     <div className={` ${navigationOpen ? 'xl:max-w-4xl' : 'max-w-full'}  space-y-8`}>
       <div className="flex-col items-center relative">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">
+        <HeaderText headingType="h2">
           THE MOVIE REVIEW (
           {roundWithMaxPrecision(data.totalScore, 1)}
           )
-        </h2>
-
+        </HeaderText>
       </div>
       <RadarChart
         datasets={datasets}

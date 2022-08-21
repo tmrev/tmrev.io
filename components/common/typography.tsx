@@ -28,10 +28,7 @@ const variantsMapping: VariantMap = {
   h6: 'h6',
 };
 
-const Typography: React.FunctionComponent<Props> = React.forwardRef<
-HTMLParagraphElement | HTMLHeadingElement,
-Props
->((props, ref) => {
+const Typography: React.FunctionComponent<Props> = React.forwardRef<HTMLParagraphElement | HTMLHeadingElement, Props>((props, ref) => {
   const { variant, className, ...other }: Props = props;
   const Component = React.createElement(variantsMapping[variant || 'body'], {
     className: clsx(`typography--variant-${variant}`, className),

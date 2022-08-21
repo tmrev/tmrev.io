@@ -7,6 +7,7 @@ import { useGetMovieQuery } from '../../redux/api';
 import imageUrl from '../../utils/imageUrl';
 import { createMediaUrl } from '../../utils/mediaID';
 import Typography from '../common/typography';
+import HeaderText from '../common/typography/headerText';
 
 interface Props {
   movie: DiscoverMovieResult
@@ -39,7 +40,7 @@ const Screen:FunctionComponent<Props> = ({ movie }: Props) => {
       <Image priority layout="fill" objectFit="cover" src={imageUrl(movie.backdrop_path || '', undefined, false)} />
       <div className=" absolute bottom-0 top-0 right-0 left-0 bg-black opacity-40" />
       <div className="absolute z-40 bottom-8 left-8 max-w-[50%]">
-        <p className="text-tmrev-alt-yellow font-bold tracking-widest">MOVIE</p>
+        <HeaderText headingType="p">MOVIE</HeaderText>
         {renderTitle(movie.title, createMediaUrl(movie.id, movie.title))}
       </div>
       <div className="absolute flex flex-col bottom-6 right-[5rem]">

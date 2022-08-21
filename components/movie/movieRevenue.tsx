@@ -6,6 +6,7 @@ import Skeleton from 'react-loading-skeleton';
 import { TheNumbers, Title } from '../../models/tmrev';
 import Button from '../common/Button';
 import BarChart, { Datasets } from '../common/charts/bar';
+import HeaderText from '../common/typography/headerText';
 
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
@@ -100,7 +101,7 @@ const MovieRevenue:FunctionComponent<Props> = ({
 
     return (
       <div className="hidden lg:block lg:max-w-xl xl:w-full xl:max-w-none space-y-8">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">THE NUMBERS</h2>
+        <HeaderText headingType="h2">THE NUMBERS</HeaderText>
         <Skeleton baseColor="#3B3B3B" className=" mt-8" height={512} highlightColor="#555555" />
       </div>
     );
@@ -109,7 +110,7 @@ const MovieRevenue:FunctionComponent<Props> = ({
   return (
     <div className="lg:block lg:max-w-xl xl:w-full xl:max-w-none space-y-8">
       <div className="flex items-center relative">
-        <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-2xl">{data[dataIndex].title.toUpperCase()}</h2>
+        <HeaderText headingType="h2">{data[dataIndex].title.toUpperCase()}</HeaderText>
         <div className="flex-grow" />
         <div className=" relative">
           <Button variant="icon" onClick={() => setOpenDropDown(!openDropDown)}>

@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import React, { useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
+import HeaderText from '../../../components/common/typography/headerText';
 import MoviePanel from '../../../components/user/moviePanel';
 import WatchListPanel from '../../../components/user/watchListPanel';
 import { useAuth } from '../../../provider/authUserContext';
@@ -103,7 +104,7 @@ const UserProfile:NextPage = () => {
       </div>
       <div className="space-y-16 mt-16 lg:px-6 px-0">
         <div>
-          <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-xl md:text-2xl">HIGHEST RATED MOVIES</h2>
+          <HeaderText headingType="h2">Highest Rated Movies</HeaderText>
           <div className="grid grid-rows-1 grid-flow-col gap-4 overflow-x-scroll py-5">
             {
               sortedRatedMovies.highestRated.map((movie) => (
@@ -113,7 +114,7 @@ const UserProfile:NextPage = () => {
           </div>
         </div>
         <div>
-          <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-xl md:text-2xl">LOWEST RATED MOVIES</h2>
+          <HeaderText headingType="h2">Lowest Rated Movies</HeaderText>
           <div className="grid grid-rows-1 grid-flow-col gap-4 overflow-x-scroll py-5">
             {
               sortedRatedMovies.lowestRated.map((movie) => (
@@ -123,7 +124,7 @@ const UserProfile:NextPage = () => {
           </div>
         </div>
         <div>
-          <h2 className="text-tmrev-alt-yellow font-bold tracking-widest text-xl md:text-2xl">WATCHLISTS</h2>
+          <HeaderText headingType="h2">Watchlists</HeaderText>
           <div className="grid grid-rows-1 grid-flow-col gap-4 overflow-x-scroll py-5">
             {
               watchLists.map((watchList) => (

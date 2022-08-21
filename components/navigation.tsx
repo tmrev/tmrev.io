@@ -31,17 +31,17 @@ const urlLinks = [
   //   title: 'TV shows',
   //   url: '/tv',
   // },
-  {
-    auth: false,
-    icon: 'person',
-    title: 'People',
-    url: '/people',
-  },
+  // {
+  //   auth: false,
+  //   icon: 'person',
+  //   title: 'People',
+  //   url: '/people',
+  // },
   {
     auth: false,
     icon: 'trending_up',
     title: 'Trending',
-    url: '/trending',
+    url: '/',
   },
   {
     auth: true,
@@ -49,12 +49,12 @@ const urlLinks = [
     title: 'Watch List',
     url: '/watch-list',
   },
-  {
-    auth: false,
-    icon: 'how_to_vote',
-    title: 'Create Poll',
-    url: '/poll',
-  },
+  // {
+  //   auth: false,
+  //   icon: 'how_to_vote',
+  //   title: 'Create Poll',
+  //   url: '/poll',
+  // },
 ];
 
 const hiddenRoutes = ['login', 'register'];

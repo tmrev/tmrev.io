@@ -5,6 +5,7 @@ import Link from 'next/link';
 import nookies from 'nookies';
 import React from 'react';
 
+import HeaderText from '../../../components/common/typography/headerText';
 import { Movie } from '../../../models/tmdb';
 import { WatchList } from '../../../models/tmrev';
 import { apiKey, tmdbAPI, tmrevAPI } from '../../../redux/api';
@@ -35,6 +36,11 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
 
   return (
     <div>
+      <div className=" bg-tmrev-gray-dark p-4 w-full">
+        <HeaderText headingType="h1">
+          Test
+        </HeaderText>
+      </div>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 xl:grid-cols-4 items-start mt-4">
         {watchList.movies.map((movieId) => {
           const value = movies[movieId];

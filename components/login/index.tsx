@@ -15,6 +15,7 @@ import {
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
 import Input from '../common/Input';
+import HeaderText from '../common/typography/headerText';
 import RegisterPanel, { createTMREVAccount } from '../register';
 
 interface Props {
@@ -99,7 +100,7 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
   return (
     <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex justify-center items-center">
       <form className="flex flex-col w-full space-y-4" onSubmit={handleSubmit(onSubmit)}>
-        <h1 className="text-3xl font-semibold text-tmrev-alt-yellow">The Movie Review (Login)</h1>
+        <HeaderText headingType="h1">The Movie Review (Login)</HeaderText>
         <Button onClick={onGoogle}>Login With Google</Button>
         <Input
           className="px-3 py-1 border rounded"
