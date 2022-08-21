@@ -2,13 +2,18 @@ import clsx from 'clsx';
 import { GetServerSideProps, NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import nookies from 'nookies';
-import React from 'react';
+import React, { useEffect, useMemo } from 'react';
+import { useDispatch } from 'react-redux';
 
+import Button from '../../../components/common/Button';
 import HeaderText from '../../../components/common/typography/headerText';
 import { Movie } from '../../../models/tmdb';
 import { WatchList } from '../../../models/tmrev';
+import { useAuth } from '../../../provider/authUserContext';
 import { apiKey, tmdbAPI, tmrevAPI } from '../../../redux/api';
+import { setMovies, setWatchList } from '../../../redux/slice/watchListSlice';
 import imageUrl from '../../../utils/imageUrl';
 import { createMediaUrl } from '../../../utils/mediaID';
 
@@ -32,14 +37,53 @@ interface Props {
 }
 
 const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
+  const { user } = useAuth();
+  const dispatch = useDispatch();
+  const router = useRouter();
+
+  const isOwner = useMemo(() => {
+    if (!user || !watchList) return false;
+
+    if (user.uid === watchList.userId) return true;
+
+    return false;
+  }, [user, watchList]);
+
+  useEffect(() => {
+    if (!watchList || !movies) return;
+
+    dispatch(setWatchList(watchList));
+    dispatch(setMovies(movies));
+  }, [watchList, movies]);
+
+  useEffect(() => {
+    router.prefetch(`/watch-list/${router.query.id}/edit`);
+  }, [router.query.id]);
+
+  const renderEdit = () => {
+    if (!isOwner) return null;
+
+    return (
+      <Button hoverEffect variant="icon" onClick={() => router.push(`/watch-list/${router.query.id}/edit`)}>
+        <span className="material-symbols-outlined">
+          edit
+        </span>
+      </Button>
+    );
+  };
+
   if (!watchList || !movies) return null;
 
   return (
     <div>
-      <div className=" bg-tmrev-gray-dark p-4 w-full">
-        <HeaderText headingType="h1">
-          Test
-        </HeaderText>
+      <div className="bg-tmrev-gray-dark p-4 w-full flex items-center space-x-4 text-white">
+        <div>
+          <HeaderText headingType="h1">
+            {watchList.title}
+          </HeaderText>
+          <p>{watchList.description}</p>
+        </div>
+        {renderEdit()}
       </div>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 xl:grid-cols-4 items-start mt-4">
         {watchList.movies.map((movieId) => {

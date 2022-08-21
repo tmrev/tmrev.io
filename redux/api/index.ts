@@ -11,7 +11,7 @@ import {
   CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore,
   User, UserQuery, WatchList, WatchListSearchQuery,
 } from '../../models/tmrev';
-import { AddMovieToWatchList } from '../../models/tmrev/watchList';
+import { AddMovieToWatchList, UpdateWatchList } from '../../models/tmrev/watchList';
 import { generateUrl } from '../../utils/common';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
@@ -122,6 +122,24 @@ export const tmrevApi = createApi({
         url: `${tmrevAPI}/watch-list/search?q=${data.q}`,
       }),
     }),
+    updateWatchList: builder.mutation<WatchList, UpdateWatchList>({
+      invalidatesTags: ['WATCH_LIST'],
+      query: (body) => ({
+        body: {
+          description: body.description,
+          movies: body.movies,
+          public: body.public,
+          tags: body.tags,
+          title: body.title,
+          userId: body.userId,
+        },
+        headers: {
+          authorization: body.token,
+        },
+        method: 'PUT',
+        url: `${tmrevAPI}/watch-list/${body.watchListId}`,
+      }),
+    }),
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -145,6 +163,7 @@ export const {
   useSearchUserQuery,
   useGetUserWatchListsQuery,
   useAddMovieToWatchListMutation,
+  useUpdateWatchListMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

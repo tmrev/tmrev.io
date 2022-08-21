@@ -28,4 +28,17 @@ interface AddMovieToWatchList {
   }
 }
 
-export type { AddMovieToWatchList, WatchList, WatchListSearchQuery };
+interface UpdateWatchList {
+  token: string,
+  description: string,
+  title: string,
+  public: boolean,
+  tags: string[],
+  userId: string
+  movies: number[],
+  watchListId: string
+}
+
+export type {
+  AddMovieToWatchList, UpdateWatchList, WatchList, WatchListSearchQuery,
+};
