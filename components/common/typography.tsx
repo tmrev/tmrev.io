@@ -28,6 +28,7 @@ const variantsMapping: VariantMap = {
   h6: 'h6',
 };
 
+// eslint-disable-next-line max-len
 const Typography: React.FunctionComponent<Props> = React.forwardRef<HTMLParagraphElement | HTMLHeadingElement, Props>((props, ref) => {
   const { variant, className, ...other }: Props = props;
   const Component = React.createElement(variantsMapping[variant || 'body'], {
