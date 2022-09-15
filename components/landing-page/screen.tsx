@@ -45,7 +45,7 @@ const Screen:FunctionComponent<Props> = ({ movie }: Props) => {
       </div>
       <div className="absolute flex flex-col bottom-6 right-[5rem]">
         <Image height={32} src="/images/icons/imdb/imdb-icon.svg" width={64} />
-        <Typography className="text-white" variant="h1">{data && data.imdb?.averageRating}</Typography>
+        <Typography className="text-white" variant="h1">{data && data.body.imdb.averageRating}</Typography>
       </div>
     </div>
   );
