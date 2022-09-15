@@ -7,7 +7,11 @@ import { Content, setModalContent, setOpenModal } from '../../redux/slice/modalS
 import Button from '../common/Button';
 import LoginPanel from '../login';
 
-const CreateReviewButton:FunctionComponent = () => {
+interface Props {
+  hasReviewed?: string
+}
+
+const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed }) => {
   const router = useRouter();
   const { user } = useAuth();
   const dispatch = useAppDispatch();
@@ -29,7 +33,31 @@ const CreateReviewButton:FunctionComponent = () => {
     }
   };
 
-  return <Button className="mt-4 w-full" variant="primary" onClick={handleMovieReview}>Review Movie</Button>;
+  if (hasReviewed) {
+    return (
+      <Button
+        className="mt-4 w-full"
+        variant="primary"
+        onClick={() => router.push(`${router.asPath}/update/${hasReviewed}`)}
+      >
+        Update Movie
+      </Button>
+    );
+  }
+
+  return (
+    <Button
+      className="mt-4 w-full"
+      variant="primary"
+      onClick={handleMovieReview}
+    >
+      Review Movie
+    </Button>
+  );
 };
 
 export default CreateReviewButton;
+
+CreateReviewButton.defaultProps = {
+  hasReviewed: '',
+};

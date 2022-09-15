@@ -1,10 +1,10 @@
 /* eslint-disable sort-keys-fix/sort-keys-fix */
 import clsx from 'clsx';
 import React, {
-  FunctionComponent, useCallback, useEffect, useMemo, useState,
+  FunctionComponent, memo, useCallback, useEffect, useMemo, useState,
 } from 'react';
 
-import { useAppDispatch } from '../../../hooks';
+import { useAppDispatch, useAppSelector } from '../../../hooks';
 import { setCurrentReview } from '../../../redux/slice/reviewsSlice';
 import { debounce } from '../../../utils/common';
 import Button from '../../common/Button';
@@ -16,6 +16,7 @@ type RatingType = 'acting' | 'characters' |
 'personalScore' | 'plot' | 'theme' | 'visuals'
 
 const UserRating: FunctionComponent = () => {
+  const { currentReview } = useAppSelector((state) => state.reviews);
   const [plot, setPlot] = useState<number | null>(null);
   const [theme, setTheme] = useState<number | null>(null);
   const [climax, setClimax] = useState<number | null>(null);
@@ -26,9 +27,10 @@ const UserRating: FunctionComponent = () => {
   const [cinematography, setCinematography] = useState<number | null>(null);
   const [visuals, setVisuals] = useState<number | null>(null);
   const [personalScore, setPersonalScore] = useState<number | null>(null);
-  const [notes, setNotes] = useState<string>('');
-  const [reviewedDate, setReviewedDate] = useState<string>('');
+  const [notes, setNotes] = useState<string>(currentReview?.notes || '');
+  const [reviewedDate, setReviewedDate] = useState<string>(currentReview?.reviewedDate || '');
   const [expand, setExpand] = useState<boolean>(true);
+
   const dispatch = useAppDispatch();
   const inputs = useMemo(() => ({
     plot: {
@@ -104,8 +106,8 @@ const UserRating: FunctionComponent = () => {
           theme,
           visuals,
         },
-        notes,
-        reviewedDate,
+        notes: notes || currentReview?.notes,
+        reviewedDate: reviewedDate || currentReview?.reviewedDate,
       } as any,
     ));
   }, [
@@ -131,7 +133,7 @@ const UserRating: FunctionComponent = () => {
           Object.keys(inputs).map((input: any) => (
             <div key={inputs[input as RatingType].label}>
               <RateList
-                defaultValue={inputs[input as RatingType].defaultValue}
+                defaultValue={currentReview?.advancedScore[input as RatingType]}
                 label={inputs[input as RatingType].label}
                 setValue={inputs[input as RatingType].setValue}
               />
@@ -147,6 +149,7 @@ const UserRating: FunctionComponent = () => {
             'dark:bg-tmrev-gray-dark opacity-100 dark:border-black dark:text-white',
             'dark:focus:outline-white focus:outline-black focus:outline-1',
           )}
+          defaultValue={currentReview?.notes}
           rows={5}
           onChange={debouncedNotes}
         />
@@ -159,6 +162,7 @@ const UserRating: FunctionComponent = () => {
             'dark:bg-tmrev-gray-dark opacity-100 dark:border-black dark:text-white',
             'dark:focus:outline-white focus:outline-black focus:outline-1',
           )}
+          defaultValue={currentReview?.reviewedDate}
           type="date"
           onChange={(e) => setReviewedDate(e.currentTarget.value)}
         />
@@ -167,4 +171,4 @@ const UserRating: FunctionComponent = () => {
   );
 };
 
-export default UserRating;
+export default memo(UserRating);

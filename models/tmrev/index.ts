@@ -1,6 +1,7 @@
 import type {
   AdvancedScore, CreatedAt, CreateTmrevReviewQuery, CreateTmrevReviewResponse,
   MovieScore,
+  SingleReview,
   TmrevReview, UpdatedAt,
 } from './review';
 import type { TheNumberData, TheNumbers, Title } from './theNumbers';
@@ -16,6 +17,7 @@ export type {
   AdvancedScore, CreatedAt, CreateTmrevReviewQuery,
   CreateTmrevReviewResponse,
   MovieScore,
+  SingleReview,
   TheNumberData, TheNumbers, Timestamp,
   Title,
   TmrevReview, UpdatedAt, UpdateWatchList,

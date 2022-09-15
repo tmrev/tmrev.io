@@ -70,8 +70,19 @@ interface ID {
   title: string;
 }
 
+interface SingleReview {
+  authToken: string,
+  reviewId: string
+}
+
+interface DeleteReviewQuery {
+  authToken: string,
+  reviewId: string
+}
+
 export type {
   AdvancedScore, CreatedAt, CreateTmrevReviewQuery,
-  CreateTmrevReviewResponse,
-  MovieScore, TmrevReview, UpdatedAt,
+  CreateTmrevReviewResponse, DeleteReviewQuery,
+  MovieScore, SingleReview,
+  TmrevReview, UpdatedAt,
 };

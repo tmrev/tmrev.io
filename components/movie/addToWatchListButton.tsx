@@ -1,14 +1,14 @@
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 
-import { Movie } from '../../models/tmdb';
+import { Body } from '../../models/tmrev/movie';
 import { useAuth } from '../../provider/authUserContext';
 import { useAddMovieToWatchListMutation, useGetUserWatchListsQuery } from '../../redux/api';
 import { Content, setModalContent, setOpenModal } from '../../redux/slice/modalSlice';
 import Button from '../common/Button';
 
 interface Props {
-  movie: Movie
+  movie: Body
 }
 
 const AddToWatchList:FunctionComponent<Props> = ({ movie }:Props) => {
