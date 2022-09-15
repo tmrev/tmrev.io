@@ -2,34 +2,19 @@ import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
 import React, {
-  FunctionComponent, useCallback, useEffect, useState,
+  FunctionComponent, useCallback, useState,
 } from 'react';
 
 import Input from '../components/common/Input';
-import {
-  useGetSearchMovieQuery, useSearchUserQuery,
-  useSearchWatchListQuery,
-} from '../redux/api';
+import { useSearchQuery } from '../redux/api';
 import { debounce, extractNameFromEmail } from '../utils/common';
 import imageUrl from '../utils/imageUrl';
 import { createMediaUrl } from '../utils/mediaID';
 
 const Search:FunctionComponent = () => {
   const [query, setQuery] = useState<string>('');
-  const [currentPage, setCurrentPage] = useState<number>(1);
 
-  const { data: movieSearchData } = useGetSearchMovieQuery(
-    { language: 'en-US', page: currentPage, query },
-    { skip: !query },
-  );
-  const { data: watchListSearchData } = useSearchWatchListQuery({ q: query }, { skip: !query });
-  const { data: userListSearchData } = useSearchUserQuery(query, { skip: !query });
-
-  useEffect(() => {
-    if (query) {
-      setCurrentPage(1);
-    }
-  }, [query]);
+  const { data } = useSearchQuery(query, { skip: !query });
 
   const queryChnageHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
@@ -46,11 +31,13 @@ const Search:FunctionComponent = () => {
   };
 
   const renderUserListQuery = () => {
-    if (!userListSearchData) return null;
+    if (!data?.body?.user) return null;
+
+    const { user } = data.body;
 
     return (
       <>
-        {userListSearchData.map((value) => (
+        {user.map((value) => (
           <Link key={value._id} passHref href={`/user/${value.uuid}`}>
             <a className={clsx(
               'flex-col text-center ',
@@ -81,11 +68,13 @@ const Search:FunctionComponent = () => {
   };
 
   const renderWatchListSearchQuery = () => {
-    if (!watchListSearchData) return null;
+    if (!data?.body?.watchList) return null;
+
+    const { watchList } = data.body;
 
     return (
       <>
-        {watchListSearchData.map((value) => (
+        {watchList.map((value) => (
           <Link key={value._id} passHref href={`/watch-list/${value._id}`}>
             <a className={clsx(
               'flex-col text-center ',
@@ -117,11 +106,13 @@ const Search:FunctionComponent = () => {
   };
 
   const renderMovieSearchQuery = () => {
-    if (!movieSearchData) return null;
+    if (!data?.body?.tmdb) return null;
+
+    const { tmdb } = data.body;
 
     return (
       <>
-        {movieSearchData.results.map((value) => {
+        {tmdb.results.map((value) => {
           if (!value.poster_path) return null;
 
           return (

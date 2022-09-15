@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import { NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import React, { useMemo } from 'react';
+import React, { useCallback, useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
 import HeaderText from '../../../components/common/typography/headerText';
@@ -15,7 +15,8 @@ import MetaData from '../../../components/movie/metaData';
 import MovieRevenue from '../../../components/movie/movieRevenue';
 import MovieStats from '../../../components/movie/movieStats';
 import MovieReviewList from '../../../components/movie/reviews/reviewList';
-import { MovieQuery, ReleaseDate } from '../../../models/tmdb';
+import useFirebaseAuth from '../../../hooks/userAuth';
+import { MovieQuery } from '../../../models/tmdb';
 import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../../redux/api';
 import { wrapper } from '../../../redux/store';
 import formatDate from '../../../utils/formatDate';
@@ -26,6 +27,7 @@ interface Props {}
 
 const MoviePage: NextPage<Props> = () => {
   const router = useRouter();
+  const { user } = useFirebaseAuth();
 
   const { id } = router.query;
 
@@ -39,7 +41,7 @@ const MoviePage: NextPage<Props> = () => {
     return null;
   }, []);
 
-  const { data } = useGetMovieQuery(
+  const { data, isLoading, isFetching } = useGetMovieQuery(
     payload || skipToken,
     { skip: router.isFallback },
   );
@@ -47,45 +49,57 @@ const MoviePage: NextPage<Props> = () => {
   const directors = useMemo(() => {
     if (!data) return [];
 
-    return data.credits.crew.filter((cast) => cast.job === 'Director');
+    return data.body.credits.crew.filter((cast) => cast.job === 'Director');
   }, [data]);
 
   const producers = useMemo(() => {
     if (!data) return [];
 
-    return data.credits.crew.filter((cast) => cast.job === 'Producer');
+    return data.body.credits.crew.filter((cast) => cast.job === 'Producer');
   }, [data]);
 
   const writers = useMemo(() => {
     if (!data) return [];
 
-    return data.credits.crew.filter((cast) => cast.job === 'Screenplay');
+    return data.body.credits.crew.filter((cast) => cast.job === 'Screenplay');
   }, [data]);
 
-  const ageRating:ReleaseDate[] = useMemo(() => {
+  const ageRating = useMemo(() => {
     if (!data) return [];
 
-    const result = data.release_dates.results.find((dataResults) => dataResults.iso_3166_1 === 'US');
+    const result = data.body.release_dates.results.find((dataResults) => dataResults.iso_3166_1 === 'US');
 
     if (!result) return [];
 
     return result.release_dates;
   }, [data]);
 
+  const hasReviewed = useCallback(() => {
+    if (!user || !data || !data.body.tmrev.reviews.length) return '';
+
+    let reviewId = '';
+
+    data.body.tmrev.reviews.forEach((review) => {
+      if (review.userId === user.uid) reviewId = review._id;
+    });
+
+    return reviewId;
+  }, [user, data]);
+
   if (!data) return null;
 
   return (
     <div>
       <MetaTags
-        description={data.overview}
-        image={imageUrl(data.poster_path || '', 400, true)}
-        largeImage={imageUrl(data.backdrop_path || '')}
-        title={data.title}
-        url={createMediaUrl(data.id, data.title)}
+        description={data.body.overview}
+        image={imageUrl(data.body.poster_path || '', 400, true)}
+        largeImage={imageUrl(data.body.backdrop_path || '')}
+        title={data.body.title}
+        url={createMediaUrl(data.body.id, data.body.title)}
       />
       <div className="dark:bg-black bg-white relative flex flex-col justify-center items-center w-full">
         <div className="relative w-full h-96 lg:h-[500px]">
-          <Image priority layout="fill" objectFit="cover" src={imageUrl(data.backdrop_path)} />
+          <Image priority layout="fill" objectFit="cover" src={imageUrl(data.body.backdrop_path)} />
           <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
         </div>
         <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16 z-30">
@@ -101,22 +115,22 @@ const MoviePage: NextPage<Props> = () => {
                   className="rounded aspect-[2/3]"
                   height={500}
                   objectFit="cover"
-                  src={imageUrl(data.poster_path || '', 400, true)}
+                  src={imageUrl(data.body.poster_path || '', 400, true)}
                   width={350}
                 />
-                <CreateReviewButton />
-                <AddToWatchList movie={data} />
+                <CreateReviewButton hasReviewed={hasReviewed()} />
+                <AddToWatchList movie={data.body} />
                 <MetaData
                   ageRating={ageRating.length ? ageRating[0].certification : ''}
-                  genres={data.genres}
-                  imdb={data.imdb}
-                  runtime={data.runtime}
+                  genres={data.body.genres}
+                  imdb={data.body.imdb}
+                  runtime={data.body.runtime}
                   tmdb={
                     {
-                      id: data.id,
-                      title: data.title,
-                      vote_average: data.vote_average,
-                      vote_count: data.vote_count,
+                      id: data.body.id,
+                      title: data.body.title,
+                      vote_average: data.body.vote_average,
+                      vote_count: data.body.vote_count,
                     }
                   }
                 />
@@ -129,18 +143,18 @@ const MoviePage: NextPage<Props> = () => {
                   </span>
                   <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
                     <span className="mr-2">
-                      {data.title}
+                      {data.body.title}
                     </span>
                     <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
                       (
-                      {formatDate(data.release_date)}
+                      {formatDate(data.body.release_date)}
                       )
                     </span>
                   </h1>
-                  <p className="mt-8">{data.overview}</p>
+                  <p className="mt-8">{data.body.overview}</p>
                   <div className="w-full lg:hidden">
-                    <CreateReviewButton />
-                    <AddToWatchList movie={data} />
+                    <CreateReviewButton hasReviewed={hasReviewed()} />
+                    <AddToWatchList movie={data.body} />
                   </div>
                 </div>
                 <div className="divide-y mt-8 mb-40 md:flex flex-col">
@@ -153,26 +167,30 @@ const MoviePage: NextPage<Props> = () => {
                     <HeaderText headingType="h2">Information</HeaderText>
                     <MetaData
                       ageRating={ageRating.length ? ageRating[0].certification : ''}
-                      genres={data.genres}
-                      imdb={data.imdb}
-                      runtime={data.runtime}
+                      genres={data.body.genres}
+                      imdb={data.body.imdb}
+                      runtime={data.body.runtime}
                       tmdb={
                         {
-                          id: data.id,
-                          title: data.title,
-                          vote_average: data.vote_average,
-                          vote_count: data.vote_count,
+                          id: data.body.id,
+                          title: data.body.title,
+                          vote_average: data.body.vote_average,
+                          vote_count: data.body.vote_count,
                         }
                       }
                     />
                   </div>
-                  <MovieReviewList reviews={data.tmrevReviews} />
-                  <MovieStats id={id as string} reviews={data.tmrevReviews} />
+                  <MovieReviewList reviews={data.body.tmrev.reviews} />
+                  <MovieStats
+                    isFetching={isFetching}
+                    isLoading={isLoading}
+                    tmrev={data.body.tmrev}
+                  />
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
-                    title={data.title}
-                    year={data.release_date.split('-')[0]}
+                    title={data.body.title}
+                    year={data.body.release_date.split('-')[0]}
                   />
                 </div>
               </div>

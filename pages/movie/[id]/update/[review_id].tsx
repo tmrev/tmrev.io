@@ -7,31 +7,47 @@ import React, {
   useCallback, useEffect, useMemo, useRef, useState,
 } from 'react';
 
-import Button from '../../../components/common/Button';
-import MetaTags from '../../../components/common/MetaTag';
-import HeaderText from '../../../components/common/typography/headerText';
-import CopyLink from '../../../components/movie/copyLink';
-import UserRating from '../../../components/movie/userRating';
-import { useAppDispatch, useAppSelector } from '../../../hooks';
-import { MovieQuery } from '../../../models/tmdb';
-import { CreateTmrevReviewQuery } from '../../../models/tmrev';
-import { useAuth } from '../../../provider/authUserContext';
-import { useAddTmrevReviewMutation, useGetMovieQuery } from '../../../redux/api';
-import { setClearCurrentReview } from '../../../redux/slice/reviewsSlice';
-import formatDate from '../../../utils/formatDate';
-import imageUrl from '../../../utils/imageUrl';
-import { createMediaUrl, parseMediaId } from '../../../utils/mediaID';
+import Button from '../../../../components/common/Button';
+import MetaTags from '../../../../components/common/MetaTag';
+import HeaderText from '../../../../components/common/typography/headerText';
+import CopyLink from '../../../../components/movie/copyLink';
+import UserRating from '../../../../components/movie/userRating';
+import { useAppDispatch, useAppSelector } from '../../../../hooks';
+import { MovieQuery } from '../../../../models/tmdb';
+import { CreateTmrevReviewQuery, SingleReview } from '../../../../models/tmrev';
+import { useAuth } from '../../../../provider/authUserContext';
+import {
+  useDeleteTmrevReviewMutation,
+  useGetMovieQuery, useGetSingleReviewQuery, useUpdateTmrevReviewMutation,
+} from '../../../../redux/api';
+import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
+import { setClearCurrentReview, setCurrentReview } from '../../../../redux/slice/reviewsSlice';
+import formatDate from '../../../../utils/formatDate';
+import imageUrl from '../../../../utils/imageUrl';
+import { createMediaUrl, parseMediaId } from '../../../../utils/mediaID';
 
-const ReviewPage: NextPage = () => {
+const UpdatePage: NextPage = () => {
   const router = useRouter();
   const dispatch = useAppDispatch();
   const { user } = useAuth();
   const ref = useRef<HTMLDivElement>(null);
   const [moviePublic, setMoviePublic] = useState<boolean>(true);
+  const [token, setToken] = useState<string>();
 
-  const { id } = router.query;
+  const { id, review_id } = router.query;
 
-  const payload: MovieQuery = useMemo(() => {
+  useEffect(() => {
+    if (!user) return;
+
+    const genToken = async () => {
+      const authToken = await user.getIdToken();
+      setToken(authToken);
+    };
+
+    genToken();
+  }, [user]);
+
+  const moviePayload: MovieQuery = useMemo(() => {
     if (typeof id === 'string') {
       return {
         movie_id: parseMediaId(id),
@@ -43,6 +59,20 @@ const ReviewPage: NextPage = () => {
     };
   }, [id]);
 
+  const reviewPayload: SingleReview = useMemo(() => {
+    if (typeof review_id === 'string' && token) {
+      return {
+        authToken: token,
+        reviewId: review_id,
+      };
+    }
+
+    return {
+      authToken: '',
+      reviewId: '',
+    };
+  }, [token, review_id]);
+
   useEffect(() => {
     if (ref.current) {
       ref.current.scrollIntoView({
@@ -52,17 +82,23 @@ const ReviewPage: NextPage = () => {
     }
   }, [ref]);
 
-  const { data } = useGetMovieQuery(payload, { skip: !payload });
-  const [addReview] = useAddTmrevReviewMutation();
+  const { data } = useGetMovieQuery(moviePayload, { skip: !moviePayload.movie_id });
+  const [updateReview] = useUpdateTmrevReviewMutation();
+  const [deleteReview] = useDeleteTmrevReviewMutation();
+  // eslint-disable-next-line max-len
+  const { data: userReview } = useGetSingleReviewQuery(reviewPayload, { skip: !reviewPayload.authToken });
   const { currentReview } = useAppSelector((state) => state.reviews);
 
-  useEffect(() => () => {
-    if (typeof id === 'string') {
-      localStorage.setItem(String(parseMediaId(id as string)), JSON.stringify(currentReview));
-    }
-  }, [currentReview, id]);
+  useEffect(() => {
+    if (!userReview || !userReview.body) return () => {};
 
-  useEffect(() => () => { dispatch(setClearCurrentReview()); }, []);
+    dispatch(setCurrentReview(userReview.body));
+    setMoviePublic(userReview.body.public);
+
+    return () => {
+      dispatch(setClearCurrentReview());
+    };
+  }, [userReview]);
 
   const canSubmitReview = () => {
     if (!currentReview) return false;
@@ -87,8 +123,6 @@ const ReviewPage: NextPage = () => {
     if (canSubmitReview() || !currentReview || !data || !user || !averagedAdvancedScore) return;
 
     try {
-      const token = await user.getIdToken();
-
       const newPayload: CreateTmrevReviewQuery = {
         advancedScore: currentReview.advancedScore,
         notes: currentReview.notes,
@@ -100,7 +134,7 @@ const ReviewPage: NextPage = () => {
         token,
       };
 
-      addReview(newPayload).unwrap().then(() => {
+      updateReview(newPayload).unwrap().then(() => {
         router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
       }).catch((err) => {
         // eslint-disable-next-line no-console
@@ -111,6 +145,41 @@ const ReviewPage: NextPage = () => {
       console.error(error);
     }
   }, [user, currentReview, data, canSubmitReview(), averagedAdvancedScore, moviePublic]);
+
+  const handleDeleteReview = () => {
+    if (!token || !review_id || !data) return;
+
+    deleteReview({ authToken: token, reviewId: review_id as string })
+      .unwrap()
+      .then(() => {
+        dispatch(setOpenModal(false));
+        router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
+      });
+  };
+
+  const confirmDelete = () => {
+    const content: Content = {
+      buttons: [
+        {
+          onClick: () => dispatch(setOpenModal(false)),
+          title: 'nvm',
+          variant: 'secondary',
+        },
+        {
+          onClick: handleDeleteReview,
+          title: 'Yes, Delete',
+          variant: 'danger',
+        },
+      ],
+      closeFunc: () => dispatch(setOpenModal(false)),
+      description: 'Once deleted this review will be gone forever and can not be retrieved.',
+      outsideClick: true,
+      title: 'Are you sure you want to delete this review?',
+    };
+
+    dispatch(setModalContent(content));
+    dispatch(setOpenModal(true));
+  };
 
   useEffect(() => {
     canSubmitReview();
@@ -147,12 +216,15 @@ const ReviewPage: NextPage = () => {
                 src={imageUrl(data.body.poster_path || '', 400, true)}
                 width={350}
               />
-              <Button disabled={canSubmitReview()} variant="primary" onClick={submitReview}>Submit Review</Button>
+              <Button disabled={canSubmitReview()} variant="primary" onClick={submitReview}>Update Review</Button>
               <Button
                 variant="secondary"
                 onClick={() => setMoviePublic(!moviePublic)}
               >
                 {moviePublic ? 'Make Private' : 'Make Public'}
+              </Button>
+              <Button variant="danger" onClick={confirmDelete}>
+                Delete Review
               </Button>
             </div>
             <div className="flex flex-col space-y-3">
@@ -182,7 +254,7 @@ const ReviewPage: NextPage = () => {
                     variant="primary"
                     onClick={submitReview}
                   >
-                    Submit Review
+                    Update Review
                   </Button>
                 </div>
               </div>
@@ -194,4 +266,4 @@ const ReviewPage: NextPage = () => {
   );
 };
 
-export default ReviewPage;
+export default UpdatePage;

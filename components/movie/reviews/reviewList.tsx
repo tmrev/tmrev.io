@@ -1,11 +1,11 @@
 import React, { FunctionComponent } from 'react';
 
-import { TmrevReview } from '../../../models/tmrev';
+import { Review } from '../../../models/tmrev/movie';
 import HeaderText from '../../common/typography/headerText';
 import ReviewItem from './reviewItem';
 
 interface Props {
-  reviews: TmrevReview[]
+  reviews: Review[]
 }
 
 const MovieReviewList:FunctionComponent<Props> = ({ reviews }:Props) => {

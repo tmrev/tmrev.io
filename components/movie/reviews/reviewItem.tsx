@@ -1,66 +1,43 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import React, {
-  FunctionComponent, memo, useEffect, useState,
+  FunctionComponent, memo,
 } from 'react';
-import Skeleton from 'react-loading-skeleton';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
 import { useAppSelector } from '../../../hooks';
-import { TmrevReview } from '../../../models/tmrev';
+import useFirebaseAuth from '../../../hooks/userAuth';
+import { Review } from '../../../models/tmrev/movie';
 import { extractNameFromEmail } from '../../../utils/common';
+import Button from '../../common/Button';
 
 interface Props {
-  review: TmrevReview
+  review: Review
 }
-
-interface User {
-  email: string
-  photoUrl?: string
-  displayName?: string
-}
-
-const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
 const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
-  const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [data, setData] = useState<User>();
   const {
-    userId, _id, notes, averagedAdvancedScore,
+    userId, _id, notes, averagedAdvancedScore, profile,
   } = review;
+  const { user } = useFirebaseAuth();
   const { navigationOpen } = useAppSelector((state) => state.navigation);
-
-  const fetchUser = async () => {
-    try {
-      setIsLoading(true);
-      const res = await fetch(`${tmrevAPI}/user/${userId}`);
-      const userData = await res.json() as User;
-      setIsLoading(false);
-      setData(userData);
-    } catch (error) {
-      setIsLoading(false);
-    }
-  };
-
-  useEffect(() => {
-    fetchUser();
-  }, [userId]);
+  const router = useRouter();
 
   const renderUserName = () => {
-    if (isLoading) return <Skeleton />;
-    if (!data) return 'Error';
-    if (!data.displayName) {
+    if (!profile) return 'Error';
+    if (!profile.firstName || !profile.lastName) {
       return (
         <Link passHref href={`/user/${userId}`}>
-          <a>{extractNameFromEmail(data.email)}</a>
+          <a>{extractNameFromEmail(profile.email)}</a>
         </Link>
       );
     }
 
     return (
       <Link passHref href={`/user/${userId}`}>
-        <a>{data.displayName}</a>
+        <a>{`${profile.firstName} ${profile.lastName}`}</a>
       </Link>
     );
   };
@@ -79,11 +56,21 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
       ${navigationOpen && '2xl:!max-w-3xl md:!max-w-xs'} 
       space-y-4`}
       >
-        <p className="font-semibold max-w-[350px] min-w-[200px]">
-          <span className="font-normal opacity-75">Reviewed by</span>
-          {' '}
-          {renderUserName()}
-        </p>
+        <div className="flex space-x-4 items-center">
+          <p className="font-semibold max-w-[350px] min-w-[200px]">
+            <span className="font-normal opacity-75">Reviewed by</span>
+            {' '}
+            {renderUserName()}
+          </p>
+          {user?.uid === userId && (
+            <Button title="edit" variant="icon" onClick={() => router.push(`${router.asPath}/update/${_id}`)}>
+              <span className="material-symbols-outlined">
+                edit
+              </span>
+            </Button>
+          )}
+        </div>
+
         <div className="max-h-60 overflow-auto">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {notes}

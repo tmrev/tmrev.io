@@ -2,17 +2,17 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
 import {
-  DiscoverMovie, DiscoverMovieQuery,
-  DiscoverTv, DiscoverTvQuery, Movie,
-  MovieQuery, SearchMovieQuery,
-  SearchMovieResponse,
+  DiscoverMovie, DiscoverMovieQuery, MovieQuery,
 } from '../../models/tmdb';
 import {
-  CreateTmrevReviewQuery, CreateTmrevReviewResponse, MovieScore,
-  User, UserQuery, WatchList, WatchListSearchQuery,
+  CreateTmrevReviewQuery, CreateTmrevReviewResponse,
+  SingleReview,
+  User, UserQuery, WatchList,
 } from '../../models/tmrev';
+import { MovieResponse, ReviewResponse } from '../../models/tmrev/movie';
+import { DeleteReviewQuery } from '../../models/tmrev/review';
+import { SearchResponse } from '../../models/tmrev/search';
 import { AddMovieToWatchList, UpdateWatchList } from '../../models/tmrev/watchList';
-import { generateUrl } from '../../utils/common';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 export const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -20,7 +20,7 @@ export const tmdbAPI = 'https://api.themoviedb.org/3/';
 
 export const tmrevApi = createApi({
   baseQuery: fetchBaseQuery({
-    baseUrl: 'https://api.themoviedb.org/3/',
+    baseUrl: tmrevAPI,
     prepareHeaders: (headers) => headers,
   }),
   endpoints: (builder) => ({
@@ -32,7 +32,7 @@ export const tmrevApi = createApi({
           authorization: body.token,
         },
         method: 'POST',
-        url: `${tmrevAPI}/watch-list/${body.listId}`,
+        url: `/watch-list/${body.listId}`,
       }),
     }),
     addTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
@@ -47,60 +47,43 @@ export const tmrevApi = createApi({
             authorization: body.token,
           },
           method: 'POST',
-          url: `${tmrevAPI}/movie`,
+          url: '/movie/review/',
         };
       },
+    }),
+    deleteTmrevReview: builder.mutation<void, DeleteReviewQuery>({
+      invalidatesTags: ['MOVIE'],
+      query: (body) => ({
+        headers: {
+          authorization: body.authToken,
+        },
+        method: 'DELETE',
+        url: `/movie/review/${body.reviewId}`,
+      }),
     }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
       query: (data) => ({
-        url: `/discover/movie?api_key=${apiKey}&page=${data.page}`,
+        url: `${tmdbAPI}discover/movie?api_key=${apiKey}&page=${data.page}`,
       }),
       transformResponse: (response: DiscoverMovie) => response,
     }),
-    getDiscoverTv: builder.query<DiscoverTv, DiscoverTvQuery>({
-      query: (data) => ({
-        url: `/discover/tv?api_key=${apiKey}&page=${data.page}`,
-      }),
-      transformResponse: (response: DiscoverTv) => response,
-    }),
-    getMovie: builder.query<Movie, MovieQuery>({
+    getMovie: builder.query<MovieResponse, MovieQuery>({
       providesTags: ['MOVIE'],
       query: (data) => ({
-        url: `/movie/${data.movie_id}?api_key=${apiKey}&append_to_response=credits,release_dates,reviews`,
-      }),
-      transformResponse: async (response: Movie, _, arg) => {
-        const urls = [
-          `${tmrevAPI}/imdb/${response.imdb_id}`,
-          `${tmrevAPI}/movie/all/${arg.movie_id}`,
-        ];
-        const requests = urls.map((url) => fetch(url));
-        const responses = await Promise.all(requests);
-        const promises = responses.map((res) => res.json());
-
-        const movieReviews = await Promise.all(promises);
-
-        return {
-          ...response,
-          imdb: movieReviews[0] || [],
-          tmrevReviews: movieReviews[1],
-        };
-      },
-    }),
-    getSearchMovie: builder.query<SearchMovieResponse, SearchMovieQuery>({
-      query: (data) => ({
-        url: `${generateUrl('https://api.themoviedb.org/3/search/movie', data)}&api_key=${apiKey}`,
+        url: `/movie/${data.movie_id}`,
       }),
     }),
-    getTmrevAvgScore: builder.query<MovieScore, number>({
-      providesTags: ['TMREV_SCORE'],
+    getSingleReview: builder.query<ReviewResponse, SingleReview>({
       query: (data) => ({
-        url: `${tmrevAPI}/movie/score/${data}`,
+        headers: {
+          authorization: data.authToken,
+        },
+        url: `/movie/review/${data.reviewId}`,
       }),
-      transformResponse: (response: MovieScore[]) => response[0],
     }),
     getUser: builder.query<User, UserQuery>({
       query: (data) => ({
-        url: `${tmrevAPI}/user/full/${data.uid}`,
+        url: `/user/full/${data.uid}`,
       }),
       transformResponse: (response: User) => response,
     }),
@@ -109,18 +92,29 @@ export const tmrevApi = createApi({
         headers: {
           authorization: data,
         },
-        url: `${tmrevAPI}/watch-list`,
+        url: '/watch-list',
       }),
     }),
-    searchUser: builder.query<User[], string>({
+    search: builder.query<SearchResponse, string>({
       query: (data) => ({
-        url: `${tmrevAPI}/user/search?q=${data}`,
+        url: `/search?q=${data}`,
       }),
     }),
-    searchWatchList: builder.query<WatchList[], WatchListSearchQuery>({
-      query: (data) => ({
-        url: `${tmrevAPI}/watch-list/search?q=${data.q}`,
-      }),
+    updateTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
+      invalidatesTags: ['MOVIE'],
+      query: (body) => {
+        const newBody = structuredClone(body);
+        delete newBody.token;
+
+        return {
+          body: newBody,
+          headers: {
+            authorization: body.token,
+          },
+          method: 'PUT',
+          url: `/movie/review/${newBody.tmdbID}`,
+        };
+      },
     }),
     updateWatchList: builder.mutation<WatchList, UpdateWatchList>({
       invalidatesTags: ['WATCH_LIST'],
@@ -137,7 +131,7 @@ export const tmrevApi = createApi({
           authorization: body.token,
         },
         method: 'PUT',
-        url: `${tmrevAPI}/watch-list/${body.watchListId}`,
+        url: `/watch-list/${body.watchListId}`,
       }),
     }),
   }),
@@ -153,18 +147,17 @@ export const tmrevApi = createApi({
 
 export const {
   useAddTmrevReviewMutation,
-  useGetDiscoverMovieQuery,
-  useGetDiscoverTvQuery,
   useGetMovieQuery,
   useGetUserQuery,
-  useGetTmrevAvgScoreQuery,
-  useGetSearchMovieQuery,
-  useSearchWatchListQuery,
-  useSearchUserQuery,
   useGetUserWatchListsQuery,
   useAddMovieToWatchListMutation,
   useUpdateWatchListMutation,
+  useSearchQuery,
+  useGetDiscoverMovieQuery,
+  useGetSingleReviewQuery,
+  useUpdateTmrevReviewMutation,
+  useDeleteTmrevReviewMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 
-export const { getDiscoverMovie, getDiscoverTv, getMovie } = tmrevApi.endpoints;
+export const { getMovie, getDiscoverMovie } = tmrevApi.endpoints;

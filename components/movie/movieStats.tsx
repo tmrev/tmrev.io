@@ -2,27 +2,26 @@ import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
 import { useAppSelector } from '../../hooks';
-import { TmrevReview } from '../../models/tmrev';
+import { Tmrev } from '../../models/tmrev/movie';
 import { useAuth } from '../../provider/authUserContext';
-import { useGetTmrevAvgScoreQuery } from '../../redux/api';
 import { roundWithMaxPrecision } from '../../utils/common';
 import { getMedian, getStandardDeviation } from '../../utils/math';
-import { parseMediaId } from '../../utils/mediaID';
 import RadarChart from '../common/charts/radar';
 import HeaderText from '../common/typography/headerText';
 
 interface Props {
-  id?: string
-  reviews: TmrevReview[]
+  tmrev: Tmrev
+  isFetching: boolean,
+  isLoading: boolean
 }
 
-const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
+const MovieStats:FunctionComponent<Props> = ({
+  tmrev, isFetching, isLoading,
+}) => {
+  const { reviews, avgScore } = tmrev;
+
   const { user } = useAuth();
   const { navigationOpen } = useAppSelector((state) => state.navigation);
-  const { data, isLoading, isFetching } = useGetTmrevAvgScoreQuery(
-    parseMediaId(id),
-    { skip: !parseMediaId(id) },
-  );
 
   const userReview = useMemo(() => {
     if (!reviews || !user) return [];
@@ -80,7 +79,7 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
   }, [reviews]);
 
   const labels: string[] = useMemo(() => {
-    if (!data) return [];
+    if (!avgScore) return [];
 
     return [
       'Plot', 'Theme', 'Climax',
@@ -88,10 +87,10 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
       'Characters', 'Music',
       'Cinematography', 'Visuals', 'Personal Score',
     ];
-  }, [data]);
+  }, [avgScore]);
 
   const datasets: any[] = useMemo(() => {
-    if (!data || !reviews || !formatReviews) return [];
+    if (!avgScore || !reviews || !formatReviews) return [];
 
     const chartData = [
       {
@@ -156,9 +155,9 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
     }
 
     return chartData;
-  }, [data, formatReviews, userReview]);
+  }, [avgScore, formatReviews, userReview]);
 
-  if (isLoading || !data) {
+  if (isLoading || !avgScore) {
     if (!isFetching) {
       return null;
     }
@@ -176,7 +175,7 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
       <div className="flex-col items-center relative">
         <HeaderText headingType="h2">
           THE MOVIE REVIEW (
-          {roundWithMaxPrecision(data.totalScore, 1)}
+          {roundWithMaxPrecision(avgScore.totalScore, 1)}
           )
         </HeaderText>
       </div>
@@ -228,10 +227,6 @@ const MovieStats:FunctionComponent<Props> = ({ id, reviews }) => {
     </div>
 
   );
-};
-
-MovieStats.defaultProps = {
-  id: '',
 };
 
 export default MovieStats;
