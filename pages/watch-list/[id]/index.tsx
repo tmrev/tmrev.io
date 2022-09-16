@@ -65,7 +65,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
 
     return (
       <Button hoverEffect variant="icon" onClick={() => router.push(`/watch-list/${router.query.id}/edit`)}>
-        <span className="material-symbols-outlined">
+        <span className="material-icons">
           edit
         </span>
       </Button>

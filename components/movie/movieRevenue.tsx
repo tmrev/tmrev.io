@@ -114,7 +114,7 @@ const MovieRevenue:FunctionComponent<Props> = ({
         <div className="flex-grow" />
         <div className=" relative">
           <Button variant="icon" onClick={() => setOpenDropDown(!openDropDown)}>
-            <span className="material-symbols-outlined">
+            <span className="material-icons">
               more_vert
             </span>
           </Button>

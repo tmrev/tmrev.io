@@ -29,7 +29,7 @@ const Input = React.forwardRef<HTMLInputElement, Props>(({ type, error, ...other
       )}
       {type === 'password' && (
         <Button className="absolute right-1 top-0" hoverEffect={false} variant="icon" onClick={() => setIsPasswordVisible(!isPasswordVisible)}>
-          <span className="material-symbols-outlined ">
+          <span className="material-icons ">
             {isPasswordVisible ? 'visibility' : 'visibility_off'}
           </span>
         </Button>

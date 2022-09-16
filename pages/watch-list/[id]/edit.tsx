@@ -69,7 +69,7 @@ const WatchListEdit: NextPage = () => {
 
   const renderVisibility = () => (
     <Button variant="icon" onClick={() => setPublicStatus(!publicStatus)}>
-      <span className="material-symbols-outlined">
+      <span className="material-icons">
         {publicStatus ? 'visibility' : 'visibility_off'}
       </span>
     </Button>

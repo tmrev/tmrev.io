@@ -115,7 +115,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
                 variant="icon"
                 onClick={() => setMobileOpen(false)}
               >
-                <span className="material-symbols-outlined">
+                <span className="material-icons">
                   close
                 </span>
               </Button>
@@ -133,7 +133,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
                       }
                       title={link.title}
                     >
-                      <span className="material-symbols-outlined">
+                      <span className="material-icons">
                         {link.icon}
                       </span>
                       <Typography variant="h5">{link.title}</Typography>
@@ -170,7 +170,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               variant="icon"
               onClick={() => setMobileOpen(true)}
             >
-              <span className="material-symbols-outlined">
+              <span className="material-icons">
                 menu
               </span>
             </Button>
@@ -182,7 +182,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
             variant="icon"
             onClick={() => dispatch(setOpenNavigation(!isNavigationOpen))}
           >
-            <span className="material-symbols-outlined -rotate-90">
+            <span className="material-icons -rotate-90">
               {isNavigationOpen ? 'expand_less' : 'expand_more'}
             </span>
           </Button>
@@ -195,7 +195,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               <li key={link.url}>
                 <Link passHref href={link.url}>
                   <a className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none" title={link.title}>
-                    <span className="material-symbols-outlined">
+                    <span className="material-icons">
                       {link.icon}
                     </span>
                     <Typography

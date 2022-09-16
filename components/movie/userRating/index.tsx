@@ -123,7 +123,7 @@ const UserRating: FunctionComponent = () => {
         <HeaderText headingType="h2">Rating</HeaderText>
         <div className="flex-grow" />
         <Button variant="icon" onClick={() => setExpand(!expand)}>
-          <span className="material-symbols-outlined">
+          <span className="material-icons">
             {expand ? 'expand_less' : 'expand_more'}
           </span>
         </Button>

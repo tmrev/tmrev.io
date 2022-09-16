@@ -64,7 +64,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
           </p>
           {user?.uid === userId && (
             <Button title="edit" variant="icon" onClick={() => router.push(`${router.asPath}/update/${_id}`)}>
-              <span className="material-symbols-outlined">
+              <span className="material-icons">
                 edit
               </span>
             </Button>

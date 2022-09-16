@@ -9,13 +9,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 500,
-  'GRAD' 0,
-  'opsz' 48
-}
 
 .typography--variant-h1 {
   font-size: 60px;

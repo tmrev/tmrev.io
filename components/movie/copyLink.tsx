@@ -20,7 +20,7 @@ const CopyLink:FunctionComponent<Props> = ({ link }:Props) => {
 
   return (
     <Button variant="icon" onClick={copyToClipBoard}>
-      <span className="material-symbols-outlined">
+      <span className="material-icons">
         {success ? 'done' : 'link'}
       </span>
     </Button>

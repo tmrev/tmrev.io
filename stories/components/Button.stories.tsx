@@ -36,7 +36,7 @@ Text.args = {
 export const Icon = Template.bind({});
 
 Icon.args = {
-  children: <span className="material-symbols-outlined">
+  children: <span className="material-icons">
     favorite
   </span>,
   variant: 'icon',
