@@ -13,6 +13,7 @@ const nextConfig = {
       'image.tmdb.org',
     ],
   },
+  optimizeFonts: false,
   reactStrictMode: true,
 };
 
