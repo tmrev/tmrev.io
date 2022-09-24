@@ -15,7 +15,7 @@ const Profile: FunctionComponent = () => {
   if (!user) return null;
 
   return (
-    <Link passHref href={`/user/${user.uid}`}>
+    <Link passHref href={`/user/${user.uid}/preview`}>
       <a>
         <div className={clsx(
           'hidden lg:flex fixed items-center space-x-4 transition-all duration-300',

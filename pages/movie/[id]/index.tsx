@@ -15,6 +15,7 @@ import MetaData from '../../../components/movie/metaData';
 import MovieRevenue from '../../../components/movie/movieRevenue';
 import MovieStats from '../../../components/movie/movieStats';
 import MovieReviewList from '../../../components/movie/reviews/reviewList';
+import WatchedButton from '../../../components/page-components/movie/watched/watchedButton';
 import useFirebaseAuth from '../../../hooks/userAuth';
 import { MovieQuery } from '../../../models/tmdb';
 import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../../redux/api';
@@ -120,6 +121,7 @@ const MoviePage: NextPage<Props> = () => {
                 />
                 <CreateReviewButton hasReviewed={hasReviewed()} />
                 <AddToWatchList movie={data.body} />
+
                 <MetaData
                   ageRating={ageRating.length ? ageRating[0].certification : ''}
                   genres={data.body.genres}
@@ -152,6 +154,7 @@ const MoviePage: NextPage<Props> = () => {
                     </span>
                   </h1>
                   <p className="mt-8">{data.body.overview}</p>
+                  <WatchedButton movie={data} />
                   <div className="w-full lg:hidden">
                     <CreateReviewButton hasReviewed={hasReviewed()} />
                     <AddToWatchList movie={data.body} />

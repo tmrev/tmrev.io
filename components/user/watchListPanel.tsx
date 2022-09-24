@@ -9,7 +9,7 @@ interface Props {
 }
 
 const WatchListPanel: FunctionComponent<Props> = ({ watchlist }:Props) => (
-  <Link passHref href={`/watch-list/${watchlist._id}`}>
+  <Link passHref href={`/user/${watchlist.userId}/watch-list/${watchlist._id}`}>
     <a>
       <div className="flex flex-col items-center justify-center bg-black hover:bg-tmrev-gray-dark p-4 rounded">
         <div className="aspect-[2/3] h-[200px] w-[150px] relative rounded">

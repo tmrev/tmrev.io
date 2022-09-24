@@ -9,9 +9,10 @@ import {
   SingleReview,
   User, UserQuery, WatchList,
 } from '../../models/tmrev';
-import { MovieResponse, ReviewResponse } from '../../models/tmrev/movie';
+import { BatchMoviesResponse, MovieResponse, ReviewResponse } from '../../models/tmrev/movie';
 import { DeleteReviewQuery } from '../../models/tmrev/review';
 import { SearchResponse } from '../../models/tmrev/search';
+import { WatchedDeletePayload, WatchedPayload, WatchedResponse } from '../../models/tmrev/watched';
 import { AddMovieToWatchList, UpdateWatchList } from '../../models/tmrev/watchList';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
@@ -51,6 +52,31 @@ export const tmrevApi = createApi({
         };
       },
     }),
+    batchMovies: builder.query<BatchMoviesResponse, number[]>({
+      query: (body) => ({
+        body: {
+          movieId: body,
+        },
+        method: 'POST',
+        url: '/movie/batch',
+      }),
+    }),
+    createWatched: builder.mutation<WatchedResponse, WatchedPayload>({
+      invalidatesTags: ['WATCHED', 'MOVIE'],
+      query: (body) => ({
+        body: {
+          liked: body.liked,
+          posterPath: body.posterPath,
+          title: body.title,
+          tmdbID: body.tmdbID,
+        },
+        headers: {
+          authorization: body.authToken,
+        },
+        method: 'POST',
+        url: '/movie/watched',
+      }),
+    }),
     deleteTmrevReview: builder.mutation<void, DeleteReviewQuery>({
       invalidatesTags: ['MOVIE'],
       query: (body) => ({
@@ -59,6 +85,16 @@ export const tmrevApi = createApi({
         },
         method: 'DELETE',
         url: `/movie/review/${body.reviewId}`,
+      }),
+    }),
+    deleteWatched: builder.mutation<void, WatchedDeletePayload>({
+      invalidatesTags: ['WATCHED', 'MOVIE'],
+      query: (body) => ({
+        headers: {
+          authorization: body.authToken,
+        },
+        method: 'DELETE',
+        url: `/movie/watched/${body.watchedId}`,
       }),
     }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
@@ -93,6 +129,13 @@ export const tmrevApi = createApi({
           authorization: data,
         },
         url: '/watch-list',
+      }),
+    }),
+    getWatched: builder.query<WatchedResponse, string>({
+      providesTags: ['WATCHED', 'MOVIE'],
+      query: (userId) => ({
+        method: 'GET',
+        url: `/movie/watched/${userId}`,
       }),
     }),
     search: builder.query<SearchResponse, string>({
@@ -134,6 +177,22 @@ export const tmrevApi = createApi({
         url: `/watch-list/${body.watchListId}`,
       }),
     }),
+    updateWatched: builder.mutation<WatchedResponse, WatchedPayload>({
+      invalidatesTags: ['WATCHED', 'MOVIE'],
+      query: (body) => ({
+        body: {
+          liked: body.liked,
+          posterPath: body.posterPath,
+          title: body.title,
+          tmdbID: body.tmdbID,
+        },
+        headers: {
+          authorization: body.authToken,
+        },
+        method: 'PUT',
+        url: `/movie/watched/${body._id}`,
+      }),
+    }),
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -142,7 +201,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
-  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST'],
+  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED'],
 });
 
 export const {
@@ -157,7 +216,14 @@ export const {
   useGetSingleReviewQuery,
   useUpdateTmrevReviewMutation,
   useDeleteTmrevReviewMutation,
+  useBatchMoviesQuery,
+  useCreateWatchedMutation,
+  useDeleteWatchedMutation,
+  useGetWatchedQuery,
+  useUpdateWatchedMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 
-export const { getMovie, getDiscoverMovie } = tmrevApi.endpoints;
+export const {
+  getMovie, getDiscoverMovie, batchMovies, getUser,
+} = tmrevApi.endpoints;

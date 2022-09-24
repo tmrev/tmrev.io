@@ -2,7 +2,6 @@ interface TmrevReview {
   _id: string,
   advancedScore: AdvancedScore | null,
   averagedAdvancedScore: number | null,
-  simpleScore: number | null,
   createdAt: CreatedAt,
   updatedAt: UpdatedAt,
   notes: string
@@ -10,6 +9,7 @@ interface TmrevReview {
   title: string
   tmdbID: number,
   userId: string
+  reviewedDate: string
 }
 
 interface CreateTmrevReviewQuery {

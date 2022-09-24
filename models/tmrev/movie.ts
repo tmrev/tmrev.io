@@ -1,3 +1,5 @@
+import { Movie } from '../tmdb';
+
 /* eslint-disable no-unused-vars */
 export interface MovieResponse {
   success: boolean;
@@ -152,6 +154,8 @@ export interface SpokenLanguage {
 export interface Tmrev {
   reviews: Review[];
   avgScore: Score;
+  likes: number;
+  dislikes: number;
 }
 
 export interface Score {
@@ -182,8 +186,8 @@ export interface ReviewResponse {
 
 export interface Review {
   _id: string;
-  createdAt: AtedAt;
-  updatedAt: AtedAt;
+  createdAt: TimeStamp;
+  updatedAt: TimeStamp;
   userId: string;
   averagedAdvancedScore: number;
   user: string;
@@ -197,7 +201,7 @@ export interface Review {
   profile: Profile;
 }
 
-export interface AtedAt {
+export interface TimeStamp {
   nanoseconds: number;
   seconds: number;
 }
@@ -210,4 +214,13 @@ export interface Profile {
   following?: string[];
   firstName: string;
   lastName: string;
+  photoUrl?: string
+}
+
+export type BatchMovies = {[x: string]: Movie }
+
+export interface BatchMoviesResponse {
+  success: boolean
+  body: BatchMovies
+  error?: any
 }

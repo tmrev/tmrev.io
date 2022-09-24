@@ -7,55 +7,11 @@ import React, {
 } from 'react';
 
 import { useAppDispatch, useAppSelector } from '../hooks';
+import { useAuth } from '../provider/authUserContext';
 import { setOpenNavigation } from '../redux/slice/navigationSlice';
 import Button from './common/Button';
 import Typography from './common/typography';
 import Profile from './navigation/profile';
-
-const urlLinks = [
-  {
-    auth: false,
-    icon: 'search',
-    title: 'Search',
-    url: '/search',
-  },
-  {
-    auth: false,
-    icon: 'movie',
-    title: 'Movies',
-    url: '/movies',
-  },
-  // {
-  //   auth: false,
-  //   icon: 'tv',
-  //   title: 'TV shows',
-  //   url: '/tv',
-  // },
-  // {
-  //   auth: false,
-  //   icon: 'person',
-  //   title: 'People',
-  //   url: '/people',
-  // },
-  {
-    auth: false,
-    icon: 'trending_up',
-    title: 'Trending',
-    url: '/',
-  },
-  {
-    auth: true,
-    icon: 'list',
-    title: 'Watch List',
-    url: '/watch-list',
-  },
-  // {
-  //   auth: false,
-  //   icon: 'how_to_vote',
-  //   title: 'Create Poll',
-  //   url: '/poll',
-  // },
-];
 
 const hiddenRoutes = ['login', 'register'];
 
@@ -66,6 +22,65 @@ interface Props {
 const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const router = useRouter();
+  const { user } = useAuth();
+
+  const urlLinks = useMemo(() => (
+    [
+      {
+        auth: false,
+        icon: 'search',
+        mobileOnly: false,
+        title: 'Search',
+        url: '/search',
+      },
+      {
+        auth: false,
+        icon: 'movie',
+        mobileOnly: false,
+        title: 'Movies',
+        url: '/movies',
+      },
+      // {
+      //   auth: false,
+      //   icon: 'tv',
+      //   title: 'TV shows',
+      //   url: '/tv',
+      // },
+      // {
+      //   auth: false,
+      //   icon: 'person',
+      //   title: 'People',
+      //   url: '/people',
+      // },
+      {
+        auth: false,
+        icon: 'trending_up',
+        mobileOnly: false,
+        title: 'Trending',
+        url: '/',
+      },
+      {
+        auth: true,
+        icon: 'list',
+        mobileOnly: false,
+        title: 'Watch List',
+        url: `/user/${user?.uid}/watch-list`,
+      },
+      {
+        auth: true,
+        icon: 'account_circle',
+        mobileOnly: true,
+        title: 'Profile',
+        url: `/user/${user?.uid}/preview`,
+      },
+      // {
+      //   auth: false,
+      //   icon: 'how_to_vote',
+      //   title: 'Create Poll',
+      //   url: '/poll',
+      // },
+    ]
+  ), [user]);
 
   const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
   const dispatch = useAppDispatch();
@@ -191,26 +206,30 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
             isNavigationOpen ? 'top-36' : 'top-16',
           )}
           >
-            {urlLinks.map((link) => (
-              <li key={link.url}>
-                <Link passHref href={link.url}>
-                  <a className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none" title={link.title}>
-                    <span className="material-icons">
-                      {link.icon}
-                    </span>
-                    <Typography
-                      className={clsx(
-                        isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
-                        'transition-all duration-300',
-                      )}
-                      variant="h5"
-                    >
-                      {link.title}
-                    </Typography>
-                  </a>
-                </Link>
-              </li>
-            ))}
+            {urlLinks.map((link) => {
+              if ((link.auth && !user) || link.mobileOnly) return null;
+
+              return (
+                <li key={link.url}>
+                  <Link passHref href={link.url}>
+                    <a className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none" title={link.title}>
+                      <span className="material-icons">
+                        {link.icon}
+                      </span>
+                      <Typography
+                        className={clsx(
+                          isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
+                          'transition-all duration-300',
+                        )}
+                        variant="h5"
+                      >
+                        {link.title}
+                      </Typography>
+                    </a>
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
           <Profile />
         </motion.nav>

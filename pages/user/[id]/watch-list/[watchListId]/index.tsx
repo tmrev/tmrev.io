@@ -7,15 +7,15 @@ import nookies from 'nookies';
 import React, { useEffect, useMemo } from 'react';
 import { useDispatch } from 'react-redux';
 
-import Button from '../../../components/common/Button';
-import HeaderText from '../../../components/common/typography/headerText';
-import { Movie } from '../../../models/tmdb';
-import { WatchList } from '../../../models/tmrev';
-import { useAuth } from '../../../provider/authUserContext';
-import { apiKey, tmdbAPI, tmrevAPI } from '../../../redux/api';
-import { setMovies, setWatchList } from '../../../redux/slice/watchListSlice';
-import imageUrl from '../../../utils/imageUrl';
-import { createMediaUrl } from '../../../utils/mediaID';
+import Button from '../../../../../components/common/Button';
+import HeaderText from '../../../../../components/common/typography/headerText';
+import { Movie } from '../../../../../models/tmdb';
+import { WatchList } from '../../../../../models/tmrev';
+import { useAuth } from '../../../../../provider/authUserContext';
+import { apiKey, tmdbAPI, tmrevAPI } from '../../../../../redux/api';
+import { setMovies, setWatchList } from '../../../../../redux/slice/watchListSlice';
+import imageUrl from '../../../../../utils/imageUrl';
+import { createMediaUrl } from '../../../../../utils/mediaID';
 
 const fetchWatchList = async (id: string, token?: string): Promise<WatchList> => {
   const res = await fetch(
@@ -57,14 +57,18 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
   }, [watchList, movies]);
 
   useEffect(() => {
-    router.prefetch(`/watch-list/${router.query.id}/edit`);
+    router.prefetch(`/user/${user?.uid}/watch-list/${router.query.watchListId}/edit`);
   }, [router.query.id]);
 
   const renderEdit = () => {
     if (!isOwner) return null;
 
     return (
-      <Button hoverEffect variant="icon" onClick={() => router.push(`/watch-list/${router.query.id}/edit`)}>
+      <Button
+        hoverEffect
+        variant="icon"
+        onClick={() => router.push(`/user/${user?.uid}/watch-list/${router.query.watchListId}/edit`)}
+      >
         <span className="material-icons">
           edit
         </span>
@@ -118,12 +122,12 @@ UserWatchList.defaultProps = {
 };
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
-  const { id } = context.query;
+  const { watchListId } = context.query;
   const cookies = nookies.get(context);
 
   try {
-    if (id && typeof id === 'string') {
-      const watchList = await fetchWatchList(id, cookies.token);
+    if (watchListId && typeof watchListId === 'string') {
+      const watchList = await fetchWatchList(watchListId, cookies.token);
       const moviePromises = watchList.movies.map((movieId) => fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) => resp.json()));
 
       const movies = await Promise.all(moviePromises);

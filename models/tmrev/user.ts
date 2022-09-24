@@ -10,6 +10,8 @@ interface User {
   following?: string[],
   reviews: TmrevReview[],
   watchLists: WatchList[]
+  firstName: string
+  lastName: string
 }
 
 interface UserQuery {

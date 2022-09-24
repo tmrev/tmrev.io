@@ -7,6 +7,9 @@ module.exports = {
   plugins: [],
   theme: {
     extend: {
+      aspectRatio: {
+        moviePoster: '2 / 3',
+      },
       colors: {
         black: '#242424',
         tmrev: {

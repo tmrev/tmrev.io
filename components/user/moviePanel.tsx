@@ -37,7 +37,6 @@ const MoviePanel: FunctionComponent<Props> = ({ movie }:Props) => {
         </div>
       </a>
     </Link>
-
   );
 };
 

@@ -5,13 +5,13 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, { useEffect, useState } from 'react';
 
-import Button from '../../../components/common/Button';
-import Input from '../../../components/common/Input';
-import { useAppSelector } from '../../../hooks';
-import { UpdateWatchList } from '../../../models/tmrev';
-import { useAuth } from '../../../provider/authUserContext';
-import { useUpdateWatchListMutation } from '../../../redux/api';
-import imageUrl from '../../../utils/imageUrl';
+import Button from '../../../../../components/common/Button';
+import Input from '../../../../../components/common/Input';
+import { useAppSelector } from '../../../../../hooks';
+import { UpdateWatchList } from '../../../../../models/tmrev';
+import { useAuth } from '../../../../../provider/authUserContext';
+import { useUpdateWatchListMutation } from '../../../../../redux/api';
+import imageUrl from '../../../../../utils/imageUrl';
 
 const WatchListEdit: NextPage = () => {
   const router = useRouter();

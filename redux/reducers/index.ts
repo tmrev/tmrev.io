@@ -4,6 +4,7 @@ import { tmrevApi } from '../api';
 import modalSlice from '../slice/modalSlice';
 import navigationSlice from '../slice/navigationSlice';
 import reviewsSlice from '../slice/reviewsSlice';
+import userProfileSlice from '../slice/userProfileSlice';
 import watchListSlice from '../slice/watchListSlice';
 
 const rootReducer = combineReducers({
@@ -11,6 +12,7 @@ const rootReducer = combineReducers({
   modal: modalSlice,
   navigation: navigationSlice,
   reviews: reviewsSlice,
+  userProfile: userProfileSlice,
   watchList: watchListSlice,
 });
 
