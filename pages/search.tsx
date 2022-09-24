@@ -38,7 +38,7 @@ const Search:FunctionComponent = () => {
     return (
       <>
         {user.map((value) => (
-          <Link key={value._id} passHref href={`/user/${value.uuid}`}>
+          <Link key={value._id} passHref href={`/user/${value.uuid}/preview`}>
             <a className={clsx(
               'flex-col text-center ',
               'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
