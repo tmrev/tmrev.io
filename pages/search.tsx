@@ -75,7 +75,7 @@ const Search:FunctionComponent = () => {
     return (
       <>
         {watchList.map((value) => (
-          <Link key={value._id} passHref href={`/watch-list/${value._id}`}>
+          <Link key={value._id} passHref href={`/user/${value.userId}/watch-list/${value._id}`}>
             <a className={clsx(
               'flex-col text-center ',
               'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
