@@ -13,8 +13,12 @@ interface Props {
   movie: MovieResponse
 }
 
-const pickClass = (active: boolean | null | undefined) => {
-  if (active) {
+const pickClass = (active:Watched | null, thumbUp: boolean) => {
+  if (active?.liked && thumbUp) {
+    return 'material-icons';
+  }
+
+  if (!active?.liked && !thumbUp) {
     return 'material-icons';
   }
 
@@ -77,7 +81,7 @@ const WatchedButton: FunctionComponent<Props> = ({
     <div className="flex space-x-2 mt-4">
       <div className="flex items-center space-x-2">
         <Button variant="icon" onClick={() => handleWatched(true)}>
-          <span className={pickClass(hasUserRated?.liked)}>
+          <span className={pickClass(hasUserRated, true)}>
             thumb_up
           </span>
         </Button>
@@ -85,7 +89,7 @@ const WatchedButton: FunctionComponent<Props> = ({
       </div>
       <div className="flex items-center space-x-2">
         <Button variant="icon" onClick={() => handleWatched(false)}>
-          <span className={pickClass(!hasUserRated?.liked)}>
+          <span className={pickClass(hasUserRated, false)}>
             thumb_down
           </span>
         </Button>
