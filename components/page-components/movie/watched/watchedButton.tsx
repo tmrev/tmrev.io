@@ -14,6 +14,8 @@ interface Props {
 }
 
 const pickClass = (active:Watched | null, thumbUp: boolean) => {
+  if (!active) return 'material-icons-outlined';
+
   if (active?.liked && thumbUp) {
     return 'material-icons';
   }
