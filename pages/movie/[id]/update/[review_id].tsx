@@ -22,6 +22,7 @@ import {
 } from '../../../../redux/api';
 import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
 import { setClearCurrentReview, setCurrentReview } from '../../../../redux/slice/reviewsSlice';
+import { setOpenToast, setToastContent } from '../../../../redux/slice/toastSlice';
 import formatDate from '../../../../utils/formatDate';
 import imageUrl from '../../../../utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '../../../../utils/mediaID';
@@ -135,6 +136,8 @@ const UpdatePage: NextPage = () => {
       };
 
       updateReview(newPayload).unwrap().then(() => {
+        dispatch(setToastContent('Successfully Updated your review'));
+        dispatch(setOpenToast(true));
         router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
       }).catch((err) => {
         // eslint-disable-next-line no-console
@@ -153,6 +156,8 @@ const UpdatePage: NextPage = () => {
       .unwrap()
       .then(() => {
         dispatch(setOpenModal(false));
+        dispatch(setToastContent('Successfully Deleted your review'));
+        dispatch(setOpenToast(true));
         router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
       });
   };

@@ -7,6 +7,7 @@ import NextNProgress from 'nextjs-progressbar';
 import React from 'react';
 
 import Modal from '../components/common/Modal';
+import Toast from '../components/common/Toast';
 import { AuthUserProvider } from '../provider/authUserContext';
 import { wrapper } from '../redux/store';
 import Layout from './layout';
@@ -21,6 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Modal />
       </AuthUserProvider>
       <NextNProgress color="#FFC000" />
+      <Toast />
     </>
 
   );

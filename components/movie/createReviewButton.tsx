@@ -40,7 +40,7 @@ const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed }) => {
         variant="primary"
         onClick={() => router.push(`${router.asPath}/update/${hasReviewed}`)}
       >
-        Update Movie
+        Update Review
       </Button>
     );
   }

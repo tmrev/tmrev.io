@@ -18,6 +18,7 @@ import { CreateTmrevReviewQuery } from '../../../models/tmrev';
 import { useAuth } from '../../../provider/authUserContext';
 import { useAddTmrevReviewMutation, useGetMovieQuery } from '../../../redux/api';
 import { setClearCurrentReview } from '../../../redux/slice/reviewsSlice';
+import { setOpenToast, setToastContent } from '../../../redux/slice/toastSlice';
 import formatDate from '../../../utils/formatDate';
 import imageUrl from '../../../utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '../../../utils/mediaID';
@@ -101,6 +102,8 @@ const ReviewPage: NextPage = () => {
       };
 
       addReview(newPayload).unwrap().then(() => {
+        dispatch(setToastContent('Successfully Reviewed Movie'));
+        dispatch(setOpenToast(true));
         router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
       }).catch((err) => {
         // eslint-disable-next-line no-console

@@ -9,6 +9,7 @@ import { TmrevReview } from '../../../../models/tmrev';
 import { Profile } from '../../../../models/tmrev/movie';
 import { extractNameFromEmail } from '../../../../utils/common';
 import imageUrl from '../../../../utils/imageUrl';
+import { createMediaUrl } from '../../../../utils/mediaID';
 
 interface Props {
   review: TmrevReview
@@ -38,20 +39,28 @@ const UserReviews:FunctionComponent<Props> = ({ review, profile, movie }:Props) 
   return (
     <div className="py-6">
       <div key={review._id} className="flex items-start justify-start space-x-4">
-        <div className="rounded aspect-moviePoster relative h-64 w-max mx-4">
-          <Image
-            priority
-            className="rounded"
-            layout="fill"
-            objectFit="contain"
-            src={imageUrl(movie.poster_path || '', 300, true)}
-          />
-        </div>
+        <Link passHref href={`/movie/${createMediaUrl(review.tmdbID, review.title)}`}>
+          <a>
+            <div className="rounded aspect-moviePoster relative h-64 w-max mx-4">
+              <Image
+                priority
+                className="rounded"
+                layout="fill"
+                objectFit="contain"
+                src={imageUrl(movie.poster_path || '', 300, true)}
+              />
+            </div>
+          </a>
+        </Link>
         <div className="space-y-4">
           <div>
-            <h1 className="font-semibold text-xl">
-              {review.title}
-            </h1>
+            <Link passHref href={`/movie/${createMediaUrl(review.tmdbID, review.title)}`}>
+              <a>
+                <h1 className="font-semibold text-xl">
+                  {review.title}
+                </h1>
+              </a>
+            </Link>
           </div>
           <div className="flex flex-col md:flex-row items-start md:items-center space-y-2 md:space-x-2">
             <div className="bg-tmrev-gray-dark rounded p-1 w-max">
