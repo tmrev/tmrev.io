@@ -126,6 +126,7 @@ const MoviePage: NextPage<Props> = () => {
                   ageRating={ageRating.length ? ageRating[0].certification : ''}
                   genres={data.body.genres}
                   imdb={data.body.imdb}
+                  movie={data.body}
                   runtime={data.body.runtime}
                   tmdb={
                     {
@@ -172,6 +173,7 @@ const MoviePage: NextPage<Props> = () => {
                       ageRating={ageRating.length ? ageRating[0].certification : ''}
                       genres={data.body.genres}
                       imdb={data.body.imdb}
+                      movie={data.body}
                       runtime={data.body.runtime}
                       tmdb={
                         {

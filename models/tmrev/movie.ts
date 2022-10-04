@@ -1,4 +1,4 @@
-import { Movie } from '../tmdb';
+import { Movie, WatchProviderResponse } from '../tmdb';
 
 /* eslint-disable no-unused-vars */
 export interface MovieResponse {
@@ -37,6 +37,7 @@ export interface Body {
   reviews: Reviews;
   tmrev: Tmrev;
   imdb: Imdb;
+  watchProvider: WatchProviderResponse | null
 }
 
 export interface Credits {

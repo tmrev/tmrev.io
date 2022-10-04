@@ -60,6 +60,21 @@ interface Genre {
   name: string;
 }
 
+interface Buy {
+  display_priority: number;
+  logo_path: string;
+  provider_id: number;
+  provider_name: string;
+}
+interface WatchProviderResponse {
+  [x: string]: {
+    buy?: Buy[];
+    flatrate?: Buy[];
+    link: string;
+    rent?: Buy[];
+  };
+}
+
 interface ProductionCompany {
   id: number;
   logo_path: null | string;
@@ -150,11 +165,11 @@ interface SpokenLanguage {
 }
 
 export type {
-  AuthorDetails, Cast, Credits,
+  AuthorDetails, Buy, Cast, Credits,
   Genre, IMDB,
   Movie, MovieQuery, OriginalLanguage,
   ProductionCompany, ProductionCountry, ReleaseDate,
   ReleaseDates,
   Reviews, ReviewsResult,
-  SpokenLanguage,
+  SpokenLanguage, WatchProviderResponse,
 };
