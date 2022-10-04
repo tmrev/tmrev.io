@@ -28,6 +28,7 @@ interface MetaItemProps {
   children: React.ReactNode
   title: string
   vertical?: boolean
+  hideMobile?: boolean
 }
 
 interface ProviderItemProps {
@@ -35,8 +36,10 @@ interface ProviderItemProps {
   link: string
 }
 
-const MetaItem:FunctionComponent<MetaItemProps> = ({ children, title, vertical }:MetaItemProps) => (
-  <div className={clsx('flex  w-full mt-4', vertical ? 'flex-col justify-start space-y-3' : 'flex-row items-center')}>
+const MetaItem:FunctionComponent<MetaItemProps> = ({
+  children, title, vertical, hideMobile,
+}:MetaItemProps) => (
+  <div className={clsx('flex  w-full mt-4', vertical ? 'flex-col justify-start space-y-3' : 'flex-row items-center', hideMobile && 'hidden lg:flex')}>
     <h2 className="text-xl font-semibold">{title}</h2>
     <span className="flex-grow" />
     {children}
@@ -48,14 +51,16 @@ const ProviderItem: FunctionComponent<ProviderItemProps> = ({ data, link }) => (
     <Link key={data.provider_id} passHref href={link}>
       <a rel="noopener" target="_blank">
         <div key={data.provider_id} className="flex items-center space-x-3">
-          <Image
-            alt={data.provider_name}
-            className="rounded"
-            height={16}
-            src={imageUrl(data.logo_path)}
-            width={16}
-          />
-          <p>
+          <div className="relative w-8 h-8  lg:h-4 lg:w-4 ">
+            <Image
+              alt={data.provider_name}
+              className="rounded"
+              layout="fill"
+              objectFit="cover"
+              src={imageUrl(data.logo_path)}
+            />
+          </div>
+          <p className="hidden lg:block">
             {data.provider_name}
           </p>
         </div>
@@ -65,6 +70,7 @@ const ProviderItem: FunctionComponent<ProviderItemProps> = ({ data, link }) => (
 );
 
 MetaItem.defaultProps = {
+  hideMobile: false,
   vertical: false,
 };
 
@@ -161,21 +167,23 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
               watchProvider.flatrate && (
                 <div className="space-y-2">
                   <p className="text-lg font-semibold">Streaming</p>
-                  {watchProvider.flatrate.map((provider) => (
-                    <ProviderItem
-                      key={provider.provider_id}
-                      data={provider}
-                      link={watchProvider.link}
-                    />
-                  ))}
+                  <div className="flex flex-row space-x-3 lg:flex-col lg:space-x-0">
+                    {watchProvider.flatrate.map((provider) => (
+                      <ProviderItem
+                        key={provider.provider_id}
+                        data={provider}
+                        link={watchProvider.link}
+                      />
+                    ))}
+                  </div>
                 </div>
               )
             }
-            {watchProvider.buy && (
+            {watchProvider.buy?.length && (
               <div className="space-y-2">
                 <p className="text-lg font-semibold">Buy</p>
-                <div className="max-h-16 space-y-1 overflow-auto lg:max-h-max lg:overflow-auto">
-                  {watchProvider.buy.map((provider) => (
+                <div className="flex flex-row space-x-3 lg:flex-col lg:space-x-0">
+                  {[...watchProvider.buy].splice(0, 3).map((provider) => (
                     <ProviderItem
                       key={provider.provider_id}
                       data={provider}
@@ -189,8 +197,8 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
               watchProvider.rent && (
                 <div className="space-y-2">
                   <p className="text-lg space-y-1 font-semibold">Rent</p>
-                  <div className="max-h-16 overflow-auto lg:max-h-max lg:overflow-auto">
-                    {watchProvider.rent.map((provider) => (
+                  <div className="flex flex-row space-x-3 lg:flex-col lg:space-x-0">
+                    {[...watchProvider.rent].splice(0, 3).map((provider) => (
                       <ProviderItem
                         key={provider.provider_id}
                         data={provider}

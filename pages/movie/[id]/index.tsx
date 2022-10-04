@@ -121,7 +121,6 @@ const MoviePage: NextPage<Props> = () => {
                 />
                 <CreateReviewButton hasReviewed={hasReviewed()} />
                 <AddToWatchList movie={data.body} />
-
                 <MetaData
                   ageRating={ageRating.length ? ageRating[0].certification : ''}
                   genres={data.body.genres}
