@@ -1,6 +1,6 @@
 import React, { FunctionComponent, useState } from 'react';
 
-import Button from '../common/Button';
+import Button from '../../../common/Button';
 
 interface Props {
   link: string

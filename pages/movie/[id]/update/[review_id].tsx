@@ -10,8 +10,8 @@ import React, {
 import Button from '../../../../components/common/Button';
 import MetaTags from '../../../../components/common/MetaTag';
 import HeaderText from '../../../../components/common/typography/headerText';
-import CopyLink from '../../../../components/movie/copyLink';
-import UserRating from '../../../../components/movie/userRating';
+import CopyLink from '../../../../components/page-components/movie/[id]/copyLink';
+import UserRating from '../../../../components/page-components/movie/userRating';
 import { useAppDispatch, useAppSelector } from '../../../../hooks';
 import { MovieQuery } from '../../../../models/tmdb';
 import { CreateTmrevReviewQuery, SingleReview } from '../../../../models/tmrev';

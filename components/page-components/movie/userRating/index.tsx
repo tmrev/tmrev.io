@@ -4,11 +4,11 @@ import React, {
   FunctionComponent, memo, useCallback, useEffect, useMemo, useState,
 } from 'react';
 
-import { useAppDispatch, useAppSelector } from '../../../hooks';
-import { setCurrentReview } from '../../../redux/slice/reviewsSlice';
-import { debounce } from '../../../utils/common';
-import Button from '../../common/Button';
-import HeaderText from '../../common/typography/headerText';
+import { useAppDispatch, useAppSelector } from '../../../../hooks';
+import { setCurrentReview } from '../../../../redux/slice/reviewsSlice';
+import { debounce } from '../../../../utils/common';
+import Button from '../../../common/Button';
+import HeaderText from '../../../common/typography/headerText';
 import RateList from './rateList';
 
 type RatingType = 'acting' | 'characters' |

@@ -7,14 +7,14 @@ import React, { useCallback, useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
 import HeaderText from '../../../components/common/typography/headerText';
-import AddToWatchList from '../../../components/movie/addToWatchListButton';
-import CopyLink from '../../../components/movie/copyLink';
-import CreateReviewButton from '../../../components/movie/createReviewButton';
-import Crew from '../../../components/movie/crew';
-import MetaData from '../../../components/movie/metaData';
-import MovieRevenue from '../../../components/movie/movieRevenue';
-import MovieStats from '../../../components/movie/movieStats';
-import MovieReviewList from '../../../components/movie/reviews/reviewList';
+import AddToWatchList from '../../../components/page-components/movie/[id]/addToWatchListButton';
+import CopyLink from '../../../components/page-components/movie/[id]/copyLink';
+import CreateReviewButton from '../../../components/page-components/movie/[id]/createReviewButton';
+import Crew from '../../../components/page-components/movie/[id]/crew';
+import MetaData from '../../../components/page-components/movie/[id]/metaData';
+import MovieRevenue from '../../../components/page-components/movie/[id]/movieRevenue';
+import MovieStats from '../../../components/page-components/movie/[id]/movieStats';
+import MovieReviewList from '../../../components/page-components/movie/reviews/reviewList';
 import WatchedButton from '../../../components/page-components/movie/watched/watchedButton';
 import useFirebaseAuth from '../../../hooks/userAuth';
 import { MovieQuery } from '../../../models/tmdb';
@@ -184,12 +184,12 @@ const MoviePage: NextPage<Props> = () => {
                       }
                     />
                   </div>
-                  <MovieReviewList reviews={data.body.tmrev.reviews} />
                   <MovieStats
                     isFetching={isFetching}
                     isLoading={isLoading}
                     tmrev={data.body.tmrev}
                   />
+                  <MovieReviewList reviews={data.body.tmrev.reviews} />
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}

@@ -3,10 +3,10 @@ import React, {
 } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
-import { TheNumbers, Title } from '../../models/tmrev';
-import Button from '../common/Button';
-import BarChart, { Datasets } from '../common/charts/bar';
-import HeaderText from '../common/typography/headerText';
+import { TheNumbers, Title } from '../../../../models/tmrev';
+import Button from '../../../common/Button';
+import BarChart, { Datasets } from '../../../common/charts/bar';
+import HeaderText from '../../../common/typography/headerText';
 
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 

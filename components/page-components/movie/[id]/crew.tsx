@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React, { FunctionComponent } from 'react';
 
-import { Cast } from '../../models/tmdb';
+import { Cast } from '../../../../models/tmdb';
 
 interface Props {
   title: string

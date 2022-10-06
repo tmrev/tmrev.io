@@ -1,7 +1,7 @@
 import React, { FunctionComponent } from 'react';
 
-import { Review } from '../../../models/tmrev/movie';
-import HeaderText from '../../common/typography/headerText';
+import { Review } from '../../../../models/tmrev/movie';
+import HeaderText from '../../../common/typography/headerText';
 import ReviewItem from './reviewItem';
 
 interface Props {

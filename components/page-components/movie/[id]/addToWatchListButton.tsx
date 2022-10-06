@@ -1,11 +1,11 @@
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 
-import { Body } from '../../models/tmrev/movie';
-import { useAuth } from '../../provider/authUserContext';
-import { useAddMovieToWatchListMutation, useGetUserWatchListsQuery } from '../../redux/api';
-import { Content, setModalContent, setOpenModal } from '../../redux/slice/modalSlice';
-import Button from '../common/Button';
+import { Body } from '../../../../models/tmrev/movie';
+import { useAuth } from '../../../../provider/authUserContext';
+import { useAddMovieToWatchListMutation, useGetUserWatchListsQuery } from '../../../../redux/api';
+import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
+import Button from '../../../common/Button';
 
 interface Props {
   movie: Body

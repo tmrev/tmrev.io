@@ -3,12 +3,12 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { FunctionComponent, useMemo } from 'react';
 
-import { Buy, Genre, IMDB } from '../../models/tmdb';
-import { Body } from '../../models/tmrev/movie';
-import { formatRuntime, numberShortHand } from '../../utils/common';
-import getCounty from '../../utils/getCounty';
-import imageUrl from '../../utils/imageUrl';
-import { createMediaUrl } from '../../utils/mediaID';
+import { Buy, Genre, IMDB } from '../../../../models/tmdb';
+import { Body } from '../../../../models/tmrev/movie';
+import { formatRuntime, numberShortHand } from '../../../../utils/common';
+import getCounty from '../../../../utils/getCounty';
+import imageUrl from '../../../../utils/imageUrl';
+import { createMediaUrl } from '../../../../utils/mediaID';
 
 interface MetaDataProps {
   imdb?: IMDB
@@ -133,12 +133,19 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
 
         </MetaItem>
       )}
+      {movie.budget && (
+        <MetaItem title="Budget">
+          <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
+            {numberShortHand(movie.budget)}
+          </p>
+        </MetaItem>
+      )}
       {!!genres.length && (
         <MetaItem title="Genres">
           <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
             {genres.map((value) => (
               <Link key={value.id} passHref href="#">
-                <a className="hover:underline">
+                <a className="hover:underline mx-2">
                   <span>{value.name}</span>
                 </a>
               </Link>

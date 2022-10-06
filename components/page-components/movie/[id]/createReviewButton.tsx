@@ -1,11 +1,11 @@
 import { useRouter } from 'next/router';
 import React, { FunctionComponent } from 'react';
 
-import { useAppDispatch } from '../../hooks';
-import { useAuth } from '../../provider/authUserContext';
-import { Content, setModalContent, setOpenModal } from '../../redux/slice/modalSlice';
-import Button from '../common/Button';
-import LoginPanel from '../login';
+import { useAppDispatch } from '../../../../hooks';
+import { useAuth } from '../../../../provider/authUserContext';
+import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
+import Button from '../../../common/Button';
+import LoginPanel from '../../../login';
 
 interface Props {
   hasReviewed?: string

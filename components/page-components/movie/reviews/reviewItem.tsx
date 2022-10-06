@@ -7,11 +7,11 @@ import React, {
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
-import { useAppSelector } from '../../../hooks';
-import useFirebaseAuth from '../../../hooks/userAuth';
-import { Review } from '../../../models/tmrev/movie';
-import { extractNameFromEmail } from '../../../utils/common';
-import Button from '../../common/Button';
+import { useAppSelector } from '../../../../hooks';
+import useFirebaseAuth from '../../../../hooks/userAuth';
+import { Review } from '../../../../models/tmrev/movie';
+import { extractNameFromEmail } from '../../../../utils/common';
+import Button from '../../../common/Button';
 
 interface Props {
   review: Review

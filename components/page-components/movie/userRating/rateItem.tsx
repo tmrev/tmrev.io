@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import React, { Dispatch, FunctionComponent, SetStateAction } from 'react';
 
-import Button from '../../common/Button';
+import Button from '../../../common/Button';
 
 interface Props {
   value: number;

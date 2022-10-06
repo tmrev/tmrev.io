@@ -1,13 +1,13 @@
 import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
-import { useAppSelector } from '../../hooks';
-import { Tmrev } from '../../models/tmrev/movie';
-import { useAuth } from '../../provider/authUserContext';
-import { roundWithMaxPrecision } from '../../utils/common';
-import { getMedian, getStandardDeviation } from '../../utils/math';
-import RadarChart from '../common/charts/radar';
-import HeaderText from '../common/typography/headerText';
+import { useAppSelector } from '../../../../hooks';
+import { Tmrev } from '../../../../models/tmrev/movie';
+import { useAuth } from '../../../../provider/authUserContext';
+import { roundWithMaxPrecision } from '../../../../utils/common';
+import { getMedian, getStandardDeviation } from '../../../../utils/math';
+import RadarChart from '../../../common/charts/radar';
+import HeaderText from '../../../common/typography/headerText';
 
 interface Props {
   tmrev: Tmrev
