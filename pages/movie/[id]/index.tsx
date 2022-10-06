@@ -7,6 +7,7 @@ import React, { useCallback, useMemo } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
 import HeaderText from '../../../components/common/typography/headerText';
+import AdditionalData from '../../../components/page-components/movie/[id]/additionalData';
 import AddToWatchList from '../../../components/page-components/movie/[id]/addToWatchListButton';
 import CopyLink from '../../../components/page-components/movie/[id]/copyLink';
 import CreateReviewButton from '../../../components/page-components/movie/[id]/createReviewButton';
@@ -196,6 +197,7 @@ const MoviePage: NextPage<Props> = () => {
                     title={data.body.title}
                     year={data.body.release_date.split('-')[0]}
                   />
+                  <AdditionalData movie={data.body} />
                 </div>
               </div>
             </div>
