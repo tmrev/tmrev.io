@@ -12,11 +12,12 @@ import HeaderText from '../../../common/typography/headerText';
 interface Props {
   tmrev: Tmrev
   isFetching: boolean,
-  isLoading: boolean
+  isLoading: boolean,
+  previewMode?: boolean
 }
 
 const MovieStats:FunctionComponent<Props> = ({
-  tmrev, isFetching, isLoading,
+  tmrev, isFetching, isLoading, previewMode,
 }) => {
   const { reviews, avgScore } = tmrev;
 
@@ -172,13 +173,15 @@ const MovieStats:FunctionComponent<Props> = ({
 
   return (
     <div className={` ${navigationOpen ? 'xl:max-w-4xl' : 'max-w-full'}  space-y-8`}>
-      <div className="flex-col items-center relative">
-        <HeaderText headingType="h2">
-          THE MOVIE REVIEW (
-          {roundWithMaxPrecision(avgScore.totalScore, 1)}
-          )
-        </HeaderText>
-      </div>
+      {!previewMode && (
+        <div className="flex-col items-center relative">
+          <HeaderText headingType="h2">
+            THE MOVIE REVIEW (
+            {roundWithMaxPrecision(avgScore.totalScore, 1)}
+            )
+          </HeaderText>
+        </div>
+      )}
       <RadarChart
         datasets={datasets}
         labels={labels}
@@ -202,11 +205,11 @@ const MovieStats:FunctionComponent<Props> = ({
             scales: {
               r: {
                 angleLines: {
-                  color: '#3B3B3B',
+                  color: !previewMode ? '#3B3B3B' : '#242424',
                 },
                 grid: {
                   circular: true,
-                  color: '#3B3B3B',
+                  color: !previewMode ? '#3B3B3B' : '#242424',
                 },
                 max: 10,
                 min: 1,
@@ -215,7 +218,7 @@ const MovieStats:FunctionComponent<Props> = ({
                   color: 'white',
                 },
                 ticks: {
-                  backdropColor: '#3B3B3B',
+                  backdropColor: !previewMode ? '#3B3B3B' : '#242424',
                   color: 'white',
                   display: false,
                 },
@@ -227,6 +230,10 @@ const MovieStats:FunctionComponent<Props> = ({
     </div>
 
   );
+};
+
+MovieStats.defaultProps = {
+  previewMode: false,
 };
 
 export default MovieStats;

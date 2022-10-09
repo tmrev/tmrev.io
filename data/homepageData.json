@@ -1,0 +1,4350 @@
+{
+    "adult": false,
+    "backdrop_path": "/AfvIjhDu9p64jKcmohS4hsPG95Q.jpg",
+    "belongs_to_collection": null,
+    "budget": 18800000,
+    "genres": [
+        {
+            "id": 27,
+            "name": "Horror"
+        },
+        {
+            "id": 53,
+            "name": "Thriller"
+        }
+    ],
+    "homepage": "https://www.theblackphonemovie.com/",
+    "id": 756999,
+    "imdb_id": "tt7144666",
+    "original_language": "en",
+    "original_title": "The Black Phone",
+    "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
+    "popularity": 970.498,
+    "poster_path": "/lr11mCT85T1JanlgjMuhs9nMht4.jpg",
+    "production_companies": [
+        {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 3172,
+            "logo_path": "/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+        },
+        {
+            "id": 162439,
+            "logo_path": null,
+            "name": "Crooked Highway",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2022-06-22",
+    "revenue": 161000000,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Never talk to strangers.",
+    "title": "The Black Phone",
+    "video": false,
+    "vote_average": 7.903,
+    "vote_count": 2726,
+    "credits": {
+        "cast": [
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2803710,
+                "known_for_department": "Acting",
+                "name": "Mason Thames",
+                "original_name": "Mason Thames",
+                "popularity": 15.49,
+                "profile_path": "/qLJm1n615JinCuizZSxbZiVtEr8.jpg",
+                "cast_id": 8,
+                "character": "Finney Blake",
+                "credit_id": "5f9ecc797614210037f1cabc",
+                "order": 0
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 569,
+                "known_for_department": "Acting",
+                "name": "Ethan Hawke",
+                "original_name": "Ethan Hawke",
+                "popularity": 51.749,
+                "profile_path": "/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg",
+                "cast_id": 11,
+                "character": "The Grabber",
+                "credit_id": "60130170d96c3c00400b8899",
+                "order": 1
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1530558,
+                "known_for_department": "Acting",
+                "name": "Madeleine McGraw",
+                "original_name": "Madeleine McGraw",
+                "popularity": 22.424,
+                "profile_path": "/A2bPFawjQMC0Tv79WyVY9oiFfsN.jpg",
+                "cast_id": 9,
+                "character": "Gwen Blake",
+                "credit_id": "5f9ecc86344a8e00339ca16b",
+                "order": 2
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 4654,
+                "known_for_department": "Acting",
+                "name": "Jeremy Davies",
+                "original_name": "Jeremy Davies",
+                "popularity": 32.821,
+                "profile_path": "/y9GhiLVrVFkJqs0wXqJTcvpOBLb.jpg",
+                "cast_id": 10,
+                "character": "Terrence Blake",
+                "credit_id": "6000688ec0348b003d346a91",
+                "order": 3
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 41020,
+                "known_for_department": "Acting",
+                "name": "E. Roger Mitchell",
+                "original_name": "E. Roger Mitchell",
+                "popularity": 5.697,
+                "profile_path": "/qdcwrdA1IYvuRe0A2abSvzVLZVS.jpg",
+                "cast_id": 110,
+                "character": "Detective Wright",
+                "credit_id": "6164619ed18fb90020ffa2af",
+                "order": 4
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1694113,
+                "known_for_department": "Acting",
+                "name": "Troy Rudeseal",
+                "original_name": "Troy Rudeseal",
+                "popularity": 2.16,
+                "profile_path": "/2hS7AG0p5QtVU4PnRco9LMH714W.jpg",
+                "cast_id": 121,
+                "character": "Detective Miller",
+                "credit_id": "616776413a9937008e447232",
+                "order": 5
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5296,
+                "known_for_department": "Acting",
+                "name": "James Ransone",
+                "original_name": "James Ransone",
+                "popularity": 16.294,
+                "profile_path": "/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg",
+                "cast_id": 12,
+                "character": "Max",
+                "credit_id": "60550a43255dba0074fbaeb6",
+                "order": 6
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3586928,
+                "known_for_department": "Acting",
+                "name": "Miguel Cazarez Mora",
+                "original_name": "Miguel Cazarez Mora",
+                "popularity": 0.753,
+                "profile_path": "/pfeV052o2TzCJR1MDz9FcEbFbzd.jpg",
+                "cast_id": 128,
+                "character": "Robin Arellano",
+                "credit_id": "62a74ad8a8b2ca00a4281279",
+                "order": 7
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3609422,
+                "known_for_department": "Acting",
+                "name": "Rebecca Clarke",
+                "original_name": "Rebecca Clarke",
+                "popularity": 0.6,
+                "profile_path": "/9HM6xruwGVXFwhJInVNMscJcI0x.jpg",
+                "cast_id": 129,
+                "character": "Donna",
+                "credit_id": "62c0b58ae16e5a004e8fd81d",
+                "order": 8
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2706071,
+                "known_for_department": "Acting",
+                "name": "J. Gaven Wilde",
+                "original_name": "J. Gaven Wilde",
+                "popularity": 1.4,
+                "profile_path": "/ysLRYuM5SZjN8S7aD5eHFRPayW6.jpg",
+                "cast_id": 111,
+                "character": "Moose",
+                "credit_id": "616461ad960331008a7cee72",
+                "order": 9
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053619,
+                "known_for_department": "Acting",
+                "name": "Spencer Fitzgerald",
+                "original_name": "Spencer Fitzgerald",
+                "popularity": 0.656,
+                "profile_path": null,
+                "cast_id": 20,
+                "character": "Buzz",
+                "credit_id": "60788742746457003fd68692",
+                "order": 10
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053618,
+                "known_for_department": "Acting",
+                "name": "Jordan Isaiah White",
+                "original_name": "Jordan Isaiah White",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 19,
+                "character": "Matty",
+                "credit_id": "60788736fb83460042c016eb",
+                "order": 11
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053615,
+                "known_for_department": "Acting",
+                "name": "Brady Ryan",
+                "original_name": "Brady Ryan",
+                "popularity": 0.828,
+                "profile_path": null,
+                "cast_id": 17,
+                "character": "Matt",
+                "credit_id": "607886e4d8f44e00417a7f92",
+                "order": 12
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3267288,
+                "known_for_department": "Acting",
+                "name": "Tristan Pravong",
+                "original_name": "Tristan Pravong",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 114,
+                "character": "Bruce Yamada",
+                "credit_id": "61646211960331002b209925",
+                "order": 13
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053616,
+                "known_for_department": "Acting",
+                "name": "Jacob Moran",
+                "original_name": "Jacob Moran",
+                "popularity": 3.158,
+                "profile_path": "/7zHJ7XULie1BJX7Ou655055zpAZ.jpg",
+                "cast_id": 18,
+                "character": "Billy",
+                "credit_id": "60788727ab68490058bb1100",
+                "order": 14
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3013234,
+                "known_for_department": "Acting",
+                "name": "Brady Hepner",
+                "original_name": "Brady Hepner",
+                "popularity": 13.362,
+                "profile_path": null,
+                "cast_id": 120,
+                "character": "Vance Hopper",
+                "credit_id": "616775ffe004a6005fff7b36",
+                "order": 15
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2253047,
+                "known_for_department": "Acting",
+                "name": "Banks Repeta",
+                "original_name": "Banks Repeta",
+                "popularity": 8.779,
+                "profile_path": "/xx6aE6A1RnsDjtDd32CyGecr5tx.jpg",
+                "cast_id": 13,
+                "character": "Griffin",
+                "credit_id": "6078864018864b002cee586e",
+                "order": 16
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2726057,
+                "known_for_department": "Acting",
+                "name": "Kristina Arjona",
+                "original_name": "Kristina Arjona",
+                "popularity": 0.98,
+                "profile_path": "/hm74VybPNeE24wGMhKFnDQasJda.jpg",
+                "cast_id": 113,
+                "character": "Ms. Fulgrim",
+                "credit_id": "616461fd8c40f70043468d32",
+                "order": 17
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 3514281,
+                "known_for_department": "Acting",
+                "name": "Sheila M. O'Rear",
+                "original_name": "Sheila M. O'Rear",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 131,
+                "character": "Principal Keller",
+                "credit_id": "62c0b5bcaf6e9412606ca1bb",
+                "order": 18
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3496226,
+                "known_for_department": "Acting",
+                "name": "Rocco Poveromo",
+                "original_name": "Rocco Poveromo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 132,
+                "character": "Chief of Police",
+                "credit_id": "62c0b5c7c2bcc6007c878b97",
+                "order": 19
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1477442,
+                "known_for_department": "Acting",
+                "name": "Kellan Rhude",
+                "original_name": "Kellan Rhude",
+                "popularity": 3.343,
+                "profile_path": "/kJROAmETdn5WaYl7xoCe6MW4MPm.jpg",
+                "cast_id": 109,
+                "character": "Patrolman",
+                "credit_id": "616461929603310062be925f",
+                "order": 20
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2818526,
+                "known_for_department": "Acting",
+                "name": "Gina Jun",
+                "original_name": "Gina Jun",
+                "popularity": 6.403,
+                "profile_path": "/kIbJ3TTGdYVShC7K8tE5OueZ1wQ.jpg",
+                "cast_id": 112,
+                "character": "Bruce's Mother",
+                "credit_id": "616461c28c40f70091e21e58",
+                "order": 21
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053612,
+                "known_for_department": "Acting",
+                "name": "Ryan Cronan",
+                "original_name": "Ryan Cronan",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 14,
+                "character": "Young Bruce",
+                "credit_id": "60788662f48e0d00573de3f7",
+                "order": 22
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2004116,
+                "known_for_department": "Acting",
+                "name": "Braxton Alexander",
+                "original_name": "Braxton Alexander",
+                "popularity": 4.447,
+                "profile_path": "/2WRzBpzlHeyjiv0HJD1F0vFpcnH.jpg",
+                "cast_id": 15,
+                "character": "Jackass #2",
+                "credit_id": "6078867b18864b007b968410",
+                "order": 23
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053614,
+                "known_for_department": "Acting",
+                "name": "Andrew Farmer",
+                "original_name": "Andrew Farmer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 16,
+                "character": "Teammate #1",
+                "credit_id": "607886cb7d550400578d3df0",
+                "order": 24
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3053622,
+                "known_for_department": "Acting",
+                "name": "T. Maxwell Martin",
+                "original_name": "T. Maxwell Martin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 21,
+                "character": "Teammate #2",
+                "credit_id": "607887664d0e8d00430c4223",
+                "order": 25
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3162330,
+                "known_for_department": "Acting",
+                "name": "Ron Blake",
+                "original_name": "Ron Blake",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 116,
+                "character": "EMT",
+                "credit_id": "61677568158c85002c2cc40c",
+                "order": 26
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1483022,
+                "known_for_department": "Acting",
+                "name": "Robert Fortunato",
+                "original_name": "Robert Fortunato",
+                "popularity": 1.96,
+                "profile_path": "/50uARyecL4R6Dh97LrsXazWEv2W.jpg",
+                "cast_id": 117,
+                "character": "Patrolman #2",
+                "credit_id": "61677584f6596f006615b694",
+                "order": 27
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3072059,
+                "known_for_department": "Acting",
+                "name": "Chris TC Edge",
+                "original_name": "Chris TC Edge",
+                "popularity": 1.4,
+                "profile_path": "/wqVTBBm11sxgCJT7rluC2Uha1up.jpg",
+                "cast_id": 118,
+                "character": "Fireman",
+                "credit_id": "616775a8158c8500651010bb",
+                "order": 28
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 198799,
+                "known_for_department": "Acting",
+                "name": "Mark Riccardi",
+                "original_name": "Mark Riccardi",
+                "popularity": 1.96,
+                "profile_path": "/jKv39jzOv2fl387Gu2pQhu3wnBn.jpg",
+                "cast_id": 119,
+                "character": "Umpire",
+                "credit_id": "616775dc50733c00648a9786",
+                "order": 29
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2641713,
+                "known_for_department": "Acting",
+                "name": "Megan Petersen",
+                "original_name": "Megan Petersen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 122,
+                "character": "Math Teacher",
+                "credit_id": "616776b65cea18002611d590",
+                "order": 30
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2755257,
+                "known_for_department": "Acting",
+                "name": "Bay Allebach",
+                "original_name": "Bay Allebach",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 123,
+                "character": "Teen Girl #2",
+                "credit_id": "6167771377e1f600446ca54f",
+                "order": 31
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 206912,
+                "known_for_department": "Acting",
+                "name": "Mike Bailey",
+                "original_name": "Mike Bailey",
+                "popularity": 1.056,
+                "profile_path": null,
+                "cast_id": 124,
+                "character": "Bruce's Father",
+                "credit_id": "6185a4321c6aa700437c0fa6",
+                "order": 32
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2487168,
+                "known_for_department": "Acting",
+                "name": "Christine Connelly",
+                "original_name": "Christine Connelly",
+                "popularity": 0.98,
+                "profile_path": null,
+                "cast_id": 125,
+                "character": "School Office Lady",
+                "credit_id": "6185a452cb6db5008d55b082",
+                "order": 33
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1843392,
+                "known_for_department": "Acting",
+                "name": "Matthew Simmons",
+                "original_name": "Matthew Simmons",
+                "popularity": 1.22,
+                "profile_path": null,
+                "cast_id": 126,
+                "character": "Adult Volunteer",
+                "credit_id": "6185a4781fd36f0042b79fad",
+                "order": 34
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3197950,
+                "known_for_department": "Editing",
+                "name": "Parrish Stikeleather",
+                "original_name": "Parrish Stikeleather",
+                "popularity": 0.6,
+                "profile_path": null,
+                "cast_id": 130,
+                "character": "Mr. Hopkins",
+                "credit_id": "62c0b5af28723c00593ae78f",
+                "order": 35
+            }
+        ],
+        "crew": [
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 494,
+                "known_for_department": "Production",
+                "name": "Terri Taylor",
+                "original_name": "Terri Taylor",
+                "popularity": 3.962,
+                "profile_path": null,
+                "credit_id": "62d343d191745b004f255ffb",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 560,
+                "known_for_department": "Art",
+                "name": "Patti Podesta",
+                "original_name": "Patti Podesta",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "6163c0e1fe5c91002ad64b6a",
+                "department": "Art",
+                "job": "Production Design"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 5907,
+                "known_for_department": "Sound",
+                "name": "Mark Korven",
+                "original_name": "Mark Korven",
+                "popularity": 1.96,
+                "profile_path": null,
+                "credit_id": "62d34382d465370055f7131c",
+                "department": "Sound",
+                "job": "Original Music Composer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55499,
+                "known_for_department": "Directing",
+                "name": "Scott Derrickson",
+                "original_name": "Scott Derrickson",
+                "popularity": 8.453,
+                "profile_path": "/xNT24kgpyw1rdoYJZDW0kEG6Wuq.jpg",
+                "credit_id": "5f9ecc4b271671003972f4a9",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55499,
+                "known_for_department": "Directing",
+                "name": "Scott Derrickson",
+                "original_name": "Scott Derrickson",
+                "popularity": 8.453,
+                "profile_path": "/xNT24kgpyw1rdoYJZDW0kEG6Wuq.jpg",
+                "credit_id": "5f947330988afd003668ab2c",
+                "department": "Directing",
+                "job": "Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 55499,
+                "known_for_department": "Directing",
+                "name": "Scott Derrickson",
+                "original_name": "Scott Derrickson",
+                "popularity": 8.453,
+                "profile_path": "/xNT24kgpyw1rdoYJZDW0kEG6Wuq.jpg",
+                "credit_id": "5f9473fabdd5680035229334",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 62434,
+                "known_for_department": "Editing",
+                "name": "Frédéric Thoraval",
+                "original_name": "Frédéric Thoraval",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "6151f7d6af9590008e63c23a",
+                "department": "Editing",
+                "job": "Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 80817,
+                "known_for_department": "Sound",
+                "name": "Greg Crawford",
+                "original_name": "Greg Crawford",
+                "popularity": 0.694,
+                "profile_path": null,
+                "credit_id": "62d3484f378062049f5f7016",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 84348,
+                "known_for_department": "Production",
+                "name": "Jason Blum",
+                "original_name": "Jason Blum",
+                "popularity": 2.571,
+                "profile_path": "/9tm1oUdA6HOUaaS4bwWI2ihmBVt.jpg",
+                "credit_id": "5f9473a53e01ea004002dc37",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 93844,
+                "known_for_department": "Sound",
+                "name": "Eliza Pollack Zebert",
+                "original_name": "Eliza Pollack Zebert",
+                "popularity": 0.766,
+                "profile_path": null,
+                "credit_id": "616456de3a99370062a35016",
+                "department": "Sound",
+                "job": "ADR Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 198799,
+                "known_for_department": "Acting",
+                "name": "Mark Riccardi",
+                "original_name": "Mark Riccardi",
+                "popularity": 1.96,
+                "profile_path": "/jKv39jzOv2fl387Gu2pQhu3wnBn.jpg",
+                "credit_id": "616457b053866e0068febcf0",
+                "department": "Crew",
+                "job": "Stunt Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928106,
+                "known_for_department": "Writing",
+                "name": "C. Robert Cargill",
+                "original_name": "C. Robert Cargill",
+                "popularity": 5.133,
+                "profile_path": "/wU26chPT5GHacto4ILfv6QIevsu.jpg",
+                "credit_id": "5f947341391b9c005026f039",
+                "department": "Writing",
+                "job": "Screenplay"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 928106,
+                "known_for_department": "Writing",
+                "name": "C. Robert Cargill",
+                "original_name": "C. Robert Cargill",
+                "popularity": 5.133,
+                "profile_path": "/wU26chPT5GHacto4ILfv6QIevsu.jpg",
+                "credit_id": "5f947352bdd568006222ad7d",
+                "department": "Production",
+                "job": "Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 993751,
+                "known_for_department": "Camera",
+                "name": "Brett Jutkiewicz",
+                "original_name": "Brett Jutkiewicz",
+                "popularity": 0.652,
+                "profile_path": null,
+                "credit_id": "6151f7d09974ee0062a066e7",
+                "department": "Camera",
+                "job": "Director of Photography"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1130026,
+                "known_for_department": "Crew",
+                "name": "Richard Bucher",
+                "original_name": "Richard Bucher",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "6164575ad18fb9008ffca4f5",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1213044,
+                "known_for_department": "Acting",
+                "name": "Patty Toy",
+                "original_name": "Patty Toy",
+                "popularity": 2.451,
+                "profile_path": "/cFGVcA828GXehR10yGZjSmeXqfi.jpg",
+                "credit_id": "61645768d18fb90020ff8fc9",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1264872,
+                "known_for_department": "Writing",
+                "name": "Joe Hill",
+                "original_name": "Joe Hill",
+                "popularity": 2.607,
+                "profile_path": "/kiYANWU4rdRHTTf5xz4GnOFRKmS.jpg",
+                "credit_id": "6163c0a718b75100428db17f",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1264872,
+                "known_for_department": "Writing",
+                "name": "Joe Hill",
+                "original_name": "Joe Hill",
+                "popularity": 2.607,
+                "profile_path": "/kiYANWU4rdRHTTf5xz4GnOFRKmS.jpg",
+                "credit_id": "62cd6c21e8d028004f1a7042",
+                "department": "Writing",
+                "job": "Story"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1340771,
+                "known_for_department": "Crew",
+                "name": "Patrick Stephenson",
+                "original_name": "Patrick Stephenson",
+                "popularity": 1.048,
+                "profile_path": null,
+                "credit_id": "61645bee33ec260091a4c218",
+                "department": "Crew",
+                "job": "Driver"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1345718,
+                "known_for_department": "Directing",
+                "name": "Jason Blumenfeld",
+                "original_name": "Jason Blumenfeld",
+                "popularity": 2.367,
+                "profile_path": null,
+                "credit_id": "616454aa9d592c0061344a0d",
+                "department": "Directing",
+                "job": "First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1392969,
+                "known_for_department": "Sound",
+                "name": "Jonathan Wales",
+                "original_name": "Jonathan Wales",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "6163c16d91745b002bb79940",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1393439,
+                "known_for_department": "Art",
+                "name": "Michael S. Martin",
+                "original_name": "Michael S. Martin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616455569603310062be7681",
+                "department": "Art",
+                "job": "Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1393857,
+                "known_for_department": "Sound",
+                "name": "D. Chris Smith",
+                "original_name": "D. Chris Smith",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "6163c15121621b0043742e9f",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1393857,
+                "known_for_department": "Sound",
+                "name": "D. Chris Smith",
+                "original_name": "D. Chris Smith",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "6163c158b865eb002539997f",
+                "department": "Sound",
+                "job": "Foley Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1397823,
+                "known_for_department": "Sound",
+                "name": "Alyson Dee Moore",
+                "original_name": "Alyson Dee Moore",
+                "popularity": 5.297,
+                "profile_path": null,
+                "credit_id": "62d348f753f83303ff2c4459",
+                "department": "Sound",
+                "job": "Foley Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1399631,
+                "known_for_department": "Sound",
+                "name": "Paul Hackner",
+                "original_name": "Paul Hackner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d348a6158c85029c0f6d25",
+                "department": "Sound",
+                "job": "Sound Designer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1399631,
+                "known_for_department": "Sound",
+                "name": "Paul Hackner",
+                "original_name": "Paul Hackner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c13418b75100614354df",
+                "department": "Sound",
+                "job": "Supervising Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1399631,
+                "known_for_department": "Sound",
+                "name": "Paul Hackner",
+                "original_name": "Paul Hackner",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c13b960331002b1fb4cc",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1400378,
+                "known_for_department": "Acting",
+                "name": "Maggie Levin",
+                "original_name": "Maggie Levin",
+                "popularity": 1.413,
+                "profile_path": "/nOy552DWGPYNCtghE1Tr0D5mLs.jpg",
+                "credit_id": "62d3455aafa1b0004c495d54",
+                "department": "Directing",
+                "job": "Second Unit Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1407886,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jason Willis",
+                "original_name": "Jason Willis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164546091745b006849870d",
+                "department": "Costume & Make-Up",
+                "job": "Key Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1407886,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jason Willis",
+                "original_name": "Jason Willis",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d344f9d4653700508ea6f2",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1410118,
+                "known_for_department": "Crew",
+                "name": "Charlie Wright",
+                "original_name": "Charlie Wright",
+                "popularity": 1.214,
+                "profile_path": null,
+                "credit_id": "61645bfc3a99370043e87301",
+                "department": "Crew",
+                "job": "Transportation Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1412119,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Amy Andrews",
+                "original_name": "Amy Andrews",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d343f091745b004cbaabb4",
+                "department": "Costume & Make-Up",
+                "job": "Costume Design"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1412766,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rick Pour",
+                "original_name": "Rick Pour",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "6163c10153866e0048a45faa",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Department Head"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1412766,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Rick Pour",
+                "original_name": "Rick Pour",
+                "popularity": 1.62,
+                "profile_path": null,
+                "credit_id": "616454419d592c002b588cad",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413092,
+                "known_for_department": "Sound",
+                "name": "James Morioka",
+                "original_name": "James Morioka",
+                "popularity": 0.887,
+                "profile_path": null,
+                "credit_id": "62d3493fc15b550071b896b4",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1413092,
+                "known_for_department": "Sound",
+                "name": "James Morioka",
+                "original_name": "James Morioka",
+                "popularity": 0.887,
+                "profile_path": null,
+                "credit_id": "62d34932d465370055f7153d",
+                "department": "Sound",
+                "job": "ADR Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1419906,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jeff Goodwin",
+                "original_name": "Jeff Goodwin",
+                "popularity": 0.982,
+                "profile_path": null,
+                "credit_id": "6164541fe942ee00421d5e2f",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1420315,
+                "known_for_department": "Art",
+                "name": "Joseph Feld",
+                "original_name": "Joseph Feld",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645507b865eb00253a5fc5",
+                "department": "Art",
+                "job": "Set Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1435643,
+                "known_for_department": "Sound",
+                "name": "Jessie Pariseau",
+                "original_name": "Jessie Pariseau",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c14533ec260091a3ec86",
+                "department": "Sound",
+                "job": "Sound Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1447602,
+                "known_for_department": "Sound",
+                "name": "Linda Yeaney",
+                "original_name": "Linda Yeaney",
+                "popularity": 0.605,
+                "profile_path": null,
+                "credit_id": "62d34981278d8a00540e4138",
+                "department": "Sound",
+                "job": "First Assistant Sound Editor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1453475,
+                "known_for_department": "Acting",
+                "name": "Ryan Turek",
+                "original_name": "Ryan Turek",
+                "popularity": 3.628,
+                "profile_path": "/wg4gC4k106UUbZ0PVVIjs6lHc1X.jpg",
+                "credit_id": "6163c0c4fe5c9100881634d2",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1456051,
+                "known_for_department": "Crew",
+                "name": "Antonio Gallardo",
+                "original_name": "Antonio Gallardo",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c11733ec2600456d5020",
+                "department": "Visual Effects",
+                "job": "Visual Effects Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1463762,
+                "known_for_department": "Camera",
+                "name": "Jan Ruona",
+                "original_name": "Jan Ruona",
+                "popularity": 1.38,
+                "profile_path": null,
+                "credit_id": "6164587fd18fb900639da43d",
+                "department": "Camera",
+                "job": "Camera Operator"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1467989,
+                "known_for_department": "Crew",
+                "name": "Kelli Barksdale",
+                "original_name": "Kelli Barksdale",
+                "popularity": 2.164,
+                "profile_path": null,
+                "credit_id": "6164574c91745b0068498dfd",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1533529,
+                "known_for_department": "Production",
+                "name": "Sarah Domeier Lindo",
+                "original_name": "Sarah Domeier Lindo",
+                "popularity": 4.001,
+                "profile_path": null,
+                "credit_id": "62d343b62d1e400060df96b9",
+                "department": "Production",
+                "job": "Casting"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1544927,
+                "known_for_department": "Camera",
+                "name": "Doug Cordonier",
+                "original_name": "Doug Cordonier",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645816e942ee00295b46ef",
+                "department": "Camera",
+                "job": "Best Boy Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1548080,
+                "known_for_department": "Editing",
+                "name": "Drew Sacks",
+                "original_name": "Drew Sacks",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164573b62fcd3008a09e38f",
+                "department": "Crew",
+                "job": "Visual Effects Editor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1552063,
+                "known_for_department": "Production",
+                "name": "Susan Boyajian",
+                "original_name": "Susan Boyajian",
+                "popularity": 1.189,
+                "profile_path": null,
+                "credit_id": "61645a5ef9aa470042f4dfbc",
+                "department": "Production",
+                "job": "ADR Voice Casting"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1556485,
+                "known_for_department": "Visual Effects",
+                "name": "Kent Johnson",
+                "original_name": "Kent Johnson",
+                "popularity": 0.728,
+                "profile_path": null,
+                "credit_id": "6163c12550733c0042f5bf53",
+                "department": "Visual Effects",
+                "job": "Visual Effects Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583139,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jennifer McCollom",
+                "original_name": "Jennifer McCollom",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d344ce278d8a004fdb5201",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1583961,
+                "known_for_department": "Directing",
+                "name": "Mike Gentilini Jr.",
+                "original_name": "Mike Gentilini Jr.",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645823cee481008d1a85fe",
+                "department": "Crew",
+                "job": "Drone Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1585745,
+                "known_for_department": "Editing",
+                "name": "Stephen F. Newnam",
+                "original_name": "Stephen F. Newnam",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "61645b90d18fb90020ff976d",
+                "department": "Production",
+                "job": "Finishing Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1596705,
+                "known_for_department": "Camera",
+                "name": "Daniel Williams",
+                "original_name": "Daniel Williams",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645899b865eb00253a6935",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1610955,
+                "known_for_department": "Acting",
+                "name": "Daniel Locicero",
+                "original_name": "Daniel Locicero",
+                "popularity": 0.6,
+                "profile_path": "/76hadD4dDulu9IrGCneD5oC5p9o.jpg",
+                "credit_id": "6164578862fcd300634be962",
+                "department": "Crew",
+                "job": "Fight Choreographer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1635220,
+                "known_for_department": "Crew",
+                "name": "Noah Schultz",
+                "original_name": "Noah Schultz",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616457c9f9aa4700299a6c5b",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1636717,
+                "known_for_department": "Sound",
+                "name": "Jeff Hinton",
+                "original_name": "Jeff Hinton",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616456c69d592c002b58926a",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1653894,
+                "known_for_department": "Production",
+                "name": "Harrison Huffman",
+                "original_name": "Harrison Huffman",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164546d1108a80042a2d8b5",
+                "department": "Production",
+                "job": "Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1680301,
+                "known_for_department": "Lighting",
+                "name": "Harrison Palmer",
+                "original_name": "Harrison Palmer",
+                "popularity": 0.648,
+                "profile_path": null,
+                "credit_id": "616458688c40f7004346776c",
+                "department": "Lighting",
+                "job": "Key Rigging Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1757635,
+                "known_for_department": "Sound",
+                "name": "Aidan Dykes",
+                "original_name": "Aidan Dykes",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d3486553f83303ff2c442e",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1758349,
+                "known_for_department": "Production",
+                "name": "Ally Conover",
+                "original_name": "Ally Conover",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645a8fe942ee00421d6c80",
+                "department": "Production",
+                "job": "Casting Associate"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1760573,
+                "known_for_department": "Sound",
+                "name": "Darrin Mann",
+                "original_name": "Darrin Mann",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d348d6afa1b0004f352812",
+                "department": "Sound",
+                "job": "Foley Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1761135,
+                "known_for_department": "Sound",
+                "name": "Kellen Bloomer",
+                "original_name": "Kellen Bloomer",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164569f53866e0068feb9fc",
+                "department": "Sound",
+                "job": "Boom Operator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1776278,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Priscilla Green",
+                "original_name": "Priscilla Green",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164542e1ad93b008cc4c0dc",
+                "department": "Costume & Make-Up",
+                "job": "Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1776282,
+                "known_for_department": "Sound",
+                "name": "Kevin Strahm",
+                "original_name": "Kevin Strahm",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164571153866e0068febb30",
+                "department": "Sound",
+                "job": "Sound Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1780483,
+                "known_for_department": "Camera",
+                "name": "Danny Brazen",
+                "original_name": "Danny Brazen",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616458091108a80042a2e199",
+                "department": "Camera",
+                "job": "Key Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1789645,
+                "known_for_department": "Sound",
+                "name": "Rob Young",
+                "original_name": "Rob Young",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d349ddeec5b5032ba91103",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1822652,
+                "known_for_department": "Camera",
+                "name": "Dan Turek",
+                "original_name": "Dan Turek",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "616458a8e942ee008a83206d",
+                "department": "Camera",
+                "job": "First Assistant Camera"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1932098,
+                "known_for_department": "Production",
+                "name": "Christopher H. Warner",
+                "original_name": "Christopher H. Warner",
+                "popularity": 1.871,
+                "profile_path": null,
+                "credit_id": "6163c0d18c40f7002a72ae37",
+                "department": "Production",
+                "job": "Executive Producer"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1932098,
+                "known_for_department": "Production",
+                "name": "Christopher H. Warner",
+                "original_name": "Christopher H. Warner",
+                "popularity": 1.871,
+                "profile_path": null,
+                "credit_id": "616454901ad93b002c67fdc5",
+                "department": "Production",
+                "job": "Unit Production Manager"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 1950531,
+                "known_for_department": "Sound",
+                "name": "Elanor Rimassa",
+                "original_name": "Elanor Rimassa",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616456fc84591c006333f18b",
+                "department": "Sound",
+                "job": "Utility Sound"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 1966586,
+                "known_for_department": "Acting",
+                "name": "Devan Key",
+                "original_name": "Devan Key",
+                "popularity": 2.757,
+                "profile_path": null,
+                "credit_id": "62d34495278d8a004c0a90c4",
+                "department": "Costume & Make-Up",
+                "job": "Makeup Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 1989618,
+                "known_for_department": "Directing",
+                "name": "Matt Barrett",
+                "original_name": "Matt Barrett",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d3442cd46537004d325886",
+                "department": "Costume & Make-Up",
+                "job": "Special Effects Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2069678,
+                "known_for_department": "Crew",
+                "name": "Jennifer Scudder Trent",
+                "original_name": "Jennifer Scudder Trent",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c0b4d18b240064e3f25d",
+                "department": "Production",
+                "job": "Co-Producer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2073580,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Aliyah Baynes",
+                "original_name": "Aliyah Baynes",
+                "popularity": 0.828,
+                "profile_path": null,
+                "credit_id": "61645abcf9aa4700299a72a2",
+                "department": "Costume & Make-Up",
+                "job": "Costume Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2131542,
+                "known_for_department": "Sound",
+                "name": "Geraldo Gutierrez",
+                "original_name": "Geraldo Gutierrez",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d3488753f83304009f7812",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2143628,
+                "known_for_department": "Sound",
+                "name": "Ferenc Lukács",
+                "original_name": "Ferenc Lukács",
+                "popularity": 1.008,
+                "profile_path": null,
+                "credit_id": "616456d262fcd300448e0c1c",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2365237,
+                "known_for_department": "Art",
+                "name": "Beth Giles",
+                "original_name": "Beth Giles",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d34743d399e6004e722b2e",
+                "department": "Art",
+                "job": "Set Decoration Buyer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2383089,
+                "known_for_department": "Art",
+                "name": "Tracy Breyfogle",
+                "original_name": "Tracy Breyfogle",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616454ce3a9937002c93700c",
+                "department": "Art",
+                "job": "Art Department Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2456208,
+                "known_for_department": "Sound",
+                "name": "Sebastien Lacheray",
+                "original_name": "Sebastien Lacheray",
+                "popularity": 0.6,
+                "profile_path": "/hOMLOfGc6nBhpAnkis0Urcj7eYF.jpg",
+                "credit_id": "62d348bdd4653700508ea879",
+                "department": "Sound",
+                "job": "Dialogue Editor"
+            },
+            {
+                "adult": false,
+                "gender": 1,
+                "id": 2486691,
+                "known_for_department": "Production",
+                "name": "Renee Minasian",
+                "original_name": "Renee Minasian",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164547a9d592c002b588d5d",
+                "department": "Crew",
+                "job": "Post Production Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2544874,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Demitria Lyles",
+                "original_name": "Demitria Lyles",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645ae5f9aa470042f4e0fe",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2588473,
+                "known_for_department": "Crew",
+                "name": "David Brian Martin",
+                "original_name": "David Brian Martin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164579a33ec2600456e1472",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2663686,
+                "known_for_department": "Art",
+                "name": "Ashley Clements",
+                "original_name": "Ashley Clements",
+                "popularity": 1.4,
+                "profile_path": null,
+                "credit_id": "616454e391745b006849889b",
+                "department": "Art",
+                "job": "Assistant Property Master"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2699098,
+                "known_for_department": "Production",
+                "name": "Lilly Tyson",
+                "original_name": "Lilly Tyson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645a9a8c40f7002a73904d",
+                "department": "Production",
+                "job": "Casting Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2755277,
+                "known_for_department": "Camera",
+                "name": "Bennett Todd",
+                "original_name": "Bennett Todd",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164588c96033100447e3a0e",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2842384,
+                "known_for_department": "Production",
+                "name": "Jon Romano",
+                "original_name": "Jon Romano",
+                "popularity": 0.656,
+                "profile_path": null,
+                "credit_id": "61645c3c238513008dbc5eaa",
+                "department": "Production",
+                "job": "Head of Production"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2854927,
+                "known_for_department": "Camera",
+                "name": "Jason Johnson",
+                "original_name": "Jason Johnson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164584633ec2600456e162e",
+                "department": "Camera",
+                "job": "Digital Imaging Technician"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 2860221,
+                "known_for_department": "Directing",
+                "name": "Scott Oberholzer",
+                "original_name": "Scott Oberholzer",
+                "popularity": 0.84,
+                "profile_path": null,
+                "credit_id": "62d3458ff90b19004f818e72",
+                "department": "Directing",
+                "job": "Second Unit First Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2908697,
+                "known_for_department": "Acting",
+                "name": "Chris Schmidt Jr.",
+                "original_name": "Chris Schmidt Jr.",
+                "popularity": 1.287,
+                "profile_path": "/xfzNBMYc4WjvOdkoT9OmXB61CQU.jpg",
+                "credit_id": "616457bc62fcd3008a09e4f0",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 2927357,
+                "known_for_department": "Acting",
+                "name": "Alex Meglei",
+                "original_name": "Alex Meglei",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616457a591745b002bb86c5e",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3041007,
+                "known_for_department": "Sound",
+                "name": "Jamison Rabbe",
+                "original_name": "Jamison Rabbe",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616456ea9d592c00898859aa",
+                "department": "Sound",
+                "job": "ADR Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3077384,
+                "known_for_department": "Crew",
+                "name": "Zach Edwards",
+                "original_name": "Zach Edwards",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645bb63a9937002c937f04",
+                "department": "Production",
+                "job": "Location Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3154951,
+                "known_for_department": "Sound",
+                "name": "Rene Coronado",
+                "original_name": "Rene Coronado",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d34838cf62cd006773e3bc",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3169581,
+                "known_for_department": "Acting",
+                "name": "Benjamin Hinnant",
+                "original_name": "Benjamin Hinnant",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164577cd18fb900432aa007",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3266073,
+                "known_for_department": "Art",
+                "name": "Dallas Clarke Thomas",
+                "original_name": "Dallas Clarke Thomas",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164566fb865eb008b7a1250",
+                "department": "Art",
+                "job": "Graphic Designer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3266077,
+                "known_for_department": "Art",
+                "name": "Wes Simpkins",
+                "original_name": "Wes Simpkins",
+                "popularity": 0.98,
+                "profile_path": null,
+                "credit_id": "61645663e942ee00627474b1",
+                "department": "Art",
+                "job": "Storyboard Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3266089,
+                "known_for_department": "Directing",
+                "name": "Kara McGee",
+                "original_name": "Kara McGee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645be233ec2600456e1db1",
+                "department": "Directing",
+                "job": "Script Supervisor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3266672,
+                "known_for_department": "Sound",
+                "name": "Ted Teske",
+                "original_name": "Ted Teske",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6163c1641108a8002c31f2ce",
+                "department": "Sound",
+                "job": "Sound Re-Recording Mixer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267212,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Delanie Gilliss",
+                "original_name": "Delanie Gilliss",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164541262fcd3008a09dc31",
+                "department": "Costume & Make-Up",
+                "job": "Assistant Makeup Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267215,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Weldon Steinke",
+                "original_name": "Weldon Steinke",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616454541ad93b00422d4768",
+                "department": "Costume & Make-Up",
+                "job": "Key Hair Stylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267217,
+                "known_for_department": "Directing",
+                "name": "Alex Beaver",
+                "original_name": "Alex Beaver",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164549ce942ee00295b3d76",
+                "department": "Directing",
+                "job": "Second Second Assistant Director"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267221,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Shane Forbes Bates",
+                "original_name": "Shane Forbes Bates",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616454c09d592c0061344a38",
+                "department": "Costume & Make-Up",
+                "job": "On Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267223,
+                "known_for_department": "Art",
+                "name": "Kristen Crouch",
+                "original_name": "Kristen Crouch",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616454eff9aa470061744a86",
+                "department": "Art",
+                "job": "Props"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267224,
+                "known_for_department": "Art",
+                "name": "Jeremy Lee",
+                "original_name": "Jeremy Lee",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616455401ad93b00422d4a1f",
+                "department": "Art",
+                "job": "Set Dresser"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267230,
+                "known_for_department": "Sound",
+                "name": "Elliott Elsey",
+                "original_name": "Elliott Elsey",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616456aacee481008d1a8280",
+                "department": "Sound",
+                "job": "ADR Recordist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267236,
+                "known_for_department": "Crew",
+                "name": "Jacob Bridges",
+                "original_name": "Jacob Bridges",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164571f91745b002bb86a87",
+                "department": "Crew",
+                "job": "Special Effects Technician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267237,
+                "known_for_department": "Crew",
+                "name": "Kate T.C. Lin",
+                "original_name": "Kate T.C. Lin",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164572f53866e0068febb9d",
+                "department": "Crew",
+                "job": "Compositor"
+            },
+            {
+                "adult": false,
+                "gender": 2,
+                "id": 3267241,
+                "known_for_department": "Crew",
+                "name": "Ben Tardif",
+                "original_name": "Ben Tardif",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616457d433ec260091a4b955",
+                "department": "Crew",
+                "job": "Stunt Double"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267243,
+                "known_for_department": "Camera",
+                "name": "Samantha Keener",
+                "original_name": "Samantha Keener",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "616458591ad93b002c6806b2",
+                "department": "Camera",
+                "job": "Grip"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267244,
+                "known_for_department": "Lighting",
+                "name": "Anthony Riggi",
+                "original_name": "Anthony Riggi",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "6164587250733c0042f696ba",
+                "department": "Lighting",
+                "job": "Electrician"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267256,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Jacob Aller",
+                "original_name": "Jacob Aller",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645aaeb865eb008b7a1cbd",
+                "department": "Costume & Make-Up",
+                "job": "Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267258,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Steven Witkowski",
+                "original_name": "Steven Witkowski",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645af48c40f70043467d68",
+                "department": "Costume & Make-Up",
+                "job": "Set Costumer"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267265,
+                "known_for_department": "Production",
+                "name": "Jesse Stratford",
+                "original_name": "Jesse Stratford",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645bc384591c00432fccd4",
+                "department": "Production",
+                "job": "Location Assistant"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267266,
+                "known_for_department": "Directing",
+                "name": "Stephen Glawson",
+                "original_name": "Stephen Glawson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645bcf50733c008bd94210",
+                "department": "Directing",
+                "job": "Script Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3267268,
+                "known_for_department": "Crew",
+                "name": "Tracy Oliver",
+                "original_name": "Tracy Oliver",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "61645c5884591c00432fcdce",
+                "department": "Crew",
+                "job": "Animal Coordinator"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3626848,
+                "known_for_department": "Costume & Make-Up",
+                "name": "Christina Maher Holland",
+                "original_name": "Christina Maher Holland",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d3446aeec5b5032ba90f5a",
+                "department": "Costume & Make-Up",
+                "job": "Additional Hairstylist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3626857,
+                "known_for_department": "Art",
+                "name": "Cooper Booth",
+                "original_name": "Cooper Booth",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d346ffafa1b00067c39030",
+                "department": "Art",
+                "job": "Greensman"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3626858,
+                "known_for_department": "Crew",
+                "name": "Diane Heard",
+                "original_name": "Diane Heard",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d34750158c85029c0f6ca6",
+                "department": "Crew",
+                "job": "Scenic Artist"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3626862,
+                "known_for_department": "Art",
+                "name": "Brian McGuire",
+                "original_name": "Brian McGuire",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d347d8eec5b5032a87bb6f",
+                "department": "Art",
+                "job": "Sculptor"
+            },
+            {
+                "adult": false,
+                "gender": 0,
+                "id": 3626865,
+                "known_for_department": "Art",
+                "name": "Levi Simpson",
+                "original_name": "Levi Simpson",
+                "popularity": 0.6,
+                "profile_path": null,
+                "credit_id": "62d3480637806204a00f54bb",
+                "department": "Art",
+                "job": "Concept Artist"
+            }
+        ]
+    },
+    "reviews": {
+        "page": 1,
+        "results": [
+            {
+                "author": "CinemaSerf",
+                "author_details": {
+                    "name": "CinemaSerf",
+                    "username": "Geronimo1967",
+                    "avatar_path": "/1kks3YnVkpyQxzw36CObFPvhL5f.jpg",
+                    "rating": 7
+                },
+                "content": "The thing about adapting a short story for cinema is that we tend to get a great deal of padding to get it to the duration. This film is certainly guilty of that, with the first half hour spent on way too much character establishment that really has very little to do with the gist of the story. Once it does get going though, it's a cleverly crafted and well put together scary movie centred around \"Finn\" (Mason Thames). Bullied at school, he is protected by his friend \"Robin\" (Miguel Cazarez Mora) until he disappears. He isn't the first child to disappear either, indeed five from this small community have gone missing over the last few weeks. \"Finn\" is walking home after school when he encounters a man who has dropped his groceries. Offering to help, next thing he knows he is in a grubby basement with only a soiled mattress and a disconnected phone on the wall. His mask-clad captor - who has something of the \"Joker\" about him - insists he is in no danger, but the phone on the wall starts to ring and the callers - the other five victims - warn him otherwise, and help him to try to best his nemesis. There are one or two jump moments, but mostly there is an effectively accumulating sense of menace well fuelled by confident efforts from Thames and his sister \"Gwen\" (Madeleine McGraw) who might have inherited her mother's ability to see the future in dreams - a skill that may prove vital in helping the police save her brother from certain death. There are violent undertones, but very little actual violence is shown as the young man comes to terms with some of his own demons and to try to escape. The last ten minutes redeem it well, and there is something distinctly satisfying about the conclusion. Scott Derrickson has provided us with one of the better Blumhouse dramas of recent years that is sure worth a watch.",
+                "created_at": "2022-06-25T06:24:38.927Z",
+                "id": "62b6aa269566580052bd4211",
+                "updated_at": "2022-06-25T06:26:16.804Z",
+                "url": "https://www.themoviedb.org/review/62b6aa269566580052bd4211"
+            },
+            {
+                "author": "Chris Sawin",
+                "author_details": {
+                    "name": "Chris Sawin",
+                    "username": "ChrisSawin",
+                    "avatar_path": "/https://www.gravatar.com/avatar/bf3b87ecb40599290d764e6d73c86319.jpg",
+                    "rating": 7
+                },
+                "content": "With supernatural dread lifted directly from the likes of _Stir of Echoes_ and _The Sixth Sense_, _The Black Phone_ features a breakthrough performance from Madeleine McGraw while Ethan Hawke’s hauntingly memorable turn as The Grabber is felt in a hair-raising sense; like someone who has unknowingly snuck up behind you and waits in your peripheral for that dramatic reveal. _The Black Phone_ is a solid, pulse racing horror film that packs a punch, but seems like the type of film that simply won’t be as delectable on repeat viewings.\r\n\r\n**Full review:** https://hubpages.com/entertainment/The-Black-Phone-2022-Review-A-Juvenile-Curtain-Call-of-Death",
+                "created_at": "2022-06-26T23:13:53.642Z",
+                "id": "62b8e8312e2b2c031ceb6121",
+                "updated_at": "2022-06-26T23:13:53.642Z",
+                "url": "https://www.themoviedb.org/review/62b8e8312e2b2c031ceb6121"
+            },
+            {
+                "author": "MSB",
+                "author_details": {
+                    "name": "MSB",
+                    "username": "msbreviews",
+                    "avatar_path": "/https://www.gravatar.com/avatar/992eef352126a53d7e141bf9e8707576.jpg",
+                    "rating": 5
+                },
+                "content": "FULL SPOILER-FREE REVIEW @ https://www.msbreviews.com/movie-reviews/the-black-phone-spoiler-free-review\r\n\r\n\"The Black Phone carries a horror premise with a supernatural touch full of potential, but it plays too safe by betting on a narrative that's too simple, predictable, and repetitive.\r\n\r\nScott Derrickson elevates his work with a distinct style, and the fact that the main focus belongs to the protagonists development rather than on generic jumpscares pleases me.\r\n\r\nMason Thames and Madeleine McGraw are, without a doubt, the most impressive elements of the entire film, delivering two of the best performances by young actors of the last decade. Ethan Hawke is underused, just like his unexplored character.\r\n\r\nI recommend it, but personally, I expected something more creative.\"\r\n\r\nRating: C+",
+                "created_at": "2022-06-27T13:27:03.951Z",
+                "id": "62b9b027229ae21212d3dc5c",
+                "updated_at": "2022-06-27T13:27:03.951Z",
+                "url": "https://www.themoviedb.org/review/62b9b027229ae21212d3dc5c"
+            },
+            {
+                "author": "Nathan",
+                "author_details": {
+                    "name": "Nathan",
+                    "username": "TitanGusang",
+                    "avatar_path": "/yHGV91jVzmqpFOtRSHF0avBZmPm.jpg",
+                    "rating": 8
+                },
+                "content": "The Black Phone is a paranormal abduction thriller that balances the tension/despair of being trapped and the ghost elements very well. The movie does a great job setting up the main characters in the beginning that gives you a relationship with them and genuine desire for them to succeed. There are a few plot points that are a little questionable, but are they are minor nitpicks and didn’t pull me out of the story too much. The performances all around were great. Ethan Hawke does fantastic in his limited screen time. He conveys the mental state of the Grabber with such nuance, it really makes the hair on the back of your neck stand up. The children do very well too, especially in the more emotionally heavy scenes. A few of the classmates performances in the beginning were a bit awkward.  Overall, I had a great time with this movie and it is a testament to the directors and writers that they could adapt such a creative thriller from a short story.\r\n\r\n**Verdict:** _Great_",
+                "created_at": "2022-07-05T13:50:18.078Z",
+                "id": "62c4419a2da84606af361e6d",
+                "updated_at": "2022-07-15T15:19:08.761Z",
+                "url": "https://www.themoviedb.org/review/62c4419a2da84606af361e6d"
+            },
+            {
+                "author": "Horseface",
+                "author_details": {
+                    "name": "",
+                    "username": "Horseface",
+                    "avatar_path": "/zDc2il1Js8wfo2PeV9hUI8eiPbk.png",
+                    "rating": 1
+                },
+                "content": "I had to abandon this very early on, as I couldn't see anything. I'm pretty sure it was daytime, because kids were going to school, but it was so darkly lit that it looked like late dusk. I think there was a sun in the sky, but it might have been a firefly. I put my TV on \"vivid,\" but it couldn't remedy the problem. Maybe there's a good movie in here, but the production is clearly broken, so if you have an HDR TV, you won't be able to see anything.",
+                "created_at": "2022-07-24T09:10:39.351Z",
+                "id": "62dd0c8f5ca7040b29901658",
+                "updated_at": "2022-07-24T09:10:39.451Z",
+                "url": "https://www.themoviedb.org/review/62dd0c8f5ca7040b29901658"
+            },
+            {
+                "author": "Steve Parker",
+                "author_details": {
+                    "name": "Steve Parker",
+                    "username": "steveinadelaide l",
+                    "avatar_path": "/xyE9MCa5m701z6avIlfEgFXmcAx.jpg",
+                    "rating": 8
+                },
+                "content": "THE BLACK PHONE is a haunting and suspenseful new thriller starring Mason Thames, Madeleine McGraw, and Ethan Hawke, and directed by Scott Derrickson.\r\n\r\n13-year-old Charlie is kidnapped by a child murderer and locked in a soundproof basement. The previous victims of the killer start calling Charlie on an out-of-service phone. These chilling calls give the boy a chance to save himself and others from the killer's clutches.\r\n\r\nTHE BLACK PHONE is suspenseful and scary without the need to have onscreen violence (the violence is mostly off-screen). The cast is excellent, particularly Thames and McGraw, who both give standout performances. Thames is particularly convincing as the terrified boy who is trying to make sense of the situation he's in. Hawke is also chilling as the killer, though his character is not as fleshed out as I would have liked. The movie is well-made and well-acted and has a solid story with some creepy moments — and the length is exactly right. An enjoyable addition to the genre.",
+                "created_at": "2022-08-14T07:06:21.556Z",
+                "id": "62f89eed724de1007a0160e7",
+                "updated_at": "2022-08-14T07:06:21.612Z",
+                "url": "https://www.themoviedb.org/review/62f89eed724de1007a0160e7"
+            },
+            {
+                "author": "JPV852",
+                "author_details": {
+                    "name": "",
+                    "username": "JPV852",
+                    "avatar_path": "/xNLOqXXVJf9m7WngUMLIMFsjKgh.jpg",
+                    "rating": 6
+                },
+                "content": "Had some decently suspense-filled moments and Ethan Hawke was great but otherwise I found most of this pretty forgettable, yet still worth watching as a rental. **3.25/5**",
+                "created_at": "2022-08-18T21:15:59.061Z",
+                "id": "62feac0f6a3448007a2a7754",
+                "updated_at": "2022-08-18T21:15:59.181Z",
+                "url": "https://www.themoviedb.org/review/62feac0f6a3448007a2a7754"
+            },
+            {
+                "author": "mooney240",
+                "author_details": {
+                    "name": "",
+                    "username": "mooney240",
+                    "avatar_path": "/blEC280vq31MVaDcsWBXuGOsYnB.jpg",
+                    "rating": 7
+                },
+                "content": "**Not quite a full-on horror movie but a well-done creepy thriller.**\r\n\r\nI love a good Blumhouse flick (and honestly, I love the bad Blumhouse flicks too). Thankfully The Black Phone is the former. Even though it’s more thriller than horror, The Black Phone is an eerie story that keeps the tension high. I was worried with the subject matter that Scott Derrickson could take things too far and into some tasteless places, but instead, the plot was intense and satisfying.",
+                "created_at": "2022-08-19T23:19:06.113Z",
+                "id": "63001a6abb2602008ebd6add",
+                "updated_at": "2022-09-03T15:17:29.301Z",
+                "url": "https://www.themoviedb.org/review/63001a6abb2602008ebd6add"
+            },
+            {
+                "author": "Juan",
+                "author_details": {
+                    "name": "Juan",
+                    "username": "deyber",
+                    "avatar_path": "/5SITiPOaYfWpEucudCbWg5cLV3r.jpg",
+                    "rating": 8
+                },
+                "content": "Excelente Película, sin duda la volveria a ver de nuevo",
+                "created_at": "2022-08-25T04:58:13.994Z",
+                "id": "6307016518864b0080e35e3b",
+                "updated_at": "2022-09-03T15:27:00.030Z",
+                "url": "https://www.themoviedb.org/review/6307016518864b0080e35e3b"
+            }
+        ],
+        "total_pages": 1,
+        "total_results": 9
+    },
+    "release_dates": {
+        "results": [
+            {
+                "iso_3166_1": "LT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "EE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IT",
+                "release_dates": [
+                    {
+                        "certification": "VM14",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-25T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-08T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FR",
+                "release_dates": [
+                    {
+                        "certification": "12",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "12",
+                        "iso_639_1": "",
+                        "note": "DVD & Blu-Ray",
+                        "release_date": "2022-10-26T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "JP",
+                "release_dates": [
+                    {
+                        "certification": "PG12 ",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-01T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MX",
+                "release_dates": [
+                    {
+                        "certification": "B15 ",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "LK",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PT",
+                "release_dates": [
+                    {
+                        "certification": "M/16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NO",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "AR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PE",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IS",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "AU",
+                "release_dates": [
+                    {
+                        "certification": "MA15+",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-30T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "FI",
+                "release_dates": [
+                    {
+                        "certification": "K-16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-15T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "MY",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HU",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "TVOD",
+                        "release_date": "2022-10-23T00:00:00.000Z",
+                        "type": 4
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "GB",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TR",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "TH",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-13T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "NL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-28T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CA",
+                "release_dates": [
+                    {
+                        "certification": "14A",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PH",
+                "release_dates": [
+                    {
+                        "certification": "R-13",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "PL",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IE",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "BR",
+                "release_dates": [
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "LV",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-04T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "AT",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RO",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "ES",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "Premiere",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 1
+                    },
+                    {
+                        "certification": "16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "CZ",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-14T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "UA",
+                "release_dates": [
+                    {
+                        "certification": "",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SE",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "IL",
+                "release_dates": [
+                    {
+                        "certification": "16+",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-23T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "KR",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-09-07T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "US",
+                "release_dates": [
+                    {
+                        "certification": "R",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    },
+                    {
+                        "certification": "R",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-15T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "R",
+                        "iso_639_1": "",
+                        "note": "Peacock",
+                        "release_date": "2022-08-12T00:00:00.000Z",
+                        "type": 4
+                    },
+                    {
+                        "certification": "R",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-08-16T00:00:00.000Z",
+                        "type": 5
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "DK",
+                "release_dates": [
+                    {
+                        "certification": "15",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "RU",
+                "release_dates": [
+                    {
+                        "certification": "18+",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-24T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "HK",
+                "release_dates": [
+                    {
+                        "certification": "IIB",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-06-22T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            },
+            {
+                "iso_3166_1": "SG",
+                "release_dates": [
+                    {
+                        "certification": "NC16",
+                        "iso_639_1": "",
+                        "note": "",
+                        "release_date": "2022-07-21T00:00:00.000Z",
+                        "type": 3
+                    }
+                ]
+            }
+        ]
+    },
+    "watchProvider": {
+        "AT": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=AT",
+            "buy": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 9
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+                    "provider_id": 20,
+                    "provider_name": "maxdome Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 25
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 9
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+                    "provider_id": 20,
+                    "provider_name": "maxdome Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 25
+                }
+            ],
+            "flatrate": [
+                {
+                    "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+                    "provider_id": 622,
+                    "provider_name": "UPC TV",
+                    "display_priority": 44
+                }
+            ]
+        },
+        "AU": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=AU",
+            "buy": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 22
+                },
+                {
+                    "logo_path": "/zXDDsD9M5vO7lqoqlBQCOcZtKBS.jpg",
+                    "provider_id": 429,
+                    "provider_name": "Telstra TV",
+                    "display_priority": 32
+                }
+            ]
+        },
+        "BE": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=BE",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                }
+            ]
+        },
+        "BR": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=BR",
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 50
+                }
+            ],
+            "flatrate": [
+                {
+                    "logo_path": "/cQQYtdaCg7vDo28JPru4v8Ypi8x.jpg",
+                    "provider_id": 484,
+                    "provider_name": "NOW",
+                    "display_priority": 29
+                }
+            ]
+        },
+        "CA": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=CA",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+                    "provider_id": 140,
+                    "provider_name": "Cineplex",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 30
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 60
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/sN8B7EweqmOmWm5ALdOAxCquuv1.jpg",
+                    "provider_id": 140,
+                    "provider_name": "Cineplex",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+                    "provider_id": 331,
+                    "provider_name": "FlixFling",
+                    "display_priority": 25
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 30
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 60
+                }
+            ]
+        },
+        "CH": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=CH",
+            "rent": [
+                {
+                    "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+                    "provider_id": 150,
+                    "provider_name": "SwissCom",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 19
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/2LS6g6iE5DiAIDiZTAK8mbQQTuE.jpg",
+                    "provider_id": 150,
+                    "provider_name": "SwissCom",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 19
+                }
+            ],
+            "flatrate": [
+                {
+                    "logo_path": "/5OtaT8STJ8ZMkKt994C5XxrEAaP.jpg",
+                    "provider_id": 622,
+                    "provider_name": "UPC TV",
+                    "display_priority": 41
+                }
+            ]
+        },
+        "DE": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=DE",
+            "rent": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+                    "provider_id": 20,
+                    "provider_name": "maxdome Store",
+                    "display_priority": 17
+                },
+                {
+                    "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+                    "provider_id": 178,
+                    "provider_name": "MagentaTV",
+                    "display_priority": 23
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 32
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/2PTFxgrswnEuK0szl87iSd8Yszz.jpg",
+                    "provider_id": 20,
+                    "provider_name": "maxdome Store",
+                    "display_priority": 17
+                },
+                {
+                    "logo_path": "/uULoezj2skPc6amfwru72UPjYXV.jpg",
+                    "provider_id": 178,
+                    "provider_name": "MagentaTV",
+                    "display_priority": 23
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 32
+                }
+            ]
+        },
+        "GB": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=GB",
+            "buy": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 17
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 18
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 24
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 31
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 14
+                },
+                {
+                    "logo_path": "/2pCbao1J9s0DMak2KKnEzmzHni8.jpg",
+                    "provider_id": 130,
+                    "provider_name": "Sky Store",
+                    "display_priority": 16
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 17
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 18
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 24
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 31
+                }
+            ],
+            "flatrate": [
+                {
+                    "logo_path": "/o6li3XZrBKXSqyNRS39UQEfPTCH.jpg",
+                    "provider_id": 594,
+                    "provider_name": "Virgin TV Go",
+                    "display_priority": 66
+                }
+            ]
+        },
+        "HK": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=HK",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 13
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 13
+                }
+            ]
+        },
+        "ID": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=ID",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                }
+            ]
+        },
+        "IE": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=IE",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 14
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 14
+                }
+            ]
+        },
+        "IN": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=IN",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 13
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/ajbCmwvZ8HiePHZaOVEgm9MzyuA.jpg",
+                    "provider_id": 232,
+                    "provider_name": "Zee5",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/4QEQsvCBnORNIg9EDnrRSiEw61D.jpg",
+                    "provider_id": 437,
+                    "provider_name": "Hungama Play",
+                    "display_priority": 22
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 50
+                }
+            ]
+        },
+        "IT": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=IT",
+            "rent": [
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/j9iLCZMMgXP3jaYPkxCicx5Zmx3.jpg",
+                    "provider_id": 359,
+                    "provider_name": "Mediaset Play",
+                    "display_priority": 10
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/ftxHS1anAWTYgtDtIDv8VLXoepH.jpg",
+                    "provider_id": 109,
+                    "provider_name": "Timvision",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 22
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 39
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 22
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 39
+                }
+            ]
+        },
+        "KR": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=KR",
+            "rent": [
+                {
+                    "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+                    "provider_id": 356,
+                    "provider_name": "wavve",
+                    "display_priority": 3
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/2ioan5BX5L9tz4fIGU93blTeFhv.jpg",
+                    "provider_id": 356,
+                    "provider_name": "wavve",
+                    "display_priority": 3
+                }
+            ]
+        },
+        "MX": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=MX",
+            "buy": [
+                {
+                    "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+                    "provider_id": 167,
+                    "provider_name": "Claro video",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 27
+                },
+                {
+                    "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+                    "provider_id": 558,
+                    "provider_name": "Cinépolis KLIC",
+                    "display_priority": 33
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/lJT7r1nprk1Z8t1ywiIa8h9d3rc.jpg",
+                    "provider_id": 167,
+                    "provider_name": "Claro video",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 6
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 27
+                },
+                {
+                    "logo_path": "/qJxuBkjkXWYmuTKk7hxvbmqvrNc.jpg",
+                    "provider_id": 558,
+                    "provider_name": "Cinépolis KLIC",
+                    "display_priority": 33
+                }
+            ]
+        },
+        "MY": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=MY",
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                }
+            ]
+        },
+        "NL": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=NL",
+            "buy": [
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 12
+                }
+            ]
+        },
+        "NZ": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=NZ",
+            "buy": [
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 7
+                }
+            ]
+        },
+        "PH": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=PH",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                }
+            ]
+        },
+        "PL": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=PL",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 1
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 8
+                },
+                {
+                    "logo_path": "/mT9kIe6JVz72ikWJ58x0q8ckUW3.jpg",
+                    "provider_id": 40,
+                    "provider_name": "Chili",
+                    "display_priority": 10
+                }
+            ]
+        },
+        "PT": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=PT",
+            "rent": [
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 7
+                }
+            ],
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 7
+                },
+                {
+                    "logo_path": "/5GEbAhFW2S5T8zVc1MNvz00pIzM.jpg",
+                    "provider_id": 35,
+                    "provider_name": "Rakuten TV",
+                    "display_priority": 8
+                }
+            ]
+        },
+        "SG": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=SG",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 5
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 6
+                }
+            ]
+        },
+        "TH": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=TH",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 5
+                }
+            ]
+        },
+        "TW": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=TW",
+            "buy": [
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 7
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 3
+                },
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 7
+                }
+            ]
+        },
+        "US": {
+            "link": "https://www.themoviedb.org/movie/756999-the-black-phone/watch?locale=US",
+            "buy": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+                    "provider_id": 7,
+                    "provider_name": "Vudu",
+                    "display_priority": 35
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 46
+                },
+                {
+                    "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+                    "provider_id": 279,
+                    "provider_name": "Redbox",
+                    "display_priority": 48
+                },
+                {
+                    "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+                    "provider_id": 358,
+                    "provider_name": "DIRECTV",
+                    "display_priority": 51
+                },
+                {
+                    "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+                    "provider_id": 352,
+                    "provider_name": "AMC on Demand",
+                    "display_priority": 130
+                }
+            ],
+            "flatrate": [
+                {
+                    "logo_path": "/xTHltMrZPAJFLQ6qyCBjAnXSmZt.jpg",
+                    "provider_id": 387,
+                    "provider_name": "Peacock Premium",
+                    "display_priority": 10
+                }
+            ],
+            "rent": [
+                {
+                    "logo_path": "/peURlLlr8jggOwK53fJ5wdQl05y.jpg",
+                    "provider_id": 2,
+                    "provider_name": "Apple iTunes",
+                    "display_priority": 4
+                },
+                {
+                    "logo_path": "/5NyLm42TmCqCMOZFvH4fcoSNKEW.jpg",
+                    "provider_id": 10,
+                    "provider_name": "Amazon Video",
+                    "display_priority": 11
+                },
+                {
+                    "logo_path": "/tbEdFQDwx5LEVr8WpSeXQSIirVq.jpg",
+                    "provider_id": 3,
+                    "provider_name": "Google Play Movies",
+                    "display_priority": 12
+                },
+                {
+                    "logo_path": "/oIkQkEkwfmcG7IGpRR1NB8frZZM.jpg",
+                    "provider_id": 192,
+                    "provider_name": "YouTube",
+                    "display_priority": 13
+                },
+                {
+                    "logo_path": "/21dEscfO8n1tL35k4DANixhffsR.jpg",
+                    "provider_id": 7,
+                    "provider_name": "Vudu",
+                    "display_priority": 35
+                },
+                {
+                    "logo_path": "/shq88b09gTBYC4hA7K7MUL8Q4zP.jpg",
+                    "provider_id": 68,
+                    "provider_name": "Microsoft Store",
+                    "display_priority": 46
+                },
+                {
+                    "logo_path": "/gbyLHzl4eYP0oP9oJZ2oKbpkhND.jpg",
+                    "provider_id": 279,
+                    "provider_name": "Redbox",
+                    "display_priority": 48
+                },
+                {
+                    "logo_path": "/xL9SUR63qrEjFZAhtsipskeAMR7.jpg",
+                    "provider_id": 358,
+                    "provider_name": "DIRECTV",
+                    "display_priority": 51
+                },
+                {
+                    "logo_path": "/4U02VrbgLfUKJAUCHKzxWFtnPx4.jpg",
+                    "provider_id": 331,
+                    "provider_name": "FlixFling",
+                    "display_priority": 127
+                },
+                {
+                    "logo_path": "/kJlVJLgbNPvKDYC0YMp3yA2OKq2.jpg",
+                    "provider_id": 352,
+                    "provider_name": "AMC on Demand",
+                    "display_priority": 130
+                }
+            ]
+        }
+    },
+    "tmrev": {
+        "reviews": [
+            {
+                "_id": "6302e62de1402b7d92ef9656",
+                "createdAt": {
+                    "nanoseconds": 1661134381093,
+                    "seconds": 1661134381
+                },
+                "updatedAt": {
+                    "nanoseconds": 1663640494743,
+                    "seconds": 1663640494
+                },
+                "userId": "qnydtrfNxWSKBZrZvLYkvMIY7k72",
+                "averagedAdvancedScore": 7.2,
+                "user": "6237bab13aec6367b3a747a9",
+                "notes": "Could have been so much better...",
+                "tmdbID": 756999,
+                "reviewedDate": "2022-08-21",
+                "advancedScore": {
+                    "acting": 6,
+                    "characters": 7,
+                    "cinematography": 7,
+                    "climax": 8,
+                    "ending": 8,
+                    "music": 8,
+                    "personalScore": 8,
+                    "plot": 7,
+                    "theme": 7,
+                    "visuals": 6
+                },
+                "public": true,
+                "release_date": "2022-06-22",
+                "title": "The Black Phone",
+                "profile": {
+                    "_id": "6237bab13aec6367b3a747a9",
+                    "email": "guyllkegen@gmail.com",
+                    "uuid": "qnydtrfNxWSKBZrZvLYkvMIY7k72",
+                    "backdropPath": "/bXBvIaYrlMorGVtM1y032gOD1Sf.jpg",
+                    "following": [
+                        "gvYpwcP2cAMJkZ9TPJhyJO5GWjw1",
+                        "Dac75hbCTdY3Nud4bIczQB2f8kn2",
+                        "PPXrS67vGMOFD9IKa96gp0LdxO53",
+                        "aqHe504V3dZFquPDIfdKIDu89Os2",
+                        "X51l0rmmEYM2Gcfaqt18tqQn37e2",
+                        "lX9PQfFHZIcTJh1CV2Emlblf7am2",
+                        "LZFCDqqoCOOnbcwUy5MttzyDMxk2"
+                    ],
+                    "firstName": "Kegen",
+                    "lastName": "Guyll"
+                }
+            },
+            {
+                "_id": "630383e4e1402b7d92ef9658",
+                "createdAt": {
+                    "nanoseconds": 1661174756298,
+                    "seconds": 1661174756
+                },
+                "updatedAt": {
+                    "nanoseconds": 1661174756298,
+                    "seconds": 1661174756
+                },
+                "userId": "lX9PQfFHZIcTJh1CV2Emlblf7am2",
+                "averagedAdvancedScore": 5.8,
+                "user": "6237bab13aec6367b3a747a6",
+                "notes": "",
+                "tmdbID": 756999,
+                "reviewedDate": "2022-08-22",
+                "advancedScore": {
+                    "acting": 6,
+                    "characters": 6,
+                    "cinematography": 6,
+                    "climax": 6,
+                    "ending": 6,
+                    "music": 5,
+                    "personalScore": 6,
+                    "plot": 5,
+                    "theme": 6,
+                    "visuals": 6
+                },
+                "public": true,
+                "release_date": "2022-06-22",
+                "title": "The Black Phone",
+                "profile": {
+                    "_id": "6237bab13aec6367b3a747a6",
+                    "email": "p_pham03@hotmail.com",
+                    "uuid": "lX9PQfFHZIcTJh1CV2Emlblf7am2",
+                    "firstName": "Phoung",
+                    "lastName": "Pham"
+                }
+            },
+            {
+                "_id": "6304e88be1402b7d92ef965e",
+                "createdAt": {
+                    "nanoseconds": 1661266059116,
+                    "seconds": 1661266059
+                },
+                "updatedAt": {
+                    "nanoseconds": 1661266059116,
+                    "seconds": 1661266059
+                },
+                "userId": "fi0MEssgQcdKZoizNKcypbSbIgK2",
+                "averagedAdvancedScore": 7.4,
+                "user": "6304e809e1402b7d92ef965d",
+                "notes": "A more in-depth look into why \"The Grabber\" does what he does would have made it better. ",
+                "tmdbID": 756999,
+                "reviewedDate": "2022-08-23",
+                "advancedScore": {
+                    "acting": 8,
+                    "characters": 9,
+                    "cinematography": 7,
+                    "climax": 10,
+                    "ending": 8,
+                    "music": 4,
+                    "personalScore": 8,
+                    "plot": 7,
+                    "theme": 7,
+                    "visuals": 6
+                },
+                "public": true,
+                "release_date": "2022-06-22",
+                "title": "The Black Phone",
+                "profile": {
+                    "_id": "6304e809e1402b7d92ef965d",
+                    "email": "zachary.fredricks@acretrader.com",
+                    "firstName": "Zachary",
+                    "lastName": "Fredricks",
+                    "uuid": "fi0MEssgQcdKZoizNKcypbSbIgK2"
+                }
+            },
+            {
+                "_id": "6305662be1402b7d92ef965f",
+                "createdAt": {
+                    "nanoseconds": 1661298219719,
+                    "seconds": 1661298219
+                },
+                "updatedAt": {
+                    "nanoseconds": 1661298219719,
+                    "seconds": 1661298219
+                },
+                "userId": "aqHe504V3dZFquPDIfdKIDu89Os2",
+                "averagedAdvancedScore": 5.8,
+                "user": "6237bab13aec6367b3a747a8",
+                "notes": "I am tired of these scary movies/shows that take place in the 80's and star kids that are middle school/junior high age. This movie is rated R so I assume they don't expect kids the same age as the stars to go see this movie. Is it to hard to make a horror movie with a modern setting? Is it more believable when there is less technology like cell phones and stuff like that? I don't watch very many horror movies but for some reason these types are really popular (It, stranger things, Black Phone). I have problems with this movie but maybe it wouldn't bother me so much if it wasn't so similar to other movies I've seen before. \n\nPlot - I think this movie is pretty slow moving, that doesn't have to be a bad thing but I definitely found myself waiting for this thing to end. I was not interested enough in this story. There were a few things that I found strange like how we are only shown 2 kids getting \"Grabbed\" but we later find out he actually took like 5 or something. I think the movie could have done a better job of showing that earlier so we knew how much of a threat he was. One thing I will give this movie is that it's good at setting a tone of nervousness and suspense. I was always worried the grabber would walk into the basement while Finney was trying to escape or something. \n\nTheme - I guess it's nice seeing the bond of brother and sister in this movie. And the theme of sticking up for each other is nice. But speaking of that, I know I didn't grow up in the 80's and there has been a big push for no bullying in schools for a while now, but were kids just getting beat up to the brink of death every other day in the 80's? Why are kids this age carrying around switchblades and stabbing each other? Why are they beating each other up to the point where they pass out in a pool of blood? I know Bentonville is a nice area but damn, this movie and IT have this problem.  \n\nClimax - I liked seeing the grabber get beat up, very satisfying. \nI also like that Finney used all the things the dead kids taught him to escape, although I think the window grate was kind of pointless. I think the grabber could've broken his ankle without it there but that's more of a nit pick. \n\nEnding - I really did not like the last scene of this movie. I thought seeing him reunite with his sister was great and the police talking to the press was fine. But the scene were he goes back to school was weird. He just went through a traumatic experience where he was kidnapped and held hostage for a few days by a guy who wanted to beat him, sexually abuse him, and kill him. And he was talking to dead kids the whole time. And he saw a guy murdered with an axe in front of him and he also killed a guy himself. I feel like that would really mess up a child and he probably wouldn't walk into school the next day and be all cool and confident. \n\nCharacters - I don't think they fleshed out the characters enough. Finney goes through an ark where the one kid tells him at the end that he's good at taking a punch, he just needs to throw one. We don't really see that though, we're mostly told that. I think we could've used an explanation for why the fighter kid was so good at fighting.  I don't think the grabber got nearly enough development, the face mask thing is evidence of that. At the end when the grabber's mask falls off he tries to cover his face. WHY. As far as I know they don't mention this at all in the movie. What is the point of the mask?\n\nmusic - fine, suspenseful movie and the music didn't take away from it.\n\nI did not like most of the jump scares in this movie. They didn't make any sense and were scary because they were so out of place. This movie floats the line by being realistically scary and being supernaturally scary when it is convenient. I think this movie could have been made without any of the supernatural elements in it at all. His sister has dreams that come true or whatever. Ok, but her brother escaped on his own at the same time so it didn't really matter that she found him. You could say she helped find the bodies because Finney wasn't kept in that house. That's true but at the end of the movie the police say the grabber owned both houses so they probably would've searched the second one anyway. And the dead kids being able to call Finney is a unique idea, sure. But I don't think it takes away too much to just say that Finney is a resourceful kid and figured that stuff out on his own. (not the wall above the outlet or the combination lock, but I don't think that's a huge deal). I get what they were doing with the dead kids, It is an interesting idea, I just don't think it did enough for me. \n\nOne big issue I have is the Grabber's brother. It is hilarious that he lives with the grabber and doesn't know it. This is a cool interesting twist in this movie. However, they do absolutely nothing with this idea. He shows up in the movie for like 2 seconds and get's killed so quickly. The grabber isn't upset about it or anything, he is of no consequence. I think this idea could have been utilized more and in a better way. ",
+                "tmdbID": 756999,
+                "reviewedDate": "2022-08-22",
+                "advancedScore": {
+                    "acting": 7,
+                    "characters": 4,
+                    "cinematography": 7,
+                    "climax": 7,
+                    "ending": 4,
+                    "music": 7,
+                    "personalScore": 3,
+                    "plot": 5,
+                    "theme": 7,
+                    "visuals": 7
+                },
+                "public": true,
+                "release_date": "2022-06-22",
+                "title": "The Black Phone",
+                "profile": {
+                    "_id": "6237bab13aec6367b3a747a8",
+                    "email": "hamiltonjlewis@gmail.com",
+                    "uuid": "aqHe504V3dZFquPDIfdKIDu89Os2",
+                    "following": [
+                        "qnydtrfNxWSKBZrZvLYkvMIY7k72"
+                    ],
+                    "firstName": "Lewis",
+                    "lastName": "Hamilton"
+                }
+            }
+        ],
+        "avgScore": {
+            "_id": {
+                "tmdbID": 756999,
+                "title": "The Black Phone"
+            },
+            "totalScore": 6.55,
+            "plot": 6,
+            "theme": 6.75,
+            "climax": 7.75,
+            "ending": 6.5,
+            "acting": 6.75,
+            "characters": 6.5,
+            "music": 6,
+            "cinematography": 6.75,
+            "visuals": 6.25,
+            "personalScore": 6.25
+        },
+        "likes": 1,
+        "dislikes": 0
+    },
+    "imdb": {
+        "_id": "629d3829a94bed7dbf6a61dc",
+        "uid": "tt7144666",
+        "titleType": "movie",
+        "primaryTitle": "The Black Phone",
+        "originalTitle": "The Black Phone",
+        "isAdult": "0",
+        "startYear": "2021",
+        "endYear": "\\N",
+        "runtimeMinutes": "102",
+        "genres": "Horror",
+        "averageRating": "7.0",
+        "numVotes": "83309"
+    }
+}

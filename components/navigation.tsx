@@ -57,7 +57,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
         icon: 'trending_up',
         mobileOnly: false,
         title: 'Trending',
-        url: '/',
+        url: '/trending',
       },
       {
         auth: true,
