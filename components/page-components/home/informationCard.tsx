@@ -13,7 +13,7 @@ const InformationCard: FunctionComponent<Props> = ({
 }: Props) => (
   <Link passHref href={href}>
     <a
-      className="bg-tmrev-gray-dark flex h-[100px] items-center space-x-2 rounded p-2 space-y-2 opacity-90 hover:opacity-100"
+      className="bg-tmrev-gray-dark flex h-[170px] md:h-[100px] items-center space-x-2 rounded p-2 space-y-2 opacity-90 hover:opacity-100"
     >
       <div>
         <span className="material-icons-outlined text-6xl text-white opacity-70">

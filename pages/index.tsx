@@ -93,7 +93,7 @@ const Home: NextPage = () => {
                 href={`/movie/${createMediaUrl(topReviewed.body[movie].id, topReviewed.body[movie].title)}`}
               >
                 <a
-                  className="relative m-4 md:m-0 rounded aspect-moviePoster h-[280px]"
+                  className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]"
                 >
                   <Image
                     alt={topReviewed.body[movie].title}
