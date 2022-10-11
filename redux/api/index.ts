@@ -9,7 +9,9 @@ import {
   SingleReview,
   User, UserQuery, WatchList,
 } from '../../models/tmrev';
-import { BatchMoviesResponse, MovieResponse, ReviewResponse } from '../../models/tmrev/movie';
+import {
+  BatchMoviesResponse, JustReviewed, MovieResponse, ReviewResponse, TopReviewed,
+} from '../../models/tmrev/movie';
 import { DeleteReviewQuery } from '../../models/tmrev/review';
 import { SearchResponse } from '../../models/tmrev/search';
 import { WatchedDeletePayload, WatchedPayload, WatchedResponse } from '../../models/tmrev/watched';
@@ -103,6 +105,11 @@ export const tmrevApi = createApi({
       }),
       transformResponse: (response: DiscoverMovie) => response,
     }),
+    getJustReviewed: builder.query<JustReviewed, void>({
+      query: () => ({
+        url: '/movie/just-reviewed',
+      }),
+    }),
     getMovie: builder.query<MovieResponse, MovieQuery>({
       providesTags: ['MOVIE'],
       query: (data) => ({
@@ -115,6 +122,11 @@ export const tmrevApi = createApi({
           authorization: data.authToken,
         },
         url: `/movie/review/${data.reviewId}`,
+      }),
+    }),
+    getTopReviewed: builder.query<TopReviewed, void>({
+      query: () => ({
+        url: '/movie/top-reviewed',
       }),
     }),
     getUser: builder.query<User, UserQuery>({
@@ -221,6 +233,8 @@ export const {
   useDeleteWatchedMutation,
   useGetWatchedQuery,
   useUpdateWatchedMutation,
+  useGetTopReviewedQuery,
+  useGetJustReviewedQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

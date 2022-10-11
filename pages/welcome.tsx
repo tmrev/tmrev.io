@@ -36,7 +36,6 @@ const Welcome:FunctionComponent<Props> = () => {
           </h1>
           <p>- May Parker</p>
         </div>
-
       </div>
       <div className="grid grid-cols-1 gap-36">
         <WelcomeExplainer

@@ -1,4 +1,5 @@
 import { Movie, WatchProviderResponse } from '../tmdb';
+import { TmrevReview } from './review';
 
 /* eslint-disable no-unused-vars */
 export interface MovieResponse {
@@ -224,4 +225,24 @@ export interface BatchMoviesResponse {
   success: boolean
   body: BatchMovies
   error?: any
+}
+
+export interface TopReviewed {
+  success: boolean
+  body: TopReviewedBody[]
+}
+
+export type TopReviewedBody = {
+  _id: number
+  count: number
+}
+
+export interface JustReviewed {
+  success: boolean
+  body: JustReviewedBody
+}
+
+export type JustReviewedBody = {
+  movies: TmrevReview[],
+  count: number
 }
