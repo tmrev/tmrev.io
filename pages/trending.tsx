@@ -4,7 +4,7 @@ import React from 'react';
 import Screen from '../components/landing-page/screen';
 import { useGetDiscoverMovieQuery } from '../redux/api';
 
-const Home: NextPage = () => {
+const Trending: NextPage = () => {
   const { data: movieData } = useGetDiscoverMovieQuery({ page: 1 });
 
   return (
@@ -16,4 +16,4 @@ const Home: NextPage = () => {
   );
 };
 
-export default Home;
+export default Trending;

@@ -22,21 +22,21 @@ const Home: NextPage = () => {
   const { data: justReviewed } = useGetJustReviewedQuery();
 
   const batchedIds = useMemo(() => {
-    if (!topReviewedIds || !justReviewed) {
+    if (!topReviewedIds || !justReviewed || !topReviewedIds.body || !justReviewed.body) {
       return {
         just: [],
         top: [],
       };
     }
 
-    const top = topReviewedIds.body.map((v) => v._id);
-    const just = justReviewed.body.movies.map((v) => v.tmdbID);
+    const top = topReviewedIds?.body.map((v) => v._id);
+    const just = justReviewed?.body.movies.map((v) => v.tmdbID);
 
     return {
       just,
       top,
     };
-  }, [topReviewedIds]);
+  }, [topReviewedIds, justReviewed]);
 
   // eslint-disable-next-line max-len
   const { data: topReviewed } = useBatchMoviesQuery(batchedIds.top, { skip: !batchedIds.top.length });
@@ -46,13 +46,13 @@ const Home: NextPage = () => {
   useEffect(() => {
     router.prefetch('/register');
 
-    if (topReviewed) {
+    if (topReviewed && topReviewed.body) {
       Object.values(topReviewed.body).forEach((v) => {
         router.prefetch(`/movie/${createMediaUrl(v.id, v.title)}`);
       });
     }
 
-    if (justReviewed) {
+    if (justReviewed && justReviewed.body) {
       justReviewed.body.movies.forEach((v) => {
         router.prefetch(`/movie/${createMediaUrl(v.tmdbID, v.title)}`);
       });
@@ -110,7 +110,9 @@ const Home: NextPage = () => {
         <div className="flex flex-col w-full">
           <div className="flex items-center space-x-5">
             <HeaderText>Just reviewed</HeaderText>
-            <p className="text-white font-light">{`${numberShortHand(justReviewed!.body.count)} Movies Reviewed`}</p>
+            <p className="text-white font-light">
+              {`${numberShortHand(justReviewed ? justReviewed.body.count : 0)} Movies Reviewed`}
+            </p>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
             {justReviewed && justReviewedImages && [...justReviewed.body.movies].map((movie) => (
@@ -149,7 +151,6 @@ const Home: NextPage = () => {
               href="/welcome#data-visualization"
               icon="analytics"
               title="Data Visualization"
-
             />
             <InformationCard
               description="Create your own personal list and share it with your friends."
@@ -169,5 +170,4 @@ const Home: NextPage = () => {
     </div>
   );
 };
-
 export default Home;
