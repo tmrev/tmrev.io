@@ -54,6 +54,15 @@ export const tmrevApi = createApi({
         };
       },
     }),
+    batchLookUp: builder.query<BatchMoviesResponse, string[]>({
+      query: (body) => ({
+        body: {
+          movieId: body,
+        },
+        method: 'POST',
+        url: '/import/imdb',
+      }),
+    }),
     batchMovies: builder.query<BatchMoviesResponse, number[]>({
       query: (body) => ({
         body: {
@@ -61,6 +70,24 @@ export const tmrevApi = createApi({
         },
         method: 'POST',
         url: '/movie/batch',
+      }),
+    }),
+    createWatchList: builder.mutation<WatchList, UpdateWatchList>({
+      invalidatesTags: ['WATCH_LIST'],
+      query: (body) => ({
+        body: {
+          description: body.description,
+          movies: body.movies,
+          public: body.public,
+          tags: body.tags,
+          title: body.title,
+          userId: body.userId,
+        },
+        headers: {
+          authorization: body.token,
+        },
+        method: 'POST',
+        url: '/watch-list/',
       }),
     }),
     createWatched: builder.mutation<WatchedResponse, WatchedPayload>({
@@ -235,6 +262,8 @@ export const {
   useUpdateWatchedMutation,
   useGetTopReviewedQuery,
   useGetJustReviewedQuery,
+  useBatchLookUpQuery,
+  useCreateWatchListMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

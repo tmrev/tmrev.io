@@ -79,3 +79,10 @@ export const renderImageSrc = (user: any) => {
 
   return 'https://avatars.dicebear.com/api/identicon/foobar.svg';
 };
+
+export function camelCase(str: string) {
+  return str
+    .toLowerCase()
+    .replace(/[^\w]+(.)/g, (ltr) => ltr.toUpperCase())
+    .replace(/[^a-zA-Z]/g, '');
+}

@@ -36,7 +36,7 @@ interface UpdateWatchList {
   tags: string[],
   userId: string
   movies: number[],
-  watchListId: string
+  watchListId?: string
 }
 
 export type {

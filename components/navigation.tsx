@@ -60,18 +60,24 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
         url: '/trending',
       },
       {
-        auth: true,
+        auth: false,
         icon: 'list',
         mobileOnly: false,
         title: 'Watch List',
-        url: `/user/${user?.uid}/watch-list`,
+        url: user ? `/user/${user.uid}/watch-list` : '/login',
       },
       {
-        auth: true,
+        auth: false,
+        icon: 'publish',
+        title: 'Import',
+        url: user ? '/import' : '/login',
+      },
+      {
+        auth: false,
         icon: 'account_circle',
         mobileOnly: true,
         title: 'Profile',
-        url: `/user/${user?.uid}/preview`,
+        url: user ? `/user/${user.uid}/preview` : '/login',
       },
       // {
       //   auth: false,
@@ -136,8 +142,9 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               </Button>
             </div>
             <ul className="mt-8 space-y-4">
-              {urlLinks.map((link) => (
-                <li key={link.url}>
+              {urlLinks.map((link, i) => (
+                // eslint-disable-next-line react/no-array-index-key
+                <li key={i}>
                   <Link passHref href={link.url}>
                     <a
                       className={
@@ -207,12 +214,15 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
           )}
           >
             {urlLinks.map((link) => {
-              if ((link.auth && !user) || link.mobileOnly) return null;
+              if (link.mobileOnly || !link.title) return null;
 
               return (
                 <li key={link.url}>
                   <Link passHref href={link.url}>
-                    <a className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none" title={link.title}>
+                    <a
+                      className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none"
+                      title={link.title}
+                    >
                       <span className="material-icons">
                         {link.icon}
                       </span>
