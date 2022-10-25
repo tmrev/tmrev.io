@@ -221,9 +221,31 @@ export interface Profile {
 
 export type BatchMovies = {[x: string]: Movie }
 
-export interface BatchMoviesResponse {
+export type IMDBMovie = {
+  _id: string
+  uid: string
+  titleType: string
+  primaryTitle: string
+  originalTitle: string
+  isAdult: '0' | '1'
+  startYear: string
+  endYear: string | '\\N'
+  runtimeMinutes: string
+  genres: string
+  averageRating: string
+  numVotes: string
+  lastModified: Date
+}
+
+export interface IMDBBatchMoviesResponse {
   success: boolean
   body: BatchMovies
+  error?: any
+}
+
+export interface LetterBoxdBatchMovieResponse {
+  success: boolean
+  body: {[x:string]: IMDBMovie}
   error?: any
 }
 

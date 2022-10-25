@@ -1,3 +1,5 @@
+import papa from 'papaparse';
+
 export function numberShortHand(number: number): string {
   return Intl.NumberFormat('en-US', {
     maximumFractionDigits: 1,
@@ -86,3 +88,14 @@ export function camelCase(str: string) {
     .replace(/[^\w]+(.)/g, (ltr) => ltr.toUpperCase())
     .replace(/[^a-zA-Z]/g, '');
 }
+
+export const papaParseAsync = async (rawFile: File) => new Promise((resolve, reject) => {
+  papa.parse(rawFile, {
+    complete: (results) => {
+      resolve(results.data);
+    },
+    error: (err) => {
+      reject(err);
+    },
+  });
+});

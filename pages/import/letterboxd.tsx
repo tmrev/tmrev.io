@@ -7,59 +7,102 @@ import DropZone from '../../components/common/inputs/dropZone';
 import HeaderText from '../../components/common/typography/headerText';
 import { useAppDispatch } from '../../hooks';
 import { UpdateWatchList } from '../../models/tmrev';
-import { IMDBBatchMoviesResponse } from '../../models/tmrev/movie';
+import { IMDBBatchMoviesResponse, LetterBoxdBatchMovieResponse } from '../../models/tmrev/movie';
 import { WatchedPayload } from '../../models/tmrev/watched';
 import { useAuth } from '../../provider/authUserContext';
 import { tmrevAPI, useCreateWatchedMutation, useCreateWatchListMutation } from '../../redux/api';
 import { setOpenToast, setToastContent } from '../../redux/slice/toastSlice';
-import importIMDB, { IMDBImport } from '../../utils/importIMDB';
+import importLetterboxd, { LetterboxdImport } from '../../utils/importLetterboxd';
 
-type IMDBMovies = {
+type LetterboxdMovies = {
   [x: string]: Data[]
 }
 
 type Data = {
-  imdb: IMDBImport,
-  movieList: string[]
+  letterboxd: LetterboxdImport,
+  searchCrit: {
+    title: string,
+    year: string
+  }
 }
 
 type ParsedData = {
-  res: PromiseSettledResult<AxiosResponse<IMDBBatchMoviesResponse, any>>,
+  res: PromiseSettledResult<AxiosResponse<LetterBoxdBatchMovieResponse, any>>,
   name: string
-  id: string
+  title: string
+  year: string
+  id: string[]
 }
 
-const batchLookUp = async (imdbMovies: IMDBMovies): Promise<ParsedData[]> => {
-  const batchRequests = Object.values(imdbMovies).map((movies) => axios({
+// left off
+
+// completed api route /import/letterboxd
+
+// update types
+
+// make work
+
+const batchLookUp = async (movies: LetterboxdMovies): Promise<ParsedData[]> => {
+  const batchRequest = Object.values(movies).map((v) => axios({
     data: {
-      movieId: movies[0].movieList,
+      searchCrit: v.map((d) => d.searchCrit),
     },
     method: 'POST',
-    url: `${tmrevAPI}/import/imdb`,
-  }) as AxiosPromise<IMDBBatchMoviesResponse>);
+    url: `${tmrevAPI}/import/letterboxd`,
+  }) as AxiosPromise<LetterBoxdBatchMovieResponse>);
 
-  const res = await Promise.allSettled(batchRequests);
+  const res = await Promise.allSettled(batchRequest);
 
-  const parsedData = res.map((value, i) => {
+  const imdbData: ParsedData[] = res.map((value, i) => {
     let returnData:any = {};
-    Object.keys(imdbMovies).forEach((key, index) => {
-      if (index === i) {
+    Object.keys(movies).forEach((key, index) => {
+      if (index === i && value.status === 'fulfilled') {
         returnData = {
-          id: imdbMovies[key][index].imdb.const,
+          id: Object.keys(value.value.data.body).map((v) => v),
           name: key,
           res: value,
+          title: movies[key][index].letterboxd.name,
+          year: movies[key][index].letterboxd.year,
         };
       }
     });
     return returnData;
   });
 
-  return parsedData;
+  const batchIMDBRequest = imdbData.map((p) => axios({
+    data: {
+      movieId: p.id,
+    },
+    method: 'POST',
+    url: `${tmrevAPI}/import/imdb`,
+  }) as AxiosPromise<IMDBBatchMoviesResponse>);
+
+  const imdbRes = await Promise.allSettled(batchIMDBRequest);
+
+  console.log(imdbRes);
+
+  // const parsedData = res.map((value, i) => {
+  //   let returnData:any = {};
+  //   Object.keys(imdbMovies).forEach((key, index) => {
+  //     if (index === i) {
+  //       returnData = {
+  //         id: imdbMovies[key][index].imdb.const,
+  //         name: key,
+  //         res: value,
+  //       };
+  //     }
+  //   });
+  //   return returnData;
+  // });
+
+  console.log(imdbData);
+
+  return imdbData;
 };
 
-const ImportIMDB: NextPage = () => {
+const ImportLetterboxd: NextPage = () => {
   const [files, setFiles] = useState<FileList | null>(null);
-  const [imdbMovies, setImdbMovies] = useState<IMDBMovies>();
+  const [letterBoxdMovies, setLetterBoxdMovies] = useState<LetterboxdMovies>();
   const [importSelect, setImportSelect] = useState<string>('watchlist');
   const [batchRequest, setBatchRequest] = useState<ParsedData[]>();
   const [addWatchList] = useCreateWatchListMutation();
@@ -71,36 +114,39 @@ const ImportIMDB: NextPage = () => {
     if (!files) return;
 
     Object.values(files).forEach((file) => {
-      importIMDB(file).then((data) => {
+      importLetterboxd(file).then((data) => {
         const tempArray:Data[] = [];
         data.forEach((element) => {
-          if (element.const) {
+          if (element.name && element.year) {
             tempArray.push({
-              imdb: element,
-              movieList: data.map((v) => v.const),
+              letterboxd: element,
+              searchCrit: {
+                title: element.name,
+                year: element.year,
+              },
             });
           }
         });
-        setImdbMovies((prevState) => ({ ...prevState, [file.name.split('.')[0]]: tempArray }));
+        setLetterBoxdMovies((prevState) => ({ ...prevState, [file.name.split('.')[0]]: tempArray }));
       });
     });
   }, [files]);
 
   const handleBatch = useCallback(async () => {
-    if (!imdbMovies) return;
+    if (!letterBoxdMovies) return;
 
-    const data = await batchLookUp(imdbMovies);
+    const data = await batchLookUp(letterBoxdMovies);
 
     setBatchRequest(data);
-  }, [imdbMovies]);
+  }, [letterBoxdMovies]);
 
   useEffect(() => {
     handleBatch();
-  }, [handleBatch, imdbMovies]);
+  }, [handleBatch, letterBoxdMovies]);
 
   const cleanUp = () => {
     setFiles(null);
-    setImdbMovies(undefined);
+    setLetterBoxdMovies(undefined);
     setBatchRequest(undefined);
   };
 
@@ -125,7 +171,7 @@ const ImportIMDB: NextPage = () => {
           .unwrap()
           .then(() => {
             setFiles(null);
-            setImdbMovies(undefined);
+            setLetterBoxdMovies(undefined);
             setBatchRequest(undefined);
             dispatch(setToastContent(`Successfully added ${importSelect}`));
             dispatch(setOpenToast(true));
@@ -142,23 +188,23 @@ const ImportIMDB: NextPage = () => {
   };
 
   const uploadRatings = async () => {
-    if (!batchRequest || !user || !files || importSelect !== 'ratings' || !imdbMovies) return;
+    if (!batchRequest || !user || !files || importSelect !== 'ratings' || !letterBoxdMovies) return;
 
     const token = await user.getIdToken();
     const payload: WatchedPayload[] = [];
 
     batchRequest.forEach((parsedData) => {
-      Object.keys(imdbMovies).forEach((key) => {
+      Object.keys(letterBoxdMovies).forEach((key) => {
         if (parsedData.res.status !== 'fulfilled') return;
 
-        imdbMovies[key].forEach((d) => {
+        letterBoxdMovies[key].forEach((d) => {
           if (parsedData.res.status !== 'fulfilled') return;
-          if (typeof parsedData.res.value.data.body[d.imdb.const] !== 'undefined') {
-            const { title, poster_path, id } = parsedData.res.value.data.body[d.imdb.const];
+          if (typeof parsedData.res.value.data.body[d.letterboxd.const] !== 'undefined') {
+            const { title, poster_path, id } = parsedData.res.value.data.body[d.letterboxd.const];
 
             payload.push({
               authToken: token,
-              liked: Number(d.imdb.yourRating) > 7,
+              liked: Number(d.letterboxd.yourRating) > 7,
               posterPath: poster_path || '',
               title,
               tmdbID: id,
@@ -185,10 +231,10 @@ const ImportIMDB: NextPage = () => {
     });
   };
 
-  useEffect(() => {
-    uploadWatchList();
-    uploadRatings();
-  }, [batchRequest, user]);
+  //   useEffect(() => {
+  //     uploadWatchList();
+  //     uploadRatings();
+  //   }, [batchRequest, user]);
 
   useEffect(() => {
     beginImport();
@@ -197,16 +243,16 @@ const ImportIMDB: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Import IMDB data</title>
+        <title>Import Letterboxd data</title>
         <meta
-          content="Easily upload all of your list, ratings and watchlist from imdb"
+          content="Easily upload all of your list, ratings and watchlist from letterboxd"
           name="description"
         />
       </Head>
       <div className="lg:h-full h-screen text-center w-full flex justify-center items-center">
         <div className=" bg-tmrev-gray-dark p-4 rounded flex flex-col md:min-w-[500px] space-y-4">
           <HeaderText>
-            IMDB Import
+            Letterboxd Import
           </HeaderText>
           <select
             className="p-2 rounded bg-black text-white"
@@ -227,7 +273,7 @@ const ImportIMDB: NextPage = () => {
             }}
           />
           <div className="text-white">
-            {imdbMovies && Object.keys(imdbMovies).map((v) => (
+            {letterBoxdMovies && Object.keys(letterBoxdMovies).map((v) => (
               <p key={v}>{v}</p>
             ))}
           </div>
@@ -237,4 +283,4 @@ const ImportIMDB: NextPage = () => {
   );
 };
 
-export default ImportIMDB;
+export default ImportLetterboxd;
