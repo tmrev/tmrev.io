@@ -75,10 +75,11 @@ const Home: NextPage = () => {
       </div>
       <div className="space-y-36 mt-16">
         <div className="flex items-center justify-center w-full">
-          <Link passHref href="/register">
-            <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-opacity-90">
-              <p className=" font-semibold text-lg ">Get Started</p>
-            </a>
+          <Link
+            className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-opacity-90"
+            href="/register"
+          >
+            <p className=" font-semibold text-lg ">Get Started</p>
           </Link>
         </div>
         <div className="flex flex-col w-full">
@@ -89,20 +90,16 @@ const Home: NextPage = () => {
             {topReviewed && Object.keys(topReviewed.body).map((movie) => (
               <Link
                 key={topReviewed.body[movie].id}
-                passHref
+                className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]"
                 href={`/movie/${createMediaUrl(topReviewed.body[movie].id, topReviewed.body[movie].title)}`}
               >
-                <a
-                  className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]"
-                >
-                  <Image
-                    alt={topReviewed.body[movie].title}
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(topReviewed.body[movie].poster_path || '', 300)}
-                  />
-                </a>
+                <Image
+                  alt={topReviewed.body[movie].title}
+                  className="rounded"
+                  layout="fill"
+                  objectFit="cover"
+                  src={imageUrl(topReviewed.body[movie].poster_path || '', 300)}
+                />
               </Link>
             ))}
           </div>
@@ -118,20 +115,16 @@ const Home: NextPage = () => {
             {justReviewed && justReviewedImages && [...justReviewed.body.movies].map((movie) => (
               <Link
                 key={movie._id}
-                passHref
+                className="relative m-4 rounded aspect-moviePoster h-[111px]"
                 href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
               >
-                <a
-                  className="relative m-4 rounded aspect-moviePoster h-[111px]"
-                >
-                  <Image
-                    alt={movie.title}
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(justReviewedImages.body[movie.tmdbID].poster_path || '', 300)}
-                  />
-                </a>
+                <Image
+                  alt={movie.title}
+                  className="rounded"
+                  layout="fill"
+                  objectFit="cover"
+                  src={imageUrl(justReviewedImages.body[movie.tmdbID].poster_path || '', 300)}
+                />
               </Link>
             ))}
           </div>

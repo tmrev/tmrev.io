@@ -48,23 +48,21 @@ const MetaItem:FunctionComponent<MetaItemProps> = ({
 
 const ProviderItem: FunctionComponent<ProviderItemProps> = ({ data, link }) => (
   <div>
-    <Link key={data.provider_id} passHref href={link}>
-      <a rel="noopener" target="_blank">
-        <div key={data.provider_id} className="flex items-center space-x-3">
-          <div className="relative w-8 h-8  lg:h-4 lg:w-4 ">
-            <Image
-              alt={data.provider_name}
-              className="rounded"
-              layout="fill"
-              objectFit="cover"
-              src={imageUrl(data.logo_path)}
-            />
-          </div>
-          <p className="hidden lg:block">
-            {data.provider_name}
-          </p>
+    <Link key={data.provider_id} passHref href={link} target="_blank">
+      <div key={data.provider_id} className="flex items-center space-x-3">
+        <div className="relative w-8 h-8  lg:h-4 lg:w-4 ">
+          <Image
+            alt={data.provider_name}
+            className="rounded"
+            layout="fill"
+            objectFit="cover"
+            src={imageUrl(data.logo_path)}
+          />
         </div>
-      </a>
+        <p className="hidden lg:block">
+          {data.provider_name}
+        </p>
+      </div>
     </Link>
   </div>
 );
@@ -93,41 +91,43 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
       {imdb && (
         <MetaItem title="Rating">
           <div className="flex-col">
-            <Link passHref href={`https://www.imdb.com/title/${imdb?.uid}/`}>
-              <a className="flex items-center space-x-2">
-                <Image
-                  height={32}
-                  objectFit="contain"
-                  src="/images/icons/imdb/imdb-icon.svg"
-                  width={32}
-                />
-                <p className="opacity-75">
-                  {imdb?.averageRating}
-                </p>
-                <p className="opacity-75">
-                  (
-                  {numberShortHand(Number(imdb?.numVotes)) }
-                  )
-                </p>
-              </a>
+            <Link
+              className="flex items-center space-x-2"
+              href={`https://www.imdb.com/title/${imdb?.uid}/`}
+            >
+              <Image
+                height={32}
+                objectFit="contain"
+                src="/images/icons/imdb/imdb-icon.svg"
+                width={32}
+              />
+              <p className="opacity-75">
+                {imdb?.averageRating}
+              </p>
+              <p className="opacity-75">
+                (
+                {numberShortHand(Number(imdb?.numVotes)) }
+                )
+              </p>
             </Link>
-            <Link passHref href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
-              <a className="flex items-center space-x-2">
-                <Image
-                  height={32}
-                  objectFit="contain"
-                  src="/images/icons/tmdb/tmdb-icon.svg"
-                  width={32}
-                />
-                <p className="opacity-75">
-                  {tmdb.vote_average}
-                </p>
-                <p className="opacity-75">
-                  (
-                  {numberShortHand(Number(tmdb.vote_count)) }
-                  )
-                </p>
-              </a>
+            <Link
+              className="flex items-center space-x-2"
+              href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}
+            >
+              <Image
+                height={32}
+                objectFit="contain"
+                src="/images/icons/tmdb/tmdb-icon.svg"
+                width={32}
+              />
+              <p className="opacity-75">
+                {tmdb.vote_average}
+              </p>
+              <p className="opacity-75">
+                (
+                {numberShortHand(Number(tmdb.vote_count)) }
+                )
+              </p>
             </Link>
           </div>
 
@@ -144,10 +144,12 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
         <MetaItem title="Genres">
           <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
             {genres.map((value) => (
-              <Link key={value.id} passHref href="#">
-                <a className="hover:underline mx-2">
-                  <span>{value.name}</span>
-                </a>
+              <Link
+                key={value.id}
+                className="hover:underline mx-2"
+                href="#"
+              >
+                <span>{value.name}</span>
               </Link>
             ))}
           </p>

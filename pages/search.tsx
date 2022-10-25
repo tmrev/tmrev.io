@@ -38,29 +38,30 @@ const Search:FunctionComponent = () => {
     return (
       <>
         {user.map((value) => (
-          <Link key={value._id} passHref href={`/user/${value.uuid}/preview`}>
-            <a className={clsx(
+          <Link
+            key={value._id}
+            className={clsx(
               'flex-col text-center ',
               'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
               'w-[250px] lg:w-[300px]',
             )}
+            href={`/user/${value.uuid}/preview`}
+          >
+            <div className={clsx(
+              'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
+            )}
             >
-              <div className={clsx(
-                'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
-              )}
-              >
-                <Image
-                  layout="fill"
-                  objectFit="contain"
-                  src={`https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
-                />
-              </div>
-              <h1 className="font-semibold text-xl">
-                User |
-                {' '}
-                {renderName(value)}
-              </h1>
-            </a>
+              <Image
+                layout="fill"
+                objectFit="contain"
+                src={`https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
+              />
+            </div>
+            <h1 className="font-semibold text-xl">
+              User |
+              {' '}
+              {renderName(value)}
+            </h1>
           </Link>
         ))}
       </>
@@ -75,30 +76,31 @@ const Search:FunctionComponent = () => {
     return (
       <>
         {watchList.map((value) => (
-          <Link key={value._id} passHref href={`/user/${value.userId}/watch-list/${value._id}`}>
-            <a className={clsx(
+          <Link
+            key={value._id}
+            className={clsx(
               'flex-col text-center ',
               'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
               'w-[250px] lg:w-[300px]',
             )}
+            href={`/user/${value.userId}/watch-list/${value._id}`}
+          >
+            <div className={clsx(
+              'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
+            )}
             >
-              <div className={clsx(
-                'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
-              )}
-              >
-                <Image
-                  layout="fill"
-                  objectFit="contain"
-                  src={`https://avatars.dicebear.com/api/identicon/${value._id}.svg`}
-                />
-              </div>
-              <div className="flex-grow" />
-              <h1 className="font-semibold text-xl">
-                WatchList |
-                {' '}
-                {value.title}
-              </h1>
-            </a>
+              <Image
+                layout="fill"
+                objectFit="contain"
+                src={`https://avatars.dicebear.com/api/identicon/${value._id}.svg`}
+              />
+            </div>
+            <div className="flex-grow" />
+            <h1 className="font-semibold text-xl">
+              WatchList |
+              {' '}
+              {value.title}
+            </h1>
           </Link>
         ))}
       </>
@@ -116,20 +118,22 @@ const Search:FunctionComponent = () => {
           if (!value.poster_path) return null;
 
           return (
-            <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-              <a key={value.id} className="flex justify-center items-center">
-                <div className={clsx(
-                  'bg-black relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                  'lg:w-[300px] lg:h-[500px]',
-                )}
-                >
-                  <Image
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(value.poster_path || '', 500)}
-                  />
-                </div>
-              </a>
+            <Link
+              key={value.id}
+              className="flex justify-center items-center"
+              href={`/movie/${createMediaUrl(value.id, value.title)}`}
+            >
+              <div className={clsx(
+                'bg-black relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                'lg:w-[300px] lg:h-[500px]',
+              )}
+              >
+                <Image
+                  layout="fill"
+                  objectFit="cover"
+                  src={imageUrl(value.poster_path || '', 500)}
+                />
+              </div>
             </Link>
           );
         })}

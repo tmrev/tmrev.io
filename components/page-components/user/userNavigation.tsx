@@ -71,9 +71,7 @@ const UserNavigation:FunctionComponent = () => {
       {
         paths.map((path) => (
           <Link key={path.path} passHref href={`/user/${id}/${path.path}`}>
-            <a>
-              {headerLink(path.name, router.asPath.includes(path.path), path.disabled)}
-            </a>
+            {headerLink(path.name, router.asPath.includes(path.path), path.disabled)}
           </Link>
         ))
       }

@@ -59,20 +59,23 @@ const Movies:FunctionComponent = () => {
       />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
         {combined.map((value) => (
-          <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-            <a key={value.id} className="flex justify-center items-center">
-              <div className={clsx(
-                'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                'lg:w-[300px] lg:h-[500px]',
-              )}
-              >
-                <Image
-                  layout="fill"
-                  objectFit="cover"
-                  src={imageUrl(value.poster_path || '', 500)}
-                />
-              </div>
-            </a>
+          <Link
+            key={value.id}
+            passHref
+            className="flex justify-center items-center"
+            href={`/movie/${createMediaUrl(value.id, value.title)}`}
+          >
+            <div className={clsx(
+              'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+              'lg:w-[300px] lg:h-[500px]',
+            )}
+            >
+              <Image
+                layout="fill"
+                objectFit="cover"
+                src={imageUrl(value.poster_path || '', 500)}
+              />
+            </div>
           </Link>
         ))}
       </div>

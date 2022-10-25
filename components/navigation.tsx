@@ -145,21 +145,21 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               {urlLinks.map((link, i) => (
                 // eslint-disable-next-line react/no-array-index-key
                 <li key={i}>
-                  <Link passHref href={link.url}>
-                    <a
-                      className={
-                        clsx(
-                          'flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none',
-                          'dark:hover:bg-tmrev-gray-dark',
-                        )
-                      }
-                      title={link.title}
-                    >
-                      <span className="material-icons">
-                        {link.icon}
-                      </span>
-                      <Typography variant="h5">{link.title}</Typography>
-                    </a>
+                  <Link
+                    passHref
+                    className={
+                      clsx(
+                        'flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none',
+                        'dark:hover:bg-tmrev-gray-dark',
+                      )
+                    }
+                    href={link.url}
+                    title={link.title}
+                  >
+                    <span className="material-icons">
+                      {link.icon}
+                    </span>
+                    <Typography variant="h5">{link.title}</Typography>
                   </Link>
                 </li>
               ))}
@@ -218,24 +218,24 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
 
               return (
                 <li key={link.url}>
-                  <Link passHref href={link.url}>
-                    <a
-                      className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none"
-                      title={link.title}
+                  <Link
+                    passHref
+                    className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none"
+                    href={link.url}
+                    title={link.title}
+                  >
+                    <span className="material-icons">
+                      {link.icon}
+                    </span>
+                    <Typography
+                      className={clsx(
+                        isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
+                        'transition-all duration-300',
+                      )}
+                      variant="h5"
                     >
-                      <span className="material-icons">
-                        {link.icon}
-                      </span>
-                      <Typography
-                        className={clsx(
-                          isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
-                          'transition-all duration-300',
-                        )}
-                        variant="h5"
-                      >
-                        {link.title}
-                      </Typography>
-                    </a>
+                      {link.title}
+                    </Typography>
                   </Link>
                 </li>
               );

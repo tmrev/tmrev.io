@@ -26,21 +26,23 @@ const Watched:FunctionComponent = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
             {
               data.body.map((value) => (
-                <Link key={value._id} passHref href={`/movie/${createMediaUrl(value.tmdbID, value.title)}`}>
-                  <a className="flex justify-center items-center">
-                    <div className={clsx(
-                      'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                      'lg:w-[300px] lg:h-[500px]',
-                    )}
-                    >
-                      <Image
-                        className="rounded"
-                        layout="fill"
-                        objectFit="cover"
-                        src={imageUrl(value.posterPath || '', 500)}
-                      />
-                    </div>
-                  </a>
+                <Link
+                  key={value._id}
+                  className="flex justify-center items-center"
+                  href={`/movie/${createMediaUrl(value.tmdbID, value.title)}`}
+                >
+                  <div className={clsx(
+                    'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                    'lg:w-[300px] lg:h-[500px]',
+                  )}
+                  >
+                    <Image
+                      className="rounded"
+                      layout="fill"
+                      objectFit="cover"
+                      src={imageUrl(value.posterPath || '', 500)}
+                    />
+                  </div>
                 </Link>
               ))
             }

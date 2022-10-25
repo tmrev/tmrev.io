@@ -25,20 +25,18 @@ const Import: NextPage = () => {
       </Head>
       <div className="lg:h-full h-screen text-center w-full flex justify-center items-center">
         <Link
-          passHref
+          className="bg-tmrev-gray-dark p-4 rounded w-1/2 h-1/2 flex flex-col space-y-6 items-center justify-center"
           href="/import/imdb"
         >
-          <a className="bg-tmrev-gray-dark p-4 rounded w-1/2 h-1/2 flex flex-col space-y-6 items-center justify-center">
-            <HeaderText>import imdb files</HeaderText>
-            <div className="relative h-16 w-16 md:w-32">
-              <Image
-                alt="IMDB"
-                layout="fill"
-                objectFit="contain"
-                src="/images/icons/imdb/imdb-icon.svg"
-              />
-            </div>
-          </a>
+          <HeaderText>import imdb files</HeaderText>
+          <div className="relative h-16 w-16 md:w-32">
+            <Image
+              alt="IMDB"
+              layout="fill"
+              objectFit="contain"
+              src="/images/icons/imdb/imdb-icon.svg"
+            />
+          </div>
         </Link>
       </div>
     </>

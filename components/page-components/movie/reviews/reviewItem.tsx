@@ -29,15 +29,15 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
     if (!profile) return 'Error';
     if (!profile.firstName || !profile.lastName) {
       return (
-        <Link passHref href={`/user/${userId}/preview`}>
-          <a>{extractNameFromEmail(profile.email)}</a>
+        <Link href={`/user/${userId}/preview`}>
+          {extractNameFromEmail(profile.email)}
         </Link>
       );
     }
 
     return (
-      <Link passHref href={`/user/${userId}/preview`}>
-        <a>{`${profile.firstName} ${profile.lastName}`}</a>
+      <Link href={`/user/${userId}/preview`}>
+        {`${profile.firstName} ${profile.lastName}`}
       </Link>
     );
   };

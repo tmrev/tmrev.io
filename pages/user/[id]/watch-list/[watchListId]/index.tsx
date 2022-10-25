@@ -93,21 +93,23 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
         {watchList.movies.map((movieId) => {
           const value = movies[movieId];
           return (
-            <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-              <a key={value.id} className="flex justify-center items-center rounded">
-                <div className={clsx(
-                  'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                  'lg:w-[300px] lg:h-[500px]',
-                )}
-                >
-                  <Image
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(value.poster_path || '', 500)}
-                  />
-                </div>
-              </a>
+            <Link
+              key={value.id}
+              className="flex justify-center items-center rounded"
+              href={`/movie/${createMediaUrl(value.id, value.title)}`}
+            >
+              <div className={clsx(
+                'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                'lg:w-[300px] lg:h-[500px]',
+              )}
+              >
+                <Image
+                  className="rounded"
+                  layout="fill"
+                  objectFit="cover"
+                  src={imageUrl(value.poster_path || '', 500)}
+                />
+              </div>
             </Link>
           );
         })}
