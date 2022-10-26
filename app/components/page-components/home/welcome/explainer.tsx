@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Image from 'next/image';
 import React, { FunctionComponent } from 'react';
 
-import HeaderText from '../../../common/typography/headerText';
+import HeaderText from '../../../../../components/common/typography/headerText';
 
 interface Props {
   title: string
@@ -31,9 +31,9 @@ const WelcomeExplainer: FunctionComponent<Props> = ({
     </div>
     <div className="w-full h-[500px] relative odd:order-first">
       <Image
+        fill
+        alt="icon"
         className="rounded"
-        layout="fill"
-        objectFit="cover"
         quality="100"
         src={imagePath}
       />
