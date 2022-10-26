@@ -1,12 +1,16 @@
-import './global.css';
+import '../styles/globals.css';
+import 'react-loading-skeleton/dist/skeleton.css';
 
 import { Open_Sans } from '@next/font/google';
 import React from 'react';
 
-// If loading a variable font, you don't need to specify the font weight
-const openSans = Open_Sans();
+import Navigation from './components/navigation';
+import Provider from './components/provider';
 
-export default function Layout({ children }: {
+// If loading a variable font, you don't need to specify the font weight
+const openSans = Open_Sans({ subsets: ['latin'] });
+
+function Layout({ children }: {
   children: React.ReactNode;
 }) {
   return (
@@ -25,7 +29,15 @@ export default function Layout({ children }: {
         <meta content="#242424" name="msapplication-TileColor" />
         <meta content="#242424" name="theme-color" />
       </head>
-      <body>{children}</body>
+      <body className="text-white">
+        <Provider>
+          <Navigation>
+            {children}
+          </Navigation>
+        </Provider>
+      </body>
     </html>
   );
 }
+
+export default Layout;

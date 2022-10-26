@@ -35,3 +35,5 @@ config/firebaseConfig.ts
 # typescript
 *.tsbuildinfo
 /storybook-static/
+
+.vscode

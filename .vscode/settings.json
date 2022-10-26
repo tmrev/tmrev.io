@@ -1,6 +1,8 @@
 {
-    "cSpell.words": [
-        "imdb",
-        "watchlist"
-    ]
+  "cSpell.words": [
+    "imdb",
+    "watchlist"
+  ],
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }

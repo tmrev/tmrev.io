@@ -2,6 +2,8 @@
 const nextConfig = {
   experimental: {
     appDir: true,
+    loader: '@next/font/google',
+    options: { subsets: ['latin'] },
   },
   images: {
     domains: [
