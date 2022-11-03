@@ -1,6 +1,7 @@
 import '../styles/globals.css';
 import 'react-loading-skeleton/dist/skeleton.css';
 
+// eslint-disable-next-line camelcase
 import { Open_Sans } from '@next/font/google';
 import React from 'react';
 
@@ -29,13 +30,16 @@ function Layout({ children }: {
         <meta content="#242424" name="msapplication-TileColor" />
         <meta content="#242424" name="theme-color" />
       </head>
-      <body className="text-white">
-        <Provider>
-          <Navigation>
+      <Provider>
+        <body className="text-white flex flex-col lg:flex-row h-full w-full m-0 transition-all duration-300">
+          <nav className="sticky lg:h-screen flex-none z-50 top-0">
+            <Navigation />
+          </nav>
+          <main className="p-4 lg:p-8 h-full flex-grow">
             {children}
-          </Navigation>
-        </Provider>
-      </body>
+          </main>
+        </body>
+      </Provider>
     </html>
   );
 }

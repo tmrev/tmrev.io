@@ -38,7 +38,7 @@ const Modal:FunctionComponent = () => {
           <p className="">{content.description}</p>
           {content.children}
           <div className="!mt-8 flex space-x-4">
-            {content.buttons && content.buttons.map((button) => (
+            {content.buttons && content.buttons.map((button: any) => (
               <Button
                 key={button.title}
                 className="w-full"

@@ -104,18 +104,19 @@ export default function NavItems({ open, setOpen, mobile }: Props) {
               )
             }
           >
-            <span className="material-icons">
-              {item.icon}
-            </span>
-            {open && (
-              <Link
-                href={item.url}
-              >
+            <Link
+              className="flex items-center space-x-2"
+              href={item.url}
+            >
+              <span className="material-icons">
+                {item.icon}
+              </span>
+              {open && (
                 <p className="text-lg font-semibold">
                   {item.title}
                 </p>
-              </Link>
-            )}
+              )}
+            </Link>
           </li>
         );
       })}

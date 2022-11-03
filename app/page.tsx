@@ -7,22 +7,21 @@ import imageUrl from '../utils/imageUrl';
 import { createMediaUrl } from '../utils/mediaID';
 import InformationCard from './components/page-components/home/informationCard';
 import HeaderText from './components/typography/headerText';
+import getReviewed from './endpoints/home/getReviewed';
 import getDiscoverMovie from './endpoints/movie/getDiscoverMovie';
-import getJustReviewed from './endpoints/review/getJustReviewed';
-import getTopReviewed from './endpoints/review/getTopReviewed';
 
 export default async function Page() {
-  const topReviewed = await getTopReviewed();
-  const justReviewed = await getJustReviewed();
   const discoverMovie = await getDiscoverMovie({ page: 1 });
+  const reviewed = await getReviewed();
 
   return (
     <div className=" space-y-20">
       <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
         <Image
           fill
+          priority
           alt="Movie Backdrop"
-          className="rounded z-10 opacity-30"
+          className="rounded z-10 opacity-30 object-cover"
           src={imageUrl(discoverMovie.results[0].backdrop_path || '')}
         />
         <div className=" absolute text-white z-20 w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
@@ -42,17 +41,17 @@ export default async function Page() {
           <HeaderText>Top reviewed</HeaderText>
         </div>
         <div className="flex flex-wrap justify-start space-x-4 md:space-x-0 md:justify-between items-center overflow-hidden mt-8">
-          {topReviewed && Object.keys(topReviewed.body).map((movie) => (
+          {reviewed.topMovies && Object.values(reviewed.topMovies.body).map((movie) => (
             <Link
-              key={topReviewed.body[movie].id}
+              key={movie.id}
               className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]"
-              href={`/movie/${createMediaUrl(topReviewed.body[movie].id, topReviewed.body[movie].title)}`}
+              href={`/movie/${createMediaUrl(movie.id, movie.title)}`}
             >
               <Image
                 fill
-                alt={topReviewed.body[movie].title}
+                alt={movie.title}
                 className="rounded"
-                src={imageUrl(topReviewed.body[movie].poster_path || '', 300)}
+                src={imageUrl(movie.poster_path || '', 300)}
               />
             </Link>
           ))}
@@ -62,21 +61,22 @@ export default async function Page() {
         <div className="flex items-center space-x-5">
           <HeaderText>Just reviewed</HeaderText>
           <p className="text-white font-light">
-            {`${numberShortHand(0)} Movies Reviewed`}
+            {`${numberShortHand(reviewed.justReviewed!.count)} Movies Reviewed`}
           </p>
         </div>
         <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
-          {justReviewed && Object.values(justReviewed.body).map((movie) => (
+          {reviewed.justReviewed
+          && reviewed.justReviewed.data.body.movies.map((movie) => (
             <Link
-              key={movie.id}
+              key={movie._id}
               className="relative m-4 rounded aspect-moviePoster h-[111px]"
-              href={`/movie/${createMediaUrl(movie.id, movie.title)}`}
+              href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
             >
               <Image
                 fill
                 alt={movie.title}
                 className="rounded"
-                src={imageUrl(movie.poster_path || '', 300)}
+                src={imageUrl(reviewed.justReviewed?.batchMovieData.body[movie.tmdbID].poster_path || '', 300)}
               />
             </Link>
           ))}

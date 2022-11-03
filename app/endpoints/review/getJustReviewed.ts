@@ -3,7 +3,13 @@ import 'server-only';
 import { BatchMoviesResponse, JustReviewed } from '../../../models/tmrev/movie';
 import batchMovies from '../batch/batchMovies';
 
-const getJustReviewed = async (): Promise<BatchMoviesResponse | undefined> => {
+interface Response {
+  batchMovieData: BatchMoviesResponse
+  data: JustReviewed
+  count: number
+}
+
+const getJustReviewed = async (): Promise<Response | undefined> => {
   const justReviewedRes = await fetch(`${process.env.TMREV_API}/movie/just-reviewed`);
 
   const justReviewedData: JustReviewed = await justReviewedRes.json();
@@ -11,7 +17,11 @@ const getJustReviewed = async (): Promise<BatchMoviesResponse | undefined> => {
   if (justReviewedData && justReviewedData.success) {
     const data = await batchMovies(justReviewedData.body.movies.map((v) => v.tmdbID));
 
-    return data;
+    return {
+      batchMovieData: data,
+      count: justReviewedData.body.count,
+      data: justReviewedData,
+    };
   }
 
   return undefined;

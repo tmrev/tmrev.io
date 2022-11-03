@@ -37,3 +37,5 @@ config/firebaseConfig.ts
 /storybook-static/
 
 .vscode
+
+/components/

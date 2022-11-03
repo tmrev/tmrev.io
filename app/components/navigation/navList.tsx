@@ -45,8 +45,7 @@ export default function NavMenu() {
     <div
       className={
         clsx(
-          'bg-black p-4 lg:h-full flex flex-col lg:space-y-10 transition-all duration-300',
-          !open ? 'lg:w-[60px] lg:items-center' : 'lg:w-[25%]',
+          'bg-black p-4  lg:h-full flex flex-col lg:space-y-10',
           !open && 'w-full',
         )
       }
@@ -78,7 +77,6 @@ export default function NavMenu() {
             open={open}
             setOpen={setOpen}
           />
-
         </ul>
         <div className="absolute bottom-4 left-2">
           <NavProfile open={open} user={user} />
