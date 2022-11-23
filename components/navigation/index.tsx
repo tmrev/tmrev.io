@@ -6,25 +6,27 @@ import React, {
   FunctionComponent, useEffect, useMemo, useRef, useState,
 } from 'react';
 
-import { useAppDispatch, useAppSelector } from '../hooks';
-import { useAuth } from '../provider/authUserContext';
-import { setOpenNavigation } from '../redux/slice/navigationSlice';
-import Button from './common/Button';
-import Typography from './common/typography';
-import Profile from './navigation/profile';
+import { useAppDispatch, useAppSelector } from '../../hooks';
+import { NavItem } from '../../models/web/navigation';
+import { useAuth } from '../../provider/authUserContext';
+import { setOpenNavigation } from '../../redux/slice/navigationSlice';
+import Button from '../common/Button';
+import Typography from '../common/typography';
+import NavigationItem from './navItem';
+import Profile from './profile';
 
 const hiddenRoutes = ['login', 'register'];
 
 interface Props {
-  children: React.ReactNode
+
 }
 
-const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
+const Navigation:FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const router = useRouter();
   const { user } = useAuth();
 
-  const urlLinks = useMemo(() => (
+  const urlLinks: NavItem[] = useMemo(() => (
     [
       {
         auth: false,
@@ -69,6 +71,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
       {
         auth: false,
         icon: 'publish',
+        mobileOnly: false,
         title: 'Import',
         url: user ? '/import' : '/login',
       },
@@ -117,7 +120,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
     hiddenRoutes.some((value) => router.pathname.includes(value))
   ), [router.pathname]);
 
-  if (isIncluded) return children as any;
+  if (isIncluded) return null;
 
   const renderSideBar = () => (
     <AnimatePresence>
@@ -171,7 +174,7 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
   );
 
   return (
-    <div className="flex bg-black overflow-hidden">
+    <nav className="bg-black">
       <AnimatePresence>
         <motion.nav
           animate={{ y: 0 }}
@@ -217,37 +220,18 @@ const Navigation:FunctionComponent<Props> = ({ children }:Props) => {
               if (link.mobileOnly || !link.title) return null;
 
               return (
-                <li key={link.url}>
-                  <Link passHref href={link.url}>
-                    <a
-                      className="flex p-2 rounded hover:bg-gray-100 dark:hover:bg-tmrev-gray-dark items-center space-x-4 select-none"
-                      title={link.title}
-                    >
-                      <span className="material-icons">
-                        {link.icon}
-                      </span>
-                      <Typography
-                        className={clsx(
-                          isNavigationOpen ? 'opacity-100 block' : 'opacity-0 hidden',
-                          'transition-all duration-300',
-                        )}
-                        variant="h5"
-                      >
-                        {link.title}
-                      </Typography>
-                    </a>
-                  </Link>
-                </li>
+                <NavigationItem
+                  key={link.icon}
+                  isNavigationOpen={isNavigationOpen}
+                  item={link}
+                />
               );
             })}
           </ul>
           <Profile />
         </motion.nav>
       </AnimatePresence>
-      <div className="w-full overflow-y-auto">
-        {children}
-      </div>
-    </div>
+    </nav>
 
   );
 };
