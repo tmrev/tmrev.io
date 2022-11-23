@@ -79,8 +79,8 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
   if (!watchList || !movies) return null;
 
   return (
-    <div>
-      <div className="bg-tmrev-gray-dark p-4 w-full flex items-center space-x-4 text-white">
+    <div className="w-full">
+      <div className="bg-tmrev-gray-dark p-4 flex items-center space-x-4 text-white w-full">
         <div>
           <HeaderText headingType="h1">
             {watchList.title}

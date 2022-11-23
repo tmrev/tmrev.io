@@ -16,7 +16,7 @@ const WatchList:NextPage = () => {
   if (!data) return null;
 
   return (
-    <div className="my-16 px-0 lg:my-0 text-white">
+    <div className="my-16 px-0 lg:my-0 text-white w-full">
       <MetaTags
         description=""
         title={`${data.displayName || extractNameFromEmail(data.email)} | WatchLists`}
