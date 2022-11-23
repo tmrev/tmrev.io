@@ -10,7 +10,7 @@ import {
   User, UserQuery, WatchList,
 } from '../../models/tmrev';
 import {
-  BatchMoviesResponse, JustReviewed, MovieResponse, ReviewResponse, TopReviewed,
+  IMDBBatchMoviesResponse, JustReviewed, MovieResponse, ReviewResponse, TopReviewed,
 } from '../../models/tmrev/movie';
 import { DeleteReviewQuery } from '../../models/tmrev/review';
 import { SearchResponse } from '../../models/tmrev/search';
@@ -54,7 +54,7 @@ export const tmrevApi = createApi({
         };
       },
     }),
-    batchLookUp: builder.query<BatchMoviesResponse, string[]>({
+    batchLookUp: builder.query<IMDBBatchMoviesResponse, string[]>({
       query: (body) => ({
         body: {
           movieId: body,
@@ -63,7 +63,7 @@ export const tmrevApi = createApi({
         url: '/import/imdb',
       }),
     }),
-    batchMovies: builder.query<BatchMoviesResponse, number[]>({
+    batchMovies: builder.query<IMDBBatchMoviesResponse, number[]>({
       query: (body) => ({
         body: {
           movieId: body,

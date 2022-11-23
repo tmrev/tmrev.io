@@ -1,26 +1,17 @@
 import { camelCase, papaParseAsync } from './common';
 
-export interface IMDBImport {
-  position: string;
-  const: string;
-  created: string;
-  modified: string;
-  description: string;
-  title: string;
-  url: string;
-  titleType: string;
-  imdbRating: string;
-  runtimeMins: string;
-  year: string;
-  genres: string;
-  numVotes: string;
-  releaseDate: string;
-  directors: string;
-  yourRating: string;
-  dateRated: string;
+export interface LetterboxdImport {
+  name: string
+  year: string
+  letterboxdUri: string
+  date: string
+  rating?: string
+  review?: string
+  tags?: string
+  watchedDate?: string
 }
 
-const importIMDB = async (file: File): Promise<IMDBImport[]> => {
+const importLetterboxd = async (file: File): Promise<LetterboxdImport[]> => {
   try {
     const data = await papaParseAsync(file) as any[][];
     const cleanData: any[] = [];
@@ -40,7 +31,7 @@ const importIMDB = async (file: File): Promise<IMDBImport[]> => {
 
       // removes any undefined values
       formattedData.forEach((v) => {
-        if (v.const) {
+        if (v.name && v.year) {
           cleanData.push(v);
         }
       });
@@ -52,4 +43,4 @@ const importIMDB = async (file: File): Promise<IMDBImport[]> => {
   }
 };
 
-export default importIMDB;
+export default importLetterboxd;
