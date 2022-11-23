@@ -26,7 +26,7 @@ const paths = [
   // },
   {
     disabled: true,
-    name: 'WatchList',
+    name: 'List',
     path: 'watch-list',
   },
 ];

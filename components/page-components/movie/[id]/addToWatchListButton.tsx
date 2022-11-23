@@ -42,15 +42,15 @@ const AddToWatchList:FunctionComponent<Props> = ({ movie }:Props) => {
     return (
       <div className="divide-y mt-6 flex flex-col">
         {
-          data.map((watchList) => (
+          data.map((list) => (
             <button
-              key={watchList._id}
+              key={list._id}
               className="py-2 hover:bg-black w-full"
               type="button"
-              onClick={() => handleAddToWatchList(watchList._id)}
+              onClick={() => handleAddToWatchList(list._id)}
             >
               <div>
-                {watchList.title}
+                {list.title}
               </div>
             </button>
           ))
@@ -63,17 +63,17 @@ const AddToWatchList:FunctionComponent<Props> = ({ movie }:Props) => {
     const content:Content = {
       children: renderWatchLists(),
       closeFunc: () => dispatch(setOpenModal(false)),
-      description: `Please select a watchList to add ${movie.title} too`,
+      description: `Please select a list to add ${movie.title} too`,
       outsideClick: true,
       renderWithDefaultBody: true,
-      title: `Add ${title} to your watchList`,
+      title: `Add ${title} to your list`,
     };
 
     dispatch(setOpenModal(true));
     dispatch(setModalContent(content));
   };
 
-  return <Button className="mt-4 w-full" variant="secondary" onClick={addToList}>Add To WatchList</Button>;
+  return <Button className="mt-4 w-full" variant="secondary" onClick={addToList}>Add To list</Button>;
 };
 
 export default AddToWatchList;

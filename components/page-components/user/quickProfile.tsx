@@ -25,7 +25,7 @@ const QuickProfile:FunctionComponent = () => {
               {`Reviews | ${reviews.length}`}
             </p>
             <p>
-              {`WatchList | ${watchLists.length}`}
+              {`List | ${watchLists.length}`}
             </p>
           </span>
         </div>

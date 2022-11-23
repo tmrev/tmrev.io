@@ -94,7 +94,7 @@ const Search:FunctionComponent = () => {
               </div>
               <div className="flex-grow" />
               <h1 className="font-semibold text-xl">
-                WatchList |
+                List |
                 {' '}
                 {value.title}
               </h1>
