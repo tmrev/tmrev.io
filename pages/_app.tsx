@@ -25,7 +25,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       <NextNProgress color="#FFC000" />
       <Toast />
     </>
-
   );
 }
 

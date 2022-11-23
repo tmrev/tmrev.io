@@ -24,7 +24,7 @@ const Reviews: NextPage<Props> = () => {
   const { data: movies } = useBatchMoviesQuery(movieIds, { skip: !movieIds.length });
 
   return (
-    <div className="my-16 px-0 lg:my-0 text-white">
+    <div className="my-16 px-0 lg:my-0 text-white w-full">
       <QuickProfile />
       {
         !data || !movies ? (
