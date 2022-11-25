@@ -7,15 +7,40 @@ import Button from './Button';
 interface Props extends
   React.DetailedHTMLProps<React.InputHTMLAttributes<HTMLInputElement>, HTMLInputElement> {
   error?: FieldError
+  variant?: 'input' | 'textarea'
+  label?: string
 }
 
-const Input = React.forwardRef<HTMLInputElement, Props>(({ type, error, ...other }, ref) => {
+const Input = React.forwardRef<HTMLInputElement, Props>(({
+  type, error, variant, label, ...other
+}, ref) => {
   const [isPasswordVisible, setIsPasswordVisible] = useState<boolean>(false);
 
+  if (variant === 'textarea') {
+    return (
+      <div className="w-full relative">
+        <p className=" font-semibold pb-1 text-md">{label}</p>
+        <textarea
+          ref={ref as any}
+          {...other as any}
+          className={clsx(
+            'border-2 px-2 py-1 rounded w-full',
+            'dark:bg-black opacity-100 dark:border-black dark:text-white',
+            'dark:focus:outline-white focus:outline-black focus:outline-1',
+          )}
+        />
+        {error && (
+          <p className="text-red-500 mt-1">{error.message}</p>
+        )}
+      </div>
+    );
+  }
+
   return (
-    <div className="w-full relative">
+    <div className="w-full relative text-white">
+      <p className=" font-semibold pb-1 text-md">{label}</p>
       <input
-        ref={ref}
+        ref={ref as any}
         {...other}
         className={clsx(
           'border-2 px-2 py-1 rounded w-full',
@@ -40,6 +65,8 @@ const Input = React.forwardRef<HTMLInputElement, Props>(({ type, error, ...other
 
 Input.defaultProps = {
   error: undefined,
+  label: undefined,
+  variant: 'input',
 };
 
 export default Input;

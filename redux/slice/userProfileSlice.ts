@@ -40,7 +40,7 @@ const userProfileSlice = createSlice({
       const {
         watchLists, isUser, reviews, firstName,
         lastName, following,
-        uuid, photoUrl, backdropPath, email,
+        uuid, photoUrl, email,
         _id,
       } = action.payload;
 
@@ -78,7 +78,6 @@ const userProfileSlice = createSlice({
       };
       state.profile = {
         _id,
-        backdropPath,
         email,
         firstName,
         following,

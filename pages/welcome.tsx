@@ -77,7 +77,7 @@ const Welcome:FunctionComponent<Props> = () => {
         to share a collection of your favorite films, actors, genres, or just anything you can dream up."
           howTo={`You can start by selecting the search from 
         the left-side navigation and searching for your desired film. Once you select your film just click the 
-        "Add to WatchList" button and you'll be prompted to 
+        "Add to List" button and you'll be prompted to 
         either create a new list or add to a pre-existing list.`}
           id="list"
           imagePath="/images/welcome/list.png"

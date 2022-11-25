@@ -126,6 +126,15 @@ export const tmrevApi = createApi({
         url: `/movie/watched/${body.watchedId}`,
       }),
     }),
+    followUser: builder.mutation<string, UserQuery>({
+      invalidatesTags: ['USER'],
+      query: (data) => ({
+        headers: {
+          authorization: data.authToken,
+        },
+        url: `/user/${data.uid}`,
+      }),
+    }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
       query: (data) => ({
         url: `${tmdbAPI}discover/movie?api_key=${apiKey}&page=${data.page}`,
@@ -157,6 +166,7 @@ export const tmrevApi = createApi({
       }),
     }),
     getUser: builder.query<User, UserQuery>({
+      providesTags: ['USER'],
       query: (data) => ({
         url: `/user/full/${data.uid}`,
       }),
@@ -240,7 +250,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
-  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED'],
+  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER'],
 });
 
 export const {
@@ -264,6 +274,7 @@ export const {
   useGetJustReviewedQuery,
   useBatchLookUpQuery,
   useCreateWatchListMutation,
+  useFollowUserMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

@@ -44,10 +44,15 @@ export const createTMREVAccount = async (user: User, data?: typeof defaultValues
   const token = await user.getIdToken();
 
   await axios.post(`${tmrevAPI}/user`, {
+    bio: '',
     email: user.email,
     firstName: names?.firstName || data?.firstName || '',
+    following: [],
     lastName: names?.lastName || data?.lastName || '',
+    location: '',
+    public: '',
     uuid: user.uid,
+    website: '',
   }, {
     headers: {
       Authorization: token,
