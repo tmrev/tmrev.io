@@ -3,6 +3,7 @@ import 'react-loading-skeleton/dist/skeleton.css';
 import '../config/firebaseInit';
 
 import type { AppProps } from 'next/app';
+import Script from 'next/script';
 import NextNProgress from 'nextjs-progressbar';
 import React from 'react';
 
@@ -24,6 +25,19 @@ function MyApp({ Component, pageProps }: AppProps) {
       </AuthUserProvider>
       <NextNProgress color="#FFC000" />
       <Toast />
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+      />
+      {/* eslint-disable-next-line react/no-danger */}
+      <script dangerouslySetInnerHTML={{
+        __html: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', ${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS});`,
+      }}
+      />
     </>
   );
 }
