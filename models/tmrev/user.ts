@@ -18,10 +18,12 @@ interface User {
   bio: string
   location: string
   public: boolean
+  followers: number
 }
 
 interface UserQuery {
   uid: string
+  authToken?: string
 }
 
 export type { User, UserQuery };

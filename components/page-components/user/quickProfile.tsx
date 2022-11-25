@@ -1,8 +1,13 @@
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import React, { FunctionComponent } from 'react';
 
 import useProfile from '../../../hooks/userProfile';
+import { useAuth } from '../../../provider/authUserContext';
+import { useFollowUserMutation } from '../../../redux/api';
 import { extractNameFromEmail, renderImageSrc } from '../../../utils/common';
+import Button from '../../common/Button';
+import CopyLink from '../movie/[id]/copyLink';
 import UserNavigation from './userNavigation';
 
 interface NumberIndicatorsProps {
@@ -18,7 +23,51 @@ const NumberIndicators = ({ title, number }: NumberIndicatorsProps) => (
 );
 
 const QuickProfile:FunctionComponent = () => {
-  const { data } = useProfile();
+  const {
+    data, isUser, userId, currentUser,
+  } = useProfile();
+  const { user } = useAuth();
+  const router = useRouter();
+  const [followUser] = useFollowUserMutation();
+
+  const displayMessage = () => {
+    if (!data) {
+      return {
+        path: '',
+        title: '',
+      };
+    }
+
+    if (isUser) {
+      return {
+        path: '/edit',
+        title: 'Edit Profile',
+      };
+    }
+
+    if (currentUser && currentUser.following.includes(userId)) {
+      return {
+        path: '/unfollow',
+        title: 'Unfollow',
+      };
+    }
+
+    return {
+      path: '/follow',
+      title: 'Follow',
+    };
+  };
+
+  const handleActionButton = async () => {
+    if (!user || !currentUser) return;
+
+    const authToken = await user.getIdToken();
+    if (displayMessage().title !== 'Edit Profile') {
+      followUser({ authToken, uid: userId });
+    } else {
+      router.push(`/user/${currentUser.uuid}/edit`);
+    }
+  };
 
   if (!data) return null;
 
@@ -31,7 +80,7 @@ const QuickProfile:FunctionComponent = () => {
           </div>
           <div className="flex justify-evenly w-full">
             <NumberIndicators
-              number={data.following.length}
+              number={data.followers || 0}
               title="FOLLOWERS"
             />
             <NumberIndicators
@@ -50,32 +99,43 @@ const QuickProfile:FunctionComponent = () => {
         </div>
         <div className="space-y-2 flex w-full mt-4 space-x-2 md:space-x-4 items-center">
           <div className="flex flex-col space-y-2">
-            <h1 className="font-semibold text-sm md:text-2xl">{data.displayName || extractNameFromEmail(data.email)}</h1>
+            <div className="flex items-center space-x-2">
+              <h1 className="font-semibold text-sm md:text-2xl">{data.displayName || extractNameFromEmail(data.email)}</h1>
+              <CopyLink link={`https://tmrev.io${router.asPath}`} />
+            </div>
             <p className="text-sm md:text-base">{data.bio}</p>
             <div className="flex space-x-4 text-xs">
-              <div className="flex items-center space-x-1">
-                <span className="material-icons-outlined">
-                  location_on
-                </span>
-                <p>{data.location}</p>
-              </div>
-              <a
-                className="flex items-center space-x-1"
-                href={data.link.url}
-                rel="noreferrer"
-                target="_blank"
-              >
-                <span className="material-icons-outlined">
-                  language
-                </span>
-                <span className="text-blue-400 hover:underline">
-                  {data.link.title}
-                </span>
-              </a>
+              {!!data.location && (
+                <div className="flex items-center space-x-1">
+                  <span className="material-icons-outlined">
+                    location_on
+                  </span>
+                  <p>{data.location}</p>
+                </div>
+              )}
+              {!!data.link && (
+                <a
+                  className="flex items-center space-x-1"
+                  href={data.link.url}
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <span className="material-icons-outlined">
+                    language
+                  </span>
+                  <span className="text-blue-400 hover:underline">
+                    {data.link.title}
+                  </span>
+                </a>
+              )}
             </div>
           </div>
         </div>
-
+        <div className=" mt-4 w-full">
+          <Button className="w-full" variant={isUser ? 'secondary' : 'primary'} onClick={handleActionButton}>
+            {displayMessage().title}
+          </Button>
+        </div>
       </div>
       <UserNavigation />
     </>

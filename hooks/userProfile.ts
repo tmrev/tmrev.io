@@ -24,6 +24,7 @@ export default function useProfile() {
   }, [router]);
 
   const { data } = useGetUserQuery(payload, { skip: !payload.uid });
+  const { data: currentUserData } = useGetUserQuery({ uid: user?.uid || '' }, { skip: !user });
 
   const isUser = useMemo(() => {
     if (!data || !user) return false;
@@ -45,6 +46,7 @@ export default function useProfile() {
   }, [data, isUser]);
 
   return {
+    currentUser: currentUserData,
     data,
     isUser,
     userId: payload.uid,
