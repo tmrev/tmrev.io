@@ -63,6 +63,7 @@ const Home: NextPage = () => {
     <div className="px-4 lg:px-10 py-6">
       <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
         <Image
+          alt={`${data?.results[0].title} backdrop`}
           className="rounded z-10 opacity-30"
           layout="fill"
           objectFit="cover"

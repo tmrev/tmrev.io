@@ -50,6 +50,7 @@ const Search:FunctionComponent = () => {
               )}
               >
                 <Image
+                  alt={`${value.firstName} ${value.lastName} profile`}
                   layout="fill"
                   objectFit="contain"
                   src={`https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
@@ -87,6 +88,7 @@ const Search:FunctionComponent = () => {
               )}
               >
                 <Image
+                  alt={`${value.title} watchlist`}
                   layout="fill"
                   objectFit="contain"
                   src={`https://avatars.dicebear.com/api/identicon/${value._id}.svg`}
@@ -124,6 +126,7 @@ const Search:FunctionComponent = () => {
                 )}
                 >
                   <Image
+                    alt={`${value.title} poster`}
                     layout="fill"
                     objectFit="cover"
                     src={imageUrl(value.poster_path || '', 500)}

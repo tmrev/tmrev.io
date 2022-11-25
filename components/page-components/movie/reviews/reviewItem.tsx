@@ -46,9 +46,10 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
     <div key={_id} className="flex items-start p-3 space-x-3">
       <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full relative">
         <Image
+          alt={`${profile.firstName} ${profile.lastName}`}
           className="rounded-full"
           layout="fill"
-          src={`https://avatars.dicebear.com/api/identicon/${userId}.svg`}
+          src={profile.photoUrl || `https://avatars.dicebear.com/api/identicon/${userId}.svg`}
         />
       </div>
       <div className={`

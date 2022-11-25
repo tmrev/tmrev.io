@@ -96,6 +96,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
             <Link passHref href={`https://www.imdb.com/title/${imdb?.uid}/`}>
               <a className="flex items-center space-x-2">
                 <Image
+                  alt="imdb"
                   height={32}
                   objectFit="contain"
                   src="/images/icons/imdb/imdb-icon.svg"
@@ -114,6 +115,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
             <Link passHref href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
               <a className="flex items-center space-x-2">
                 <Image
+                  alt="tmdb"
                   height={32}
                   objectFit="contain"
                   src="/images/icons/tmdb/tmdb-icon.svg"

@@ -101,6 +101,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
                 )}
                 >
                   <Image
+                    alt={`${value.title} poster`}
                     className="rounded"
                     layout="fill"
                     objectFit="cover"

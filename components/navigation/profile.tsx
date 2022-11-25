@@ -39,7 +39,7 @@ const Profile: FunctionComponent = () => {
           isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
         )}
         >
-          <Image className="rounded-full dark:bg-white" height={45} src={renderImageSrc(user)} width={45} />
+          <Image alt="User" className="rounded-full dark:bg-white" height={45} src={renderImageSrc(user)} width={45} />
           {isNavigationOpen && <Typography variant="h6">{user.displayName || extractNameFromEmail(user.email)}</Typography>}
         </div>
       </a>
