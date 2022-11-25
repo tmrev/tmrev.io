@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
 
+import MetaTags from '../components/common/MetaTag';
 import HeaderText from '../components/common/typography/headerText';
 import InformationCard from '../components/page-components/home/informationCard';
 import {
@@ -61,6 +62,11 @@ const Home: NextPage = () => {
 
   return (
     <div className="px-4 lg:px-10 py-6">
+      <MetaTags
+        description="An in-depth analysis of the latest movies, movies you would like to see, or movies that simply blew you away."
+        title="The Movie Review"
+        url="https://tmrev.io"
+      />
       <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
         <Image
           alt={`${data?.results[0].title} backdrop`}
