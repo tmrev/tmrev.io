@@ -5,7 +5,7 @@ import React, { FunctionComponent } from 'react';
 import useProfile from '../../../hooks/userProfile';
 import { useAuth } from '../../../provider/authUserContext';
 import { useFollowUserMutation } from '../../../redux/api';
-import { extractNameFromEmail, renderImageSrc } from '../../../utils/common';
+import { renderImageSrc } from '../../../utils/common';
 import Button from '../../common/Button';
 import CopyLink from '../movie/[id]/copyLink';
 import UserNavigation from './userNavigation';
@@ -100,7 +100,11 @@ const QuickProfile:FunctionComponent = () => {
         <div className="space-y-2 flex w-full mt-4 space-x-2 md:space-x-4 items-center">
           <div className="flex flex-col space-y-2">
             <div className="flex items-center space-x-2">
-              <h1 className="font-semibold text-sm md:text-2xl">{data.displayName || extractNameFromEmail(data.email)}</h1>
+              <h1 className="font-semibold text-sm md:text-2xl">
+                {data.firstName}
+                {' '}
+                {data.lastName}
+              </h1>
               <CopyLink link={`https://tmrev.io${router.asPath}`} />
             </div>
             <p className="text-sm md:text-base">{data.bio}</p>
