@@ -2,7 +2,7 @@ import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
 import { useAppSelector } from '../../../../hooks';
-import { Tmrev } from '../../../../models/tmrev/movie';
+import { AllReviewsResponse } from '../../../../models/tmrev';
 import { useAuth } from '../../../../provider/authUserContext';
 import { roundWithMaxPrecision } from '../../../../utils/common';
 import { getMedian, getStandardDeviation } from '../../../../utils/math';
@@ -10,7 +10,7 @@ import RadarChart from '../../../common/charts/radar';
 import HeaderText from '../../../common/typography/headerText';
 
 interface Props {
-  tmrev: Tmrev
+  tmrev: AllReviewsResponse
   isFetching: boolean,
   isLoading: boolean,
   previewMode?: boolean
@@ -19,7 +19,7 @@ interface Props {
 const MovieStats:FunctionComponent<Props> = ({
   tmrev, isFetching, isLoading, previewMode,
 }) => {
-  const { reviews, avgScore } = tmrev;
+  const { reviews, avgScore } = tmrev.body;
 
   const { user } = useAuth();
   const { navigationOpen } = useAppSelector((state) => state.navigation);

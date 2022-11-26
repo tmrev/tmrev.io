@@ -12,7 +12,7 @@ import {
 import {
   BatchMoviesResponse, JustReviewed, MovieResponse, ReviewResponse, TopReviewed,
 } from '../../models/tmrev/movie';
-import { DeleteReviewQuery } from '../../models/tmrev/review';
+import { AllReviewsResponse, DeleteReviewQuery } from '../../models/tmrev/review';
 import { SearchResponse } from '../../models/tmrev/search';
 import { WatchedDeletePayload, WatchedPayload, WatchedResponse } from '../../models/tmrev/watched';
 import { AddMovieToWatchList, UpdateWatchList } from '../../models/tmrev/watchList';
@@ -135,6 +135,12 @@ export const tmrevApi = createApi({
         url: `/user/${data.uid}`,
       }),
     }),
+    getAllReviews: builder.query<AllReviewsResponse, MovieQuery>({
+      providesTags: ['REVIEW'],
+      query: (data) => ({
+        url: `/movie/reviews/${data.movie_id}`,
+      }),
+    }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
       query: (data) => ({
         url: `${tmdbAPI}discover/movie?api_key=${apiKey}&page=${data.page}`,
@@ -250,7 +256,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
-  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER'],
+  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW'],
 });
 
 export const {
@@ -275,9 +281,10 @@ export const {
   useBatchLookUpQuery,
   useCreateWatchListMutation,
   useFollowUserMutation,
+  useGetAllReviewsQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 
 export const {
-  getMovie, getDiscoverMovie, batchMovies, getUser,
+  getMovie, getDiscoverMovie, batchMovies, getUser, getAllReviews,
 } = tmrevApi.endpoints;

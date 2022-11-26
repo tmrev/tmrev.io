@@ -44,6 +44,7 @@ const UserReviews:FunctionComponent<Props> = ({ review, profile, movie }:Props) 
             <div className="rounded aspect-moviePoster relative h-64 w-max mx-4">
               <Image
                 priority
+                alt={`${review.title} poster`}
                 className="rounded"
                 layout="fill"
                 objectFit="contain"

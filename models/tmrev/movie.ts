@@ -36,7 +36,6 @@ export interface Body {
   credits: Credits;
   release_dates: ReleaseDates;
   reviews: Reviews;
-  tmrev: Tmrev;
   imdb: Imdb;
   watchProvider: WatchProviderResponse | null
 }
@@ -154,7 +153,7 @@ export interface SpokenLanguage {
 }
 
 export interface Tmrev {
-  reviews: Review[];
+  reviews: TmrevReview[];
   avgScore: Score;
   likes: number;
   dislikes: number;
@@ -181,7 +180,7 @@ export interface ID {
 }
 
 export interface ReviewResponse {
-  body?: Review
+  body?: TmrevReview
   success: boolean
   error?: any
 }

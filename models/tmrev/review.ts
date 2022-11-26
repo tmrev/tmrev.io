@@ -1,3 +1,5 @@
+import { Profile } from './movie';
+
 interface TmrevReview {
   _id: string,
   advancedScore: AdvancedScore | null,
@@ -10,6 +12,17 @@ interface TmrevReview {
   tmdbID: number,
   userId: string
   reviewedDate: string
+  profile: Profile
+}
+
+interface AllReviewsResponse {
+  success: boolean
+  body: {
+    reviews: TmrevReview[]
+    avgScore: AdvancedScore
+    likes: number
+    dislikes: number
+  }
 }
 
 interface CreateTmrevReviewQuery {
@@ -38,6 +51,8 @@ interface AdvancedScore {
   plot: number,
   theme: number,
   visuals: number
+  totalScore: number
+  _id: number
 }
 
 interface CreatedAt {
@@ -81,7 +96,8 @@ interface DeleteReviewQuery {
 }
 
 export type {
-  AdvancedScore, CreatedAt, CreateTmrevReviewQuery,
+  AdvancedScore, AllReviewsResponse,
+  CreatedAt, CreateTmrevReviewQuery,
   CreateTmrevReviewResponse, DeleteReviewQuery,
   MovieScore, SingleReview,
   TmrevReview, UpdatedAt,

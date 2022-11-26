@@ -93,7 +93,7 @@ const UpdatePage: NextPage = () => {
   useEffect(() => {
     if (!userReview || !userReview.body) return () => {};
 
-    dispatch(setCurrentReview(userReview.body));
+    dispatch(setCurrentReview(userReview.body as any));
     setMoviePublic(userReview.body.public);
 
     return () => {
@@ -202,7 +202,7 @@ const UpdatePage: NextPage = () => {
         url={createMediaUrl(data.body.id, data.body.title)}
       />
       <div className="relative w-full h-96 lg:h-[500px]">
-        <Image priority layout="fill" objectFit="cover" src={imageUrl(data.body.backdrop_path)} />
+        <Image priority alt={`${data.body.title} backdrop`} layout="fill" objectFit="cover" src={imageUrl(data.body.backdrop_path)} />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
       </div>
       <div className="px-4 mb-6 lg:px-8 mt-0 lg:-mt-16 z-30">
@@ -215,6 +215,7 @@ const UpdatePage: NextPage = () => {
             <div className="hidden lg:flex lg:flex-col mr-8 space-y-4">
               <Image
                 priority
+                alt={`${data.body.title} poster`}
                 className="rounded aspect-[2/3]"
                 height={500}
                 objectFit="cover"

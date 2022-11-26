@@ -1,5 +1,6 @@
 import type {
-  AdvancedScore, CreatedAt, CreateTmrevReviewQuery, CreateTmrevReviewResponse,
+  AdvancedScore, AllReviewsResponse,
+  CreatedAt, CreateTmrevReviewQuery, CreateTmrevReviewResponse,
   MovieScore,
   SingleReview,
   TmrevReview, UpdatedAt,
@@ -14,7 +15,8 @@ type Timestamp = {
 }
 
 export type {
-  AdvancedScore, CreatedAt, CreateTmrevReviewQuery,
+  AdvancedScore, AllReviewsResponse,
+  CreatedAt, CreateTmrevReviewQuery,
   CreateTmrevReviewResponse,
   MovieScore,
   SingleReview,

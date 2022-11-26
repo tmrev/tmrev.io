@@ -96,6 +96,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
             <Link passHref href={`https://www.imdb.com/title/${imdb?.uid}/`}>
               <a className="flex items-center space-x-2">
                 <Image
+                  alt="imdb"
                   height={32}
                   objectFit="contain"
                   src="/images/icons/imdb/imdb-icon.svg"
@@ -114,6 +115,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
             <Link passHref href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
               <a className="flex items-center space-x-2">
                 <Image
+                  alt="tmdb"
                   height={32}
                   objectFit="contain"
                   src="/images/icons/tmdb/tmdb-icon.svg"
@@ -133,7 +135,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
 
         </MetaItem>
       )}
-      {movie.budget && (
+      {!!movie.budget && (
         <MetaItem title="Budget">
           <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
             {numberShortHand(movie.budget)}
@@ -142,7 +144,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
       )}
       {!!genres.length && (
         <MetaItem title="Genres">
-          <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
+          <p className="flex flex-wrap max-w-[150px] space-x-2">
             {genres.map((value) => (
               <Link key={value.id} passHref href="#">
                 <a className="hover:underline mx-2">

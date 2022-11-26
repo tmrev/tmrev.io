@@ -173,6 +173,7 @@ const WatchListEdit: NextPage = () => {
               >
                 <Image
                   priority
+                  alt={`${value.title} poster`}
                   className={clsx('rounded', removedMovies.includes(movieId) ? 'opacity-10' : 'opacity-100')}
                   layout="fill"
                   objectFit="cover"

@@ -23,6 +23,7 @@ const MoviePanel: FunctionComponent<Props> = ({ movie }:Props) => {
           <div className="aspect-[2/3] h-[200px] w-[150px] md:h-[300px] md:w-[250px] relative rounded">
             <Image
               priority
+              alt={`${data.body.title} poster`}
               className="rounded"
               layout="fill"
               objectFit="contain"

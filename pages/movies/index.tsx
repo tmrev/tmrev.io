@@ -67,6 +67,7 @@ const Movies:FunctionComponent = () => {
               )}
               >
                 <Image
+                  alt={`${value.title} poster`}
                   layout="fill"
                   objectFit="cover"
                   src={imageUrl(value.poster_path || '', 500)}
