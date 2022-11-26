@@ -93,7 +93,7 @@ const UpdatePage: NextPage = () => {
   useEffect(() => {
     if (!userReview || !userReview.body) return () => {};
 
-    dispatch(setCurrentReview(userReview.body));
+    dispatch(setCurrentReview(userReview.body as any));
     setMoviePublic(userReview.body.public);
 
     return () => {

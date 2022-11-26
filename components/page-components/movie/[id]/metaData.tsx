@@ -135,7 +135,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
 
         </MetaItem>
       )}
-      {movie.budget && (
+      {!!movie.budget && (
         <MetaItem title="Budget">
           <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
             {numberShortHand(movie.budget)}
@@ -144,7 +144,7 @@ const MetaData:FunctionComponent<MetaDataProps> = ({
       )}
       {!!genres.length && (
         <MetaItem title="Genres">
-          <p className="flex flex-wrap items-center max-w-[150px] space-x-2">
+          <p className="flex flex-wrap max-w-[150px] space-x-2">
             {genres.map((value) => (
               <Link key={value.id} passHref href="#">
                 <a className="hover:underline mx-2">

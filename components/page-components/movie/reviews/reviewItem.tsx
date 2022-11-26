@@ -9,12 +9,12 @@ import remarkGfm from 'remark-gfm';
 
 import { useAppSelector } from '../../../../hooks';
 import useFirebaseAuth from '../../../../hooks/userAuth';
-import { Review } from '../../../../models/tmrev/movie';
+import { TmrevReview } from '../../../../models/tmrev';
 import { extractNameFromEmail } from '../../../../utils/common';
 import Button from '../../../common/Button';
 
 interface Props {
-  review: Review
+  review: TmrevReview
 }
 
 const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {

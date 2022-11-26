@@ -19,7 +19,9 @@ import MovieReviewList from '../../../components/page-components/movie/reviews/r
 import WatchedButton from '../../../components/page-components/movie/watched/watchedButton';
 import useFirebaseAuth from '../../../hooks/userAuth';
 import { MovieQuery } from '../../../models/tmdb';
-import { getMovie, getRunningOperationPromises, useGetMovieQuery } from '../../../redux/api';
+import {
+  getAllReviews, getMovie, getRunningOperationPromises, useGetAllReviewsQuery, useGetMovieQuery,
+} from '../../../redux/api';
 import { wrapper } from '../../../redux/store';
 import formatDate from '../../../utils/formatDate';
 import imageUrl from '../../../utils/imageUrl';
@@ -44,6 +46,10 @@ const MoviePage: NextPage<Props> = () => {
   }, []);
 
   const { data, isLoading, isFetching } = useGetMovieQuery(
+    payload || skipToken,
+    { skip: router.isFallback },
+  );
+  const { data: reviewData } = useGetAllReviewsQuery(
     payload || skipToken,
     { skip: router.isFallback },
   );
@@ -77,18 +83,18 @@ const MoviePage: NextPage<Props> = () => {
   }, [data]);
 
   const hasReviewed = useCallback(() => {
-    if (!user || !data || !data.body.tmrev.reviews.length) return '';
+    if (!user || !reviewData || !reviewData.body.reviews.length) return '';
 
     let reviewId = '';
 
-    data.body.tmrev.reviews.forEach((review) => {
+    reviewData.body.reviews.forEach((review) => {
       if (review.userId === user.uid) reviewId = review._id;
     });
 
     return reviewId;
   }, [user, data]);
 
-  if (!data) return null;
+  if (!data || !reviewData) return null;
 
   return (
     <div>
@@ -156,7 +162,7 @@ const MoviePage: NextPage<Props> = () => {
                     </span>
                   </h1>
                   <p className="mt-8">{data.body.overview}</p>
-                  <WatchedButton movie={data} />
+                  <WatchedButton movie={data} review={reviewData} />
                   <div className="w-full lg:hidden">
                     <CreateReviewButton hasReviewed={hasReviewed()} />
                     <AddToWatchList movie={data.body} />
@@ -189,9 +195,9 @@ const MoviePage: NextPage<Props> = () => {
                   <MovieStats
                     isFetching={isFetching}
                     isLoading={isLoading}
-                    tmrev={data.body.tmrev}
+                    tmrev={reviewData}
                   />
-                  <MovieReviewList reviews={data.body.tmrev.reviews} />
+                  <MovieReviewList reviews={reviewData.body.reviews} />
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
@@ -214,6 +220,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
     const id = context.params?.id;
     if (typeof id === 'string') {
       store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
+      store.dispatch(getAllReviews.initiate({ movie_id: parseMediaId(id) }));
     }
 
     await Promise.all(getRunningOperationPromises());

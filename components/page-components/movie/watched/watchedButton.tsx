@@ -3,6 +3,7 @@ import React, {
 } from 'react';
 
 import { useAppDispatch } from '../../../../hooks';
+import { AllReviewsResponse } from '../../../../models/tmrev';
 import { MovieResponse } from '../../../../models/tmrev/movie';
 import { Watched, WatchedPayload } from '../../../../models/tmrev/watched';
 import { useAuth } from '../../../../provider/authUserContext';
@@ -13,6 +14,7 @@ import Button from '../../../common/Button';
 
 interface Props {
   movie: MovieResponse
+  review: AllReviewsResponse
 }
 
 const pickClass = (active:Watched | null, thumbUp: boolean) => {
@@ -31,6 +33,7 @@ const pickClass = (active:Watched | null, thumbUp: boolean) => {
 
 const WatchedButton: FunctionComponent<Props> = ({
   movie,
+  review,
 }:Props) => {
   const [token, setToken] = useState<string>('');
   const [addWatched] = useCreateWatchedMutation();
@@ -101,7 +104,7 @@ const WatchedButton: FunctionComponent<Props> = ({
             thumb_up
           </span>
         </Button>
-        <p>{numberShortHand(movie.body.tmrev.likes)}</p>
+        <p>{numberShortHand(review.body.likes)}</p>
       </div>
       <div className="flex items-center space-x-2">
         <Button variant="icon" onClick={() => handleWatched(false)}>
@@ -109,7 +112,7 @@ const WatchedButton: FunctionComponent<Props> = ({
             thumb_down
           </span>
         </Button>
-        <p>{numberShortHand(movie.body.tmrev.dislikes)}</p>
+        <p>{numberShortHand(review.body.dislikes)}</p>
       </div>
     </div>
   );
