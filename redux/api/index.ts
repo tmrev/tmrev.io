@@ -286,5 +286,5 @@ export const {
 } = tmrevApi;
 
 export const {
-  getMovie, getDiscoverMovie, batchMovies, getUser, getAllReviews,
+  getMovie, getDiscoverMovie, batchMovies, getUser, getAllReviews, search,
 } = tmrevApi.endpoints;

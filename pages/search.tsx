@@ -1,23 +1,40 @@
 import clsx from 'clsx';
+import { NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import React, {
-  FunctionComponent, useCallback, useState,
+  useCallback, useState,
 } from 'react';
 
 import Input from '../components/common/Input';
-import { useSearchQuery } from '../redux/api';
+import MetaTags from '../components/common/MetaTag';
+import { getRunningOperationPromises, search, useSearchQuery } from '../redux/api';
+import { wrapper } from '../redux/store';
 import { debounce, extractNameFromEmail } from '../utils/common';
 import imageUrl from '../utils/imageUrl';
 import { createMediaUrl } from '../utils/mediaID';
 
-const Search:FunctionComponent = () => {
-  const [query, setQuery] = useState<string>('');
+interface Props {
+  q?: string
+}
+
+const Search:NextPage<Props> = ({ q }:Props) => {
+  const [query, setQuery] = useState<string>(q || '');
+  const router = useRouter();
 
   const { data } = useSearchQuery(query, { skip: !query });
 
   const queryChnageHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
+
+    if (!e.target.value) {
+      router.pathname = '/search';
+      router.replace(router, undefined, { shallow: true });
+    } else {
+      router.query.q = e.target.value;
+      router.replace(router, undefined, { shallow: true });
+    }
   };
 
   const debounceQuery = useCallback(debounce(queryChnageHandler, 300), []);
@@ -39,27 +56,28 @@ const Search:FunctionComponent = () => {
       <>
         {user.map((value) => (
           <Link key={value._id} passHref href={`/user/${value.uuid}/preview`}>
-            <a className={clsx(
-              'flex-col text-center ',
-              'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
-              'w-[250px] lg:w-[300px]',
-            )}
+            <a className={
+              clsx(
+                'flex flex-col items-center justify-center text-center space-y-4',
+                'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
+                'hover:bg-tmrev-gray-dark p-1',
+              )
+            }
             >
-              <div className={clsx(
-                'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
-              )}
-              >
+              <div className="relative h-1/2 w-full">
                 <Image
                   alt={`${value.firstName} ${value.lastName} profile`}
                   layout="fill"
                   objectFit="contain"
-                  src={`https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
+                  src={value.photoUrl || `https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
                 />
               </div>
-              <h1 className="font-semibold text-xl">
-                User |
-                {' '}
-                {renderName(value)}
+              <h1 className=" space-x-2">
+                <span className="font-semibold">User</span>
+                <span>|</span>
+                <span className="break-all">
+                  {renderName(value)}
+                </span>
               </h1>
             </a>
           </Link>
@@ -77,16 +95,15 @@ const Search:FunctionComponent = () => {
       <>
         {watchList.map((value) => (
           <Link key={value._id} passHref href={`/user/${value.userId}/watch-list/${value._id}`}>
-            <a className={clsx(
-              'flex-col text-center ',
-              'text-white w-max h-[400px] lg:w-[300px] lg:h-[500px]',
-              'w-[250px] lg:w-[300px]',
-            )}
+            <a className={
+              clsx(
+                'flex flex-col items-center justify-center text-center space-y-4',
+                'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
+                'hover:bg-tmrev-gray-dark p-1',
+              )
+            }
             >
-              <div className={clsx(
-                'bg-tmrev-gray-dark relative w-full h-[400px] p-2 rounded',
-              )}
-              >
+              <div className="relative h-1/2 w-full">
                 <Image
                   alt={`${value.title} watchlist`}
                   layout="fill"
@@ -94,11 +111,12 @@ const Search:FunctionComponent = () => {
                   src={`https://avatars.dicebear.com/api/identicon/${value._id}.svg`}
                 />
               </div>
-              <div className="flex-grow" />
-              <h1 className="font-semibold text-xl">
-                List |
-                {' '}
-                {value.title}
+              <h1 className=" space-x-2">
+                <span className="font-semibold">List</span>
+                <span>|</span>
+                <span className="break-all">
+                  {value.title}
+                </span>
               </h1>
             </a>
           </Link>
@@ -119,19 +137,14 @@ const Search:FunctionComponent = () => {
 
           return (
             <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-              <a key={value.id} className="flex justify-center items-center">
-                <div className={clsx(
-                  'bg-black relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                  'lg:w-[300px] lg:h-[500px]',
-                )}
-                >
-                  <Image
-                    alt={`${value.title} poster`}
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(value.poster_path || '', 500)}
-                  />
-                </div>
+              <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
+                <Image
+                  alt={`${value.title} poster`}
+                  className="rounded"
+                  layout="fill"
+                  objectFit="cover"
+                  src={imageUrl(value.poster_path || '', 300)}
+                />
               </a>
             </Link>
           );
@@ -142,10 +155,15 @@ const Search:FunctionComponent = () => {
 
   return (
     <div className="flex-col w-full h-screen bg-black">
+      <MetaTags
+        description="Looking for the best movies? Reviews from real users can help you find the right one. Lists from experts can help you find what you're looking for."
+        title="Find the latest movies and user lists on the world's largest movie review site."
+        url={`https://tmrev.io/search?q=${query}`}
+      />
       <div className="sticky mt-16 lg:mt-0 top-0 bg-tmrev-gray-dark p-5 w-full right-0 left-0 rounded z-30 mb-4">
-        <Input placeholder="Search..." onChange={debounceQuery} />
+        <Input defaultValue={query} placeholder="Search..." onChange={debounceQuery} />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4 overflow-hidden">
+      <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
         {renderWatchListSearchQuery()}
         {renderUserListQuery()}
         {renderMovieSearchQuery()}
@@ -155,3 +173,25 @@ const Search:FunctionComponent = () => {
 };
 
 export default Search;
+
+Search.defaultProps = {
+  q: '',
+};
+
+export const getServerSideProps = wrapper.getServerSideProps(
+  (store) => async (context) => {
+    const q = context.query?.q;
+
+    if (typeof q === 'string') {
+      store.dispatch(search.initiate(q));
+    }
+
+    await Promise.all(getRunningOperationPromises());
+
+    return {
+      props: {
+        q: q || '',
+      },
+    };
+  },
+);
