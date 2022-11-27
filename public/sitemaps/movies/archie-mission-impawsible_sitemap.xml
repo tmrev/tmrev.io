@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/537034-A.R.C.H.I.E. 2: Mission Impawsible</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/537034-A.R.C.H.I.E. 2: Mission Impawsible</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5B3mkYMxEq5PXiZHtAb2Js4NHVb.jpg</image:loc
+      >
+      <image:caption
+        >In this sequel, the super intelligent artificial robotronic dog,
+        Archie, befriends Gregory, a young boy who is the son of a carnival
+        owner. Gregory is concerned that someone has been stealing from the
+        carnival and enlists his new friend to help find the
+        culprit.</image:caption
+      >
+      <image:title>A.R.C.H.I.E. 2: Mission Impawsible</image:title>
+    </image:image>
+  </url>
+</urlset>

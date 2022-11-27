@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/606344-Attack of the Demons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/606344-Attack of the Demons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/og9z4jcHDMz5UTt5U0YrwLJrAqt.jpg</image:loc
+      >
+      <image:caption
+        >The year is 1994, and in a small Colorado town, three friends must use
+        every skill their minds can fathom to stave off a legion of mutating
+        demons that is overtaking their community. This apocalyptic event has
+        been planned for centuries by a cult, which seeks nothing less than the
+        destruction of all humankind.</image:caption
+      >
+      <image:title>Attack of the Demons</image:title>
+    </image:image>
+  </url>
+</urlset>

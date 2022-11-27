@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82760-Avalon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82760-Avalon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9g7l53zkdiHfxB63ArQ4oHIBbNZ.jpg</image:loc
+      >
+      <image:caption
+        >Janne, a 60 year old party promoter is arranging a nightclub at the
+        annual tennis week in the small coastal town of Båstad, where he also
+        teams up with his older sister Jackie. But an accident turns his life
+        upside down and forced by the people around him, he desperately seeks a
+        way out.</image:caption
+      >
+      <image:title>Avalon</image:title>
+    </image:image>
+  </url>
+</urlset>

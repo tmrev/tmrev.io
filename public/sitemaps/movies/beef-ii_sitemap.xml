@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65769-Beef II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65769-Beef II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/MUCwiYmmch7lMZo26lhIfRgHLk.jpg</image:loc
+      >
+      <image:caption
+        >Beef II (released on DVD in August 2004) is a sequel to the 2003
+        documentary Beef, which continued to document the history of rivalries
+        in hip-hop and rap music. Like its prequel, the film was executive
+        produced by Quincy Jones III (QD3), written by Peter Alton and Peter
+        Spirer (who also directed), and was this time narrated by actor Keith
+        David.</image:caption
+      >
+      <image:title>Beef II</image:title>
+    </image:image>
+  </url>
+</urlset>

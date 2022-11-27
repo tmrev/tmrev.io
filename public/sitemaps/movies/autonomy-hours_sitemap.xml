@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1039352-Autonomy: 12 Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1039352-Autonomy: 12 Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Rudy, a young burglar, is approached by Gaël, a runaway minor. This one
+        is a myopathic, he moves with a heavy electric wheelchair. Gaël is going
+        to ask Rudy for a service. From there, he will follow him in his
+        wandering. Only, his respiratory assistance possesses only a small
+        battery with twelve hours of autonomy.</image:caption
+      >
+      <image:title>Autonomy: 12 Hours</image:title>
+    </image:image>
+  </url>
+</urlset>

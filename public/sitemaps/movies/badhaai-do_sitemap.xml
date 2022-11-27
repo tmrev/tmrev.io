@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/754716-Badhaai Do</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/754716-Badhaai Do</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2IOCys56t4iOMj9ZoVZ7zmi2RHL.jpg</image:loc
+      >
+      <image:caption
+        >A gay cop and a lesbian teacher enter a sham marriage to pacify their
+        families but find that relationships — both real and fake — aren't all
+        that easy.</image:caption
+      >
+      <image:title>Badhaai Do</image:title>
+    </image:image>
+  </url>
+</urlset>

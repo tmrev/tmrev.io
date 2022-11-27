@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160669-Blunderkind</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160669-Blunderkind</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >in 1988, 12 year old boy genius Henry Jameson sends his best friend,
+        George, into the future to discover the resolution of a cliffhanger
+        episode of the hit detective show 'Columbo.' But he loses him somewhere
+        in time. 20 years later, Henry has become a degenerate alcoholic when 12
+        yr old George appears on his doorstep. Henry is forced to overcome the
+        loser he has become to find a way to send George back to the 80s.
+        Hilarity ensues!</image:caption
+      >
+      <image:title>Blunderkind</image:title>
+    </image:image>
+  </url>
+</urlset>

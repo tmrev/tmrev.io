@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/640670-At the House of Mr. X</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/640670-At the House of Mr. X</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b25wt7P98KQlReK4BRoDLn9nykp.jpg</image:loc
+      >
+      <image:caption
+        >At the House of Mr X by Elizabeth Price takes as its subject the home
+        of an anonymous art collector, designed and built in the late 1960s .
+        Only briefly inhabited, the House and its contents remain immaculately
+        preserved.</image:caption
+      >
+      <image:title>At the House of Mr. X</image:title>
+    </image:image>
+  </url>
+</urlset>

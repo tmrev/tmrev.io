@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/882338-Anything Goes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/882338-Anything Goes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4v1jSxfbKFRAXW6bVvsWJ6Xd0gP.jpg</image:loc
+      >
+      <image:caption
+        >When the S.S. American heads out to sea, etiquette and convention head
+        out the portholes as two unlikely pairs set off on the course to true
+        love... proving that sometimes destiny needs a little help from a crew
+        of singing sailors, a comical disguise and some good old-fashioned
+        blackmail. This hilarious musical romp across the Atlantic, directed by
+        the multi-award-winning Broadway director and choreographer Kathleen
+        Marshall, features Cole Porter’s joyful score, including "I Get A Kick
+        Out of You," "You’re the Top" and the show-stopping "Anything
+        Goes."</image:caption
+      >
+      <image:title>Anything Goes</image:title>
+    </image:image>
+  </url>
+</urlset>

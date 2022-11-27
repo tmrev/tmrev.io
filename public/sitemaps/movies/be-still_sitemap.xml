@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/287345-Be Still</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/287345-Be Still</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"Be Still" is an extraordinary film that demonstrates contemplative
+        prayer as a vital part of our everyday lives and as a remedy for the
+        ills of the frenzied, fast paced modern world. Featuring interviews with
+        some of today's most highly respected authors, educators, and ministers,
+        like Dr. Henry Cloud, Dallas Willard, Max Lucado, and Beth Moore, "Be
+        Still" examines the importance of silent reflective prayer as a way to
+        truly be open to receiving God's guidance. This remarkable film also
+        features a useful "how to" section that shows how contemplative prayer
+        can be used by anyone at any time to better one's life and reaffirm that
+        which is truly important.</image:caption
+      >
+      <image:title>Be Still</image:title>
+    </image:image>
+  </url>
+</urlset>

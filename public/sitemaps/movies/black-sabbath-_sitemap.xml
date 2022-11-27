@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474658-Black Sabbath: 13</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474658-Black Sabbath: 13</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ey13HosvQ4yKY1C2h0VMil0LDW0.jpg</image:loc
+      >
+      <image:caption
+        >The making of the reunion album '13', featuring original band members
+        Ozzy Osbourne, Tony Iommi and Geezer Butler, with Brad Wilk on drums.
+        Rick Rubin oversees the album's production.</image:caption
+      >
+      <image:title>Black Sabbath: 13</image:title>
+    </image:image>
+  </url>
+</urlset>

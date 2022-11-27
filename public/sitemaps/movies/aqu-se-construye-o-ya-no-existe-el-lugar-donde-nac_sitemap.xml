@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/256310-Aquí se construye (o Ya no existe el lugar
+      donde nací)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/256310-Aquí se construye (o Ya no existe el lugar
+      donde nací)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c6AXBrMtuNxdkNlkZXuO4AVHWVF.jpg</image:loc
+      >
+      <image:caption
+        >Agüero is able to look at the scene in all it's complexity around
+        architectonical brutality that Santiago de Chile underwent around the
+        year 2000.</image:caption
+      >
+      <image:title
+        >Aquí se construye (o Ya no existe el lugar donde nací)</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

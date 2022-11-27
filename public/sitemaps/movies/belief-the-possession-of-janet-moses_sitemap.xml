@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/345718-Belief: The Possession of Janet Moses</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/345718-Belief: The Possession of Janet Moses</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n8Xx3vblLjx27l68Q2QX7EDNP60.jpg</image:loc
+      >
+      <image:caption
+        >This impressive doco disperses the fog of shame and sensationalism to
+        shed light on the tragedy that made international headlines in 2007 when
+        a young Wainuiomata woman died during a mākutu lifting.</image:caption
+      >
+      <image:title>Belief: The Possession of Janet Moses</image:title>
+    </image:image>
+  </url>
+</urlset>

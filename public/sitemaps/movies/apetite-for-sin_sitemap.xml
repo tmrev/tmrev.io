@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/675814-Apetite for Sin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/675814-Apetite for Sin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xz7TBIfmxMYNMYXVyKiN1JIAWLq.jpg</image:loc
+      >
+      <image:caption
+        >A Horror Feature Film about the story of women vampires walking among
+        the living in Los Angeles. The lead Vampire, Sarah Hase, is searching
+        for the most current Vampire Killer, Jeffery Nelson. Sarah, who is also
+        an undercover FBI agent, wants to catch him in the act and have him live
+        in jail for eternity. Another Vampire, Joan Rosen, is also out to get
+        him, but wants to instantly kill him. Who will get to Jeffery Nelson
+        first? Sarah Hase or Joan Rosen?</image:caption
+      >
+      <image:title>Apetite for Sin</image:title>
+    </image:image>
+  </url>
+</urlset>

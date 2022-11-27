@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/363125-Bats of the Round Table</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/363125-Bats of the Round Table</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/22f2iwP9GNwghA2MsLqa9BDmxj4.jpg</image:loc
+      >
+      <image:caption
+        >“Bats of the Round Table,” an over dinner recollection of the original
+        1966 Batman TV series with Adam West and celebrity friends Kevin Smith,
+        DC Entertainment Co-Publisher Jim Lee, radio personality Ralph Garman
+        and actor Phil Morris.</image:caption
+      >
+      <image:title>Bats of the Round Table</image:title>
+    </image:image>
+  </url>
+</urlset>

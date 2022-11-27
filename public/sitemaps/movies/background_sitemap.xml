@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/591465-Background</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/591465-Background</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qws9Q7vsOSZpt1tahyzOcHHmy2a.jpg</image:loc
+      >
+      <image:caption
+        >Ruben is an anodyne guy attracted by the unusual beauty of Alba, an
+        enigmatic woman. Both live in a peculiar silent universe, with
+        established and surrealistic rules. Ruben must break some of these rules
+        to get Alba's attention.</image:caption
+      >
+      <image:title>Background</image:title>
+    </image:image>
+  </url>
+</urlset>

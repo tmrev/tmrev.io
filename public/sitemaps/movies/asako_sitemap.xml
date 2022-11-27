@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/850386-Asako</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/850386-Asako</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oDlwCefuznfgMQYrCoXfrXdGBdI.jpg</image:loc
+      >
+      <image:caption
+        >The fallen poem of a married woman who killed herself. The trauma of
+        the past awakens and rushes into an erotic parallel world where it is
+        impossible to determine what is real and delusional.</image:caption
+      >
+      <image:title>Asako</image:title>
+    </image:image>
+  </url>
+</urlset>

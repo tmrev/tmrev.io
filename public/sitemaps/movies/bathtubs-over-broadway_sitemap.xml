@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514729-Bathtubs Over Broadway</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514729-Bathtubs Over Broadway</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vj9yVfcCqmLvKii5Ei5oWPz2bZL.jpg</image:loc
+      >
+      <image:caption
+        >When he started as a comedy writer for the Late Show with David
+        Letterman, Steve Young had few interests and not many friends outside of
+        his day job. But while gathering material for a segment on the show,
+        Steve stumbled onto a few vintage record albums that would change his
+        life forever.</image:caption
+      >
+      <image:title>Bathtubs Over Broadway</image:title>
+    </image:image>
+  </url>
+</urlset>

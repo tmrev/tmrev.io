@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353058-Blood Feast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353058-Blood Feast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xpGSILt2ZbBR9kGCFGM58WPddOo.jpg</image:loc
+      >
+      <image:caption
+        >Fuad Ramses and his family have moved from the United States to France,
+        where they run a American diner. Since business is not going too well,
+        Fuad also works night shifts in a museum of Egyptian culture. During
+        these long lonely nights he is repeatedly drawn to a statue representing
+        the seductive ancient goddess ISHTAR. He becomes more and more allured
+        by the goddess as she speaks to him in visions. Eventually he succumbs
+        to her deadly charms.</image:caption
+      >
+      <image:title>Blood Feast</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/447791-Area 08 Vol. 2: The Journey Continues</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/447791-Area 08 Vol. 2: The Journey Continues</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x26MrkFT4hCwfmRoFc7zdMOlXJB.jpg</image:loc
+      >
+      <image:caption
+        >The journey continues, and once again the target is Stockholm city… The
+        2nd episode of Area 08 features many whole trains and live backjumps
+        from Stockholm, Sweden. There's a lot of tagging and painting of trains
+        and metros from WUFC-SDK, PMS, FAME, HNR. The style and a soundtrack
+        were inspired at the time by the famous Dirty Handz 2.</image:caption
+      >
+      <image:title>Area 08 Vol. 2: The Journey Continues</image:title>
+    </image:image>
+  </url>
+</urlset>

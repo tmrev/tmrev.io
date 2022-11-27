@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62341-Bed and Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62341-Bed and Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jLjg2cf8Lb8lRPrPXdOZxuqClmF.jpg</image:loc
+      >
+      <image:caption
+        >Tired of their stressful parisian lifestyle, Caroline and Bertrand
+        decide to start a new life, running a traditional gîte in deepest
+        Provence. It is not long before they start to question the wisdom of
+        this move – the buldings are in a state of near-dilapidation, their
+        friend and supposed partner Sophie has walked out on them, and they are
+        but a stone’s throw from a far more attarctive holiday home, catering
+        for gay men. Will this change be as good as a rest or the start of a
+        nightmare?</image:caption
+      >
+      <image:title>Bed and Breakfast</image:title>
+    </image:image>
+  </url>
+</urlset>

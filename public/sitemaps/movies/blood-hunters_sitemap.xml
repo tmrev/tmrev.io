@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384594-Blood Hunters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384594-Blood Hunters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/axgFPcZrYGai6xZSB2KlwmBK4hg.jpg</image:loc
+      >
+      <image:caption
+        >An elevated genre horror film about a single mother who wakes up in a
+        medical facility to find that everyone is dead and she's nine months
+        pregnant. As she struggles to escape she discovers the facility's
+        secret, they've tampered with the boundaries of death and brought people
+        back to life, but those who've returned, have not returned
+        alone.</image:caption
+      >
+      <image:title>Blood Hunters</image:title>
+    </image:image>
+  </url>
+</urlset>

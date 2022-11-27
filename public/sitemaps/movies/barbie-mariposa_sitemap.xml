@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18198-Barbie Mariposa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18198-Barbie Mariposa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qsb1OQCNVMAX3KRT6xhKOl3mM6P.jpg</image:loc
+      >
+      <image:caption
+        >Elina, heroine of the Fairytopia films tells her friend Bibble the
+        story of Flutterfield, a faraway kingdom populated by fairies with
+        butterfly wings. Henna, the evil butterfly fairy has poisoned the queen
+        of Flutterfield in an attempt to take over the kingdom.</image:caption
+      >
+      <image:title>Barbie Mariposa</image:title>
+    </image:image>
+  </url>
+</urlset>

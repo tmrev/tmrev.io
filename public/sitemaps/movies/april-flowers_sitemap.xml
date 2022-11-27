@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/447193-April Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/447193-April Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4cVoQmPjhF3SjaXinNo2nXHk79f.jpg</image:loc
+      >
+      <image:caption
+        >After discovering an anonymous journal, April begins her quest to
+        return the book, all-the-while building a fantasy in her head that may
+        compromise the very real relationships in her life.</image:caption
+      >
+      <image:title>April Flowers</image:title>
+    </image:image>
+  </url>
+</urlset>

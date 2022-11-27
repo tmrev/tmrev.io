@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565577-Arthur: It's Only Rock 'n' Roll</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565577-Arthur: It's Only Rock 'n' Roll</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/swY68LuNiELTn0abPC4x7hKs3oH.jpg</image:loc
+      >
+      <image:caption
+        >When the prospect of an Elwood City concert by the Backstreet Boys
+        drives everyone else into a frenzy, a disgusted Francine decides to
+        counter with an "anti-cute" band of her own called U Stink. But things
+        don't go quite the way she had planned.</image:caption
+      >
+      <image:title>Arthur: It's Only Rock 'n' Roll</image:title>
+    </image:image>
+  </url>
+</urlset>

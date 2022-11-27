@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440140-Beautiful Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440140-Beautiful Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ftUGETUxGYN9jf6VlYibrQ80E0G.jpg</image:loc
+      >
+      <image:caption
+        >An experimental, no-dialogue short in which a man comes literally out
+        of a closet, only to be held in bondage by a woman. She finally puts him
+        back into the closet.</image:caption
+      >
+      <image:title>Beautiful Man</image:title>
+    </image:image>
+  </url>
+</urlset>

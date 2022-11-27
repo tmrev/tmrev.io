@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/218681-Barefoot in the Kitchen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/218681-Barefoot in the Kitchen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9PrvC9NCHAuQU4peFQPNqp4B0cF.jpg</image:loc
+      >
+      <image:caption
+        >What was the role of women in Spanish cinema from the 1930s to the
+        present explained through fragments of different films, both fiction and
+        non-fiction. (Followed by “Manda huevos,” 2016.)</image:caption
+      >
+      <image:title>Barefoot in the Kitchen</image:title>
+    </image:image>
+  </url>
+</urlset>

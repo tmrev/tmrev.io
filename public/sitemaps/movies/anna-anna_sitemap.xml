@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60812-Anna & Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60812-Anna & Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9HwYaLlL3hVrti0u3Ry4Qvg6NkB.jpg</image:loc
+      >
+      <image:caption
+        >Anna &amp; Anna is a movie about a Singaporean arts saleswoman / alpha
+        female and her subdued doppelganger. Anna One (the arts saleswoman) is
+        very successful in her job, and gets posted to Shanghai, where she used
+        to live before. There, by a coincidence, she finds another woman who not
+        only like her but IS her - Anna Two. This Anna has finished her studies,
+        become a painter, and stayed with Oulang, a depressed musician - the
+        life as Anna One's could have been, had she made another decision at one
+        point of her life.</image:caption
+      >
+      <image:title>Anna & Anna</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/990428-Annadata</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/990428-Annadata</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oJvmQOIEJMC7Uv2wwObREX5U4EY.jpg</image:loc
+      >
+      <image:caption
+        >A rich businessman adopts Shankar into his family. Years later, Shankar
+        proves his loyalty by saving his master's house Chowdhury Villa from his
+        biggest rival Rudraprasad Sen.</image:caption
+      >
+      <image:title>Annadata</image:title>
+    </image:image>
+  </url>
+</urlset>

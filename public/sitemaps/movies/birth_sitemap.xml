@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1017168-Birth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1017168-Birth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jay, a promising young writer, is about to publish her new book.
+        Geonwoo, Jay′s roommate and lover, works as an English instructor at a
+        private institute and silently assists Jay. Both of them care about each
+        other and are happy as they are. However, Jay’s unplanned pregnancy
+        brings huge changes, causing conflicts between the two.</image:caption
+      >
+      <image:title>Birth</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/154844-Born & Raised</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/154844-Born & Raised</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pEqwL3w8UszZJUoCZD4hDGNnmpy.jpg</image:loc
+      >
+      <image:caption
+        >This intelligently crafted, seven-time award winning festival favorite,
+        tells the story of a young man, in a small seaside town, who learns a
+        thing or two about love, luck and life from his well-traveled, outlaw
+        grandfather. Born &amp; Raised is a gritty, coming-of-age drama with a
+        lot of heart and a ton of laughs.</image:caption
+      >
+      <image:title>Born & Raised</image:title>
+    </image:image>
+  </url>
+</urlset>

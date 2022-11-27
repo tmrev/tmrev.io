@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/289960-Blondie's New York and the Making of
+      Parallel Lines</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/289960-Blondie's New York and the Making of
+      Parallel Lines</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fiXnC6A7qR8siCjnP88XuHfx10P.jpg</image:loc
+      >
+      <image:caption
+        >The story behind Blondie's album Parallel Lines, which sold 16 million
+        copies and captured the spirit of 1970s New York at a time of poverty,
+        crime and an exploding artistic life.</image:caption
+      >
+      <image:title
+        >Blondie's New York and the Making of Parallel Lines</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/581992-Bam's or Bust!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/581992-Bam's or Bust!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/spITlMjuQtZddtfQbAjye6Imdut.jpg</image:loc
+      >
+      <image:caption
+        >In this video you'll experience first hand what happens when you plan a
+        casual Element team visit to Bam's compound in the woods of
+        Pennsylvania.</image:caption
+      >
+      <image:title>Bam's or Bust!</image:title>
+    </image:image>
+  </url>
+</urlset>

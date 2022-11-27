@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4435-Aśoka</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4435-Aśoka</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3S9u9oMFEwvzt1OGSv9PBowzmiD.jpg</image:loc
+      >
+      <image:caption
+        >A young Prince Asoka works to perfect his skills in battle and also
+        deals with family conflict. During a struggle with one of his
+        step-brothers, his mother urges Asoka to escape to stay alive. While
+        away, Asoka meets Kaurwaki and falls in love, but must use his skills as
+        a warrior to protect her. A dangerous and heartbreaking web of
+        conspiracy follows, which leads Asoka to embrace a Buddhist
+        path.</image:caption
+      >
+      <image:title>Aśoka</image:title>
+    </image:image>
+  </url>
+</urlset>

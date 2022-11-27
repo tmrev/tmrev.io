@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/513622-Au fond des yeux</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/513622-Au fond des yeux</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qBrQZkQSUCqjORgW8ZhxEcKhifj.jpg</image:loc
+      >
+      <image:caption
+        >To embody moments of transition between two different worlds, worlds
+        which look alike. There are only antechambers and settings. Being the
+        mask one wears, I have lost my decency. Dream and lie, what is the
+        prospect of a one-eyed man? I question the dreamer’s figure as being
+        simultaneously the emitter and the receiver of its own visions, the
+        director and unique spectator of its projections.</image:caption
+      >
+      <image:title>Au fond des yeux</image:title>
+    </image:image>
+  </url>
+</urlset>

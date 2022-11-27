@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/211587-Blood Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/211587-Blood Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zUnT6gvOiuGwd4bh4VUs7uc2FXO.jpg</image:loc
+      >
+      <image:caption
+        >Based on the award winning short film, Blood Shot is the story of a cop
+        named Rip whose life falls apart as he chases a terminator-like vampire,
+        who happens to be a hitman for the CIA. They must join forces to stop a
+        terrorist cell before its too late, battling through obstacles such as a
+        harem, giant eunuch, demon-genie, and even explosive
+        midgets.</image:caption
+      >
+      <image:title>Blood Shot</image:title>
+    </image:image>
+  </url>
+</urlset>

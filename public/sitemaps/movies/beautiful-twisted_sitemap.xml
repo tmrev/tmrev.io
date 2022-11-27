@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/322766-Beautiful & Twisted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/322766-Beautiful & Twisted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/97MjYAwQDVDNGZ0Ho0efZWgKSdO.jpg</image:loc
+      >
+      <image:caption
+        >Following the murder of hotel heir Ben Novack Jr., police focus their
+        investigation on his wife, Narcy.</image:caption
+      >
+      <image:title>Beautiful & Twisted</image:title>
+    </image:image>
+  </url>
+</urlset>

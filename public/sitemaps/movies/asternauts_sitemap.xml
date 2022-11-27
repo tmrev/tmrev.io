@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/837949-Asternauts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/837949-Asternauts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7hlF9TQMtdqqAZjEhdrIi9CDM02.jpg</image:loc
+      >
+      <image:caption
+        >Life is pretty dull for farmer Earl and his brother Joel: Wake up, feed
+        the cows, and sit on the porch until it's time to turn in. Until one
+        night when a mysterious object from outer space crash-lands in their
+        pasture killing their best bull and milking cow.</image:caption
+      >
+      <image:title>Asternauts</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32219-Blade: House of Chthon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32219-Blade: House of Chthon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hkvSU2V0PhNyxXkaXiDPJ2D13nT.jpg</image:loc
+      >
+      <image:caption
+        >The brutal hunt for the pure bloods continues as the ultimate vampire
+        hunter, Blade, battles to defeat the House of Chthon, an ancient evil
+        sect of vampires that is growing stronger everyday. Led by the vampire
+        overlord Marcus, their objective is to create a vaccine that will give
+        rise to a new breed of super vampires, immune to vampire
+        weaknesses.</image:caption
+      >
+      <image:title>Blade: House of Chthon</image:title>
+    </image:image>
+  </url>
+</urlset>

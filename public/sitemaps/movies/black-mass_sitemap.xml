@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/261023-Black Mass</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/261023-Black Mass</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zfwciv4LIJkNQsfuhYGv0Nkiweg.jpg</image:loc
+      >
+      <image:caption
+        >The true story of Whitey Bulger, the brother of a state senator and the
+        most infamous violent criminal in the history of South Boston, who
+        became an FBI informant to take down a Mafia family invading his
+        turf.</image:caption
+      >
+      <image:title>Black Mass</image:title>
+    </image:image>
+  </url>
+</urlset>

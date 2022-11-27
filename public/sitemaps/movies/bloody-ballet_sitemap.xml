@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/445869-Bloody Ballet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/445869-Bloody Ballet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x6zHyJzwRp8FRMt1WQM4AANNIpw.jpg</image:loc
+      >
+      <image:caption
+        >When beautiful ballerina dancer Adriana Mena lands the lead role in the
+        upcoming Nutcracker performance, she's forced to face her demons as
+        jealousy and tension begin to provoke the supernatural.</image:caption
+      >
+      <image:title>Bloody Ballet</image:title>
+    </image:image>
+  </url>
+</urlset>

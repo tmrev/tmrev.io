@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/610254-Aphra and Aradia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/610254-Aphra and Aradia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yXO0UqaBWD9cUjk6ZgBu2I60Odk.jpg</image:loc
+      >
+      <image:caption
+        >Aphra, a young woman in search of her sister's ghost, travels to an
+        island to meet a witch, Aradia.</image:caption
+      >
+      <image:title>Aphra and Aradia</image:title>
+    </image:image>
+  </url>
+</urlset>

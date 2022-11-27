@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190776-Blood of Havana</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190776-Blood of Havana</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Shot on a Digital Harinezumi, the film features a disturbing and
+        monstrous character walking the streets of Havana to meet people. The
+        reading of a poetic, funny and false prophecy about communism and a new
+        revolution coincides with a minimal and repetitive
+        soundtrack.</image:caption
+      >
+      <image:title>Blood of Havana</image:title>
+    </image:image>
+  </url>
+</urlset>

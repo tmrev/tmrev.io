@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/630601-Azali</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/630601-Azali</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t468xcoBSlfLdnYvBcXMQN9MEmM.jpg</image:loc
+      >
+      <image:caption
+        >14-year-old Amina from northern Ghana gets sent away to Burkina Faso by
+        her mother to prevent her marriage to an elderly man. However, fate
+        intervenes in the form of kidnappers who bring her to Accra. What trials
+        and tribulations await Amina in the slums of Accra? Will she ever find a
+        way to escape?</image:caption
+      >
+      <image:title>Azali</image:title>
+    </image:image>
+  </url>
+</urlset>

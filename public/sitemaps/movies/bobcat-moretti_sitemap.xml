@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1025881-Bobcat Moretti</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1025881-Bobcat Moretti</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1J8hgJRbszmVoHUNGDF8TvOKMea.jpg</image:loc
+      >
+      <image:caption
+        >An obese multiple sclerosis patient takes up his late Father's sport of
+        boxing to overcome personal tragedy and find inner peace. "Bobcat
+        Moretti" was filmed over the course of ten months, during COVID-19,
+        allowing our lead actor to lose 154 pounds and embody the
+        role.</image:caption
+      >
+      <image:title>Bobcat Moretti</image:title>
+    </image:image>
+  </url>
+</urlset>

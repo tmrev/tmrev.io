@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/948161-Artist Statement</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/948161-Artist Statement</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zq78akVUUsAPmCo9yDgZgaWqO76.jpg</image:loc
+      >
+      <image:caption
+        >A naked female figure faces the wall and hits it monotonously with
+        towels. Formally the video refers to the photographic series showing
+        prostitutes from the red light district in New Orleans made in 1912 by
+        the American artist E.J. Bellocq. These photographed figures often
+        turned away from the lens and had their faces blurred or veiled. Araya’s
+        use of primary color also refers to her artistic beginnings as a
+        painter.</image:caption
+      >
+      <image:title>Artist Statement</image:title>
+    </image:image>
+  </url>
+</urlset>

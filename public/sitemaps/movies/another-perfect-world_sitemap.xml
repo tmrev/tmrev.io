@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172516-Another Perfect World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172516-Another Perfect World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Second Life, World of Warcraft, Metaplace, U World - all virtual worlds
+        where the user can create their own paradise, far removed from real
+        life. People can create societies that range from the democratic to the
+        dictatorial, have avatars that resemble their ideal and can engage in
+        actions that their real life personality would never dream of doing,
+        from cyber-sex to virtual crime. But who creates these worlds and are
+        they the right people to be crafting idealised societies that pretend to
+        address and solve the inadequacies of the real world?</image:caption
+      >
+      <image:title>Another Perfect World</image:title>
+    </image:image>
+  </url>
+</urlset>

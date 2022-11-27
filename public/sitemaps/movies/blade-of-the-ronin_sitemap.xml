@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/732459-Blade of the 47 Ronin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/732459-Blade of the 47 Ronin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg</image:loc
+      >
+      <image:caption
+        >In this sequel to "47 Ronin," a new class of warriors emerges among the
+        Samurai clans to keep a sought-after sword from falling into the wrong
+        hands.</image:caption
+      >
+      <image:title>Blade of the 47 Ronin</image:title>
+    </image:image>
+  </url>
+</urlset>

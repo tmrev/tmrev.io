@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/267023-BLACKland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/267023-BLACKland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/KhMm634fiSrz0WpsDAztziX3UY.jpg</image:loc
+      >
+      <image:caption
+        >The film is a stage play hybrid showcasing dark and absurd sketches
+        based on contemporary Hungarian news of the 2000's with campy, senseless
+        musical interludes in-between. Highly experimental in nature that - like
+        Marmite - will split its' crowd into ones that'll love it and others
+        that'll loathe it. There's no middle grounds here. The topics included
+        are: The Hungarian Olympians' doping scandal, political terrorism, the
+        national elections... and more.</image:caption
+      >
+      <image:title>BLACKland</image:title>
+    </image:image>
+  </url>
+</urlset>

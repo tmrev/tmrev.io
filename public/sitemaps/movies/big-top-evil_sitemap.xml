@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626292-Big Top Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626292-Big Top Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o0ILH92O6zNorl72xzeE2DPVR42.jpg</image:loc
+      >
+      <image:caption
+        >Five disparate youths, lost on a road trip to the location of the
+        infamous 'mangrove slasher,' end up being pursued by a cadre of cannibal
+        clowns.</image:caption
+      >
+      <image:title>Big Top Evil</image:title>
+    </image:image>
+  </url>
+</urlset>

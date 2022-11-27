@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/371442-Bad Roomies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/371442-Bad Roomies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ejYslOKoRQdD3WWKqYEabwvPlSV.jpg</image:loc
+      >
+      <image:caption
+        >Two guys find a beautiful young woman to take the place of their
+        missing roommate. Everything seems fine until a horrible mistake on
+        drunken night leads all three on a downward spiral.</image:caption
+      >
+      <image:title>Bad Roomies</image:title>
+    </image:image>
+  </url>
+</urlset>

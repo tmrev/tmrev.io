@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/419293-Australien Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/419293-Australien Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ZQzAV3iWsFRjQUpLlukzJvq65N.jpg</image:loc
+      >
+      <image:caption
+        >Australien Skies is a documentary film that explores the sightings of
+        unidentified flying objects and the people who witness them within
+        Australia.</image:caption
+      >
+      <image:title>Australien Skies</image:title>
+    </image:image>
+  </url>
+</urlset>

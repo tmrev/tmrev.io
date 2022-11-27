@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37828-Armadillo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37828-Armadillo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aezjTpjt0sdQV9X8XiSH2oHWEt7.jpg</image:loc
+      >
+      <image:caption
+        >Danish soldiers are sent to Afghanistan in 2009 for 6 months, to help
+        stabilize the country against the Taliban. They're stationed on
+        Armadillo military base in Helman province. Unlike other war movies,
+        this is the real deal - no actors.</image:caption
+      >
+      <image:title>Armadillo</image:title>
+    </image:image>
+  </url>
+</urlset>

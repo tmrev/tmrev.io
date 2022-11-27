@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/584147-Apparitions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/584147-Apparitions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1zr2EyJtcKEiQRDbnTyqY4BC7Rg.jpg</image:loc
+      >
+      <image:caption
+        >With only nightmares for childhood memories, Lily Stone returns to her
+        family home to find out what happened to her parents. Despite the
+        locals' warnings about an evil presence cursing the house, Lily crosses
+        the threshold and discovers not all the ghosts that haunt us are
+        dead.</image:caption
+      >
+      <image:title>Apparitions</image:title>
+    </image:image>
+  </url>
+</urlset>

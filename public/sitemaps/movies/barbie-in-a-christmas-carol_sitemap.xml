@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13459-Barbie in 'A Christmas Carol'</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13459-Barbie in 'A Christmas Carol'</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fX9g1AE1JIqjX3LPPKVjcmHs6fd.jpg</image:loc
+      >
+      <image:caption
+        >On Christmas Eve, Kelly is reluctant to go to a Christmas Eve ball, so
+        Barbie tells her the story of Eden Starling, a glamourous singing diva
+        in the Victorian England and the owner of a theatre house. However, Eden
+        is self-centred and loves only herself. She is frequently accompanied by
+        her snooty cat, Chuzzlewit. She does not believe in Christmas and orders
+        all her employees to work on Christmas.</image:caption
+      >
+      <image:title>Barbie in 'A Christmas Carol'</image:title>
+    </image:image>
+  </url>
+</urlset>

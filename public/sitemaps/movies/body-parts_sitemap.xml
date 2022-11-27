@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/890245-Body Parts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/890245-Body Parts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3HOHrenUr63tCkz72DahT2iZTwL.jpg</image:loc
+      >
+      <image:caption
+        >An eye-opening investigation into the making of Hollywood sex scenes,
+        shedding light on the real-life experiences behind classic scenes of
+        cinema and tracing the legacy of exploitation of women in the
+        entertainment industry.</image:caption
+      >
+      <image:title>Body Parts</image:title>
+    </image:image>
+  </url>
+</urlset>

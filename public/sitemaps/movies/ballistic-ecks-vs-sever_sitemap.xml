@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10550-Ballistic: Ecks vs. Sever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10550-Ballistic: Ecks vs. Sever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Jcb486hN7hQRZTsb0RybFGeDOQ.jpg</image:loc
+      >
+      <image:caption
+        >Jonathan Ecks, an FBI agent, realizes that he must join with his
+        lifelong enemy, Agent Sever, a rogue DIA agent with whom he is in mortal
+        combat, in order to defeat a common enemy. That enemy has developed a
+        "micro-device" that can be injected into victims in order to kill them
+        at will.</image:caption
+      >
+      <image:title>Ballistic: Ecks vs. Sever</image:title>
+    </image:image>
+  </url>
+</urlset>

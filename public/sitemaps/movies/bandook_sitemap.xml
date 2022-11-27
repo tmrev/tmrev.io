@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226666-Bandook</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226666-Bandook</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A6xDcJgeD4Ri3QNuwFRpOWgBgqO.jpg</image:loc
+      >
+      <image:caption
+        >Depicts the rise of Bhola Kevat a low cast boatman in the interiors of
+        Uttar Pradesh rising to the unexpected heights of political power.
+        Bandook connects crime and politics, a psychological peep inside the
+        minds of people who use power of gun as a ladder to wordly success, It
+        shows the vast distance covered by human mind from picking a gun to
+        pulling the trigger.</image:caption
+      >
+      <image:title>Bandook</image:title>
+    </image:image>
+  </url>
+</urlset>

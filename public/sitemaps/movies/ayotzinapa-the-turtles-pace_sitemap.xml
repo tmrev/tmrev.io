@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387914-Ayotzinapa: The Turtle's Pace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387914-Ayotzinapa: The Turtle's Pace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oWBeaYnG0Skoz3foJC4tKq3vLtC.jpg</image:loc
+      >
+      <image:caption
+        >A film about the 43 students from Ayotzinapa who
+        disappeared.</image:caption
+      >
+      <image:title>Ayotzinapa: The Turtle's Pace</image:title>
+    </image:image>
+  </url>
+</urlset>

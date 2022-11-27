@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22259-Bionicle: The Legend Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22259-Bionicle: The Legend Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/82wbeiwdUd3q9v74qwp3VTPUA1p.jpg</image:loc
+      >
+      <image:caption
+        >Once the ruler of an entire universe, the Great Spirit Mata Nui finds
+        himself cast out of his own body, his spirit trapped inside the fabled
+        Mask of Life, hurtling through space. After landing on the far-away
+        planet of Bara Magna, the mask creates a new body for Mata Nui, who
+        unwillingly gets caught up in the furious battles of the nearly barren
+        and dangerous planet.</image:caption
+      >
+      <image:title>Bionicle: The Legend Reborn</image:title>
+    </image:image>
+  </url>
+</urlset>

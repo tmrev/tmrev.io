@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171404-Between Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171404-Between Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A snapshot of the interwoven relationships between a group of young
+        people in contemporary Trinidad and Tobago who are all connected in some
+        way. The storyline, focused on two generations of contemporary
+        middle-class Trinidadians, gradually exposes the hopes, secrets, lies
+        and betrayals in the lives of the various characters.</image:caption
+      >
+      <image:title>Between Friends</image:title>
+    </image:image>
+  </url>
+</urlset>

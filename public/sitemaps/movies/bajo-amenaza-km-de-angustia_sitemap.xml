@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/347319-Bajo Amenaza: 42 km. de angustia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/347319-Bajo Amenaza: 42 km. de angustia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k25yk9yRVW4XgTD10U5Y14pKGKo.jpg</image:loc
+      >
+      <image:caption
+        >After a police raid, commanding officer Alberto has confiscated a large
+        sum of money from a powerful drug dealer named Bartolomé. Bartolomé is
+        pure evil and wants his money back, so he makes a plan to recover his
+        money that involves kidnapping Alberto's son and forcing Alberto's wife,
+        a famous runner, to run the local marathon.</image:caption
+      >
+      <image:title>Bajo Amenaza: 42 km. de angustia</image:title>
+    </image:image>
+  </url>
+</urlset>

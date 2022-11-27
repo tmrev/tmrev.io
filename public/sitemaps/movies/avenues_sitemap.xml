@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587332-Avenues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587332-Avenues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/miq2i3QPQPdAYc3kpfXVRQONzwj.jpg</image:loc
+      >
+      <image:caption
+        >On his 25th birthday, following the death of his brother, Max and his
+        best friend Peter wander the wintry streets of Manhattan, contemplating
+        life, livelihood, and what it means to be adult.</image:caption
+      >
+      <image:title>Avenues</image:title>
+    </image:image>
+  </url>
+</urlset>

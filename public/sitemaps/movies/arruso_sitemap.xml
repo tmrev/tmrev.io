@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/647900-Arruso</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/647900-Arruso</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3AbClsG2BNoU5eaZLacki8uV1b2.jpg</image:loc
+      >
+      <image:caption
+        >In relation to some of Pasolini's visits to Palermo for this last film,
+        in 2000 Ciprì and Maresco shot Arruso, which begins with a phrase by
+        Pasolini ("I banished the word hope from my vocabulary") and consists of
+        imaginary interviews with some local characters who are presumed to have
+        had homosexual relationships with the director. The two record the
+        testimonies, sometimes affectionate others less, of those who had the
+        opportunity to meet him and know the trends on the occasion of that
+        trip.</image:caption
+      >
+      <image:title>Arruso</image:title>
+    </image:image>
+  </url>
+</urlset>

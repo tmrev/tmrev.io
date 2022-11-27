@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382331-Being Flat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382331-Being Flat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xgJLl39Z0ElewGdk63P7fJgoN4q.jpg</image:loc
+      >
+      <image:caption
+        >Puppets and electro take center stage as director Quentin Dupieux, AKA
+        Mr. Oizo, resurrects his Flat Eric character for this awkward
+        comedy.</image:caption
+      >
+      <image:title>Being Flat</image:title>
+    </image:image>
+  </url>
+</urlset>

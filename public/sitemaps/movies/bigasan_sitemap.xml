@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400645-Bigasan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400645-Bigasan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AonThIdxNicDRgDPTYohDtgQRSX.jpg</image:loc
+      >
+      <image:caption
+        >A poor community awaiting regularly for government rice subsidies. The
+        people line up for hours to get their share of the rice, while those who
+        don’t have money to pay for their meager portion end up doing all sorts
+        of things in order to get food on the table.</image:caption
+      >
+      <image:title>Bigasan</image:title>
+    </image:image>
+  </url>
+</urlset>

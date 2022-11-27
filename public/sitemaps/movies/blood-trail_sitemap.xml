@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64857-Blood Trail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64857-Blood Trail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Adrian Pasdar, R.J. Preston and Barry Tubb star in this eerie film that
+        melds two distinct genres: the old-fashioned Western and the
+        jump-out-of-your-seat horror film. A pack of rough-and-tumble cowboys
+        stumble upon a parcel of land that used to be a burial ground for Native
+        Americans and claim it for themselves, unleashing the fury of the
+        spirits that call it home. Suddenly, they must deal with foes of an
+        altogether different sort.</image:caption
+      >
+      <image:title>Blood Trail</image:title>
+    </image:image>
+  </url>
+</urlset>

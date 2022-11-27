@@ -15,6 +15,13 @@ const nextConfig = {
   },
   optimizeFonts: false,
   reactStrictMode: true,
+  webpack: (config, { isServer }) => {
+    if (isServer) {
+      import('./scripts/generate-sitemap.js');
+    }
+
+    return config;
+  },
 };
 
 module.exports = nextConfig;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/507716-Anna May Wong: In Her Own Words</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/507716-Anna May Wong: In Her Own Words</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tvWhzb6B5tdLdFAOneUHga0j5oS.jpg</image:loc
+      >
+      <image:caption
+        >Anna May Wong: In Her Own Words presents a vivid picture of the first
+        Chinese American movie star - both an architect and a victim of her
+        times.</image:caption
+      >
+      <image:title>Anna May Wong: In Her Own Words</image:title>
+    </image:image>
+  </url>
+</urlset>

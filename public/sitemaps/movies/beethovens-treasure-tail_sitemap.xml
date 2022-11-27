@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295887-Beethoven's Treasure Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295887-Beethoven's Treasure Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lfDaMeq8vfH0oQbry6hrbSIXbbw.jpg</image:loc
+      >
+      <image:caption
+        >After everyone's favorite St. Bernard gets fired from a movie,
+        Beethoven begins the long journey home with his trainer, Eddie. On their
+        way, they become stranded in a small coastal town where the beloved
+        canine befriends a young boy who is searching for buried
+        treasure.</image:caption
+      >
+      <image:title>Beethoven's Treasure Tail</image:title>
+    </image:image>
+  </url>
+</urlset>

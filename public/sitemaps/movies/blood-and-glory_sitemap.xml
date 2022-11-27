@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/420337-Blood and Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/420337-Blood and Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wImDjCd8CsKjK4IeRQKaHGYsDtz.jpg</image:loc
+      >
+      <image:caption
+        >Set in 1901, this period epic follows Willem Morkel, a Boer family man
+        whose wife and son are murdered during the Anglo-Boer War. Captured as a
+        prisoner of war, Willem must survive incarceration in the notorious St.
+        Helena concentration camp and defeat the ruthless Colonel Swannell, at
+        his own game—Rugby</image:caption
+      >
+      <image:title>Blood and Glory</image:title>
+    </image:image>
+  </url>
+</urlset>

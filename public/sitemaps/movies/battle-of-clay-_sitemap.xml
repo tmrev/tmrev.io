@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/960674-Battle of Clay 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/960674-Battle of Clay 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tewaCgtjJnjGY8zjdoBmrP4BfGj.jpg</image:loc
+      >
+      <image:caption
+        >Two men are playing rock-paper-scissors, but this version has a painful
+        twist: whoever loses the round will be whacked on the head with a
+        mallet. A bowl will offer them protection from the blow but only if they
+        are quick enough to grab it. Tension builds as the game begins. What
+        will the outcome be?</image:caption
+      >
+      <image:title>Battle of Clay 2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/656695-Beware of Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/656695-Beware of Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9hVImA0pV1YTq8I6doFIsj0waWD.jpg</image:loc
+      >
+      <image:caption
+        >Alienated in politically-ambiguous Moscow, young woman deals with
+        severe OCD, while her cousin in Berlin tries to build a romantic
+        relationship ignoring her own condition. In a parallel New York City
+        realm, a heartbroken boxer struggles with addiction, self worth and
+        online anxiety, which connects all the heroes from a universal
+        level.</image:caption
+      >
+      <image:title>Beware of Dog</image:title>
+    </image:image>
+  </url>
+</urlset>

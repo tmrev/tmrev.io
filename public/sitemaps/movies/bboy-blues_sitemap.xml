@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/753102-B-Boy Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/753102-B-Boy Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mOXQABLg9ZS5Ms6foQaEiNea4IM.jpg</image:loc
+      >
+      <image:caption
+        >Follows the relationship of 27-year-old journalist Mitchell Crawford
+        and 21-year-old bicycle messenger Raheim Rivers, who meet at a gay bar
+        in Greenwich Village during the summer of 1993.</image:caption
+      >
+      <image:title>B-Boy Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

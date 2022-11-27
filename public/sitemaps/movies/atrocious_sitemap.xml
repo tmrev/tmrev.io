@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300906-Atrocious</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300906-Atrocious</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6Izf4JuMgP5xi0EbB4gCLWDcHIH.jpg</image:loc
+      >
+      <image:caption
+        >Atrocious is a film that portrays the story of two serial killers, who
+        after being arrested for causing a traffic accident, police confiscate
+        some videotapes. These tapes contain brutal murders that show human
+        wickedness, their background, paraphilias and psyche of these
+        murderers.</image:caption
+      >
+      <image:title>Atrocious</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/647393-Born for the Saber</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/647393-Born for the Saber</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ibMEunfzxjvYOlqzmRdXUpAewZf.jpg</image:loc
+      >
+      <image:caption
+        >This is the story of a young nobleman and knight Błażeja Wronowski set
+        in 17th-century Poland. Błażej begins military education with Jan
+        Jerlicz, a veteran of the Moscow War. Jerlicz returns to his homeland to
+        at the urging of his former companion, Jerzy Wronowski, to train the
+        young Błażej. It is a story of honor, bravery and combat seen through
+        the eyes of a young knight growing up in the former Polish-Lithuanian
+        Commonwealth.</image:caption
+      >
+      <image:title>Born for the Saber</image:title>
+    </image:image>
+  </url>
+</urlset>

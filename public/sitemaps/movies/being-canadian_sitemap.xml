@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335310-Being Canadian</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335310-Being Canadian</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8lgXAsEekWPzGcSkDXIhxgeavQ8.jpg</image:loc
+      >
+      <image:caption
+        >What does it actually mean to be Canadian? This humorous documentary,
+        featuring interviews with a who's-who of famous Canadians, hopes to find
+        the answer.</image:caption
+      >
+      <image:title>Being Canadian</image:title>
+    </image:image>
+  </url>
+</urlset>

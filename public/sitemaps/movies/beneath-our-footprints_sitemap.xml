@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467324-Beneath Our Footprints</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467324-Beneath Our Footprints</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aiNtmwsKr0TFJLd6cKqdWbziINt.jpg</image:loc
+      >
+      <image:caption
+        >"You are worse than her. You won't even give her a chance." "That's
+        just it. Maybe she should have given it more thought. If we hadn't been
+        born, she would have been free. She wouldn't have had to take off." "And
+        we wouldn't have been there. Would you have preferred
+        that?"</image:caption
+      >
+      <image:title>Beneath Our Footprints</image:title>
+    </image:image>
+  </url>
+</urlset>

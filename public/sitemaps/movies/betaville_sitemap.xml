@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/457222-Betaville</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/457222-Betaville</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4OuyOSyZHHlDx6psNXKPMMTu8yO.jpg</image:loc
+      >
+      <image:caption
+        >An out-of-this-world comedy cast stars in this spaced-out futuristic
+        family comedy. Welcome to Betaville, the world’s most exclusive summer
+        camp, where the world’s leaders send their children. They are the sons
+        and daughters of presidents and kings, with supervisors to care for them
+        and an army to protect them. Meanwhile, in outer space, Planet Z is
+        threatened by the evil forces of Planet 38. Planet Z’s president XM (Tim
+        Kazurinsky) launches a secret plan to trick Planet 38 into attacking
+        Earth instead. A peace-loving emissary from Planet Z recruits the
+        children of Betaville to warn the President (John Astin) about XM’s
+        secret plan.</image:caption
+      >
+      <image:title>Betaville</image:title>
+    </image:image>
+  </url>
+</urlset>

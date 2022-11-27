@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/316951-Beautiful People</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/316951-Beautiful People</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y6BxyCh7jvkoICLR3axnhxZ92BS.jpg</image:loc
+      >
+      <image:caption
+        >A group of thieves have the tables turned on them during a home
+        invasion. Hidden in the basement they find the remains of secret viral
+        lab experiments gone savagely wrong. Now they must escape before they
+        are infected with a new strain of virus that turns its victims into
+        mutated psychopaths.</image:caption
+      >
+      <image:title>Beautiful People</image:title>
+    </image:image>
+  </url>
+</urlset>

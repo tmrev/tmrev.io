@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/380124-Boo! A Madea Halloween</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/380124-Boo! A Madea Halloween</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eq1jD9QwhrZCFeaT1BudIsKzlwp.jpg</image:loc
+      >
+      <image:caption
+        >Madea winds up in the middle of mayhem when she spends a hilarious,
+        haunted Halloween fending off killers, paranormal poltergeists, ghosts,
+        ghouls, and zombies while keeping a watchful eye on a group of
+        misbehaving teens.</image:caption
+      >
+      <image:title>Boo! A Madea Halloween</image:title>
+    </image:image>
+  </url>
+</urlset>

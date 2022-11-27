@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17244-Behind the Planet of the Apes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17244-Behind the Planet of the Apes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5Ku4Sn0piPBSm24CC2B5CI3VMuN.jpg</image:loc
+      >
+      <image:caption
+        >Roddy McDowall takes you, film by film, from production meetings to
+        make-up sessions, then right onto the movie set to see the actual
+        filming of the science fiction masterpiece. The most comprehensive
+        history of Planet of the Apes ever created, this fascinating 127-minute
+        documentary explores one of the most imaginative and influential series
+        in movie history.</image:caption
+      >
+      <image:title>Behind the Planet of the Apes</image:title>
+    </image:image>
+  </url>
+</urlset>

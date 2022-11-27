@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1013606-Bo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1013606-Bo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ExTxZzgVgTny40zfkxetjViz1J.jpg</image:loc
+      >
+      <image:caption
+        >When the volatile Bo travels to Georgia to visit the grave of her
+        father, a well-known trumpeter, she runs into his former childhood
+        friend Levan. In search of her roots and a better understanding of her
+        father, she decides to hitchhike in Levan's truck. Despite the age
+        difference, they gently give in to the love they feel for each other.
+        The melancholy trumpet playing of Bo's father accompanies their journey
+        through the breathtaking Georgian landscape. In the end, they dare to
+        trust each other to the point where both Bo and Levan share their
+        darkest secrets.</image:caption
+      >
+      <image:title>Bo</image:title>
+    </image:image>
+  </url>
+</urlset>

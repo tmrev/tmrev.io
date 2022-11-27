@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56915-Blown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56915-Blown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tesN5ykFKmaZms0VIZB9DMKZcDw.jpg</image:loc
+      >
+      <image:caption
+        >Bobby and Karen are in love. When Bobby proposed, it should have been
+        the happiest day of their lives, but their neighbor, voodoo priestess
+        Esmerelda, has other plans. With the help of a mystical severed head,
+        Esmerelda plots her revenge through the eyes of a killer blow-up
+        doll.</image:caption
+      >
+      <image:title>Blown</image:title>
+    </image:image>
+  </url>
+</urlset>

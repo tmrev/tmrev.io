@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16606-Attack the Gas Station!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16606-Attack the Gas Station!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z4EXiiifZCfqE9nc4FYhcCt12Kw.jpg</image:loc
+      >
+      <image:caption
+        >A quartet of disaffected Korean youths have robbed a Seoul gas station.
+        After taking the gas station over, their wacky antics ensue; forcing the
+        manager to sing, kidnapping customers that complain about the service,
+        and staging fist-fights between street gang members and gas station
+        employees; all of these reflect their own gripes against
+        society.</image:caption
+      >
+      <image:title>Attack the Gas Station!</image:title>
+    </image:image>
+  </url>
+</urlset>

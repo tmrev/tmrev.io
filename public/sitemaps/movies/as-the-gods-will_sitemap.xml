@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/241863-As the Gods Will</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/241863-As the Gods Will</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3Obn9IR47fjhbtYtNrO7CBSrZ2w.jpg</image:loc
+      >
+      <image:caption
+        >High school student Shun Takahata is bored. Bored with the day-to-day
+        monotony of school and life, he prays for change, for something
+        exciting. Suddenly, he and his classmates are forced to play deadly
+        children's games and facing terrifying creatures from a talking Daruma
+        doll to a sharp-clawed lucky cat.</image:caption
+      >
+      <image:title>As the Gods Will</image:title>
+    </image:image>
+  </url>
+</urlset>

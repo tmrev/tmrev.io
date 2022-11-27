@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13002-Barbie in The 12 Dancing Princesses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13002-Barbie in The 12 Dancing Princesses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/opxyzBkB44ubRRyhdrvkoUFWuIj.jpg</image:loc
+      >
+      <image:caption
+        >King Randolph sends for his cousin Duchess Rowena to help turn his
+        daughters, Princess Genevieve and her 11 sisters, into better ladies.
+        But the Duchess takes away all the sisters fun, including the sisters
+        favorite pastime: dancing.Thinking all hope is lost they find a secret
+        passageway to a magical land were they can dance the night
+        away.</image:caption
+      >
+      <image:title>Barbie in The 12 Dancing Princesses</image:title>
+    </image:image>
+  </url>
+</urlset>

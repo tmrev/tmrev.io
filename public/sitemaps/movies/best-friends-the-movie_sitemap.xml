@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342828-Best Friends – The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342828-Best Friends – The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hplyNVyHJDnIOPk7qpqYXVpHcU5.jpg</image:loc
+      >
+      <image:caption
+        >News that the school is supposed to suddenly close causes great
+        agitation among the students. They decide to take direct action by
+        occupying their school... The siege commands hard-action from the
+        friends to protect their school and identities. Will they convince the
+        board to keep the school open?</image:caption
+      >
+      <image:title>Best Friends – The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

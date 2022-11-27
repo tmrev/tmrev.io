@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334903-Bakunyu Sentai Pairanger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334903-Bakunyu Sentai Pairanger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fIJG280K04gwfZmpjSXAN3vKcYU.jpg</image:loc
+      >
+      <image:caption
+        >Five sexy girls turn into fighting rangers when a gigantic monster
+        shows up to terrorize their town.</image:caption
+      >
+      <image:title>Bakunyu Sentai Pairanger</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/879294-Bearded Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/879294-Bearded Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dLz3YzYcSKFMw5fukYulhLpgEVu.jpg</image:loc
+      >
+      <image:caption
+        >"Meral, when you get married one day, make sure he's got a beard", her
+        grandmother would often say when she was a little girl. Now that she’s a
+        grown woman, Meral tries to explain to her very traditional family that
+        beards are more important to her in ways they could never have
+        imagined.</image:caption
+      >
+      <image:title>Bearded Man</image:title>
+    </image:image>
+  </url>
+</urlset>

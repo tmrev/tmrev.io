@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/679014-Black Friday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/679014-Black Friday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9WVG6t8MUBt6APc41JLNs0sM8mu.jpg</image:loc
+      >
+      <image:caption
+        >When the holiday season’s hottest new toy, the Tickle-Me Wiggly, hits
+        the shelves, the city of Hatchetfield goes mad for it, literally. That’s
+        when Tom Houston, Lex Foster, Becky Barnes and a few familiar faces,
+        must fight through a sea of murderous mall-goers to save humanity from
+        an inter dimensional being with a taste for chaos. When Wiggly comes to
+        town, will the world survive Black Friday?</image:caption
+      >
+      <image:title>Black Friday</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/210268-Bizarre Dinosaurs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/210268-Bizarre Dinosaurs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qnUAb94JvXuDhqV45sqCkoWj58K.jpg</image:loc
+      >
+      <image:caption
+        >While dinosaurs may have been some of the mightiest creatures ever to
+        have walked the earth, they also could have been among the most bizarre.
+        With extreme, exaggerated body parts, some predators were loaded with
+        outlandish or disproportionately sized appendages. Join world-renowned
+        paleontologists and travel the globe to unearth some of the lesser-known
+        but most surprising members of the dinosaur family: Mamenchisaurus,
+        whose neck alone was longer than the rest of its body; Chasmosaurus,
+        adorned with a fashionable crown of frilly spikes to attract the eyes of
+        potential suitors; Spinosaurus, with massive extensions from its
+        vertebrae that could have supported a sail or a hump; and
+        Parasaurolophus, whose tube-like head crest may look odd to us, but was
+        a mating magnet back in the day.</image:caption
+      >
+      <image:title>Bizarre Dinosaurs</image:title>
+    </image:image>
+  </url>
+</urlset>

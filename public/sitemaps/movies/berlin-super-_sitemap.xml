@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/462708-Berlin Super 80</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/462708-Berlin Super 80</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p5KbOwhztqmHWyiiHsJmuHCKg2c.jpg</image:loc
+      >
+      <image:caption
+        >Berlin Super 80 is a compilation of 18 short movies shot in Super 8 by
+        West German experimental film makers during the late 1970s/early 80s.
+        Featuring music by Malaria, Reflections, Einstürzende Neubauten, Frieder
+        Butzmann and Die Tödliche Doris. It’s a hit or miss affair with films
+        that range from the brilliant to the banal. Well worth watching for the
+        flashes of genius.</image:caption
+      >
+      <image:title>Berlin Super 80</image:title>
+    </image:image>
+  </url>
+</urlset>

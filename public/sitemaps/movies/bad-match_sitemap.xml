@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429727-Bad Match</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429727-Bad Match</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eh7CB7Z9o2HRcKTEYmSLmo6I2hh.jpg</image:loc
+      >
+      <image:caption
+        >An internet-dating playboy's life spirals out of control after meeting
+        a woman online.</image:caption
+      >
+      <image:title>Bad Match</image:title>
+    </image:image>
+  </url>
+</urlset>

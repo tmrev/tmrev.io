@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1031260-Athena: The Making Of</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1031260-Athena: The Making Of</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hxOyzG7aCv4jl2RK8IjpCPLJj6d.jpg</image:loc
+      >
+      <image:caption
+        >The making of ATHENA covers the entire production of the film and gives
+        us an in-depth perspective of the scenes that everyone is talking about,
+        from the 12-minute long shot sequence to the scene that sent the
+        cameraman 30 meters above the ground. Highlights include how Romain
+        Gavras brought his vision to the screen, along with his co-writer Ladj
+        Ly and Dali Benssalah (Abdel) and how the music, composed by GENER8TION,
+        plays a unique role to make ATHENA a modern tragedy.</image:caption
+      >
+      <image:title>Athena: The Making Of</image:title>
+    </image:image>
+  </url>
+</urlset>

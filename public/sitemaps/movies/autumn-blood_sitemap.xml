@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/237614-Autumn Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/237614-Autumn Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sZPCUqjULdmkjoJ2vqhf9ykktlL.jpg</image:loc
+      >
+      <image:caption
+        >Two young orphans in the Tirolian Mountains come under siege by a
+        vicious band of hunters. Frightened of being separated by child services
+        following the death of their mother, a self-sufficient 16-year-old girl
+        and her 10-year-old brother - who hasn't spoken a word since seeing his
+        father killed by the mayor - strive to live off the land in peace. Their
+        innocence is shattered, however, when a group of hunters led by the
+        mayor's son brutalizes and rapes the free-spirited girl. Later, when a
+        well-meaning social services worker arrives too late to protect the
+        terrorized siblings, the girl and her brother prepare to take a stand
+        against their ruthless attackers.</image:caption
+      >
+      <image:title>Autumn Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

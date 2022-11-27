@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450765-Bad Investigate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450765-Bad Investigate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/awtNMmZmqjRmOCF0ottdlidTE1j.jpg</image:loc
+      >
+      <image:caption
+        >Romeu, a corrupt cop, hires the services of Cid and Alex, to catch a
+        notorious criminal, who left Mexico and is on his way to Galicia, Spain
+        to find the killer of his brother, also trying to catch the same
+        criminal is an FBI agent.</image:caption
+      >
+      <image:title>Bad Investigate</image:title>
+    </image:image>
+  </url>
+</urlset>

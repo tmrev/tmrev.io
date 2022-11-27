@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/990424-Beyond the Train Tracks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/990424-Beyond the Train Tracks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zReQ3jyWnydY6mMtqk5TxwIuE0U.jpg</image:loc
+      >
+      <image:caption
+        >A boy encounters a trace of his lost father on tracks where time comes
+        and goes, at a station where time stops. With the help of a mysterious
+        projectionist, the boy and station master search for the truth of the
+        father's image.</image:caption
+      >
+      <image:title>Beyond the Train Tracks</image:title>
+    </image:image>
+  </url>
+</urlset>

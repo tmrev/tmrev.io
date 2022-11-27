@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157704-Bikini Open</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157704-Bikini Open</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Far from being a senseless parade of beautiful bodies, "Bikini Open,"
+        is a satire on the current state of broadcast journalism in the country.
+        That does not mean there won't be hot bodies in sexy
+        swimwear.</image:caption
+      >
+      <image:title>Bikini Open</image:title>
+    </image:image>
+  </url>
+</urlset>

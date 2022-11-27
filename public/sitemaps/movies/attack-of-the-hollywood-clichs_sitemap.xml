@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/877657-Attack of the Hollywood Clichés!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/877657-Attack of the Hollywood Clichés!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fmI1oIAwXjfX8LcZYT8Rs2rZe2R.jpg</image:loc
+      >
+      <image:caption
+        >Movie stars and members of the film industry make fun of several
+        narrative and visual clichés that are as shocking and aesthetic as they
+        are often truly ridiculous.</image:caption
+      >
+      <image:title>Attack of the Hollywood Clichés!</image:title>
+    </image:image>
+  </url>
+</urlset>

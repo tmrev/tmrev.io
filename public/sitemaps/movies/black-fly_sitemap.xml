@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298182-Black Fly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298182-Black Fly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yVLJF5tBF6jedytF1xpUr5dplPY.jpg</image:loc
+      >
+      <image:caption
+        >Jake (Dakota Daulby, Falling Skies) and Noel (Matthew MacCaull,
+        Vendetta) are estranged brothers haunted by a troubled past. In the
+        years since their father died in a hunting accident and their mother
+        committed suicide, they’ve lost touch with one another. After escaping
+        from his abusive uncle, Jake seeks refuge with Noel who now lives with
+        his girlfriend Paula (Christie Burke, Falling Skies) in the old family
+        farmhouse. Located on an isolated island, it’s the perfect place to find
+        solace and reconnect after years of separation. Or so Jake
+        thinks…</image:caption
+      >
+      <image:title>Black Fly</image:title>
+    </image:image>
+  </url>
+</urlset>

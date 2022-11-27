@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/622439-Beyond Human</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/622439-Beyond Human</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gOWnHov93QQzFrnOk78XBBliM92.jpg</image:loc
+      >
+      <image:caption
+        >The remarkable synergy between biology and technology is blurring the
+        line between man and machine. We are at a critical juncture in our
+        evolution: as technology continues to progress, humans are becoming more
+        machine-like and machines are becoming more human. With striking 3D
+        animation and special effects, Beyond Human joins inventors, scientists
+        and philosophers for an unprecedented voyage into the future of
+        bioengineering and robots.</image:caption
+      >
+      <image:title>Beyond Human</image:title>
+    </image:image>
+  </url>
+</urlset>

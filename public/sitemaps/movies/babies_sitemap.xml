@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44737-Babies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44737-Babies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zfXmRDjbMewZWAIGfKwMG5xjxzj.jpg</image:loc
+      >
+      <image:caption
+        >Babies, also known as Baby(ies) and Bébé(s), is a 2009 French
+        documentary film by Thomas Balmès that follows four infants from birth
+        to when they are one year old. The babies featured in the film are two
+        from rural areas: Ponijao from Opuwo, Namibia, and Bayar from
+        Bayanchandmani, Mongolia, as well as two from urban areas: Mari from
+        Tokyo, Japan, and Hattie from San Francisco, USA.</image:caption
+      >
+      <image:title>Babies</image:title>
+    </image:image>
+  </url>
+</urlset>

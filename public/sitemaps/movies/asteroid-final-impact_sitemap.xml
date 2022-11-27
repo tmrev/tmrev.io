@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/380088-Asteroid: Final Impact</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/380088-Asteroid: Final Impact</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qQwvL9kK28XX1bYvTsU8hSdUURD.jpg</image:loc
+      >
+      <image:caption
+        >A deadly meteor storm has been labeled a one-time celestial occurrence,
+        but astrophysicist Steve Thomas believes something worse is yet to come.
+        After discovering his asteroid tracking satellite is secretly being used
+        for military surveillance, Steve leaks the truth to the press, and it
+        costs him his reputation, his job, and his friends. With the backlash of
+        being a whistle-blower, the pressure threatens to tear his family apart,
+        just when Steve discovers a threat to the entire planet: a giant dark
+        asteroid invisible to current detection systems will soon strike the
+        Earth. Barred from using his own satellite to prove the asteroid's
+        existence, Steve is forced to work in the shadows in a desperate attempt
+        to save humanity.</image:caption
+      >
+      <image:title>Asteroid: Final Impact</image:title>
+    </image:image>
+  </url>
+</urlset>

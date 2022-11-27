@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/174349-Big Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/174349-Big Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/esSJSNDAJm8H0vpsKVU3R5gMFKp.jpg</image:loc
+      >
+      <image:caption
+        >For her latest industrial exposé, Rachel Boynton (Our Brand Is Crisis)
+        gained unprecedented access to Africa's oil companies. The result is a
+        gripping account of the costly personal tolls levied when American
+        corporate interests pursue oil in places like Ghana and the Niger River
+        Delta. Executive produced by Steven Shainberg and Brad Pitt, Big Men
+        investigates the caustic blend of ambition, corruption and greed that
+        threatens to exacerbate Africa’s resource curse.</image:caption
+      >
+      <image:title>Big Men</image:title>
+    </image:image>
+  </url>
+</urlset>

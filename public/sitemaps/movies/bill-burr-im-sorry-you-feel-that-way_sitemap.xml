@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/308571-Bill Burr: I'm Sorry You Feel That Way</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/308571-Bill Burr: I'm Sorry You Feel That Way</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/abpDJ3XyqSp0sQdG7SIAItjBHb1.jpg</image:loc
+      >
+      <image:caption
+        >Fresh, unflinching and devastatingly honest, Bill Burr lets loose in
+        this feature length comedy special. Burr shares his essential tips for
+        surviving the zombie apocalypse, exposes how rom-coms ruin great sex and
+        explains how too many childhood hugs may be the ultimate downfall of
+        man.</image:caption
+      >
+      <image:title>Bill Burr: I'm Sorry You Feel That Way</image:title>
+    </image:image>
+  </url>
+</urlset>

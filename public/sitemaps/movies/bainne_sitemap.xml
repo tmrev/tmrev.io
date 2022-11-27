@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571413-Bainne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571413-Bainne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n4DIWqBVQLAJ13Ku0bQkyCyB0Ir.jpg</image:loc
+      >
+      <image:caption
+        >An Irish ghost story set during The Great Famine of 1845-1852. It is
+        inspired by ancient Irish mythology and traditional Japanese legends, as
+        recorded by the Irish writer Lafcadio Hearn at the end of the 19th
+        century.</image:caption
+      >
+      <image:title>Bainne</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181013-Black Button</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181013-Black Button</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Mr Roberts finds himself awoken inexplicably in a white room. A man
+        sits before him at a desk and in between them stands a black button. If
+        Mr Roberts pushes it, he will receive a briefcase filled with millions
+        of dollars. Or he can take the key to the door and leave penniless. The
+        catch? Pushing the button will result in the death of a human being.
+        What would you do?</image:caption
+      >
+      <image:title>Black Button</image:title>
+    </image:image>
+  </url>
+</urlset>

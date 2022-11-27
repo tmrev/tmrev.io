@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/704630-Asylum: Twisted Horror & Fantasy Tales</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/704630-Asylum: Twisted Horror & Fantasy Tales</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3rxKic2PDrheSXMCG82vm9LAm8e.jpg</image:loc
+      >
+      <image:caption
+        >Brandon prepares to give his last stand-up comedy show. As his stories
+        and jokes pass, the public begins to cheer up. But at that precise
+        moment Brandon will realize that these stories have a strong
+        relationship with his past. More than he imagines.</image:caption
+      >
+      <image:title>Asylum: Twisted Horror & Fantasy Tales</image:title>
+    </image:image>
+  </url>
+</urlset>

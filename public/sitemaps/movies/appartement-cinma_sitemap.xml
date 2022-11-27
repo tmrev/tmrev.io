@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/937532-Appartement Cinéma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/937532-Appartement Cinéma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2k16BO5OzsdsqlrAO5ACXkdpfqJ.jpg</image:loc
+      >
+      <image:caption
+        >There is a certain hotel which caters to people who have lost their
+        way. People trying to get their lives back on track, or simply trying to
+        find out where they went wrong. One of the people staying at this hotel
+        is Wolf, who playfully follows the self-absorbed young Anna around the
+        hotel. No one knows what he did before he came there, though he used to
+        joke that he was an assassin. Anna is a one-hit movie actress who now
+        spends all of her time cultivating "patrons" to support
+        her.</image:caption
+      >
+      <image:title>Appartement Cinéma</image:title>
+    </image:image>
+  </url>
+</urlset>

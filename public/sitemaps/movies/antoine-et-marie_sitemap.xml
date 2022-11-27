@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314644-Antoine et Marie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314644-Antoine et Marie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qMdAKDup3vNiaaE6wUUBRjlRPYI.jpg</image:loc
+      >
+      <image:caption
+        >Marie leads a calm and happy life withe her boyfriend in a nice
+        suburban neighborhood. After a night out in a bar with her colleagues,
+        she wakes up dizzy, in a cab, with no memories of the night. What could
+        Marie say to her boyfriend Richard, when he suspects her of cheating on
+        him? What if Antoine, a simple auto parts delivery man, has the key to
+        this enigma.</image:caption
+      >
+      <image:title>Antoine et Marie</image:title>
+    </image:image>
+  </url>
+</urlset>

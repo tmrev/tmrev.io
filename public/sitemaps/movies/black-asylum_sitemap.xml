@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451271-Black Asylum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451271-Black Asylum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4jE12aEw2Xu84q6IeBRJNxyJCBI.jpg</image:loc
+      >
+      <image:caption
+        >Black Asylum was originally planned as a feature, which has yet to
+        happen. Instead, this 5-minute trailer was shot in order to try to tempt
+        investors. It was screened at several film festivals including the Santa
+        Monica International Film Festival.</image:caption
+      >
+      <image:title>Black Asylum</image:title>
+    </image:image>
+  </url>
+</urlset>

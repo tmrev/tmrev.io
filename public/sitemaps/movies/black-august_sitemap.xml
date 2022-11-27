@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67829-Black August</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67829-Black August</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hAligjSo8K9P6MIUhlJVrfLMGRl.jpg</image:loc
+      >
+      <image:caption
+        >The last 14 months of George Jackson's life was an existence under
+        subjective and objective conditions in California's industrial prison
+        complex. George Jackson would spend 11 years in jail (7 of which were in
+        solitary confinement) for a $70 gas station robbery crime in 1960. He
+        was 18 years of age when the sentence of one year-to-life was handed
+        down to him.</image:caption
+      >
+      <image:title>Black August</image:title>
+    </image:image>
+  </url>
+</urlset>

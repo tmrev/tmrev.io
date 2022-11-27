@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/944439-Best Man in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/944439-Best Man in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zGbrjMq0JZesROF6Xji20GBtgay.jpg</image:loc
+      >
+      <image:caption
+        >A blind washed up musician on the verge of becoming homeless seeks to
+        derail his roommate's wedding in a desperate attempt to keep from being
+        thrown out onto the street.</image:caption
+      >
+      <image:title>Best Man in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

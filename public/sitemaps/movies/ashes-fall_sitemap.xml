@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/767228-Ashes Fall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/767228-Ashes Fall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When a car bomb devastates a Nigerian neighborhood, victims flood a
+        small, unequipped relief shelter. After one of the victims is identified
+        as the bomber, Joanna, a volunteer doctor, must stand between a UN
+        Peacekeeper who watched his friend die and the man possibly responsible
+        for the explosion.</image:caption
+      >
+      <image:title>Ashes Fall</image:title>
+    </image:image>
+  </url>
+</urlset>

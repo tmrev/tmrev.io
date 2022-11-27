@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/397912-Blue - A Year In The Life Of</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/397912-Blue - A Year In The Life Of</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A look at the first year in the life of the band Blue. Includes film of
+        the boys in the studio recording their first material, behind-the-scenes
+        footage of photo-shoots and roadshows, exclusive interviews, and the
+        promo videos for the band's first singles.</image:caption
+      >
+      <image:title>Blue - A Year In The Life Of</image:title>
+    </image:image>
+  </url>
+</urlset>

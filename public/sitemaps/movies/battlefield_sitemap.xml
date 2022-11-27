@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/293385-Battlefield</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/293385-Battlefield</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nlYGZPSj2VfYkCpXpQuLAn2jCav.jpg</image:loc
+      >
+      <image:caption
+        >Two young men embark on a one night stand. Both with very different
+        understandings of the situation, they struggle to realise the true
+        connection they long for. A contemporary snapshot of where Aussie gay
+        men are on the issue of single-serve love and their desire for
+        more</image:caption
+      >
+      <image:title>Battlefield</image:title>
+    </image:image>
+  </url>
+</urlset>

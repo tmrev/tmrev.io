@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/458203-Apocalypsis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/458203-Apocalypsis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1SO61xKQUI42WI2xnD9j92IHB6G.jpg</image:loc
+      >
+      <image:caption
+        >Set in a parallel universe entering a black hole, a woman reading the
+        book of Revelation has visions of regeneration during
+        Anthropocene.</image:caption
+      >
+      <image:title>Apocalypsis</image:title>
+    </image:image>
+  </url>
+</urlset>

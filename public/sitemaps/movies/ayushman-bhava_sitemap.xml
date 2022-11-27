@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/705244-Ayushman Bhava</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/705244-Ayushman Bhava</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nNm2ndkDSdcoWbGmum60R8eJnRP.jpg</image:loc
+      >
+      <image:caption
+        >Krishna enters a big household as the caretaker of the patriarch. He
+        finds out that the granddaughter of the house, Lakshmi, has been kept
+        locked in the household because of her mentally unstable condition and
+        as a caretaker he decides to explore.</image:caption
+      >
+      <image:title>Ayushman Bhava</image:title>
+    </image:image>
+  </url>
+</urlset>

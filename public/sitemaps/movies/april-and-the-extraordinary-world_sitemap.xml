@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/340357-April and the Extraordinary World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/340357-April and the Extraordinary World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cenqAhHFJRGf08L8rgvHTlFrLuL.jpg</image:loc
+      >
+      <image:caption
+        >France asleep in the nineteenth century, governed by steam and Napoleon
+        VI, where scientists vanish mysteriously, a girl, Avril, goes in search
+        of her missing scientist parents.</image:caption
+      >
+      <image:title>April and the Extraordinary World</image:title>
+    </image:image>
+  </url>
+</urlset>

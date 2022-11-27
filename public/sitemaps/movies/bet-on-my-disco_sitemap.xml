@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/201317-Bet On My Disco</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/201317-Bet On My Disco</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hGQlN8PwRuDK4ZQX02LrOMvnHYV.jpg</image:loc
+      >
+      <image:caption
+        >When her father has a terrible accident a girl is forced to work as a
+        hostess in a popular disco bar owned by a powerful gangster. Her brother
+        tries to free her, but the gangster refuses and instead sets the
+        brother, a bad dancer, an impossible challenge: if he wants to free his
+        sister, he must win an upcoming disco contest!</image:caption
+      >
+      <image:title>Bet On My Disco</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654038-Blue: The American Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654038-Blue: The American Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yLW7ppvALsdnFGBO82inBPQ0So2.jpg</image:loc
+      >
+      <image:caption
+        >Gary "Blue" Meekins is a medium-weight fighter struggling to box his
+        way to the American dream, but Harlem's mean streets threaten to turn
+        him into another statistic when an old friend cons him into helping rob
+        a local drug dealer. But the heist goes disastrously wrong when the
+        victims turn out to be an innocent family. Wracked by guilt, Blue
+        commits himself to seeking his redemption in the ring.</image:caption
+      >
+      <image:title>Blue: The American Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

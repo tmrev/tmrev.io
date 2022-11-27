@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484189-Bend & Break</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484189-Bend & Break</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cso2s5OBUhF5Jsjl2nPQteosnIL.jpg</image:loc
+      >
+      <image:caption
+        >A group of twenty-somethings struggle through the misguided awkwardness
+        that comes with early romance. Bryce meets a French girl one day in the
+        city. Jules runs into an old flame he has secretly been in love with for
+        years. Blake realizes that his friend's sister is suddenly "all grown
+        up" and these young men are forced to come to grips with the unknown...
+        women.</image:caption
+      >
+      <image:title>Bend & Break</image:title>
+    </image:image>
+  </url>
+</urlset>

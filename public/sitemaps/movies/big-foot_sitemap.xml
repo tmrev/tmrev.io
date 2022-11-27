@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/552943-Big Foot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/552943-Big Foot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7zLaRGPtLfbYn5UNa6WmbAUiHYb.jpg</image:loc
+      >
+      <image:caption
+        >The naughtiest yeti in all of the North Pole, has come into possession
+        of the master scroll of naughty children. Bigfoot enlists the scrolls
+        powers to banish Santa to the Land of Holiday misfits, a forbidden place
+        where no one can return. Its up to a young boy and his mighty dragon to
+        rescue Santa before its too late.</image:caption
+      >
+      <image:title>Big Foot</image:title>
+    </image:image>
+  </url>
+</urlset>

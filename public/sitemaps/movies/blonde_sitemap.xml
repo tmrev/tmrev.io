@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301502-Blonde</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301502-Blonde</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg</image:loc
+      >
+      <image:caption
+        >From her volatile childhood as Norma Jeane, through her rise to stardom
+        and romantic entanglements, this reimagined fictional portrait of
+        Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to
+        explore the widening split between her public and private
+        selves.</image:caption
+      >
+      <image:title>Blonde</image:title>
+    </image:image>
+  </url>
+</urlset>

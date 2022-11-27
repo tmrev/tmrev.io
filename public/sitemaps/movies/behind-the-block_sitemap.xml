@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593687-Behind the Block</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593687-Behind the Block</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/slUMihx8wlBUTdj6UDQ482zaPm6.jpg</image:loc
+      >
+      <image:caption
+        >An incredibly comprehensive look at the movie Attack The Block that
+        takes viewers into the casting process, shares the details of the shoot,
+        offers a raw glimpse into life on the set, examines the process of
+        filming various scenes, and lots more.</image:caption
+      >
+      <image:title>Behind the Block</image:title>
+    </image:image>
+  </url>
+</urlset>

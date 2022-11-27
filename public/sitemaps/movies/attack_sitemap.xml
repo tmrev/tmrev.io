@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799155-Attack</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799155-Attack</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg</image:loc
+      >
+      <image:caption
+        >With the Parliament under siege, India’s first super soldier Arjun
+        Shergill is tasked to get hold of the terrorists in the nick of time,
+        save the Prime Minister from their clutches and stop a dirty bomb from
+        exploding and destroying Delhi. Will Arjun succeed in his
+        mission?</image:caption
+      >
+      <image:title>Attack</image:title>
+    </image:image>
+  </url>
+</urlset>

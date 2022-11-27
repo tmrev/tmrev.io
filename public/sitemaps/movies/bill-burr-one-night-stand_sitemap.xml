@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/583058-Bill Burr: One Night Stand</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/583058-Bill Burr: One Night Stand</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vnZEshQtiCTU9yr1fuBxf4KDuUs.jpg</image:loc
+      >
+      <image:caption
+        >Well-traveled comedian and 'Late Night with Conan O'Brien' regular Bill
+        Burr steps into the spotlight in this stand-up special.</image:caption
+      >
+      <image:title>Bill Burr: One Night Stand</image:title>
+    </image:image>
+  </url>
+</urlset>

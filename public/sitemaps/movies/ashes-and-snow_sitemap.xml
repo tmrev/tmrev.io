@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20110-Ashes and Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20110-Ashes and Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/os5iwmKFD2Q1b66zeBa8nkDOXkR.jpg</image:loc
+      >
+      <image:caption
+        >Ashes and Snow, a film by Gregory Colbert, uses both still and movie
+        cameras to explore extraordinary interactions between humans and
+        animals. The 60-minute feature is a poetic narrative rather than a
+        documentary. It aims to lift the natural and artificial barriers between
+        humans and other species, dissolving the distance that exists between
+        them.</image:caption
+      >
+      <image:title>Ashes and Snow</image:title>
+    </image:image>
+  </url>
+</urlset>

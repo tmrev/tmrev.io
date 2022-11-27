@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230295-Anyway, He's Definitely Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230295-Anyway, He's Definitely Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vaPysi2CVehwcRDLvjUzgCdmdpy.jpg</image:loc
+      >
+      <image:caption
+        >Two men meet in a detached house in the Stockholm archipelago to write
+        a play, hunt roe dear and relax in a sauna. But a tabloid got a news
+        story about the authors and sends a journalist to take photographs and
+        bug their conversations.</image:caption
+      >
+      <image:title>Anyway, He's Definitely Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

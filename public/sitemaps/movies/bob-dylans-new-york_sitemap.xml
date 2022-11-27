@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/275803-Bob Dylan's New York</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/275803-Bob Dylan's New York</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Journey back to the Greenwich Village clubs of the early 1960s that
+        spawned an abundance of creative legends -- including Bob Dylan -- in
+        this edition of Artsmagic's Magical History Tours series. Frequented by
+        pioneering folk musicians and beat poets, these venues saw the rise of
+        songs in support of spreading protest movements, creating an environment
+        that helped Dylan hone his musical skills, along with Dave Van Ronk, Tom
+        Paxton and others.</image:caption
+      >
+      <image:title>Bob Dylan's New York</image:title>
+    </image:image>
+  </url>
+</urlset>

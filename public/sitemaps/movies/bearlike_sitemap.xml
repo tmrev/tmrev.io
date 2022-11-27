@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666435-Bear-Like</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666435-Bear-Like</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/JnjGSvoc9FRZKQrDQY4fA66F0l.jpg</image:loc
+      >
+      <image:caption
+        >At the far end of the Alaskan peninsula, for filmmaker Roman Droux a
+        childhood dream comes true. He discovers together with the bear
+        researcher David Bittner the universe of wild grizzlies. The two
+        adventurists face bears at smelling-distance, experience the struggle
+        for survival of a bear family and witness dramatic fighting scenes.
+        Driven by a desire to explore the unknown the film tells a personal
+        story of wilderness, framed in breathtaking pictures of unique
+        creatures.</image:caption
+      >
+      <image:title>Bear-Like</image:title>
+    </image:image>
+  </url>
+</urlset>

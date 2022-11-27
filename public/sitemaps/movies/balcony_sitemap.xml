@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384873-Balcony</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384873-Balcony</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xk2cTA6tJq9CXXaIc5pz87oEecy.jpg</image:loc
+      >
+      <image:caption
+        >Tina doesn’t know much about the schoolgirl in the Hijab. She might
+        come from Egypt or Iraq – but what does it matter? She would like to be
+        there for her neighbour, to protect her from her tough life at home and
+        in the neighbourhood. But how come Tina thinks she knows so much about
+        this foreign girl? Prejudice and tentative advances collide head-on in
+        the block.</image:caption
+      >
+      <image:title>Balcony</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793339-Before They Were Kings: Vol. 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793339-Before They Were Kings: Vol. 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gI5dBsVGsrk3gxQYCoHjtcR9Vmb.jpg</image:loc
+      >
+      <image:caption
+        >With nothing more than a punch line and a dream, these (then)
+        struggling young artists transformed themselves into comedy
+        legends.</image:caption
+      >
+      <image:title>Before They Were Kings: Vol. 2</image:title>
+    </image:image>
+  </url>
+</urlset>

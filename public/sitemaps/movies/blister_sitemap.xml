@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/242426-Blister</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/242426-Blister</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6wDdfLaGH1O2L0Cdj8LtVrlija4.jpg</image:loc
+      >
+      <image:caption
+        >A 20-something action figure collector named Yuji who owns hundreds of
+        figures still sealed in their original blister packs. Lately, he's been
+        obsessed with obtaining the super-rare "Hellbanker" figure. When Yuji
+        finally tracks Hellbanker down, it turns out to be much more than just a
+        collectible toy. Meanwhile, Yuji's friends are all consumed with
+        different areas of otaku culture and their lives are affected in various
+        ways due to these obsessions.</image:caption
+      >
+      <image:title>Blister</image:title>
+    </image:image>
+  </url>
+</urlset>

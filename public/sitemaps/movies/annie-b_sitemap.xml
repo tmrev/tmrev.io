@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126053-Annie B.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126053-Annie B.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Annie who comes from a poor family is the epitome of an active and
+        lively teenager. Fernando is the owner of an ad agency. The story begins
+        when Annie halts Fernando's wedding thinking it was Fernando who got her
+        sister pregnant. It just so happened that Fernando and Annie's sister's
+        BF share the same name. The two meet again when Annie auditions for a TV
+        commercial. Despite their rocky start, the two get to know each
+        other.</image:caption
+      >
+      <image:title>Annie B.</image:title>
+    </image:image>
+  </url>
+</urlset>

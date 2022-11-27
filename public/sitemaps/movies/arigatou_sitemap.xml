@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308910-Arigatou</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308910-Arigatou</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xra5CoXrU54gJOKnsGJDZGxxg6g.jpg</image:loc
+      >
+      <image:caption
+        >In the early morning of January 17, 1995, the Great Hanshin-Awaji
+        Earthquake struck, and Tadao Furuichi (Hidekazu Akai), who was running a
+        camera store in Kobe City, lost his friends, his house, and his
+        property. Tadao is busy volunteering for the reconstruction of the town,
+        and one day he comes across his own golf bag that survived the
+        earthquake. Feeling a miracle, Tadao decides to challenge the
+        professional golf test before he turns 60.</image:caption
+      >
+      <image:title>Arigatou</image:title>
+    </image:image>
+  </url>
+</urlset>

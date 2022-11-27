@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/590025-Blur/Oasis - The Britpop Years</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/590025-Blur/Oasis - The Britpop Years</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xiZyxzHro4MivVYLEHMMt8trgep.jpg</image:loc
+      >
+      <image:caption
+        >During the 90s, Britpop dominated the airwaves and an epic pop rivalry
+        sparked into life when Blur’s single ‘Country House’ went up against
+        Oasis’s ‘Roll With It’ in the charts.</image:caption
+      >
+      <image:title>Blur/Oasis - The Britpop Years</image:title>
+    </image:image>
+  </url>
+</urlset>

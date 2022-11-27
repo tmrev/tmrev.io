@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/242546-Bayonetta: Bloody Fate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/242546-Bayonetta: Bloody Fate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dfg7dqm0YX16D6QYDKDdh3Qi930.jpg</image:loc
+      >
+      <image:caption
+        >Based on the 2009 video game, Bayonetta: Bloody Fate follows the story
+        of the titular heroine, an ancient witch who awakens from a five
+        hundred-year slumber with no memory of her life. Armed with a gun in
+        each limb, Bayonetta embarks on a journey to rediscover her past,
+        defeating all bloodthirsty angels that stand in her way.</image:caption
+      >
+      <image:title>Bayonetta: Bloody Fate</image:title>
+    </image:image>
+  </url>
+</urlset>

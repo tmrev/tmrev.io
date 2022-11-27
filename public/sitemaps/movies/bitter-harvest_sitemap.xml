@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403390-Bitter Harvest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403390-Bitter Harvest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5MpJXoATrYEjbZaFiW86bImAtGr.jpg</image:loc
+      >
+      <image:caption
+        >Set between the two World Wars and based on true historical events,
+        Bitter Harvest conveys the untold story of the Holodomor, the genocidal
+        famine engineered by the tyrant Joseph Stalin. The film displays a
+        powerful tale of love, honour, rebellion and survival at a time when
+        Ukraine was forced to adjust to the horrifying territorial ambitions of
+        the burgeoning Soviet Union.</image:caption
+      >
+      <image:title>Bitter Harvest</image:title>
+    </image:image>
+  </url>
+</urlset>

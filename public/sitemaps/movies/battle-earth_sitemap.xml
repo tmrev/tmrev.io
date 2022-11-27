@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198384-Battle Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198384-Battle Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ht1nDFXUcqgoJDhER2jnLyBderX.jpg</image:loc
+      >
+      <image:caption
+        >Confirmation of extraterrestrial life appears on television screens
+        across the world as a massive spacecraft breaks through the atmosphere
+        on a crash course into the Atlantic Ocean. A young paramedic, Greg
+        Baker, signs up to fight for his planet against the invaders. Baker
+        joins Special Forces members as the squad medic as they escort a
+        classified package by chopper over enemy territory. When their chopper
+        is shot down they find themselves surrounded and outnumbered. Desperate
+        to return to his wife's side and haunted by nightmares, Baker find that
+        his role in the war has quickly become much larger than he could have
+        ever imagined. The mysterious package may be the key to turning the tide
+        of the war, and possibly to saving all of humanity, but Baker must
+        decide whether to protect it or sacrifice it to ensure his own
+        survival.</image:caption
+      >
+      <image:title>Battle Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

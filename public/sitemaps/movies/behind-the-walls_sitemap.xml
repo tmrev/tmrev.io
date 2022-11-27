@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/503436-Behind the Walls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/503436-Behind the Walls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jk1Z2Im9DKC0snSCapdrANow4ou.jpg</image:loc
+      >
+      <image:caption
+        >Years it has waited, now someone's moved in. Through the eyes of the
+        evil within we witness a broken family desperately seeking a new
+        beginning, in a new home, but this house lives, watches and wants them
+        to stay, forever.</image:caption
+      >
+      <image:title>Behind the Walls</image:title>
+    </image:image>
+  </url>
+</urlset>

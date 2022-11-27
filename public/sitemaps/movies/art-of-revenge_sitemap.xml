@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57932-Art of Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57932-Art of Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1aas00xKO5bU9WZpRya9pTEvDl.jpg</image:loc
+      >
+      <image:caption
+        >After Matt Kane leaves his wife Lara after seven years of marriage for
+        the single, fast life that he wanted all his life after getting a
+        promotion at work, she plots revenge against him by hiring an female
+        ex-con and grifter, named Tuesday, to romance and bring him down in a
+        series of encounters and plots while loyalties begin to be tested as to
+        who is plotting against who.</image:caption
+      >
+      <image:title>Art of Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

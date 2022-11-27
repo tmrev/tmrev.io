@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214314-Bears</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214314-Bears</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dO2JdK7MonWis9Jg2im9IcVq7eJ.jpg</image:loc
+      >
+      <image:caption
+        >Filmmakers Alastair Fothergill and Keith Scholey chronicle a year in
+        the lives of an Alaskan brown bear named Sky and her cubs, Scout and
+        Amber. Their saga begins as the bears emerge from hibernation at the end
+        of winter. As time passes, the bear family must work together to find
+        food and stay safe from other predators, especially other bears.
+        Although their world is exciting, it is also risky, and the cubs'
+        survival hinges on family togetherness.</image:caption
+      >
+      <image:title>Bears</image:title>
+    </image:image>
+  </url>
+</urlset>

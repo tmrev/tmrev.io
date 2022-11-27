@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/509412-Attack of the Southern Fried Zombies</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/509412-Attack of the Southern Fried Zombies</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r05Mh8KW1BIPdbV1ayRectn4eZC.jpg</image:loc
+      >
+      <image:caption
+        >Lonnie, a crop duster pilot, must lead a mismatched group of survivors
+        to escape the deadly zombie horde after an experimental chemical,
+        intended to control the invasive kudzu vine, transforms the citizens of
+        Charleston, MS into zombies.</image:caption
+      >
+      <image:title>Attack of the Southern Fried Zombies</image:title>
+    </image:image>
+  </url>
+</urlset>

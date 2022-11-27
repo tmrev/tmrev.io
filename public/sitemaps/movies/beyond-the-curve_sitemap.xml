@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1019116-Beyond the Curve</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1019116-Beyond the Curve</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z1i8bW93wRo6KIiesjFqy0hXL3M.jpg</image:loc
+      >
+      <image:caption
+        >zilvi deals in drugs and cannot decide between Tamas who offers her
+        love in this world and the priest who offers her the chance of ethereal
+        harmony.</image:caption
+      >
+      <image:title>Beyond the Curve</image:title>
+    </image:image>
+  </url>
+</urlset>

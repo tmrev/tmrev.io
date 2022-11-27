@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430027-Blue Signal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430027-Blue Signal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >As you travel, the satellite that monitors your pulse mistakes a
+        telephone book for an ocean. It's late, they'll be gone by the time you
+        arrive, but the voice on the radio keeps your mind occupied with a story
+        about cities and sand.</image:caption
+      >
+      <image:title>Blue Signal</image:title>
+    </image:image>
+  </url>
+</urlset>

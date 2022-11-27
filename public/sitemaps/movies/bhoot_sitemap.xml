@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/107937-Bhoot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/107937-Bhoot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lHb8qSbtPAzm0yE3JhkN764veH0.jpg</image:loc
+      >
+      <image:caption
+        >A Mumbai businessman and his wife are looking for a new flat. Apartment
+        1201 has been vacant since its previous occupant jumped to her death.
+        Undeterred, the couple still decides to move in, but before long, the
+        wife starts to have visions.</image:caption
+      >
+      <image:title>Bhoot</image:title>
+    </image:image>
+  </url>
+</urlset>

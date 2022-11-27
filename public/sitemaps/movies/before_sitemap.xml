@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346797-Before</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346797-Before</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qkjmnXVJDeurJhGTs5yVyp7qXCv.jpg</image:loc
+      >
+      <image:caption
+        >Nacho was a happy 21-year-old guy, with a great family, friends and
+        girlfriend. But a year later he's not the same guy: he lives alone and
+        he doesn't care anymore about anyone. He's lost and desperate, tortured
+        by what happened a year ago.</image:caption
+      >
+      <image:title>Before</image:title>
+    </image:image>
+  </url>
+</urlset>

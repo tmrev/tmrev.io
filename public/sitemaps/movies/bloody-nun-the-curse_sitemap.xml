@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/781849-Bloody Nun 2: The Curse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/781849-Bloody Nun 2: The Curse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mPUqnNXt5kOyvd8h67ZfW9C6xik.jpg</image:loc
+      >
+      <image:caption
+        >The Bloody Nun is back, this time unleashed on a brothel, will the
+        unholy victims survive the night?</image:caption
+      >
+      <image:title>Bloody Nun 2: The Curse</image:title>
+    </image:image>
+  </url>
+</urlset>

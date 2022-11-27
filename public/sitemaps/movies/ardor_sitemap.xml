@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5252-Ardor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5252-Ardor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/588GytbVn4e5rEl7t3PvQWZp16M.jpg</image:loc
+      >
+      <image:caption
+        >In revenge for her husband's infidelity, a young beautiful housewife,
+        Mi-heun, starts an affair with an attractive young doctor, In-gyu.
+        Despite her husband's efforts to regain her love and the disapproval by
+        the conservative little town, Mi-huen gradually finds happiness and
+        satisfaction in the affair and decides to turn her back on her quiet
+        life.</image:caption
+      >
+      <image:title>Ardor</image:title>
+    </image:image>
+  </url>
+</urlset>

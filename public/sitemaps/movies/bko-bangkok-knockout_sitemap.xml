@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64205-BKO: Bangkok Knockout</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64205-BKO: Bangkok Knockout</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/GcXOHBEHqfaT3bYTb56Vd4zbEP.jpg</image:loc
+      >
+      <image:caption
+        >A group of martial arts students are enjoying a reunion party when a
+        bomb goes off in the building. When they wake up, some of their friends
+        have been kidnapped and they soon find a group of assassins coming after
+        them. The only way to survive is to fight their way out.</image:caption
+      >
+      <image:title>BKO: Bangkok Knockout</image:title>
+    </image:image>
+  </url>
+</urlset>

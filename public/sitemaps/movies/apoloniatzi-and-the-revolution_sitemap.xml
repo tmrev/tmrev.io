@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/831905-Apoloniatzi and the Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/831905-Apoloniatzi and the Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Apoloniatzi tells us his story: how the Mexican Revolution survived,
+        where he sought life, what the girls did so that the soldiers would not
+        take them away, what they ate, and how and where the war
+        ended.</image:caption
+      >
+      <image:title>Apoloniatzi and the Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

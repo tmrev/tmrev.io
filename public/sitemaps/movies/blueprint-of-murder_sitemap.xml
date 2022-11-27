@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160835-Blueprint of Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160835-Blueprint of Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pUUtsB0wBEGRrqAGQNLEq11BBta.jpg</image:loc
+      >
+      <image:caption
+        >Yuzo Kayama plays the protagonist, a whale-hunting cannon manufactuing
+        supervisor, whose brother is an automobile tester for Komatsu Motors
+        which has a fatal accident. As his brother investigates the "Accident"
+        with his old college friend (makoto Sato), now a reporter... They
+        stumble across murder, espionage and cover-ups. High-class night club,
+        femme fatale, and a "Blueprint of Murder" all adds up to a bigger plot
+        then first expected.</image:caption
+      >
+      <image:title>Blueprint of Murder</image:title>
+    </image:image>
+  </url>
+</urlset>

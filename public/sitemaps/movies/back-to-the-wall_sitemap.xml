@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105670-Back to the Wall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105670-Back to the Wall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aRKimjbsxZJGywNPXVzELRF0TLz.jpg</image:loc
+      >
+      <image:caption
+        >Rich industrialist Jacques Decret learns his wife Gloria is having an
+        affair with a young actor. For revenge, he bombards her with anonymous
+        letters, convincing her that her lover is the culprit while Gloria
+        desperately seeks a way out.</image:caption
+      >
+      <image:title>Back to the Wall</image:title>
+    </image:image>
+  </url>
+</urlset>

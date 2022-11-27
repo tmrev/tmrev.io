@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9564-Asterix & Obelix Take on Caesar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9564-Asterix & Obelix Take on Caesar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg</image:loc
+      >
+      <image:caption
+        >Set in 50 B.C., Asterix and Obelix are living in a small but
+        well-protected village in Gaul, where a magic potion concocted by Druids
+        turns the townsfolk into mighty soldiers. When Roman troops carve a path
+        through Gaul to reach the English Channel, Caesar and his aide de camp
+        Detritus discover the secret elixir and capture the Druid leader who
+        knows its formula, and Asterix and Obelix are sent off to rescue
+        them.</image:caption
+      >
+      <image:title>Asterix & Obelix Take on Caesar</image:title>
+    </image:image>
+  </url>
+</urlset>

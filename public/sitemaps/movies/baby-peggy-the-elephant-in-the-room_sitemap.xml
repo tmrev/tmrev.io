@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/132386-Baby Peggy, the Elephant in the Room</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/132386-Baby Peggy, the Elephant in the Room</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5Kr2MryAmkpsj2ZBElnpz73lhgj.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about an extraordinary lady, Diana Serra Cary (born
+        Peggy-Jean Montgomery). In the early 1920s she was one of Hollywood's
+        first major child stars, Baby Peggy.</image:caption
+      >
+      <image:title>Baby Peggy, the Elephant in the Room</image:title>
+    </image:image>
+  </url>
+</urlset>

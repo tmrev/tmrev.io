@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429523-Aside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429523-Aside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7syRvCUY58denoswXmorTKeKNuV.jpg</image:loc
+      >
+      <image:caption
+        >Rare images of real life stories in the so-called "asentamientos" in
+        the poor underbelly of Uruguay's capital, Montevideo, and in its youth
+        jails. The difficulties of finding a job and scraping together some
+        money, the temptations of crime and its harsh consequences, the lack of
+        culture and knowledge of the basics of life, are all intertwined in
+        parallel lives.</image:caption
+      >
+      <image:title>Aside</image:title>
+    </image:image>
+  </url>
+</urlset>

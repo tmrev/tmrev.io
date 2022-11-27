@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31058-Bitter Rice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31058-Bitter Rice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tWt56ifJym4Uu1tWFsqxAeX6WEL.jpg</image:loc
+      >
+      <image:caption
+        >Francesca and Walter are two-bit criminals in Northern Italy, and, in
+        an effort to avoid the police, Francesca joins a group of women rice
+        workers. She meets the voluptuous peasant rice worker, Silvana, and the
+        soon-to-be-discharged soldier, Marco. Walter follows her to the rice
+        fields, and the four characters become involved in a complex plot
+        involving robbery, love, and murder.</image:caption
+      >
+      <image:title>Bitter Rice</image:title>
+    </image:image>
+  </url>
+</urlset>

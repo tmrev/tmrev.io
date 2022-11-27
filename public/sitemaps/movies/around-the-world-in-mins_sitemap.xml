@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/128398-Around The World In 60 Mins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/128398-Around The World In 60 Mins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film takes the viewer on a unique journey around the weird and
+        wonderful planet that we call home. When Yuri Gagarin was blasted into
+        space he became the first human to get a proper look at where we live.
+        The Earth is blue he exclaimed, how amazing! Suddenly our perspective on
+        the world had changed forever. We thought we were going to explore the
+        universe, yet the most extraordinary thing we discovered was our own
+        home planet, the Earth. So what would you see during just one orbit of
+        the earth?</image:caption
+      >
+      <image:title>Around The World In 60 Mins</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571733-Beyoncé: Year of 4</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571733-Beyoncé: Year of 4</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ruVOT4vZ1i4DsYbBc17CyAVg2Wz.jpg</image:loc
+      >
+      <image:caption
+        >"Beyoncé: Year of 4" documents the year-long personal and artistic
+        journey that inspired Beyoncé's fourth solo album, 4.</image:caption
+      >
+      <image:title>Beyoncé: Year of 4</image:title>
+    </image:image>
+  </url>
+</urlset>

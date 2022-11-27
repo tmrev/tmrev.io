@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/221764-Behind the Power</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/221764-Behind the Power</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qwTIdtPvKvOzNgc0spyPeGhpg3c.jpg</image:loc
+      >
+      <image:caption
+        >What would you do if one day you open the door of your house and a man
+        you've never seen hits you, ties you to a chair, pulls out a bottle of
+        tequila and start counting you his life? In addition, little by little,
+        you start to realize that this seemingly odd man knows everything about
+        you and his main intent is to give you a shot in the head. Based on true
+        events, this is what happens to Michael, an attorney/deputy happily
+        married to a privileged life who in less than an hour starts to lose
+        everything. Perhaps this stranger comes to present him something that
+        everybody wants to have: Power. "Behind the Power" is a thriller that
+        will make you question your country, your life and your
+        heart.</image:caption
+      >
+      <image:title>Behind the Power</image:title>
+    </image:image>
+  </url>
+</urlset>

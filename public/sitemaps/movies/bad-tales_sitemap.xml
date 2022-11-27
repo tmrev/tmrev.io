@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614292-Bad Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614292-Bad Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k2NTmlJkdHhEZtKGQhQz5ovozAB.jpg</image:loc
+      >
+      <image:caption
+        >In a small suburb on the outskirts of Rome, the cheerful heat of summer
+        camouflages a stifling atmosphere of alienation. From a distance, the
+        families seem normal, but it’s an illusion: in the houses, courtyards
+        and gardens, silence shrouds the subtle sadism of the fathers, the
+        passivity of the mothers and the guilty indifference of adults. But it’s
+        the desperation and repressed rage of the children that will explode and
+        cut through this grotesque façade, with devastating consequences for the
+        entire community.</image:caption
+      >
+      <image:title>Bad Tales</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/422545-Because I Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/422545-Because I Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aK9UlvDQohZMc1qh83uBmoWtMDp.jpg</image:loc
+      >
+      <image:caption
+        >Lee Hyeong is a talented songwriter. He happens to connect people who
+        are not good with love. Those include Hyeong-Gyeong who wants to become
+        a singer, but she suffers from stage fright. Scully is a high school
+        student. She helps Lee Hyeong's spirit. Chan-Young is a colleague of Lee
+        Hyeong and he likes Hyeong-Gyeong, but in vain.</image:caption
+      >
+      <image:title>Because I Love You</image:title>
+    </image:image>
+  </url>
+</urlset>

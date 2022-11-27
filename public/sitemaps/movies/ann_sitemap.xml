@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/621937-Ann</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/621937-Ann</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vI2ALcKa31mYshehOduDKzlKNgC.jpg</image:loc
+      >
+      <image:caption
+        >Ann is a no-holds-barred portrait of Ann Richards, the legendary
+        governor of Texas. This inspiring and hilarious new play brings us face
+        to face with a complex, colorful and captivating character bigger than
+        the state from which she hailed. Written and performed by Emmy Award
+        winner Holland Taylor, Ann takes a revealing look at the impassioned
+        woman who enriched the lives of her followers, friends and
+        family.</image:caption
+      >
+      <image:title>Ann</image:title>
+    </image:image>
+  </url>
+</urlset>

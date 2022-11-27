@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253252-Billo - Il grand Dakhaar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253252-Billo - Il grand Dakhaar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dL09kP3rLagRi5hZP4ynUHr2vrB.jpg</image:loc
+      >
+      <image:caption
+        >A Senegalese boy arrives in Italy in search of fortune, with the desire
+        to work in the fashion world. But life throws in some tragicomic
+        situations.</image:caption
+      >
+      <image:title>Billo - Il grand Dakhaar</image:title>
+    </image:image>
+  </url>
+</urlset>

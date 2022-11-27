@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43287-Baby Genius: The Four Seasons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43287-Baby Genius: The Four Seasons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Designed for preschoolers, this colorful program adds engaging visuals
+        to Antonio Vivaldi's "The Four Seasons," a set of four violin concertos
+        that embody the unique personalities of spring, summer, fall and winter.
+        As Vivaldi's timeless composition plays in the background, little ones
+        will see lively scenes involving birds, bees and flowers. Later, as the
+        weather grows colder, pumpkin patches, snowmen and holiday decorations
+        take center stage.</image:caption
+      >
+      <image:title>Baby Genius: The Four Seasons</image:title>
+    </image:image>
+  </url>
+</urlset>

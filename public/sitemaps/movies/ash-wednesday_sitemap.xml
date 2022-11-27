@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26225-Ash Wednesday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26225-Ash Wednesday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sKyxf1nGw0iCIjXzlq6lIsVqq0g.jpg</image:loc
+      >
+      <image:caption
+        >Ash Wednesday is set in the Manhattan of the early 1980's and is about
+        a pair of Irish-American brothers who become embroiled in a conflict
+        with the Irish Mob.</image:caption
+      >
+      <image:title>Ash Wednesday</image:title>
+    </image:image>
+  </url>
+</urlset>

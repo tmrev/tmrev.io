@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1031936-Another Part of Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1031936-Another Part of Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eWWFR1KONlVOXwApbrmUDj4ZD0w.jpg</image:loc
+      >
+      <image:caption
+        >Another Part of Town follows four friends as each of them embarks upon
+        a typical Friday night, which ends up being more than they expected.
+        Scott, Dan, Jay and Moses meet every Saturday for breakfast to discuss
+        the night before, but at this breakfast the tone of the table is very
+        different. Last night each of them had a realization, while they were
+        living out their lives, in Another Part of Town.</image:caption
+      >
+      <image:title>Another Part of Town</image:title>
+    </image:image>
+  </url>
+</urlset>

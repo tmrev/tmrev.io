@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/258123-Basette</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/258123-Basette</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7RN7Yeby2CEozUJvYRdVxVua8DR.jpg</image:loc
+      >
+      <image:caption
+        >Antonio's first day as a thief is marked by tears. During an incursion
+        at the mall, his mother is arrested. Some 20 years later, Antonio along
+        with his two inseparable friends, after some minor robberies, take on a
+        post office. Things don't go as planned.</image:caption
+      >
+      <image:title>Basette</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473339-Arcadia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473339-Arcadia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8DFzySnJSMlijPI6EXReaQJPqjP.jpg</image:loc
+      >
+      <image:caption
+        >A provocative and poetic exploration of how the British people have
+        seen their own land through more than a century of cinema. A
+        hallucinated journey of immense beauty and brutality. A kaleidoscopic
+        essay on how magic and madness have linked human beings to nature since
+        the beginning of time.</image:caption
+      >
+      <image:title>Arcadia</image:title>
+    </image:image>
+  </url>
+</urlset>

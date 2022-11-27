@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17668-Ben Harper: Pleasure and Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17668-Ben Harper: Pleasure and Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mo0NFReDyhctMJK3lUoxlq9kWBR.jpg</image:loc
+      >
+      <image:caption
+        >Documentary on roots rocker Ben Harper and his band, the Innocent
+        Criminals - featuring music from his album "Pleasure and
+        Pain".</image:caption
+      >
+      <image:title>Ben Harper: Pleasure and Pain</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370588-Backyard Blockbusters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370588-Backyard Blockbusters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zsGGLUsxBLAME4kTH3A0OW81ufC.jpg</image:loc
+      >
+      <image:caption
+        >For years, people have been making home movies, many times using pop
+        culture properties that they may not own, but love. In recent years,
+        these types of projects have come to be known as "fanfilms". Backyard
+        Blockbusters looks at the history and influence of the fanfilm genre, as
+        well as the copyright and fair use problems these films create,
+        featuring highlights from and interviews with the creators of many
+        popular films.</image:caption
+      >
+      <image:title>Backyard Blockbusters</image:title>
+    </image:image>
+  </url>
+</urlset>

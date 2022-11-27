@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450794-BABYMETAL: Live At Tokyo Dome</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450794-BABYMETAL: Live At Tokyo Dome</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wYwRu3RSjq6XeYuB3dAwEEzrdSW.jpg</image:loc
+      >
+      <image:caption
+        >"Babymetal: Live At Tokyo Dome" is the sixth live video release by
+        BABYMETAL. Featuring two concerts, "Red Night" held on September 19th,
+        2016 and "Black Night" held on September 20th, 2016, at the Tokyo
+        Dome</image:caption
+      >
+      <image:title>BABYMETAL: Live At Tokyo Dome</image:title>
+    </image:image>
+  </url>
+</urlset>

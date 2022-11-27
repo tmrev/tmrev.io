@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/879400-Besties</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/879400-Besties</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7L3K2Qnm35TpHxHmwfHgajFPiYY.jpg</image:loc
+      >
+      <image:caption
+        >The life of Nedjma, a teenager who lives in Paris with her mother and
+        her little sister, is turned upside down the summer she meets
+        Zina.</image:caption
+      >
+      <image:title>Besties</image:title>
+    </image:image>
+  </url>
+</urlset>

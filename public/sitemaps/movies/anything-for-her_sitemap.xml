@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14556-Anything for Her</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14556-Anything for Her</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e8iom9xZi9bE2nN2TTYp3efyqvj.jpg</image:loc
+      >
+      <image:caption
+        >Lisa and Julien are married and lead a happy uneventful life with their
+        son Oscar. But their life radically changes one morning, when the police
+        comes to arrest Lisa on murder charges. She's sentenced to 20 years of
+        prison. Convinced of his wife's innocence, Julien decides to act. How
+        far will he be willing to go for her?</image:caption
+      >
+      <image:title>Anything for Her</image:title>
+    </image:image>
+  </url>
+</urlset>

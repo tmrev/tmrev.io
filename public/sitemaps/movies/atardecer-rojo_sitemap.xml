@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/975544-Atardecer rojo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/975544-Atardecer rojo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A38I0gKfaE9DbE5mLVo2zq2nSUk.jpg</image:loc
+      >
+      <image:caption
+        >Every time we can’t find something important, it seems like we have
+        lost ourselves. Ulises and Ana are a young couple. One day they go to
+        Ana’s field, and Ulises loses his keys. From that moment, Ulises will
+        only speak to Ana to ask if they have appeared.</image:caption
+      >
+      <image:title>Atardecer rojo</image:title>
+    </image:image>
+  </url>
+</urlset>

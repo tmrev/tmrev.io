@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48115-Bang-Bang Wedding!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48115-Bang-Bang Wedding!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zyIfrWCdDp57GOFHFgLoJGqpk6o.jpg</image:loc
+      >
+      <image:caption
+        >In this fast-paced Greek wedding comedy, young lovers Ilias and Marina
+        arrive on the island of Crete for their wedding, along with their large,
+        boisterous families all eager to celebrate the nuptials. However, when a
+        typo on the wedding invitation confuses the reception venue and scatters
+        the guests in different directions, they embark on a collision course of
+        increasingly comedic proportions.</image:caption
+      >
+      <image:title>Bang-Bang Wedding!</image:title>
+    </image:image>
+  </url>
+</urlset>

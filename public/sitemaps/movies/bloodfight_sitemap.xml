@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41289-Bloodfight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41289-Bloodfight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4dvfxBT3OqIONZK6apAL7ERVC85.jpg</image:loc
+      >
+      <image:caption
+        >Master martial artist Masahiro Kai is a shadow of the champion fighter
+        and trainer he once was. After his protégé was slain in a
+        no-holds-barred, underground fight by the incomparable Chang Lee, Kai
+        slips into a numbing alcohol-induced stupor to try to forget the
+        past.</image:caption
+      >
+      <image:title>Bloodfight</image:title>
+    </image:image>
+  </url>
+</urlset>

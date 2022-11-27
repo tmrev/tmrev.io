@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/706712-Beauty Water</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/706712-Beauty Water</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pFotlGivCvAWi3SvPycacqju6dN.jpg</image:loc
+      >
+      <image:caption
+        >Beauty Water looks like a common skin cosmetic. But unlike other
+        cosmetics, people can sculpt their skin with it like molding clay and
+        change their appearance. An ordinary girl, Yaeji, comes across the
+        'Beauty Water' by chance, and her endless desire to be the most
+        beautiful woman brings her unimaginable disaster.</image:caption
+      >
+      <image:title>Beauty Water</image:title>
+    </image:image>
+  </url>
+</urlset>

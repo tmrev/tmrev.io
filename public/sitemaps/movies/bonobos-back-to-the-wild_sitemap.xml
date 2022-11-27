@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62176-Bonobos: Back to the Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62176-Bonobos: Back to the Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aNxKF7cJg98ZIzE4FAMOnvOGvFk.jpg</image:loc
+      >
+      <image:caption
+        >The critically important work by renowned naturalist Claudine Andre to
+        save the endangered bonobo apes of the Congo is presented in this
+        visually stunning feature film.</image:caption
+      >
+      <image:title>Bonobos: Back to the Wild</image:title>
+    </image:image>
+  </url>
+</urlset>

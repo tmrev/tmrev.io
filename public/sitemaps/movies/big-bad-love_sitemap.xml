@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75151-Big Bad Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75151-Big Bad Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fEqhy0eUSxEU38JbV1fvozVUkpD.jpg</image:loc
+      >
+      <image:caption
+        >Vietnam veteran Leon Barlow is struggling as a writer, and his personal
+        life isn't much better. His unsympathetic ex-wife Marilyn doesn't
+        approve of his visits with his two children, and he has problems with
+        alcohol. Yet even when Leon manages to catch up on alimony and child
+        support payments, things in his life seem to decline further, until a
+        sudden tragedy catches him off guard.</image:caption
+      >
+      <image:title>Big Bad Love</image:title>
+    </image:image>
+  </url>
+</urlset>

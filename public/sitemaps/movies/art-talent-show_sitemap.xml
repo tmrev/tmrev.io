@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/993283-Art Talent Show</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/993283-Art Talent Show</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5bczAans3psltbHRjFzjiaTDVcE.jpg</image:loc
+      >
+      <image:caption
+        >Artistic endeavour isn’t about competing; even so, applicants still
+        have to be placed in order of merit at the academy’s entrance exams. But
+        how do you assess artistic talent? And what role can art play in today’s
+        world? A layered, observational documentary which presents a portrait of
+        an institution and a light generational statement in one.</image:caption
+      >
+      <image:title>Art Talent Show</image:title>
+    </image:image>
+  </url>
+</urlset>

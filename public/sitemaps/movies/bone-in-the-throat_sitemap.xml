@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324256-Bone in the Throat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324256-Bone in the Throat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kW489lo9AreMAPaY8AbYkwjjJrI.jpg</image:loc
+      >
+      <image:caption
+        >A young ambitious chef gets mixed up with the East End London mob.
+        While showing off his culinary skills, he finds himself
+        trapped.</image:caption
+      >
+      <image:title>Bone in the Throat</image:title>
+    </image:image>
+  </url>
+</urlset>

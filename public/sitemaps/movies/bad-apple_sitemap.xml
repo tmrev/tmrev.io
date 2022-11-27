@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50597-Bad Apple</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50597-Bad Apple</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/23jclGU24ix1hJGdlrqlYKzVxHd.jpg</image:loc
+      >
+      <image:caption
+        >Black Comedy about a undercover FBI agent in New York who falls for his
+        informant's sister resulting in a deadly game between the criminals and
+        cops.</image:caption
+      >
+      <image:title>Bad Apple</image:title>
+    </image:image>
+  </url>
+</urlset>

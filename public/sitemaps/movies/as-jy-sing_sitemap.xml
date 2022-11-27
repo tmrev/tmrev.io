@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/256459-As Jy Sing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/256459-As Jy Sing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/luxHbuKHuvOQkk1CzYNDvFE9TUM.jpg</image:loc
+      >
+      <image:caption
+        >Several pupils from Hoër Volkskool Heidelberg are on their way to
+        compete in a singing competition; but the majority of the school,
+        including the principal, is not supportive. In this school, sport far
+        outweighs culture. However, this does not stop the singers from the
+        group to follow their passion. The principal wants to sabotage the
+        group’s tour and sends one of the school’s teachers to distract the
+        music teacher. They eventually arrive at a camp where they are treated
+        as if they were in the army. This is all the principal’s
+        doing.</image:caption
+      >
+      <image:title>As Jy Sing</image:title>
+    </image:image>
+  </url>
+</urlset>

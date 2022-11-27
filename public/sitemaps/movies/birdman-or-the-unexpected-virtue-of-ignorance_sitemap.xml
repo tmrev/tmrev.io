@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/194662-Birdman or (The Unexpected Virtue of
+      Ignorance)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/194662-Birdman or (The Unexpected Virtue of
+      Ignorance)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg</image:loc
+      >
+      <image:caption
+        >A fading actor best known for his portrayal of a popular superhero
+        attempts to mount a comeback by appearing in a Broadway play. As opening
+        night approaches, his attempts to become more altruistic, rebuild his
+        career, and reconnect with friends and family prove more difficult than
+        expected.</image:caption
+      >
+      <image:title>Birdman or (The Unexpected Virtue of Ignorance)</image:title>
+    </image:image>
+  </url>
+</urlset>

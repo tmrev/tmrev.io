@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/265981-Beck 21 - The Japanese Painting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/265981-Beck 21 - The Japanese Painting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/99eIrqFdsnfhKAFcc3t6Ag3cfpB.jpg</image:loc
+      >
+      <image:caption
+        >After a woman buys a Japanese shunga painting from an auction and later
+        is found murdered in a hotel in Stockholm, the police gets dragged into
+        a murder investigation where they meet the dark side of the art
+        world.</image:caption
+      >
+      <image:title>Beck 21 - The Japanese Painting</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26694-Big River Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26694-Big River Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ao3q9h6ckrLXdU8FyyrN2AdnwDR.jpg</image:loc
+      >
+      <image:caption
+        >Follows Martin Strel as he attempts to cover 3,375 miles of the Amazon
+        River in what is being billed as the world's longest
+        swim.</image:caption
+      >
+      <image:title>Big River Man</image:title>
+    </image:image>
+  </url>
+</urlset>

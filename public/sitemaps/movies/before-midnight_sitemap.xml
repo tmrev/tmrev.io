@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/132344-Before Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/132344-Before Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3kKz77vTXEezBiyBsi5jZ9cUc1I.jpg</image:loc
+      >
+      <image:caption
+        >It has been nine years since we last met Jesse and Celine, the
+        French-American couple who once met on a train in Vienna. Now, live in
+        Paris with twin daughters, but have spent a summer in Greece on the
+        invitation of an author colleague of Jesse's. When the vacation is over
+        and Jesse must send his teenage son off to the States, he begins to
+        question his life decisions, and his relationship with Celine is at
+        risk.</image:caption
+      >
+      <image:title>Before Midnight</image:title>
+    </image:image>
+  </url>
+</urlset>

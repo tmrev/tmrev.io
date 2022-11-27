@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416051-Based on a True Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416051-Based on a True Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w9OGJ6bE5vNYyIjIPz9QUqBO1ya.jpg</image:loc
+      >
+      <image:caption
+        >Delphine is the author of an autobiographical novel that has become a
+        bestseller. Exhausted by the promotional tour, just when she feels out
+        of place, paralyzed by the idea of having to start writing again, she
+        meets Elle, a young, attractive, intelligent, intuitive woman who seems
+        to understand her better than anyone.</image:caption
+      >
+      <image:title>Based on a True Story</image:title>
+    </image:image>
+  </url>
+</urlset>

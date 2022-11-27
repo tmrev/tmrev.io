@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27286-Beautiful Losers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27286-Beautiful Losers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9gllAA4UnQWQVkpe2RVXTOMr90P.jpg</image:loc
+      >
+      <image:caption
+        >This documentary follows the lives and careers of a collective group of
+        do-it-yourself artists and designers who inadvertently affected the art
+        world.</image:caption
+      >
+      <image:title>Beautiful Losers</image:title>
+    </image:image>
+  </url>
+</urlset>

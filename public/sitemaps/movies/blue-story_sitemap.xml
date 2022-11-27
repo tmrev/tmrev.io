@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/621191-Blue Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/621191-Blue Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wUggWBMN8xUNVasYsroyUUPmaKa.jpg</image:loc
+      >
+      <image:caption
+        >Blue Story is a tragic tale of a friendship between Timmy and Marco,
+        two young boys from opposing postcodes. Timmy, a shy, smart, naive and
+        timid young boy from Deptford, goes to school in Peckham where he
+        strikes up a friendship with Marco, a charismatic, streetwise kid from
+        the local area. Although from warring postcodes, the two quickly form a
+        firm friendship until it is tested and they wind up on rival sides of a
+        street war. Blue Story depicts elements of Rapman's own personal
+        experiences and aspects of his childhood.</image:caption
+      >
+      <image:title>Blue Story</image:title>
+    </image:image>
+  </url>
+</urlset>

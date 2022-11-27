@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/245347-Bijlmer Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/245347-Bijlmer Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lJyNY3fUyWISEpYaOBGo27Msqiv.jpg</image:loc
+      >
+      <image:caption
+        >Bijlmer Odyssey is a romantic comedy about two young lovers who were
+        made for each other. Lost and separated from each other in a labyrinth
+        of high-rise flats, they become entangled in comical adventures and meet
+        colourful locals who ultimately help them find each other again. With a
+        nod to the classical Odyssey of Homer, this heart-warming, big-city
+        comedy of errors provides an unusual and enchanting view of the Bijlmer,
+        a low-income estate district on the outskirts of
+        Amsterdam.</image:caption
+      >
+      <image:title>Bijlmer Odyssey</image:title>
+    </image:image>
+  </url>
+</urlset>

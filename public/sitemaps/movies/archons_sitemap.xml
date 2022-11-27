@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553357-Archons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553357-Archons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i0qdO371R0awkVLYqIfLrPn4pXc.jpg</image:loc
+      >
+      <image:caption
+        >Archons is the story of falling-from-grace rock group, Sled Dog, half a
+        decade after the release of their hit single, Backfire. After a chance
+        encounter with rock-legend and life-long idol, Emerson Gilmore, Eric is
+        willing to take one more chance at success, the way Emerson Gilmore did
+        it back in the 70s—out in the Canadian mountains with a guitar and a bag
+        of psychedelic drugs.</image:caption
+      >
+      <image:title>Archons</image:title>
+    </image:image>
+  </url>
+</urlset>

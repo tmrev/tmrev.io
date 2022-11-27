@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198444-Blitz Patrollie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198444-Blitz Patrollie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/whdoEQSMruifZp3bmIAT8qiarrB.jpg</image:loc
+      >
+      <image:caption
+        >Blitz Patrollie chronicles the adventures of Rummy Augustine (Joey
+        Rasdien) and his partner, Ace Dikolobe (David Kau), police officers who
+        have had the misfortune of being stationed in a little known depot in
+        the belly of the Johannesburg CBD.</image:caption
+      >
+      <image:title>Blitz Patrollie</image:title>
+    </image:image>
+  </url>
+</urlset>

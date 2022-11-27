@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/988163-Bear Has a Story to Tell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/988163-Bear Has a Story to Tell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kptzmuY4PtZK4KC0B3G7YCQ50o8.jpg</image:loc
+      >
+      <image:caption
+        >In this endearing tale of friendship, animals are helped by Bear to get
+        ready for winter. But will they be awake long enough for him to tell his
+        story?</image:caption
+      >
+      <image:title>Bear Has a Story to Tell</image:title>
+    </image:image>
+  </url>
+</urlset>

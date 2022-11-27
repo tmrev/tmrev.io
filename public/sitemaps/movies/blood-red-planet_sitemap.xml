@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/144086-Blood Red Planet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/144086-Blood Red Planet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2dKTVccdQTNqRy8QPzu3JOft1h7.jpg</image:loc
+      >
+      <image:caption
+        >From beyond the galaxy comes a terror heading toward earth, destroying
+        everything in its path: a rogue planetoid from the outer reaches of the
+        cosmos itself. After a failed attempt by the Omega 1 to eliminate the
+        mysterious space entity, the crew of the Omega 2 blast off as the last
+        hope for mankind. As minutes and seconds tick away, the motley crew
+        discovers the terrible secret inside the planetoid. They're the only
+        ones keeping the human race from total extinction! Can the world be
+        saved ?!</image:caption
+      >
+      <image:title>Blood Red Planet</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45109-Between Sheets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45109-Between Sheets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/al1LB4GKPeKwcwENlmroWr5ojE9.jpg</image:loc
+      >
+      <image:caption
+        >Two strangers meet in a nightclub and end up spending the night
+        together in a hotel. Roberto has just came out of a failed relationship
+        and Paula wants to enjoy her last moments of freedom before getting
+        married the next day. After making a pact of sincerity, they spend a
+        night filled with interesting conversations and passion.</image:caption
+      >
+      <image:title>Between Sheets</image:title>
+    </image:image>
+  </url>
+</urlset>

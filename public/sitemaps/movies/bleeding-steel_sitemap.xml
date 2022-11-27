@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/460648-Bleeding Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/460648-Bleeding Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vL1KMUr0Jj6kEZ5YPZO7VQBZMLl.jpg</image:loc
+      >
+      <image:caption
+        >Jackie Chan stars as a hardened special forces agent who fights to
+        protect a young woman from a sinister criminal gang. At the same time,
+        he feels a special connection to the young woman, like they met in a
+        different life.</image:caption
+      >
+      <image:title>Bleeding Steel</image:title>
+    </image:image>
+  </url>
+</urlset>

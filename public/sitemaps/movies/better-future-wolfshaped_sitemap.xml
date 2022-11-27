@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/827319-Better Future, Wolf-Shaped</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/827319-Better Future, Wolf-Shaped</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/snsiFTjCTxGyja4HpGYqJRzMJSA.jpg</image:loc
+      >
+      <image:caption
+        >A peripheral cult of worshipers fashions its own offerings to their
+        Modernist ancestors in the form of architectural models of their great
+        monuments made of corn husk. These are ritually constructed and burnt
+        against the background of Celtic sites in Cornwall, as the group dons
+        makeshift salad bowl and lampshade helmets, leading up to a
+        choreographed homage to the square, and a short dance
+        routine.</image:caption
+      >
+      <image:title>Better Future, Wolf-Shaped</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13715-At Close Range</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13715-At Close Range</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/psovrxpKpIc7WRZw2hfvVBrJLOa.jpg</image:loc
+      >
+      <image:caption
+        >Brad Whitewood Jr. lives in rural Pennsylvania and has few prospects.
+        Against his mother's wishes, he seeks out his estranged father, the head
+        of a gang of thieves in a nearby town. Though his new girlfriend
+        supports his criminal ambitions, Brad Jr. soon learns that his father is
+        a dangerous man. Inspired by the real events that led to the end of the
+        Johnston Gang, who operated in the northeastern United States in the
+        1970s.</image:caption
+      >
+      <image:title>At Close Range</image:title>
+    </image:image>
+  </url>
+</urlset>

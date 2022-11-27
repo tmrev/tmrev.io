@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328449-Arbor Vitae</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328449-Arbor Vitae</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ggrQm3G6AEBqEXrR4IN6VRRrVOG.jpg</image:loc
+      >
+      <image:caption
+        >Arbor Vitae is a gesture towards a cinema of pure being. Its atmosphere
+        is haunted by the period in which it was shot, the year of 1999.
+        Although the cuts are open and numerous in their intent, the underlying
+        motivation is the delicate reveal of the transparency of presence, our
+        tender mystery midst the elaborate unfolding of the tree of
+        life.</image:caption
+      >
+      <image:title>Arbor Vitae</image:title>
+    </image:image>
+  </url>
+</urlset>

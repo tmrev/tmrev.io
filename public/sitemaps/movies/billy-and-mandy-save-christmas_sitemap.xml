@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/925946-Billy and Mandy Save Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/925946-Billy and Mandy Save Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4XjisTfsdBSVWBIwumtz1qvvRWX.jpg</image:loc
+      >
+      <image:caption
+        >Santa has been turned into a vampire, and only Billy and Mandy can turn
+        him back and save Christmas.</image:caption
+      >
+      <image:title>Billy and Mandy Save Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

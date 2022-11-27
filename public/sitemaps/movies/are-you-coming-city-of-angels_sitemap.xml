@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475812-Are You Coming?! - City of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475812-Are You Coming?! - City of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n5qyICO54IiZRY3NmUC2ThCSilT.jpg</image:loc
+      >
+      <image:caption
+        >People are beckoned to the Philippines to the City of Angels where they
+        are promised to fall in love at first sight.</image:caption
+      >
+      <image:title>Are You Coming?! - City of Angels</image:title>
+    </image:image>
+  </url>
+</urlset>

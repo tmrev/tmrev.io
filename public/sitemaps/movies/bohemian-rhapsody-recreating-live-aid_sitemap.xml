@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/769442-Bohemian Rhapsody: Recreating Live Aid</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/769442-Bohemian Rhapsody: Recreating Live Aid</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rhLjly0iHKv1c7u6My6XBS9WOBp.jpg</image:loc
+      >
+      <image:caption
+        >This piece offers interviews with the real life May and Taylor, who
+        reminisce about the concert, along with other interviews and behind the
+        scenes footage.</image:caption
+      >
+      <image:title>Bohemian Rhapsody: Recreating Live Aid</image:title>
+    </image:image>
+  </url>
+</urlset>

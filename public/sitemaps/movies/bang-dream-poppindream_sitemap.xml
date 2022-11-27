@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/922495-BanG Dream! Poppin'Dream!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/922495-BanG Dream! Poppin'Dream!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lDmjgzXX2E5uAtVqOkviU5pwdwV.jpg</image:loc
+      >
+      <image:caption
+        >Poppin'Party, Roselia, and RAISE A SUILEN's successful concert at the
+        Budokan has passed. Kasumi and the others, who have left a lingering
+        sound on the stage of their dreams, are approached by a mysterious
+        woman. Their next stage is overseas?! Poppin'Party's music isn't
+        stopping yet!</image:caption
+      >
+      <image:title>BanG Dream! Poppin'Dream!</image:title>
+    </image:image>
+  </url>
+</urlset>

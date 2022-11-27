@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/516058-Beyond Jurassic Park</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/516058-Beyond Jurassic Park</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6n0u4DbRrGYz8wmyWMTIGeK69Eo.jpg</image:loc
+      >
+      <image:caption
+        >Prepare to go deeper into the breathtaking adventures of the Jurassic
+        Park Trilogy! Highlighted by fascinating, never-seen-before footage from
+        all three Jurassic Park films, this DVD offers an exclusive look at
+        deleted scenes, additional footage and other materials not shown on any
+        theater screen.</image:caption
+      >
+      <image:title>Beyond Jurassic Park</image:title>
+    </image:image>
+  </url>
+</urlset>

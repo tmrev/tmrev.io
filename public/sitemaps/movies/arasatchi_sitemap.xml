@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69439-Arasatchi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69439-Arasatchi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tWfzGQfBslc9ZxnYa9qYNYcqLad.jpg</image:loc
+      >
+      <image:caption
+        >Siddharth has suffered at the hands of corrupt lawyers and decides to
+        kill all lawyers who help criminals evade the law. He doesn't even
+        refrain from going against a lawyer who turns out to be
+        family.</image:caption
+      >
+      <image:title>Arasatchi</image:title>
+    </image:image>
+  </url>
+</urlset>

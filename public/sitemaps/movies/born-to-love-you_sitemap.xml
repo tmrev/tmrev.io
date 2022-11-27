@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/122476-Born to Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/122476-Born to Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gxMCYpBbQX54cgNQB1NmdSipsbq.jpg</image:loc
+      >
+      <image:caption
+        >“Born to Love You” is a romantic comedy about poor lass, portrayed by
+        Angeline Quinto, who tries her best to provide the needs of her siblings
+        by joining singing contests. In one of the singing contests she joined
+        in, she met Martin’s character who is a photographer. The two then found
+        themselves falling in love with each other.</image:caption
+      >
+      <image:title>Born to Love You</image:title>
+    </image:image>
+  </url>
+</urlset>

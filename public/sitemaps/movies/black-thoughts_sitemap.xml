@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/750540-Black Thoughts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/750540-Black Thoughts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z3mhfRcyt3pnAXU7fO0Z2P6Ed98.jpg</image:loc
+      >
+      <image:caption
+        >A man that is a stranger, is an incredibly easy man to hate. However,
+        walking in a stranger’s shoes, even for a short while, can transform a
+        perceived adversary into an ally. Power is found in coming to know our
+        neighbor’s hearts. For in the darkness of ignorance, enemies are made
+        and wars are waged, but in the light of understanding, family extends
+        beyond blood lines and legacies of hatred crumble.</image:caption
+      >
+      <image:title>Black Thoughts</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/94590-Angry Video Game Nerd: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/94590-Angry Video Game Nerd: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vXEKVaCbCUd53CYKkI0B7u1LBB6.jpg</image:loc
+      >
+      <image:caption
+        >Based on the hit web series of the same name, the science
+        fiction/adventure/comedy, Angry Video Game Nerd: The Movie, follows a
+        disgruntled gamer who must overcome his fear of the worst video game of
+        all time in order to save his fans. Hilarity ensues as a simple road
+        trip becomes an extravagant pursuit of the unexpected.</image:caption
+      >
+      <image:title>Angry Video Game Nerd: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

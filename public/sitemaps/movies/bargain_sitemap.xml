@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/493390-Bargain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/493390-Bargain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Ij7ILsQ47dHzueM1RohKR8gQTP.jpg</image:loc
+      >
+      <image:caption
+        >A middle-aged man takes a high school girl to a motel room and bargains
+        with her about the payment for sex. He argues for a discount on the
+        grounds that she is not a virgin. At a loss, the girl
+        agrees.</image:caption
+      >
+      <image:title>Bargain</image:title>
+    </image:image>
+  </url>
+</urlset>

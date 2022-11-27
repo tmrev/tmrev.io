@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15923-Bodyguard: A New Beginning</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15923-Bodyguard: A New Beginning</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jpzMxz5pZLoDert7Q4aFqT2xrNT.jpg</image:loc
+      >
+      <image:caption
+        >'A New Beginning' focuses around the story of Leung, the bodyguard of a
+        Chinese Triad boss, Wong, to whom his loyalty is unrivaled. Living in
+        Hong Kong, Wong requests that his bodyguard travel to the UK to protect
+        a young British woman, whose true identity is known only by Wong
+        himself. Even his own errant son, Yuen, is kept in the dark, which leads
+        to a betrayal that threatens to destroy the family and all that his
+        father has worked hard to protect.</image:caption
+      >
+      <image:title>Bodyguard: A New Beginning</image:title>
+    </image:image>
+  </url>
+</urlset>

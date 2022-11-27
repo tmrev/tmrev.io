@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/315893-Bitter Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/315893-Bitter Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1buRxMpZFx5fQrSMzOxCYbWEm1O.jpg</image:loc
+      >
+      <image:caption
+        >For forty years, Esfandiar has been unconcernedly preparing corpses for
+        the journey to their final resting place. One day, whilst preparing a
+        burial service, he's taken ill. Might he too be mortal?</image:caption
+      >
+      <image:title>Bitter Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

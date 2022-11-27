@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/288119-Birthday Cake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/288119-Birthday Cake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xiD6ytNVEqtwF6hygqurv3Tptlo.jpg</image:loc
+      >
+      <image:caption
+        >Soap actor Steven and his husband Daniel decide to throw the ultimate
+        first birthday party for their daughter. What Daniel doesn’t know is
+        that Steven has invited Daniel’s estranged religious mother and sister
+        to the party. Now, Daniel sees the festivities beginning to spiral out
+        of control. There’s now a dead clown, a demanding diva, a cake that
+        unfortunately looks like a lifeless baby, and a manhunt in the
+        neighborhood for a murderer!</image:caption
+      >
+      <image:title>Birthday Cake</image:title>
+    </image:image>
+  </url>
+</urlset>

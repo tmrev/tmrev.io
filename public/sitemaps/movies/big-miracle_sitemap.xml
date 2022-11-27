@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78698-Big Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78698-Big Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hqdrgC5oHK06DDaAlulReUC7Nog.jpg</image:loc
+      >
+      <image:caption
+        >Based on an inspiring true story, a small-town news reporter
+        (Krasinski) and a Greenpeace volunteer (Barrymore) enlist the help of
+        rival superpowers to save three majestic gray whales trapped under the
+        ice of the Arctic Circle. ‘Big Miracle’ is adapted from the nonfiction
+        book ‘Freeing the Whales: How the Media Created the World’s Greatest
+        Non-Event’ by Tom Rose.</image:caption
+      >
+      <image:title>Big Miracle</image:title>
+    </image:image>
+  </url>
+</urlset>

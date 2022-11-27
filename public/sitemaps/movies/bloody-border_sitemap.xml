@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/331307-Bloody Border</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/331307-Bloody Border</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >What do you get when you mix two hit-men brothers, their cocky protege,
+        a couple of injured illegal immigrants, border patrol agents and a few
+        colorful townsfolk in the small border town of Bisbee, AZ whose water
+        supply has been contaminated with MDPV otherwise known as 'bath salts'?
+        A wild night of chases, gun fights, zombies, heated arguments touching
+        on the controversial issue, AZ's SB1070, oh and a lot more zombies as
+        this colorful group of individuals tries to escape the night on the
+        Bloody Border.</image:caption
+      >
+      <image:title>Bloody Border</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509356-Birth of the Solar System</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509356-Birth of the Solar System</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ysAivWNkY2QvotiBdYPoW4ZDyoz.jpg</image:loc
+      >
+      <image:caption
+        >The birth of our Solar System was both violent and chaotic. As planets
+        formed around our Sun, gravity and luck determined their fate: some are
+        tossed into the Sun, others thrown into interstellar space, never to
+        return. It is survival of the fittest, on an interplanetary
+        scale.</image:caption
+      >
+      <image:title>Birth of the Solar System</image:title>
+    </image:image>
+  </url>
+</urlset>

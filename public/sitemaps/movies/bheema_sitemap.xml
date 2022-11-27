@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63673-Bheema</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63673-Bheema</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p5Kl5NqdNL6DeRcUbVo9OV5R47l.jpg</image:loc
+      >
+      <image:caption
+        >A constant tug of war between two underworld gangs trying to outsmart
+        each other is offset by the arrival of a man of steel.</image:caption
+      >
+      <image:title>Bheema</image:title>
+    </image:image>
+  </url>
+</urlset>

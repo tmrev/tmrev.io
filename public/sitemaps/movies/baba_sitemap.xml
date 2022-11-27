@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/66243-Baba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/66243-Baba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bsA23dP1Ol2wbtNEyV8MuNFWdj5.jpg</image:loc
+      >
+      <image:caption
+        >Baba is an atheist who always questions the existence of a higher
+        power. But when a turn of events bestows him with divine powers, he uses
+        the opportunity to help other people.</image:caption
+      >
+      <image:title>Baba</image:title>
+    </image:image>
+  </url>
+</urlset>

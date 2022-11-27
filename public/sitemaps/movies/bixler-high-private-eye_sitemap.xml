@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567966-Bixler High Private Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567966-Bixler High Private Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gjHb3aiiF1RSSSoMFZai2vh0N1W.jpg</image:loc
+      >
+      <image:caption
+        >Teenage detective Xander DeWitt is the new kid at Bixler Valley High,
+        and he's there to unravel the biggest mystery of his life- the truth
+        about his missing father. But in order to crack this case, Xander must
+        learn to work with a partner- fearless investigative reporter Kenzie
+        Messina.</image:caption
+      >
+      <image:title>Bixler High Private Eye</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/958061-Arabani</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/958061-Arabani</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8UpRyS7XopEN7b7xxljGKZlPkSe.jpg</image:loc
+      >
+      <image:caption
+        >After being estranged from his Druze village and family for 17 years,
+        Yoseph returns with his two Israeli, teenage children. His marriage to a
+        Jewish Israeli woman has just ended and he plans to settle down there.
+        His arrival causes friction inside the closed, conservative Druze
+        community and also with his mother Afifa, who accepts him and his
+        children as part of her family again.</image:caption
+      >
+      <image:title>Arabani</image:title>
+    </image:image>
+  </url>
+</urlset>

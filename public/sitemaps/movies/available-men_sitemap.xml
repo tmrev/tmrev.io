@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/138011-Available Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/138011-Available Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h9flMOCjhNGspSbMKFFSZrc00ZH.jpg</image:loc
+      >
+      <image:caption
+        >A Hollywood agent (dispatched to sign a "hot" new writer) and a
+        sensitive gay man (waiting for a blind date), mistake each other for the
+        person they were expecting to meet.</image:caption
+      >
+      <image:title>Available Men</image:title>
+    </image:image>
+  </url>
+</urlset>

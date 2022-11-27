@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545789-Black President</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545789-Black President</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i2LhEXRQRF0vgt4NLE0kxai0RQQ.jpg</image:loc
+      >
+      <image:caption
+        >The film follows the plight of young Zimbabwean artist Kudzanai
+        Chiurai, casting light on the creative process behind his art piece
+        "State of the Nation".</image:caption
+      >
+      <image:title>Black President</image:title>
+    </image:image>
+  </url>
+</urlset>

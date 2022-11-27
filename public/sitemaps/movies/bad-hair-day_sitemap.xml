@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317198-Bad Hair Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317198-Bad Hair Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg</image:loc
+      >
+      <image:caption
+        >The film is about a high school tech whiz (Laura Marano), who is
+        determined to become prom queen. But on the big day, she suddenly wakes
+        up having a bad hair day, and her destroyed prom dress, and everything
+        that can go wrong, does go badly wrong. A police officer (Leigh-Allyn
+        Baker) seeks the necklace that the teen somehow ends up possessing. Prom
+        day goes really bad as the pair is pursued by a dogged jewel thief
+        (Christian Campbell) on a wild ride cross around the
+        city.</image:caption
+      >
+      <image:title>Bad Hair Day</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412693-Awesome Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412693-Awesome Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A group of friends and the insanity that occurs over the course of a
+        summer. Tim is devastated after being dumped by his longtime girlfriend
+        of two years. With the help of his animated friends; Mils (The Stoner),
+        Chris (The Geek) and Dax (The Alpha Male), Tim will pursue a new
+        relationship, learn more about himself, and continue on his path to
+        becoming a man.</image:caption
+      >
+      <image:title>Awesome Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

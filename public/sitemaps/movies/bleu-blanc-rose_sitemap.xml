@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/989652-Bleu, blanc, rose</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/989652-Bleu, blanc, rose</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hXqi7EtnxdC3WP1lNpXVvVvWtBM.jpg</image:loc
+      >
+      <image:caption
+        >"Homosexuality, this painful problem "... It was thirty years ago, the
+        title of a program of Ménie Grégoire! But what has happened since the
+        seventies, when France was transformed and the gay movement emerged? For
+        gays and lesbians, thirty years of fights, hopes and despairs, thirty
+        years of parties, sufferings and mournings, victories and emancipation.
+        Thirty revolutionary years, pink and black, on which Yves Jeuland has
+        examined, in an approach that is at once documentary, historian and
+        ethnographer. First part: "Red years" (1971/1979) "Pink years"
+        (1979/1984) Second part "Black years" (1983/1991) "Rainbow years"
+        (1992/2002)</image:caption
+      >
+      <image:title>Bleu, blanc, rose</image:title>
+    </image:image>
+  </url>
+</urlset>

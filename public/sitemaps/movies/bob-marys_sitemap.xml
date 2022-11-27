@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/458749-Bob & Marys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/458749-Bob & Marys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fctZfO0F0sxo04o8D3vVBSfHeL2.jpg</image:loc
+      >
+      <image:caption
+        >A married couple must get their hands dirty when a bunch of mobsters
+        start using their new home as a deposit for illegal
+        material.</image:caption
+      >
+      <image:title>Bob & Marys</image:title>
+    </image:image>
+  </url>
+</urlset>

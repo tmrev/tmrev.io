@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/433819-Beyond Redemption</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/433819-Beyond Redemption</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8q5mDyTQakTYvV7fUgdrB2z3Qzz.jpg</image:loc
+      >
+      <image:caption
+        >A weary undercover cop must maintain his cover while trying to save the
+        daughter of a notorious Triad Boss from becoming collateral damage in a
+        sting operation gone wrong.</image:caption
+      >
+      <image:title>Beyond Redemption</image:title>
+    </image:image>
+  </url>
+</urlset>

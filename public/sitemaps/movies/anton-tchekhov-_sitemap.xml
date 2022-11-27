@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/270591-Anton Tchekhov 1890</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/270591-Anton Tchekhov 1890</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4m2rmzWQNR1Sn4gN6DOiV55JqvD.jpg</image:loc
+      >
+      <image:caption
+        >Summer 1890. In order to make some money to feed his family, Anton
+        Chekhov, modest physician, wrote short stories for newspapers to sign
+        Antosha Tchékhonté. Important characters, writer and editor, just make
+        him aware of his talent. His situation is improving and Anton Chekhov
+        gets the Pushkin prices and admiration of Tolstoy. But when one of his
+        brothers died of tuberculosis, Anton saw it as a personal failure and
+        wants to escape his fame and his love.</image:caption
+      >
+      <image:title>Anton Tchekhov 1890</image:title>
+    </image:image>
+  </url>
+</urlset>

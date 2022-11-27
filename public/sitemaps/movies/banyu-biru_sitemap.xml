@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360764-Banyu Biru</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360764-Banyu Biru</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8bXVJ6diudwpK0ykIYOCmJ1hQh1.jpg</image:loc
+      >
+      <image:caption
+        >A road movie on how to rediscover love. Banyu, a young supermarket
+        customer service rep, is absorbed in his daily routine when a strange
+        incident inspires him to hit the road and solve past family
+        issues.</image:caption
+      >
+      <image:title>Banyu Biru</image:title>
+    </image:image>
+  </url>
+</urlset>

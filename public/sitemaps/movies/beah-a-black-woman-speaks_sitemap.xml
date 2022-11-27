@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/443081-Beah: A Black Woman Speaks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/443081-Beah: A Black Woman Speaks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uMse4nsMafvraDDUjBbGp61i1pd.jpg</image:loc
+      >
+      <image:caption
+        >Beah: A Black Woman Speaks is a 2003 documentary about the life of
+        Academy Award nominated actress Beah Richards. Directed by Lisa Gay
+        Hamilton, it won the Documentary Award at the AFI Los Angeles
+        International Film Festival in 2003.</image:caption
+      >
+      <image:title>Beah: A Black Woman Speaks</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29848-Beyond the Dunwich Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29848-Beyond the Dunwich Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Kenny Crawford arrives in Dunwich after hearing that his brother Andrew
+        has been admitted to a psychiatric ward, and is suspected in a string of
+        disappearances in the town. With the help of local reporter Marsha
+        Calloway and the eccentric Upton Armitage he probes the last few weeks
+        of his brother's life. As they do so, they uncover evidence of a plot in
+        the works revolving around Andrew, his girlfriend Nikki Hartwell and her
+        twisted friend Otto Bellinger.</image:caption
+      >
+      <image:title>Beyond the Dunwich Horror</image:title>
+    </image:image>
+  </url>
+</urlset>

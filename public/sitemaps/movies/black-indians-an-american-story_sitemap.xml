@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171429-Black Indians: An American Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171429-Black Indians: An American Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >James Earl Jones narrates this examination of the historical
+        relationship between American Indians and African-Americans, who often
+        merged their cultures to work and live together while mainstream white
+        society shunned them. Through illuminating anecdotes and interviews,
+        descendants of fused black and Indian families discuss the complications
+        of their mixed heritage and how their culture was largely erased on
+        official documents.</image:caption
+      >
+      <image:title>Black Indians: An American Story</image:title>
+    </image:image>
+  </url>
+</urlset>

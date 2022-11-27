@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60131-Asylum Session</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60131-Asylum Session</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fhtQjG0yjrTXxWqwO9xVqUri6yK.jpg</image:loc
+      >
+      <image:caption
+        >Hiyoko wants to become an artist like her mother, but her father would
+        prefer that she took a different career path. Enraged when she notices
+        that he took all paintings done by her mother from the house, she
+        decides to run away. Unable to find a place to sleep among her
+        acquaintances, she ends up at Asylum Stadium, an abandoned field that is
+        shelter for many homeless, but that is about to be torn down by the
+        government. There she meets Akira, a strange individual capable of
+        flying.</image:caption
+      >
+      <image:title>Asylum Session</image:title>
+    </image:image>
+  </url>
+</urlset>

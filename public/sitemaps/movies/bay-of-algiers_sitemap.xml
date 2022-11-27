@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/152366-Bay of Algiers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/152366-Bay of Algiers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gFbdKY8fFdz0zpN0JSYTjWOC3Ft.jpg</image:loc
+      >
+      <image:caption
+        >The writer Louis Gardel remembers his youth in Algeria. In 1955, Louis
+        is 15 years old and lives with his grandmother Zoé. Zoé is friend with
+        president Steiger, leader of the French settlers but also with the old
+        Arab Bouarab. One night looking at the Bay of Algiers, Louis is
+        convinced that the world in which he has grown will disappear. The first
+        events of the War of Independence have begun. The young boys and young
+        girls have a good time at the seaside: swimming, dancing, flirting. But,
+        little by little, the war becomes part of their daily
+        life.</image:caption
+      >
+      <image:title>Bay of Algiers</image:title>
+    </image:image>
+  </url>
+</urlset>

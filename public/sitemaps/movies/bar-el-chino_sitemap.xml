@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/128199-Bar "El Chino"</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/128199-Bar "El Chino"</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1azgixvfcbnytaFZqjopU4qjXIw.jpg</image:loc
+      >
+      <image:caption
+        >Martina is decided to make a documentary on the legendery Bar El Chino,
+        a place where tango, friendship and love are highly valued. Her first
+        night at Bar El Chino, she meets Jorge, a single father who was making a
+        documentary about Bar El Chino also, but who had to leave it unfinished
+        because of the economic depression. With the aid of Jorge, she will
+        discover this wonderful place, get the documentary in progress, learn to
+        love, and know what migration is like... from first-hand
+        experience.</image:caption
+      >
+      <image:title>Bar "El Chino"</image:title>
+    </image:image>
+  </url>
+</urlset>

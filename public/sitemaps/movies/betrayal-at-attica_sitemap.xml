@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/857079-Betrayal at Attica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/857079-Betrayal at Attica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qSInchxGb3HbB1dIE6nLUx0j58d.jpg</image:loc
+      >
+      <image:caption
+        >On September 13, 1971 the State of New York shot and killed 39 of its
+        own citizens, injured hundreds more, and tortured the survivors.
+        Elizabeth Fink tells the story of the Attica prison rebellion, and how
+        she exposed the cover up.</image:caption
+      >
+      <image:title>Betrayal at Attica</image:title>
+    </image:image>
+  </url>
+</urlset>

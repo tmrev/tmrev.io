@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346109-Back to Room 666</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346109-Back to Room 666</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >What is the future of cinema? In 1982, in Cannes, Wim Wenders invited
+        many movie makers to answer this question. 26 years later, the question
+        remains, but Wenders is now on the other side of the
+        camera.</image:caption
+      >
+      <image:title>Back to Room 666</image:title>
+    </image:image>
+  </url>
+</urlset>

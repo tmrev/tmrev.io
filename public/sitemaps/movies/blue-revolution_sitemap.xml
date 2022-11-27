@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/620613-Blue Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/620613-Blue Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wLLwuqezSnUywavr3Dz0mgNoJe7.jpg</image:loc
+      >
+      <image:caption
+        >An official, behind the scenes, feature-length film, Blue Revolution
+        follows the Chelsea FC team and its passionate supporters through Jose
+        Mourinho's first three seasons with Chelsea, 2004-2007. It was nothing
+        short of an uprising that produced 6 trophies in three years and an
+        immeasurable quantity of drama both on and off the pitch.</image:caption
+      >
+      <image:title>Blue Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

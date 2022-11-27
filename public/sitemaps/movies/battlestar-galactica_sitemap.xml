@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/148980-Battlestar Galactica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/148980-Battlestar Galactica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/96ETJEnHoVuptkCNMtxcEZ5iWzN.jpg</image:loc
+      >
+      <image:caption
+        >After the destruction of the Twelve Colonies of Mankind, the last major
+        fighter carrier leads a makeshift fugitive fleet in a desperate search
+        for the legendary planet Earth. This film is adapted from a television
+        series that aired on ABC from September 17, 1978, to August 17, 1980.
+        The first and fifth episodes of the series were edited into this
+        theatrical feature film. Taken together, the two episodes ran 148
+        minutes, without commercials, while the film runs 125
+        minutes.</image:caption
+      >
+      <image:title>Battlestar Galactica</image:title>
+    </image:image>
+  </url>
+</urlset>

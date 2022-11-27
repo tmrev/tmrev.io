@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/198729-Beardyman - the Open Sauce Tour 2010</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/198729-Beardyman - the Open Sauce Tour 2010</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z8D6SMrXIpvnDAnKyPBVa1flx1g.jpg</image:loc
+      >
+      <image:caption
+        >in 2010 Beardyman went on tour around the UK performing a show based on
+        suggestions from his fans. Here is it's story. Any likenesses to persons
+        living or dead is completely intentional.</image:caption
+      >
+      <image:title>Beardyman - the Open Sauce Tour 2010</image:title>
+    </image:image>
+  </url>
+</urlset>

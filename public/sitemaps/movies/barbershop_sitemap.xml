@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10611-Barbershop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10611-Barbershop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/up8cEgEsl2Dq5Djb9lMZYBK0s84.jpg</image:loc
+      >
+      <image:caption
+        >A day in the life of a barbershop on the south side of Chicago. Calvin,
+        who inherited the struggling business from his deceased father, views
+        the shop as nothing but a burden and waste of his time. After selling
+        the shop to a local loan shark, Calvin slowly begins to see his father's
+        vision and legacy and struggles with the notion that he just sold it
+        out.</image:caption
+      >
+      <image:title>Barbershop</image:title>
+    </image:image>
+  </url>
+</urlset>

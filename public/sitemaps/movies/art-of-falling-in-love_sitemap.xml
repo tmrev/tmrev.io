@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/622085-Art of Falling in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/622085-Art of Falling in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gOoJElobxic0U0TPLqrapBtdpcG.jpg</image:loc
+      >
+      <image:caption
+        >A spirited artist with a mysterious bucket list gets a commission to
+        paint a mural on a new hospital wing in a charming community. When she
+        finds herself falling for the handsome architect designing the addition,
+        she must decide if she can trust him with her list, and the painful
+        memory behind it, or if he’ll break her heart and prove that it’s better
+        to be alone than to be close to someone who will leave.</image:caption
+      >
+      <image:title>Art of Falling in Love</image:title>
+    </image:image>
+  </url>
+</urlset>

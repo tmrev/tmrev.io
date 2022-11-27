@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/619835-Beautiful Elena</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/619835-Beautiful Elena</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rjut5jrUWNKd5AAmggZXKgrjKl7.jpg</image:loc
+      >
+      <image:caption
+        >Mitya Klimov is a student of Stroganovka. In his free time, he
+        moonlights as an instant artist (portrait in a minute). He accidentally
+        meets a lovely girl Lena, whose portrait he painted on the street. Their
+        next meeting took place in the gallery of his father, the famous artist
+        Yuri Shamanov, where the birthday of his sister Natalia was celebrated.
+        At the time of the trip, Mitya, entering the utility room, saw the
+        corpse of Jeanne, Natalya’s girlfriend, and then he himself received a
+        blow to the head ...</image:caption
+      >
+      <image:title>Beautiful Elena</image:title>
+    </image:image>
+  </url>
+</urlset>

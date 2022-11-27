@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317631-Bill Viola: The Eye of the Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317631-Bill Viola: The Eye of the Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/68exNTHt34UHAkbAXzuZX10MvL1.jpg</image:loc
+      >
+      <image:caption
+        >Hailed as the "Rembrandt of the Video Age," renowned American artist
+        Bill Viola became the first contemporary artist ever to be featured in a
+        one-man show at London's prestigious National Gallery. This documentary
+        directed by Mark Kidel features rarely seen footage from Viola's own
+        archive and in-depth interviews with the video maverick. Viola talks
+        passionately about his life and the influences that have driven his
+        artwork from the beginning.</image:caption
+      >
+      <image:title>Bill Viola: The Eye of the Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

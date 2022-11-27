@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77715-Badrinath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77715-Badrinath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bKDb4ZLdBmXjbaSQvO0xtw4ntKR.jpg</image:loc
+      >
+      <image:caption
+        >Trained by a religious martial arts guru, Badri becomes the protector
+        of Badrinath temple and tries to revive Alakananda's faith in God,
+        unaware of the fact that she has fallen for him.</image:caption
+      >
+      <image:title>Badrinath</image:title>
+    </image:image>
+  </url>
+</urlset>

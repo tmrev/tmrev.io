@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89065-Beautiful City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89065-Beautiful City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vbNdsa5UwAKXgzBFV3mqgy5aLm2.jpg</image:loc
+      >
+      <image:caption
+        >Akbar, 18, has been held in a rehabilitation centre for committing
+        murder at the age of sixteen. Now, Akbar is transferred to prison to
+        await the day of his execution. A’la, a friend of Akbar, tries
+        desperately to gain the consent of Akbar’s plaintiff so as to stop the
+        execution.</image:caption
+      >
+      <image:title>Beautiful City</image:title>
+    </image:image>
+  </url>
+</urlset>

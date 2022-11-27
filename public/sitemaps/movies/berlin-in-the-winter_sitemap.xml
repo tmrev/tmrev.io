@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/641663-Berlin in the Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/641663-Berlin in the Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ytsgQHwszltBqeYU94z9wYZrUdX.jpg</image:loc
+      >
+      <image:caption
+        >The film is one of my recently series work, "Re-interpretation for the
+        private films" which has been cited from old home movies. A Japanese
+        diplomat, Mr.A.O. started for his assignment to Berlin since 1929. He
+        was also the person fascinated by filmmaking. Of course, generally said
+        his films were just the "Home Movie", however when we saw his films
+        carefully, we could be found out the sensibility of other filmmakers in
+        20s, just like Ruttmann, Vertov or so. I'd like to observe the lost
+        films.</image:caption
+      >
+      <image:title>Berlin in the Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

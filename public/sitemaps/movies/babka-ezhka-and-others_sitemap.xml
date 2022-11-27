@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32443-Babka Ezhka and Others</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32443-Babka Ezhka and Others</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fG8OizvWjlUnggEON4MmOTA77qd.jpg</image:loc
+      >
+      <image:caption
+        >A little girl got lost in a dense forest by accident, where she was
+        found by Baba Yaga. She, along with other fairy-tale characters -
+        Kikimora, Leschyi, Koschei the Deathless and Vodyanoy - decides to adopt
+        the girl, giving her the name of Babka Ezhka. That's how the incredible
+        adventures of Babka Ezhka and her friends begin.</image:caption
+      >
+      <image:title>Babka Ezhka and Others</image:title>
+    </image:image>
+  </url>
+</urlset>

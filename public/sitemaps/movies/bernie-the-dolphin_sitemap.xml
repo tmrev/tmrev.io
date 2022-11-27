@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565839-Bernie the Dolphin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565839-Bernie the Dolphin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cc2emcyFQVsnCrTwH5MdZiJeRcx.jpg</image:loc
+      >
+      <image:caption
+        >A brother and sister who befriend a badly sunburned dolphin separated
+        from his family and uncover a secret plan that could destroy the beach
+        and their new friend's home. The kids must devise a clever plan to stop
+        the bad guys, protect the sea life, and, most importantly, save their
+        best friend, Bernie.</image:caption
+      >
+      <image:title>Bernie the Dolphin</image:title>
+    </image:image>
+  </url>
+</urlset>

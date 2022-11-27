@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/23030-Arabesque</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/23030-Arabesque</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ufQBXrETmVizoVaoYKAmjArRTyr.jpg</image:loc
+      >
+      <image:caption
+        >When a plot against a prominent Middle Eastern politician is uncovered,
+        David Pollock, a professor of ancient hieroglyphics at Oxford
+        University, is recruited to help expose the scheme. Pollock must find
+        information believed to be in hieroglyphic code and must also contend
+        with a mysterious man called Beshraavi. Meanwhile, Beshraavi's lover,
+        Yasmin Azir, seems willing to aid Pollock -- but is she really on his
+        side?</image:caption
+      >
+      <image:title>Arabesque</image:title>
+    </image:image>
+  </url>
+</urlset>

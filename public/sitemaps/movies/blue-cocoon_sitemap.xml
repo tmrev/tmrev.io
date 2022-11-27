@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/697046-Blue Cocoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/697046-Blue Cocoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nYqjXZgHjGzkb4BwjloAGPhVle5.jpg</image:loc
+      >
+      <image:caption
+        >Blue Cocoon follows the story of Cynthia, a woman who lives alone,
+        isolated from the outside world. Her day-to-day routine involves
+        listening to an old grammar phone and the catching and killing of
+        butterflies in vicious traps that hang from her window. One day, this
+        routine is disrupted as a curious young girl enters her garden
+        unexpectedly. Cynthia is besotted by the girls’ grace, youth and beauty
+        and in her deranged, intoxicated state, decides to kidnap her using the
+        chloroform that she uses on her butterflies, and on herself
+        recreationally.</image:caption
+      >
+      <image:title>Blue Cocoon</image:title>
+    </image:image>
+  </url>
+</urlset>

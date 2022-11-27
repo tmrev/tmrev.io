@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360380-Beslan: Three Days in September</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360380-Beslan: Three Days in September</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8An8a55jx1gBYPEQG6cCJ7ebP8F.jpg</image:loc
+      >
+      <image:caption
+        >In September 2004, Chechen rebels occupied a school in the small
+        Russian city of Beslan, taking some 1,200 people-most of them
+        children-hostage. At the end of three days, over 330 were
+        dead.</image:caption
+      >
+      <image:title>Beslan: Three Days in September</image:title>
+    </image:image>
+  </url>
+</urlset>

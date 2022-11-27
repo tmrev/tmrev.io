@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14111-Battle for Haditha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14111-Battle for Haditha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yUfXGuipKIw2xKs64yrTPOwRTtd.jpg</image:loc
+      >
+      <image:caption
+        >An investigation of the massacre of 24 men, women and children in
+        Haditha, Iraq allegedly shot by 4 U.S. Marines in retaliation for the
+        death of a U.S. Marine killed by a roadside bomb. The movie follows the
+        story of the Marines of Kilo Company, an Iraqi family, and the
+        insurgents who plant the roadside bomb.</image:caption
+      >
+      <image:title>Battle for Haditha</image:title>
+    </image:image>
+  </url>
+</urlset>

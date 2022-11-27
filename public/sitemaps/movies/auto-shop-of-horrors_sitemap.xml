@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412741-Auto Shop of Horrors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412741-Auto Shop of Horrors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1e7HSq3VEx72YsOKVjndIhntCnO.jpg</image:loc
+      >
+      <image:caption
+        >A mentally disturbed car mechanic, with a deep fascination of Aztec
+        culture, is convinced that if he consumes enough human eyeballs, he'll
+        possess the ability to see in the future.</image:caption
+      >
+      <image:title>Auto Shop of Horrors</image:title>
+    </image:image>
+  </url>
+</urlset>

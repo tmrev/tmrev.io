@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/941730-Black Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/941730-Black Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f32u2yzVeMb260AHqwunyhy0YCX.jpg</image:loc
+      >
+      <image:caption
+        >A historic drama telling story of a group of high school Slovenian
+        students aged between 13-17 years old in province Gorizia in Italy
+        during the beginning of the 1930's. Filing strong national suppression
+        from Italian government and Fascist laws they decided to form a secret
+        organization.</image:caption
+      >
+      <image:title>Black Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

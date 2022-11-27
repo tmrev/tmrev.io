@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13245-Atanarjuat: The Fast Runner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13245-Atanarjuat: The Fast Runner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jUHznhUDIPmFlL652zyzvdRksVg.jpg</image:loc
+      >
+      <image:caption
+        >Based on a local legend and set in an unknown era, it deals with
+        universal themes of love, possessiveness, family, jealousy and power.
+        Beautifully shot, and acted by Inuit people, it portrays a time when
+        people fought duels by taking turns to punch each other until one was
+        unconscious, made love on the way to the caribou hunt, ate walrus meat
+        and lit their igloos with seal-oil lamps.</image:caption
+      >
+      <image:title>Atanarjuat: The Fast Runner</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438735-Blue/Orange</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438735-Blue/Orange</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h9a6MwKjYlVg0uz76df7C8DSKXR.jpg</image:loc
+      >
+      <image:caption
+        >In a psychiatric hospital, a junior doctor is treating a young black
+        man diagnosed with Borderline Personality Disorder. The patient is
+        having a final interview with the doctor, who has invited his mentor to
+        sit in on the session. He is concerned that the diagnosis is inaccurate
+        and would like the patient hospitalised for longer. The senior doctor,
+        however, disagrees.</image:caption
+      >
+      <image:title>Blue/Orange</image:title>
+    </image:image>
+  </url>
+</urlset>

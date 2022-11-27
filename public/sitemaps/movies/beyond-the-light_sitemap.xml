@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/969230-Beyond the Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/969230-Beyond the Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i3SVeqIcwGx9CE1hZlBFeFHs5Lb.jpg</image:loc
+      >
+      <image:caption
+        >The final part of a trilogy of films started in 1998, exploring the
+        filming of projected light through distorting lenses. Shot and edited on
+        Super-8, the film features a carefully constructed electronic soundtrack
+        made with Helliwell's tone generators.</image:caption
+      >
+      <image:title>Beyond the Light</image:title>
+    </image:image>
+  </url>
+</urlset>

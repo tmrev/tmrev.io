@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474878-Beat Cops</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474878-Beat Cops</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Pc6uri6smTM4nohXcgo3vZB5QC.jpg</image:loc
+      >
+      <image:caption
+        >A pilot about a pair of slacker beat cops that Conan O'Brien produced
+        for Fox.</image:caption
+      >
+      <image:title>Beat Cops</image:title>
+    </image:image>
+  </url>
+</urlset>

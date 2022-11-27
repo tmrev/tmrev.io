@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/461928-Anna and the Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/461928-Anna and the Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pb60xSzUnS9D5iDvrV8N6QOG3ZR.jpg</image:loc
+      >
+      <image:caption
+        >A zombie apocalypse threatens the sleepy town of Little Haven – at
+        Christmas – forcing Anna and her friends to fight, slash and sing their
+        way to survival, facing the undead in a desperate race to reach their
+        loved ones. But they soon discover that no one is safe in this new
+        world, and with civilization falling apart around them, the only people
+        they can truly rely on are each other.</image:caption
+      >
+      <image:title>Anna and the Apocalypse</image:title>
+    </image:image>
+  </url>
+</urlset>

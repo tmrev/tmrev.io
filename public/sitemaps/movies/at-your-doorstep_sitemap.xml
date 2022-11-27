@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346354-At Your Doorstep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346354-At Your Doorstep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hx4kSQMoXZN4pNk7f3arSSUP30v.jpg</image:loc
+      >
+      <image:caption
+        >Three stories intertwine as different people deal with the challenges
+        of living through times of crisis. An evicted mother, a banker with a
+        conscience and a police officer who has to do his job no matter what,
+        sing and dance in this Brechtian musical drama about the economic
+        crisis, people’s struggle with daily life, solidarity and
+        hope.</image:caption
+      >
+      <image:title>At Your Doorstep</image:title>
+    </image:image>
+  </url>
+</urlset>

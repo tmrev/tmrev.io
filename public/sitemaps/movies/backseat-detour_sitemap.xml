@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550140-Backseat Detour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550140-Backseat Detour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7nkcumIqKlK5sz2npMk8OmJ9pUd.jpg</image:loc
+      >
+      <image:caption
+        >College freshman Catie comes home for Thanksgiving, but finds herself
+        trapped between a rock and a hard place when mom inquires about her love
+        life.</image:caption
+      >
+      <image:title>Backseat Detour</image:title>
+    </image:image>
+  </url>
+</urlset>

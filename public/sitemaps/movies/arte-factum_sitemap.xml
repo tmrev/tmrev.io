@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/535412-Arte Factum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/535412-Arte Factum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sPEh50GkEO3mTMdwn3Dz1LjEp9h.jpg</image:loc
+      >
+      <image:caption
+        >After traveling across a wasteland of pestilence and famine in search
+        of a mysterious object, a lone woman (Rachel Miller) finds refuge at
+        Seven Bowls Tavern. It becomes apparent after sharing some drinks with a
+        shadowy figure (Krys Bailey) that her arrival was not mere chance. As
+        his stories about the Arte Factum unfold and draw her in, her presence
+        at the tavern begins to attract the horsemen. One by one they ride in
+        and fill Seven Bowls until she decides it’s time to bid them all adios.
+        Wages of Cine presents an anthology of twelve tales that transverse
+        space and time following a mysterious object known as the “Arte
+        Factum”.</image:caption
+      >
+      <image:title>Arte Factum</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/431867-Bitch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/431867-Bitch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dsFUHJgMVViUsRggDThtwRPmS9i.jpg</image:loc
+      >
+      <image:caption
+        >The provocative tale of a woman who snaps under crushing life pressures
+        and assumes the psyche of a vicious dog. Her philandering, absentee
+        husband is forced to become reacquainted with his four children and
+        sister-in-law as they attempt to keep the family together during this
+        bizarre crisis.</image:caption
+      >
+      <image:title>Bitch</image:title>
+    </image:image>
+  </url>
+</urlset>

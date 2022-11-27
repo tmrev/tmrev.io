@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79116-Beresina</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79116-Beresina</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/av8sPeh6vjpiHetsdNNRX9Ihehc.jpg</image:loc
+      >
+      <image:caption
+        >A naive girl's love for Switzerland is put to the test in this satiric
+        comedy. Irina is a woman from Russia who all her life has always been
+        fascinated by Switzerland and longs to live there some day, though her
+        notion of Swiss life has more to do with Heidi and old movies set in the
+        Alps than reality.</image:caption
+      >
+      <image:title>Beresina</image:title>
+    </image:image>
+  </url>
+</urlset>

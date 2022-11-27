@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545338-Bob and Jack's 52-Year Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545338-Bob and Jack's 52-Year Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9GAHPVan9BFx5xPDjYfaHTRAs9g.jpg</image:loc
+      >
+      <image:caption
+        >A self-told story about two men who met in the service, confronted the
+        troops in their unit 52 years ago and went on to live the rest of their
+        lives together.</image:caption
+      >
+      <image:title>Bob and Jack's 52-Year Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

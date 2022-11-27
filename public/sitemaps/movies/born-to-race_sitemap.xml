@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/74523-Born to Race</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/74523-Born to Race</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Aamkezlj7SEpzdxa84GLvvmgTqq.jpg</image:loc
+      >
+      <image:caption
+        >Born To Race is the story of Danny Krueger, a rebellious young street
+        racer on a collision course with trouble. After an accident at an
+        illegal street race, he is sent to a small town to live with his
+        estranged father, a washed up NASCAR racer. When Danny decides to enter
+        the NHRA High School Drags, he's forced to seek his father's help in
+        taking down the local hot shot.</image:caption
+      >
+      <image:title>Born to Race</image:title>
+    </image:image>
+  </url>
+</urlset>

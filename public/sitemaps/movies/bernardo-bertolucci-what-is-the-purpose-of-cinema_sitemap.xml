@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/623907-Bernardo Bertolucci: What Is the Purpose of
+      Cinema?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/623907-Bernardo Bertolucci: What Is the Purpose of
+      Cinema?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s1zRCtLh9RRTyaQQgMgkb6O8Spg.jpg</image:loc
+      >
+      <image:caption
+        >It is a chronological compilation of film clips, awards ceremonies and
+        brief period interviews gathered by journalist Sandro
+        Lai.</image:caption
+      >
+      <image:title
+        >Bernardo Bertolucci: What Is the Purpose of Cinema?</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

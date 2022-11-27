@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607642-Blunted House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607642-Blunted House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k8OeYEyB29WvoXLpMcoSyH4Gzys.jpg</image:loc
+      >
+      <image:caption
+        >An eerie comedy about two friends from LA who decides to take their
+        small time weed selling business off the streets and indoors by
+        converting their home into a two story bong. Charging people to enter
+        the Blunted House becomes an instant success, but turns spooky when they
+        decide to get their supply from a Voo-Doo practicing weed
+        man.</image:caption
+      >
+      <image:title>Blunted House</image:title>
+    </image:image>
+  </url>
+</urlset>

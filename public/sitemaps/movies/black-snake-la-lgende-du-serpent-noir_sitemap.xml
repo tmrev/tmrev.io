@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/553478-Black Snake, la légende du serpent
+      noir</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/553478-Black Snake, la légende du serpent
+      noir</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2UHLBOL9jsvlLyh9KOOLrij3ApI.jpg</image:loc
+      >
+      <image:caption
+        >After years spent in Paris, Clotaire Sangala returns to his native
+        country, Africa. Raised by a Chinese martial arts grandfather, convinced
+        to have been found in a garbage can, Clotaire knows nothing of the
+        glorious past of his parents. He will become "Black Snake", the masked
+        and ultra-sapped superhero, liberator of the people against the dictator
+        Hezekiah.</image:caption
+      >
+      <image:title>Black Snake, la légende du serpent noir</image:title>
+    </image:image>
+  </url>
+</urlset>

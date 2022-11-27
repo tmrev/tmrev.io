@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11806-Beethoven</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11806-Beethoven</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg</image:loc
+      >
+      <image:caption
+        >The Newton family live in their comfortable home, but there seems to
+        something missing. This "hole" is filled by a small puppy, who walks
+        into their home and their lives. Beethoven, as he is named, grows into a
+        giant of a dog... a St Bernard. Doctor Varnick, the local vet has a
+        secret and horrible sideline, which requires lots of dogs for
+        experiments. Beethoven is on the bad doctor's list.</image:caption
+      >
+      <image:title>Beethoven</image:title>
+    </image:image>
+  </url>
+</urlset>

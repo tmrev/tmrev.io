@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438467-Barbecue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438467-Barbecue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8wnR5hBMDYNT0MeYg2Al8oe1eFt.jpg</image:loc
+      >
+      <image:caption
+        >Barbecue is about more than grilling a piece of meat. It’s a ritual
+        performed religiously across the world. For some it’s a path to
+        salvation. It is the pride of nations. And the stories told around the
+        fires become a way to bring the world together.</image:caption
+      >
+      <image:title>Barbecue</image:title>
+    </image:image>
+  </url>
+</urlset>

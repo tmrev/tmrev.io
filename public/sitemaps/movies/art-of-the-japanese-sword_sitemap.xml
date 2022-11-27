@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/809271-Art of the Japanese Sword</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/809271-Art of the Japanese Sword</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h0BFZW17gxA9YajsSgknxdCJNbx.jpg</image:loc
+      >
+      <image:caption
+        >The Japanese sword ... prized as much for its exceptional beauty as for
+        it's deadly cutting ability. It has endured for a thousand years as the
+        pinnacle of Japanese culture. Now you can enter a world rarely seen by
+        outsiders. To experience the true story of the Art of the Samurai Sword.
+        A story told in the swordsmiths own words that separate the myth from
+        the fact. Follow the swordsmiths dream of creating a masterpiece. From
+        the quest to making an ancient steel to forging a blade equal to those
+        of the Kamakura, a medieval period that produced the greatest swords in
+        history.</image:caption
+      >
+      <image:title>Art of the Japanese Sword</image:title>
+    </image:image>
+  </url>
+</urlset>

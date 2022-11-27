@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15503-Around the Bend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15503-Around the Bend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9JcHU68BwPh6FhSwGp9CvHyN7h1.jpg</image:loc
+      >
+      <image:caption
+        >A tale of four generations of men, all of whom have had their offspring
+        at a young age: a great-grandfather, a grandfather, a father in his
+        twenties and a son who is about 7 years old. When the oldest member
+        passes away, the trio heads out on the road together in the Southwest to
+        search out an old family secret that connects to their
+        past.</image:caption
+      >
+      <image:title>Around the Bend</image:title>
+    </image:image>
+  </url>
+</urlset>

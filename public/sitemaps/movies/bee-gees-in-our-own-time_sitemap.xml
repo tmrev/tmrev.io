@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110286-Bee Gees - In Our Own Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110286-Bee Gees - In Our Own Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g4v78jRkCytMQ60glelnqrjzl56.jpg</image:loc
+      >
+      <image:caption
+        >This documentary on the life and career of The Bee Gees mixes archival
+        performance footage with intimate home movies to paint a portrait of the
+        three brothers who became one of the biggest selling music acts in the
+        world.</image:caption
+      >
+      <image:title>Bee Gees - In Our Own Time</image:title>
+    </image:image>
+  </url>
+</urlset>

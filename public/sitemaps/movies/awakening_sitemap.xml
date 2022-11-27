@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666640-Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666640-Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"AWAKENING" is a short film about an elderly woman (Louise Katchia) who
+        hopes to restore her assimilated grandson's connection to their culture.
+        Nathan (Solomon Trimble) is unwillingly sent to see a Shaman (Foster
+        Kalama) in the cold backwoods of the Warm Springs Indian reservation.
+        Immediately placed into a ceremony circle, Nathan is put into a trance
+        on a spiritual quest to face his inner Native American as his modern
+        self. Facing the unknown, Nathan overcomes his fear in an ultimate test
+        of survival, fighting a violent cultural force within. Ultimately
+        defeating the unknown, he becomes the inner Native American and restores
+        his connection to his culture and faith.</image:caption
+      >
+      <image:title>Awakening</image:title>
+    </image:image>
+  </url>
+</urlset>

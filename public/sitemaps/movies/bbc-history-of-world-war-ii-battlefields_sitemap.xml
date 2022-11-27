@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/803029-BBC History of World War II -
+      Battlefields</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/803029-BBC History of World War II -
+      Battlefields</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7UfzozLNgVg6qRrot1PCIoOq7Nb.jpg</image:loc
+      >
+      <image:caption
+        >Professor and noted author Richard Holmes examines four of the most
+        influential Allied battle campaigns of World War II in this program
+        based on his book. Archival footage, dramatizations and personal
+        accounts help tell the events of the victory over Rommel at El Alamein;
+        the 1944 battle in the rough conditions of Monte Cassino; the attack on
+        Rhineland bridges at Arnhem; and the British Royal Air Force's offensive
+        against Germany.</image:caption
+      >
+      <image:title>BBC History of World War II - Battlefields</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278256-Bartali: The Iron Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278256-Bartali: The Iron Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9LQ4PEInhA4X35sqRbQlC8LAzNZ.jpg</image:loc
+      >
+      <image:caption
+        >TV Miniseries (2 episodes) about life and rivalry of italian bikers
+        Gino Bartali and Fausto Coppi.</image:caption
+      >
+      <image:title>Bartali: The Iron Man</image:title>
+    </image:image>
+  </url>
+</urlset>

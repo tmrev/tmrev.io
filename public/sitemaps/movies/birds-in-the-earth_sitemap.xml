@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/533607-Birds in the Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/533607-Birds in the Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sxjG9Qz48aDqROVqAP9b7jSV4xs.jpg</image:loc
+      >
+      <image:caption
+        >Sami dance students Birit and Katja Haarla dance through the villages
+        and lost woods of Sápmi all the way to where the important decisions are
+        made. The polarity of Nature and the Western way of life is filtered
+        through sharp humour.</image:caption
+      >
+      <image:title>Birds in the Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

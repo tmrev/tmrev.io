@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260524-Arimpara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260524-Arimpara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Krishnanunni is the descendant of a wealthy orthodox Nair family, whose
+        fortune has now dwindled. But there is still enough to ensure a
+        leisurely life. Everything is going fine until one morning, while
+        shaving, his wife discovers a black mole under his lower
+        lip…</image:caption
+      >
+      <image:title>Arimpara</image:title>
+    </image:image>
+  </url>
+</urlset>

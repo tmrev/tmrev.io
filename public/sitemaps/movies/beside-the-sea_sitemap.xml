@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/709547-Beside the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/709547-Beside the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qw4ix1NveUq3Tzx1fU1agvFv5ZC.jpg</image:loc
+      >
+      <image:caption
+        >Because of difficulties where they live in the north east of China, a
+        husband and wife go back to their hometown in Shandong Province and
+        settle in their hometown by the sea with three children. With no land of
+        their own, they have to face the sea, and start their life
+        again.</image:caption
+      >
+      <image:title>Beside the Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

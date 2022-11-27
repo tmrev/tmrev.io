@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/80272-Barcelona, abans que el temps ho
+      esborri</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/80272-Barcelona, abans que el temps ho
+      esborri</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"Barcelona, abans que el temps ho esborri" is a chronicle of the high
+        bourgeoisie who made the industrial revolution in Catalonia. An ironical
+        walk along the Barcelona of the twentieth-century through the memories
+        inherited by one of its descendants, Javier Baladia, that takes us to
+        the golden years of a cosmopolitan and cultured elite, who left us a
+        legacy that has made today's Barcelona an international reference. The
+        private life of a family. A personal portrait of the twentieth
+        century.</image:caption
+      >
+      <image:title>Barcelona, abans que el temps ho esborri</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330078-Blame It on the Streets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330078-Blame It on the Streets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pVQOMhYG75vuxtfQ06HU90yf9B9.jpg</image:loc
+      >
+      <image:caption
+        >Musician YG showcases his acting chops and uncanny ability to make his
+        lyrics come alive as we follow him through a day of his "krazy"
+        lIfe.</image:caption
+      >
+      <image:title>Blame It on the Streets</image:title>
+    </image:image>
+  </url>
+</urlset>

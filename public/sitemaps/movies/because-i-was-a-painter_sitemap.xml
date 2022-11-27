@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317980-Because I Was a Painter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317980-Because I Was a Painter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i2kywgaYvya1U14m6RIWPN79HDo.jpg</image:loc
+      >
+      <image:caption
+        >In 1945, when the Allies liberated the concentration camps, they
+        discovered thousands of secretly created artworks. With unprecedented
+        access to paintings, drawings, etchings and sculptures held in
+        collections around the world, BECAUSE I WAS A PAINTER conducts a
+        gripping and fascinating investigation into art that captures, reflects
+        and inspires in difficult times.</image:caption
+      >
+      <image:title>Because I Was a Painter</image:title>
+    </image:image>
+  </url>
+</urlset>

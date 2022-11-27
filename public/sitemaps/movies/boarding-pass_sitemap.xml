@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627179-Boarding Pass</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627179-Boarding Pass</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r7nEkaedV3ei3geq6AJSZW81mYa.jpg</image:loc
+      >
+      <image:caption
+        >Neda decides to smuggle narcotics out of Iran to solve her financial
+        problems and the custody battle with her ex-husband over their young
+        child. However, her inexperience leads to drastic medical problems that
+        threaten her life. Unraveling over the course of a few hours, her
+        deteriorating situation and her unlikely friendship with another
+        smuggler create a tense, thrilling experience.</image:caption
+      >
+      <image:title>Boarding Pass</image:title>
+    </image:image>
+  </url>
+</urlset>

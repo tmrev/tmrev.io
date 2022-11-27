@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/90-Beverly Hills Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/90-Beverly Hills Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg</image:loc
+      >
+      <image:caption
+        >The heat is on in this fast paced action-comedy starring Eddie Murphy
+        as Axel Foley, a street smart Detroit cop tracking down his best
+        friend's killer in Beverly Hills. Axel quickly learns that his wild
+        style doesn't fit in with the Beverly Hills Police Department, which
+        assigns two officers to make sure things don't get out of hand. Dragging
+        the stuffy detectives along for the ride, Axel smashes through a huge
+        culture clash in his hilarious, high-speed pursuit of justice. Featuring
+        cameos by Paul Reiser, Bronson Pinchot and Damon Wayans, Beverly Hills
+        Cop is an exhilarating, sidesplitting adventure.</image:caption
+      >
+      <image:title>Beverly Hills Cop</image:title>
+    </image:image>
+  </url>
+</urlset>

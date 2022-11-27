@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/323409-Back Alley</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/323409-Back Alley</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rBSspvLlCSPg1Yv3xOz1a40wt1p.jpg</image:loc
+      >
+      <image:caption
+        >Suzanne has been a prostitute for 15 years. She has her turf, her
+        regular johns, her freedom. One day, young African prostitutes settle
+        nearby. Suzanne is threatened.</image:caption
+      >
+      <image:title>Back Alley</image:title>
+    </image:image>
+  </url>
+</urlset>

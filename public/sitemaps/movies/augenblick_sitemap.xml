@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/549136-Augenblick</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/549136-Augenblick</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xQ6rigrIRCMGrNNx00mhosuampX.jpg</image:loc
+      >
+      <image:caption
+        >The film is a small, very individual story about seeing. In 5 minutes,
+        an animation of pencil drawings shows how a figure follows one's own
+        vision ... playing with it, succumbing to it, transforming it, feeling
+        it, experiencing ... accompanied by a voice and its
+        multiple</image:caption
+      >
+      <image:title>Augenblick</image:title>
+    </image:image>
+  </url>
+</urlset>

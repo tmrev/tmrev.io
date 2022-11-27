@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/546653-Baarish Aur Chowmein</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/546653-Baarish Aur Chowmein</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rRvCNNogpnCXLKzHH2xp6lfmEsY.jpg</image:loc
+      >
+      <image:caption
+        >The story revolves around Siraj who is unable to rent a house in Mumbai
+        as not many are willing to accommodate a Muslim. So, he hides his true
+        identity and finds a home, where he falls in love with the landlord's
+        daughter, Neelu. Will Siraj be honest and disclose his secret to
+        Neelu?</image:caption
+      >
+      <image:title>Baarish Aur Chowmein</image:title>
+    </image:image>
+  </url>
+</urlset>

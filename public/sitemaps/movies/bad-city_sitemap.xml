@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/987507-Bad City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/987507-Bad City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e6Au2fDZtFSdtvml85lgEArcKu8.jpg</image:loc
+      >
+      <image:caption
+        >Kensuke Sonomura directs the legendary Hitoshi Ozawa in this ultimate
+        V-Cinema actioner. Kaiko City is plagued with poverty and crime. When a
+        corrupt businessman decides to run for mayor and starts eliminating
+        opponents from the rival mafia, a former police captain serving time for
+        murder is secretly released and put in charge of a special task force to
+        arrest him.</image:caption
+      >
+      <image:title>Bad City</image:title>
+    </image:image>
+  </url>
+</urlset>

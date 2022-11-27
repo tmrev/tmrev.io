@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/129878-Blenderstein!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/129878-Blenderstein!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sydney is a typical teenage girl with a typical job delivering
+        packages. However, this certain day will be less than typical for her
+        when a demented monkey scientist and his hunchbacked henchman abduct
+        her. Their plan consists of one brainless monster, one blender and poor
+        little Sydney of course! Written by Anonymous</image:caption
+      >
+      <image:title>Blenderstein!</image:title>
+    </image:image>
+  </url>
+</urlset>

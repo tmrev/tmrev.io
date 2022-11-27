@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26946-Attack of the Crab Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26946-Attack of the Crab Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pDaJt3Jv41mOvND7HaDnmiGsD5V.jpg</image:loc
+      >
+      <image:caption
+        >A group of scientists travel to a remote island to study the effects of
+        nuclear weapons tests, only to get stranded when their airplane
+        mysteriously explodes. The team soon discovers that the tests have given
+        rise to crabs mutated into intelligent, impervious, telepathic giants
+        intent on increasing their numbers by breeding, then travelling to
+        populated areas to feed, and which do not intend to be stopped by their
+        discoverers.</image:caption
+      >
+      <image:title>Attack of the Crab Monsters</image:title>
+    </image:image>
+  </url>
+</urlset>

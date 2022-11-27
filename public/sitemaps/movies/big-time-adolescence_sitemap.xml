@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539617-Big Time Adolescence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539617-Big Time Adolescence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg</image:loc
+      >
+      <image:caption
+        >A seemingly bright and mostly innocent 16-year-old named Mo attempts to
+        navigate high school under the guidance of his best friend Zeke, an
+        unmotivated-yet-charismatic college dropout. Although Zeke genuinely
+        cares about Mo, things start to go awry as he teaches Mo nontraditional
+        life lessons in drug dealing, partying, and dating. Meanwhile, Mo’s
+        well-meaning dad tries to step in and take back the reins of his son’s
+        upbringing.</image:caption
+      >
+      <image:title>Big Time Adolescence</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/180976-Blowing Up Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/180976-Blowing Up Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wp0dQJgQ59KXlCp3xawfgYOFUgP.jpg</image:loc
+      >
+      <image:caption
+        >Blowing Up Paradise uses color archival footage to chronicle France's
+        explosion of various nuclear devices, in violation of the international
+        test ban treaty, from the first test in 1966 to the last in 1995.
+        Interviews with former and current French government officials,
+        scientists, and nuclear advisors.</image:caption
+      >
+      <image:title>Blowing Up Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

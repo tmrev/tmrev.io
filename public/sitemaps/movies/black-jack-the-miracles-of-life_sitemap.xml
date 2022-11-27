@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/974294-Black Jack: The 4 Miracles of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/974294-Black Jack: The 4 Miracles of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1DCQ2lBcNpuS4yim2FsADcEzbNF.jpg</image:loc
+      >
+      <image:caption
+        >Black Jack is the "Surgeon with the Hands of God," a mysterious young
+        Japanese doctor who travels the world performing feats of miraculous
+        surgical genius. Though all recognize his skill, Black Jack is widely
+        hated, especially by the medical establishment, because he refuses to
+        conform to rules of any kind, and because he charges outrageous fees for
+        his services. Black Jack's only companion is Pinoko, a child he created
+        out of a special kind of tumor called a teratoma, who insists she is his
+        wife.</image:caption
+      >
+      <image:title>Black Jack: The 4 Miracles of Life</image:title>
+    </image:image>
+  </url>
+</urlset>

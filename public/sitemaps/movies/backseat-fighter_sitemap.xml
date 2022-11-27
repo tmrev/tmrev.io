@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/417978-Backseat Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/417978-Backseat Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ynnIXRXZhs1wSSjpLkUtPpOIK9V.jpg</image:loc
+      >
+      <image:caption
+        >Mark is a nomad fighter who is taken in the backseat of a car to fight
+        in underground combats. He meets Sandy, a young and beautiful prostitute
+        who shares his same desire: forget the pain and begin their lives from
+        zero. But Mark's past will catch up to him, putting in danger Sandy, his
+        escape plan, and all the people who surround him.</image:caption
+      >
+      <image:title>Backseat Fighter</image:title>
+    </image:image>
+  </url>
+</urlset>

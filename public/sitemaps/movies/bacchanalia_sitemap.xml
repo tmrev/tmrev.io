@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/461966-Bacchanalia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/461966-Bacchanalia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y57hcBXGsrUj8HfnoG6AVDYUeHM.jpg</image:loc
+      >
+      <image:caption
+        >What seems like an innocent wine tasting weekend turns into a bizarre,
+        wicked, sensually overheated debauchery, culminating in a murderous
+        grand finale evening and fateful morning after.</image:caption
+      >
+      <image:title>Bacchanalia</image:title>
+    </image:image>
+  </url>
+</urlset>

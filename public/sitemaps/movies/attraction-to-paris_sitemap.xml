@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/680764-Attraction to Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/680764-Attraction to Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tTrRAaJCJHLrOzceL0GVS2n7QnR.jpg</image:loc
+      >
+      <image:caption
+        >A college girl, studying abroad in Europe, stumbles upon a murder in
+        progress, orchestrated by a terror cell, putting her life in danger as
+        the main witness.</image:caption
+      >
+      <image:title>Attraction to Paris</image:title>
+    </image:image>
+  </url>
+</urlset>

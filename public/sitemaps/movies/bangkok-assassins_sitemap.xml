@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85619-Bangkok Assassins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85619-Bangkok Assassins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/59E7Q2aXyoTLe5dns7w1gJzP89J.jpg</image:loc
+      >
+      <image:caption
+        >Five kids fled from a mafia who abused them as beggars. They ended up
+        meeting the great kung fu master who adopted them and taught them how to
+        fight. Now, the kids are grownups and become the magnificent five kung
+        fu fighters who have only one mission: to avenge the mafia who destroyed
+        their lives.</image:caption
+      >
+      <image:title>Bangkok Assassins</image:title>
+    </image:image>
+  </url>
+</urlset>

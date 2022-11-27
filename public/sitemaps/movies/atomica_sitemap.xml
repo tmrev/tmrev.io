@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/188924-Atomica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/188924-Atomica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o0fYUDBEvymij9WM3JtG1AVrgex.jpg</image:loc
+      >
+      <image:caption
+        >In the near future, when communications go offline at a remote nuclear
+        power plant isolated in the desert, a young safety inspector, Abby
+        Dixon, is forced to fly out to bring them back online. Once inside the
+        facility, mysterious clues and strange behaviors cause Abby to have
+        doubts about the sanity, and perhaps identities, of the two employees
+        onsite.</image:caption
+      >
+      <image:title>Atomica</image:title>
+    </image:image>
+  </url>
+</urlset>

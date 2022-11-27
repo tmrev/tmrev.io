@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/3178-Beat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/3178-Beat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xU21EkXXbBC2zYH5zs4hEXFbEqI.jpg</image:loc
+      >
+      <image:caption
+        >The true story of two murders that shaped the lives of several college
+        students who went on to become some of the most influential writers of
+        the "Beat Generation."</image:caption
+      >
+      <image:title>Beat</image:title>
+    </image:image>
+  </url>
+</urlset>

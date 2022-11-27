@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435809-Bluebeard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435809-Bluebeard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cOkTC0O2ymcsem7UlYeRem0elB4.jpg</image:loc
+      >
+      <image:caption
+        >A doctor finds himself in the middle of an unsolved serial murder case
+        after discovering a secret from a sedated patient. When dismembered
+        bodies show up close to home, he must solve the riddle before the killer
+        realizes what he knows.</image:caption
+      >
+      <image:title>Bluebeard</image:title>
+    </image:image>
+  </url>
+</urlset>

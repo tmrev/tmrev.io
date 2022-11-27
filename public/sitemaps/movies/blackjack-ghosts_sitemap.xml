@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/709063-BlackJack: Ghosts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/709063-BlackJack: Ghosts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nOrAtPmMDQDxfrB3wF6J5KMjGVV.jpg</image:loc
+      >
+      <image:caption
+        >Nearly 20 years ago a young mother was shot during an apparent
+        kidnapping and subsequent police chase. Now after all that time, the man
+        in jail for the murder is about to be paroled. Jack has two missions -
+        to bring the father and his daughter back together and to find out if
+        any justice has been done by the conviction.</image:caption
+      >
+      <image:title>BlackJack: Ghosts</image:title>
+    </image:image>
+  </url>
+</urlset>

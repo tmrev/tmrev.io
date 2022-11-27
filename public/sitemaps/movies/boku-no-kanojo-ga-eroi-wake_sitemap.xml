@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034471-Boku no Kanojo ga Eroi Wake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034471-Boku no Kanojo ga Eroi Wake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w8w4bgraI6U8vWB7Npz3X0lARz6.jpg</image:loc
+      >
+      <image:caption
+        >This story began with a startling encounter when a beautiful girl
+        suddenly appeared and begged, "Train me!" What kind of ending will you
+        reach? ?</image:caption
+      >
+      <image:title>Boku no Kanojo ga Eroi Wake</image:title>
+    </image:image>
+  </url>
+</urlset>

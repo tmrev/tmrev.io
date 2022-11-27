@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35738-Bonkers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35738-Bonkers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8F1jUmQeFZANcRJJSPM5JiI2WHb.jpg</image:loc
+      >
+      <image:caption
+        >Bonnie, a nine-year-old single child, is part of a family of three
+        living in the Netherlands. They have a love of elephants, passed on by
+        Bonnie's grandfather's grandfather who worked on a game reserve in
+        Africa, and Bonnie feels that she instinctively does things like an
+        elephant as a result. Her single mother, Lis, is bi-polar and at times
+        spends days on end without even getting out of bed. Then there are other
+        times when she will manically do wild acts, such as impromptu dancing in
+        public. As a result, Bonnie's sturdy and stable grandmother must hold
+        the family together by doing all the cooking, etc. After her grandmother
+        is killed by a car, Bonnie becomes the most responsible family member
+        and struggles with preparing meals and getting her reluctant mother to
+        take her medication. She also must dodge Jorien, a social worker who is
+        attempting to place her in a foster home.</image:caption
+      >
+      <image:title>Bonkers</image:title>
+    </image:image>
+  </url>
+</urlset>

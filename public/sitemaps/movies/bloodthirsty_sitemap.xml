@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/741636-Bloodthirsty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/741636-Bloodthirsty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gCQm6zqkRiyrezyYK02NymDlybJ.jpg</image:loc
+      >
+      <image:caption
+        >When indie singer Grey struggles to write her sophomore album, she
+        teams up with a mysterious producer at his secluded cabin. Though their
+        bond strengthens her music, it also starts to irreparably alter Grey’s
+        body and mind.</image:caption
+      >
+      <image:title>Bloodthirsty</image:title>
+    </image:image>
+  </url>
+</urlset>

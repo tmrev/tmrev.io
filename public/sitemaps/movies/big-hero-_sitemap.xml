@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/177572-Big Hero 6</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/177572-Big Hero 6</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg</image:loc
+      >
+      <image:caption
+        >A special bond develops between plus-sized inflatable robot Baymax, and
+        prodigy Hiro Hamada, who team up with a group of friends to form a band
+        of high-tech heroes.</image:caption
+      >
+      <image:title>Big Hero 6</image:title>
+    </image:image>
+  </url>
+</urlset>

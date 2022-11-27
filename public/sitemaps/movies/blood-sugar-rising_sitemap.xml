@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693266-Blood Sugar Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693266-Blood Sugar Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nMc0GFr5uq3l1E82dxH48ZvK8Mu.jpg</image:loc
+      >
+      <image:caption
+        >Blood Sugar Rising follows the diabetes epidemic in the U.S. Diabetes
+        and pre-diabetes affect over 100 million people in the US, costing more
+        than $325 billion each year. Blood Sugar Rising puts human faces to
+        these statistics, exploring the history and science of the illness
+        through portraits of Americans whose stories shape the
+        film.</image:caption
+      >
+      <image:title>Blood Sugar Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

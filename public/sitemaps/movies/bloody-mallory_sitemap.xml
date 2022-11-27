@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24829-Bloody Mallory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24829-Bloody Mallory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3uenwgfTxzrTlqVndvU4N9kNhBS.jpg</image:loc
+      >
+      <image:caption
+        >Mallory is the head of an elite government-run strike force dedicated
+        to combating the supernatural. Her team includes the drag queen Vena
+        Cava, an explosives expert; a mute, pre-teen telepath capable of
+        possessing others named Talking Tina; and an armed governmental agent
+        named Durand.</image:caption
+      >
+      <image:title>Bloody Mallory</image:title>
+    </image:image>
+  </url>
+</urlset>

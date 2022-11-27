@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427025-Axolotl Overkill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427025-Axolotl Overkill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rrO2OVw8eqSlYiFboTU2H39kbA9.jpg</image:loc
+      >
+      <image:caption
+        >Mifti is a teenager as beautiful as she is reckless. Mentally unstable,
+        fed up with her dysfunctional family, oblivious to the youthful world,
+        and aware of the sexual magnetism she gives off with her peculiar
+        appearance, she wanders through the dark path of several bohemian adults
+        with questionable lifestyles.</image:caption
+      >
+      <image:title>Axolotl Overkill</image:title>
+    </image:image>
+  </url>
+</urlset>

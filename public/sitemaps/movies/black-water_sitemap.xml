@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454615-Black Water</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454615-Black Water</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tIcZAB5AmRN8fIDXfDZ2aUok9qa.jpg</image:loc
+      >
+      <image:caption
+        >A deep cover operative awakens to find himself imprisoned on a
+        submarine. With the help of a fellow prisoner and an amateur agent, he
+        must race against the clock to escape the vessel and expose who set him
+        up.</image:caption
+      >
+      <image:title>Black Water</image:title>
+    </image:image>
+  </url>
+</urlset>

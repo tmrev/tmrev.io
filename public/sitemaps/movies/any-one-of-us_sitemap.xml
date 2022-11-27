@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/576684-Any One of Us</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/576684-Any One of Us</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m0iedQBM6o3trZ8AylNR6P8xwU6.jpg</image:loc
+      >
+      <image:caption
+        >When professional mountain biker Paul Basagoitia suffers a devastating
+        spinal cord injury (SCI), his life is changed in an instant. Discovering
+        that he's become paralyzed, Paul begins a grueling battle against his
+        own body and mind, in the hope of one day being able to walk again. A
+        chorus of other diverse SCI survivors weaves through the film, shining
+        light on the struggles that Paul now faces.</image:caption
+      >
+      <image:title>Any One of Us</image:title>
+    </image:image>
+  </url>
+</urlset>

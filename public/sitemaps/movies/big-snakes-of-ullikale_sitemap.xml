@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/656104-Big Snakes of Ulli-Kale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/656104-Big Snakes of Ulli-Kale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xGWj1KVwjeGUc0bGaOoBGVeoMsa.jpg</image:loc
+      >
+      <image:caption
+        >The film is about the relations between the inhabitants of Russia and
+        the Caucasus, and about their influence on each other. Young Georgian
+        Georgi Iobadze tells the audience the story of the Vainakhs (a group of
+        peoples of the North Caucasus and Georgia) in the period from 1813 to
+        1913.</image:caption
+      >
+      <image:title>Big Snakes of Ulli-Kale</image:title>
+    </image:image>
+  </url>
+</urlset>

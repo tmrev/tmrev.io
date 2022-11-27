@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17609-Antichrist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17609-Antichrist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ulF9B5G4Np7Lwchpwpyul7NMzt1.jpg</image:loc
+      >
+      <image:caption
+        >A grieving couple retreats to their cabin 'Eden' in the woods, hoping
+        to repair their broken hearts and troubled marriage. But nature takes
+        its course and things go from bad to worse.</image:caption
+      >
+      <image:title>Antichrist</image:title>
+    </image:image>
+  </url>
+</urlset>

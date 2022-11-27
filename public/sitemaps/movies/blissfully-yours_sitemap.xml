@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47046-Blissfully Yours</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47046-Blissfully Yours</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/30iCmKCVTuFWDh7tpBKzeAHlOAQ.jpg</image:loc
+      >
+      <image:caption
+        >Min is an illegal Burmese immigrant living in Thailand who has
+        contracted a mysterious painful rash covering his upper body. His
+        girlfriend, Roong, and a middle-aged woman, Orn, take him to see a
+        doctor. Min pretends that he cannot speak because he is not fluent in
+        Thai and speaking would reveal him to be an illegal
+        immigrant.</image:caption
+      >
+      <image:title>Blissfully Yours</image:title>
+    </image:image>
+  </url>
+</urlset>

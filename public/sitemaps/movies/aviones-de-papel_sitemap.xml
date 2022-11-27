@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034847-Aviones de papel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034847-Aviones de papel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xCJewyGQJSwDaArzelkOuwgajVO.jpg</image:loc
+      >
+      <image:caption
+        >Mateo (16) goes through a confused homosexual and psychic awakening.
+        The spirit of Rosa (40), his mother, tries to say goodbye but he doesn't
+        let her. When Carmen (70s), his grandmother, is admitted to the
+        hospital, Mateo establishes a bizarre relationship with the spirit of
+        Enrique (18), who has just committed suicide. These encounters will lead
+        him to experience and cross the fine line between love, life and
+        death.</image:caption
+      >
+      <image:title>Aviones de papel</image:title>
+    </image:image>
+  </url>
+</urlset>

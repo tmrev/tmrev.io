@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/354270-Backwards Birth of a Nation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/354270-Backwards Birth of a Nation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Backwards Birth of a Nation is a re-editing of D.W. Griffith's
+        187-minute film, Birth of a Nation (1915), into a pulsating 13-minute
+        black and white phantasm. By means of structural strategies of
+        condensation, the frame by frame inversion of black and white, and
+        playing the resulting work from end to beginning, an apparition is
+        brought forth where images of racism float to the surface and are
+        contextualized as a part of the flow of United States
+        history.</image:caption
+      >
+      <image:title>Backwards Birth of a Nation</image:title>
+    </image:image>
+  </url>
+</urlset>

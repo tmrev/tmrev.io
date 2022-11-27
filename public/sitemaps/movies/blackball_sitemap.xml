@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15443-Blackball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15443-Blackball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKQJP1LOcsGwZGqiMWeEiLPRbMT.jpg</image:loc
+      >
+      <image:caption
+        >Blackball follows the fortunes of Cliff Starkey, a working-class fine
+        of lawn bowls with an exceptional talent. Wanting to take on the Aussies
+        he manages to become regional champion, only to get banned. Sports agent
+        Rich Schwartz picks him up and makes him so popular the Bowls Committee
+        deem to lift the ban. Now the question is whether he can regain his form
+        and his friends to beat the Aussies.</image:caption
+      >
+      <image:title>Blackball</image:title>
+    </image:image>
+  </url>
+</urlset>

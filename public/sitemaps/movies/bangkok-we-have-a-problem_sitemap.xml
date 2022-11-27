@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295087-Bangkok, We Have A Problem!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295087-Bangkok, We Have A Problem!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8CQa9RqPUmAFGKk9d8U17CgyDRR.jpg</image:loc
+      >
+      <image:caption
+        >Serge Renart, a television journalist who's now a has-been, and Natacha
+        Bison, a war reporter who has been laid off because she posed too much
+        of a danger to her colleagues, find themselves forced to investigate a
+        story together, which will take them to Thailand, in search of one of
+        the best kept secrets of contemporary history. What really happened
+        during the televised broadcast of the Apollo 11 mission, when man first
+        walked on the moon?</image:caption
+      >
+      <image:title>Bangkok, We Have A Problem!</image:title>
+    </image:image>
+  </url>
+</urlset>

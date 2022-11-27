@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328733-Babbleonia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328733-Babbleonia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1VsfOjGGDy6bfiDul726n855VBl.jpg</image:loc
+      >
+      <image:caption
+        >A retrospective of Al Pacino's remarkable, lengthy, and well-rounded
+        career in his own words. Follows Pacino through his years as an actor
+        and director.</image:caption
+      >
+      <image:title>Babbleonia</image:title>
+    </image:image>
+  </url>
+</urlset>

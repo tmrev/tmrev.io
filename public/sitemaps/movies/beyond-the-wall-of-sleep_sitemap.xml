@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71690-Beyond the Wall of Sleep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71690-Beyond the Wall of Sleep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jBCc7gJnvOmUHch2eHETjN9D2F3.jpg</image:loc
+      >
+      <image:caption
+        >Joe Slaader is a mysterious mountain man being held in the Ulster
+        County Asylum after the brutal murder of his family. Edward Eischel, a
+        young intern, sees something more than just an inbred monster in this
+        new inmate, however. Instead, he sees him as the harbinger of some
+        greater and much darker force. With bodies piling up, his job in
+        jeopardy, and his sanity hanging in the balance he gives in to his
+        obsession with tapping into Joe's hidden power, risking all that he has
+        along the way.</image:caption
+      >
+      <image:title>Beyond the Wall of Sleep</image:title>
+    </image:image>
+  </url>
+</urlset>

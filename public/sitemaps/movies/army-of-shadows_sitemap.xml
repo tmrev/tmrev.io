@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15383-Army of Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15383-Army of Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg</image:loc
+      >
+      <image:caption
+        >Betrayed by an informant, Philippe Gerbier finds himself trapped in a
+        torturous Nazi prison camp. Though Gerbier escapes to rejoin the
+        Resistance in occupied Marseilles, France, and exacts his revenge on the
+        informant, he must continue a quiet, seemingly endless battle against
+        the Nazis in an atmosphere of tension, paranoia and
+        distrust.</image:caption
+      >
+      <image:title>Army of Shadows</image:title>
+    </image:image>
+  </url>
+</urlset>

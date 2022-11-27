@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475997-Baja's Studio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475997-Baja's Studio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vdlU59G7NVcCY1vydPfEKp28KSN.jpg</image:loc
+      >
+      <image:caption
+        >Kohata Anime Studio is a place full of dreams where animation is made.
+        Baja was raised in this studio by the people who create animation.
+        Floating in a pond outside are his friends the ducks. One night, when
+        all the people are no longer at the studio, Baja takes a peek outside
+        and finds that his duck friends are being attacked by a cat. Will Baja
+        be able to save his friends? A wondrous night adventure
+        begins.</image:caption
+      >
+      <image:title>Baja's Studio</image:title>
+    </image:image>
+  </url>
+</urlset>

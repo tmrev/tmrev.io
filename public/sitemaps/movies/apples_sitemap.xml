@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/652156-Apples</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/652156-Apples</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y01oCxaxGjY0wPkWpCU8JrZ2MPd.jpg</image:loc
+      >
+      <image:caption
+        >Aris, a solitary man in his late thirties, becomes a victim of an
+        unexplained surge of memory loss disorders in his city and is forced to
+        confront his severe amnesia through an experimental new
+        treatment.</image:caption
+      >
+      <image:title>Apples</image:title>
+    </image:image>
+  </url>
+</urlset>

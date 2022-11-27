@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/669798-Before the Night Is Over</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/669798-Before the Night Is Over</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hYMAmJDRdw6lHILjHpNDcsR4yk0.jpg</image:loc
+      >
+      <image:caption
+        >When Samantha loses her parents in an accident, she is sent to live
+        with her aunt who runs a bordello. Inside she will find not only the
+        passions of those who live there, but also unlock the secrets to a
+        series of violent murders.</image:caption
+      >
+      <image:title>Before the Night Is Over</image:title>
+    </image:image>
+  </url>
+</urlset>

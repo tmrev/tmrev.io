@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226517-Big Mike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226517-Big Mike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A film about a Swedish aborigin on a journey in search of his roots.
+        Produced by Nordisk Film och TV in cooperation with SVT, Dokumentär,
+        Håkan Berthas och Hanna Heilborn (Story). Mike was born in Cherbourg,
+        Australia, a former reservation for indigenous australians. Just a
+        couple of days old he’s adopted by a swedish couple living in the
+        country. When the film starts Mike has no family left, he is 21 years
+        old and stays at his best friends home in Northern Sweden, dreaming of
+        becoming a rap-artist. One day he gets a phone call. It’s a woman saying
+        she’s his biological mum in Australia…. From there we follow Mike during
+        three crucial years, on a journey that will change his life
+        forever.</image:caption
+      >
+      <image:title>Big Mike</image:title>
+    </image:image>
+  </url>
+</urlset>

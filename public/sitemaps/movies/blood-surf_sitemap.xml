@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/776211-Blood Surf</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/776211-Blood Surf</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aFu8gKU13unZP6RH546MMCfcqd4.jpg</image:loc
+      >
+      <image:caption
+        >A shy tattoo artist must infiltrate a notorious gang of surf witches to
+        discover what happened to her missing brother.</image:caption
+      >
+      <image:title>Blood Surf</image:title>
+    </image:image>
+  </url>
+</urlset>

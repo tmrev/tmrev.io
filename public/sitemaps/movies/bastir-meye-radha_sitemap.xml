@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1000321-Bastir Meye Radha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1000321-Bastir Meye Radha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/53L9u6adAZjifzTe7NIJSsoTvtS.jpg</image:loc
+      >
+      <image:caption
+        >Radha's life takes a downward spiral after her mother is killed. Fate
+        brings her to the city and she gets a job as a house help. Things change
+        when she falls in love with the handsome owner.</image:caption
+      >
+      <image:title>Bastir Meye Radha</image:title>
+    </image:image>
+  </url>
+</urlset>

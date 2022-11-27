@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/841591-Bad Ben: Pandemic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/841591-Bad Ben: Pandemic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Ar8tvpKRgT9v7qWVYKQ4urgqgQH.jpg</image:loc
+      >
+      <image:caption
+        >Amid a global pandemic, Tom Riley offers his services to people trying
+        to determine whether they are experiencing paranormal
+        activity.</image:caption
+      >
+      <image:title>Bad Ben: Pandemic</image:title>
+    </image:image>
+  </url>
+</urlset>

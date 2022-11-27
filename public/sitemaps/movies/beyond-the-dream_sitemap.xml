@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/674813-Beyond the Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/674813-Beyond the Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g7H6VJYT9uKdDsnbuQba4KCrcYt.jpg</image:loc
+      >
+      <image:caption
+        >Lok is a recovering schizophrenic who yearns for love. One day, he
+        encounters the young and beautiful Yan and quickly falls in love with
+        her. The pair develops a relationship that is beyond their wildest
+        dreams.</image:caption
+      >
+      <image:title>Beyond the Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

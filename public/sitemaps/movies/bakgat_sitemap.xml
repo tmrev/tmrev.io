@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20081-Bakgat!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20081-Bakgat!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y1yDayE9WIOtcpCws0arETW7IQb.jpg</image:loc
+      >
+      <image:caption
+        >Katrien (Cherié van der Merwe) is dumped by her boyfriend, high school
+        rugby star Werner (Altus Theart), so he can focus his energy on the
+        sport. To get even, she makes a bet with her friends that she can make a
+        star out of the school's dorkiest boy, 'Wimpie' Koekemoer (Ivan Botha),
+        by pretending to be his girlfriend. The awkward Koekemoer rises to the
+        challenge but Katrien finds herself falling unexpectedly in love with
+        him, until he realizes she is merely using him.</image:caption
+      >
+      <image:title>Bakgat!</image:title>
+    </image:image>
+  </url>
+</urlset>

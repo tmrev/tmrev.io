@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228562-Apostle of Dracula</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228562-Apostle of Dracula</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uWQGdAh2e6Gzh288efx6F5ftsN.jpg</image:loc
+      >
+      <image:caption
+        >A beautiful young woman, Lucy, has a passionate and bloody affair with
+        Count Dracula. Many years later, as she recovers from a strange amnesia,
+        she begins to realize her true identity as a creature who is thirsty of
+        blood. Occult expert Van Helsing tries to save Lucy from the clutches of
+        the vampire, but will her dark dream of living eternally with Dracula
+        come true'</image:caption
+      >
+      <image:title>Apostle of Dracula</image:title>
+    </image:image>
+  </url>
+</urlset>

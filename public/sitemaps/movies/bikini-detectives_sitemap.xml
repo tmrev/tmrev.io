@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484637-Bikini Detectives</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484637-Bikini Detectives</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f5iEXeqfRi2xeQPxVbPt5MWzZVH.jpg</image:loc
+      >
+      <image:caption
+        >The girls of Epsilon Chi want to go on spring break but are hopelessly
+        broke. Failing at several jobs, they finally get help from Kelly's
+        uncle, a private detective, who gives them some cases. But no one is
+        prepared for how these girls operate undercover and under the
+        covers!</image:caption
+      >
+      <image:title>Bikini Detectives</image:title>
+    </image:image>
+  </url>
+</urlset>

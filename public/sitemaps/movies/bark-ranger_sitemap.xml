@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/325110-Bark Ranger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/325110-Bark Ranger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z8naofIU9cJeJOmQfUBHrPkySmi.jpg</image:loc
+      >
+      <image:caption
+        >Two kids and their trusty dog, Ranger, stumble across a treasure map
+        while playing in an abandoned ranger station. They set out on the
+        adventure of a lifetime in search of a forgotten gold mine, but things
+        take a turn for the worst when they come across a pair of bumbling
+        crooks hiding out from the police.</image:caption
+      >
+      <image:title>Bark Ranger</image:title>
+    </image:image>
+  </url>
+</urlset>

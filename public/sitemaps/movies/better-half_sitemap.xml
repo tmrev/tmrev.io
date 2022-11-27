@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478550-Better Half</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478550-Better Half</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zLEzXIuCZcByscbJD8RWUxtC91w.jpg</image:loc
+      >
+      <image:caption
+        >For years, Tony and Leo have been a happy couple. They had always
+        talked about having a child... someday. So when a sickly infant is
+        abandoned at a local hospital, Tony sees it as a sign. Suddenly, Leo is
+        confronted with making good on his promise to start a family; he must
+        face his deep-seeded fears of being a father, or risk losing Tony
+        altogether.</image:caption
+      >
+      <image:title>Better Half</image:title>
+    </image:image>
+  </url>
+</urlset>

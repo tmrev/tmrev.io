@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/952478-Assailant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/952478-Assailant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hJI2zgBv6vcADNIrkygqpEaUcRA.jpg</image:loc
+      >
+      <image:caption
+        >A British couple, whose marriage is on the rocks, sails to the
+        Caribbean in hopes of saving their marriage. After a seemingly harmless
+        bar fight between the husband and a mysterious drifter, the situation
+        devolves into a dangerous game of cat and mouse. The couple must fight
+        together to save themselves from the ASSAILANT.</image:caption
+      >
+      <image:title>Assailant</image:title>
+    </image:image>
+  </url>
+</urlset>

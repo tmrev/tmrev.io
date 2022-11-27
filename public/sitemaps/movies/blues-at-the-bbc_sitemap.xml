@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/144765-Blues at the BBC</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/144765-Blues at the BBC</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zzOqiqFMjWZUVQPbC06u34m6DwE.jpg</image:loc
+      >
+      <image:caption
+        >Collection of performances by British and American blues artists on BBC
+        programmes such as The Beat Room, A Whole Scene Going, The Old Grey
+        Whistle Test and The Late Show. Includes the seminal slide guitar of Son
+        House, the British R&amp;B of The Kinks, the unmistakable electric sound
+        of B.B. King, Buddy Guy, Eric Clapton and John Lee Hooker, as well as
+        less-familiar material from the likes of Delaney and Bonnie, Freddie
+        King and Long John Baldry.</image:caption
+      >
+      <image:title>Blues at the BBC</image:title>
+    </image:image>
+  </url>
+</urlset>

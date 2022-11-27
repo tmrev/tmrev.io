@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/962335-Atchafalaya Houseboat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/962335-Atchafalaya Houseboat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vb0hodbNiXCYlQ76zOBgoH33Gs5.jpg</image:loc
+      >
+      <image:caption
+        >The Atchafalaya is a mysterious land, as much underwater as above. Its
+        lush environment is home to alligators, egrets, black bears – and for a
+        time two people who yearned for a simple, natural life. Atchafalaya
+        Houseboat shares the experiences of Gwen Roland and her companion Calvin
+        Voisin, who left civilization in the turmoil of the early 1970s for the
+        unspoiled beauty of the nation’s largest river swamp, Louisiana’s
+        Atchafalaya Basin.</image:caption
+      >
+      <image:title>Atchafalaya Houseboat</image:title>
+    </image:image>
+  </url>
+</urlset>

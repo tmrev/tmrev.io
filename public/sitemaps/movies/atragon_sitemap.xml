@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35072-Atragon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35072-Atragon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u5fD2mfsovtW1Pn2Umtl2G3280w.jpg</image:loc
+      >
+      <image:caption
+        >The legendary empire of the lost continent of Mu reappears to threaten
+        the world with domination. While countries unite to resist, an isolated
+        World War II Captain has created the greatest warship ever seen, and
+        possibly the surface world's only defense.</image:caption
+      >
+      <image:title>Atragon</image:title>
+    </image:image>
+  </url>
+</urlset>

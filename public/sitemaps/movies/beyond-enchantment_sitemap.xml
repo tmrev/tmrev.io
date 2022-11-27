@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400952-Beyond Enchantment</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400952-Beyond Enchantment</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bgCg9GewR4mIgcZAWOHHvww8Tp9.jpg</image:loc
+      >
+      <image:caption
+        >Where all is static motion; where music and light become one; where
+        change and motion become one; and where the end is the beginning. Black
+        and white cut-out animation with touches of color. Ladies of the past
+        encounter science and natural phenomena.</image:caption
+      >
+      <image:title>Beyond Enchantment</image:title>
+    </image:image>
+  </url>
+</urlset>

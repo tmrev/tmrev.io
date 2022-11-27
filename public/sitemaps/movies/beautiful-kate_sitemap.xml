@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29483-Beautiful Kate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29483-Beautiful Kate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ewcjDwk8RwbR2ERo9uq2qXbW7R.jpg</image:loc
+      >
+      <image:caption
+        >Ned Kendall is asked to return to the remote and isolated family home
+        by his sister, to say goodbye to his father who is dying. Ned also
+        brings his young aspiring actress fiancee who struggles with the
+        isolation. When home he starts having memories of his childhood many
+        involving his beautiful twin sister and his older brother. These
+        memories awaken long-buried secrets from the family's
+        past.</image:caption
+      >
+      <image:title>Beautiful Kate</image:title>
+    </image:image>
+  </url>
+</urlset>

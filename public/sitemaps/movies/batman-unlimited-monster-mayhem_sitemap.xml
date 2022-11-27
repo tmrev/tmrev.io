@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342917-Batman Unlimited: Monster Mayhem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342917-Batman Unlimited: Monster Mayhem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jceXBNFMPLAKlo2MPJGJlXJBQJL.jpg</image:loc
+      >
+      <image:caption
+        >The Joker is aided in his Halloween quest to render modern technology
+        useless and take over Gotham City by Solomon Grundy, Silver Banshee,
+        Clayface and Scarecrow.</image:caption
+      >
+      <image:title>Batman Unlimited: Monster Mayhem</image:title>
+    </image:image>
+  </url>
+</urlset>

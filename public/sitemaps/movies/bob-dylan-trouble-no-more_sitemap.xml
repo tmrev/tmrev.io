@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473420-Bob Dylan - Trouble No More</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473420-Bob Dylan - Trouble No More</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lXu4BpDGAnfdvCgGeULeusT9IqP.jpg</image:loc
+      >
+      <image:caption
+        >This very special film consists of truly electrifying video footage
+        from Bob Dylan’s “born again” period, shot on the last leg of his
+        ’79-’80 tour, much of it thought to have been lost for years and all
+        newly restored.</image:caption
+      >
+      <image:title>Bob Dylan - Trouble No More</image:title>
+    </image:image>
+  </url>
+</urlset>

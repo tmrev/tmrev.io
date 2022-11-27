@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/525661-Bombshell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/525661-Bombshell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg</image:loc
+      >
+      <image:caption
+        >Bombshell is a revealing look inside the most powerful and
+        controversial media empire of all time; and the explosive story of the
+        women who brought down the infamous man who created it.</image:caption
+      >
+      <image:title>Bombshell</image:title>
+    </image:image>
+  </url>
+</urlset>

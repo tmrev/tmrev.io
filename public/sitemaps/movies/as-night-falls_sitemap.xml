@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30510-As Night Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30510-As Night Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9MfmOVyCNHhMCQxB0CdK6RGO91v.jpg</image:loc
+      >
+      <image:caption
+        >10 year old Amelia's parents think it's time for her to go to sleep
+        permanently,..... leaving her broken body in a silent shallow grave. 50
+        years later, Mommy and Daddy are back from hell, intent on wreaking the
+        same deadly discipline on anyone not in bed by nightfall</image:caption
+      >
+      <image:title>As Night Falls</image:title>
+    </image:image>
+  </url>
+</urlset>

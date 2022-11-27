@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/606711-Boogie Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/606711-Boogie Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pbXa3w5BQSe3skIh1guw76rDiVM.jpg</image:loc
+      >
+      <image:caption
+        >A British-Indian teenager struggles with his cultural heritage in
+        modern-day London, falling for a white, 20-something actress/model
+        during a 1970s-themed exhibition, and becoming obsessed with both her,
+        the fashion and music of a seemingly more glamorous '70s era, all the
+        while trying to keep his family's Indian traditionalism and the
+        impending responsibilities of adulthood at bay.</image:caption
+      >
+      <image:title>Boogie Man</image:title>
+    </image:image>
+  </url>
+</urlset>

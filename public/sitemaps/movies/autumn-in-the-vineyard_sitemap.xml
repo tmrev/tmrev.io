@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413441-Autumn in the Vineyard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413441-Autumn in the Vineyard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sQlwgS9nlvgMYH70J0N9tVUgXH9.jpg</image:loc
+      >
+      <image:caption
+        >When Frankie Baldwin and Nate Deluca both have a claim to ownership of
+        Sorrento Farm, they are forced to divide the vineyard right down the
+        middle and work the fields alongside each other to bring in the harvest
+        leading up to the Best Wine competition at the annual Autumn Harvest
+        Festival -- only this rivalry won't be settled in the fields, because in
+        spite of their contentious bickering, the simplest way to settle this
+        particular legal dispute is with a romance.</image:caption
+      >
+      <image:title>Autumn in the Vineyard</image:title>
+    </image:image>
+  </url>
+</urlset>

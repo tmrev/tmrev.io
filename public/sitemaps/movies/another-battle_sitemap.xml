@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312401-Another Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312401-Another Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2TBxKwIaJD5Qv7RmkgtjZ0OA1qE.jpg</image:loc
+      >
+      <image:caption
+        >Former childhood friends Kadoya Kaneo and Tochino Masatatsu cross paths
+        again. Kaneo is now a yakuza member, while Masatatsu is a nightclub
+        owner with a distaste for crime gangs. When a yakuza boss dies, a
+        struggle for his position takes place between Kaneo's boss Awano and the
+        young Nakahira. Nakahira's men try to extort money from Masatatsu,
+        bringing him in between a yakuza battle.</image:caption
+      >
+      <image:title>Another Battle</image:title>
+    </image:image>
+  </url>
+</urlset>

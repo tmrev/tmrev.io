@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/431112-Awakening the Zodiac</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/431112-Awakening the Zodiac</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qSk8EX5OTexKp90ZPZufDjSZ6ux.jpg</image:loc
+      >
+      <image:caption
+        >The story follows a down-on-their-luck couple who discovers a serial
+        killer's film reels. They decide to take the law into their own hands,
+        risking everything for the chance at a $100,000 reward. It isn't long
+        until they find themselves in the killer's lethal
+        cross-hairs.</image:caption
+      >
+      <image:title>Awakening the Zodiac</image:title>
+    </image:image>
+  </url>
+</urlset>

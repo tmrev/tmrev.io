@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/923321-Basic Slaughter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/923321-Basic Slaughter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2aHzCEEK2Ebk4I8WWf3acyesDOS.jpg</image:loc
+      >
+      <image:caption
+        >Rotary, Pennsylvania was a nice place to live, until yesterday. A
+        killer appeared without warning. He is on a murder spree, killing
+        whoever he can.</image:caption
+      >
+      <image:title>Basic Slaughter</image:title>
+    </image:image>
+  </url>
+</urlset>

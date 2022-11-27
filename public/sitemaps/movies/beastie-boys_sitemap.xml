@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69383-Beastie Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69383-Beastie Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8eZf0DVwblelwxjyoqpx1Ti6N8V.jpg</image:loc
+      >
+      <image:caption
+        >Two friends are involved in the male escort business. One starts an
+        honest relationship with one of his clients. The other cheats on his
+        girlfriend and has his many scams catch up to him.</image:caption
+      >
+      <image:title>Beastie Boys</image:title>
+    </image:image>
+  </url>
+</urlset>

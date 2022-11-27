@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/151772-Be Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/151772-Be Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9GKPeGJZ0IatC0uMZxvXRGoXIj6.jpg</image:loc
+      >
+      <image:caption
+        >A gay man is about to be married. He thinks back to when he was a
+        kissing virgin, waiting for the right person with whom to have that
+        first kiss.</image:caption
+      >
+      <image:title>Be Mine</image:title>
+    </image:image>
+  </url>
+</urlset>

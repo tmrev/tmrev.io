@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/128484-Boogeyman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/128484-Boogeyman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ks438f3Y25Bw5GnOmNNID7Rt7Mp.jpg</image:loc
+      >
+      <image:caption
+        >A group of young boys inadvertently free the creature from captivity.
+        Going on a rampage, the Boogeyman, whose origin dates back to the time
+        of Genesis, targets an innocent child – whose father is the town
+        Sheriff.</image:caption
+      >
+      <image:title>Boogeyman</image:title>
+    </image:image>
+  </url>
+</urlset>

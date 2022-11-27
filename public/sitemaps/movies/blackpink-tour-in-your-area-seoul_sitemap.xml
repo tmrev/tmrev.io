@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/712246-BLACKPINK 2018 Tour 'In Your Area'
+      Seoul</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/712246-BLACKPINK 2018 Tour 'In Your Area'
+      Seoul</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hCEkzVJsHkRFuBxqWUd0um7ZPXy.jpg</image:loc
+      >
+      <image:caption
+        >Recorded during their 2018 world tour, which features songs spanning
+        their three EPs and solo acts from every member of the multi million
+        selling group.</image:caption
+      >
+      <image:title>BLACKPINK 2018 Tour 'In Your Area' Seoul</image:title>
+    </image:image>
+  </url>
+</urlset>

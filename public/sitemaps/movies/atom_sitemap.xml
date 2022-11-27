@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/903631-Atom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/903631-Atom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ajfwZWgL27wP35V3V5d8wAo7AUc.jpg</image:loc
+      >
+      <image:caption
+        >A lonely robot named ATOM lives out his mundane days taking care of the
+        BIOS, a terraforming vessel out in space. But when Hal and Leah, a young
+        couple in distress, arrive at his door begging to be let in, he realizes
+        he may never have to be alone again.</image:caption
+      >
+      <image:title>Atom</image:title>
+    </image:image>
+  </url>
+</urlset>

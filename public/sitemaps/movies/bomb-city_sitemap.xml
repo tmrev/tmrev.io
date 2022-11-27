@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396774-Bomb City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396774-Bomb City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kho48mWJ5xuiLn5bpuIvO6ZP7ep.jpg</image:loc
+      >
+      <image:caption
+        >A crime-drama, about the cultural aversion of a group of punk rockers
+        in a conservative Texas town. Their ongoing battle with a rival,
+        more-affluent clique leads to a controversial hate crime that questions
+        the morality of American justice.</image:caption
+      >
+      <image:title>Bomb City</image:title>
+    </image:image>
+  </url>
+</urlset>

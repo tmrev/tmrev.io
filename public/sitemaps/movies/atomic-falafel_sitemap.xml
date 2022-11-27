@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/359298-Atomic Falafel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/359298-Atomic Falafel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2pO0BCClOZHKhKy9y6WC91OTakv.jpg</image:loc
+      >
+      <image:caption
+        >Two girls from nuclear towns in Israel and Iran spill their countries
+        most valuable secrets on Facebook while trying to prevent a nuclear
+        crisis.</image:caption
+      >
+      <image:title>Atomic Falafel</image:title>
+    </image:image>
+  </url>
+</urlset>

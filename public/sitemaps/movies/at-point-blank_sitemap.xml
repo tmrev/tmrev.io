@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8743-At Point Blank</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8743-At Point Blank</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cKM1WFryP4NpzpnYcPgPswj5Mh9.jpg</image:loc
+      >
+      <image:caption
+        >A gang of highly efficient and cold hearted robbers strike against a
+        number of banks in Stockholm. The investigation ends up with the
+        criminal detective Klara and the SWAT commander Greger Krona, who
+        together lead the hunt for the robbers. Their investigation takes them
+        in a dangerous direction that proves to have unforeseen consequences.
+        The hunt for the robbers is intense and their methods become more
+        refined and terrifying. Klara ends up in the line of fire, both
+        literally and figuratively, and the investigation takes her in a
+        direction that she could never have imagined.</image:caption
+      >
+      <image:title>At Point Blank</image:title>
+    </image:image>
+  </url>
+</urlset>

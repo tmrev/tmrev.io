@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/313249-Artists of the 20th Century: Andy
+      Warhol</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/313249-Artists of the 20th Century: Andy
+      Warhol</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Considered by many to be the most influential American artist in the
+        second half of the 20th century, Andy Warhol used commercial
+        silk-screening techniques to create identical mass-produced images on
+        canvas, and then added variations in color to give each print of an
+        edition a different look. His quirky series of films (many shot at his
+        Manhattan studio loft called "The Factory") were also
+        influential.</image:caption
+      >
+      <image:title>Artists of the 20th Century: Andy Warhol</image:title>
+    </image:image>
+  </url>
+</urlset>

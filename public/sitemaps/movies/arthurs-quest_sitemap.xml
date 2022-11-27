@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/233687-Arthurs Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/233687-Arthurs Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nlC892G3RNdPTBnu2Yt0ctdnNOT.jpg</image:loc
+      >
+      <image:caption
+        >To escape the clutches of the evil warrior and sorceress Morgana,
+        Merlin transports young King Arthur into modern day America. When Merlin
+        comes back ten years later to retrieve him, he finds a hip 15 year-old
+        Arthur who does not believe Merlin, nor does he want to return to the
+        past. Merlin must convince Arthur of his true identity, before Morgana
+        can retrieve Excalibur and allow the Dark Forces to take over the
+        world.</image:caption
+      >
+      <image:title>Arthurs Quest</image:title>
+    </image:image>
+  </url>
+</urlset>

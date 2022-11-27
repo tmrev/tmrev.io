@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416728-Ari Ari the Korean Cinema</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416728-Ari Ari the Korean Cinema</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/15vLmV520q0wRuRSjPvmKUbonJh.jpg</image:loc
+      >
+      <image:caption
+        >Director Chung Ji-Young criticizes the thought that older directors
+        have difficulties in making certain movies. Actress Yoon Jin-Seo
+        agonizes over her identity as an actress. In 2009, before the movie
+        "Unbowed" was made, they met and planned a documentary about Korean
+        movies, including the processes a Korean movie goes through and
+        difficulites. "Ari Ari the Korean Cinema" is a documentary with
+        interviews of Korean directors, actors and actresses.</image:caption
+      >
+      <image:title>Ari Ari the Korean Cinema</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/786654-Beautiful Frenzy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/786654-Beautiful Frenzy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Dutch band The Ex has been around for more than twenty years. All
+        this time, nothing much has changed. Only their music is constantly
+        developing. From straightforward punk to improvised music - again and
+        again, new ground is broken. The music, the mutual concord and the
+        interaction with the audience reflect an attitude to life based on
+        obstinacy and curiosity, and certainly not on conformity or pleasing
+        large audiences. The Ex organise their own concerts, have their own
+        record label and play with just as much fervour in a hall with three
+        thousand people as in a tiny squat. With this rather un-American style,
+        the band has managed to survive for many years in a music industry that
+        is mainly concerned with sales figures.</image:caption
+      >
+      <image:title>Beautiful Frenzy</image:title>
+    </image:image>
+  </url>
+</urlset>

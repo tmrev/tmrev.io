@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/269057-Bang Bang Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/269057-Bang Bang Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nd5cZ2b9SfsE3I0du7FQNon1QRB.jpg</image:loc
+      >
+      <image:caption
+        >A small town teenager in the 1960s believes her dreams of becoming a
+        famous singer will come true when her rock star idol gets stranded in
+        town. But a leak in a nearby chemical plant that is believed to be
+        causing mass mutations threatens to turn her dream into a
+        nightmare.</image:caption
+      >
+      <image:title>Bang Bang Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

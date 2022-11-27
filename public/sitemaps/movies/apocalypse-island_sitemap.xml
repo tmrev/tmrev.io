@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/976063-Apocalypse Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/976063-Apocalypse Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lF0mwO10yEJo7tgtj9IxwfhCwfO.jpg</image:loc
+      >
+      <image:caption
+        >Dr. Jeff Salz embarks on an amazing journey of discovery about the
+        Mayans. Along the way, Dr. Salz and his team reveal the lessons from the
+        Mayan Story about change and transformation...</image:caption
+      >
+      <image:title>Apocalypse Island</image:title>
+    </image:image>
+  </url>
+</urlset>

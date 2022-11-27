@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/939816-Boo Yang Man Floater</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/939816-Boo Yang Man Floater</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rVv13s8ElyFI4zGme8y160VjeJT.jpg</image:loc
+      >
+      <image:caption
+        >A flute with the ability to levitate objects. One day, while playing
+        with a teddy bear at home, he becomes playful and goes out and starts
+        floating everything he sees into the air.</image:caption
+      >
+      <image:title>Boo Yang Man Floater</image:title>
+    </image:image>
+  </url>
+</urlset>

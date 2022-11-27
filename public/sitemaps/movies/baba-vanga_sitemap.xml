@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/543040-Baba Vanga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/543040-Baba Vanga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eDBI1wyY666Xq1Qe7ViczQHZInu.jpg</image:loc
+      >
+      <image:caption
+        >Memories of the life and visions of the Balkan prophet Baba Vanga, who
+        was predicted the future of human kind and the world up to its end in
+        the year 5079. Baba Vanga, as an older woman, tells how she lost her
+        sight but "began to see". Following an accident, ghosts of dead people
+        came to her to reveal what would happen to the world. Some of her
+        predictions actually happened, some didn't, and for many predictions
+        time will show.</image:caption
+      >
+      <image:title>Baba Vanga</image:title>
+    </image:image>
+  </url>
+</urlset>

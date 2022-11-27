@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/448289-Beautiful Devils</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/448289-Beautiful Devils</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uHo2ULuiIAHzqG3bJmEh4Vc9Njs.jpg</image:loc
+      >
+      <image:caption
+        >A modern retelling of Shakespeare's Othello set within the music scene
+        of East London. Oz and Ivan are lifelong friends and music producers.
+        When Oz gets offered a lucrative recording contract, he makes the
+        decision to separate from Ivan professionally. This rejection turns to
+        rage, as Ivan plots to undermine Oz's success and get him kicked off the
+        label. The plan kickstarts an escalation of jealousy and paranoia in Oz.
+        With deadly consequences.</image:caption
+      >
+      <image:title>Beautiful Devils</image:title>
+    </image:image>
+  </url>
+</urlset>

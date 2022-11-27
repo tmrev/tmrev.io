@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/777270-Belfast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/777270-Belfast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg</image:loc
+      >
+      <image:caption
+        >Buddy is a young boy on the cusp of adolescence, whose life is filled
+        with familial love, childhood hijinks, and a blossoming romance. Yet,
+        with his beloved hometown caught up in increasing turmoil, his family
+        faces a momentous choice: hope the conflict will pass or leave
+        everything they know behind for a new life.</image:caption
+      >
+      <image:title>Belfast</image:title>
+    </image:image>
+  </url>
+</urlset>

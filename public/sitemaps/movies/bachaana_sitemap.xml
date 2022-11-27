@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/364007-Bachaana</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/364007-Bachaana</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sWIJrqWdAyPfgkSgjIR0orZprSE.jpg</image:loc
+      >
+      <image:caption
+        >A bubbly Indian girl Aalia in trouble is forced by circumstances to
+        place her faith in a Pakistani cab driver, Vicky, in Mauritius, who then
+        takes it upon himself to make Aalia's safe return to India possible.
+        Mauritius.</image:caption
+      >
+      <image:title>Bachaana</image:title>
+    </image:image>
+  </url>
+</urlset>

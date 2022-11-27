@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/492729-Attenborough and the Giant Elephant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/492729-Attenborough and the Giant Elephant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8khqNZjo5EzZhGyh4EJA6jeLzWY.jpg</image:loc
+      >
+      <image:caption
+        >David Attenborough investigates the remarkable life and death of Jumbo
+        the elephant - a celebrity animal superstar whose story is said to have
+        inspired the movie Dumbo. Attenborough joins a team of scientists and
+        conservationists to unravel the complex and mysterious story of this
+        large African elephant - an elephant many believed to be the biggest in
+        the world. With unique access to Jumbo's skeleton at the American Museum
+        of Natural History, the team work together to separate myth from
+        reality. How big was Jumbo really? How was he treated in captivity? And
+        how did he die? Jumbo's bones may offer vital clues.</image:caption
+      >
+      <image:title>Attenborough and the Giant Elephant</image:title>
+    </image:image>
+  </url>
+</urlset>

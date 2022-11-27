@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749291-Bad Hombres</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749291-Bad Hombres</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ZA79k0KUbGLJDkZhgkBHiE2fPz.jpg</image:loc
+      >
+      <image:caption
+        >Meet the Tecolotes de los Dos Laredos, the world’s only binational pro
+        baseball team, during a staggering low point in U.S.-Mexico border
+        relations. Go beyond the headlines to explore America's pastime on both
+        sides of the border, as the Tecos divide their home games between
+        stadiums in Laredo, Texas and Nuevo Laredo, Mexico. Explore the lives of
+        the players, their families and the wider community affected by divisive
+        rhetoric, but united by a common history, shared traditions and the love
+        of the game.</image:caption
+      >
+      <image:title>Bad Hombres</image:title>
+    </image:image>
+  </url>
+</urlset>

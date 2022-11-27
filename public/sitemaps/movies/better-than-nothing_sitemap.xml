@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279665-Better than Nothing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279665-Better than Nothing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9EuYhb1xZQcUqtmpLS98Lcm8dQU.jpg</image:loc
+      >
+      <image:caption
+        >The 17-year-old Tom filled out a questionnaire for the Employment
+        Agency at a vocational guidance office in his school. He falls in love
+        with the trainee, which distributed the questionnaires. In the
+        evaluation he gets out a job as an apprentice at a funeral home as a
+        funeral professional.</image:caption
+      >
+      <image:title>Better than Nothing</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/371238-Blue Demon ver.2.0</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/371238-Blue Demon ver.2.0</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/byqtYq4bObUNsJqh17cjKI4Cmud.jpg</image:loc
+      >
+      <image:caption
+        >On the way to visit Shun, who didn't attend class, Hiroshi and Anna are
+        drawn by a mysterious butterfly and enter the big house “Jail House”.
+        They get lost and wander around the house. Meanwhile, Takuro, Mika and
+        Takeshi, who bullies Shun, enter the “Jail House” to test their
+        courage.</image:caption
+      >
+      <image:title>Blue Demon ver.2.0</image:title>
+    </image:image>
+  </url>
+</urlset>

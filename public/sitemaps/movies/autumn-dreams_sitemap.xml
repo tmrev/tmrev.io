@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361745-Autumn Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361745-Autumn Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2eC09I4kkn2VkIxof7slWhdbKti.jpg</image:loc
+      >
+      <image:caption
+        >With plans to leave their small town, teenage loves Annie and Ben
+        elope. Their big city plans are halted, though, when Annie's parents
+        have the marriage annulled. Ben moves to New York, while Annie stays in
+        Iowa to help her family. Fifteen years later, both engaged to their
+        respective fiancés, the two discover that their annulment was never
+        finalized. They reunite to make their divorce legal, but begin to
+        reminisce about what could have been. When romantic feelings resurface,
+        Annie and Ben must decide if their past love could be the love of their
+        future.</image:caption
+      >
+      <image:title>Autumn Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

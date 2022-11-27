@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1040508-Asylum of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1040508-Asylum of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6tKQBhCbkgzjYWUOrvfOg13GOmF.jpg</image:loc
+      >
+      <image:caption
+        >For decades, Pennhurst psychiatric hospital has been haunted by
+        turbulent supernatural forces. When a local TV show embarks on a mission
+        to capture this paranormal activity, they discover something completely
+        unexpected. As restless souls from their past torment the crew members,
+        they fear for their lives as one by one they are gruesomely murdered. In
+        a surprising revelation, they discover something more terrifying than
+        ghosts is responsible.</image:caption
+      >
+      <image:title>Asylum of the Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

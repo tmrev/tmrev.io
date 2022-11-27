@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/497269-Bad Apples</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/497269-Bad Apples</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sasH9EeTPBsJ9xW5PIG7i9Jy3Ou.jpg</image:loc
+      >
+      <image:caption
+        >It’s Halloween night, and two “bad apples” decide to play some wicked
+        tricks on the one house in a suburban cul-de-sac that is not celebrating
+        Halloween. They terrorize a young couple in their home and these tricks
+        become increasingly more sinister as the night progresses, finally
+        ending in a Halloween the entire neighborhood will never
+        forget.</image:caption
+      >
+      <image:title>Bad Apples</image:title>
+    </image:image>
+  </url>
+</urlset>

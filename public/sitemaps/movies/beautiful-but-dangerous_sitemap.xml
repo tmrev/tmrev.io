@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/74213-Beautiful but Dangerous</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/74213-Beautiful but Dangerous</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p60AZKZSyRUY03vJvgaaARALDeM.jpg</image:loc
+      >
+      <image:caption
+        >The fictitious story of a real person called Lina Cavalieri who was
+        known at the time as "the most beautiful woman in the
+        world".</image:caption
+      >
+      <image:title>Beautiful but Dangerous</image:title>
+    </image:image>
+  </url>
+</urlset>

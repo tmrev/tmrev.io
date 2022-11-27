@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/591789-Boi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/591789-Boi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2lGKEaL315JTlusiQDRobBA84ES.jpg</image:loc
+      >
+      <image:caption
+        >Boi is a young man starting out in a new job as a chauffeur. While
+        anxiously waiting for news from his girlfriend regarding a decision that
+        could change both their lives, he must accompany his first clients,
+        Michael and Gordon, two Asian businessmen who have come to Barcelona in
+        order to close a multimillion-dollar deal.</image:caption
+      >
+      <image:title>Boi</image:title>
+    </image:image>
+  </url>
+</urlset>

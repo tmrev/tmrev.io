@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/133163-Back to Your Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/133163-Back to Your Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2W3bWMNO4zmgoVwdJezUAYFY77h.jpg</image:loc
+      >
+      <image:caption
+        >1961. Father and daughter, separated during World War II, are trying to
+        meet in Berlin. He comes to Berlin from Soviet Lithuania, she comes from
+        the USA. Even if the Berlin Wall has not been built yet, the Cold War is
+        coming close to its apogee. Political and geographical situation, that
+        seemed to be favorable in the beginning, turns out to be deceptive.
+        After his arrival, the father is looked after by KGB intelligence
+        agents. They, using him as bait, are trying to lure the daughter to the
+        east side. Affected by the citie's atmospehere that's pervated with
+        distrust, she is afraid to cross the West Berlin boundary. Trying to
+        save each other from the possible trap, father and daughter are ready to
+        give up the idea of the so much desired meeting...</image:caption
+      >
+      <image:title>Back to Your Arms</image:title>
+    </image:image>
+  </url>
+</urlset>

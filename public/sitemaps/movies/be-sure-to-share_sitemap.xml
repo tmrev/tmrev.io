@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55008-Be Sure to Share</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55008-Be Sure to Share</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rxyWqDTsaGzvXZdptVZiqCKRVog.jpg</image:loc
+      >
+      <image:caption
+        >Shiro’s struggle with his father’s cancer and impending death leads to
+        a realization that he must communicate his love and admiration for him
+        before it’s too late. A series of flashbacks reveals their relationship
+        over time, and the trouble Shiro faced connecting to his strict father
+        who was also his teacher and soccer coach. With a consuming secret of
+        his own, Shiro, now in his late twenties and about to get engaged, must
+        eventually learn how to share the pain of it with his loved
+        ones.</image:caption
+      >
+      <image:title>Be Sure to Share</image:title>
+    </image:image>
+  </url>
+</urlset>

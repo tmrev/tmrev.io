@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375517-Blur: New World Towers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375517-Blur: New World Towers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ujaxp5dfm7WZ4EnhSHcl0A3mPg.jpg</image:loc
+      >
+      <image:caption
+        >Charts the iconic British band’s sprawling journey over the last few
+        years – from an unexpected break in Hong Kong which sowed the seeds for
+        their first album as a four piece in 16 years, to a glorious home coming
+        show in London and, finally, an emotional reunion with their Hong Kong
+        audience.</image:caption
+      >
+      <image:title>Blur: New World Towers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416644-Ayotzinapa en mí</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416644-Ayotzinapa en mí</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9GsgUyMXmIFHK7yJCsNk8fnUmgf.jpg</image:loc
+      >
+      <image:caption
+        >Documentary on the 43 normalistas students who disappeared from the
+        state of Guerrero, Mexico in 2014. This film seeks to understand what
+        really happened with the students of Ayotzinapa and, beyond these
+        disappearances, what is happening in Mexico that has transformed this
+        state into a human rights violator.</image:caption
+      >
+      <image:title>Ayotzinapa en mí</image:title>
+    </image:image>
+  </url>
+</urlset>

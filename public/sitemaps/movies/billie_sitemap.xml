@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/649137-Billie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/649137-Billie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ypIq3W5OQjZjBGJQk9l4cHjR6Lu.jpg</image:loc
+      >
+      <image:caption
+        >‘Lady Day’ was one of the greatest jazz vocalists the world ever heard.
+        In 1971, journalist Linda Lipnack Kuehl set out to write the definitive
+        biography of Billie Holiday. Before her mysterious death in 1978,
+        Lipnack Kuehl had taped over 200 hours of interviews. The tapes have
+        never been heard. Now they form the basis of an atmospheric,
+        multi-layered documentary that captures the many complex facets of a
+        proud black woman, violent drug addict, loyal friend, vindictive lover
+        and unforgettable singer of ‘God Bless The Child’, ‘Saddest Tale’ and
+        the haunting ‘Strange Fruit’.</image:caption
+      >
+      <image:title>Billie</image:title>
+    </image:image>
+  </url>
+</urlset>

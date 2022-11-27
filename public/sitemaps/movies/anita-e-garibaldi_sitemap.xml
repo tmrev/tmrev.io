@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/227952-Anita e Garibaldi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/227952-Anita e Garibaldi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rQlD77BGJdLRpEPwYDychRxFsII.jpg</image:loc
+      >
+      <image:caption
+        >Giuseppe Garibaldi (Gabriel Braga Nunes), 32 years old, commander of
+        the republican rebels that invade Laguna, Santa Catarina, during the
+        Farrapos War (1835 - 1845), finds his soul mate in Anita (Ana Paula
+        Arósio), 18 years old, wife of local shoemaker. Between passion and
+        battles, they will define the course of their lives and influence the
+        course of the revolution.</image:caption
+      >
+      <image:title>Anita e Garibaldi</image:title>
+    </image:image>
+  </url>
+</urlset>

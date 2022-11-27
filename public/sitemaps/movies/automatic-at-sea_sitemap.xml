@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412760-Automatic at Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412760-Automatic at Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zxkDwY5hPmpcMA3oQunRx0rV6dr.jpg</image:loc
+      >
+      <image:caption
+        >On a whim, Eve, a young Swedish traveler, accepts an invitation from
+        Peter to vacation on his family's private island off the coast of New
+        England. As a series of unexpected delays prevent other guests from
+        arriving, Eve discovers that she has little in common with the
+        increasingly erratic Peter. Gradually the idyllic natural beauty of the
+        island gives way and Eve finds herself trapped in a state of surreality
+        punctuated by bizarre visions, dimensional shifting and secret
+        pizza.</image:caption
+      >
+      <image:title>Automatic at Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

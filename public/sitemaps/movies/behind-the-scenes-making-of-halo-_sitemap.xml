@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/659339-Behind the Scenes: Making of Halo 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/659339-Behind the Scenes: Making of Halo 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iulzH4uVGpaSfaZMaT56OfBKS5.jpg</image:loc
+      >
+      <image:caption
+        >Behind the Scenes: Making of Halo 2 is a short film documenting
+        Bungie's production and development of the game Halo 2. It was released
+        with the Limited Collector's Edition of the game.</image:caption
+      >
+      <image:title>Behind the Scenes: Making of Halo 2</image:title>
+    </image:image>
+  </url>
+</urlset>

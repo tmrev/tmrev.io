@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/217033-Au voleur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/217033-Au voleur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wqoxMdP4lJP6qG6JCnOyPzAk5aY.jpg</image:loc
+      >
+      <image:caption
+        >Isabelle teaches, Bruno steals. Together, they start believing that
+        could be happy. The day when the police net starts tightening, Bruno
+        fleesm taking Isabelle with him. Deep within the forest, they hide and
+        love each other, outside of time, in a final attempt to hold at bay the
+        world's violence.</image:caption
+      >
+      <image:title>Au voleur</image:title>
+    </image:image>
+  </url>
+</urlset>

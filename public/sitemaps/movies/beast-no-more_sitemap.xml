@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510457-Beast No More</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510457-Beast No More</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AGF0SvwMTh29rgNUI0eGzS6Vo0.jpg</image:loc
+      >
+      <image:caption
+        >A young biologist, Mary Jane, who focuses on lepidoptery (the study of
+        moths and butterflies), doesn't have the perfect life; she does however
+        have what she considers the perfect son. Tragedy strikes and Mary Jane's
+        world is disturbingly turned upside down. Fleeing the troubled "real
+        world" she embarks upon a solitary bush project. In the isolated and
+        surreal landscape Mary Jane starts experiencing strange phenomena. The
+        opportunity to be a mother again presents itself, only it comes at a
+        cost for Mary Jane and what's left of her family.</image:caption
+      >
+      <image:title>Beast No More</image:title>
+    </image:image>
+  </url>
+</urlset>

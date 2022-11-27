@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230938-Bonnie & Clyde: Justified</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230938-Bonnie & Clyde: Justified</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vkgtiPS5ul1U7sQGEBYBVo0Ndxs.jpg</image:loc
+      >
+      <image:caption
+        >In Depression-era America, Bonnie Parker met Clyde Barrow over a cup of
+        hot chocolate, and it was love at first sight. Their violent courtship
+        took them through bank robberies, prison and a multi-state crime spree,
+        securing their place in history as one of America's most notorious
+        couples</image:caption
+      >
+      <image:title>Bonnie & Clyde: Justified</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10391-Bless the Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10391-Bless the Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s1RGEF8xIA6ecF8W4do8CaWI0yE.jpg</image:loc
+      >
+      <image:caption
+        >When Maggie's sister Jenna saddles her with an autistic newborn named
+        Cody she touches Maggie's heart and becomes the daughter she has always
+        longed for. But six years later Jenna suddenly re-enters her life and,
+        with her mysterious new husband, Eric Stark, abducts Cody. Despite the
+        fact that Maggie has no legal rights to Cody, FBI agent John Travis
+        takes up her cause when he realizes that Cody shares the same birth date
+        as several other recently murdered children.</image:caption
+      >
+      <image:title>Bless the Child</image:title>
+    </image:image>
+  </url>
+</urlset>

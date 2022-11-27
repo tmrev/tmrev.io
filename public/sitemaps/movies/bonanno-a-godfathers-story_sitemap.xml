@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61898-Bonanno: A Godfather's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61898-Bonanno: A Godfather's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iBcHo9s0Mf1DhxltRmLtfEiwtew.jpg</image:loc
+      >
+      <image:caption
+        >The true life story of mafia boss Joesph Bonanno. The story spans from
+        Bonanno's early beginings in Italy, to his conquests in
+        America.</image:caption
+      >
+      <image:title>Bonanno: A Godfather's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

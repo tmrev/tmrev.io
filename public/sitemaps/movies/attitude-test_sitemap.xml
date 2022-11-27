@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427557-Attitude Test</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427557-Attitude Test</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oXXfb2jsJevOIZmNF5hlamDHLL9.jpg</image:loc
+      >
+      <image:caption
+        >Four high school seniors steal an important college entrance exam and
+        go on vacation to "study," but accidentally lose the exam while
+        partying.</image:caption
+      >
+      <image:title>Attitude Test</image:title>
+    </image:image>
+  </url>
+</urlset>

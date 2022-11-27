@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48944-Born to Be King</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48944-Born to Be King</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gnMb4TxiuDxm6wgxrN3a1DZVjMh.jpg</image:loc
+      >
+      <image:caption
+        >Triad member Chicken is designated by Taiwan's San Luen Gang to marry
+        Nanako, the daughter of the fifth generation leader of the Yamada Gang
+        in Japan. Later, the leader of the triad group gets murdered. Actually,
+        all the San Luen Gang members suspect Chicken attacked their leader Liu,
+        in order to make a chance for him to rule the Gang and thus have adopted
+        an extremely hostile attitude towards him...</image:caption
+      >
+      <image:title>Born to Be King</image:title>
+    </image:image>
+  </url>
+</urlset>

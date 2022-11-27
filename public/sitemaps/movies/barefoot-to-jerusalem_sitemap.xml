@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/963857-Barefoot to Jerusalem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/963857-Barefoot to Jerusalem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vmPBXZENl5RGx2LYbafjfhbPpP6.jpg</image:loc
+      >
+      <image:caption
+        >A shocking tragedy sends Mara down a path of sin, redemption, grace,
+        and evil. Barefoot to Jerusalem is the story of a woman struggling to
+        face her deepest desires, her darkest fears, and ultimately, the
+        devil.</image:caption
+      >
+      <image:title>Barefoot to Jerusalem</image:title>
+    </image:image>
+  </url>
+</urlset>

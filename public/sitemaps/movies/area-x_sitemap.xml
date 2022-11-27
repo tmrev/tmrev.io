@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/113389-Area X</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/113389-Area X</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aTY0zVfYuILggpSDxC8SSaKOZ7E.jpg</image:loc
+      >
+      <image:caption
+        >Paul's dad unexpectedly picked him up from work today. And then a
+        hooker. After dropping them off at a seedy roadside motel, Paul's father
+        handed him two hundred dollars and told him not to come out until he's a
+        man. These are just a few of the bizarre, sexually charged events that
+        Paul recounts to Marco, a charming and seductive hustler he meets in a
+        dicey bar on a hidden street underneath New York City's infamous Port
+        Authority Bus Terminal, an area officially named but rarely referred to
+        as "Area X". It is here in this dark and shady place that Paul must
+        navigate his way through what he wants, what he needs, and the high cost
+        attached to both.</image:caption
+      >
+      <image:title>Area X</image:title>
+    </image:image>
+  </url>
+</urlset>

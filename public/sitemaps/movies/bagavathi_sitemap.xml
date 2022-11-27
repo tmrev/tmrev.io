@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69648-Bagavathi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69648-Bagavathi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/utcDxfjqqSqGCLZUDJC28vIoT3.jpg</image:loc
+      >
+      <image:caption
+        >Bagavathi, a tea vendor, has big dreams for his younger brother, Guna.
+        However, when Guna's girlfriend's father kills him, Bagavathi must fight
+        to protect Guna's unborn child.</image:caption
+      >
+      <image:title>Bagavathi</image:title>
+    </image:image>
+  </url>
+</urlset>

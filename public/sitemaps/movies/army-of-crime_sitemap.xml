@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30432-Army of Crime</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30432-Army of Crime</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jWlDUuOi1GiCjauunAR2OuDDkst.jpg</image:loc
+      >
+      <image:caption
+        >This gripping historical drama recounts the story of Armenian-born
+        Missak Manouchian, a woodworker and political activist who led an
+        immigrant laborer division of the Parisian Resistance on 30 operations
+        against the Nazis in 1943. The Nazis branded the group an Army of Crime,
+        an anti-immigrant propaganda stunt that backfired as the team's members
+        became martyrs for the Resistance.</image:caption
+      >
+      <image:title>Army of Crime</image:title>
+    </image:image>
+  </url>
+</urlset>

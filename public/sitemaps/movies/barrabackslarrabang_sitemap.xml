@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/803189-Barrabackslarrabang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/803189-Barrabackslarrabang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a9kdMIpEd78R9mHEV4peMtX8kXI.jpg</image:loc
+      >
+      <image:caption
+        >Shot in two Liverpool pubs, Barrabackslarrabang features characters
+        speaking in two different forms of backslang – a form of slang
+        associated with working class culture that traditionally evolved out of
+        the need to speak privately about illegal activity – exploring language
+        as a site of refuge, resistance, identity and desire.</image:caption
+      >
+      <image:title>Barrabackslarrabang</image:title>
+    </image:image>
+  </url>
+</urlset>

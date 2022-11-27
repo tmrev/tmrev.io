@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/958808-Barry Humphries Presents Back to My Roots
+      and Other Suckers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/958808-Barry Humphries Presents Back to My Roots
+      and Other Suckers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pNegamFLtATAhZHb1O5TxWpctWd.jpg</image:loc
+      >
+      <image:caption
+        >Recorded live at the State Theatre, Victorian Arts Centre on the 15th
+        of August 2003. Contains the hilarious on-stage antics of Dame Edna
+        Everage, Sir Les Patterson and Sandy Stone.</image:caption
+      >
+      <image:title
+        >Barry Humphries Presents Back to My Roots and Other
+        Suckers</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

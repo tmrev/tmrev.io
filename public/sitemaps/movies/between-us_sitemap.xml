@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/390526-Between Us</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/390526-Between Us</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iugqyaw0CSDsnNQsrxB6QLU1gmF.jpg</image:loc
+      >
+      <image:caption
+        >Longtime couple Henry and Dianne are afraid that if they finally tie
+        the knot it would mean the end of their days as free-spirited urbanites.
+        But a whirlwind night apart involving temptations from a duo of
+        strangers will either make them realize why they are together in the
+        first place or finally drive them apart forever.</image:caption
+      >
+      <image:title>Between Us</image:title>
+    </image:image>
+  </url>
+</urlset>

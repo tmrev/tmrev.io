@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699378-Black Eyed Children: Let Me In</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699378-Black Eyed Children: Let Me In</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tnQHd3g0IcTWtpEC1K21Xx5G6GS.jpg</image:loc
+      >
+      <image:caption
+        >An aspiring filmmaker embarks on a journey to investigate the
+        nightmarish and haunting stories behind the Black Eyed Children
+        phenomenon.</image:caption
+      >
+      <image:title>Black Eyed Children: Let Me In</image:title>
+    </image:image>
+  </url>
+</urlset>

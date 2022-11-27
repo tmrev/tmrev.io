@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/377273-Aquarius</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/377273-Aquarius</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Xue7dRut5p2l6a9oCwTLI53GM9.jpg</image:loc
+      >
+      <image:caption
+        >Clara, a vibrant former music critic and widow with flowing tresses is
+        the only remaining apartment owner in a beautiful older building
+        targeted for demolition by ruthless luxury high-rise developers. Clara
+        proves to be a force to be reckoned with as she thwarts the builders
+        plans to kick her out of the apartment.</image:caption
+      >
+      <image:title>Aquarius</image:title>
+    </image:image>
+  </url>
+</urlset>

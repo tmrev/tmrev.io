@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41637-Angora Ranch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41637-Angora Ranch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k5EHMtYHNq8U2hG0sDVhQvz9nJB.jpg</image:loc
+      >
+      <image:caption
+        >Justin is an ad executive whose father sends him on his first solo run
+        to a place in Texas. While driving to his appointment Justin swerves to
+        avoid a rabbit in the road and his car gets stuck in a ditch that just
+        happens to be in front of the home of Jack and his loony senile father.
+        After Jack's previous life partner died, he planned never to love again.
+        Will this change?</image:caption
+      >
+      <image:title>Angora Ranch</image:title>
+    </image:image>
+  </url>
+</urlset>

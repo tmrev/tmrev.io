@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126955-Bad Blood... the Hunger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126955-Bad Blood... the Hunger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/umFx9RdslF49yObZPViiHtklPQS.jpg</image:loc
+      >
+      <image:caption
+        >Several college students embark on a summer of sun and fun, but find
+        that their adventure turns eerily macabre when dark and ancient forces
+        propel them into a sinister enclave peopled by human, night-stalking,
+        ravenous flesh-eaters whose wit and seemingly benign exteriors hide
+        dreadful and deadly secrets that border on the
+        supernatural.</image:caption
+      >
+      <image:title>Bad Blood... the Hunger</image:title>
+    </image:image>
+  </url>
+</urlset>

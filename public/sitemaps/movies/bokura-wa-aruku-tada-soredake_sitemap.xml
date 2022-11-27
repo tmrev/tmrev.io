@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/371659-Bokura wa aruku, tada soredake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/371659-Bokura wa aruku, tada soredake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fUjqUBU3XmzaSC9kh0aWkb7SuiL.jpg</image:loc
+      >
+      <image:caption
+        >A young woman named Miyuki returns to her hometown, camera in hand,
+        after a difficult breakup. As she walks and takes photographs, she meets
+        a variety of people and begins to realize she doesn’t have to go through
+        this painful time in her life all alone.</image:caption
+      >
+      <image:title>Bokura wa aruku, tada soredake</image:title>
+    </image:image>
+  </url>
+</urlset>

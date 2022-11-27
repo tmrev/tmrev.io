@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/993864-Beach</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/993864-Beach</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aptVcUUQFt2YxvmLu3haikf75bj.jpg</image:loc
+      >
+      <image:caption
+        >In a flickering TV image we see a happy family on a beach, as 100 km
+        away a girl frantically runs on a bombed beach in Gaza. The happy family
+        is shown in a rapidly speeding stream of still images, while the girl is
+        filmed in video, gradually taking over the screen, creating a growing
+        impact of shock and horror, until the girl dissolves in TV noise and
+        becomes a news report.</image:caption
+      >
+      <image:title>Beach</image:title>
+    </image:image>
+  </url>
+</urlset>

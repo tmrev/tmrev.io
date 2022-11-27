@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/591826-Bon Voyage, My Life with Holden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/591826-Bon Voyage, My Life with Holden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1TazXB8EZmtYSx07XXmezBQ6CYU.jpg</image:loc
+      >
+      <image:caption
+        >A French singer from a small Indie rock band, narrates this intimate
+        and personal journey through her artistic life, her changes and deep
+        emotions lived with her band.</image:caption
+      >
+      <image:title>Bon Voyage, My Life with Holden</image:title>
+    </image:image>
+  </url>
+</urlset>

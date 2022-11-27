@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67048-Battlefields</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67048-Battlefields</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/poWscWpnU06LoliG3ijnPuPGKW1.jpg</image:loc
+      >
+      <image:caption
+        >British military historian Professor Richard Holmes takes the viewer
+        through four major battles of world war two. The Battles of Cassino, El
+        Alamein, Arnhem (Operation Market Garden), & the RAF Bomber Command. An
+        insightful overview of each of these diverse campaigns is given in each
+        of the episodes.</image:caption
+      >
+      <image:title>Battlefields</image:title>
+    </image:image>
+  </url>
+</urlset>

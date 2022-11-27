@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72733-Bangkok Traffic Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72733-Bangkok Traffic Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3EUo3JyLrBMk6v3oJyHvg1UsRXR.jpg</image:loc
+      >
+      <image:caption
+        >After an encounter with an engineer working the night shift for the
+        city train, a 30-year-old woman struggles against all odds to pursue
+        true love.</image:caption
+      >
+      <image:title>Bangkok Traffic Love Story</image:title>
+    </image:image>
+  </url>
+</urlset>

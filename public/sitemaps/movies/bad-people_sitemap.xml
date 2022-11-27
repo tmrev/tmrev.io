@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384298-Bad People</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384298-Bad People</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vHtvrB4UQJnQY81Q7lkaUYxuXBk.jpg</image:loc
+      >
+      <image:caption
+        >Bad People is a dark comedy feature film that begs us to laugh at the
+        absurdity that is all around us: crack smoking politicians, prostitutes
+        turned reality stars, religious charlatans, sex obsessed online dating,
+        elitist parents, infidelity, and political correctness. Told through the
+        lens of several short stories, the film examines the hysterical dark
+        side that permeates our society today.</image:caption
+      >
+      <image:title>Bad People</image:title>
+    </image:image>
+  </url>
+</urlset>

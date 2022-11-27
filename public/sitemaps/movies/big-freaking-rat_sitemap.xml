@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/752687-Big Freaking Rat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/752687-Big Freaking Rat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pmKJYvQmO6DSuvn1Ohgq2vaxHKY.jpg</image:loc
+      >
+      <image:caption
+        >Ranger BRODY, with the help of his nephew and niece DYLAN and NAOMI, is
+        preparing to open the brand-new campground for the season. Everything is
+        in order and the camp seems peaceful until GIANT RANT, mutated from
+        multiple dumping of toxic wastes, begins killing the campers and
+        rangers.</image:caption
+      >
+      <image:title>Big Freaking Rat</image:title>
+    </image:image>
+  </url>
+</urlset>

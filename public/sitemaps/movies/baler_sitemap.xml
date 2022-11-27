@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57931-Baler</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57931-Baler</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5CjDuIQRlYcyzDeFsKIy9F8n9L8.jpg</image:loc
+      >
+      <image:caption
+        >In 1898, a band of Spanish soldiers heroically defended Baler against
+        Filipino forces for 337 long and grueling days. The battle, now referred
+        to as the Siege of Baler, is the setting of a forbidden love between a
+        Mestizo soldier and a Filipina lass who lived at the end of the 19th
+        century.</image:caption
+      >
+      <image:title>Baler</image:title>
+    </image:image>
+  </url>
+</urlset>

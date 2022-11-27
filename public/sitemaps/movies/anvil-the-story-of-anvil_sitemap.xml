@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18094-Anvil! The Story of Anvil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18094-Anvil! The Story of Anvil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rDrMuFaWBKwjwEnw4C06Sm97huY.jpg</image:loc
+      >
+      <image:caption
+        >At 14, best friends Robb Reiner and Lips made a pact to rock together
+        forever. Their band, Anvil, hailed as the "demi-gods of Canadian metal"
+        influenced a musical generation that includes Metallica, Slayer, and
+        Anthrax. Following a calamitous European tour, Lips and Robb, now in
+        their fifties, set off to record their 13th album in one last attempt to
+        fulfill their boyhood dreams.</image:caption
+      >
+      <image:title>Anvil! The Story of Anvil</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476791-Aurora Borealis - Northern Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476791-Aurora Borealis - Northern Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y4ZTlhrDx28VxTxFfQYSmivGjsQ.jpg</image:loc
+      >
+      <image:caption
+        >The Aurora Borealis is a story of family that is rich in twists and
+        turns. It breaks the depths of the relationship between mother and
+        daughter. A successful lawyer in Vienna, Olga is called back to Hungary
+        when her old mother, Mary suddenly falls into a coma. While Mary is
+        floating between life and death, Olga finds a deeply silent secret. The
+        increasingly passionate research leads back to the post-war Europe of
+        the '50s.</image:caption
+      >
+      <image:title>Aurora Borealis - Northern Light</image:title>
+    </image:image>
+  </url>
+</urlset>

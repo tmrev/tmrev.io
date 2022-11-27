@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/151983-Blake Shelton's Not So Family
+      Christmas</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/151983-Blake Shelton's Not So Family
+      Christmas</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Blake Shelton hosts a star-studded event that includes comedy bits,
+        performances of classic holiday songs and new music.</image:caption
+      >
+      <image:title>Blake Shelton's Not So Family Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

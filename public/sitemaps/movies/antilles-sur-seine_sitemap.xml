@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69124-Antilles sur Seine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69124-Antilles sur Seine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wxGjzKY4IhEAbYK1eWiDnQxudNP.jpg</image:loc
+      >
+      <image:caption
+        >Corruption threatens to move into a heretofore idyllic village in this
+        comedy-drama. Hector St. Rose is the mayor of a seaside community in the
+        Antilles Islands, a French-controlled territory in the West Indies.
+        Hector has long been determined not to sacrifice the well-being of his
+        constituents in order to make the village more attractive to tourists,
+        which has made him popular with his citizens, but not so much so with
+        outside developers.</image:caption
+      >
+      <image:title>Antilles sur Seine</image:title>
+    </image:image>
+  </url>
+</urlset>

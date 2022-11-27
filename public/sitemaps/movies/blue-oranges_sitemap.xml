@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309256-Blue Oranges</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309256-Blue Oranges</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When he's called in to investigate the murder of a former art student
+        (Pooja Kanwal), Nilesh Bhargav (Rajit Kapoor) turns to the woman's
+        paintings to see if they might hold clues to her killer's identity. Was
+        it (Aham Sharma) the boyfriend she abandoned years ago and whom the
+        police suspect? Or was there another with the motive, means and
+        opportunity to do her in? Rajesh Ganguly directs this entertaining
+        whodunit.</image:caption
+      >
+      <image:title>Blue Oranges</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346490-Babai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346490-Babai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zIXt2WL5wbvAagSERkrB75fzlY5.jpg</image:loc
+      >
+      <image:caption
+        >10-year-old Nori is obliged to grow up at a very young age after the
+        early death of his mother and then being abandoned by his father Gezim
+        in the Kosovo of the 1990s.After a dangerous and eventful journey, Nori
+        finally arrives in Germany and is reunited with his father, but he
+        cannot understand how Gezim could just have left him. And chances of
+        them being able to stay in Germany look bleak when Gezim’s application
+        for asylum is rejected.</image:caption
+      >
+      <image:title>Babai</image:title>
+    </image:image>
+  </url>
+</urlset>

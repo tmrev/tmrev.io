@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/196852-Asambhav</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/196852-Asambhav</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tc6dAT5FJ0P17NAVwAD7yqFWG5R.jpg</image:loc
+      >
+      <image:caption
+        >When the President of India is kidnapped by Kashmiri terrorists in
+        Locarno, Switzerland, an Indian secret agent is sent to find him and set
+        him free. With the help of an Indian singer he will make the
+        "Impossible" to complete the mission.</image:caption
+      >
+      <image:title>Asambhav</image:title>
+    </image:image>
+  </url>
+</urlset>

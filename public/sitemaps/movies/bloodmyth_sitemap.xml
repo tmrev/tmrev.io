@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/639302-Bloodmyth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/639302-Bloodmyth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mNxQcK5Z7chgpmQgwxw4Cm0GfrD.jpg</image:loc
+      >
+      <image:caption
+        >Juliet Corman, instructor for a survival training company invites her
+        sister Holly along to the first course in a new centre in Kent woodland,
+        unaware that waiting for them is a killer experimenting with ancient
+        Celtic methods of human sacrifice.</image:caption
+      >
+      <image:title>Bloodmyth</image:title>
+    </image:image>
+  </url>
+</urlset>

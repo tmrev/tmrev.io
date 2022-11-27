@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13283-Barbie as the Island Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13283-Barbie as the Island Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oguRPUFeHt0H0wO0He4ewTseMXo.jpg</image:loc
+      >
+      <image:caption
+        >Barbie plays Rosella in this new musical film. Shipwrecked as a child,
+        Rosella grows up on the island under the watchful eyes of her loving
+        animal friends. The arrival of Prince Antonio leads Rosella and her
+        furry pals to explore civilization and ultimately save the kingdom by
+        uncovering a secret plot.</image:caption
+      >
+      <image:title>Barbie as the Island Princess</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43481-Black River</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43481-Black River</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tKifaWxS8TbZLHIVtxRbHtUhzqI.jpg</image:loc
+      >
+      <image:caption
+        >Burned-out Hollywood screenwriter Bo Aikens (Jay Mohr) is fed up with
+        life in Los Angeles. He heads out of the hustle and bustle of the big
+        city and arrives in picturesque Black River in Northern California,
+        seeking relaxation and artistic inspiration. In small, idyllic Black
+        River, nearly everyone is happy, contented, and welcoming of strangers.
+        But despite the beautiful setting, Bo begins to feel unsettled after
+        several disturbing incidents. He discovers that all of his money has
+        been transferred to a bank account in Black River, and a house has been
+        purchased for him by someone on "his" instructions.</image:caption
+      >
+      <image:title>Black River</image:title>
+    </image:image>
+  </url>
+</urlset>

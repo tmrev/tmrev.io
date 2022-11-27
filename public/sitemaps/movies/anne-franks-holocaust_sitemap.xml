@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435267-Anne Frank's Holocaust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435267-Anne Frank's Holocaust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xlZ3jaErwUn8IwscMwDK8Te2rmw.jpg</image:loc
+      >
+      <image:caption
+        >Anne Frank's world famous diary came to an abrupt end shortly before
+        she and her family were discovered hiding from the Nazis in a secret
+        annex at the top of Otto Frank's office building, on August 4, 1944.
+        While her diary tells the story of Anne's life, the story of her death
+        reveals the atrocities encountered by millions of Jews during the
+        Holocaust. In a solemn remembrance of the horrors that Anne Frank and
+        these millions of others suffered during the dark days of World War II,
+        National Geographic Channel (NGC) takes viewers inside the concentration
+        camps in a two-hour special. In keeping with NGC's tradition of
+        unparalleled storytelling, Anne Frank's Holocaust incorporates new
+        findings and rarely seen photographs to reintroduce the story of the
+        massacre of Jews in one of the most comprehensive documentaries on the
+        subject to date.</image:caption
+      >
+      <image:title>Anne Frank's Holocaust</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/464685-August Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/464685-August Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nH0YF2D2TpiYdhyvSc0HnRfuK54.jpg</image:loc
+      >
+      <image:caption
+        >A young widow returns home for the first time in three years to help
+        prepare her sister’s wedding. She is forced to confront her past,
+        including the man she never expected to fall for.</image:caption
+      >
+      <image:title>August Creek</image:title>
+    </image:image>
+  </url>
+</urlset>

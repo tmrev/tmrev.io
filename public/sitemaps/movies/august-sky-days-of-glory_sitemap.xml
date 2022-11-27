@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/303584-August Sky – 63 Days of Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/303584-August Sky – 63 Days of Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kGPXbMSCW4OPUXfQAyzAwxg15ke.jpg</image:loc
+      >
+      <image:caption
+        >A decades-old diary found at a construction site reveals the harrowing
+        account of a professor in hiding during the early days of the Warsaw
+        Uprising.</image:caption
+      >
+      <image:title>August Sky – 63 Days of Glory</image:title>
+    </image:image>
+  </url>
+</urlset>

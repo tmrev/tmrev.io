@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508840-Anne Hébert, 1916-2000</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508840-Anne Hébert, 1916-2000</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xxnyBtq2YvHsTv552WRRQ0CItqu.jpg</image:loc
+      >
+      <image:caption
+        >Jacques Godbout takes us into the world of Anne Hébert, a woman he
+        considered his spiritual sister and who had only one raison d’être:
+        literature. During the four decades of her creative process, this
+        Quebecois poet and novelist rose to the ranks of the greatest
+        French-language writers, with books such as Kamouraska, Les fous de
+        Bassan and Le tombeau des rois.</image:caption
+      >
+      <image:title>Anne Hébert, 1916-2000</image:title>
+    </image:image>
+  </url>
+</urlset>

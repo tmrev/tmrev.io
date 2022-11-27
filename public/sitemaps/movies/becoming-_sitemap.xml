@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/718646-Becoming 13</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/718646-Becoming 13</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Explores the intimidating terrain of girlhood by following three
+        12-year-olds over the period of one year. As these girls move from
+        childhood to maturity, it's clear that peer pressure is an important
+        influence, but as the films shows, the greatest influence in a young
+        girl's life is family.</image:caption
+      >
+      <image:title>Becoming 13</image:title>
+    </image:image>
+  </url>
+</urlset>

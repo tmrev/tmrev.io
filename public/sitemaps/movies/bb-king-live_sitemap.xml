@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/290392-B.B. King - Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/290392-B.B. King - Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4fc9q3O7tYgW2uyqLjR3nqLwmj4.jpg</image:loc
+      >
+      <image:caption
+        >Recorded in High-Definition for the PBS concert series Soundstage, this
+        unforgettable performance features staggering renditions of "Thrill is
+        Gone" and "Let the Good Times Roll" as well as special guest appearances
+        by Terrence Howard, Solange and guitarist Richie Sambora - each of who
+        takes turns sitting in with the blues legend</image:caption
+      >
+      <image:title>B.B. King - Live</image:title>
+    </image:image>
+  </url>
+</urlset>

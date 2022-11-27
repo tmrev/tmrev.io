@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/151401-Behave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/151401-Behave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gfNJqleoWh5XoBhhyONy0EG1DZz.jpg</image:loc
+      >
+      <image:caption
+        >In Rio de Janeiro, over many days, the director Maria Ramos witnesses
+        and films the judgment of several teenagers accused of stealing,
+        trafficking and murdering. Underage youths are protected by the
+        Brazilian laws and their faces can not be exposed; therefore, they are
+        replaced by teenagers from poor communities.</image:caption
+      >
+      <image:title>Behave</image:title>
+    </image:image>
+  </url>
+</urlset>

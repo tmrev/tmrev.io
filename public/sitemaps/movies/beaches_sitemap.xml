@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430642-Beaches</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430642-Beaches</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ouwWLCvdMSTkz7khmyqDDYfjT1.jpg</image:loc
+      >
+      <image:caption
+        >Follows the serendipitous meeting of two young girls on the Venice
+        Boardwalk, who, though worlds apart in lifestyle, embark on unexpected
+        and lifelong friendship. CC is an aspiring singer trying to make it in
+        Los Angeles. Hillary is the daughter of a prominent civil rights lawyer
+        who struggles to find her own destiny. Their friendship—even with its
+        ups and downs—sustains them for decades.</image:caption
+      >
+      <image:title>Beaches</image:title>
+    </image:image>
+  </url>
+</urlset>

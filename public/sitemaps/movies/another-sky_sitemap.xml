@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78800-Another Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78800-Another Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9MEvuTtCXziJ26bq8DONyuRl9Nn.jpg</image:loc
+      >
+      <image:caption
+        >When a father and son from the Uzbek steppe move to Moscow in search of
+        the boy's missing mother they are condemned to the lot of the
+        'gastarbeiter'.</image:caption
+      >
+      <image:title>Another Sky</image:title>
+    </image:image>
+  </url>
+</urlset>

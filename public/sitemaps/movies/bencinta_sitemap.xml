@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/227276-BenCinta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/227276-BenCinta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Nora Danish headlines the film as the lead actress in "Bencinta", which
+        is actually derived from the words "benci" and "cinta" in Malay,
+        translated to hate and love, respectively. The film tells the story of a
+        newly wedded couple whose relationship sours when Faizal, the rich
+        husband, begins having affairs and turns abusive. Trapped in the
+        destructive marriage due to conservative societal values, Fathia runs
+        away to Langkawi and takes refuge with her best friend. Before they
+        realise it, the two fall in love, but Fathia first has to deal with her
+        husband.</image:caption
+      >
+      <image:title>BenCinta</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/283628-At the Foot of the Rainbow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/283628-At the Foot of the Rainbow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Fifteen years ago 1830s muskrat trapper Dannie Mcnoun, loves Mary and
+        sends his best friend, Jimmy, to win her over for Dannie. Jimmy married
+        her instead. Now neighbors, Dannie works both farms as Jimmy tries to
+        drown his problems with a bottle.</image:caption
+      >
+      <image:title>At the Foot of the Rainbow</image:title>
+    </image:image>
+  </url>
+</urlset>

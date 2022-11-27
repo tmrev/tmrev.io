@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40662-Batman: Under the Red Hood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40662-Batman: Under the Red Hood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7lmHqHg1rG9b4U8MjuyQjmJ7Qm0.jpg</image:loc
+      >
+      <image:caption
+        >One part vigilante, one part criminal kingpin, Red Hood begins cleaning
+        up Gotham with the efficiency of Batman, but without following the same
+        ethical code.</image:caption
+      >
+      <image:title>Batman: Under the Red Hood</image:title>
+    </image:image>
+  </url>
+</urlset>

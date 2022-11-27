@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/961761-Another One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/961761-Another One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Ajq4nT460EZFZisSrhl5xQOyaz7.jpg</image:loc
+      >
+      <image:caption
+        >A social worker in the Prison Service writes reports on the prisoners'
+        psychological condition. In prison, an old classmate of his, who has
+        become a successful businessman, invites him to a party, where he meets
+        his old pals, realizes he's a failure, and rethinks his life
+        again.</image:caption
+      >
+      <image:title>Another One</image:title>
+    </image:image>
+  </url>
+</urlset>

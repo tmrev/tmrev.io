@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/778560-Blood Cell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/778560-Blood Cell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c8Dgriyzsh8Z8EAQjXTqLkktLTQ.jpg</image:loc
+      >
+      <image:caption
+        >Barbara adjusts to her new life behind bars, her crimes start to haunt
+        her. Her new cellmate Evelyn is about to start an obsessive and ghostly
+        friendship with her, one that Barbara cannot escape from.</image:caption
+      >
+      <image:title>Blood Cell</image:title>
+    </image:image>
+  </url>
+</urlset>

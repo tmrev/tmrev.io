@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/499028-Be with You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/499028-Be with You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mvstNgM68EyCRWwpArakLhWvvtk.jpg</image:loc
+      >
+      <image:caption
+        >Along with his young son, Ji-ho, Woo-jin misses his wife Soo-a, who
+        died after promising to return a year later with the rainy season.
+        Miraculously, they reunite with Soo-a when the rainy season comes
+        around, but she has no memory of her husband and son whom she dearly
+        loved.</image:caption
+      >
+      <image:title>Be with You</image:title>
+    </image:image>
+  </url>
+</urlset>

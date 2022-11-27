@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413784-Blue Velvet Revisited</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413784-Blue Velvet Revisited</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zt5V9XBzo514gbQvbx2jZ2YOdlM.jpg</image:loc
+      >
+      <image:caption
+        >When David Lynch was making his film Blue Velvet, German filmmaker
+        Peter Braatz was also on set, shooting documentary footage with a Super
+        8 film camera. Now, on Blue Velvet's 30th anniversary, Braatz presents
+        his footage, along with still photographs, as a "meditation" on Lynch's
+        work.</image:caption
+      >
+      <image:title>Blue Velvet Revisited</image:title>
+    </image:image>
+  </url>
+</urlset>

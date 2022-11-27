@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/531900-Block Z</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/531900-Block Z</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n6jAasaOFvg0LNEpx7tLr5gVAEP.jpg</image:loc
+      >
+      <image:caption
+        >A pre-med student and her friends encounter the death of a patient that
+        exhibited symptoms of rabies. They are soon faced with an even bigger
+        problem as their patient comes back from the dead and infects the people
+        on campus, causing a lockdown and trapping the students
+        inside.</image:caption
+      >
+      <image:title>Block Z</image:title>
+    </image:image>
+  </url>
+</urlset>

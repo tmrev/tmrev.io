@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/770450-Between Latvias</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/770450-Between Latvias</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tRWaCqbzfR5k7JQAqKHWWi9bCrX.jpg</image:loc
+      >
+      <image:caption
+        >Based on interviews with over one hundred people including musicians,
+        hockey fans, farmers, executives, and pensioners in the market. From
+        Latvian President Vaira Vike- Freiberga and business tycoon Aivars
+        Lembergs, to Russian poet Sergei Timofeyev, all discussions stem from
+        one question: What does it mean to be Latvian?</image:caption
+      >
+      <image:title>Between Latvias</image:title>
+    </image:image>
+  </url>
+</urlset>

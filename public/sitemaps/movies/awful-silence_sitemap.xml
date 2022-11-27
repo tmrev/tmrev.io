@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1037635-Awful Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1037635-Awful Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/845ANVxBqbxecsHbqtPbpLRfI1D.jpg</image:loc
+      >
+      <image:caption
+        >Jenny, a young single mother and her son Harry are fleeing domestic
+        abuse from her violent ex. She desperately needs to rent a house away,
+        anywhere far away from him. Morton, the estate agent, however has
+        ulterior motives and insists she takes a mysterious house that he is
+        selling. Morton takes more than a passing interest in her son, and her
+        friend Elizabeth warns Jenny that her ex is out for blood and she’s in
+        danger of losing more than a roof over her head.</image:caption
+      >
+      <image:title>Awful Silence</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/68957-Blue Collar Comedy: The Next Generation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/68957-Blue Collar Comedy: The Next Generation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zmwQLUE6VRayPCV3cEjEgzC7CJN.jpg</image:loc
+      >
+      <image:caption
+        >Bill Engvall hosts an evening of "Blue Collar" comedy at Caesars Palace
+        in Las Vegas.</image:caption
+      >
+      <image:title>Blue Collar Comedy: The Next Generation</image:title>
+    </image:image>
+  </url>
+</urlset>

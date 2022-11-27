@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384764-Apnea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384764-Apnea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j5Sbi3qDb14l8AFzpP1tckwK7AG.jpg</image:loc
+      >
+      <image:caption
+        >Little Claire kills time with María, her Ecuadorian nanny, while
+        waiting for her mother to arrive.</image:caption
+      >
+      <image:title>Apnea</image:title>
+    </image:image>
+  </url>
+</urlset>

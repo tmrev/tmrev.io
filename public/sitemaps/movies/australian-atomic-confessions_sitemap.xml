@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/775503-Australian Atomic Confessions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/775503-Australian Atomic Confessions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This is the story of the 12 British atomic bomb tests in Australia seen
+        through the eyes of Aboriginal elders, atomic veterans and experts "That
+        uranium belongs to us" says Uncle Kevin, "we knew about that long before
+        the white man came here, it's our responsibility, it's part of the
+        Dreamtime" With the building of a new $500 million nuclear reactor in
+        Sydney, the expansion of more multi-national uranium mines and the
+        community opposition to having an international nuclear waste repository
+        'in our backyard', the fight is on ...</image:caption
+      >
+      <image:title>Australian Atomic Confessions</image:title>
+    </image:image>
+  </url>
+</urlset>

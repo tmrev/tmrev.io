@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/391778-Azhar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/391778-Azhar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jwvpI85cqfVfs3ioFHu4invTLeI.jpg</image:loc
+      >
+      <image:caption
+        >The famous and idolized Indian cricketer Mohammad Azharuddin, known as
+        Azhar, faces in court those who accuse him of match-fixing in exchange
+        for large sums of money during the national team's tour of South
+        Africa.</image:caption
+      >
+      <image:title>Azhar</image:title>
+    </image:image>
+  </url>
+</urlset>

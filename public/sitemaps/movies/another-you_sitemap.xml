@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/457910-Another You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/457910-Another You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3SRN1oKmvQx2QpxaE1G6gzK4z2i.jpg</image:loc
+      >
+      <image:caption
+        >ANOTHER YOU focuses on the young and ambitious science major Sydney
+        Jameson who finds love and refuses to let it go at all costs. What
+        starts as an ordinary relationship with her boyfriend Marcus slowly
+        becomes a fixation that takes Sydney into the darkest depths of despair.
+        Driven by obsession, Sydney loses herself in a scientific break through,
+        finding a way to use the theory of De Ja Vu to explore her past
+        mistakes. How far would you go in the search for true
+        love?</image:caption
+      >
+      <image:title>Another You</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/211-Berlin is in Germany</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/211-Berlin is in Germany</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vsejIOb5nxF0vJf5RtU6O5u1Dg2.jpg</image:loc
+      >
+      <image:caption
+        >When Martin, a former GDR citizen, is released from jail, he lately
+        becomes confronted with the consequences of the German
+        re-unification.</image:caption
+      >
+      <image:title>Berlin is in Germany</image:title>
+    </image:image>
+  </url>
+</urlset>

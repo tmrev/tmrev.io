@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1043151-Armat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1043151-Armat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A young Swiss woman searches for her Armenian roots. Various lovingly
+        animated drawers of the simultaneously accumulating family archive open.
+        This very personal examination of collective traumas of post-migrant
+        communities finds images and words for racism and the difficulties of
+        talking about feelings with male family members. Its leitmotif is a
+        wardrobe roaming through night-blue landscapes which – despite the
+        cracks – holds everything and everyone together.</image:caption
+      >
+      <image:title>Armat</image:title>
+    </image:image>
+  </url>
+</urlset>

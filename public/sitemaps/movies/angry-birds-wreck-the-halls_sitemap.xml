@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/130758-Angry Birds: Wreck the Halls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/130758-Angry Birds: Wreck the Halls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yJaYJi50gJLKhm5IvxtCZTFSoQP.jpg</image:loc
+      >
+      <image:caption
+        >It's the most wonderful time of the year, but the pigs are up to their
+        usual tricks. They try to get away with the Birds' Christmas presents!
+        After bickering with each other, Red and Bomb bird mount a bold gift
+        rescue down the steep mountain slopes.</image:caption
+      >
+      <image:title>Angry Birds: Wreck the Halls</image:title>
+    </image:image>
+  </url>
+</urlset>

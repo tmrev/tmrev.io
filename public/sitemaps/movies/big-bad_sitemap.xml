@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392050-Big Bad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392050-Big Bad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wkOhKoHvOTpWj466njqyxfNw7Uk.jpg</image:loc
+      >
+      <image:caption
+        >A respectful nod to classic kids-in-peril adventure films that finds a
+        group of reluctant kids stranded overnight in an abandoned jail. Their
+        chaperon is missing, their cellphone service is non existent, and their
+        patience with each other is running thin. Oh, and a big, hairy creature
+        is trying to eat them. Hey... it's tough being a kid in a monster
+        movie.</image:caption
+      >
+      <image:title>Big Bad</image:title>
+    </image:image>
+  </url>
+</urlset>

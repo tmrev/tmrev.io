@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/745179-Boo! The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/745179-Boo! The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xTivScC7Q4TGA5YghnZeRHvD4of.jpg</image:loc
+      >
+      <image:caption
+        >Set in the midwest town of Rankin, "Boo!" revolves around the
+        mysterious drowning of Emma Manning (Molly Kaufman), A death that still
+        haunts the small community and is grist for adolescent games that turn
+        into terror. Rankin's twenty-something townies taunt the rich kids at
+        the local college with tales of death. Kera (Lauren Carter) is a curious
+        local drawn to the mystery...no matter where it takes
+        her.</image:caption
+      >
+      <image:title>Boo! The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

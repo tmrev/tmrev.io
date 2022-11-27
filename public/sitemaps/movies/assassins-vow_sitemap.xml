@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/853543-Assassin's Vow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/853543-Assassin's Vow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b5pOO8Vd0lDd2CA1ggL41TC4kVk.jpg</image:loc
+      >
+      <image:caption
+        >Set in the crime underworld of South Florida, Jacqueline is used as a
+        pawn by her Miami crime boss father Jimmy Bombay. To expand his crime
+        empire and join forces with an international drug cartel, Jimmy has
+        arranged for Jacqueline to marry Dante Calivari, the son of a foreign
+        drug lord. As Jacqueline fights for her freedom, her only solace is
+        found in the counsel of a priest. But in this world of lies and
+        deception, all is not as it seems as a journey down the aisle turns
+        deadly.</image:caption
+      >
+      <image:title>Assassin's Vow</image:title>
+    </image:image>
+  </url>
+</urlset>

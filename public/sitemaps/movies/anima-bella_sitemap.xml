@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/873095-Anima bella</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/873095-Anima bella</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e0pstEsydtPSiESreSs4ygn73U8.jpg</image:loc
+      >
+      <image:caption
+        >Gioia has just turned 18. She lives with her father Bruno in a small
+        country village where she works as a shepherdess. They live very simply
+        yet harmoniously with the villagers. Their lives are disrupted when
+        Bruno gives in once again and once too many to his gambling addiction,
+        in spite of his efforts to quit. Gioia will have to follow him to a
+        faraway town, where he will be treated in a specialized center. This
+        will radically change her existence, forcing her to abandon the safety
+        of the village, her friends and her habits. She will be all by herself
+        to support her father, in his journey for a better life.</image:caption
+      >
+      <image:title>Anima bella</image:title>
+    </image:image>
+  </url>
+</urlset>

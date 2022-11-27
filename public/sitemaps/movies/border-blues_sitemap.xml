@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/90114-Border Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/90114-Border Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ODMhQ6eEriBX43fKlbka4F9Yky.jpg</image:loc
+      >
+      <image:caption
+        >Moscow police detective Andrei Somov resigns and immigrates to the US,
+        but has to accept a menial job in a restaurant while his adolescent son
+        and pregnant daughter-in-law are denied exit visas. 'Andy' does however
+        get to know some LAPD cops after volunteering his expertise and Russian
+        language skills and is sent to Tijuana to fetch cheap tiles. On that
+        Mexican journey, Somov bumps into Larry, another ethnic Russian but US
+        citizen who lost his daughter years ago and now helps families to
+        illegally enter the States. Meanwhile, the medium Michael March receives
+        a vision about a mad bomber who targets pharmaceutical companies and
+        gets a bad feeling upon holding an envelope that belongs to
+        Larry.</image:caption
+      >
+      <image:title>Border Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

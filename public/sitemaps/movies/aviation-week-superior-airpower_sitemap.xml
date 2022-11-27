@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312346-Aviation Week: Superior Airpower</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312346-Aviation Week: Superior Airpower</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This soaring three-part program takes you deep inside America's
+        military air power, with highlights including a trip aboard an aircraft
+        carrier and a look at the inner workings of America's air weapon of
+        choice, the stealth bomber. Featuring interviews with engineers,
+        dramatic footage of Gulf War air strikes and a wealth of information
+        about an array of aircraft, the presentation explores every aspect of
+        America's commitment to air superiority.</image:caption
+      >
+      <image:title>Aviation Week: Superior Airpower</image:title>
+    </image:image>
+  </url>
+</urlset>

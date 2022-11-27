@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15208-Bathory: Countess of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15208-Bathory: Countess of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iSBd6bxBd2F5dzivBgQ9NClvNMs.jpg</image:loc
+      >
+      <image:caption
+        >Bathory is based on the legends surrounding the life and deeds of
+        Countess Elizabeth Bathory known as the greatest murderess in the
+        history of mankind. Contrary to popular belief, Elizabeth Bathory was a
+        modern Renaissance woman who ultimately fell victim to men’s aspirations
+        for power and wealth.</image:caption
+      >
+      <image:title>Bathory: Countess of Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

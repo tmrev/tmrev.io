@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/323561-Bad Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/323561-Bad Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qxpMT018QzNEciljPhhOElvdYJB.jpg</image:loc
+      >
+      <image:caption
+        >Bad Apple is the story of Quinn Robinson, a Pastor's daughter who
+        learns a valuable life lesson while at Christian Summer Camp. Pastor
+        Robinson and his family are just settling into their new house and new
+        church home. Pastor Robinson is a stern man with a high school sports
+        and military background. His wife Melinda grew up in hard times during
+        her childhood, but as an adult wants to enjoy the finer things in
+        life.</image:caption
+      >
+      <image:title>Bad Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

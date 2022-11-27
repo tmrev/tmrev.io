@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/344862-BEYONCÉ</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/344862-BEYONCÉ</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vK6q94SnUkTsKvbBBVXyvWSvS1y.jpg</image:loc
+      >
+      <image:caption
+        >BEYONCÉ is the fifth studio album by American singer Beyoncé. It was
+        released on December 13, 2013 through Parkwood Entertainment and
+        Columbia Records. Developed as a "visual album", Beyoncé's songs are
+        accompanied by non-linear short films that illustrate the musical
+        concepts conceived during production. Its dark and intimate subject
+        material includes feminist themes of sex, monogamous love, and
+        relationship issues, inspired by Beyoncé's desire to assert her full
+        creative freedom.</image:caption
+      >
+      <image:title>BEYONCÉ</image:title>
+    </image:image>
+  </url>
+</urlset>

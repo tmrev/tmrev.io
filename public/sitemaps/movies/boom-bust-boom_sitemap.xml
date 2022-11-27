@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/367197-Boom Bust Boom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/367197-Boom Bust Boom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8n2I0jx8x83M3wsiXKm5S2dKey6.jpg</image:loc
+      >
+      <image:caption
+        >Terry Jones presents Boom Bust Boom. The result of a meeting between
+        writer, director, historian and Python Terry Jones and economics
+        professor and entrepreneur Theo Kocken. Co-written by Jones and Kocken
+        and featuring John Cusack, Nobel Prize winners Daniel Kahneman, Robert J
+        Shiller and Paul Krugman, the film is part of a global movement to
+        change the economic system through education to protect the world from
+        boom and bust. A unique look at why economic crashes happen, Boom Bust
+        Boom is a multimedia documentary combining live action with animation
+        and puppetry to explain economics to everyone.</image:caption
+      >
+      <image:title>Boom Bust Boom</image:title>
+    </image:image>
+  </url>
+</urlset>

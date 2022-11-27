@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553614-Bean Bandit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553614-Bean Bandit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iM2uWkC1BklUQiFcrZCQGSkZxeq.jpg</image:loc
+      >
+      <image:caption
+        >Kenichi Sonoda announced at Anime Central that he launched a
+        Kickstarter campaign to fund a new "Bean Bandit" anime. He confirmed
+        that the project will meld elements of Riding Bean and Gunsmith Cats,
+        and like these previous works it will take place in
+        Chicago.</image:caption
+      >
+      <image:title>Bean Bandit</image:title>
+    </image:image>
+  </url>
+</urlset>

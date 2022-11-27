@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11340-Banana Joe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11340-Banana Joe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ccaQ9cSeUCBehupllBIVKs4hCBu.jpg</image:loc
+      >
+      <image:caption
+        >Bud Spencer plays Banana Joe, a brawny yet friendly man who lives in a
+        small rainforest village called Amantido with a huge number of his own
+        children and regularly delivers bananas to a South American river port
+        (hence his name). One day, the henchmen of a local gangster boss named
+        Torsillo come ashore in Amantido to initiate the construction a banana
+        processing plant. Of course, Joe (in typical direct-approach manner)
+        evicts the goons, who promptly return to their boss. Torsillo finds out
+        that Joe is trading bananas without a license and decides to exploit it.
+        Upon his next delivery, Joe is apprehended by the police and given the
+        choice of either acquiring a legal license or getting his boat taken
+        away and himself arrested for illegal shipment. Joe travels to the
+        nearest city, which to him is a new world, as he grew up in the
+        rainforest.</image:caption
+      >
+      <image:title>Banana Joe</image:title>
+    </image:image>
+  </url>
+</urlset>

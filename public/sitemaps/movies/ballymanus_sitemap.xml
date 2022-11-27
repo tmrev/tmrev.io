@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1037361-Ballymanus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1037361-Ballymanus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pvTDNrO6FVrRK2US18IrzZZ0ZAH.jpg</image:loc
+      >
+      <image:caption
+        >On 10 May 1943, something came ashore on Ballymanus strand in rural
+        Donegal, Ireland. The next day, nineteen people, mostly children, were
+        dead. A generation of the small townland was lost. Calls for answers
+        were silenced by the authorities. No one has been held accountable. The
+        disaster is unknown outside of the close-knit community, and barely
+        spoken of within it.</image:caption
+      >
+      <image:title>Ballymanus</image:title>
+    </image:image>
+  </url>
+</urlset>

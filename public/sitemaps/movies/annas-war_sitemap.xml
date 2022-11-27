@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/496916-Anna's War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/496916-Anna's War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2qBjowiX9vEmDnV6XQztJgTQaGc.jpg</image:loc
+      >
+      <image:caption
+        >The entire family of a 6-year-old Anna dies in the mass coordinated
+        execution of Jews. The mother covers up Anna with her own body, and the
+        girl miraculously survives. For the next few hundred days Anna hides in
+        the disused chimney at the Nazi Commandant's office. From her shelter
+        she watches as life passes her by until the village is liberated from
+        the Nazi. In these inhuman conditions Anna not only survives but keeps
+        her humanity. Many factors help her: memories from the life swept away
+        by war, the cultural foundations laid by the parents and a friend who
+        saves her from loneliness.</image:caption
+      >
+      <image:title>Anna's War</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/257614-As the Palaces Burn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/257614-As the Palaces Burn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nIodUzFLmrvwP4VoDxrhtFnSmFT.jpg</image:loc
+      >
+      <image:caption
+        >As the Palaces Burn is a feature-length documentary that originally
+        sought to follow Lamb of God and their fans throughout the world, to
+        demonstrate how music ties us together when we can’t find any other
+        common bond. However, during the filming process in 2012, the story
+        abruptly took a dramatic turn when lead singer Randy Blythe was arrested
+        on charges of manslaughter and blamed for the death of one of their
+        young fans in the Czech Republic. What followed was a heart-wrenching
+        courtroom drama that left fans, friends, and curious onlookers around
+        the world on the edge of their seats.</image:caption
+      >
+      <image:title>As the Palaces Burn</image:title>
+    </image:image>
+  </url>
+</urlset>

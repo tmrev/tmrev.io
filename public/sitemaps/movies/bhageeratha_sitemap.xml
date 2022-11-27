@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226197-Bhageeratha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226197-Bhageeratha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Bhageeratha is a 2005 Telugu movie directed by Rasool Ellore. The film
+        stars Ravi Teja and Shriya Saran in the lead roles. The film was dubbed
+        in Tamil as Jilla. The film was dubbed in Hindi as The Return of
+        Sikander.</image:caption
+      >
+      <image:title>Bhageeratha</image:title>
+    </image:image>
+  </url>
+</urlset>

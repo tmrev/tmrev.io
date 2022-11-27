@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334614-Art of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334614-Art of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tEJDavL9YguT2nnaMg6vSCo7evT.jpg</image:loc
+      >
+      <image:caption
+        >Art of Darkness is a feature documentary intimately profiling
+        controversial painter and performance artist Bryan Lewis Saunders. Bryan
+        is renowned for his commitment to producing a self portrait every day,
+        which, to date, number well over 10,000. A complex individual with
+        admitted psychopathic tendencies, Bryan narrates his dark, complex
+        process and the experiences that have shaped him and how he uses art to
+        help tame his inner demons. Bryan's famed 'drug series' of self
+        portraits while under the influence of a variety of mind-altering
+        substances, has made him an Internet sensation garnering a legion of
+        loyal fans worldwide.</image:caption
+      >
+      <image:title>Art of Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459996-Between: Living in the Hyphen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459996-Between: Living in the Hyphen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x9pzc2ha4VPbnTpKtI7V6CzR57g.jpg</image:loc
+      >
+      <image:caption
+        >Anne Marie Nakagawa's documentary examines what it means to have a
+        background of mixed ancestries that cannot be easily categorized. By
+        focusing on 7 Canadians who have one parent from a European background
+        and one of a visible minority, she attempts to get at the root of what
+        it means to be multi-ethnic in a world that wants each person to fit
+        into a single category.</image:caption
+      >
+      <image:title>Between: Living in the Hyphen</image:title>
+    </image:image>
+  </url>
+</urlset>

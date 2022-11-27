@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/965202-Battleground</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/965202-Battleground</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o14aCVPx7WdlR9kDaqzfyOeBNqj.jpg</image:loc
+      >
+      <image:caption
+        >Heading distinctly different anti-choice organizations, three women
+        lead the charge in their single-minded quest to overturn Roe v. Wade, as
+        they face down forces equally determined to safeguard women’s access to
+        safe and legal abortions.</image:caption
+      >
+      <image:title>Battleground</image:title>
+    </image:image>
+  </url>
+</urlset>

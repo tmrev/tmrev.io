@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84544-Apocalypse How</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84544-Apocalypse How</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z2qVI7xK3QCpNEKbb3aL1IxOVdM.jpg</image:loc
+      >
+      <image:caption
+        >The Mayan calendar predicts that the world will end in 2012, and many
+        believe it's true. This Emmy-nominated Discovery Channel documentary
+        illustrates the variety of ways the apocalypse could arrive in. True
+        believers will learn how volcanic eruption, widespread plague, deadly
+        asteroids, neighboring stars, and nuclear and biological weapons could
+        each bring about the extinction of humankind.</image:caption
+      >
+      <image:title>Apocalypse How</image:title>
+    </image:image>
+  </url>
+</urlset>

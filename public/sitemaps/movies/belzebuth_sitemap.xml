@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373226-Belzebuth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373226-Belzebuth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8op7hL7IOthDn2ADYRFNTBf2ywJ.jpg</image:loc
+      >
+      <image:caption
+        >While leading a police investigation of a massacre in a public school
+        at the border of Mexico and U.S.A, special Agent Emanuel Ritter links
+        this strange case to the coming and rising of the ancient demon
+        Belzebuth. But in order to stop the trail of upcoming infanticides,
+        Ritter shall have to confront himself before dealing with the forces of
+        good and evil.</image:caption
+      >
+      <image:title>Belzebuth</image:title>
+    </image:image>
+  </url>
+</urlset>

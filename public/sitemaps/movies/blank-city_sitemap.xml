@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63143-Blank City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63143-Blank City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5BFBiatNSFECdvKSSE2tOT8cxP3.jpg</image:loc
+      >
+      <image:caption
+        >In the years before Ronald Reagan took office, Manhattan was in ruins.
+        But true art has never come from comfort, and it was precisely those
+        dire circumstances that inspired artists like Jim Jarmusch, Lizzy
+        Borden, and Amos Poe to produce some of their best works. Taking their
+        cues from punk rock and new wave music, these young maverick filmmakers
+        confronted viewers with a stark reality that stood in powerful contrast
+        to the escapist product being churned out by Hollywood.</image:caption
+      >
+      <image:title>Blank City</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324258-Barge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324258-Barge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/QYowrXb6FtxKekrCj3ckblJYSZ.jpg</image:loc
+      >
+      <image:caption
+        >A towboat drifts down the Mississippi River, due for the port of New
+        Orleans. The water, the banks, the bright lights of a port ahead; the
+        lure of a coming paycheck and a home-cooked meal. This is the world of
+        BARGE. A green deckhand following his father into the family business. A
+        former convict working his way upward job by job, in the hopes of being
+        First Mate. A thirty-eight year veteran engineer in no hurry to retire.
+        An ancient waterway pulling a double shift as the backbone of a national
+        economy; a tangle of thick steel cables, tied together just right. As
+        long as the boat’s moving, they’re making money. An intimate portrait of
+        the machinery of American ambitions.</image:caption
+      >
+      <image:title>Barge</image:title>
+    </image:image>
+  </url>
+</urlset>

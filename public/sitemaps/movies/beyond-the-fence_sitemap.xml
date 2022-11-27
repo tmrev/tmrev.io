@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/672377-Beyond the Fence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/672377-Beyond the Fence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5V5GjIelAdnNC7xk78vpoBtks1Z.jpg</image:loc
+      >
+      <image:caption
+        >Tired of life, Morita climbs up to a roof with a suicide note. But
+        there he meets the drifter Tommy, who convinces Morita to climb Mt. Fuji
+        with him. Morita begins to learn about Tommy’s past, where he was
+        betrayed by his best friend. The two men, with secrets they cannot tell,
+        decide to face their pasts. -- Nippon Connection</image:caption
+      >
+      <image:title>Beyond the Fence</image:title>
+    </image:image>
+  </url>
+</urlset>

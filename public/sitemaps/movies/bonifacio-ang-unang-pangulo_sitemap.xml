@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317161-Bonifacio: Ang Unang Pangulo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317161-Bonifacio: Ang Unang Pangulo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hNNfUqbv1xExffJNExIjBwbQ5Iw.jpg</image:loc
+      >
+      <image:caption
+        >The true story of Andres Bonifacio, a man who rose as a leader in the
+        fight against the Spanish oppressors, and would gain the enmity of even
+        those fighting for the same cause.</image:caption
+      >
+      <image:title>Bonifacio: Ang Unang Pangulo</image:title>
+    </image:image>
+  </url>
+</urlset>

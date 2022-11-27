@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365583-Beyond the Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365583-Beyond the Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Denial won't end the nightmare --- After two years abroad, art student
+        MARLA SINGER returns to her empty family house to overlook its selling.
+        Her parents died in a car accident and she wants to say goodbye to her
+        past. But a party with old friends and a mysterious drug send her to a
+        bizarre nightmare, from which she seemingly never awakes
+        again.</image:caption
+      >
+      <image:title>Beyond the Bridge</image:title>
+    </image:image>
+  </url>
+</urlset>

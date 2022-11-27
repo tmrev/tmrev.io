@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/792997-August 15th</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/792997-August 15th</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qDyPhJSsiEINKHPeSxrwVyo8gJk.jpg</image:loc
+      >
+      <image:caption
+        >Based on a real life event, a young Chinese woman boards a bus with her
+        boyfriend to head home to meet his parents. What was supposed to be a
+        joyful holiday turns unpredictable when a pair of countryside crooks
+        hijack their bus. Traveling through China's dangerous mountain passes,
+        the passengers must decide how much they are willing to sacrifice for
+        their own safety.</image:caption
+      >
+      <image:title>August 15th</image:title>
+    </image:image>
+  </url>
+</urlset>

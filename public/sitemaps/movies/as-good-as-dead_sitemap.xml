@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35656-As Good As Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35656-As Good As Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4q4fSQSuYJGdM6AXCImm5Mle4kF.jpg</image:loc
+      >
+      <image:caption
+        >Seeking revenge for the murder of their religious leader, fundamental
+        loyalists kidnap and torture the man they believe responsible, but the
+        ensuing clash of right vs. left ideologies quickly reveals that they may
+        have the wrong man, which puts them on a path toward a shocking
+        twist</image:caption
+      >
+      <image:title>As Good As Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

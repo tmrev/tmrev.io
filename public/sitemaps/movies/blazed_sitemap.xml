@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/823723-Blazed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/823723-Blazed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iyTlLcwgJbOZFxbmD9ptrUy2SAe.jpg</image:loc
+      >
+      <image:caption
+        >Two cars, one day: directed by Taika Waititi, this extended public
+        service announcement uses humour to address the dangers of motoring
+        under the influence of marijuana. A trio of tamariki imitate their Dads’
+        stoned antics, driving home what’s at stake when getting behind the
+        wheel while ‘blazed’.</image:caption
+      >
+      <image:title>Blazed</image:title>
+    </image:image>
+  </url>
+</urlset>

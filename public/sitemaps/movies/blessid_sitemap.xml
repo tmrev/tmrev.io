@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/305781-Blessid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/305781-Blessid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tVFhJQZGgeapsimX8UMv2slC8b1.jpg</image:loc
+      >
+      <image:caption
+        >Sarah Duncliffe (played by Rachel Kerbs) battles suicidal thoughts and
+        disturbing hallucinations of her deceased sister (a victim of a tragic
+        childhood accident), an abusive ex-boyfriend who continues to stalk her,
+        and the banal existence of an empty marriage. Weeks away from delivering
+        a child that she feels undeserving to parent, Sarah finds her life
+        taking a surprising turn when she accidentally meets her new neighbor
+        who harbors an amazing life secret and shares a personal connection that
+        will change her forever.</image:caption
+      >
+      <image:title>Blessid</image:title>
+    </image:image>
+  </url>
+</urlset>

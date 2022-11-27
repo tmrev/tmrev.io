@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913401-Bardo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913401-Bardo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jDkDY5BwI539BzEiPHr3QIz3JVj.jpg</image:loc
+      >
+      <image:caption
+        >It's a normal night, right? Skylar goes downstairs to get a cup of
+        water. She never would have thought that this would get her into a life
+        or death situation.</image:caption
+      >
+      <image:title>Bardo</image:title>
+    </image:image>
+  </url>
+</urlset>

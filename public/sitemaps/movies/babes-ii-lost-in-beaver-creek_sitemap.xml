@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/568101-Babes II: Lost in Beaver Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/568101-Babes II: Lost in Beaver Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bUmzXBXDkr1Q6uXiJA88witEojn.jpg</image:loc
+      >
+      <image:caption
+        >Four cheerleaders are on their way to compete at a competition when
+        their van breaks down and they end up stranded in the
+        woods.</image:caption
+      >
+      <image:title>Babes II: Lost in Beaver Creek</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/193689-Boomerang Family</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/193689-Boomerang Family</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/naBaJ7OHUH3jZ0qrnILY1doLpdt.jpg</image:loc
+      >
+      <image:caption
+        >Based on an original written by Cheon Myeong-gwan, a 48 year-old movie
+        director moves into the house where his mother and 50 year-old brother
+        lives until his sister moves in with her niece.</image:caption
+      >
+      <image:title>Boomerang Family</image:title>
+    </image:image>
+  </url>
+</urlset>

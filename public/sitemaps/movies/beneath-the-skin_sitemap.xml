@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/415248-Beneath the Skin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/415248-Beneath the Skin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oUTBwHY3TaEft48xxjb5QOxBzc2.jpg</image:loc
+      >
+      <image:caption
+        >After his family falls apart Joshua is forced to move to Canada. It is
+        there he meets Jay, a local tattoo artist who fled the violent actions
+        of his parents back home in Alabama. Both young men, abandoned and
+        lonely in their own way, find themselves falling for one another...
+        until a pair of high school brats intrude on the boys' growing
+        relationship.</image:caption
+      >
+      <image:title>Beneath the Skin</image:title>
+    </image:image>
+  </url>
+</urlset>

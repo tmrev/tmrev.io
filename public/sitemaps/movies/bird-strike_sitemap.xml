@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/379493-Bird Strike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/379493-Bird Strike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In Bird Strike, we see how man and animal must share the air space and
+        the resulting consequences. In this visual story different characters
+        struggle with their curious relationship with unpredictable flying
+        troublemakers. Will man manage to get his own way, or will nature have
+        the final say in this battle for the skies?</image:caption
+      >
+      <image:title>Bird Strike</image:title>
+    </image:image>
+  </url>
+</urlset>

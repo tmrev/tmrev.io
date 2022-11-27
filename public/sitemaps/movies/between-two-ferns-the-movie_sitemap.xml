@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/584962-Between Two Ferns: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/584962-Between Two Ferns: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cHxc8v1GkzdjjhF2qnpG6wdXrOT.jpg</image:loc
+      >
+      <image:caption
+        >Galifianakis dreamed of becoming a star. But when Will Ferrell
+        discovered his public access TV show, 'Between Two Ferns' and uploaded
+        it to Funny or Die, Zach became a viral laughing stock. Now Zach and his
+        crew are taking a road trip to complete a series of high-profile
+        celebrity interviews and restore his reputation.</image:caption
+      >
+      <image:title>Between Two Ferns: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110553-Austin High</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110553-Austin High</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6n342W6e49mGpBKsCRHdz0RQFJn.jpg</image:loc
+      >
+      <image:caption
+        >What would happen if a group of high school slackers grew up and became
+        the faculty at their own high school?</image:caption
+      >
+      <image:title>Austin High</image:title>
+    </image:image>
+  </url>
+</urlset>

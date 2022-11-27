@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1032509-Astika</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1032509-Astika</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Daniel has been living uneasily because of an incident that happened
+        years ago and he's decided to do something about it. He contacts and
+        meets with Paulina, his ex-girlfriend whom he hasn't seen in more than
+        10 years, in hopes of confronting what has been troubling him, once and
+        for all.</image:caption
+      >
+      <image:title>Astika</image:title>
+    </image:image>
+  </url>
+</urlset>

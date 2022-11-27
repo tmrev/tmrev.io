@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/726507-Blood Pageant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/726507-Blood Pageant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/55jXOMSDru32c3ar0wzcZgE4wEo.jpg</image:loc
+      >
+      <image:caption
+        >What begins as a million-dollar reality show competition between seven
+        beautiful women turns into a battle for life itself when one contestant
+        uses dark magic to gain an edge over the competition.</image:caption
+      >
+      <image:title>Blood Pageant</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/323020-Bis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/323020-Bis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fuW0Qp1Wrnc3NjPslRwKevUKtJW.jpg</image:loc
+      >
+      <image:caption
+        >Éric and Patrice have been friends since high school. Over the years,
+        they have both taken very different paths: Éric has become a hedonist,
+        has a string of girlfriends and is always on the look out for a new one;
+        Patrice has become a monogamous father with a very ordered life. After a
+        drunken evening, the two childhood friends find themselves cast back
+        into 1986, when they were 17 years old. This return to the past is a
+        dream opportunity to try to change the path their lives will take. What
+        will they do with this second chance?</image:caption
+      >
+      <image:title>Bis</image:title>
+    </image:image>
+  </url>
+</urlset>

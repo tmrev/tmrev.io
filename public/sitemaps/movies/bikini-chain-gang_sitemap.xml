@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/54338-Bikini Chain Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/54338-Bikini Chain Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k4vuTim0hj25bIsiUfvByVoL5PA.jpg</image:loc
+      >
+      <image:caption
+        >A waitress who won't put out for her boss has the misfortune of
+        quitting her job just as the bar is being robbed by a notorious
+        thief...</image:caption
+      >
+      <image:title>Bikini Chain Gang</image:title>
+    </image:image>
+  </url>
+</urlset>

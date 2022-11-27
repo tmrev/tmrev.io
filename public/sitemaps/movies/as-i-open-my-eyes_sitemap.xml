@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/356381-As I Open My Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/356381-As I Open My Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rSdUEsu3vAgUepn2iJzYLS5LEvU.jpg</image:loc
+      >
+      <image:caption
+        >Tunis, summer 2010, a few months before the Revolution: Farah, 18 years
+        old, has just graduated and her family already sees her as a future
+        doctor. But she doesn't have the same idea. She sings in a political
+        rock band, has a passion for life, gets drunk, discovers love and her
+        city by night against the wishes of her mother Hayet, who knows Tunisia
+        and its dangers all too well.</image:caption
+      >
+      <image:title>As I Open My Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

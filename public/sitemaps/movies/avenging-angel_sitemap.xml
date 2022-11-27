@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67390-Avenging Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67390-Avenging Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6rksWEKXrg0QgdxyTxOajArn2Ub.jpg</image:loc
+      >
+      <image:caption
+        >Molly, former baby prostitute "Angel" from Sunset Boulevard, has
+        managed to leave her street life with help of Lt. Andrews. She studies
+        law at an university and aims to become attorney. When she learns that
+        Andrews was shot during a failed observation by brutal gangsters, she
+        returns downtown to take revenge</image:caption
+      >
+      <image:title>Avenging Angel</image:title>
+    </image:image>
+  </url>
+</urlset>

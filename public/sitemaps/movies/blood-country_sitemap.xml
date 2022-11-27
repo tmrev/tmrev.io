@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490992-Blood Country</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490992-Blood Country</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t9jmPSBiC494Tjvz8GJczK7Cwpz.jpg</image:loc
+      >
+      <image:caption
+        >A true story of murder, injustice and disorder in Mississippi following
+        the Civil War, based on the short story "The Outlaw, the Sheriff, and
+        the Governor" by Robert E. Jones.</image:caption
+      >
+      <image:title>Blood Country</image:title>
+    </image:image>
+  </url>
+</urlset>

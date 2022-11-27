@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1649-Bill & Ted's Bogus Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1649-Bill & Ted's Bogus Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg</image:loc
+      >
+      <image:caption
+        >Amiable slackers Bill and Ted are once again roped into a fantastical
+        adventure when De Nomolos, a villain from the future, sends evil robot
+        duplicates of the two lads to terminate and replace them. The robot
+        doubles actually succeed in killing Bill and Ted, but the two are
+        determined to escape the afterlife, challenging the Grim Reaper to a
+        series of games in order to return to the land of the
+        living.</image:caption
+      >
+      <image:title>Bill & Ted's Bogus Journey</image:title>
+    </image:image>
+  </url>
+</urlset>

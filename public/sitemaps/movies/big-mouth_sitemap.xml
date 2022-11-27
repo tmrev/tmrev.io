@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505895-Big Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505895-Big Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/db0x8zc8QSdX7gDct2o1ozVu4QM.jpg</image:loc
+      >
+      <image:caption
+        >This animated short tells the story of Trudy, a little girl who is
+        equal parts truthful and rude. A bright-minded and quick-witted child,
+        Trudy has an unfiltered and deeply curious way of looking at the world.
+        Here, events force her to question what it means to speak the truth, and
+        comes to understand how our differences make us unique.</image:caption
+      >
+      <image:title>Big Mouth</image:title>
+    </image:image>
+  </url>
+</urlset>

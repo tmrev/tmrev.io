@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17460-Blame It on Fidel!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17460-Blame It on Fidel!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p6mBGtAryMefx0dBQwB8Qpyhu2I.jpg</image:loc
+      >
+      <image:caption
+        >A 9-year-old girl weathers big changes in her household as her parents
+        become radical political activists in 1970-71 Paris.</image:caption
+      >
+      <image:title>Blame It on Fidel!</image:title>
+    </image:image>
+  </url>
+</urlset>

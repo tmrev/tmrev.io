@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/781205-Beauty of Fatherland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/781205-Beauty of Fatherland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e6LxTz0G2Q6atu4tNbEg6Ufpzc7.jpg</image:loc
+      >
+      <image:caption
+        >The documentary observes two matriarchs - Tiina Jantson governs the
+        beauty contest empire in Estonia; Anne Eenpanu leads the activities of
+        "Home Daughters" - a girls' corps of Estonian Defence League. The film's
+        main characters and their activities are very different. Whereas Anne's
+        pedagogical approach is almost totally based on the love for fatherland
+        then Tiina spends her days in the glitter of show business. However,
+        there are some similiarities in their lives. The documentary studies the
+        values, gender roles and moral norms in Estonia at the beginning of 21st
+        century.</image:caption
+      >
+      <image:title>Beauty of Fatherland</image:title>
+    </image:image>
+  </url>
+</urlset>

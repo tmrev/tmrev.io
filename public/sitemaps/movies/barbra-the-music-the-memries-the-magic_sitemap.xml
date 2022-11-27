@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/485157-Barbra: The Music ... The Mem'ries ... The
+      Magic!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/485157-Barbra: The Music ... The Mem'ries ... The
+      Magic!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5DyY92fWXrAoutY2vAatMnt2rPq.jpg</image:loc
+      >
+      <image:caption
+        >Iconic songstress Barbra Streisand culminates her 13-city tour in Miami
+        with dazzling ballads, Broadway standards and stories from behind the
+        scenes.</image:caption
+      >
+      <image:title
+        >Barbra: The Music ... The Mem'ries ... The Magic!</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

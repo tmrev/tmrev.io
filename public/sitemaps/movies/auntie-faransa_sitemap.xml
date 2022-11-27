@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/534432-Auntie Faransa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/534432-Auntie Faransa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gOES28nzneJ46yV6vDzVHaDQv5a.jpg</image:loc
+      >
+      <image:caption
+        >Batta and Wezza are two siblings living with their aunt Faransa at a
+        local neighborhood as the latter works as a hired mourner. Batta accepts
+        to pursue the same career as her aunt, under one condition: to keep
+        Wezza away from all the mourning and the weeping and let her continue
+        her studies.</image:caption
+      >
+      <image:title>Auntie Faransa</image:title>
+    </image:image>
+  </url>
+</urlset>

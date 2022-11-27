@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/532352-Blossom Valley</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/532352-Blossom Valley</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yFu4wDmF0rNM4blK4gOkgRt1JLJ.jpg</image:loc
+      >
+      <image:caption
+        >Bianka (20) finds herself drifting in the suburbs without any
+        particular purpose. She has the sudden urge to steal a baby, which she
+        does, but now she has to find a father and a home. When none of her
+        ex-boyfriends are willing to lend a hand, the only one happy to help is
+        Laci (21) who is mentally disabled and living in a workers’
+        hostel.</image:caption
+      >
+      <image:title>Blossom Valley</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/671145-Before the Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/671145-Before the Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bAwtbmCzhFwKf2wN6QQH301ylbO.jpg</image:loc
+      >
+      <image:caption
+        >Deep in the throes of a global pandemic, up and coming TV star, Ava
+        Boone, is forced to flee the mounting chaos in Los Angeles and return to
+        her rural hometown. But as she struggles to acclimate to a way of life
+        she left behind long ago, her homecoming attracts a dangerous figure
+        from her past – threatening both her and the family that serves as her
+        only sanctuary.</image:caption
+      >
+      <image:title>Before the Fire</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328099-Black Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328099-Black Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/16zReroCqbBIkHODYJN2ykPa3yc.jpg</image:loc
+      >
+      <image:caption
+        >In 2011, top-secret data on nuclear power is stolen from a university
+        facility. At the same time, leaked information comes in about enriched
+        uranium from the Korean peninsula. Sumimoto of the external affairs
+        fourth division suspects that a conspiracy has been hatched to rock
+        Japan-Korean relations.</image:caption
+      >
+      <image:title>Black Dawn</image:title>
+    </image:image>
+  </url>
+</urlset>

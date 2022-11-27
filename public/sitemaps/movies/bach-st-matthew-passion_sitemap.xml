@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444680-Bach: St. Matthew Passion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444680-Bach: St. Matthew Passion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pGjhRR137WYwbfAsauWs4wVFYjM.jpg</image:loc
+      >
+      <image:caption
+        >Sir Simon Rattle was in no doubt: the performance of the St Matthew
+        Passion which he realised together with the Berliner Philharmoniker and
+        the Rundfunkchor Berlin in 2010 was for him “the single most important
+        thing we ever did here”. Critics around the world agreed. They praised
+        the semi-staged “ritualization” by American star-director Peter Sellars,
+        as well as the outstanding musical performances by the soloists,
+        including Magdalena Kožená, Christian Gerhaher, Thomas Quasthoff and
+        Mark Padmore as the Evangelist.</image:caption
+      >
+      <image:title>Bach: St. Matthew Passion</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60418-Attila the Hun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60418-Attila the Hun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iXMYYTnv1bQerirq3m89o1c8OUh.jpg</image:loc
+      >
+      <image:caption
+        >(History Channel) A marauding barbarian with a reputation as one of
+        history's monsters, even today Attila's name is a synonym for
+        savagery.</image:caption
+      >
+      <image:title>Attila the Hun</image:title>
+    </image:image>
+  </url>
+</urlset>

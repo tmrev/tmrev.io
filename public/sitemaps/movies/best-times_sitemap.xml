@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136870-Best Times</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136870-Best Times</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8vCOj99QrEGVeSkyg1x4ed1cJdR.jpg</image:loc
+      >
+      <image:caption
+        >Ahla el-Awqat (The Best of Times) tells the story of a successful
+        middle-aged woman (Salma, played by Hanan Tork) who is left to live with
+        her step father after a not-so-tragic accident that claims the life of
+        her mother. Salma goes on a quest to find out the identity of the sender
+        of mystery letters and packages. One letter includes a picture of her
+        and her two best friends from school (played by the Hend Sabry and Menna
+        Shalaby), whom she has not seen for 14 years. Reunited, the girls embark
+        on the quest of finding the identity of the sender.</image:caption
+      >
+      <image:title>Best Times</image:title>
+    </image:image>
+  </url>
+</urlset>

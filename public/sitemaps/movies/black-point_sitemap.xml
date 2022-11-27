@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64858-Black Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64858-Black Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9PPnx88hfZcv0ttPz26IniJ0Czl.jpg</image:loc
+      >
+      <image:caption
+        >In an Alaskan fishing town, a local crime boss suspects a local
+        fisherman knows where his stolen money is, but this fisherman is no
+        regular Joe.</image:caption
+      >
+      <image:title>Black Point</image:title>
+    </image:image>
+  </url>
+</urlset>

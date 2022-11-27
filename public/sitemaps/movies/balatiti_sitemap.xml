@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/755924-Balatiti</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/755924-Balatiti</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wPukY3JSn2FuAawCRI1jMDouAZN.jpg</image:loc
+      >
+      <image:caption
+        >A young writer inflicts harm on herself and others to experience the
+        pain that her story requires.</image:caption
+      >
+      <image:title>Balatiti</image:title>
+    </image:image>
+  </url>
+</urlset>

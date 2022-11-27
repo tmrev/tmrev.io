@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2923-B. Monkey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2923-B. Monkey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/80bQjfpH14P5p2TDnfWUukEkM55.jpg</image:loc
+      >
+      <image:caption
+        >When wistful introvert Alan Furnace meets quick-witted bombshell
+        Beatrice, he has no idea of her secret life as "B. Monkey" -- the top
+        thief-for-hire in London's criminal underworld. Charmed by Furnace's
+        innocent and chivalrous ways, Beatrice resolves to reform. But to cash
+        in on her first chance at real love, she must escape her former partner
+        in crime, the ruthless Paul Neville -- and a dark past that seems to
+        haunt her every step.</image:caption
+      >
+      <image:title>B. Monkey</image:title>
+    </image:image>
+  </url>
+</urlset>

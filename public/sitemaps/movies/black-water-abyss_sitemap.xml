@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/522444-Black Water: Abyss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/522444-Black Water: Abyss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pmAv14TPE2vKMIRrVeCd1Ll7K94.jpg</image:loc
+      >
+      <image:caption
+        >An adventure-loving couple convince their friends to explore a remote,
+        uncharted cave system in the forests of Northern Australia. With a
+        tropical storm approaching, they abseil into the mouth of the cave, but
+        when the caves start to flood, tensions rise as oxygen levels fall and
+        the friends find themselves trapped. Unknown to them, the storm has also
+        brought in a pack of dangerous and hungry crocodiles.</image:caption
+      >
+      <image:title>Black Water: Abyss</image:title>
+    </image:image>
+  </url>
+</urlset>

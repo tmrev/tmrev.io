@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/256361-Astonishing X-Men: Gifted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/256361-Astonishing X-Men: Gifted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/48MJRUJY3Yf5jyMLbJFAFmQkAdz.jpg</image:loc
+      >
+      <image:caption
+        >Cyclops and Emma Frost re-form the X-Men with the express purpose of
+        "astonishing" the world. But when breaking news regarding a cure to the
+        mutant gene unexpectedly hits the airwaves, will it derail their new
+        plans before they even get started?</image:caption
+      >
+      <image:title>Astonishing X-Men: Gifted</image:title>
+    </image:image>
+  </url>
+</urlset>

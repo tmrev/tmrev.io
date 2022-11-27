@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/955569-Arthur, malédiction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/955569-Arthur, malédiction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3Hdjclma1lkMeJDsA7VfpOY4Jrd.jpg</image:loc
+      >
+      <image:caption
+        >Alex is an 18 year old young man. He has been a big fan of the Arthur
+        and the Minimoys fantasy film saga for years. Then his group of friends
+        suggests that he goes to the abandoned house where the film was shot.
+        They are unaware that they are about to fall into a deadly
+        plot.</image:caption
+      >
+      <image:title>Arthur, malédiction</image:title>
+    </image:image>
+  </url>
+</urlset>

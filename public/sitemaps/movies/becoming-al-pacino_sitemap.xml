@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/926616-Becoming Al Pacino</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/926616-Becoming Al Pacino</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/flkfYWUzrmWqB4XiOeOKQ2H699u.jpg</image:loc
+      >
+      <image:caption
+        >Between the South Bronx and (New) Hollywood, a portrait of Al Pacino,
+        passionate about theatre and mythical actor of The Godfather and
+        Scarface, who has never stopped battling with his demons.</image:caption
+      >
+      <image:title>Becoming Al Pacino</image:title>
+    </image:image>
+  </url>
+</urlset>

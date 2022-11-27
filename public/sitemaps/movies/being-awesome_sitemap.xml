@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254795-Being Awesome</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254795-Being Awesome</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xK2jD29GnhmJt6qexwurOPa2Mdu.jpg</image:loc
+      >
+      <image:caption
+        >Teddy and Lloyd, each hopelessly depressed, strike up a friendship at
+        their 10-year high school reunion and decide to turn their lives around.
+        They decide to break things down to basics and set a very clear and
+        simple goal for themselves: to just be awesome.</image:caption
+      >
+      <image:title>Being Awesome</image:title>
+    </image:image>
+  </url>
+</urlset>

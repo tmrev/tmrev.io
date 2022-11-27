@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1032124-Ask Me to Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1032124-Ask Me to Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xcRBW1xjvJVPhyLNMNSfIZL2wH8.jpg</image:loc
+      >
+      <image:caption
+        >Jack is an I/T programmer, a great guy, unlucky in love. Jill is a
+        graphic designer, a great gal, and just as unlucky. They have no idea
+        they are destined to be together. On a starry night, Jack and Jill
+        separately meet a gypsy lady who tells them they will meet the love of
+        their life before midnight at the end of the year, which happens to be
+        only five days away. The countdown begins, and both Jack and Jill go on
+        a series of horrible and hilarious dates, each worse than the next. Each
+        time, they barely miss meeting each other. New Years Eve is getting
+        closer. Will the gypsy's prophecy come true? Will they meet and fall in
+        love?</image:caption
+      >
+      <image:title>Ask Me to Dance</image:title>
+    </image:image>
+  </url>
+</urlset>

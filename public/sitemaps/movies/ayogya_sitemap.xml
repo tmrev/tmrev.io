@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/581104-Ayogya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/581104-Ayogya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gXBPfX7or3KCapbyuYemjTR7ZPS.jpg</image:loc
+      >
+      <image:caption
+        >When a corrupt cop gets embroiled in a heroic brawl, he has no idea how
+        it would eventually lead him to a shocking rape case and change his life
+        forever.</image:caption
+      >
+      <image:title>Ayogya</image:title>
+    </image:image>
+  </url>
+</urlset>

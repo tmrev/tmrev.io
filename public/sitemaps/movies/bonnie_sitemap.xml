@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/880921-Bonnie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/880921-Bonnie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5js184t2ddULNMx7VODjyiiZxMM.jpg</image:loc
+      >
+      <image:caption
+        >Legendary casting director Bonnie Timmermann finally goes under the
+        spotlight with an exclusive documentary featuring never-seen audition
+        footage of all of today’s biggest stars and a refreshing take on what a
+        casting director is, and more generally what is the essence of an actor
+        and how a film is genuinely made.From Bruce Willis to Natalie Portman,
+        passing by Liam Neeson and Sigourney Weaver, meet the woman who shaped
+        today’s TV and cinema and the pioneer who transformed society by giving
+        minorities a shot and young generations new faces to look up
+        to.</image:caption
+      >
+      <image:title>Bonnie</image:title>
+    </image:image>
+  </url>
+</urlset>

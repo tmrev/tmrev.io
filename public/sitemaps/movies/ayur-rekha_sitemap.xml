@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/838676-Ayur Rekha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/838676-Ayur Rekha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9z3PLpbc4Kq4KeRlpjansAgdNoc.jpg</image:loc
+      >
+      <image:caption
+        >Doctor Aparna is the Managing Director of a hospital, whose divorce
+        with her husband is in progress. However, when she is found dead, a
+        police officer sets out to find the culprit</image:caption
+      >
+      <image:title>Ayur Rekha</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15049-Bon Cop Bad Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15049-Bon Cop Bad Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cnFGxgojtNpi1cavNRNldfzvCk7.jpg</image:loc
+      >
+      <image:caption
+        >When the body of the executive of hockey Benoit Brisset is found on the
+        billboard of the border of Quebec and Ontario, the jurisdiction of the
+        crime is shared between the two police forces and detectives David
+        Bouchard from Montreal and Martin Ward from Toronto are assigned to work
+        together. With totally different styles, attitudes and
+        languages.</image:caption
+      >
+      <image:title>Bon Cop Bad Cop</image:title>
+    </image:image>
+  </url>
+</urlset>

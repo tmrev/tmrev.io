@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/201295-Bikers Kental</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/201295-Bikers Kental</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lUQvaDYo8JEg5ojhsP1Iu1XneWO.jpg</image:loc
+      >
+      <image:caption
+        >Bikers Kental is a comic tale of a man named Bidin Al Zaifa who embarks
+        on a road-trip to Thailand with a biker gang, without any idea of what
+        he is in for. A superbike enthusiast, Bidin manages to buy his dream
+        bike after stumbling across a bag of money in a dead man’s car. He is
+        allowed into the biker gang that he had been trying so hard to impress,
+        and joins them on a biker-trio to a famous motorcycling event in
+        Thailand</image:caption
+      >
+      <image:title>Bikers Kental</image:title>
+    </image:image>
+  </url>
+</urlset>

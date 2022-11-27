@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/559392-Atys en folie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/559392-Atys en folie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1F7ENI7pouCIqnndksULqIIjN4M.jpg</image:loc
+      >
+      <image:caption
+        >Brightly painted wooden marionettes, live actors dressed as peasants,
+        and five musicians playing period instruments (including one on a
+        hurdy-gurdy!) come together on one stage to engage in one of humanity’s
+        favorite pastimes: making fun of itself! Experience Lully’s Atys like
+        you’ve never seen it before in this piece of delightful satire,
+        18th-century style!</image:caption
+      >
+      <image:title>Atys en folie</image:title>
+    </image:image>
+  </url>
+</urlset>

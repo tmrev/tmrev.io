@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/288618-Atlántida</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/288618-Atlántida</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/brP04zgW5N3tw1Ht5dFgcYj92Sr.jpg</image:loc
+      >
+      <image:caption
+        >In the summer of 1987 in a town in Córdoba, two teenage sisters, Elena
+        and Lucia, are alone at home. The youngest is upset with her older
+        sister, who thinks about how to get out of that town, to study and to
+        live differently.</image:caption
+      >
+      <image:title>Atlántida</image:title>
+    </image:image>
+  </url>
+</urlset>

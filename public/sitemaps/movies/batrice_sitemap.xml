@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/779558-Béatrice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/779558-Béatrice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6xeO1bAUMNeOdvZLKBIVxamekGy.jpg</image:loc
+      >
+      <image:caption
+        >Vannina, a young filmmaker, starts writing a screenplay about the life
+        of Beatrice Virga, an Italian actress and cinema icon who died at the
+        beginning of the 1960s when she was thirty-four years old. To be closer
+        to her subject, Vannina goes to Corsica to write, in a hotel where the
+        actress often stayed. It is winter and Vannina seems to be alone,
+        sharing the place with the hotel pianist. As the days go by, deeply
+        buried secrets rise to the surface.</image:caption
+      >
+      <image:title>Béatrice</image:title>
+    </image:image>
+  </url>
+</urlset>

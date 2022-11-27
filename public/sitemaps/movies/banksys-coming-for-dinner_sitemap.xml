@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/903950-Banksy's Coming for Dinner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/903950-Banksy's Coming for Dinner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ylCfZ9R8ll0NAfCl391xtgpife.jpg</image:loc
+      >
+      <image:caption
+        >Hollywood royalty Joan Collins and husband Percy meet Banksy, the most
+        famous living artist in the world. Banksy's Coming for Dinner is a film
+        within a film and questions the very nature of 'reality' at every
+        level.</image:caption
+      >
+      <image:title>Banksy's Coming for Dinner</image:title>
+    </image:image>
+  </url>
+</urlset>

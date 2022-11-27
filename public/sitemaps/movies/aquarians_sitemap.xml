@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593942-Aquarians</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593942-Aquarians</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z0QB8mZG0DCWj0rLEIG4uu5Jqjb.jpg</image:loc
+      >
+      <image:caption
+        >Aquarians is a wintertime drama about a seminary student who returns to
+        his hometown and is compelled to reconnect with his estranged
+        brother.</image:caption
+      >
+      <image:title>Aquarians</image:title>
+    </image:image>
+  </url>
+</urlset>

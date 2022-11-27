@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1035356-Astra</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1035356-Astra</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yttH1Hr3ay2J58PUu3S1e4HtzGo.jpg</image:loc
+      >
+      <image:caption
+        >Koena, a journalist, falls in love with Baban, a gangster, unaware of
+        his real identity. When she learns about Baban's evil deeds, Koena gets
+        upset and confused about what to do next. In this film, DaVinci Resolve
+        — the latest colour grading software was used for the first time in an
+        eastern India film.</image:caption
+      >
+      <image:title>Astra</image:title>
+    </image:image>
+  </url>
+</urlset>

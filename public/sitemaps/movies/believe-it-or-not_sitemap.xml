@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547328-Believe It or Not</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547328-Believe It or Not</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/enrzodCmSGxyWxJqLFzTQGchN8C.jpg</image:loc
+      >
+      <image:caption
+        >Over many years of division, North and South Korea have become like a
+        hall of mirrors where it is difficult to tell the real from the false.
+        Inspired by real people who have traveled between North and South amid
+        this division, this film depicts a relationship between the two that is
+        so deeply skewed that it is impossible to tell what anyone is working to
+        achieve.</image:caption
+      >
+      <image:title>Believe It or Not</image:title>
+    </image:image>
+  </url>
+</urlset>

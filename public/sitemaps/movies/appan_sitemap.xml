@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/885272-Appan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/885272-Appan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r9JNFwuy86q0jutO8qXP758k5sN.jpg</image:loc
+      >
+      <image:caption
+        >A cruel womaniser, who cheated death and has been bedridden for ages,
+        harasses his wife and son out of spite. As his family waits for him to
+        die, the villagers form a mob demanding to kill him because of his
+        actions. When he tricks his wife into allowing him to spend time alone
+        with another woman, his family faces a hard decision that could alter
+        their lives forever.</image:caption
+      >
+      <image:title>Appan</image:title>
+    </image:image>
+  </url>
+</urlset>

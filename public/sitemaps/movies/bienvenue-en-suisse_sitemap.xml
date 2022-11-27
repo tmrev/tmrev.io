@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56785-Bienvenue en Suisse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56785-Bienvenue en Suisse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9Nm2SaKsKjmVes4RGvzC1V2dRNU.jpg</image:loc
+      >
+      <image:caption
+        >Thierry, ethnologue spécialiste des lapons, se rend dans sa Suisse
+        natale avec sa compagne, Sophie, pour assister à l'enterrement de sa
+        grand-mère. Il y retrouve sa famille et découvre qu'il a hérité de deux
+        millions de francs suisses, mais que pour les obtenir il va devoir faire
+        semblant de s'adapter aux valeurs et mode de vie suisse qu'il avait
+        rejeté. Pour ce faire il va accepter une sorte de formation accélérée
+        prodiguée par son cousin suisse Aloïs, qui aurait plutôt des vues sur
+        Sophie.</image:caption
+      >
+      <image:title>Bienvenue en Suisse</image:title>
+    </image:image>
+  </url>
+</urlset>

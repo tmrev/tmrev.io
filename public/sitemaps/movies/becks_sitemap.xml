@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/458987-Becks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/458987-Becks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wHoIajRm3opTztFURT8D5qgbUVC.jpg</image:loc
+      >
+      <image:caption
+        >After a crushing breakup with her girlfriend, a Brooklyn musician moves
+        back in with her Midwestern mother. As she navigates her hometown,
+        playing for tip money in an old friend's bar, an unexpected relationship
+        begins to take shape.</image:caption
+      >
+      <image:title>Becks</image:title>
+    </image:image>
+  </url>
+</urlset>

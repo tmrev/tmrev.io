@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15339-Born in 68</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15339-Born in 68</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mD16CvwukkmKlVi5YDhyp6z9Obs.jpg</image:loc
+      >
+      <image:caption
+        >Paris, 1968. Catherine, Yves and Hervé are twenty years old. They're
+        students and they love each other. The May student uprisings radically
+        change their lives. Overtaken by communal utopia, they leave the city
+        with a few friends to set up house in an abandoned farm in the Lot
+        region. A desire for freedom and the search for individual fulfillment
+        lead them to make choices that cause more harm than good.</image:caption
+      >
+      <image:title>Born in 68</image:title>
+    </image:image>
+  </url>
+</urlset>

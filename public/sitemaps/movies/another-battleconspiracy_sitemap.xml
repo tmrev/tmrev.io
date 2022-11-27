@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/797230-Another Battle/Conspiracy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/797230-Another Battle/Conspiracy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mF0LmWSL0YSSKfL8cpVlWzmNwmS.jpg</image:loc
+      >
+      <image:caption
+        >Katsunori Takahashi and Ken Watanabe star in a modern yakuza tale in
+        the classic Japanese film series, Battles Without Honor and Humanity,
+        directed by Hajime Hashimoto.</image:caption
+      >
+      <image:title>Another Battle/Conspiracy</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100088-Black Gunn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100088-Black Gunn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ka1Bcy9w7YOroUXMJe2aZPadkkm.jpg</image:loc
+      >
+      <image:caption
+        >A successful and popular nightclub owner who believes financial
+        independence is the path to equality and success, must act as a
+        go-between for militant-minded brother and the white gang syndicate his
+        brother has attacked and robbed. Their involvements lead to a breathless
+        race course chase, the destruction of a dopepusher and a violent
+        waterfront climax.</image:caption
+      >
+      <image:title>Black Gunn</image:title>
+    </image:image>
+  </url>
+</urlset>

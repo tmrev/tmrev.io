@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61424-Backwash</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61424-Backwash</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1REtjEQLprwycFDYcBzJrFs1WwB.jpg</image:loc
+      >
+      <image:caption
+        >The tale of three slacker friends and the adventures that ensure after
+        one of them inadvertently robs a bank armed only with a large salami.
+        Many guest cameos including Jon Hamm, John Stamos, Sarah Silverman, John
+        Cho, Allison Janney, Hank Azaria, Michael Vartan, Steven Weber,
+        Jamie-Lynn Sigler. DTV version of ... the Made-for-Digital
+        series.</image:caption
+      >
+      <image:title>Backwash</image:title>
+    </image:image>
+  </url>
+</urlset>

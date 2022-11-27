@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/461583-Azhagiya Asura</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/461583-Azhagiya Asura</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xsJfGY3KwOoNUNz8F86WYk0M56y.jpg</image:loc
+      >
+      <image:caption
+        >Guna unites his brother and his lover after overcoming a number of
+        problems. But when he falls in love with a girl who does not reciprocate
+        his feelings, his brother's wife comes to his aid.</image:caption
+      >
+      <image:title>Azhagiya Asura</image:title>
+    </image:image>
+  </url>
+</urlset>

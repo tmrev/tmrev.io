@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/390780-Bob Dylan: Another Self Portrait
+      (1969-1971)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/390780-Bob Dylan: Another Self Portrait
+      (1969-1971)</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Go behind the scenes in this exclusive documentary short chronicling
+        Bob Dylan’s Self Portrait sessions and the songs collected on Another
+        Self Portrait (1969-1971): The Bootleg Series Vol. 10, featuring
+        exclusive interviews with Self Portrait producer Bob Johnston, guitarist
+        Dave Bromberg, and organist Al Kooper.</image:caption
+      >
+      <image:title>Bob Dylan: Another Self Portrait (1969-1971)</image:title>
+    </image:image>
+  </url>
+</urlset>

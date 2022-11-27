@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30508-Berlin Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30508-Berlin Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/biR1lfcq0FeSfv9vLWR7PRHnuV2.jpg</image:loc
+      >
+      <image:caption
+        >A man tours clubs around the globe with his manager and girlfriend. On
+        the eve of their largest album release he is admitted to a psychiatric
+        clinic after overdosing at a gig.</image:caption
+      >
+      <image:title>Berlin Calling</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/221930-Bamboo Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/221930-Bamboo Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Tour guide Berta is having a tough time making ends meet. She’s forced
+        to let her son Omel travel to the big city to take a job at an
+        electronics store. Luis is studying to be a seaman, but can’t seem to
+        pass his exams. His girlfriend Dolores is working as an intern at a
+        resort, and dreams of going abroad as well. Sandra, following a painful
+        event back in Manila, returns to her native Bohol, taking her spoiled
+        son Eric with her.</image:caption
+      >
+      <image:title>Bamboo Flowers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454769-Behen Hogi Teri</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454769-Behen Hogi Teri</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2zdhiVMVrHFu5J2LarF5bHhSabM.jpg</image:loc
+      >
+      <image:caption
+        >Owing to the condition that the girls of the neighborhood should be
+        treated like one's own sister, Gattu works to capture Binny's heart and
+        the approval of his community.</image:caption
+      >
+      <image:title>Behen Hogi Teri</image:title>
+    </image:image>
+  </url>
+</urlset>

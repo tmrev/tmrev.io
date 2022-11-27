@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17305-Billy & Mandy's Big Boogey Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17305-Billy & Mandy's Big Boogey Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nMWGHdVUrGQwo1SQ4JdDUv556L8.jpg</image:loc
+      >
+      <image:caption
+        >When the Boogey Man causes Grim to lose his powers, rank, and title in
+        the Underworld Court for misusing his powers, he plots to seek out
+        Horror's Hand and take over the world. It's up to Billy, Mandy, Irwin,
+        and Grim to get to Horror's Hand before the Boogey Man
+        does.</image:caption
+      >
+      <image:title>Billy & Mandy's Big Boogey Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336226-Blind Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336226-Blind Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ySVxUy02s40KeTlRC19aFn5e1g9.jpg</image:loc
+      >
+      <image:caption
+        >​Greece. A seaside resort struck by a heavy heat wave. Water is scarce
+        and violence is ready to explode. Ashraf, a solitary immigrant, is
+        looking after a villa while its owners are away. On a dusty road crushed
+        by the sun, he is stopped by a police officer for an identity
+        check...</image:caption
+      >
+      <image:title>Blind Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

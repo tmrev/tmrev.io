@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/542443-Bikini Ramen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/542443-Bikini Ramen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m4hUQGiuSaGqgq9GhXkeqhofJc4.jpg</image:loc
+      >
+      <image:caption
+        >In 20 XX years, Japan was wrapped in fireworks of ramen... People were
+        suppressed by the ramen fear politics by a group called "tiger's hole".
+        When everyone gave up on the future, there was a woman who turned away
+        from God and opened her own destiny! Behold! Now Pandora 's box called
+        Donburi will be held!</image:caption
+      >
+      <image:title>Bikini Ramen</image:title>
+    </image:image>
+  </url>
+</urlset>

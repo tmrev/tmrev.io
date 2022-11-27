@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/131420-Another Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/131420-Another Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9dOyABMxPHwQA3yyfXtWyDLWG7p.jpg</image:loc
+      >
+      <image:caption
+        >Psychological drama about a young, inexperienced film reviewer who
+        falls for the charms of a well-established female colleague. A
+        challenging look at the essence of film critique as well as an erotic
+        encounter between two unequals.</image:caption
+      >
+      <image:title>Another Man</image:title>
+    </image:image>
+  </url>
+</urlset>

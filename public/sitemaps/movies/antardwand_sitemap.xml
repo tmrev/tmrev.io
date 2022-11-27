@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97603-Antardwand</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97603-Antardwand</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u7m82cDewk15T7WQRV3M5OS301z.jpg</image:loc
+      >
+      <image:caption
+        >A young man is kidnapped by a local strongman with the intention of
+        forcing him to marry his daughter to secure a family
+        alliance.</image:caption
+      >
+      <image:title>Antardwand</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291004-Art House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291004-Art House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A communal house left in trust many years ago to provide art students
+        support in the way of free housing, ART HOUSE has accumulated its share
+        of legends, lore, art, art junk and a reputation for hard partying. When
+        a university dean and an influential descendant of the original
+        benefactor decide to turn the place into housing for varsity golf, the
+        residents only chance of blocking the move is to prove their value and
+        vitality as an artistic community. The burden is on art student Nora Ohr
+        (Greta Gerwig), who is energetic, compassionate, but by no means
+        perfect. Can the residents of ART HOUSE get their act together and make
+        a name for themselves as artists before they're kicked
+        out?</image:caption
+      >
+      <image:title>Art House</image:title>
+    </image:image>
+  </url>
+</urlset>

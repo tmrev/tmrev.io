@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67280-Billy Wilder Speaks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67280-Billy Wilder Speaks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1r3Jy944M2qbGnNQDk4DM7pC0Nf.jpg</image:loc
+      >
+      <image:caption
+        >In 1988, German filmmaker Volker Schlöndorff sat down with legendary
+        director Billy Wilder (1906-2002) at his office in Beverly Hills,
+        California, and turned on his camera for a series of filmed interviews.
+        (A recut of the 1992 TV miniseries Billy, How Did You Do
+        It?)</image:caption
+      >
+      <image:title>Billy Wilder Speaks</image:title>
+    </image:image>
+  </url>
+</urlset>

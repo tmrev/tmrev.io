@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/871689-Belyaev</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/871689-Belyaev</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Once there were seven of them. They were engaged in science and did not
+        assume that their secret experiment to create a person close to the
+        ideal would be successful. They thought that no one would ever find out.
+        But years passed, and it turned out that someone else was privy to their
+        secret. They began to die. One by one. One after the other. Scary and
+        inevitable…</image:caption
+      >
+      <image:title>Belyaev</image:title>
+    </image:image>
+  </url>
+</urlset>

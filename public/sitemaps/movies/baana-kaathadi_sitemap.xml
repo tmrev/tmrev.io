@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55795-Baana Kaathadi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55795-Baana Kaathadi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7sRAChIvlYvXFn53vVIKutqN68N.jpg</image:loc
+      >
+      <image:caption
+        >Ramesh spends his time flying kites and playing games along with his
+        friends on the streets. However, his life takes a turn for the better
+        when he accidentally meets an aspiring designer, Priya.</image:caption
+      >
+      <image:title>Baana Kaathadi</image:title>
+    </image:image>
+  </url>
+</urlset>

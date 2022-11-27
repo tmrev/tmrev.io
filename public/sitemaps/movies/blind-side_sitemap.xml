@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80790-Blind Side</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80790-Blind Side</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8glP96gX4lYst2TnlRGfZlxxCRs.jpg</image:loc
+      >
+      <image:caption
+        >A young playboy beds his sexy officemate, only to discover she has an
+        equally delectable younger sister. The catch: little sis just recently
+        lost her sight (and her boyfriend) in a car crash. The upside: she walks
+        around in the nude thinking she's all alone in the house with big
+        sis</image:caption
+      >
+      <image:title>Blind Side</image:title>
+    </image:image>
+  </url>
+</urlset>

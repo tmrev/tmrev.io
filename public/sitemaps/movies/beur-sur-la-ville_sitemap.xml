@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77460-Beur sur la ville</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77460-Beur sur la ville</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gM9yof03x3ZRdv0Gu0pXbnMtPl9.jpg</image:loc
+      >
+      <image:caption
+        >25-year-old Khalid Belkacem has failed at everything: college
+        education, summer camp instructor's permit, driver's license, and even
+        his BCG. He never expected to become the first "positive discrimination"
+        member of the police force. But as his mother says: "That's France for
+        you! A country where everyone has a chance."</image:caption
+      >
+      <image:title>Beur sur la ville</image:title>
+    </image:image>
+  </url>
+</urlset>

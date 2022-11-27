@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/495673-Belleville Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/495673-Belleville Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6lY1GnJcZeZq3PXsoEwrF3izufJ.jpg</image:loc
+      >
+      <image:caption
+        >When a childhood friend from Miami gets killed after he comes to warn
+        of encroaching drug gangs, Baaba moves to Miami and teams up with a
+        local officer to bring down the criminals.</image:caption
+      >
+      <image:title>Belleville Cop</image:title>
+    </image:image>
+  </url>
+</urlset>

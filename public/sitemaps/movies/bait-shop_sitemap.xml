@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15866-Bait Shop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15866-Bait Shop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1Uovh2tnr5FmZnjcKzP9xniv3cM.jpg</image:loc
+      >
+      <image:caption
+        >Its Barbershop for Rednecks. Bill is a bait shop owner who has to make
+        a balloon payment of $15,000 or else the bank will close his shop.
+        Unable to make the payment from the proceeds of the shop, Bill must
+        compete in the annual Bass Tournament, which he pathetically loses every
+        year, to win the money.</image:caption
+      >
+      <image:title>Bait Shop</image:title>
+    </image:image>
+  </url>
+</urlset>

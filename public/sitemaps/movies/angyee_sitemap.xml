@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/424456-Ang-Yee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/424456-Ang-Yee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2FscEqkIIJMfOEvLAMiTnuSQ0cp.jpg</image:loc
+      >
+      <image:caption
+        >Set in Bangkok's Chinatown in the 1940's this film is about two secret
+        society's that hate each other. Ang Yee is a senior member of one of
+        them. He is also a trained martial arts expert and in a show at a
+        Chinese temple during a festival, real swords are used between both
+        gangs shocking the audience that runs away as fast as they
+        can.</image:caption
+      >
+      <image:title>Ang-Yee</image:title>
+    </image:image>
+  </url>
+</urlset>

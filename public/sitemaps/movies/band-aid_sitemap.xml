@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/426230-Band Aid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/426230-Band Aid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hDYKhDkmvvPnYESr1yNG3K5oMZT.jpg</image:loc
+      >
+      <image:caption
+        >A couple who can't stop fighting embark on a last-ditch effort to save
+        their marriage: turning their fights into songs and starting a
+        band.</image:caption
+      >
+      <image:title>Band Aid</image:title>
+    </image:image>
+  </url>
+</urlset>

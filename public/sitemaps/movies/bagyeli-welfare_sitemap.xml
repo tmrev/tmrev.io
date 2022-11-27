@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1012051-Bagyeli Welfare</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1012051-Bagyeli Welfare</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mTfR2UKxCxsuTlIIkMUjRI0bC2b.jpg</image:loc
+      >
+      <image:caption
+        >This film is about the ways how Bagyeli (“Pygmies” group in Cameroon)
+        manage to get healthy when they are sick. The movie shows also the
+        relationship Bagyeli people have with the forest in order to survive.
+        From it they get food, medicine, income, but they face many challenges
+        within the new environment.</image:caption
+      >
+      <image:title>Bagyeli Welfare</image:title>
+    </image:image>
+  </url>
+</urlset>

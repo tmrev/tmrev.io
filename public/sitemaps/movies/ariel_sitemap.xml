@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510415-Ariel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510415-Ariel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y8rBO4DopDcBVUCFzJelHy8XPsc.jpg</image:loc
+      >
+      <image:caption
+        >A girl is born with wings. When Filip and Anna first realize that their
+        newborn daughter is not like other children, they react in wildly
+        opposing manners. Anna considers it a miracle, while Filip sees it as a
+        stigma. In order to survive as an adult, are we required to sever our
+        connection to the magical?</image:caption
+      >
+      <image:title>Ariel</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409521-Bongu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409521-Bongu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fsE2Is7XVItvKVLOFDyuRnBzrDG.jpg</image:loc
+      >
+      <image:caption
+        >Three hi-tech burglars, who lose their jobs because of a business
+        tycoon, set out to take revenge against him.</image:caption
+      >
+      <image:title>Bongu</image:title>
+    </image:image>
+  </url>
+</urlset>

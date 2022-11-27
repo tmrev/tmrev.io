@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/892433-Angèle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/892433-Angèle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b9ldOOvwImdHfsDqZ4sIwRqcK2n.jpg</image:loc
+      >
+      <image:caption
+        >Belgian pop star Angèle reflects on her life and hopes as she finds
+        balance amid the tears, joys and loneliness of fame. Told through her
+        own words.</image:caption
+      >
+      <image:title>Angèle</image:title>
+    </image:image>
+  </url>
+</urlset>

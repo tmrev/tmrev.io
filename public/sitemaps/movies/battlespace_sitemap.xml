@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34782-Battlespace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34782-Battlespace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1H86htnbhBGwDsw2RsWMd6nxpIz.jpg</image:loc
+      >
+      <image:caption
+        >A futuristic sci-fi adventure begins after the destruction of their
+        Universe. With a militaristic race of modified humans in hot pursuit
+        Colonel Mara Shryyke finds herself stranded on an inhospitable planet
+        and discovers a weapon of mass destruction set to destroy her home
+        planet in less then 42 hours!</image:caption
+      >
+      <image:title>Battlespace</image:title>
+    </image:image>
+  </url>
+</urlset>

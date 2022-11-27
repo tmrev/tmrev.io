@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/86483-Big Bad Mama II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/86483-Big Bad Mama II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tT7fuK5NqrskPUfqWXQykaAYVp.jpg</image:loc
+      >
+      <image:caption
+        >It's 1934, and the evil local land baron forecloses on Angie's place,
+        and she and her two daughters must leave and continue their life of
+        crime. A reporter witnesses their heist of a bank, and helps them become
+        folk legends by writing a story about them. After a time the evil land
+        baron wants to run for governor, and Angie and her daughters kidnap his
+        son and turn him into a gangster in order to discredit his father and
+        his run for governor.</image:caption
+      >
+      <image:title>Big Bad Mama II</image:title>
+    </image:image>
+  </url>
+</urlset>

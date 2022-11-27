@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/250929-Blessed Stranger: After Flight 111</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/250929-Blessed Stranger: After Flight 111</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bgv2S0Tjp0AbKUW6PWE2pRfjZ7Q.jpg</image:loc
+      >
+      <image:caption
+        >A sensitive and realistic portrayal of the families' grief after the
+        devastating crash of Swissair flight 111, in which all 229 passengers
+        and crew were killed. A woman whose daughter was among the victims meets
+        a fisherman in Nova Scotia who took part in the recovery
+        mission.</image:caption
+      >
+      <image:title>Blessed Stranger: After Flight 111</image:title>
+    </image:image>
+  </url>
+</urlset>

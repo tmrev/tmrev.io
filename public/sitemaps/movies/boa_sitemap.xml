@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172037-Boa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172037-Boa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rczaA4thzQXjEAxJMRdDaaR50n6.jpg</image:loc
+      >
+      <image:caption
+        >A group of teenagers journeys to a remote forest in search of a friend
+        who's been reported as lost after his trip to the forest. While
+        searching, they are caught in a brutal wind storm which blows their
+        vessel into the middle of the forest. The teenagers are forced to seek
+        shelter in a dark cave where, unbeknownst to them, an unusual creature
+        is silently resting.</image:caption
+      >
+      <image:title>Boa</image:title>
+    </image:image>
+  </url>
+</urlset>

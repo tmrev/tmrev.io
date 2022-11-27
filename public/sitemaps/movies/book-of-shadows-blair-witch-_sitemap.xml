@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11531-Book of Shadows: Blair Witch 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11531-Book of Shadows: Blair Witch 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l1jF93S9FYbzp3Byh5VUA1KApSJ.jpg</image:loc
+      >
+      <image:caption
+        >Young adults become fascinated by the events of the three missing
+        filmmakers in Maryland, so they decide to go into the same woods and
+        find out what really happened.</image:caption
+      >
+      <image:title>Book of Shadows: Blair Witch 2</image:title>
+    </image:image>
+  </url>
+</urlset>

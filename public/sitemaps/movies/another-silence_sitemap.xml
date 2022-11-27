@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/93195-Another Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/93195-Another Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fvNTerBmd6S4OjikQejuu0dqe3d.jpg</image:loc
+      >
+      <image:caption
+        >Marie is a Toronto police officer. One evening, her husband Joshua and
+        their son Nicky are brutally murdered in their car. Marie quickly links
+        Pablo Molina, an Argentinian drug trafficker who she'd arrested a few
+        months earlier, with the crime. In despair, Marie heads to Argentina on
+        the tracks of the killer. A journey of revenge and a journey to come to
+        terms with her loss.</image:caption
+      >
+      <image:title>Another Silence</image:title>
+    </image:image>
+  </url>
+</urlset>

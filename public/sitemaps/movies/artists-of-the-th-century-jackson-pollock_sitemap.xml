@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/947022-Artists of the 20th Century: Jackson
+      Pollock</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/947022-Artists of the 20th Century: Jackson
+      Pollock</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Born in Wyoming in 1912, Jackson Pollock became one of the most
+        notorious artists that America ever produced. He developed a technique
+        in which he would fix his canvas to the floor, drip and splash paint
+        onto it, then use a variety of objects to manipulate the paint. With
+        these innovative paintings, he became the front-runner of the Abstract
+        Expressionist movement.</image:caption
+      >
+      <image:title>Artists of the 20th Century: Jackson Pollock</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/711987-Batailles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/711987-Batailles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m3zTKWHjFCFl4EVPaXsGb6ZMW1t.jpg</image:loc
+      >
+      <image:caption
+        >"Resumption of a play created in 1983. Two shipwrecked people on a
+        makeshift raft in the middle of a social conflict, a mountaineering
+        fight on Mount Paterhorn, improbable friction between two men and a
+        woman in the Yvelines ... The places, the situations change, but each
+        time there is a confrontation. The question is not so much who will win,
+        but to take pleasure in the arguments provided by the opponents.
+        Cunning, bad faith, all blows are allowed in what is primarily a fight
+        of words. "</image:caption
+      >
+      <image:title>Batailles</image:title>
+    </image:image>
+  </url>
+</urlset>

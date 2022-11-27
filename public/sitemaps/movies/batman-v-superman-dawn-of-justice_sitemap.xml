@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209112-Batman v Superman: Dawn of Justice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209112-Batman v Superman: Dawn of Justice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg</image:loc
+      >
+      <image:caption
+        >Fearing the actions of a god-like Super Hero left unchecked, Gotham
+        City’s own formidable, forceful vigilante takes on Metropolis’s most
+        revered, modern-day savior, while the world wrestles with what sort of
+        hero it really needs. And with Batman and Superman at war with one
+        another, a new threat quickly arises, putting mankind in greater danger
+        than it’s ever known before.</image:caption
+      >
+      <image:title>Batman v Superman: Dawn of Justice</image:title>
+    </image:image>
+  </url>
+</urlset>

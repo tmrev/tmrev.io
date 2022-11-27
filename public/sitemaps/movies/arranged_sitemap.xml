@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18290-Arranged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18290-Arranged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yzgj2voZLFoeZOv3eCowTgbluu7.jpg</image:loc
+      >
+      <image:caption
+        >ARRANGED centers on the friendship between an Orthodox Jewish woman and
+        a Muslim woman who meet as first-year teachers at a public school in
+        Brooklyn. Over the course of the year they learn they share much in
+        common - not least of which is that they are both going through the
+        process of arranged marriages.</image:caption
+      >
+      <image:title>Arranged</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560283-Blood Bags</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560283-Blood Bags</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vehBoVcpvtycr16kye0uNgMFoYB.jpg</image:loc
+      >
+      <image:caption
+        >A monster stalks the corridors of an abandoned mansion, targeting those
+        curious enough to find themselves inside. Two friends break in and
+        discover that all exits have been sealed off. The creature that hunts
+        them is growing hungry for their blood and there is no
+        escape…</image:caption
+      >
+      <image:title>Blood Bags</image:title>
+    </image:image>
+  </url>
+</urlset>

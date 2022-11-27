@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280459-Bad Behavior</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280459-Bad Behavior</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9vaoZWCs5XehX8Lxc0MR71pXAVG.jpg</image:loc
+      >
+      <image:caption
+        >Trapped overnight by an unknown assailant, a babysitter struggles to
+        stay safe. As the hours tick by, she realizes that the greatest threat
+        might be from the very children she's trying to protect.</image:caption
+      >
+      <image:title>Bad Behavior</image:title>
+    </image:image>
+  </url>
+</urlset>

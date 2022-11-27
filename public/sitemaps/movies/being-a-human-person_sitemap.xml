@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/682436-Being a Human Person</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/682436-Being a Human Person</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s3APcb6W1pxxElfdy0jJXiYph7Y.jpg</image:loc
+      >
+      <image:caption
+        >At 76, Swedish auteur Roy Andersson is about to complete his last film.
+        With the end of his career in sight, the central thematic concerns of
+        Roy's work - vulnerability, insecurity and mortality - spill over into
+        his creative process.</image:caption
+      >
+      <image:title>Being a Human Person</image:title>
+    </image:image>
+  </url>
+</urlset>

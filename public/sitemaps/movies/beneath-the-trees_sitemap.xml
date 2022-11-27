@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/653793-Beneath the Trees</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/653793-Beneath the Trees</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gWxCtCmNT7nkZtBETWJyNfgEWR.jpg</image:loc
+      >
+      <image:caption
+        >Against her better judgment, young American student, Emily, agrees to a
+        weekend camping in the English countryside with her new boyfriend, Jay
+        and his strange cousin, Julia. A simple walk in the woods becomes a
+        lethal brush with nature when Emily discovers that her new friends
+        aren't who they seem - and her life is in danger - Beneath the
+        Trees.</image:caption
+      >
+      <image:title>Beneath the Trees</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/91911-Behind the Burly Q</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/91911-Behind the Burly Q</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cxXXSclIG5bmkzFKuhbnY1Xfehf.jpg</image:loc
+      >
+      <image:caption
+        >Dive into more than a century of decadence with this tantalizing look
+        at the evolution of burlesque. Cabaret star Leslie Zemeckis traces the
+        art form from vaudeville-style variety show through its extinction and
+        contemporary rebirth. Vintage photos, film clips and ads illustrate
+        burlesque's resilient history and how the public's sexual appetite kept
+        it alive amid moral and legal ado.</image:caption
+      >
+      <image:title>Behind the Burly Q</image:title>
+    </image:image>
+  </url>
+</urlset>

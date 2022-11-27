@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793506-Bastille ReOrchestrated</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793506-Bastille ReOrchestrated</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gGnkhsqrFO83tbBPG9Wq9NkF49R.jpg</image:loc
+      >
+      <image:caption
+        >A bracingly honest new documentary sourced from hundreds of hours of
+        unseen archive and all-new conversations captured during the pandemic,
+        the film features open and frank insights from each band member plus
+        collaborators inextricably linked to the group’s orchestral adventures.
+        Alongside dramatic re-interpretations of their hit songs, ReOrchestrated
+        charts the very beginning of the band’s foundations all the way through
+        the highs and lows of their three albums to date, via landmark, full
+        orchestra appearances at Royal Albert Hall, Elbphilharmonie in Hamburg
+        and The London Palladium, not to mention the inevitable tensions
+        encountered en route.</image:caption
+      >
+      <image:title>Bastille ReOrchestrated</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/366978-Arthur's Perfect Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/366978-Arthur's Perfect Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lk2SDlixFUpiCtiKxSlHU4HrNmC.jpg</image:loc
+      >
+      <image:caption
+        >Arthur, D.W., and their family and friends prepare to make the best
+        Christmas ever in Elwood City - but obstacles get in their
+        way.</image:caption
+      >
+      <image:title>Arthur's Perfect Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

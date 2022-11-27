@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199807-Bangaram</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199807-Bangaram</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xWwRDvXAR6IexFhiA277RdfwFYh.jpg</image:loc
+      >
+      <image:caption
+        >Bangaram is a local reporter who dreams of getting into an
+        international news channel. To fulfill his own dream he meets Peddi
+        Reddy, a factionist.</image:caption
+      >
+      <image:title>Bangaram</image:title>
+    </image:image>
+  </url>
+</urlset>

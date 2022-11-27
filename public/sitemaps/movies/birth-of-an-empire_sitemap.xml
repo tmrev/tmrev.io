@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/999592-Birth Of An Empire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/999592-Birth Of An Empire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >1698-1709 - ten years from the life of Peter the Great, during which he
+        laid the foundations of the future Russian Empire. From the return of
+        the Great Embassy from Europe to the Battle of Poltava. After the
+        signing of a peace treaty with Sweden in 1721, Russia officially became
+        an empire, and Peter became the first Russian emperor.</image:caption
+      >
+      <image:title>Birth Of An Empire</image:title>
+    </image:image>
+  </url>
+</urlset>

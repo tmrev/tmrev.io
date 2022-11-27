@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/377206-Army Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/377206-Army Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mKA7yMcP9bQXxH3zWzR8wU8TOcz.jpg</image:loc
+      >
+      <image:caption
+        >A brave Army dog returns to the U.S., where he helps his heroic handler
+        bond with his resentful daughter on a camping trip despite danger
+        lurking around every corner.</image:caption
+      >
+      <image:title>Army Dog</image:title>
+    </image:image>
+  </url>
+</urlset>

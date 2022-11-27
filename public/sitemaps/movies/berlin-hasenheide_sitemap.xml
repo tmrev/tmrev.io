@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/839744-Berlin: Hasenheide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/839744-Berlin: Hasenheide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zbpQ28jcPpwGQHWCWg4YTqjk4oK.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about the social microcosm of Hasenheide, a 50 hectar green
+        area in Berlin, located between Kreuzberg and Neukölln. In this park,
+        you'll find old women with their dogs, young football players, Turks at
+        the barbecue, as well as nudists. For the residents, Hasenheide is
+        sports area, living room, pub and runway all at once. A refutation of
+        the media panic surrounding the park as a place of drug dealing and
+        violence.</image:caption
+      >
+      <image:title>Berlin: Hasenheide</image:title>
+    </image:image>
+  </url>
+</urlset>

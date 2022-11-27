@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430421-Apple of My Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430421-Apple of My Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uE1D5fBFQhlfTrIZrtFuNaL93Bj.jpg</image:loc
+      >
+      <image:caption
+        >A young girl struggles after a traumatic horse riding accident causes
+        her to lose her eyesight. CHARLES, the head trainer of Southeastern
+        Guide Dogs, trains Apple, a miniature horse, to be her companion and
+        surrogate eyes.</image:caption
+      >
+      <image:title>Apple of My Eye</image:title>
+    </image:image>
+  </url>
+</urlset>

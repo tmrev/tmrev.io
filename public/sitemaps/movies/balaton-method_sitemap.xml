@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334053-Balaton Method</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334053-Balaton Method</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/guttqpm0bn8FIGW6O9XFUAomKOH.jpg</image:loc
+      >
+      <image:caption
+        >A music documentary about Hungarian musicians creating music around
+        lake Balaton. The feature film continuation of the acclaimed Kodály
+        Method (2011) videos.</image:caption
+      >
+      <image:title>Balaton Method</image:title>
+    </image:image>
+  </url>
+</urlset>

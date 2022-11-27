@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/869624-Bitterbrush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/869624-Bitterbrush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uRsnNHI1sh0CaWLQvEinMcJ1ET7.jpg</image:loc
+      >
+      <image:caption
+        >In remote Idaho, Colie and Hollyn embark on a long summer season
+        working as range riders herding cattle. We follow them closely through
+        the immensity of the landscapes and intimate moments of friendship.
+        Emelie Mahdavian masterfully revisits the genre of the western and
+        invites us to rethink the challenge of nomadism from the perspective of
+        two young women.</image:caption
+      >
+      <image:title>Bitterbrush</image:title>
+    </image:image>
+  </url>
+</urlset>

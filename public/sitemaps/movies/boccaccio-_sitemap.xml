@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45267-Boccaccio '70</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45267-Boccaccio '70</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1NhDPhXUD6hTj9IP5emkBVZp7Ic.jpg</image:loc
+      >
+      <image:caption
+        >An anthology of four adult tales: a young couple tries to hide their
+        marriage and the wife’s supposed pregnancy from their place of
+        employment; a billboard photo of a scantily clad woman comes to life to
+        torment the local censor; an aristocratic couple comes to terms with
+        life and marriage after the domineering husband is caught visiting sex
+        workers by the press; a lottery is held in which the prize is to spend
+        the night with a beautiful woman. Inspired by Giovanni Boccaccio's
+        novellas.</image:caption
+      >
+      <image:title>Boccaccio '70</image:title>
+    </image:image>
+  </url>
+</urlset>

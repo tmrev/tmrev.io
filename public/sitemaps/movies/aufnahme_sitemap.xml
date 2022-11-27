@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/477915-Aufnahme</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/477915-Aufnahme</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Stefan Landorf's debut shows everyday life in a Berlin hospital – the
+        rounds, the diagnoses, the anamnesis – and applies these terms to
+        describe hospital as an organism. The film, apart from dealing with the
+        hospital inmates and staff, also reflects the act of filming. The
+        director never films his patients in long shots but frames parts of
+        their bodies, so that the patients can remain anonymous.</image:caption
+      >
+      <image:title>Aufnahme</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/703093-Beauty & the Beast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/703093-Beauty & the Beast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Presented by the Atlanta Ballet in 2018. Long ago, a handsome young
+        Prince lived in a magnificent castle. Though he enjoyed a life of
+        riches, he was rude and unkind to his subjects. One fateful day, an old
+        beggar woman approached him. Because his heart was cold, the selfish
+        Prince turned the poor woman away. To the Prince’s surprise, the woman
+        then transformed into a beautiful enchantress. She put a curse on the
+        Prince for his ugly behavior, turning him into an equally ugly beast.
+        The Enchantress’ curse could only be broken by one thing – a true love’s
+        kiss.</image:caption
+      >
+      <image:title>Beauty & the Beast</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/401253-Back Again</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/401253-Back Again</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b73kj5ZXyTHkggHk9S6Ysl04boh.jpg</image:loc
+      >
+      <image:caption
+        >Alex returns to his village with Jordi, after a while, in order to
+        celebrate San Juan night. However, due to a summer storm, they have to
+        shelter in an old abandoned house where both played when they were
+        children. In there, some conflicts of the past will turn
+        up.</image:caption
+      >
+      <image:title>Back Again</image:title>
+    </image:image>
+  </url>
+</urlset>

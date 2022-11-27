@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/293472-Bittersweet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/293472-Bittersweet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ypHX3nyDomOfVWvCLx0u5gg8gGq.jpg</image:loc
+      >
+      <image:caption
+        >Female boxer Diana Prazak always want to fight the best in her league,
+        therefore she accepts the invitation by the number one in the world
+        Frida Wallberg to fight her for the WBC world title in Stockholm. Lucia
+        Rijker, former 6x world champion, coaches Diana to prepare her
+        physically and mentally for the toughest fight of her life and her
+        biggest and most paralyzing fear: losing. In Stockholm they are
+        confronted with the picture-perfect Frida and her glamorous and extended
+        entourage. The brutal fight however, takes a dramatic turn. Diana is
+        left to consider if she truly got what she wished for.</image:caption
+      >
+      <image:title>Bittersweet</image:title>
+    </image:image>
+  </url>
+</urlset>

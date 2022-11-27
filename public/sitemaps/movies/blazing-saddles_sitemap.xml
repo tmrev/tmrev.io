@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11072-Blazing Saddles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11072-Blazing Saddles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg</image:loc
+      >
+      <image:caption
+        >A town—where everyone seems to be named Johnson—stands in the way of
+        the railroad. In order to grab their land, robber baron Hedley Lemar
+        sends his henchmen to make life in the town unbearable. After the
+        sheriff is killed, the town demands a new sheriff from the Governor, so
+        Hedley convinces him to send the town the first black sheriff in the
+        west.</image:caption
+      >
+      <image:title>Blazing Saddles</image:title>
+    </image:image>
+  </url>
+</urlset>

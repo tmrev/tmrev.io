@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/898-Birdman of Alcatraz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/898-Birdman of Alcatraz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1Gd4ABvQdHbC1xWavR2U5YotjRV.jpg</image:loc
+      >
+      <image:caption
+        >After killing a prison guard, convict Robert Stroud faces life
+        imprisonment in solitary confinement. Driven nearly mad by loneliness
+        and despair, Stroud's life gains new meaning when he happens upon a
+        helpless baby sparrow in the exercise yard and nurses it back to health.
+        Despite having only a third grade education, Stroud goes on to become a
+        renowned ornithologist and achieves a greater sense of freedom and
+        purpose behind bars than most people find in the outside
+        world.</image:caption
+      >
+      <image:title>Birdman of Alcatraz</image:title>
+    </image:image>
+  </url>
+</urlset>

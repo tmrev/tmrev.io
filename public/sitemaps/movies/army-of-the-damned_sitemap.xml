@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207271-Army of the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207271-Army of the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ij0nud1z26pBUkd9BDAltCH21L3.jpg</image:loc
+      >
+      <image:caption
+        >The filming of a hit reality TV show goes horribly wrong when a group
+        of small town cops respond to a call that brings a whole new meaning to
+        the phrase, domestic disturbance.</image:caption
+      >
+      <image:title>Army of the Damned</image:title>
+    </image:image>
+  </url>
+</urlset>

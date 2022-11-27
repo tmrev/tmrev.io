@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/595379-Blood Spook</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/595379-Blood Spook</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jsw4eelses9bvjVWT0H1PP0lwn7.jpg</image:loc
+      >
+      <image:caption
+        >A diabetic trucker travels the highways of the South seeking
+        forgiveness and the true cause of his disease as truck stop prostitutes
+        are found murdered along his route.</image:caption
+      >
+      <image:title>Blood Spook</image:title>
+    </image:image>
+  </url>
+</urlset>

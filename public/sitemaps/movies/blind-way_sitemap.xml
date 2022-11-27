@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510632-Blind Way</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510632-Blind Way</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ko4cIZhBGcbfVK3SrPSBp1DybXI.jpg</image:loc
+      >
+      <image:caption
+        >Sorehead singer Zhao Liang drifts around all day long. One day he
+        encounters a blind girl Jing Jing who is under control by a criminal
+        scrounger gang.</image:caption
+      >
+      <image:title>Blind Way</image:title>
+    </image:image>
+  </url>
+</urlset>

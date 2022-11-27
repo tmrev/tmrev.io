@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/495752-Azure Striker Gunvolt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/495752-Azure Striker Gunvolt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aapq3Kf72Y4hXSm3gHRfSWu4Mcq.jpg</image:loc
+      >
+      <image:caption
+        >In the near future, the existence of "Adepts," people who possess
+        extraordinary abilities known as "Septimal Powers," has caused
+        widespread chaos around the world. In the nation of Japan, order and
+        peace is maintained by a large conglomerate known as the Sumeragi Group.
+        One group known as QUILL (Quorum for Unrestricted Information, Law, and
+        Liberty) pledged to revolt against the Sumeragi Group.</image:caption
+      >
+      <image:title>Azure Striker Gunvolt</image:title>
+    </image:image>
+  </url>
+</urlset>

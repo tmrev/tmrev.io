@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121828-Beyond Outrage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121828-Beyond Outrage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z9nPRD7PIx7dE5BqbYZKVlQawHs.jpg</image:loc
+      >
+      <image:caption
+        >As the police launch a full-scale crackdown on organized crime, it
+        ignites a national yakuza struggle between the Sanno of the East and
+        Hanabishi of the West. What started as an internal strife in Outrage has
+        now become a nationwide war in Outrage Beyond.</image:caption
+      >
+      <image:title>Beyond Outrage</image:title>
+    </image:image>
+  </url>
+</urlset>

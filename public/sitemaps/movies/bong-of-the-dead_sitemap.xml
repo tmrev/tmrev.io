@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76164-Bong of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76164-Bong of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iEakqPxI5pvRoMC4bLN7p6pCf1V.jpg</image:loc
+      >
+      <image:caption
+        >When the world is taken over by flesh eating zombies, best friends
+        Tommy and Edwin figure out a way to benefit from it by turning zombies
+        into fertilizer for growing potent weed! There will be
+        bud.</image:caption
+      >
+      <image:title>Bong of the Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

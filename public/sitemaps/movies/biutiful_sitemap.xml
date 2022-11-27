@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45958-Biutiful</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45958-Biutiful</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8cj0Q2uFfpTkCw4gMqqcTBpdoqF.jpg</image:loc
+      >
+      <image:caption
+        >This is a story of a man in free fall. On the road to redemption,
+        darkness lights his way. Connected with the afterlife, Uxbal is a tragic
+        hero and father of two who's sensing the danger of death. He struggles
+        with a tainted reality and a fate that works against him in order to
+        forgive, for love, and forever.</image:caption
+      >
+      <image:title>Biutiful</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61652-BachelorMan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61652-BachelorMan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eHEvE6fUhzXxYr8jcF896R9nfKk.jpg</image:loc
+      >
+      <image:caption
+        >In these times of enlightened sexual politics, Ted Davis is a scoring
+        machine. He's got the rap, the charm and his little black book weighs
+        several pounds. Ted has become a guru to his buddies who can only aspire
+        in awe to his greatness. This is a man's man, a ladies man, a
+        super-hero: He's Ted Davis: "BachelorMan"...</image:caption
+      >
+      <image:title>BachelorMan</image:title>
+    </image:image>
+  </url>
+</urlset>

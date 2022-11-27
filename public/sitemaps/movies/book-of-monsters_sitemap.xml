@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/532649-Book of Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/532649-Book of Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2yTwzpgMFteCVpNqFbNyDQyyLjv.jpg</image:loc
+      >
+      <image:caption
+        >Sophie's 18th birthday becomes a bloodbath when monsters descend upon
+        her house, devouring the guests and killing anyone who tries to leave.
+        To survive the night, Sophie must face her destiny: monsters are real
+        and she's the only one who can stop them.</image:caption
+      >
+      <image:title>Book of Monsters</image:title>
+    </image:image>
+  </url>
+</urlset>

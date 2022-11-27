@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/853354-Bob Ross: Happy Accidents, Betrayal &
+      Greed</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/853354-Bob Ross: Happy Accidents, Betrayal &
+      Greed</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jov3rCzNT8u5b7A56c0XKCkP5Dc.jpg</image:loc
+      >
+      <image:caption
+        >Bob Ross brought joy to millions as the world's most famous art
+        instructor. But a battle for his business empire cast a shadow over his
+        happy trees.</image:caption
+      >
+      <image:title>Bob Ross: Happy Accidents, Betrayal & Greed</image:title>
+    </image:image>
+  </url>
+</urlset>

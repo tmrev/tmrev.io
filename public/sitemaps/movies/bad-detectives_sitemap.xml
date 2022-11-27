@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/838718-Bad Detectives</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/838718-Bad Detectives</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n0mqTvS0ogodYSZUhwjLEgtFHtd.jpg</image:loc
+      >
+      <image:caption
+        >Called to mourn the passing of their beloved detective grandfathers,
+        Nic O’Connell and Ping Liu soon discover that their deaths were
+        calculated murders. Despite their mutual animosity, the granddaughters
+        enter an uneasy partnership to solve the case.</image:caption
+      >
+      <image:title>Bad Detectives</image:title>
+    </image:image>
+  </url>
+</urlset>

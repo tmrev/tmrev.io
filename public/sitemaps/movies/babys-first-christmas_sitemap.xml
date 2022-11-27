@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/150641-Baby's First Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/150641-Baby's First Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wSrXfoUi2YV2l2CxuyVdZgl9og.jpg</image:loc
+      >
+      <image:caption
+        >When a pair of feuding colleagues, Kyle and Jenna are thrown together
+        after their siblings, Jim and Trisha fall in love, they have to learn to
+        get along in time for their nephew's birth on Christmas. Realizing Jim
+        and Trisha have major money troubles, Kyle and Jenna band together to
+        help and end up on a snowy New York adventure that will prove miracles
+        really do happen at Christmas.</image:caption
+      >
+      <image:title>Baby's First Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

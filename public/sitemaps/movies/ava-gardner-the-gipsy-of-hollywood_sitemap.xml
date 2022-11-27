@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/513172-Ava Gardner, the Gipsy of Hollywood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/513172-Ava Gardner, the Gipsy of Hollywood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oeMG43XNGjjIQ8FDkvDvBTgq9LF.jpg</image:loc
+      >
+      <image:caption
+        >At the height of her fame in 1954, actress Ava Gardner transplanted
+        herself from Hollywood to the country of Spain. As she lovingly stated
+        in her autobiography, “I don’t know if it was the climate, the men, or
+        the music, but as soon as I set foot in Spain, I had a crush on this
+        country.” In this documentary by Sergio Mondelo, the filmmaker explores
+        the motivations behind this move and contrasts Gardner’s glitz and glam
+        lifestyle with the hardships faced by the Spainish people under Franco’s
+        rule.</image:caption
+      >
+      <image:title>Ava Gardner, the Gipsy of Hollywood</image:title>
+    </image:image>
+  </url>
+</urlset>

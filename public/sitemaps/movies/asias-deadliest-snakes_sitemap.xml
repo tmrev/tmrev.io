@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/966474-Asia's Deadliest Snakes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/966474-Asia's Deadliest Snakes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5t4xP0C1kpoVhR0hHj2pk8X5QK0.jpg</image:loc
+      >
+      <image:caption
+        >Asia is home to the world's most lethal serpents, but which of its
+        scores of slithering predators is the deadliest? Join venom expert Bryan
+        Fry on his cross-continental quest to find the perfect serpentine
+        killer.</image:caption
+      >
+      <image:title>Asia's Deadliest Snakes</image:title>
+    </image:image>
+  </url>
+</urlset>

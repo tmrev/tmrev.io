@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/397619-Attenborough's Life That Glows</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/397619-Attenborough's Life That Glows</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/YzYQCqb6DLDX6SV0q6YmLFxFnd.jpg</image:loc
+      >
+      <image:caption
+        >Luminous beings, creatures with their own internal light, enchant and
+        astonish us. Anyone who has seen a firefly or a glow-worm cannot help
+        but fall under their spell. The sea at night sparkles as millions of
+        luminous plankton reveal the shapes of dolphins in a truly magical light
+        show. Join Sir David Attenborough and a team of the world's leading
+        scientists and deep sea explorers on a quest to reveal the secrets of
+        living lights.</image:caption
+      >
+      <image:title>Attenborough's Life That Glows</image:title>
+    </image:image>
+  </url>
+</urlset>

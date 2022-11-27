@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/455070-Apollo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/455070-Apollo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kWF7BMSQn2oqe0WA0wRGIKVM2b3.jpg</image:loc
+      >
+      <image:caption
+        >The sound will be produced from the visual on the optical soundtrack –
+        for some parts, I used a 35mm still camera to expose the soundtrack
+        area, and I scratched off the film emulsion directly for other parts.
+        This is my senior thesis project at Binghamton University, and Julie
+        Murray was my advisor.</image:caption
+      >
+      <image:title>Apollo</image:title>
+    </image:image>
+  </url>
+</urlset>

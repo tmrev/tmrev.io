@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/512640-Behind Some Dark Cloud</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/512640-Behind Some Dark Cloud</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ywMkBx6bTnYemH89fJjkpmMqs6w.jpg</image:loc
+      >
+      <image:caption
+        >Jade, 20 years old, hangs with a vampy schadenfreude and is met with
+        startling intimacy and a tragic discovery in which she’ll have to do the
+        only thing she’s been afraid of: grow up.</image:caption
+      >
+      <image:title>Behind Some Dark Cloud</image:title>
+    </image:image>
+  </url>
+</urlset>

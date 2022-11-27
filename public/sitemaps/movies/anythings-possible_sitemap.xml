@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/787787-Anything's Possible</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/787787-Anything's Possible</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aLeswI1zxf2xN5iIdcJpqx9XEnX.jpg</image:loc
+      >
+      <image:caption
+        >Anything’s Possible is a delightfully modern Gen Z coming-of-age story
+        that follows Kelsa, a confident high school girl who is trans, as she
+        navigates through senior year. When her classmate Khal gets a crush on
+        her, he musters up the courage to ask her out, despite the drama he
+        knows it could cause. What transpires is a romance that showcases the
+        joy, tenderness, and pain of young love.</image:caption
+      >
+      <image:title>Anything's Possible</image:title>
+    </image:image>
+  </url>
+</urlset>

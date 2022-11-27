@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20235-Belle's Magical World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20235-Belle's Magical World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y0lmGSzSs8PlZoFasAa99PcdKLd.jpg</image:loc
+      >
+      <image:caption
+        >Belle, the Beast, Lumiere, Cogsworth and the rest of those zany castle
+        residents use their imaginations to embark on three magical, storybook
+        adventures. This direct-to-video anthology serves as a "sequel" to
+        Disney's animated hit film. In "The Perfect World," Belle and the Beast
+        learn about forgiveness. In "Fifi's Folly," Lumiere's girlfriend is
+        jealous of his bond with Belle. And in "Broken Wing," the Beast learns
+        to be kind to an injured bird.</image:caption
+      >
+      <image:title>Belle's Magical World</image:title>
+    </image:image>
+  </url>
+</urlset>

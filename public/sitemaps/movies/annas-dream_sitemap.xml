@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297782-Anna's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297782-Anna's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >After a gymnastics accident leaves her paraplegic, 18-year-old Anna
+        Morgan returns to high school. Because of time lost due to her injury
+        and rehab, she is repeating her junior year, with her sister Beth. The
+        film covers her adjustments to her new life, and her classmates'
+        problems in dealing with her wheelchair. In a series of small vignettes,
+        it also gives a picture of her family, good and bad, and her parents'
+        efforts to support their kids while dealing with their own
+        fears.</image:caption
+      >
+      <image:title>Anna's Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

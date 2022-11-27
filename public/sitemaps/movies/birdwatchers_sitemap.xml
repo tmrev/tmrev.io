@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12811-Birdwatchers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12811-Birdwatchers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f8xK91F9NxZeYBD9ffzAiV5ApvB.jpg</image:loc
+      >
+      <image:caption
+        >Mato Grosso do Sul, Brazil, the present. When a young Guarani-Kaiowá
+        woman commits suicide, Nádio leads his community to form a protest camp
+        on the borders of a local farm that sits on their ancestral burial
+        ground.</image:caption
+      >
+      <image:title>Birdwatchers</image:title>
+    </image:image>
+  </url>
+</urlset>

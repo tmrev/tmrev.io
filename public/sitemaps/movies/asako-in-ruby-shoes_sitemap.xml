@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40010-Asako in Ruby Shoes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40010-Asako in Ruby Shoes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wzDnhnbz3JswyKHV8l5jebF0ATA.jpg</image:loc
+      >
+      <image:caption
+        >Asako in Ruby Shoes succeeds in providing yet another challenge to
+        views of a homogeneous South Korea by presenting to us the Asian side of
+        modern globalization. The film jumps back and forth from Korea and
+        Japan, with each main character feeling out of place in their respective
+        homes.</image:caption
+      >
+      <image:title>Asako in Ruby Shoes</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/681429-Be Careful What You Wish For</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/681429-Be Careful What You Wish For</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg</image:loc
+      >
+      <image:caption
+        >Pamela is an eight-year-old girl who loves horror movies and fairy
+        tales. When his uncle gives her away a doll named "Hellequin" as a
+        birthday gift, a tale of betrayal begins to unfold before her
+        eyes.</image:caption
+      >
+      <image:title>Be Careful What You Wish For</image:title>
+    </image:image>
+  </url>
+</urlset>

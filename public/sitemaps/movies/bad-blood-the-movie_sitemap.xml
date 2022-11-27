@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/390326-Bad Blood: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/390326-Bad Blood: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dFHCiDEfApXG58Fd8X8lgMUQ0Cm.jpg</image:loc
+      >
+      <image:caption
+        >A classic werewolf flick with an amphibious twist; it's a race against
+        time to find the antidote when a girl is attacked and infected by an
+        amphibious monster.</image:caption
+      >
+      <image:title>Bad Blood: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

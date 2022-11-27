@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/776305-Belle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/776305-Belle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg</image:loc
+      >
+      <image:caption
+        >Suzu is a 17-year-old high-school student living in a rural town with
+        her father. Wounded by the loss of her mother at a young age, Suzu one
+        day discovers the massive online world "U" and dives into this alternate
+        reality as her avatar, Belle. Before long, all of U's eyes are fixed on
+        Belle, when, suddenly, a mysterious, dragon-like figure appears before
+        her.</image:caption
+      >
+      <image:title>Belle</image:title>
+    </image:image>
+  </url>
+</urlset>

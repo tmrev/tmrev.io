@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/695962-Bhool Bhulaiyaa 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/695962-Bhool Bhulaiyaa 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fw0oMHiMt9qOuKEJEmzFiCNAnXc.jpg</image:loc
+      >
+      <image:caption
+        >When strangers Reet and Ruhan cross paths, their journey leads to an
+        abandoned mansion and a dreaded spirit who has been trapped for 18
+        years.</image:caption
+      >
+      <image:title>Bhool Bhulaiyaa 2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25242-Blue's Big Musical Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25242-Blue's Big Musical Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jCA3KRKoBsCc92d1W1UiOxj4uVs.jpg</image:loc
+      >
+      <image:caption
+        >Get ready for lots of musical fun in this first full-length movie based
+        on the popular Nick Jr. TV series for preschoolers. Just as friendly
+        cartoon pup Blue and her friends are ready for their big backyard music
+        show, Tickety losers her voice... which means Blue needs a new singing
+        partner! Where will she find one? Sit in your thinking chair, play along
+        and see.</image:caption
+      >
+      <image:title>Blue's Big Musical Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

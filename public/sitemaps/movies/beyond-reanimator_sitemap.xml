@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11429-Beyond Re-Animator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11429-Beyond Re-Animator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6R5s28jsY5rdxiYApbMX2bh3VNL.jpg</image:loc
+      >
+      <image:caption
+        >Once again tampering with mother nature to disastrous results, Dr.
+        Herbert West continues his research while serving time in a maximum
+        security prison for his previous exploits. West's limited prison-cell
+        experiments are suddenly interrupted by the arrival of a new prison
+        doctor and the brother of the girl who suffered from West's experiments
+        13 years earlier.</image:caption
+      >
+      <image:title>Beyond Re-Animator</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716876-At Five on the Dot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716876-At Five on the Dot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/toGQglQnkLxvoS9ZalfntLpQgsP.jpg</image:loc
+      >
+      <image:caption
+        >The biggest peaceful demonstration of resistance to an authoritarian
+        regime in Latin America in the 1970s was the general strike whereby
+        Uruguayan workers and students rejected the military coup of 27 June
+        1973. In this documentary we follow what happened from two perspectives:
+        that of the people who took part in the mass mobilisation, and that of
+        those who captured those events in images.</image:caption
+      >
+      <image:title>At Five on the Dot</image:title>
+    </image:image>
+  </url>
+</urlset>

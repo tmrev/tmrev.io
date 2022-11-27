@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574073-Being Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574073-Being Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nGQbqCMb9PnxLQvlR0ORFE4b97R.jpg</image:loc
+      >
+      <image:caption
+        >A widowed ex-cop discovers that she may have a life threatening
+        illness, and decides to go on a solo road trip in a motorized wheelchair
+        to explore the beauty of the Southwest. On her journey, Rose discovers
+        more than just the simple beauty of New Mexico when she meets -- and
+        falls in love with -- Max, an old cowboy who comes to a crossroads of
+        his own. Sometimes love takes the backroads.</image:caption
+      >
+      <image:title>Being Rose</image:title>
+    </image:image>
+  </url>
+</urlset>

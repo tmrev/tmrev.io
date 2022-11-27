@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/386123-Bigfoot vs. Zombies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/386123-Bigfoot vs. Zombies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w6H12xmyOYrnRWuPwVrBInIQeoO.jpg</image:loc
+      >
+      <image:caption
+        >A scientist creates a toxic cocktail that is accidentally unleashed
+        into the local population and a nearby police "body farm" - creating a
+        small army of flesh-eating zombies - and only one creature of legend, a
+        killer in his own right, can stop the growing hordes of the undead and
+        save humanity.</image:caption
+      >
+      <image:title>Bigfoot vs. Zombies</image:title>
+    </image:image>
+  </url>
+</urlset>

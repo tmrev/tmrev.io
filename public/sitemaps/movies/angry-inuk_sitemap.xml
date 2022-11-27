@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396172-Angry Inuk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396172-Angry Inuk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uJBPEKGSAb8IsFyK5EZJKcXbCXJ.jpg</image:loc
+      >
+      <image:caption
+        >With "sealfies" and social media, a new tech-savvy generation of Inuit
+        is wading into the world of activism, using humour and reason to
+        confront aggressive animal rights vitriol and defend their traditional
+        hunting practices. Director Alethea Arnaquq-Baril joins her fellow Inuit
+        activists as they challenge outdated perceptions of Inuit and present
+        themselves to the world as a modern people in dire need of a sustainable
+        economy.</image:caption
+      >
+      <image:title>Angry Inuk</image:title>
+    </image:image>
+  </url>
+</urlset>

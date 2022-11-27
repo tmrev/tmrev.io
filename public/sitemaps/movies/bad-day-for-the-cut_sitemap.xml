@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430043-Bad Day for the Cut</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430043-Bad Day for the Cut</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/53Jh8cMCfDOI87XnPBCIiTCwN6U.jpg</image:loc
+      >
+      <image:caption
+        >A middle-aged Irish farmer, who still lives at home with his mother,
+        sets off on a mission of revenge when the old lady is
+        murdered.</image:caption
+      >
+      <image:title>Bad Day for the Cut</image:title>
+    </image:image>
+  </url>
+</urlset>

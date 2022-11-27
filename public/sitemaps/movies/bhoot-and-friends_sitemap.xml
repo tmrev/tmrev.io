@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396466-Bhoot and Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396466-Bhoot and Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h25U1FEcZ28F39ylMahSF99YPmv.jpg</image:loc
+      >
+      <image:caption
+        >Four holidaying children go missing, then encounter a ghost and
+        hoodlums in a dense forest.</image:caption
+      >
+      <image:title>Bhoot and Friends</image:title>
+    </image:image>
+  </url>
+</urlset>

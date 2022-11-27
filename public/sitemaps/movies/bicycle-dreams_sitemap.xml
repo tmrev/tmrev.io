@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65576-Bicycle Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65576-Bicycle Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ek8mp2kLJw0dXkJUiRGbKYoU6Qc.jpg</image:loc
+      >
+      <image:caption
+        >They are seekers, madmen, and angels hell-bent on riding across America
+        on a bicycle in less than ten days. But what begins as the adventure of
+        a lifetime is transformed in an instant when tragedy strikes the race.
+        These voyagers discover what is truly at stake as they pedal on, praying
+        for the deliverance only the finish line can bring. By journey's end,
+        some are saved, others are lost, but all learn that the fuel that takes
+        a soul toward its own true destiny is desire.</image:caption
+      >
+      <image:title>Bicycle Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

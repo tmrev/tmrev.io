@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52670-Blurred</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52670-Blurred</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2e0zecM9TZlOvkXkWsK9hhO6uM6.jpg</image:loc
+      >
+      <image:caption
+        >Every year more than 70,000 Australian school leavers head to the
+        beaches of Australia's Gold Coast to celebrate their release from the
+        secondary school system. With a wild mixture of sun, surf and sex, this
+        quintessential Australian tradition is known affectionately as
+        'Schoolies Week'. So strap on the beer goggles and follow several groups
+        of friends as they travel to the Gold Coast by train, clapped out
+        Holden, Limo and on foot in search of the best time of their
+        lives.</image:caption
+      >
+      <image:title>Blurred</image:title>
+    </image:image>
+  </url>
+</urlset>

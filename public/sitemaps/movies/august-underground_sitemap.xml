@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24836-August Underground</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24836-August Underground</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4zdKBTOl4I6fOcXNWeecT0RXpLB.jpg</image:loc
+      >
+      <image:caption
+        >Imagine walking down the street and finding an unmarked VHS tape.
+        Curiosity piqued, you take it home and pop it in. What starts off as two
+        men screwing around with a video camera quickly transforms into an
+        ultra-realistic torture sequence where the unidentified psychopaths tape
+        their exploits as they torment and violate a woman tied to a
+        chair.</image:caption
+      >
+      <image:title>August Underground</image:title>
+    </image:image>
+  </url>
+</urlset>

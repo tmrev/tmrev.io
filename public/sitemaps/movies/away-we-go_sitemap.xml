@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/684529-Away We Go</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/684529-Away We Go</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rvt9wrXi3da6eh46uWGOlUxzgCP.jpg</image:loc
+      >
+      <image:caption
+        >The bond between a sister and brother remain strong through all of
+        life's ups and downs.</image:caption
+      >
+      <image:title>Away We Go</image:title>
+    </image:image>
+  </url>
+</urlset>

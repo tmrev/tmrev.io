@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/754433-Bobbleheads: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/754433-Bobbleheads: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg</image:loc
+      >
+      <image:caption
+        >Get ready for a big shake-up when misfit bobbleheads take on trashy
+        humans and a slobbery dog who crash their home with plans to swap a new
+        baseball player bobblehead for a valuable one of them. With some
+        guidance from Bobblehead Cher, they find the courage to bobble-up for an
+        outrageous battle of wits and wobble.</image:caption
+      >
+      <image:title>Bobbleheads: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

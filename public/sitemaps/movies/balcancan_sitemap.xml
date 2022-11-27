@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57218-Bal-Can-Can</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57218-Bal-Can-Can</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qxmpcn5Cpq1nN5Mytb3pPPZHyJo.jpg</image:loc
+      >
+      <image:caption
+        >A Macedonian military deserter and his Italian blood-brother are
+        searching for a dead grandmother wrapped up in a stolen carpet, all over
+        the Balkan's criminal underworld.</image:caption
+      >
+      <image:title>Bal-Can-Can</image:title>
+    </image:image>
+  </url>
+</urlset>

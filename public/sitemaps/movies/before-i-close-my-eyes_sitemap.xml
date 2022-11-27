@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/952000-Before I Close My Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/952000-Before I Close My Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AuCtXG9ytZK6LWX3WG74NUqsLX0.jpg</image:loc
+      >
+      <image:caption
+        >This video focuses on three contemporary Vietnamese men, dressed in
+        Vietnam War-era uniforms, as they watch a recording of the historic
+        televised suicide of Hòa thượng Thích Quảng Đức, the Vietnamese Mahayana
+        Buddhist monk who burned himself to death at a busy Saigon intersection
+        on June 11, 1963, an act of protest that shocked the world and
+        ultimately led to the demise of the American-supported Diem regime. The
+        video is structured, shot for shot, after the pivotal mental breakdown
+        scene in Ingmar Bergman’s 1966 film PERSONA.</image:caption
+      >
+      <image:title>Before I Close My Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

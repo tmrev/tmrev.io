@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/618189-Azad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/618189-Azad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5Bdqa7DQfArS0dN6k7WUSEryzFN.jpg</image:loc
+      >
+      <image:caption
+        >An off beat comedy drama set in modern day Pakistan about a free
+        spirited RJ who hosts a morning show until a chance encounter leads him
+        to confront his own ideas of freedom.</image:caption
+      >
+      <image:title>Azad</image:title>
+    </image:image>
+  </url>
+</urlset>

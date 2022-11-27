@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/518772-Body of Sin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/518772-Body of Sin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5f4FXBOazh7e0ubxDeQugTiKhKm.jpg</image:loc
+      >
+      <image:caption
+        >Two women use seduction to steal from straying men. But when they
+        discover one of their victims hiding millions in diamonds, the score of
+        their lives becomes a run for their lives.</image:caption
+      >
+      <image:title>Body of Sin</image:title>
+    </image:image>
+  </url>
+</urlset>

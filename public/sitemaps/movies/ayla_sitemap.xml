@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/388994-Ayla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/388994-Ayla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9qJd7Fau4Ngw0XkyFjiAhFNDaeF.jpg</image:loc
+      >
+      <image:caption
+        >A man haunted by the mysterious death of his 4-year-old sister brings
+        her back to life thirty years later as an adult woman, with dire
+        consequences.</image:caption
+      >
+      <image:title>Ayla</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/770391-Bombhaat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/770391-Bombhaat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jMsXPRbjltXy4Hu4H6Rt4rBBngs.jpg</image:loc
+      >
+      <image:caption
+        >Vicky is a man who’s brought up being told by his parents he’s the
+        unluckiest fellow on earth. His girlfriend Chaitra goes against the
+        world and even her own father to prove him wrong. Life goes for a toss,
+        more than usual, when he rescues his mentor’s daughter
+        Maya.</image:caption
+      >
+      <image:title>Bombhaat</image:title>
+    </image:image>
+  </url>
+</urlset>

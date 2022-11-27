@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80889-Ashta Chamma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80889-Ashta Chamma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/te7QsSRLpHdiM0qGa9kQZ6wbZnD.jpg</image:loc
+      >
+      <image:caption
+        >Lavanya is in love with the actor Mahesh Babu and decides to marry a
+        man with the same name. But things take an unexpected turn when she
+        finds out that her husband's real name is not Mahesh.</image:caption
+      >
+      <image:title>Ashta Chamma</image:title>
+    </image:image>
+  </url>
+</urlset>

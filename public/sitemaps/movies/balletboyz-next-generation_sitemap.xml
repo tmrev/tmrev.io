@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1024231-BalletBoyz: Next Generation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1024231-BalletBoyz: Next Generation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yAPHP1v762xj617lYeE4VkQU2Oa.jpg</image:loc
+      >
+      <image:caption
+        >Documentary capturing the rise of all-male dance company, BalletBoyz
+        from first auditions to a performance in Addis Ababa City Hall,
+        Ethiopia.</image:caption
+      >
+      <image:title>BalletBoyz: Next Generation</image:title>
+    </image:image>
+  </url>
+</urlset>

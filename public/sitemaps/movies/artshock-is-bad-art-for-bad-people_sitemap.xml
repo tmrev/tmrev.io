@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/795361-Artshock: Is Bad Art for Bad People?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/795361-Artshock: Is Bad Art for Bad People?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c6wAmlk2kMVDHKqB15CH7usgnnW.jpg</image:loc
+      >
+      <image:caption
+        >Jake Chapman looks at the history of shocking art and tries to find the
+        most shocking piece of art ever, and also to find out what artists who
+        create such works think of other artists who create shocking works of
+        art.</image:caption
+      >
+      <image:title>Artshock: Is Bad Art for Bad People?</image:title>
+    </image:image>
+  </url>
+</urlset>

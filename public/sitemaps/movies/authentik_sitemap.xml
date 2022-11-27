@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/807867-Authentik</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/807867-Authentik</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPiFVwLaZ3VNvbpQnr0z0Qieze3.jpg</image:loc
+      >
+      <image:caption
+        >Biopic about French cult hip-hop duet Supreme NTM. A story of Paris
+        suburbs, protests, police brutality that shaped the music of JoeyStarr
+        and Kool Shen.</image:caption
+      >
+      <image:title>Authentik</image:title>
+    </image:image>
+  </url>
+</urlset>

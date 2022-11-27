@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/965986-Baik Baik Sayang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/965986-Baik Baik Sayang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1CKthtA3rHGf9314492mJkFw500.jpg</image:loc
+      >
+      <image:caption
+        >Tells about the love and solidarity of the children of the La Tansa
+        Islamic boarding school, namely Apoy, Faank, Tomi, and
+        Ovie.</image:caption
+      >
+      <image:title>Baik Baik Sayang</image:title>
+    </image:image>
+  </url>
+</urlset>

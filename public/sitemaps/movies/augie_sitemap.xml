@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479541-Augie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479541-Augie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hH8orzE2MvJOWB8qQu3I8pg3YMA.jpg</image:loc
+      >
+      <image:caption
+        >From the director of Grammy winning and Oscar nominated Glen
+        Campbell...I'll Be Me, comes AUGIE. Armed with irreverent humor and the
+        love of his life by his side, paralysis has done little to slow down the
+        beast inside the genius entrepreneur and LifeFitness mogul, who
+        continues to work everyday to find the cure for ALS.</image:caption
+      >
+      <image:title>Augie</image:title>
+    </image:image>
+  </url>
+</urlset>

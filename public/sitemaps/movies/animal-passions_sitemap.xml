@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/445780-Animal Passions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/445780-Animal Passions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sL7kxX91YHQ3gyJC4XFTTKSN1qh.jpg</image:loc
+      >
+      <image:caption
+        >A British documentary on zoophilia presenting various personal,
+        religious, psychological, and sociological views on the phenomenon of
+        sexual relations between humans and other animals.</image:caption
+      >
+      <image:title>Animal Passions</image:title>
+    </image:image>
+  </url>
+</urlset>

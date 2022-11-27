@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254587-Another Audience With Ken Dodd</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254587-Another Audience With Ken Dodd</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/VWYJz1ZKCX2yLSu21EcwqqYpUI.jpg</image:loc
+      >
+      <image:caption
+        >Once again, Ken Dodd (with over 40 years in his trade) performs his
+        unique set in front of a host of celebrities gathered to show their
+        appreciation of his enduring talent.</image:caption
+      >
+      <image:title>Another Audience With Ken Dodd</image:title>
+    </image:image>
+  </url>
+</urlset>

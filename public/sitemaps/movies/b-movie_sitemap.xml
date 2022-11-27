@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/623858-B movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/623858-B movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fNyVvZuHbZjxqm0tiJYD0jdoS7C.jpg</image:loc
+      >
+      <image:caption
+        >This mini documentary features a rare interview with infamous graffiti
+        artist Banksy, delving into how he started out as a graffiti writer up
+        to his shift to gallery art, installations, CDs, and more. Til this day
+        only a hand full of people know his real identity, such as friends
+        appearing here: 3D of Massive Attack, Damien Hirst, and
+        others.</image:caption
+      >
+      <image:title>B movie</image:title>
+    </image:image>
+  </url>
+</urlset>

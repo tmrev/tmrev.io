@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8073-Band of Outsiders</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8073-Band of Outsiders</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9oqyj79xmcypxLajJdefOtrYx64.jpg</image:loc
+      >
+      <image:caption
+        >Cinephile slackers Franz and Arthur spend their days mimicking the
+        antiheroes of Hollywood noirs and Westerns while pursuing the lovely
+        Odile. The misfit trio upends convention at every turn, be it through
+        choreographed dances in cafés or frolicsome romps through the Louvre.
+        Eventually, their romantic view of outlaws pushes them to plan their own
+        heist, but their inexperience may send them out in a blaze of glory --
+        which could be just what they want.</image:caption
+      >
+      <image:title>Band of Outsiders</image:title>
+    </image:image>
+  </url>
+</urlset>

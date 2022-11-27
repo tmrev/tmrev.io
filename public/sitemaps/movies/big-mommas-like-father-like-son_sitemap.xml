@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38322-Big Mommas: Like Father, Like Son</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38322-Big Mommas: Like Father, Like Son</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n1GSxFcDaZ6lMVf21M0KloPfuhu.jpg</image:loc
+      >
+      <image:caption
+        >FBI agent Malcolm Turner and his 17-year-old son, Trent, go undercover
+        at an all-girls performing arts school after Trent witnesses a murder.
+        Posing as Big Momma and Charmaine, they must find the murderer before he
+        finds them.</image:caption
+      >
+      <image:title>Big Mommas: Like Father, Like Son</image:title>
+    </image:image>
+  </url>
+</urlset>

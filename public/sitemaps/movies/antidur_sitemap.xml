@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63898-Antidur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63898-Antidur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dLDMe9RHfldqLTQMDIEP4IUQz41.jpg</image:loc
+      >
+      <image:caption
+        >Failing to complete an important assignment without casualties,
+        fearless crime fighters from an elite special service agency, masters of
+        disguise and simply fun guys "Velik" and "Koshka" were demoted to serve
+        in a department of a Drug Enforcement Agency...</image:caption
+      >
+      <image:title>Antidur</image:title>
+    </image:image>
+  </url>
+</urlset>

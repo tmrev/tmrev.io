@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125237-Arike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125237-Arike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wUUC9Y2jb7Us5zkJ52PsVWPWBgT.jpg</image:loc
+      >
+      <image:caption
+        >Based on an Indian Bengali short story by Sunil Gangopadhyay, Anuradha
+        plays cupid and brings Shantanu and Kalpana together but a freak
+        accident distances Kalpana and him. Shantanu then realizes that Anuradha
+        is the one who truly loves him.</image:caption
+      >
+      <image:title>Arike</image:title>
+    </image:image>
+  </url>
+</urlset>

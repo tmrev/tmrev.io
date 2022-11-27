@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565388-Atlas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565388-Atlas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xP9Da09itvve7r3Lj7twji8eQ0S.jpg</image:loc
+      >
+      <image:caption
+        >Walter is a 60-year-old removal man for forced evictions. He recognizes
+        in one of the tenants about to be evicted his estranged son, Jan. In
+        order to help Jan, Walter has to confront not only his crooked boss but
+        also his own past.</image:caption
+      >
+      <image:title>Atlas</image:title>
+    </image:image>
+  </url>
+</urlset>

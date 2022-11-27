@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593043-Biarritz Surf Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593043-Biarritz Surf Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vGiIDxi6ArD0QisBiJIeqpitxxs.jpg</image:loc
+      >
+      <image:caption
+        >"Biarritz Surf Gang" is a documentary by Pierre Denoyel and Nathan
+        Curren. The film reveals the true story of six lunatic surfers who set
+        fire to their surfboards at Biarritz' Grande Plage, in the 1980s. The
+        local crew, inspired by the punk movement, had a thirst for trouble and
+        breaking the law. This is their story, and how they achieved greatness,
+        experience decadence, and eventually fall.</image:caption
+      >
+      <image:title>Biarritz Surf Gang</image:title>
+    </image:image>
+  </url>
+</urlset>

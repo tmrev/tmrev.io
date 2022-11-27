@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35284-Anzio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35284-Anzio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m958bPae1S54GbF9pqpRwmqhCPZ.jpg</image:loc
+      >
+      <image:caption
+        >Allied forces land at Anzio unopposed but instead of moving straight
+        inland their commanding officer decides to dig in. A battle-hardened war
+        correspondent borrows a jeep and drives to Rome and back without meeting
+        any German forces, but his report on this absence of the enemy is
+        discounted. By the time it is finally decided to make a move the Germans
+        have arrived in strength and a prolonged ...</image:caption
+      >
+      <image:title>Anzio</image:title>
+    </image:image>
+  </url>
+</urlset>

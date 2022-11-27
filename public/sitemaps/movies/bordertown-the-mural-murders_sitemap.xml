@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716810-Bordertown: The Mural Murders</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716810-Bordertown: The Mural Murders</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g24OiKp3k9b3VzrhCNcaQzHhZ60.jpg</image:loc
+      >
+      <image:caption
+        >A mural painted with blood is found on the wall of Pasila train
+        station, which depicts Finland's best-known serial killer Lasse Maasalo.
+        The text in the mural, “Making the world a better place”, is linked to a
+        voting circulating in social media, where people can vote for persons
+        that world would be a better place without. Soon the first body is found
+        and Sorjonen must find the person who has named himself as The
+        Judge.</image:caption
+      >
+      <image:title>Bordertown: The Mural Murders</image:title>
+    </image:image>
+  </url>
+</urlset>

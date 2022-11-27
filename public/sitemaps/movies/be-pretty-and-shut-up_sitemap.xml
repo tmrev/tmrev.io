@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311267-Be Pretty and Shut Up!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311267-Be Pretty and Shut Up!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uD9dt04eDSkaddy4hCh45ph6ZjS.jpg</image:loc
+      >
+      <image:caption
+        >The film is a series of interviews with various well-known film
+        actresses, including Jenny Agutter, Maria Schneider, and Jane Fonda. The
+        title, which is borrowed from a 1958 film with the same name by Marc
+        Allegret, refers to the sense the actresses have of what is expected of
+        them by the film industry.</image:caption
+      >
+      <image:title>Be Pretty and Shut Up!</image:title>
+    </image:image>
+  </url>
+</urlset>

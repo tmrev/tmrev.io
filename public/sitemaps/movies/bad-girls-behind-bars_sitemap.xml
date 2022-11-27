@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396451-Bad Girls Behind Bars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396451-Bad Girls Behind Bars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y1uRkUce2k3MP0xh2t793DDKiiF.jpg</image:loc
+      >
+      <image:caption
+        >Wise-cracking news reporter Georgina goes undercover in a women's
+        prison to get the story of a lifetime. But she discovers she's stranded
+        behind bars after her outside contact suddenly dies, now, the only way
+        to get out is to "Put Out".</image:caption
+      >
+      <image:title>Bad Girls Behind Bars</image:title>
+    </image:image>
+  </url>
+</urlset>

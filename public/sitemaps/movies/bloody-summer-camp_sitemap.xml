@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/741686-Bloody Summer Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/741686-Bloody Summer Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/auVuw5JI9YLh81vwtRC8XqRuUo9.jpg</image:loc
+      >
+      <image:caption
+        >In 1986, counsellors at Camp Trustfall are preparing for the new
+        summer. It's all fun and games until one of the new counsellors goes
+        missing. Now, an evil lurks in the darkness. Is it the camp legend come
+        to life or does someone else have an axe to grind?​</image:caption
+      >
+      <image:title>Bloody Summer Camp</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/746182-Boom!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/746182-Boom!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lO31vPGp5YDmwCplNlMHPry3ZNF.jpg</image:loc
+      >
+      <image:caption
+        >The lives of a frustrated explosives police officer and an anxious
+        anarchist collide around a bomb ready to explode: In a symbolic act,
+        Officer Guzman wants to vent his mundane life while the rebel Ivan wants
+        to test prejudices around terrorism . In the end it is not known which
+        of the two will lose.</image:caption
+      >
+      <image:title>Boom!</image:title>
+    </image:image>
+  </url>
+</urlset>

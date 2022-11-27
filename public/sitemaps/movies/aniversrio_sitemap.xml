@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/720467-Aniversário</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/720467-Aniversário</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The anniversary, celebrating the thirty years of the marriage of
+        Francisco and Leonor Teixeira, celebrated on their family farm. It is
+        time to party and everyone party with the Teixeira's. Well, almost
+        everyone. Ricardo, the youngest son, does not speak with his father for
+        five years.</image:caption
+      >
+      <image:title>Aniversário</image:title>
+    </image:image>
+  </url>
+</urlset>

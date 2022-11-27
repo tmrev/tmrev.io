@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314829-April Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314829-April Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dWaxZkkWsUYezLqw8mW8lhhIVOa.jpg</image:loc
+      >
+      <image:caption
+        >Ayumi Nitta is a member of a hospital cleaning staff and suffers from
+        extreme social anxiety. After having a one-night stand with genius
+        surgeon and sex addict Wataru Makino, Ayumi discovers she’s pregnant.
+        However, when she tells Wataru, he dismisses her claim as a bad April
+        Fools joke. Refusing to believe he could possibly be the father of
+        Ayumi’s baby after just one night together, Wataru takes a woman named
+        Reiko on a date to an Italian restaurant. However, Ayumi also shows up,
+        leading to a major incident.</image:caption
+      >
+      <image:title>April Fools</image:title>
+    </image:image>
+  </url>
+</urlset>

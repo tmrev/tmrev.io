@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362007-Blackjackets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362007-Blackjackets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/68B4WqpK8SzHvf3V3XeP7aqrMQU.jpg</image:loc
+      >
+      <image:caption
+        >Young Greasers, known as Raggare in Sweden, gather at a café outside
+        Stockholm. Roffe is the toughest greaser and kidnaps his girlfriend
+        Bibban, when he discovers that she is out riding with other guys. Bibban
+        falls in love with the sensitive Lasse.</image:caption
+      >
+      <image:title>Blackjackets</image:title>
+    </image:image>
+  </url>
+</urlset>

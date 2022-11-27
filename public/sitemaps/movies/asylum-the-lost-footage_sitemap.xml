@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/299599-Asylum: the Lost Footage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/299599-Asylum: the Lost Footage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Y2c44SjxLR1BYQfkuN61hywTv1.jpg</image:loc
+      >
+      <image:caption
+        >A group of amateur ghost hunters go missing as they journey into the
+        bowels of an abandon Insane Asylum in a search for evidence of the 'Lady
+        in White' said to haunt the grounds. The only evidence of their quest of
+        no return are video cards discovered by workman as they demolish what's
+        left of the vacant structures. Some of the footage was salvageable and
+        reveals the missing ghost hunters fate as they traverse into the
+        unknowns of the Asylum</image:caption
+      >
+      <image:title>Asylum: the Lost Footage</image:title>
+    </image:image>
+  </url>
+</urlset>

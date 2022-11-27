@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/302937-Aspirational</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/302937-Aspirational</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yfVWdsyJWHdcy7Jd557S1py5Gtb.jpg</image:loc
+      >
+      <image:caption
+        >In this short film, Matthew Frost pulls focus to the modern cultural
+        trend that has replaced pen-to-paper autographs. Although posing for a
+        photo alongside another person seems like it would be more of an
+        interactive experience, Dunst and Frost suggest that it is just a
+        shallow attempt to document this faux-interaction for social-network
+        bragging purposes rather than connect human to human.</image:caption
+      >
+      <image:title>Aspirational</image:title>
+    </image:image>
+  </url>
+</urlset>

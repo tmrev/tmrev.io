@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40201-Bob Marley & The Wailers - Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40201-Bob Marley & The Wailers - Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oa5MG4EHIFTpD9yWnVcCCXZTl2i.jpg</image:loc
+      >
+      <image:caption
+        >Bob Marley's Legend is a personal, musical compilation of his popular
+        in-concert performances and video clips. Combined with rare interview
+        footage and exclusive tour clips, this exciting video tribute provides
+        new insights into one of the great musical artists of our
+        time.</image:caption
+      >
+      <image:title>Bob Marley & The Wailers - Legend</image:title>
+    </image:image>
+  </url>
+</urlset>

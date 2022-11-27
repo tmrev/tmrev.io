@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/625732-Better Dayz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/625732-Better Dayz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wqYcbEJSUSItU0v8mtmbLd9T4kP.jpg</image:loc
+      >
+      <image:caption
+        >Though the mother of the Mulberry children tries to keep her family
+        away from the destruction and violence of street life, one by one, the
+        children are all sucked in. When youngest daughter falls for a violent
+        drug dealer, it's all the mother can do to hold her family
+        together.</image:caption
+      >
+      <image:title>Better Dayz</image:title>
+    </image:image>
+  </url>
+</urlset>

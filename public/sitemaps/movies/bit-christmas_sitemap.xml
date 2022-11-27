@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/802217-8-Bit Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/802217-8-Bit Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg</image:loc
+      >
+      <image:caption
+        >In suburban Chicago during the late 1980s, ten-year-old Jake Doyle
+        embarks on a herculean quest to get the latest and greatest video game
+        system for Christmas.</image:caption
+      >
+      <image:title>8-Bit Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

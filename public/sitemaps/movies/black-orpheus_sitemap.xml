@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40423-Black Orpheus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40423-Black Orpheus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mXIQTXEs2jQ9waBY8f0dgEZLhjv.jpg</image:loc
+      >
+      <image:caption
+        >Young lovers Orfeu and Eurydice run through the favelas of Rio during
+        Carnaval, on the lam from a hitman dressed like Death and Orfeu's
+        vengeful fiancée Mira and passing between moments of fantasy and stark
+        reality. This impressionistic retelling of the Greek legend of Orpheus
+        and Eurydice introduced bossa nova to the world with its soundtrack by
+        young Brazilian composers Luiz Bonfá and Antonio Carlos
+        Jobim.</image:caption
+      >
+      <image:title>Black Orpheus</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/405053-Around China with a Movie Camera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/405053-Around China with a Movie Camera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lFqgEQojyoounZ64E3GdxKEXqm3.jpg</image:loc
+      >
+      <image:caption
+        >A new film compiled from the BFI National Archive's unparalleled
+        holdings of early films of China, features films from 1900-48 filmed
+        across China. The cinematic journey of Around China with a Movie Camera
+        contains many films which may never have been seen in China, or at the
+        very least not for over 70 years. These travelogues, newsreels and home
+        movies were made by a diverse group of British and French filmmakers,
+        some professionals, but mainly enthusiastic amateurs, including intrepid
+        tourists, colonial-era expatriates and Christian
+        missionaries.</image:caption
+      >
+      <image:title>Around China with a Movie Camera</image:title>
+    </image:image>
+  </url>
+</urlset>

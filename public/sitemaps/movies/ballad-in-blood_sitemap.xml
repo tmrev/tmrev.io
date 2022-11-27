@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/394855-Ballad in Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/394855-Ballad in Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tfqr2Q1b36nGa06xvaMCQuB933c.jpg</image:loc
+      >
+      <image:caption
+        >Jacopo, Duke, and Lenka wake up in the apartment Lenka shares with her
+        roommate Elizabeth to find Elizabeth mysteriously murdered. None of the
+        three has any memory of what happened and they spend a drug-fueled day
+        finding clues and piecing the event together.</image:caption
+      >
+      <image:title>Ballad in Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

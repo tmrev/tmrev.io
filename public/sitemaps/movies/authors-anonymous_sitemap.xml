@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/255491-Authors Anonymous</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/255491-Authors Anonymous</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9aUVqoMbbde1nnBKJW0Mb8ehE2G.jpg</image:loc
+      >
+      <image:caption
+        >When a dysfunctional group of unpublished writers accept Hannah into
+        their fold, the last thing they expect is her overnight success. Can
+        these lovable misfits achieve their artistic dreams and avoid killing
+        one another in the process?</image:caption
+      >
+      <image:title>Authors Anonymous</image:title>
+    </image:image>
+  </url>
+</urlset>

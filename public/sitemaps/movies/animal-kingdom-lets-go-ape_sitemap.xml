@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280391-Animal Kingdom: Let's Go Ape</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280391-Animal Kingdom: Let's Go Ape</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7qccdwXUMazLqkMKm4ZJ7lAnzUF.jpg</image:loc
+      >
+      <image:caption
+        >Based on the novel 'Evolution Man' by Roy Lewis, this tells the story
+        about the first man - young Edward - to descend from apes. Edward is
+        ejected by his tribe, but is very resourceful. He learns to walk,
+        discovers fire, manages to hunt - and we follow him as he evolves. He
+        has a generous nature, and search for true humanity - a world where we
+        don't eat our fathers.</image:caption
+      >
+      <image:title>Animal Kingdom: Let's Go Ape</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459471-Anomaly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459471-Anomaly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bOL6qexGlUT5PLQhaPVgrhtp1kj.jpg</image:loc
+      >
+      <image:caption
+        >The terrifying story of a family that experienced the biggest demonic
+        possession after moving into a house plagued by malicious
+        spirits.</image:caption
+      >
+      <image:title>Anomaly</image:title>
+    </image:image>
+  </url>
+</urlset>

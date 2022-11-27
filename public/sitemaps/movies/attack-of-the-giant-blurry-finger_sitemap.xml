@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784075-Attack of the Giant Blurry Finger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784075-Attack of the Giant Blurry Finger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f2UGkwXuj2btO8dk7ZI4vrn8uWW.jpg</image:loc
+      >
+      <image:caption
+        >In this zany, dry, tongue-in-cheek sci-fi horror comedy, a giant blurry
+        finger comes down from outer space and terrorizes a woman, interrupting
+        her lonely night at home.</image:caption
+      >
+      <image:title>Attack of the Giant Blurry Finger</image:title>
+    </image:image>
+  </url>
+</urlset>

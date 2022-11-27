@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425935-Asylum of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425935-Asylum of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cBBHOgFctUv8wEvzm1aNSueJ34b.jpg</image:loc
+      >
+      <image:caption
+        >Mental patient Dwight Stroud escapes from an asylum and is mistaken for
+        a motivational speaker named Artemis Finch who has money and women at
+        his command. Dwight accepts the craziness of the situation, but as
+        strange faceless figures begin to hunt him down, Dwight must deal with
+        an escalating spiral of supernatural danger and
+        hallucinations.</image:caption
+      >
+      <image:title>Asylum of Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

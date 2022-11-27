@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/829006-Baloney</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/829006-Baloney</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jmsQtDVtZPA5C4scDSJm3e4eFU4.jpg</image:loc
+      >
+      <image:caption
+        >BALONEY tells the surprising story of San Francisco's beloved Gay
+        All-Male Revue of the same name, which has been delighting audiences in
+        recent years with live performances that lovingly investigate the larger
+        milieu of gay and queer men's experience. BALONEY's co-creators, Michael
+        and Rory, invite their collaborators and audiences to embrace the
+        sexualized aspects of striptease and burlesque alongside a blend of
+        fantasy, confession, and social commentary.</image:caption
+      >
+      <image:title>Baloney</image:title>
+    </image:image>
+  </url>
+</urlset>

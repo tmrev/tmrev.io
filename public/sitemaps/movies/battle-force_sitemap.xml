@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82206-Battle Force</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82206-Battle Force</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kcXPCByD9gRnhGt7o6NOYUNIntN.jpg</image:loc
+      >
+      <image:caption
+        >In the thick of WWII, the 1st Special Service Force unit is called to
+        duty on a secret rescue mission. Challenged by Nazis at every turn, our
+        band of heroes bunker in a bombed out city and race against time to
+        relay a message that is crucial to the Allies invasion of Sicily.
+        Cornered and caught between a rock and a hard place, they only have one
+        option: fire more bullets!</image:caption
+      >
+      <image:title>Battle Force</image:title>
+    </image:image>
+  </url>
+</urlset>

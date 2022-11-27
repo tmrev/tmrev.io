@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409120-Barrios</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409120-Barrios</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Presents three barrio stories: "La familia del Camello" about a public
+        residential basketball coach and his dilemmas, "El baila'o de Julia y
+        Berto" about two neighbors trying to rediscover love in their maturity,
+        and "El rumbón de Fepe" about a man who has to choose between his barrio
+        and the woman he loves.</image:caption
+      >
+      <image:title>Barrios</image:title>
+    </image:image>
+  </url>
+</urlset>

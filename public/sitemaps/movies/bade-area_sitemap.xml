@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/950457-Bade Area</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/950457-Bade Area</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film was made in the Bade Area of Taoyuan County, Taiwan. Chen
+        Chieh-jen invited local temporary laborers to wander around the area,
+        and enter office buildings and factory spaces that had been sealed off
+        by the courts due to property right disputes. Examining the objects left
+        behind in these spaces from the viewpoint of these temporary laborers,
+        it muses on the voids and landscapes left behind in Taiwan amidst the
+        torrent of globalization.</image:caption
+      >
+      <image:title>Bade Area</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82552-Armenia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82552-Armenia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s7UvKYgGlSgC0MVMVZ00gg405Hw.jpg</image:loc
+      >
+      <image:caption
+        >This is a story about returning to ones ancestral homeland. Anna is a
+        cardiologist who discovers her father has fled to his native Armenia
+        after being diagnosed with a heart problem. Despite their contentious
+        relationship, she sets out to bring her father back for this operation.
+        Anna is a tough-minded, headstrong woman with little feeling for her
+        fathers homeland or patience with its politics and socially intrusive
+        culture, yet she finds this journey not only a reunion of sorts, but one
+        of reconciliation as well.</image:caption
+      >
+      <image:title>Armenia</image:title>
+    </image:image>
+  </url>
+</urlset>

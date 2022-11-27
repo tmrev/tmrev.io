@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22758-Bloody Pit of Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22758-Bloody Pit of Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xCBV9KEvgGx5CseJAaPt0r7zX9c.jpg</image:loc
+      >
+      <image:caption
+        >A photographer and his models go to an old, abandoned castle for a
+        photo shoot. Unbeknownst to them, the castle is inhabited by a lunatic
+        who believes himself to be the reincarnated spirit of a 17th-century
+        executioner whose job it is to protect the castle against
+        intruders.</image:caption
+      >
+      <image:title>Bloody Pit of Horror</image:title>
+    </image:image>
+  </url>
+</urlset>

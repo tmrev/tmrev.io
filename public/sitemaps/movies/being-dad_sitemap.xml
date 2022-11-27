@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278536-Being Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278536-Being Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Covering everything from the moment of conception through your child's
+        birth, this enlightening program gives expectant fathers all the
+        information they need to be prepared for this extraordinary period.
+        Topics include dealing with finances, sex, premature birth, labor and
+        more. Dozens of new dads share their experiences, and a host of experts,
+        including midwives, an ob-gyn, childbirth educators and others shed
+        light on what new fathers can expect.</image:caption
+      >
+      <image:title>Being Dad</image:title>
+    </image:image>
+  </url>
+</urlset>

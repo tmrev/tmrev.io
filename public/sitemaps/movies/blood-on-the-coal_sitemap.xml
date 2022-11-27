@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353099-Blood on the Coal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353099-Blood on the Coal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A story of struggle and tragedy, the film features harrowing
+        underground disasters, heroic rescues and traces a history of strikes,
+        industrial turmoil and the current push by global mining giants to
+        destroy regional communities and replace local mineworkers with a
+        subservient itinerant workforce.</image:caption
+      >
+      <image:title>Blood on the Coal</image:title>
+    </image:image>
+  </url>
+</urlset>

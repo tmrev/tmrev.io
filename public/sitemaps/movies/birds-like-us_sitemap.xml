@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451273-Birds Like Us</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451273-Birds Like Us</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/588YWW3CtLtrHfMFDS6Ehf5RdKW.jpg</image:loc
+      >
+      <image:caption
+        >The story follows a group of birds on a journey where they try to find
+        a better life for themselves and the ones they love.</image:caption
+      >
+      <image:title>Birds Like Us</image:title>
+    </image:image>
+  </url>
+</urlset>

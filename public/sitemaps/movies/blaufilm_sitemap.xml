@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041073-BLAUFILM</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041073-BLAUFILM</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ePOpU2sPVQ5CJuMoIAhKsaXKpOL.jpg</image:loc
+      >
+      <image:caption
+        >This film was made by hand with materials 16mm blank film (100m),
+        transparent silicon, and blue pigment (Prussian-Paris blue), without a
+        camera. There are 14,000 continuous blue pictures in this film without
+        cuts. The reality of this work is the continuity of emotion and feeling
+        expressed by the colour blue - a highly spiritual colour, Harada shows
+        its emotional significance. The deeper it is, he shows, the more it
+        awakens a desire for the eternal. You can see it dotted poignantly about
+        in this film, sometimes as part of a far-off backdrop, and often as the
+        outline of a mysterious mountain settlement.</image:caption
+      >
+      <image:title>BLAUFILM</image:title>
+    </image:image>
+  </url>
+</urlset>

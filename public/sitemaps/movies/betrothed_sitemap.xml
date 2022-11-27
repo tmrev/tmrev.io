@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/405901-Betrothed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/405901-Betrothed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mOPjLT6Mpor4BaceoDzqsE0XLgH.jpg</image:loc
+      >
+      <image:caption
+        >A trip to the store turns into a surreal nightmare when a college
+        student is kidnapped by a deranged, dysfunctional family. Now Audra West
+        finds herself trapped in the middle of the desert, and betrothed to
+        Adam, the youngest son of the murderous clan. As a determined detective
+        conducts a frantic search, Audra realizes the only way to survive is to
+        escape. But even if she could get away, almost two hundred miles of
+        desert lies between her and help.</image:caption
+      >
+      <image:title>Betrothed</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13071-Black Irish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13071-Black Irish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zH562stGg6WinO7ZaQHIpJxlJ12.jpg</image:loc
+      >
+      <image:caption
+        >In South Boston, where Irish roots run deep and Catholic tradition
+        reigns, two brothers face similar hardships but lead far different
+        lives. While older brother Terry descends into drugs and crime,
+        16-year-old Cole vies to make the state baseball championships - but
+        must struggle to withstand his brother's destructive
+        influence.</image:caption
+      >
+      <image:title>Black Irish</image:title>
+    </image:image>
+  </url>
+</urlset>

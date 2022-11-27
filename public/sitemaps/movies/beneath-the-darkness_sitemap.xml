@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78461-Beneath the Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78461-Beneath the Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/it9CCP7OOsZDgsJtobwcbVM1bO5.jpg</image:loc
+      >
+      <image:caption
+        >After watching their best friend get murdered, a group of teens
+        struggle to expose a local hero as the vicious killer and keep from
+        becoming his next victims.</image:caption
+      >
+      <image:title>Beneath the Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

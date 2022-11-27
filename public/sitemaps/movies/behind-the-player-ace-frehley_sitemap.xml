@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361794-Behind The Player: Ace Frehley</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361794-Behind The Player: Ace Frehley</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >*Ace documentary discussing his life as a guitar player, including rare
+        photos and video footage from Ace himself *Guitar lessons from Ace for
+        KISS classics Shock Me and Cold Gin *All-star jam session featuring Ace
+        playing with George Lynch, John 5, Matt Sorum, Chris Wyse and Tommy
+        Clufetos</image:caption
+      >
+      <image:title>Behind The Player: Ace Frehley</image:title>
+    </image:image>
+  </url>
+</urlset>

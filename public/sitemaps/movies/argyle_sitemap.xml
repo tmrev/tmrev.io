@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/935730-Argyle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/935730-Argyle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When aspiring filmmaker Charlie receives a one-time offer from a
+        controversial, once-prominent documentary filmmaker, he reluctantly
+        agrees to return to the small town where he was raised to investigate
+        the origins of a notorious serial killer who also grew up there. Once
+        home, he must contend with agitated townsfolk, pressure from his crew,
+        and the awkwardness of reconnecting with the townies who never
+        left.</image:caption
+      >
+      <image:title>Argyle</image:title>
+    </image:image>
+  </url>
+</urlset>

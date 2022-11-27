@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17997-Attack of the Gryphon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17997-Attack of the Gryphon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sVwmFgDpgj9rRh2o5Snk931RLwm.jpg</image:loc
+      >
+      <image:caption
+        >In a mystical land torn apart by civil war, a warrior princess must
+        team up with a rival warrior prince to hunt down an evil sorcerer who
+        has summoned a giant flying demon which is terrorizing their
+        land.</image:caption
+      >
+      <image:title>Attack of the Gryphon</image:title>
+    </image:image>
+  </url>
+</urlset>

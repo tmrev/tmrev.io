@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/54330-Baby and Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/54330-Baby and Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qk3Wsxe0RZK8DQicafEfo2DZyot.jpg</image:loc
+      >
+      <image:caption
+        >Joon-soo is a rebellious high school kid who often get in fights. One
+        day, his parents give him an ultimatum and leaving him alone in the
+        house, Joon-soo decides to have a party at his parent's home. He then
+        goes shopping for groceries and comes upon an unexpected surprise. A
+        little toddler sits in a shopping basket wearing the name tag "Han
+        Woo-ram" and points to Joon-soo as his father.</image:caption
+      >
+      <image:title>Baby and Me</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/949829-Belle Vie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/949829-Belle Vie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tEA1aCERfCmrfXJmoWQse4wQM96.jpg</image:loc
+      >
+      <image:caption
+        >A much loved Parisian-style bistro located in Los Angeles between a
+        thriving McDonalds and KFC, Belle Vie is owned and operated by the
+        charming and hopeful Vincent Samarco, who struggles to adapt, survive
+        and keep the bistro alive in the midst of a pandemic that has ravaged
+        small businesses everywhere.</image:caption
+      >
+      <image:title>Belle Vie</image:title>
+    </image:image>
+  </url>
+</urlset>

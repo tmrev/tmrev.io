@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1022039-Bagboy!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1022039-Bagboy!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Matt is a lowly supermarket bag boy, but in his spare time -- he's
+        Bagboy! Bagboy is Earth's beloved protector, and part of an
+        intergalactic force of bag boy peacekeepers (even on planets with no
+        supermarkets). On this adventure, Matt faces a challenge tougher than
+        most -- keep a manic shopper from destroying an outer space
+        mall.</image:caption
+      >
+      <image:title>Bagboy!</image:title>
+    </image:image>
+  </url>
+</urlset>

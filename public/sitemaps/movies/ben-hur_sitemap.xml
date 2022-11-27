@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64609-Ben Hur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64609-Ben Hur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9RvADC1wn9sOKRolOJmm7Pf1ZCW.jpg</image:loc
+      >
+      <image:caption
+        >During the first century A.D., Judah Ben-Hur is a young Hebrew prince
+        who is thrown into slavery by the Romans after a tragic accident. He
+        sets out to win his way back to his home on a heroic journey of
+        discovery. Judah's love for a beautiful slave girl is threatened by the
+        bitter conflict dividing two former friends, and his triumph is set
+        against the backdrop of the historic struggle between a captive people
+        and a mighty empire.</image:caption
+      >
+      <image:title>Ben Hur</image:title>
+    </image:image>
+  </url>
+</urlset>

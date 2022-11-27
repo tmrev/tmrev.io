@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/464947-Bhalo Theko</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/464947-Bhalo Theko</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vMlKd86JIkrmoJ9rnW70xyOwvva.jpg</image:loc
+      >
+      <image:caption
+        >The film is set in Acharya Jagadish Chandra Bose's home in Falta, West
+        Bengal, masquerading as Uttarpara. It deals with the story of a girl
+        Anandi and her family (including uncle, brother, parents and sister),
+        lover (brother's friend Babua) and few neighbours. Nature, tradition and
+        love are Anandi's pillars of support in difficult times. Her brother
+        will slowly drift away with bad or risky companies, will not return home
+        one day, and will be lost forever. Her parents will die heartbroken and
+        her sister will get married suddenly and will leave the family. Babua
+        will go abroad and marry somebody else.</image:caption
+      >
+      <image:title>Bhalo Theko</image:title>
+    </image:image>
+  </url>
+</urlset>

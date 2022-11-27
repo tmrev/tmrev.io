@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123945-Area Q.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123945-Area Q.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sypXg8QbHNEild9vIYGqDvqePKL.jpg</image:loc
+      >
+      <image:caption
+        >A year after the disappearance of his son, Thomas Mathews, an
+        investigative journalist, still has no information and begins his own
+        obsessive search. However, the obsession has him losing his house and
+        job so his boss sends him on special assignment in Brazil. In Brazil,
+        Mathews investigates close encounter sightings that have taken place in
+        the small cities of Quixada and Quixeramobim-also known as Area Q. While
+        there, he realizes he will face the biggest discovery of his
+        life.</image:caption
+      >
+      <image:title>Area Q.</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353414-Bing Crosby: Rediscovered</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353414-Bing Crosby: Rediscovered</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zVDvqJOxB0A6p0DNTEL5qI6pgFb.jpg</image:loc
+      >
+      <image:caption
+        >Bing Crosby was, without a doubt, the most popular and influential
+        multi-media star of the first half of the twentieth century, pulling
+        audiences in with his intimate, laid-back voice and innate charm.
+        Narrated by Stanley Tucci and directed by Robert Trachtenberg, this film
+        explores the life and legend of this iconic performer, revealing a
+        personality far more complex than the image the public had only thought
+        they'd known.</image:caption
+      >
+      <image:title>Bing Crosby: Rediscovered</image:title>
+    </image:image>
+  </url>
+</urlset>

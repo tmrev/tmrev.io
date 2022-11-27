@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/895851-Bluechacha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/895851-Bluechacha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AqwG95ZLcf4zTnDgQvn4BKYcrvu.jpg</image:loc
+      >
+      <image:caption
+        >A companion to legendary Cuban musician Manuel Galbán's last album.
+        Bluechacha puts image to the sound as it takes us through the process of
+        recording the album, while artistically recreating the music in the form
+        of a love story set in contemporary Cuba. Nominated to the Latin Grammy
+        in the category of Best Long-Form Music Video.</image:caption
+      >
+      <image:title>Bluechacha</image:title>
+    </image:image>
+  </url>
+</urlset>

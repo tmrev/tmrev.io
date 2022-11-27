@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/648707-Boop-oop-a-doop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/648707-Boop-oop-a-doop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ZVGlTiWHMbG5Mpj2ZAIpDCrT23.jpg</image:loc
+      >
+      <image:caption
+        >Issues of sampling etc are combined with analogue video
+        synthesizers/digital manipulation to unlock the invisible tie between
+        the past and the present. -SH</image:caption
+      >
+      <image:title>Boop-oop-a-doop</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1038670-Bienvenides a la House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1038670-Bienvenides a la House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jQo8UEZ3PKFTIEub5kL6uQZbzBo.jpg</image:loc
+      >
+      <image:caption
+        >Tired of not having a safe place to live their identity, a motley group
+        of queer artists get together to build the first LGTBIQ+ cultural house
+        and shelter in Valencia. With no money and a lot of desire, they arm
+        themselves with feathers, wigs, a lot of illusion and brightness to
+        create a safe place for everyone.</image:caption
+      >
+      <image:title>Bienvenides a la House</image:title>
+    </image:image>
+  </url>
+</urlset>

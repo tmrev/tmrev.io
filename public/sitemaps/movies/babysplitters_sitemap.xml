@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/543493-Babysplitters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/543493-Babysplitters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jEl3W2GTzbZuCO1seodtUcHG7lv.jpg</image:loc
+      >
+      <image:caption
+        >When two couples with mixed feelings about having kids hatch a plan to
+        share one baby, it seems like the perfect compromise-until things spiral
+        out of control.</image:caption
+      >
+      <image:title>Babysplitters</image:title>
+    </image:image>
+  </url>
+</urlset>

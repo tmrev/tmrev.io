@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2924-Backdraft</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2924-Backdraft</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bymJtYNIdiAiBR1LRetaJXbfryc.jpg</image:loc
+      >
+      <image:caption
+        >Firemen brothers Brian and Stephen McCaffrey battle each other over
+        past slights while trying to stop an arsonist with a diabolical agenda
+        from torching Chicago.</image:caption
+      >
+      <image:title>Backdraft</image:title>
+    </image:image>
+  </url>
+</urlset>

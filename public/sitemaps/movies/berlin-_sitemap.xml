@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50077-Berlin '36</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50077-Berlin '36</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zNFJqSFoZSFURKM9xCRUizDRD0p.jpg</image:loc
+      >
+      <image:caption
+        >Berlin 36 is a 2009 German film telling the fate of Jewish athlete
+        Gretel Bergmann in the 1936 Summer Olympics. She was replaced by the
+        Nazi regime by an athlete later discovered to be a man. The film is
+        based on a true story and was released in Germany on September 10, 2009.
+        Reporters at Der Spiegel challenged the historical basis for many of the
+        events in the film, pointing to arrest records and medical examinations
+        indicating German authorities did not learn Dora Ratjen was male until
+        1938.</image:caption
+      >
+      <image:title>Berlin '36</image:title>
+    </image:image>
+  </url>
+</urlset>

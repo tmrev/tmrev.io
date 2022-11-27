@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19594-Bartok the Magnificent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19594-Bartok the Magnificent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r243zEE7lTd8E6WwbtEGgu5dOs.jpg</image:loc
+      >
+      <image:caption
+        >Russia is being terrorized by an evil witch known as Baba Yaga; the
+        only one who is not afraid of her is Bartok the Magnificent. Bartok, an
+        albino bat, has just arrived in Moscow and is impressing everyone with
+        his performances, including Prince Ivan Romanov. However, one person is
+        not impressed; Ludmilla finds Bartok annoying and naive. After Bartok's
+        show, a violent bear suddenly attacks. Bartok must save everyone by
+        stunning the bear with dust and then knocks him over and traps him in a
+        wagon.</image:caption
+      >
+      <image:title>Bartok the Magnificent</image:title>
+    </image:image>
+  </url>
+</urlset>

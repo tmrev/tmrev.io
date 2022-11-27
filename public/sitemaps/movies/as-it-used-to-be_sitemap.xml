@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716181-As It Used To Be</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716181-As It Used To Be</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4JvuAZk5eGdeVU3lgGGJkcQ1z4r.jpg</image:loc
+      >
+      <image:caption
+        >In the near future, all teachers give lectures in front of an empty
+        classroom and a simple webcam, broadcasting their lesson over the
+        internet. An history teacher is about to see his daily routine shaken
+        up...</image:caption
+      >
+      <image:title>As It Used To Be</image:title>
+    </image:image>
+  </url>
+</urlset>

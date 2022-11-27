@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304941-Boonie Bears: Homeward Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304941-Boonie Bears: Homeward Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p6a5bA8rDA6g2da60jfDO4vAFjB.jpg</image:loc
+      >
+      <image:caption
+        >Briar Bear, Bramble Bear &amp; friends enjoy life in the woods when
+        Logger Vick begins chopping down trees to get money to go home for the
+        holidays. As Logger Vick is homesick, they hatch a plan to get Vick home
+        in time for the holidays.</image:caption
+      >
+      <image:title>Boonie Bears: Homeward Journey</image:title>
+    </image:image>
+  </url>
+</urlset>

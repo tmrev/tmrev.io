@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328061-Ariana</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328061-Ariana</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Ariana tells the story of a film crew that sets out to visit the
+        Pandjsher Valley in Northern Afghanistan. Described in classic Persian
+        poetry as a ‘paradise garden,’ the impenetrable nature of the valley and
+        its lush, fertile landscape have set it apart from the rest of the
+        country and encouraged a history of independence and resistance.
+        Hugonnier’s film considers how the specificities of a landscape help to
+        determine its history. After the crew is unable to film the valley from
+        a vantage point in the surrounding Hindu Kush mountains, Ariana becomes
+        the story of a failed project that prompts a process of reflection about
+        the ‘panorama’ as a form of strategic overview, as a cinematic camera
+        move, and its origins as pre-cinematic mass
+        entertainment.</image:caption
+      >
+      <image:title>Ariana</image:title>
+    </image:image>
+  </url>
+</urlset>

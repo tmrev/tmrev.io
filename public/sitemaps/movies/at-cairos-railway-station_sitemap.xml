@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57408-At Cairo's Railway Station</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57408-At Cairo's Railway Station</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/81MRxLRAASOwDG3t5cXWuGr8gwR.jpg</image:loc
+      >
+      <image:caption
+        >Reda, a young salesperson meets Malak in the railway station who asks
+        him to play the role of her husband before her rich parents who live in
+        Upper Egypt.</image:caption
+      >
+      <image:title>At Cairo's Railway Station</image:title>
+    </image:image>
+  </url>
+</urlset>

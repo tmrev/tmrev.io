@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/596355-Bombshells and Dollies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/596355-Bombshells and Dollies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hnYTjtZNBjbBMUYZSo2ZGhAsSTL.jpg</image:loc
+      >
+      <image:caption
+        >Female Empowerment Documentary on the Contemporary Pinup Lifestyle &
+        The Miss Viva Las Vegas Pinup Contest - 'Celebrating every woman's right
+        to total body acceptance, to be self-confident and to be
+        gorgeous!'</image:caption
+      >
+      <image:title>Bombshells and Dollies</image:title>
+    </image:image>
+  </url>
+</urlset>

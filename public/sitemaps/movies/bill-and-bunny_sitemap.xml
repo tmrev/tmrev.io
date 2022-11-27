@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418187-Bill and Bunny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418187-Bill and Bunny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q7OchEYcImG72ZXioJKusjkI6oG.jpg</image:loc
+      >
+      <image:caption
+        >Bill is on cloud nine. He has just become a big brother to the lovley
+        Bolla. At first she seems like any other toddler, curious, jovial and
+        sweet. But as the months turn into years and Bolla continues to live in
+        a world of her own, it becomes clear that she is not quite like other
+        children. Based on the book by Gunilla Bergström, creator and author of
+        the Alfons Åberg (Alfie Atkins) books.</image:caption
+      >
+      <image:title>Bill and Bunny</image:title>
+    </image:image>
+  </url>
+</urlset>

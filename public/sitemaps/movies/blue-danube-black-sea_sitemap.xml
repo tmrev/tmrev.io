@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304466-Blue Danube, Black Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304466-Blue Danube, Black Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Romantic river banks and unspoilt nature - wherever the Danube flows
+        these types of landscapes dominate. This comprehensive cinematic
+        portrait of Europe's second longest river presents numerous scenes of
+        heavenly beauty along the banks of the Danube, as well as the tension
+        between humans and nature and civilisation and
+        wilderness.</image:caption
+      >
+      <image:title>Blue Danube, Black Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

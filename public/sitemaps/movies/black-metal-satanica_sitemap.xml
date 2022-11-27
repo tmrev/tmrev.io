@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100889-Black Metal Satanica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100889-Black Metal Satanica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rHz1u197LQszp075D3QiI4vkUB7.jpg</image:loc
+      >
+      <image:caption
+        >BLACK METAL SATANICA is an in-depth documentary capturing the dark,
+        mystical and evil history of the Black Metal genre. Based on
+        Scandinavian Viking lore, Black Metal borrows from ancient Viking
+        melodies, lyrics and mythology dating back to the 11th
+        century.</image:caption
+      >
+      <image:title>Black Metal Satanica</image:title>
+    </image:image>
+  </url>
+</urlset>

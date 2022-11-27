@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/779063-Ben Folds Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/779063-Ben Folds Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pLiaYElcJ8l20cgFEGyaV8oMACk.jpg</image:loc
+      >
+      <image:caption
+        >Ben Folds is at his best on stage with only a grand piano for company.
+        He is a compelling showman who's blessed with an unforced charm that
+        complements the anger and melancholy that informs most of his
+        songs.</image:caption
+      >
+      <image:title>Ben Folds Live</image:title>
+    </image:image>
+  </url>
+</urlset>

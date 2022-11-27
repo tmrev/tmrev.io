@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410145-Blue Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410145-Blue Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/liHrhBzJLj0wdJRIQwijODUAcFc.jpg</image:loc
+      >
+      <image:caption
+        >In a world laid waste by nuclear war, Amamiku guards the seeds that
+        hold the genetic code of the planet and can be used for its rebirth.
+        Living underwater and protected from the radioactive atmosphere above,
+        she impatiently waits for the earth to be ready for the seeds to
+        germinate.But when her existence is discovered, it sparks a frantic race
+        between the remains of humanity struggling for survival, and the
+        disembodied brain. This fanatic being has programmed his robotic army to
+        destroy them.</image:caption
+      >
+      <image:title>Blue Remains</image:title>
+    </image:image>
+  </url>
+</urlset>

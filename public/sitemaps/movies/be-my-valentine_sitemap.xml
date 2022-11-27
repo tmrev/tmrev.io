@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226167-Be My Valentine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226167-Be My Valentine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6w7eP1sSsaq30VZlpqR9r2vOdy1.jpg</image:loc
+      >
+      <image:caption
+        >Dan Farrell, a single father and firefighter unexpectedly falls for
+        local florist Kate just two weeks before his stations’ annual
+        Valentine’s Day fundraising ball. But Kate’s recent ex returns to town
+        to win her back with a marriage proposal. Will Dan suit up to fight for
+        love, or let the flame with Kate burn out?</image:caption
+      >
+      <image:title>Be My Valentine</image:title>
+    </image:image>
+  </url>
+</urlset>

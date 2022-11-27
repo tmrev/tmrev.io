@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13664-Annabelle's Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13664-Annabelle's Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yuwl1H6qCdgOJVxuonYlBQviC5S.jpg</image:loc
+      >
+      <image:caption
+        >Annabelle - a calf who has a special wish for Christmas - wants to be a
+        reindeer and help Santa Claus drive his sleigh as he delivers his
+        presents! Annabelle's friends tell her not to get her hopes up, but to
+        everyone's surprise, Santa does indeed meet up with Annabelle, and the
+        calf gets to help Santa make the holiday special for one young
+        boy.</image:caption
+      >
+      <image:title>Annabelle's Wish</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/822138-Ascension</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/822138-Ascension</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Tng4QWveeazE2gFcrZxvbyvvl8.jpg</image:loc
+      >
+      <image:caption
+        >The absorbingly cinematic Ascension explores the pursuit of the
+        “Chinese Dream.” Driven by mesmerizing—and sometimes humorous—imagery,
+        this observational documentary presents a contemporary vision of China
+        that prioritizes productivity and innovation above all.</image:caption
+      >
+      <image:title>Ascension</image:title>
+    </image:image>
+  </url>
+</urlset>

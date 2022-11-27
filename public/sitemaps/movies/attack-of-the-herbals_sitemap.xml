@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/116829-Attack of the Herbals</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/116829-Attack of the Herbals</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/spy4Jg6RF0IbsANrmVt3sJYxZxx.jpg</image:loc
+      >
+      <image:caption
+        >Follows two unlikely heroes who stumble upon a mysterious crate, washed
+        ashore. The locals find that the contents make a rather addictive herbal
+        tea that turns the villagers into crazy zombies.</image:caption
+      >
+      <image:title>Attack of the Herbals</image:title>
+    </image:image>
+  </url>
+</urlset>

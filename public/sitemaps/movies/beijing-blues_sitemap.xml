@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125184-Beijing Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125184-Beijing Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3o2nk6ZEiuQL7jAx83DFYJUChk6.jpg</image:loc
+      >
+      <image:caption
+        >The unique feature of his film is the actors - they are not
+        professional but celebrities on micro-blogs. Among micro-bloggers in the
+        cast are publisher Zhang Lixian, folk singer Zhou Yunpeng and
+        screenwriter Shi Hang. The film is based on the true story of a Beijing
+        plainclothes policeman named Zhang Huiling, who has been working for
+        more than 10 years in Shuangyushu, a community of Haidian District,
+        Beijing. It depicts the stories of ordinary Chinese people struggling in
+        the metropolis.</image:caption
+      >
+      <image:title>Beijing Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

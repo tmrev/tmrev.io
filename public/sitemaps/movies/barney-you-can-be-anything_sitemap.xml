@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370959-Barney: You Can Be Anything</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370959-Barney: You Can Be Anything</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v88eLvmoAVV1sO7xkSPOiOlrqyf.jpg</image:loc
+      >
+      <image:caption
+        >What do you want to be when you grow up? Join Barney and his friends as
+        they look through Barney's costume shop and try on a few jobs for size.
+        Just imagine and you can be ANYTHING!</image:caption
+      >
+      <image:title>Barney: You Can Be Anything</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/880588-Asleep at the Wheel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/880588-Asleep at the Wheel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Using found footage of road trips from the 60's, Maryniuk has crafted a
+        psychedelic tribute piece to a friend who passed away in a car accident.
+        Maryniuk's techniques included hole punching and reassembling,
+        bleaching, painting, scratch animation and boiling the
+        film.</image:caption
+      >
+      <image:title>Asleep at the Wheel</image:title>
+    </image:image>
+  </url>
+</urlset>

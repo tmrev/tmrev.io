@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1786-Au Revoir les Enfants</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1786-Au Revoir les Enfants</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iAODM20kMpA63USxAvt7gRd8Oha.jpg</image:loc
+      >
+      <image:caption
+        >Au revoir les enfants tells a heartbreaking story of friendship and
+        devastating loss concerning two boys living in Nazi-occupied France. At
+        a provincial Catholic boarding school, the precocious youths enjoy true
+        camaraderie—until a secret is revealed. Based on events from
+        writer-director Malle’s own childhood, the film is a subtle, precisely
+        observed tale of courage, cowardice, and tragic
+        awakening.</image:caption
+      >
+      <image:title>Au Revoir les Enfants</image:title>
+    </image:image>
+  </url>
+</urlset>

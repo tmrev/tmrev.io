@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/755529-Battle Of The Bulge: Winter War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/755529-Battle Of The Bulge: Winter War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/em2NY3recLURRJ4d6QuXGNN5H2a.jpg</image:loc
+      >
+      <image:caption
+        >Lt. Robert Cappa and his platoon of 2nd Infantry Division soldiers must
+        defend a vital supply depot from being captured by attacking German
+        soldiers.</image:caption
+      >
+      <image:title>Battle Of The Bulge: Winter War</image:title>
+    </image:image>
+  </url>
+</urlset>

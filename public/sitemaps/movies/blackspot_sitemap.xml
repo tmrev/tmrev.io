@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361763-Blackspot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361763-Blackspot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h9xwfJih2yMi1qAbzzJKrNHowdh.jpg</image:loc
+      >
+      <image:caption
+        >Two young men travelling the dark roads of New Zealand, have their
+        friendship pushed to the limit when their car breaks down, stranding
+        them in the middle of nowhere. A desolate rural road is the last place
+        one would expect to find chaos, but this is no ordinary night. Trapped
+        in increasingly hostile surroundings with no means of escape, the
+        friends are forced to put their lives in each other's hands. As a
+        haunting memory is slowly re-counted, each must come face to face with a
+        chilling truth.</image:caption
+      >
+      <image:title>Blackspot</image:title>
+    </image:image>
+  </url>
+</urlset>

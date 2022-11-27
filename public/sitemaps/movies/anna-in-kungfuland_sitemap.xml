@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45413-Anna in Kungfu-land</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45413-Anna in Kungfu-land</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eJIFvkWayZwleGs4D9XFriNsP0k.jpg</image:loc
+      >
+      <image:caption
+        >Miriam Yeung plays a half-Chinese who represents her father (a Shaolin
+        monk who defected to Japan after falling in love with a Japanese) at a
+        martial arts tournament. What she really wants is to experience first
+        love (with Ekin Cheng, a marketing executive) and become a movie star.
+        Both which are fulfilled in her stay in Hong Kong.</image:caption
+      >
+      <image:title>Anna in Kungfu-land</image:title>
+    </image:image>
+  </url>
+</urlset>

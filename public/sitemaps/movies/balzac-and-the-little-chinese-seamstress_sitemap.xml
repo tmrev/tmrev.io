@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/2111-Balzac and the Little Chinese Seamstress</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/2111-Balzac and the Little Chinese Seamstress</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/boIPnACAr2J29oLanoAuMjmQP8i.jpg</image:loc
+      >
+      <image:caption
+        >During the Cultural Revolution, two young men are sent to a remote
+        mining village where they fall in love with the local tailor’s beautiful
+        granddaughter and discover a suitcase full of forbidden Western
+        novels.</image:caption
+      >
+      <image:title>Balzac and the Little Chinese Seamstress</image:title>
+    </image:image>
+  </url>
+</urlset>

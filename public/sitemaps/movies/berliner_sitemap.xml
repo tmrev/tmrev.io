@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/938055-Berliner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/938055-Berliner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f8sDkYCylEmFihHjtPhxDxtBeM7.jpg</image:loc
+      >
+      <image:caption
+        >First they were called 'Guest-workers', then, foreigners and now
+        'Allah's Daughters Without Rights'. BERLINER is a documentary film that
+        exposes assumptions about, and issues for, women of Turkish background
+        living in Berlin: navigating wearing (or not wearing) the headscarf, a
+        classist education system and sensationalist media stories about their
+        lives. BERLINER explores the lives of first, second and third generation
+        women and their real struggles, as Muslims, and as part of the largest
+        minority group in Berlin: post-war, post-Wall and post
+        9/11.</image:caption
+      >
+      <image:title>Berliner</image:title>
+    </image:image>
+  </url>
+</urlset>

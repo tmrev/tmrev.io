@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259409-Aziz's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259409-Aziz's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eUcrKVfT8PlnXUVvaRUBYYKao2I.jpg</image:loc
+      >
+      <image:caption
+        >A businessman named Aziz who faces different incidents that turn his
+        life upside down when his dead father appeared to him in a
+        dream</image:caption
+      >
+      <image:title>Aziz's Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

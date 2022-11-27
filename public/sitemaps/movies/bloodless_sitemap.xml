@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259828-Bloodless</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259828-Bloodless</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A bus drives 5 young couples to an old castle in an unknown location.
+        They have responded to an advert looking for people to take part in a
+        30-day medical trial. The company running the experiment, led by the
+        co-ordinator, explains there will be no contact with the outside world.
+        The group are free to leave at any time, but if they do, they will
+        forfeit their fee: £20,000 per couple. Mysterious, unexplained events
+        occur around the castle and strange noises are heard in the middle of
+        the night. At first the group are skeptical – they think the company is
+        creating the illusion of a “haunting” to test their reactions, until it
+        is revealed there is something more sinister involved.</image:caption
+      >
+      <image:title>Bloodless</image:title>
+    </image:image>
+  </url>
+</urlset>

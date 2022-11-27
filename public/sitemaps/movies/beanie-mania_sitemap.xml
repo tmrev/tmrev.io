@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/916613-Beanie Mania</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/916613-Beanie Mania</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rCJq1GMW1UVk7HYu03Vbv2hY89y.jpg</image:loc
+      >
+      <image:caption
+        >An eye-opening deep-dive into the world of Beanie Babies, charting the
+        origins of a frenzy that helped make Ty Warner’s plush toys the biggest
+        fad of the 1990s.</image:caption
+      >
+      <image:title>Beanie Mania</image:title>
+    </image:image>
+  </url>
+</urlset>

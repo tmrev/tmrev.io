@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61718-Bad Day to Go Fishing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61718-Bad Day to Go Fishing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lQJCrr6ypVgHdCQYI9BBPq2GHvN.jpg</image:loc
+      >
+      <image:caption
+        >Jacob van Oppen, the former strongest man on earth, and his manager
+        Orsini, who calls himself "the Prince", make a good living by traveling
+        around small South American towns and organizing wrestling exhibitions.
+        Arriving in Santa Maria, they are met with uncommon enthusiasm, the
+        local newspaper wants to sponsor the fight, helping hands placard the
+        town with posters, and an open call is made for a worthy adversary. Ever
+        so resourceful, Orsini knows how to find the right combatant, but
+        fishing in Santa Maria could lead to a bigger catch than he'd hoped
+        for.</image:caption
+      >
+      <image:title>Bad Day to Go Fishing</image:title>
+    </image:image>
+  </url>
+</urlset>

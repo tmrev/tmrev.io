@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/721048-Bell Bottom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/721048-Bell Bottom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aSY5LBwNdpMReaZjGBbcB1kvrHU.jpg</image:loc
+      >
+      <image:caption
+        >By the early ‘80s, India had already witnessed multiple airplane
+        hijacks. In 1984, the country was made to face another such challenge.
+        BellBottom, a RAW Agent, sees through the plan and thus begins India's
+        first overseas covert operation. An operation, lead by a forgotten hero,
+        that went on to create one of the most defining moments for
+        India.</image:caption
+      >
+      <image:title>Bell Bottom</image:title>
+    </image:image>
+  </url>
+</urlset>

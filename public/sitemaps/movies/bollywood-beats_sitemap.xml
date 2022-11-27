@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/208136-Bollywood Beats</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/208136-Bollywood Beats</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/liFWb8ChMBbBdloLcIXIejC3RcM.jpg</image:loc
+      >
+      <image:caption
+        >Raj is a down-on-his-luck dancer who is fighting to hold his life
+        together. After starting up a dance class, he finds new hope with his
+        students but soon must choose between them and a chance of a
+        lifetime.</image:caption
+      >
+      <image:title>Bollywood Beats</image:title>
+    </image:image>
+  </url>
+</urlset>

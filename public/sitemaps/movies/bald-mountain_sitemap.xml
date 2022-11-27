@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228148-Bald Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228148-Bald Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7YYBj1EsTBdqAkGhmbRmFKtB6Ma.jpg</image:loc
+      >
+      <image:caption
+        >In 1980, best friends Juliano and Joaquin join the gold rush at Serra
+        Pelada, Bald Mountain, a mountain town near the mighty Amazon river. As
+        the town grows in numbers, it also sees an explosion in violent crime
+        and pollution. Soon the friends' dreams of hitting the jack pot are
+        shattered. Winner of the 2014 Cinema Brazil Grand Prize.</image:caption
+      >
+      <image:title>Bald Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

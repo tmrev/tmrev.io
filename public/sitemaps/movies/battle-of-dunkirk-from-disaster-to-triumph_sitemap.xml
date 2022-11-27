@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/917901-Battle of Dunkirk: From Disaster to
+      Triumph</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/917901-Battle of Dunkirk: From Disaster to
+      Triumph</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z4DVd4z1vuQRpdXj9GI7aXuIpbY.jpg</image:loc
+      >
+      <image:caption
+        >Relive the bravery of the Dunkirk veterans in defenseless boats
+        crossing the English Channel to rescue the stranded soldiers from the
+        inferno through their uplifting stories of heroism in a battle that
+        changed the course of WWII.</image:caption
+      >
+      <image:title>Battle of Dunkirk: From Disaster to Triumph</image:title>
+    </image:image>
+  </url>
+</urlset>

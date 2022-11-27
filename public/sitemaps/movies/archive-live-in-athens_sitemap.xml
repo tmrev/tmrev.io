@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100261-Archive - Live in Athens</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100261-Archive - Live in Athens</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1tEOi6I1pXKH5CmGcebVwHYb3sQ.jpg</image:loc
+      >
+      <image:caption
+        >1.Lights 2.Pills 3.Sane 4.Finding It So Hard 5.Razed To The Ground
+        6.Collapse/Collide 7.Bastardised Ink 8.Fuck U 9.Kings Of Speed 10.Lines
+        11.Blood In Numbers 12.You Make Me Feel 13.Dangervisit 14.Words On Signs
+        15.Londinium 16.Bullets 17.Again</image:caption
+      >
+      <image:title>Archive - Live in Athens</image:title>
+    </image:image>
+  </url>
+</urlset>

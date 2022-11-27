@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/670477-Basta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/670477-Basta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A small boy and his retarded brother are completely dominated by their
+        old, grumpy, angry mother. She swears, beats and doesn't seem to know
+        how to prepare a proper meal anymore. Her embittered attitude is the
+        result of the great emptiness she feels since her only successful son
+        left to join the army. From that day on the two other sons have to cope
+        with this enraged mother. Every evening dinner consist of the same
+        boring, sticky spaghetti. Luckily the youngest son made up an ingenious
+        plan to change all this for ever.</image:caption
+      >
+      <image:title>Basta</image:title>
+    </image:image>
+  </url>
+</urlset>

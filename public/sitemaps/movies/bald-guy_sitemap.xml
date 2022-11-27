@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335707-Bald Guy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335707-Bald Guy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m1o0FsiUrg3SyKgVYOTlJGbxrlY.jpg</image:loc
+      >
+      <image:caption
+        >When a teenager comes home and tells his parents he kissed a bald man,
+        his parents have reservations and a discussion ensues in
+        song.</image:caption
+      >
+      <image:title>Bald Guy</image:title>
+    </image:image>
+  </url>
+</urlset>

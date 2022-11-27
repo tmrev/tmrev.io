@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475354-Blitzeis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475354-Blitzeis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1L5KyvFcD5mFGRpjRbeIKBXVj52.jpg</image:loc
+      >
+      <image:caption
+        >Andreas is a journalist covering a story on Larissa, a patient with
+        tuberculosis. At the hospital he meets a nurse called Yvonne. The
+        encounter with the two women moves Andreas more than he wishes to admit.
+        A short film about luck and its inevitable slipping away.</image:caption
+      >
+      <image:title>Blitzeis</image:title>
+    </image:image>
+  </url>
+</urlset>

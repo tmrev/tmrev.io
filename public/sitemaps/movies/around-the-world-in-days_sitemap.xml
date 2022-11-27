@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/753601-Around the World in 80 Days</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/753601-Around the World in 80 Days</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pWPTnHtvlmggjGonie1VZNKViLV.jpg</image:loc
+      >
+      <image:caption
+        >Passepartout is a young and scholarly marmoset who always dreams of
+        becoming an explorer. One day, he crosses paths with Phileas, a reckless
+        and greedy frog, eager to take on a bet to circumnavigate the globe in
+        80 days and earn 10 million clams in the process. Seizing the
+        opportunity of a lifetime to explore the world, Passepartout embarks
+        with his new friend on a crazy and exhilarating adventure full of twists
+        and surprises.</image:caption
+      >
+      <image:title>Around the World in 80 Days</image:title>
+    </image:image>
+  </url>
+</urlset>

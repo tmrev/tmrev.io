@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41416-Au Revoir Taipei</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41416-Au Revoir Taipei</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/odQHzqbg9ibrSluvYC67IWn5Pgl.jpg</image:loc
+      >
+      <image:caption
+        >Kai (Jack Yao), who works at his parent's noodle shop by day and spends
+        his nights in a bookstore to learn French, decides to go to Paris after
+        his girlfriend, who recently left for Paris, dumps him by phone. Then
+        the local neighborhood mafia boss offers Kai a free plane ticket to
+        Paris if he takes a mysterious package with him.</image:caption
+      >
+      <image:title>Au Revoir Taipei</image:title>
+    </image:image>
+  </url>
+</urlset>

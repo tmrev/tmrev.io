@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/264491-Beautiful Young Minds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/264491-Beautiful Young Minds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/utySEzy1FXMZtPhvpNWJC4rwH7p.jpg</image:loc
+      >
+      <image:caption
+        >This BAFTA nominated documentary tells the story of some of the
+        brightest mathematical brains of a generation. Each year, exceptionally
+        gifted teenagers from over 90 countries compete for medals at the
+        International Mathematical Olympiad. The film follows a group of
+        brilliant teenagers as they battle it out to become the chosen six
+        selected to represent the UK.</image:caption
+      >
+      <image:title>Beautiful Young Minds</image:title>
+    </image:image>
+  </url>
+</urlset>

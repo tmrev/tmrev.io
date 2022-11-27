@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/631058-Boogie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/631058-Boogie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n5xmNu7Lb4IqOahsE8K6W8xBTC7.jpg</image:loc
+      >
+      <image:caption
+        >Alfred “Boogie” Chin is a basketball phenom living in Queens, New York,
+        who dreams of one day playing in the NBA. While his parents pressure him
+        to focus on earning a scholarship to an elite college, Boogie must find
+        a way to navigate a new girlfriend, high school, on-court rivals and the
+        burden of expectation.</image:caption
+      >
+      <image:title>Boogie</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/345571-Bella Mia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/345571-Bella Mia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nxUymZjkpGiaRpSsC9EJwczqafK.jpg</image:loc
+      >
+      <image:caption
+        >Due to suspicion of BSE (mad cow disease), a herd of cows from a small
+        farmstead is sentenced to be killed. The animals' revolt and try to
+        escape. People try to hunt them down but the herd, led by Bella, manages
+        to protect itself. Further failures of people increase their
+        aggressiveness. The escalating battle has little in common with the
+        original veterinary prevention. However, there are also people who try
+        to help the cows, who desire nothing more than free life in the great
+        outdoors, even if they are also forced to learn how to live and survive
+        without anybody to feed them, milk them or fill them up with medicine.
+        They learn all about hunger, cold, deprivation and pain. And the loss of
+        loved ones...</image:caption
+      >
+      <image:title>Bella Mia</image:title>
+    </image:image>
+  </url>
+</urlset>

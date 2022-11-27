@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/59867-Bloodstained Memoirs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/59867-Bloodstained Memoirs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wmujD8g2MfNYDd4ZXdg1oEYiV6E.jpg</image:loc
+      >
+      <image:caption
+        >Bloodstained Memoirs is a professional wrestling documentary released
+        in 2009. It is compiled by interviews featuring wrestlers synonymous
+        with different eras in wrestling ('70s, '80s, '90s, and '00s) and
+        different wrestling regions (USA, Canada, Japan, and Mexico). Production
+        was filmed in the UK, USA, France, Japan, and Italy.</image:caption
+      >
+      <image:title>Bloodstained Memoirs</image:title>
+    </image:image>
+  </url>
+</urlset>

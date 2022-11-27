@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505179-Between Land and Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505179-Between Land and Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xJWDaT2I0KM7Su25mE6uBYTRlXc.jpg</image:loc
+      >
+      <image:caption
+        >Against the backdrop of Ireland’s stunning west coast, this film digs
+        deep into the day to day lives of the surf community, taking the
+        audience beyond the bluster of the typical adrenaline fueled film to
+        create a very real portrait of those who choose the surf
+        lifestyle.</image:caption
+      >
+      <image:title>Between Land and Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

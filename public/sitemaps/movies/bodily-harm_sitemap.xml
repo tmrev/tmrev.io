@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/803529-Bodily Harm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/803529-Bodily Harm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oAOxlUnOxWL479fOP2UsrFFLe2y.jpg</image:loc
+      >
+      <image:caption
+        >Mitchel, a mild-mannered suburban stockbroker spirals out of control
+        after losing his job, finding his wife in flagrante with a sleazy
+        neighbour, and discovering his dad is dying of cancer, all on the eve of
+        his 44th birthday.</image:caption
+      >
+      <image:title>Bodily Harm</image:title>
+    </image:image>
+  </url>
+</urlset>

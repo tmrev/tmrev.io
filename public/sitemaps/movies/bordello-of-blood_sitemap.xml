@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9431-Bordello of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9431-Bordello of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hOpYJoAuEmYBbRWpdWP8iRxl30b.jpg</image:loc
+      >
+      <image:caption
+        >Private eye Rafe Guttman is hired by repressed, born-again Katherine to
+        find her missing bad-boy brother. The trail leads him to a whorehouse
+        run by a thousand-year-old vampire and secretly backed by Katherine's
+        boss, televangelist Jimmy Current.</image:caption
+      >
+      <image:title>Bordello of Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

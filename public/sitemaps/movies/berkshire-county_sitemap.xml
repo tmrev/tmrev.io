@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298653-Berkshire County</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298653-Berkshire County</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mz3YkitirfSSh0A0U0VW2O7BlhD.jpg</image:loc
+      >
+      <image:caption
+        >Kylie Winters, a bullied and self-loathing teen, reluctantly agrees to
+        babysit at an isolated country mansion on Halloween night. When a small
+        boy in a pig mask appears at the door trick-or-treating, Kylie's night
+        transforms into a horrifying and violent cat-and-mouse game. She must go
+        beyond what she ever thought possible if she and the children are to
+        survive the night.</image:caption
+      >
+      <image:title>Berkshire County</image:title>
+    </image:image>
+  </url>
+</urlset>

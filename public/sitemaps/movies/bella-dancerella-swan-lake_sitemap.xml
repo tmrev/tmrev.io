@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52292-Bella Dancerella - Swan Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52292-Bella Dancerella - Swan Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Join Bella on an enchanting Swan Lake Journey! Like a beautiful swan in
+        a magical pond, come with bella dancerella and dance along! Learning the
+        basic of ballet is fun and easy!</image:caption
+      >
+      <image:title>Bella Dancerella - Swan Lake</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58788-Attack of the Sabretooth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58788-Attack of the Sabretooth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e5aPu73Zn9uDeQ2Tvg54BiXhtit.jpg</image:loc
+      >
+      <image:caption
+        >In the Fiji islands, the greedy and unscrupulous owner of the Valalola
+        Resort Primal Park invites investors and guests for an opening party of
+        his compound composed of hotel and zoo aiming to find partners for his
+        discoveries. When a bunch of college smalltime thieves puts a virus in
+        the security system to participate in a scavenger hunt, the greatest
+        attractions of the zoo - sabretoothes from the prehistoric age developed
+        from DNA found in fossils - escape, killing the hosts and guards for
+        fun.</image:caption
+      >
+      <image:title>Attack of the Sabretooth</image:title>
+    </image:image>
+  </url>
+</urlset>

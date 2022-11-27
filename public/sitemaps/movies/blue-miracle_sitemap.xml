@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/671295-Blue Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/671295-Blue Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg</image:loc
+      >
+      <image:caption
+        >To save their cash-strapped orphanage, a guardian and his kids partner
+        with a washed-up boat captain for a chance to win a lucrative fishing
+        competition.</image:caption
+      >
+      <image:title>Blue Miracle</image:title>
+    </image:image>
+  </url>
+</urlset>

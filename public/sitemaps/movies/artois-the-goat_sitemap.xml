@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51290-Artois the Goat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51290-Artois the Goat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sEbGrJx2Y7OCb0Fs9iup6k2rBKa.jpg</image:loc
+      >
+      <image:caption
+        >Lab technician Virgil Gurdies struggles to choose between his truelove
+        Angie and his newfound quest to create the greatest goat cheese the
+        world has ever known.</image:caption
+      >
+      <image:title>Artois the Goat</image:title>
+    </image:image>
+  </url>
+</urlset>

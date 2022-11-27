@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/471254-Anote's Ark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/471254-Anote's Ark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7jl9Vy9ZmP5MQ6iaJr1oHwVuXr6.jpg</image:loc
+      >
+      <image:caption
+        >How does a nation survive being swallowed by the sea? Kiribati, on a
+        low-lying Pacific atoll, will disappear within decades due to rising sea
+        levels, population growth, and climate change. This exploration of how
+        to migrate an entire nation with dignity interweaves personal stories of
+        survival and resilience.</image:caption
+      >
+      <image:title>Anote's Ark</image:title>
+    </image:image>
+  </url>
+</urlset>

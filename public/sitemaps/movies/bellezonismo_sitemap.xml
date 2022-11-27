@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/608726-Bellezonismo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/608726-Bellezonismo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dBgsoKRBq53dF4udLP1kzFYQUoZ.jpg</image:loc
+      >
+      <image:caption
+        >Socrates and Capi are two car drivers who are in a rally competition.
+        Unexpectedly, the couple gets lost and ends up in a clearing in the
+        middle of a mountain. Far from being depopulated, that location turns
+        out to be perfect for a Beauty Technification Center, a place where you
+        look to perfect the physique.</image:caption
+      >
+      <image:title>Bellezonismo</image:title>
+    </image:image>
+  </url>
+</urlset>

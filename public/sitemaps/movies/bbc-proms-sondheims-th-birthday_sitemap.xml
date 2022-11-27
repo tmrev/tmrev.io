@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336504-BBC Proms: Sondheim's 80th Birthday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336504-BBC Proms: Sondheim's 80th Birthday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ci5gjApnZv0BxQXPR4wW3WQ8Jho.jpg</image:loc
+      >
+      <image:caption
+        >Marking the 80th birthday of one of Broadway's great innovators, the
+        first ever all-Sondheim Prom at the Royal Albert Hall. The concert
+        includes excerpts from hit shows A Little Night Music, Sweeney Todd and
+        Into the Woods performed by a starry cast of leading figures of the
+        opera and theatre worlds with Bryn Terfel, Maria Friedman, Simon Russell
+        Beale and some special guests. Also on stage is the BBC Concert
+        Orchestra conducted by David Charles Abel. Introduced by Katie
+        Derham.</image:caption
+      >
+      <image:title>BBC Proms: Sondheim's 80th Birthday</image:title>
+    </image:image>
+  </url>
+</urlset>

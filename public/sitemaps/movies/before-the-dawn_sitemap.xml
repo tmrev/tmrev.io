@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1037063-Before the Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1037063-Before the Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/79BuBcYfnrPLd1XTQtrdobFN04O.jpg</image:loc
+      >
+      <image:caption
+        >A cheating girlfriend (Woman in the Car) runs away with the money
+        stolen by his boyfriend and unknowingly leaves a highly confidential
+        information contained CD behind to him. When her boyfriend (Man) sees
+        the contents of the CD, he turns to his journalist ex-girlfriend (Woman)
+        to report on it. But they are unaware of the danger about to
+        ensue.</image:caption
+      >
+      <image:title>Before the Dawn</image:title>
+    </image:image>
+  </url>
+</urlset>

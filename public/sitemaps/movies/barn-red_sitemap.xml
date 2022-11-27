@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/305933-Barn Red</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/305933-Barn Red</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/leRfcy5hBnFFFW7RZuWQNsyhnIP.jpg</image:loc
+      >
+      <image:caption
+        >An elderly farmer finds out that he owes a huge inheritance tax. Land
+        developers show up to offer him a predatory deal. His neighbors are
+        having similar problems. That's when an old acquaintance of his arrives
+        for a visit and lends a hand.</image:caption
+      >
+      <image:title>Barn Red</image:title>
+    </image:image>
+  </url>
+</urlset>

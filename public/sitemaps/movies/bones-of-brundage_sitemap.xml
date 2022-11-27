@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662159-Bones of Brundage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662159-Bones of Brundage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uvUvskBDGSSUzC60Fibrx870qqs.jpg</image:loc
+      >
+      <image:caption
+        >A gritty, DIY Documentary chronicling the underground Punk Rock and
+        Heavy Metal music scene of Bakersfield, Ca from the 1970s - 2000's.
+        Including tons of archival footage and frank and sometimes outrageous
+        interviews with the musicians, fans and freaks who made the small,
+        isolated music scene so surprisingly diverse.</image:caption
+      >
+      <image:title>Bones of Brundage</image:title>
+    </image:image>
+  </url>
+</urlset>

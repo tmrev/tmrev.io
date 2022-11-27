@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/533137-Armenian Haunting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/533137-Armenian Haunting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kzhko7n2CmNcKGr85jNoY1RxYXN.jpg</image:loc
+      >
+      <image:caption
+        >An Armenian-American journalist turns into an unwilling ghost hunter
+        while researching the sudden deaths in her family and their connection
+        to a paranormal mystery.</image:caption
+      >
+      <image:title>Armenian Haunting</image:title>
+    </image:image>
+  </url>
+</urlset>

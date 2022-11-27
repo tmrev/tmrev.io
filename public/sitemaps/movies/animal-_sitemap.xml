@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13202-Animal 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13202-Animal 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/18qUe5ONoyIVtO3eShRRqVouvoP.jpg</image:loc
+      >
+      <image:caption
+        >Now serving a life sentence for murder, James "Animal" Allen returns to
+        fighting for cash in order to help his troubled son on the outside.
+        However, with his newfound fame as a fighter, Animal uncovers a
+        jailhouse conspiracy that threatens to cause racial tensions to
+        explode.</image:caption
+      >
+      <image:title>Animal 2</image:title>
+    </image:image>
+  </url>
+</urlset>

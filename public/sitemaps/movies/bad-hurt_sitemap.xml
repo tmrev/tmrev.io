@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333089-Bad Hurt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333089-Bad Hurt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/77Cea2Hdjmncy1BSre1lkCo2098.jpg</image:loc
+      >
+      <image:caption
+        >Elaine and Ed Kendall have more than their share of grief and
+        suffering. Once a young couple in love they now struggle for a sense of
+        stability in their Staten Island home. Their eldest son is suffering
+        from the physical and psychological effects of war; his younger brother
+        takes it upon himself to bring him peace and relief. Meanwhile, their
+        special needs daughter brings another kind of chaos to the family. Even
+        though Ed and Elaine explore options for her care, they’re really just
+        hanging on to hope that things improve somehow.</image:caption
+      >
+      <image:title>Bad Hurt</image:title>
+    </image:image>
+  </url>
+</urlset>

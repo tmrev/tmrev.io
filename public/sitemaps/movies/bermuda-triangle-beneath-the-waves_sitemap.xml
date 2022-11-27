@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189350-Bermuda Triangle: Beneath the Waves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189350-Bermuda Triangle: Beneath the Waves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tmdhHiwyw7cipPgQT0tOQYGgxRc.jpg</image:loc
+      >
+      <image:caption
+        >Professor Bruce Denardo attempts to prove whether there is any truth
+        behind the legend of the Bermuda Triangle, where many ships and planes
+        have disappeared in mysterious circumstances. New investigation
+        techniques reveal the truth behind the infamous disappearance of Flight
+        19. Graham Hawkes is also able to reveal, by using a state-of-the-art
+        submarine, how five wrecks mysteriously wound up 730 feet down in the
+        heart of the Bermuda Triangle.</image:caption
+      >
+      <image:title>Bermuda Triangle: Beneath the Waves</image:title>
+    </image:image>
+  </url>
+</urlset>

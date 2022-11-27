@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300900-Ardennes Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300900-Ardennes Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qo8gDYuVRTZv749iC6ucpuZDKd8.jpg</image:loc
+      >
+      <image:caption
+        >As the Battle of the Bulge rages on, an American tank unit gets trapped
+        behind Nazi lines. With just hours before the bombs of Operation
+        Ardennes Fury fall, the tank's commander makes the risky decision to
+        rescue an orphanage.</image:caption
+      >
+      <image:title>Ardennes Fury</image:title>
+    </image:image>
+  </url>
+</urlset>

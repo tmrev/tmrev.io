@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/928894-Bink & Gollie: Two for One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/928894-Bink & Gollie: Two for One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1z8UJv5Vqeq2TYPQW5BGdAq4EOl.jpg</image:loc
+      >
+      <image:caption
+        >The fair is in town and these two very different girls - but best
+        friends extraordinaire- use teamwork to navigate its many
+        wonders.</image:caption
+      >
+      <image:title>Bink & Gollie: Two for One</image:title>
+    </image:image>
+  </url>
+</urlset>

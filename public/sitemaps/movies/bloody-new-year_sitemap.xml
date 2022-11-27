@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30478-Bloody New Year</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30478-Bloody New Year</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pwpBJfpleWiWBvXbPKQX7Y5mmEC.jpg</image:loc
+      >
+      <image:caption
+        >Six shipwrecked English teenagers take refuge in an island hotel that
+        is decorated for New Years. The problem is, it's early summer, and soon
+        enough, even the walls themselves are striking out against
+        them…</image:caption
+      >
+      <image:title>Bloody New Year</image:title>
+    </image:image>
+  </url>
+</urlset>

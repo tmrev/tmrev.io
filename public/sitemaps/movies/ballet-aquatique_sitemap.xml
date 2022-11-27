@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/164926-Ballet aquatique</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/164926-Ballet aquatique</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ir0XoNgpyEJXTq8tgTNFVR7kH3j.jpg</image:loc
+      >
+      <image:caption
+        >In one of his very last projects, Raul Ruiz celebrates the films of his
+        historical predecessor Jean Painlevé, a documentary innovator whose work
+        always blended science with surrealism. Ruiz and friends further perfect
+        the art of mystification. Why it is so difficult to count fish in an
+        aquarium? Ruiz, his loyal actor Melvil Poupaud and his producer François
+        Margolin come up with a wide range of hypotheses. With their bone-dry
+        wit, they keep up the tradition of the French pataphysics: the science
+        of imaginary solutions. (IFFR)</image:caption
+      >
+      <image:title>Ballet aquatique</image:title>
+    </image:image>
+  </url>
+</urlset>

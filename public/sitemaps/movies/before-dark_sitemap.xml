@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/714953-Before Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/714953-Before Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ihiWGr9i1D7uapnY6mCcE9Y1QyV.jpg</image:loc
+      >
+      <image:caption
+        >Olaf, an engineering student, lives with his father Vincent. Once a
+        renowned architect, now suffering from early Alzheimer’s disease. Olaf
+        is struggling, because he wants to keep seeing Vincent as the man who
+        knows everything. In the run-up to the birthday party Olaf organises for
+        his dad, their surroundings grow darker; a concrete wall casts a shadow
+        over their house from the garden and Vincent’s condition is
+        deteriorating. Olaf will have to realise that living together in the
+        present is more valuable than persistently clinging on to what used to
+        be.</image:caption
+      >
+      <image:title>Before Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

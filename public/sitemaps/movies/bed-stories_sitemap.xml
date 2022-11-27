@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490876-Bed Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490876-Bed Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4RyThZbmaMiOL0nALYlLxmj3Ehn.jpg</image:loc
+      >
+      <image:caption
+        >Seven interconnecting stories that take place in Russian bedrooms.
+        These include a son visiting his complaining bedridden mother, a
+        middle-aged couple bickering, one soldier bullying another in an army
+        barracks, a rich childless housewife picking up the soldier for rough
+        sex while her husband has a tryst with another man arranged by computer,
+        and a wife who asks to be handcuffed to her bed while being videotaped
+        by her lover.</image:caption
+      >
+      <image:title>Bed Stories</image:title>
+    </image:image>
+  </url>
+</urlset>

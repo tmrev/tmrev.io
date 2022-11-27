@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44833-Battleship</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44833-Battleship</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mXb3hot6ZW4hMfpZSK7UtD70WgM.jpg</image:loc
+      >
+      <image:caption
+        >When mankind beams a radio signal into space, a reply comes from
+        ‘Planet G’, in the form of several alien crafts that splash down in the
+        waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned
+        to the USS John Paul Jones, part of an international naval coalition
+        which becomes the world's last hope for survival as they engage the
+        hostile alien force of unimaginable strength. While taking on the
+        invaders, Hopper must also try to live up to the potential that his
+        brother, and his fiancée's father—an Admiral—expect of
+        him.</image:caption
+      >
+      <image:title>Battleship</image:title>
+    </image:image>
+  </url>
+</urlset>

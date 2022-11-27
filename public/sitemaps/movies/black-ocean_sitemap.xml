@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65868-Black Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65868-Black Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bJyo1wxU3JsPGJT1Ciblxq4fNrf.jpg</image:loc
+      >
+      <image:caption
+        >Though its aftertitles detailing the history of French nuke experiments
+        suggest otherwise, writer/director Marion Hänsel’s Black Ocean is not a
+        political treatise or a history lesson, instead taking advantage of the
+        remote, isolated environments in which the experimentation took place –
+        as well as the monumental imagery of the act itself – in order to
+        communicate a more universal story about the power of awe. Ocean
+        principally follows three young sailors on a French naval vessel in
+        1972, who are on course for an unknown destination in order to help
+        carry out the bomb tests they’ve yet to personally witness. The film is
+        essentially divided into two parts: before and after the
+        blast.</image:caption
+      >
+      <image:title>Black Ocean</image:title>
+    </image:image>
+  </url>
+</urlset>

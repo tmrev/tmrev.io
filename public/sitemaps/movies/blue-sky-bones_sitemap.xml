@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/237811-Blue Sky Bones</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/237811-Blue Sky Bones</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pEFJozXiGGOtQk65wkf4w9LT0Dm.jpg</image:loc
+      >
+      <image:caption
+        >An unhappy love story under the Cultural Revolution in China seen from
+        the son who was born from that romance - who is now a Chinese rock
+        star</image:caption
+      >
+      <image:title>Blue Sky Bones</image:title>
+    </image:image>
+  </url>
+</urlset>

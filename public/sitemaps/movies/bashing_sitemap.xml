@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39798-Bashing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39798-Bashing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/46L4jESVZPPmvhNOj4DqQ11U0Jt.jpg</image:loc
+      >
+      <image:caption
+        >Yuko is a Japanese girl who was taken hostage in Iraq while
+        volunteering there as an aid worker. Finally released and back in her
+        hometown, Yuko finds herself ostracized as a national disgrace by
+        society that sees her helping a country other than Japan, and the
+        embarrassment of getting captured but not killed, as things of which to
+        be brutally ashamed.</image:caption
+      >
+      <image:title>Bashing</image:title>
+    </image:image>
+  </url>
+</urlset>

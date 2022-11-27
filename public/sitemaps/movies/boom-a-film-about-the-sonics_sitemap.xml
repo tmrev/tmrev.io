@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/543972-BOOM! A Film About the Sonics</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/543972-BOOM! A Film About the Sonics</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3TaIuDMm5eyBchR3Vc3fQl9Tbqa.jpg</image:loc
+      >
+      <image:caption
+        >The untold story of one of rock 'n' roll's wildest and most influential
+        bands, The Sonics. For the first time ever, all five original members of
+        the band tell the story of how it all went down, beginning to end.
+        Explore how a relatively unknown band from the Pacific Northwest became
+        a worldwide phenomenon 50-years after their heyday, and in doing so,
+        shaped music for decades to come.</image:caption
+      >
+      <image:title>BOOM! A Film About the Sonics</image:title>
+    </image:image>
+  </url>
+</urlset>

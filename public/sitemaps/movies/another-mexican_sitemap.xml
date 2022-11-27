@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228168-Another Mexican</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228168-Another Mexican</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/otks71nqWwmyNlSBJtD8rZl18Zo.jpg</image:loc
+      >
+      <image:caption
+        >Antonio (Ricky Mergold) is a 16 year old boy from a village in the
+        Mexican province, living the awakening of consciousness with the
+        intensity of the contradictions that surround him: a dogmatic religion,
+        mediocre educational institutions, corrupt politicians an a society full
+        of conformity. His life changes when a young teacher with a genuine
+        desire to teach their students comes to the town, a guide that
+        encourages them to live with dignity and to be critical of the world
+        around them. This story is full of drama and misadventures, which
+        Antonio lives without proper orientation and promiscuity.</image:caption
+      >
+      <image:title>Another Mexican</image:title>
+    </image:image>
+  </url>
+</urlset>

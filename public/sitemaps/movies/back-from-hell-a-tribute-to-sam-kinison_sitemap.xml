@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/124804-Back From Hell: A Tribute to Sam
+      Kinison</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/124804-Back From Hell: A Tribute to Sam
+      Kinison</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cjMHpTmwJ42K9ik7gCL1uqkrCXq.jpg</image:loc
+      >
+      <image:caption>Tribute to comedy great Sam Kinison</image:caption>
+      <image:title>Back From Hell: A Tribute to Sam Kinison</image:title>
+    </image:image>
+  </url>
+</urlset>

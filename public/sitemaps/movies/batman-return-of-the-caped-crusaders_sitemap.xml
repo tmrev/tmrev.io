@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/411736-Batman: Return of the Caped Crusaders</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/411736-Batman: Return of the Caped Crusaders</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tHVnZuvVPeg6cVufF4hcNtCJsJK.jpg</image:loc
+      >
+      <image:caption
+        >Adam West and Burt Ward returns to their iconic roles of Batman and
+        Robin. The film sees the superheroes going up against classic villains
+        like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham
+        City… and in space.</image:caption
+      >
+      <image:title>Batman: Return of the Caped Crusaders</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333088-Applesauce</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333088-Applesauce</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7wwsxlSZTCK9OOtcCLcopiWB3PK.jpg</image:loc
+      >
+      <image:caption
+        >Every Tuesday night, radio talk show host Stevie Bricks invites his
+        listeners to call in and share their stories. When one night he asks
+        people to share the worst thing they’ve ever done, high school teacher
+        Ron Welz can't resist. Big mistake—what he reveals sets off a chain of
+        hilariously uncontrollable events adversely affecting his marriage and
+        another couple. And when someone starts sending him body parts, his life
+        really begins to fall apart. Who is tormenting him? An insolent high
+        school student? His best friend? His wife? There are over eight million
+        people in the Naked City, and everyone's a suspect.</image:caption
+      >
+      <image:title>Applesauce</image:title>
+    </image:image>
+  </url>
+</urlset>

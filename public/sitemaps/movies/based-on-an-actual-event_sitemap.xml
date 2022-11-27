@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/730463-Based on an Actual Event</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/730463-Based on an Actual Event</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A three-channel video installation about the fictional portrayal of
+        American military forces in 20th century war. While each film simulates
+        an actual event, each new war simulates previous wars as shown in
+        popular films. Conceptions of war become reality through the depiction
+        of war as entertainment.</image:caption
+      >
+      <image:title>Based on an Actual Event</image:title>
+    </image:image>
+  </url>
+</urlset>

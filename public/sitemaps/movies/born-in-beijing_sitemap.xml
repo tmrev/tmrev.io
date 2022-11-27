@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/518659-Born in Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/518659-Born in Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zip5SQnK90358JeYiYAV6zo4Ttj.jpg</image:loc
+      >
+      <image:caption
+        >Born in Beijing tells the story of 'petitioners': citizens who feel
+        themselves wrongfully treated by the local authorities and seek
+        settlement in the capital. There are thought to be more than 100,000
+        petitioners in Beijing. These people, harassed by 'interceptors', brave
+        terrible conditions in their battle against injustice and
+        corruption.</image:caption
+      >
+      <image:title>Born in Beijing</image:title>
+    </image:image>
+  </url>
+</urlset>

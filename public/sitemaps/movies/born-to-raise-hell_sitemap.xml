@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46103-Born to Raise Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46103-Born to Raise Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/arH52UwfIEKuzUR0qZrm2E1r0Rh.jpg</image:loc
+      >
+      <image:caption
+        >A hard core Interpol Agent is assigned to an Eastern European task
+        force to target gun trafficking and dope running throughout the Balkans.
+        While investigating a Russian gun dealer, his team is caught in a bloody
+        street war between a Gypsy gang and the Russians, leaving one task force
+        member dead. Fueled with vengeance, he leads us on an action packed
+        thrill ride while avenging his friend's death.</image:caption
+      >
+      <image:title>Born to Raise Hell</image:title>
+    </image:image>
+  </url>
+</urlset>

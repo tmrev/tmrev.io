@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268945-Armynel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268945-Armynel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n6mjuZlCpYB2zka60mAzXHg0Xi6.jpg</image:loc
+      >
+      <image:caption
+        >When suppressed memories of an abusive childhood begin to surface, a
+        door is opened that was better left closed.</image:caption
+      >
+      <image:title>Armynel</image:title>
+    </image:image>
+  </url>
+</urlset>

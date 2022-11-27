@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15421-Becket</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15421-Becket</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8DkTQItgPL9LHQsK5BJiYHnUZ3W.jpg</image:loc
+      >
+      <image:caption
+        >King Henry II of England has trouble with the Church. When the
+        Archbishop of Canterbury dies, he has a brilliant idea. Rather than
+        appoint another pious cleric loyal to Rome and the Church, he will
+        appoint his old drinking and wenching buddy, Thomas Becket, technically
+        a deacon of the church, to the post. Unfortunately, Becket takes the job
+        seriously and provides abler opposition to Henry.</image:caption
+      >
+      <image:title>Becket</image:title>
+    </image:image>
+  </url>
+</urlset>

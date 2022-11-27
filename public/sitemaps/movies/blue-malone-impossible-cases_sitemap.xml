@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749435-Blue & Malone: Impossible Cases</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749435-Blue & Malone: Impossible Cases</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kfnuAz9WuXbLgb6cNfeKuuaGwZB.jpg</image:loc
+      >
+      <image:caption
+        >On the eve of its demolition, Berta visits the old theater where her
+        grandmother used to work. She finds out that it's not completely
+        abandoned - Mortando Malone and Big Blue Cat, her old imaginary friends,
+        are there to help her solve an impossible case: recapture her capacity
+        to dream.</image:caption
+      >
+      <image:title>Blue & Malone: Impossible Cases</image:title>
+    </image:image>
+  </url>
+</urlset>

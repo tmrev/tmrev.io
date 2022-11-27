@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/16962-Barbie Fairytopia: Magic of the Rainbow</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/16962-Barbie Fairytopia: Magic of the Rainbow</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nJmIZo7qX4iTACcBJdKh3qJ2Tyh.jpg</image:loc
+      >
+      <image:caption
+        >Elina goes to a fairy school to learn dancing and fairy magic. The
+        spring of the fairy land is soon threatened by evil Laverna who intends
+        to prevent fairies from performing the annual vital rainbow dance. Elina
+        must stop quarreling with her fellow students and unite them to save the
+        first bud of the spring.</image:caption
+      >
+      <image:title>Barbie Fairytopia: Magic of the Rainbow</image:title>
+    </image:image>
+  </url>
+</urlset>

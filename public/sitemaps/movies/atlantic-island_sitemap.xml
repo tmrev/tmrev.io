@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/225030-Atlantic Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/225030-Atlantic Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Several boys aged seven to fourteen, have formed their own secret
+        support group as a result of parental neglect and abuse. The group is
+        however more keen on revenge against the adults on their island. They
+        break into houses and steal items, not for money, more for the thrill.
+        They vandalize homes and torment the occupants. One man decides to seize
+        the opportunity to do away with his wife and blame it on the
+        intruders.</image:caption
+      >
+      <image:title>Atlantic Island</image:title>
+    </image:image>
+  </url>
+</urlset>

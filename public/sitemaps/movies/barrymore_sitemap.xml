@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/137464-Barrymore</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/137464-Barrymore</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aptu5eEkBl8y7Dfn6hN4n3ULuCg.jpg</image:loc
+      >
+      <image:caption
+        >As John Barrymore reckons with the ravages of his life of excess, he
+        rents an old theatre to rehearse for a backer's audition to raise money
+        for a revival of his 1920 Broadway triumph in Richard
+        III.</image:caption
+      >
+      <image:title>Barrymore</image:title>
+    </image:image>
+  </url>
+</urlset>

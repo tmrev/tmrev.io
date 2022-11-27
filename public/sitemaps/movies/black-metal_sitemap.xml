@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159820-Black Metal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159820-Black Metal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A2roZxY6r9vS1PL54pKDM4yji5c.jpg</image:loc
+      >
+      <image:caption
+        >After a career spent mining his music from the shadows, one fan creates
+        a chain reaction for the lead singer of a black metal
+        band.</image:caption
+      >
+      <image:title>Black Metal</image:title>
+    </image:image>
+  </url>
+</urlset>

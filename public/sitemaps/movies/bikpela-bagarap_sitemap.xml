@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/959840-Bikpela Bagarap</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/959840-Bikpela Bagarap</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Bikpela Bagarap (Big Damage) reveals the human face of logging in Papua
+        New Guinea. It is a tale of exploitation and broken promises, where
+        local people are treated as second-rate citizens in their own country by
+        Malaysian logging companies and corrupt politicians.</image:caption
+      >
+      <image:title>Bikpela Bagarap</image:title>
+    </image:image>
+  </url>
+</urlset>

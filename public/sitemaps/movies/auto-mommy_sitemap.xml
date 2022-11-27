@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1001461-Auto Mommy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1001461-Auto Mommy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ekOSZmjzz6woeMaIhMn1b3K3r9t.jpg</image:loc
+      >
+      <image:caption
+        >Parents who don't want to take care of their child leave parenting to
+        the mail ordered robot "Auto Mommy" and allow their child to be raised
+        in isolation. One day, they take a look at the monitor to check the
+        child, and then they see the child wearing dog skin and hiding his face.
+        This is not good, the parents think, because they can't send the child
+        to school like this. So they make Auto Mommy peel the dog skin off the
+        child, only to find that the child became a plant without a human
+        face.</image:caption
+      >
+      <image:title>Auto Mommy</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/751496-Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/751496-Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ala49VxcJmyDdNOCNg9PWfrxTWu.jpg</image:loc
+      >
+      <image:caption
+        >A young drug addict who has lost touch with her rich family hits rock
+        bottom when she sells her new-born baby to child traffickers. She soon
+        regrets her decision and finds the courage and strength to get him back.
+        To do so, she must follow a trail into the woods and find an eerie house
+        where the old lady she met, her albino servant and a girl with a strange
+        gait, all live together. Nothing could have prepared her for the horror
+        she is about to discover.</image:caption
+      >
+      <image:title>Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

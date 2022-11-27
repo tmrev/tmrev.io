@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/816912-Blue, Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/816912-Blue, Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b6CtAvw6tEtzlhczOXToptQMYKQ.jpg</image:loc
+      >
+      <image:caption
+        >Nami lost his parents at a young age and later lost his grandfather who
+        raised him. Nami closed off his heart from the world, only holding on to
+        the words of his grandfather. Nami then meets Shimura and Nagaoka, who
+        change his view on both the world and friendship. As a last memory of
+        high school, the three of them go on a hitchhiking trip to northern
+        Japan and have an unforgettable time.</image:caption
+      >
+      <image:title>Blue, Forest</image:title>
+    </image:image>
+  </url>
+</urlset>

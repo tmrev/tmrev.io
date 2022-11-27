@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36857-Bacterium</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36857-Bacterium</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AabGbVMBNUcOX7iLPYauD0DgZnY.jpg</image:loc
+      >
+      <image:caption
+        >A madman unleashes a biological weapon powerful enough to wipe out life
+        on earth in this apocalyptic horror story. As the flesh-eating bacteria
+        spreads, people drop like flies and a top secret military team is called
+        in to stop the outbreak. But the maniac may just succeed: By the time
+        the experts are called in, the contagion has taken on a life of its own.
+        Alison Whitney, Benjamin Kanes, Miya Sagara and Andrew Kranz
+        star.</image:caption
+      >
+      <image:title>Bacterium</image:title>
+    </image:image>
+  </url>
+</urlset>

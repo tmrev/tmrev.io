@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/899996-Bloodtraffick</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/899996-Bloodtraffick</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kbvZTV2DZ5P2OmwNn1gPstxileA.jpg</image:loc
+      >
+      <image:caption
+        >In a world torn by a war between vampires and angels, a female
+        vigilante on the hunt for her missing sisters is lured into the den of a
+        vampire.</image:caption
+      >
+      <image:title>Bloodtraffick</image:title>
+    </image:image>
+  </url>
+</urlset>

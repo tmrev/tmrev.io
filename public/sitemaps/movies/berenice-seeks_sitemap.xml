@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478656-Berenice Seeks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478656-Berenice Seeks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1c0YeuLvKeK3si8q24f7UAY45Mz.jpg</image:loc
+      >
+      <image:caption
+        >Berenice is a dedicated female taxi driver in Rio de Janeiro. She is
+        consumed by her job and the little free time she has needs to be divided
+        between raising her son Thiago, a teenager exploring his sexuality, and
+        her troubled relationship with her husband Domingos, a police reporter.
+        The scars of the worn-out relationship, ruined by her husband's violent
+        outbursts, have erased her femininity and led her into a great
+        existential emptiness. The murder of Isabelle, a beautiful transgender
+        woman, on Copacabana Beach, ignites her investigative side and
+        transforms her life.</image:caption
+      >
+      <image:title>Berenice Seeks</image:title>
+    </image:image>
+  </url>
+</urlset>

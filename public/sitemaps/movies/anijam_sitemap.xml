@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295733-Anijam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295733-Anijam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The bizarre adventures of the cartoon character Foska, drawn by 22
+        animators working in collaboration. Each animator worked on his or her
+        own sequence only and did not know what action preceded or followed his
+        or her sequence, except that the first drawing of a sequence is the last
+        drawing from the previous sequence.</image:caption
+      >
+      <image:title>Anijam</image:title>
+    </image:image>
+  </url>
+</urlset>

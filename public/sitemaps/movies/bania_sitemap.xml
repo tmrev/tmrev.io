@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793645-Bania</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793645-Bania</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ktu9uboHVtpKHropT1AZtrQbyd.jpg</image:loc
+      >
+      <image:caption
+        >"Bania" is an exploration Russian society through its bath-houses in
+        the city, the countryside, in a monastery, a factory or a prison. The
+        film plays with the boundaries between personal and social space in
+        scenes where naked bodies, marked by tattoos, suffering, labour or war,
+        tell a tale. This film was made by a photographer who, confronted by
+        these naked bodies bathed in steam, invents an unique and timeless
+        plastic world, in the style of classical painting.</image:caption
+      >
+      <image:title>Bania</image:title>
+    </image:image>
+  </url>
+</urlset>

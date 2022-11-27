@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27018-Australian Rules</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27018-Australian Rules</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pCJJ9VYP83JKKaHziSoLielIA1Z.jpg</image:loc
+      >
+      <image:caption
+        >Friends Gary Black (Nathan Phillips) and Dumby Red (Luke Carroll) are
+        on the same football team in their coastal Australian town. But to local
+        racists, they're a world apart: Gary is white and Dumby is an Aborigine.
+        This becomes an issue when one of the team's Aboriginal players becomes
+        involved in a crime. In response, Dumby is demoted even though he's the
+        star player, and Gary is given his place. Will Gary have the courage to
+        speak out before tragedy results?</image:caption
+      >
+      <image:title>Australian Rules</image:title>
+    </image:image>
+  </url>
+</urlset>

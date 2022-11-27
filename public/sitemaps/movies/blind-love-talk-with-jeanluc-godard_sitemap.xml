@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/602835-Blind Love - Talk with Jean-Luc Godard</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/602835-Blind Love - Talk with Jean-Luc Godard</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8TPDC8mQpVzGqg0rkFOBp2joNDY.jpg</image:loc
+      >
+      <image:caption
+        >A talk with Alexander Kluge and Jean-Luc Godard.</image:caption
+      >
+      <image:title>Blind Love - Talk with Jean-Luc Godard</image:title>
+    </image:image>
+  </url>
+</urlset>

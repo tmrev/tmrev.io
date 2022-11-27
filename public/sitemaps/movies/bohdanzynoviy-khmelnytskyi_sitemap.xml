@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1009496-Bohdan-Zynoviy Khmelnytskyi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1009496-Bohdan-Zynoviy Khmelnytskyi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >One of the most difficult and tragic moments of the liberation war of
+        Ukrainian people against the rule of Poland (1648-1657).</image:caption
+      >
+      <image:title>Bohdan-Zynoviy Khmelnytskyi</image:title>
+    </image:image>
+  </url>
+</urlset>

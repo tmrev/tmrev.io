@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19026-Azur & Asmar: The Princes' Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19026-Azur & Asmar: The Princes' Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ezkzULav0JxvLS5JOnQcjbUmfWO.jpg</image:loc
+      >
+      <image:caption
+        >Raised on tales of a Djinn fairy princess, Azur, a young Frenchman goes
+        to North Africa in search of the sprite, only to discover that his close
+        childhood friend, Asmar, an Arab youth whose mother raised both boys
+        also seeks the genie.</image:caption
+      >
+      <image:title>Azur & Asmar: The Princes' Quest</image:title>
+    </image:image>
+  </url>
+</urlset>

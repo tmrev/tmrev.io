@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/477044-Bergman Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/477044-Bergman Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg</image:loc
+      >
+      <image:caption
+        >An English-German filmmaking couple retreat to Fårö for the summer to
+        each write screenplays for their upcoming films in an act of pilgrimage
+        to the place that inspired Ingmar Bergman. As the summer and their
+        screenplays advance, the lines between reality and fiction start to blur
+        against the backdrop of the Island's wild landscape.</image:caption
+      >
+      <image:title>Bergman Island</image:title>
+    </image:image>
+  </url>
+</urlset>

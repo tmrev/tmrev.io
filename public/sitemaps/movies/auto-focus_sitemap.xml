@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14112-Auto Focus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14112-Auto Focus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rgXN6YTZ0qvgVyZhojEtUwJDH0B.jpg</image:loc
+      >
+      <image:caption
+        >A successful TV star during the 1960s, former "Hogan's Heroes" actor
+        Bob Crane projects a wholesome family-man image, but this front masks
+        his persona as a sex addict who records and photographs his many
+        encounters with women, often with the help of his seedy friend, John
+        Henry Carpenter. This biographical drama reveals how Crane's double life
+        takes its toll on him and his family, and ultimately contributes to his
+        death.</image:caption
+      >
+      <image:title>Auto Focus</image:title>
+    </image:image>
+  </url>
+</urlset>

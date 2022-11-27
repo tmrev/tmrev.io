@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626013-Becoming Nobody</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626013-Becoming Nobody</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xwd42Eyb3iFVZDbPuDTkQk64UaR.jpg</image:loc
+      >
+      <image:caption
+        >The core arc of Ram Dass’ teachings and life: whether as Dr. Richard
+        Alpert, the eminent Harvard psychologist, or as Ram Dass who serves as a
+        bridge between Eastern and Western philosophies, he has defined a
+        generation of inner explorers and seekers of truth and
+        wisdom.</image:caption
+      >
+      <image:title>Becoming Nobody</image:title>
+    </image:image>
+  </url>
+</urlset>

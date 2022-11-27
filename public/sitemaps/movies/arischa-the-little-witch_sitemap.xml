@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/846106-Arischa the Little Witch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/846106-Arischa the Little Witch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p9LVpjDQjmIrkqIc0yVluR8G4Zx.jpg</image:loc
+      >
+      <image:caption
+        >Arischa and her pet raven's trip to get to her grandmother's house ends
+        up going awry when Heraldo the dwarf starts to encase the animals in
+        stone, while the rest of the animals try to help her stop him along with
+        freeing all the animals.</image:caption
+      >
+      <image:title>Arischa the Little Witch</image:title>
+    </image:image>
+  </url>
+</urlset>

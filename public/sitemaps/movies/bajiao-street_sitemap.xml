@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/719197-Bajiao Street</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/719197-Bajiao Street</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2CNAYvTA1faxaUg05lvxcInIHng.jpg</image:loc
+      >
+      <image:caption
+        >A documentary film showing the oldest street in Lhasa, Bajiao St., also
+        called Bakhor or Baghor), located in the town center. In the past,
+        Bajiao was only used as a ritual circumambulation route, "a saint road"
+        in the eyes of the Tibetans. Now it's developed into an old shopping
+        district with colorful Tibetan houses lining the street, and the ground
+        paved with man-made flagstones, preserving its ancient look. The film
+        also shows the social conditions, customs, and spirtual lives of the
+        Tibetan inhabitants.</image:caption
+      >
+      <image:title>Bajiao Street</image:title>
+    </image:image>
+  </url>
+</urlset>

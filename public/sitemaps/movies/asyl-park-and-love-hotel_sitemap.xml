@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/86674-Asyl: Park and Love Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/86674-Asyl: Park and Love Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8KAgoOwi3KVtp8pwnmtsfoQSkEh.jpg</image:loc
+      >
+      <image:caption
+        >There is an old love hotel in Tokyo's Shinjuku district where couples
+        can rent a room by the hour for romantic assignations. However, few of
+        its regular customers seem to come there for sexual encounters; the
+        hotel has become a hangout for rootless teenagers, senior citizens
+        looking for a place to relax, and kids that play under the watchful eye
+        of its owner...</image:caption
+      >
+      <image:title>Asyl: Park and Love Hotel</image:title>
+    </image:image>
+  </url>
+</urlset>

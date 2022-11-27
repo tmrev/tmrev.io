@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/522140-Beate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/522140-Beate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hvRsZ3fx41kylj7jGMkOM9NFrmJ.jpg</image:loc
+      >
+      <image:caption
+        >In the northeast of Italy, the workers of a lingerie factory are about
+        to be fired. Not far away, a handful of nuns, skilled in the art of
+        embroidery and devoted to the Blessed Armida, risk being removed from
+        their beloved convent. To oppose a destiny already marked, workers and
+        nuns join forces and start a "business" outside the rules in the hopes
+        that a miracle will help them keep the convent and the
+        factory.</image:caption
+      >
+      <image:title>Beate</image:title>
+    </image:image>
+  </url>
+</urlset>

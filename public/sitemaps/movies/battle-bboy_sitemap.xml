@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/169556-Battle B-Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/169556-Battle B-Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iaqnM1C9IBrIPgEMfGTuDUtmKiv.jpg</image:loc
+      >
+      <image:caption
+        >Directed by Frank Lin this movie tells the story of a group of talented
+        but financially struggling B-Boys that join an underground fighting ring
+        in Downtown Los Angeles that uses Hip-Hop music and Break dancing to
+        battle for money. To save the life of one of their friend's father, the
+        B-Boys form a strong bond. They fight for each other, for their families
+        and for a better future.</image:caption
+      >
+      <image:title>Battle B-Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

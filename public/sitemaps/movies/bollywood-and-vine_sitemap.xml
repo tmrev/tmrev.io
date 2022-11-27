@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136859-Bollywood and Vine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136859-Bollywood and Vine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9yNIPz4AEiXiJv1Pc3G0LBXo9e5.jpg</image:loc
+      >
+      <image:caption
+        >An Indian tour bus driver in Hollywood gets more than he bargained for
+        when he writes a comeback vehicle for his idol, reclusive actress
+        Delilah Leigh.</image:caption
+      >
+      <image:title>Bollywood and Vine</image:title>
+    </image:image>
+  </url>
+</urlset>

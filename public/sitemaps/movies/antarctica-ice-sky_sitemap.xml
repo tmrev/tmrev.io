@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/338273-Antarctica: Ice & Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/338273-Antarctica: Ice & Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tCj1CCoow4ylrEC2XBlyKhCu9w6.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about the work of Claude Lorius, who began studying
+        Antarctic ice in 1957, and, in 1965, was the first scientist to be
+        concerned about global warming.</image:caption
+      >
+      <image:title>Antarctica: Ice & Sky</image:title>
+    </image:image>
+  </url>
+</urlset>

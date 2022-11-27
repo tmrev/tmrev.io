@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44032-Bending The Rules</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44032-Bending The Rules</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wm4nEaTcOXwVlh3OAeSFkhqtP6o.jpg</image:loc
+      >
+      <image:caption
+        >Detective Nick Blades is a New Orleans cop on trial for corruption.
+        Assistant District Attorney Theo Gold is the man in charge of putting
+        him behind bars. When these two unlikely partners from opposite sides of
+        the law stumble onto a criminal plot, they’ll need to rely on luck – and
+        patience – to take down a dangerous killer without killing each other
+        first.</image:caption
+      >
+      <image:title>Bending The Rules</image:title>
+    </image:image>
+  </url>
+</urlset>

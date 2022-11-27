@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1032131-Art and Oligarchs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1032131-Art and Oligarchs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A popular trend among Russian oligarchs is to purchase works of art.
+        Why? It's a way to get into the Kremlin's good graces, to gild their
+        image…and to cover up the origin of their fortunes, often acquired in
+        the shadow of post-Soviet power. Following a group of newly-minted
+        collectors as they attempt to follow in the steps of well-known
+        collectors of the early 20th-century, Tania Rakhmanov's powerful
+        documentary Art and Oligarchs depicts a Russia where art, easy money,
+        and an authoritarian state co-exist.</image:caption
+      >
+      <image:title>Art and Oligarchs</image:title>
+    </image:image>
+  </url>
+</urlset>

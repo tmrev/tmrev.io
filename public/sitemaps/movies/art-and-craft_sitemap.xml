@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/265929-Art and Craft</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/265929-Art and Craft</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/btMgA6RKOXWq5HaUjz00PJ6Nh2m.jpg</image:loc
+      >
+      <image:caption
+        >For several decades, gifted and incredibly prolific forger Mark Landis
+        compulsively created impeccable copies of works by a variety of major
+        artists, donating them to institutions across the country and landing
+        pieces on many of their walls. ART AND CRAFT brings us into the
+        cluttered and insular life of an unforgettable character just as he
+        finds his foil in an equally obsessive art registrar.</image:caption
+      >
+      <image:title>Art and Craft</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19566-Autism: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19566-Autism: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9cTBDFfmXlmx7djNAns9VC9si0Y.jpg</image:loc
+      >
+      <image:caption
+        >Follows five autistic children as they work together to create and
+        perform a live musical production.</image:caption
+      >
+      <image:title>Autism: The Musical</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655087-Baby in a Manger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655087-Baby in a Manger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yBopdmqIyzguyLqd9FBvnG8q3e0.jpg</image:loc
+      >
+      <image:caption
+        >With the help of a handsome young police officer, a social worker
+        searches for the mother of a baby she has found abandoned in a nativity
+        scene at her church.</image:caption
+      >
+      <image:title>Baby in a Manger</image:title>
+    </image:image>
+  </url>
+</urlset>

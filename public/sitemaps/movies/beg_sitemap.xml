@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28521-Beg</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28521-Beg</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hZMlTOflL2vOGFQSgZN2lX4T8Ol.jpg</image:loc
+      >
+      <image:caption
+        >Jack Fox, a burnt out detective, is being forced into early retirement,
+        as the worst serial killer since the Boston Strangler begins a killing
+        spree through the streets of Salem. When detective Steve Ryan moves to
+        town with his family, Jack is torn between a life of retirement and
+        sanity or helping rookie detective Ryan in his quest to solve these
+        killings that are haunting the people of Salem.</image:caption
+      >
+      <image:title>Beg</image:title>
+    </image:image>
+  </url>
+</urlset>

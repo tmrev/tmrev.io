@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370926-Asham</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370926-Asham</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/djoHQpvYcyGbA1q6vwK1Tmgv9sD.jpg</image:loc
+      >
+      <image:caption
+        >Set against the backdrop of the unrest during the pre-revolution period
+        of January 25, 2011, by following the stories of six relationships in
+        different stages that express ambition, happiness and disappointments,
+        that are connected with Asham , a street vendor, who expresses optimism
+        about Egypt's future.</image:caption
+      >
+      <image:title>Asham</image:title>
+    </image:image>
+  </url>
+</urlset>

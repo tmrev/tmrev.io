@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/575848-Berlin Bouncer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/575848-Berlin Bouncer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/woBlfYZdP4BnQspcU5HzktFlipD.jpg</image:loc
+      >
+      <image:caption
+        >A portrait of Berlin’s most famous bouncers – Sven Marquardt, Frank
+        Künster and Smiley Baldwin. The three men have been part and parcel of
+        the capital’s club scene for more than 25 years – from the days after
+        the fall of the Berlin Wall to the present day – but aren’t yet
+        considering calling it a day even though life makes more demands on them
+        as they turn 50.</image:caption
+      >
+      <image:title>Berlin Bouncer</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272822-Back on Board: Greg Louganis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272822-Back on Board: Greg Louganis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x6EgyHWKsCOmvtu0HIvv0eyFGP.jpg</image:loc
+      >
+      <image:caption
+        >Feature-length documentary about the greatest diver of all time.
+        Four-time Olympic champion Greg Louganis has faced more than his share
+        of challenges. In 2011, he is far from the public eye and struggling to
+        pay his mortgage. Now, the openly gay, HIV+ world-class athlete returns
+        to diving to mentor the USA Olympic hopefuls. This may be his best
+        chance to regain the notoriety -- and financial stability -- he enjoyed
+        at the height of his career.</image:caption
+      >
+      <image:title>Back on Board: Greg Louganis</image:title>
+    </image:image>
+  </url>
+</urlset>

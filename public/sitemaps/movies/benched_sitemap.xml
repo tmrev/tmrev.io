@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/529694-Benched</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/529694-Benched</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lw8p6onVjgDIAnLiutqNk8j37Iy.jpg</image:loc
+      >
+      <image:caption
+        >Legendary baseball coach, Don, gets inexperienced Michael as his new
+        assistant coach. As their lives dramatically change, the coaches must
+        come together to help their team win.</image:caption
+      >
+      <image:title>Benched</image:title>
+    </image:image>
+  </url>
+</urlset>

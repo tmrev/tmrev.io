@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/663432-Blind Eyes Opened</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/663432-Blind Eyes Opened</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7mL8GWmPP0i6OBsxKrTIfxjXBGw.jpg</image:loc
+      >
+      <image:caption
+        >A Christian documentary diving into the sex trafficking industry in the
+        US exposing the darkness that fuels demand, highlighting survivors'
+        transformations through Christ, and showing Christ as the hope for all
+        involved.</image:caption
+      >
+      <image:title>Blind Eyes Opened</image:title>
+    </image:image>
+  </url>
+</urlset>

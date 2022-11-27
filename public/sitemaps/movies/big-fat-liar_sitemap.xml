@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11870-Big Fat Liar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11870-Big Fat Liar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k1MkctTLNWthU2AUlX4qOCNBlPc.jpg</image:loc
+      >
+      <image:caption
+        >After one of his class papers is stolen and turned into a movie, a
+        young student and his best friend exact a hilarious, slapstick revenge
+        on the Hollywood hot shot who has taken credit!</image:caption
+      >
+      <image:title>Big Fat Liar</image:title>
+    </image:image>
+  </url>
+</urlset>

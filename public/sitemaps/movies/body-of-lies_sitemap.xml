@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12113-Body of Lies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12113-Body of Lies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg</image:loc
+      >
+      <image:caption
+        >The CIA’s hunt is on for the mastermind of a wave of terrorist attacks.
+        Roger Ferris is the agency’s man on the ground, moving from place to
+        place, scrambling to stay ahead of ever-shifting events. An eye in the
+        sky – a satellite link – watches Ferris. At the other end of that
+        real-time link is the CIA’s Ed Hoffman, strategizing events from
+        thousands of miles away. And as Ferris nears the target, he discovers
+        trust can be just as dangerous as it is necessary for
+        survival.</image:caption
+      >
+      <image:title>Body of Lies</image:title>
+    </image:image>
+  </url>
+</urlset>

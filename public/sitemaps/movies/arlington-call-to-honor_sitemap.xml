@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749593-Arlington Call to Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749593-Arlington Call to Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lNnWmpeGWpyDLwjimOayiCC6Tc0.jpg</image:loc
+      >
+      <image:caption
+        >Every graveyard tells a story, but few can talk to the living like
+        Arlington National Cemetery. Visit the final home of war heroes from the
+        Revolutionary War to 9/11 to the current struggle in Iraq. The American
+        flag flies at half-staff more often than not as more than twenty-seven
+        burials take place daily. Each section of the cemetery reflects a time
+        in history, and each stone signifies a hero.</image:caption
+      >
+      <image:title>Arlington Call to Honor</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/326009-Bizarre Friends of Ricardinho</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/326009-Bizarre Friends of Ricardinho</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fUGrY5GcQqHHFhJTuv6YVgDwXQy.jpg</image:loc
+      >
+      <image:caption
+        >A weird trainee. A stifling job. In the midst of corporate oppression,
+        a worker passively fights back with stories from home.</image:caption
+      >
+      <image:title>Bizarre Friends of Ricardinho</image:title>
+    </image:image>
+  </url>
+</urlset>

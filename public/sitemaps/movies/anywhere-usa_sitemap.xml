@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84367-Anywhere USA</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84367-Anywhere USA</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A series of three vignettes illustrate life in small-town America: the
+        story of a man, his ex-girlfriend, and his attempt to foil a terrorist
+        plot; an uncle trying to connect with his niece, who is emotionally
+        distance following the death of her parents; and a wealthy man who
+        realizes he has no black friends, and looks to rectify the
+        situation.</image:caption
+      >
+      <image:title>Anywhere USA</image:title>
+    </image:image>
+  </url>
+</urlset>

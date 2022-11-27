@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/838723-Aya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/838723-Aya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AeZ39HcsGWdBCTZBqfl0qDLXcpd.jpg</image:loc
+      >
+      <image:caption
+        >Aya grows up with her mother on the island of Lahou. Joyful and
+        carefree, she likes to pick coconuts and sleep on the sand. However, her
+        paradise is doomed to disappear under the waters. As the waves threaten
+        her house, Aya makes a choice: the sea can rise, but she will not leave
+        her island.</image:caption
+      >
+      <image:title>Aya</image:title>
+    </image:image>
+  </url>
+</urlset>

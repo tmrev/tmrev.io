@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/540007-At The Maple Grove</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/540007-At The Maple Grove</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yQWOdBSClhPwOOxpc74ieUqSLWm.jpg</image:loc
+      >
+      <image:caption
+        >Driven by a desire to live forever through cinema, aspiring filmmaker
+        Nathaniel Heaton sets out to fuse his life into the narrative of a movie
+        in this film-within-a-film. Both a dreamer and a romantic, Heaton
+        escapes his estranged relationships, professional failures, and concerns
+        of mortality by retreating more and more into the world of the movie
+        that exists in his imagination... a world where gangsters close in and a
+        struggling old nightclub prepares for what may be its final
+        show.</image:caption
+      >
+      <image:title>At The Maple Grove</image:title>
+    </image:image>
+  </url>
+</urlset>

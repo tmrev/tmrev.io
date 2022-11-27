@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/534490-Avengement</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/534490-Avengement</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg</image:loc
+      >
+      <image:caption
+        >While on a prison furlough, a lowly criminal evades his guards and
+        returns to his old stomping ground to take revenge on the people who
+        turned him into a cold blooded killer.</image:caption
+      >
+      <image:title>Avengement</image:title>
+    </image:image>
+  </url>
+</urlset>

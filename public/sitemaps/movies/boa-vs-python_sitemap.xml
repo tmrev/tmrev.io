@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36086-Boa vs. Python</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36086-Boa vs. Python</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6tckykOvjyXvemGMXTZZ4utWM0C.jpg</image:loc
+      >
+      <image:caption
+        >After an overly ambitious businessman transports an 80-foot python to
+        the United States, the beast escapes and starts to leave behind a trail
+        of human victims. An FBI agent and a snake specialist come up with a
+        plot to combat the creature by pitting it against a bioengineered,
+        70-foot boa constrictor. It's two great snakes that snake great
+        together!</image:caption
+      >
+      <image:title>Boa vs. Python</image:title>
+    </image:image>
+  </url>
+</urlset>

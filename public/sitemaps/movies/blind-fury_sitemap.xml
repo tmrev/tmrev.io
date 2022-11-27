@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19124-Blind Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19124-Blind Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g83u4sTERwj6bHo9Wv1wVtwV5iw.jpg</image:loc
+      >
+      <image:caption
+        >A blind Vietnam vet, trained as a swordfighter, comes to America and
+        helps to rescue the son of a fellow soldier.</image:caption
+      >
+      <image:title>Blind Fury</image:title>
+    </image:image>
+  </url>
+</urlset>

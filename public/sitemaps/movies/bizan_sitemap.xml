@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314142-Bizan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314142-Bizan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5XJFhoyINnNdduLTnFqlX0gD9zI.jpg</image:loc
+      >
+      <image:caption
+        >Sakiko, works independently at a travel agent in Tokyo. She was raised
+        by her mother, Tatsuko, is hospitalized, Sakiko returns to her hometown
+        Tokushima on Shikoku. The town is famous for its annual Awa Dance
+        Festival. She is told by doctor, Terasawa Daisuke, that her mother has
+        terminal cancer.</image:caption
+      >
+      <image:title>Bizan</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87425-Apart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87425-Apart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rxKKN76SNeeZtyln6eCV5fRF8go.jpg</image:loc
+      >
+      <image:caption
+        >Linked by a rare psychological disorder, Noah Greene and Emily Gates
+        must uncover the mystery of a tragic past in order to find hope for the
+        future.</image:caption
+      >
+      <image:title>Apart</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/896890-Bella and the Slasher</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/896890-Bella and the Slasher</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Fnxq6BrAhQgCpMsGYoaqi1KXvk.jpg</image:loc
+      >
+      <image:caption
+        >Bella is a girl that can't seem to fit in - but also doesn't want to.
+        In an attempt to connect with her shadowy past, she discovers the most
+        unusual type of friendship.</image:caption
+      >
+      <image:title>Bella and the Slasher</image:title>
+    </image:image>
+  </url>
+</urlset>

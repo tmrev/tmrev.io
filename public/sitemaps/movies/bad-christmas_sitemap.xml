@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/630520-Bad Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/630520-Bad Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bZrIS3l76RUTDKC8bugYfwJ1PlS.jpg</image:loc
+      >
+      <image:caption
+        >A peaceful Christmas Eve is interrupted when a thief breaks into a
+        villa. When the family’s little daughter mistakes him for Santa Claus
+        and asks him to fulfill her Christmas wish, he will be forced to perform
+        a miracle that will redeem secrets from the past.</image:caption
+      >
+      <image:title>Bad Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

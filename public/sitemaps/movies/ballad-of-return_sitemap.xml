@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/414424-Ballad of Return</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/414424-Ballad of Return</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AgzrJyvAbAGEt2xLXIhditfcuMs.jpg</image:loc
+      >
+      <image:caption
+        >One day, Eduardo arrives at his house and discovers that Julia, his
+        wife, tried to commit suicide. She left her husband and two children
+        without saying goodbye. After some time, she comes back home. He tries
+        everything to set her straight, but the impossibility of knowing her
+        fully grieves him. The shadow of the suicide and the inevitable ghost of
+        a new chance hover over their heads. Eduardo insists on understanding
+        his wife, but an increasing jealousy and an unexpected discovery of her
+        past torture him. He does not realize that, most of the time, the search
+        for control easily becomes an obsession.</image:caption
+      >
+      <image:title>Ballad of Return</image:title>
+    </image:image>
+  </url>
+</urlset>

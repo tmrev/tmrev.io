@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/846542-Annie Live!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/846542-Annie Live!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sVvCYvChT69s1r1kF3jOT0HCCM0.jpg</image:loc
+      >
+      <image:caption
+        >Annie, the beloved seven-time Tony Award-winning Broadway sensation,
+        comes to life like never before in a live musical event starring Harry
+        Connick, Jr., Nicole Scherzinger, Tituss Burgess, Megan Hilty and Taraji
+        P. Henson, with newcomer Celina Smith in the title role of Annie. The
+        iconic musical follows smart and spirited little orphan Annie, whose
+        whole life changes when larger-than-life billionaire Daddy Warbucks
+        takes her away from an orphanage run by the mean Miss Hannigan. One of
+        Broadway's all-time biggest hits, the stage production features such
+        popular songs as "Tomorrow" and "It's the Hard Knock Life," which are
+        adored by generations of audiences around the world.</image:caption
+      >
+      <image:title>Annie Live!</image:title>
+    </image:image>
+  </url>
+</urlset>

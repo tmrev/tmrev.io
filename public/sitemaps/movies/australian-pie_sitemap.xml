@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/270804-Australian Pie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/270804-Australian Pie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a7zQeImvghCaK8pzWuqqj1QfXgU.jpg</image:loc
+      >
+      <image:caption
+        >Coming of age is difficult for any young boy, but it is a little harder
+        for Jono Smith. His secret fetish for kitchen appliances has caused him
+        to lose his manhood in a flight of passion. Fortunately the recent death
+        of a porn star makes a transplant possible and with the help of his
+        crazy friends Jono just might get laid again.</image:caption
+      >
+      <image:title>Australian Pie</image:title>
+    </image:image>
+  </url>
+</urlset>

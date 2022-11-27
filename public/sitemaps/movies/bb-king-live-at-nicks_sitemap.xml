@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43991-B.B. King Live at Nick's</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43991-B.B. King Live at Nick's</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l9OfQtan8dVCjIw4jKyGSCTGvl1.jpg</image:loc
+      >
+      <image:caption
+        >This exciting concert, taped live at Nick's in uptown Dallas, BB King
+        gives a performance which proves we are watching a legend in
+        action...the unequivocal King of Blues! Includes The Thrill is Gone,
+        Everyday I Have the Blues, Better Not Look Down, Never Make Your Move
+        Too Soon, Sell My Monkey, Love Me Tender, Inflation Blues, There Must Be
+        a Better World Somewhere and Nightlife.</image:caption
+      >
+      <image:title>B.B. King Live at Nick's</image:title>
+    </image:image>
+  </url>
+</urlset>

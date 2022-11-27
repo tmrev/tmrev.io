@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429001-Bloody Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429001-Bloody Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Frederick R. Fridel re-edited his first two features, Axe (1974) and
+        Kidnapped Coed (1976) which both star Jack Canon, into a new movie that
+        has both of these characters linked by the fact that they are twin
+        brothers who were separated at birth having not known of the other's
+        existence who would go on to each commit a horrific criminal act on the
+        same date some 35 years later, and who's demise would bring them back
+        together.</image:caption
+      >
+      <image:title>Bloody Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

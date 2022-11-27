@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13785-Best in Show</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13785-Best in Show</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kVNaXzoX64YwLC99o4gXyKPnplS.jpg</image:loc
+      >
+      <image:caption
+        >The tension is palpable, the excitement is mounting and the heady scent
+        of competition is in the air as hundreds of eager contestants from
+        across America prepare to take part in what is undoubtedly one of the
+        greatest events of their lives -- the Mayflower Dog Show. The canine
+        contestants and their owners are as wondrously diverse as the great
+        country that has bred them.</image:caption
+      >
+      <image:title>Best in Show</image:title>
+    </image:image>
+  </url>
+</urlset>

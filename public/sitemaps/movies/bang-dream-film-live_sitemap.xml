@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/613199-BanG Dream! FILM LIVE</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/613199-BanG Dream! FILM LIVE</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1dhZvH7jBy1qGZx0ZXS82wfeceK.jpg</image:loc
+      >
+      <image:caption
+        >Five bands all have their sights set on stardom as they take the stage
+        in the first theatrical film of the Bang Dream series.</image:caption
+      >
+      <image:title>BanG Dream! FILM LIVE</image:title>
+    </image:image>
+  </url>
+</urlset>

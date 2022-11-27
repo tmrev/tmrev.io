@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46705-Blue Valentine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46705-Blue Valentine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg</image:loc
+      >
+      <image:caption
+        >Dean and Cindy live a quiet life in a modest neighborhood. They appear
+        to have the world at their feet at the outset of the relationship.
+        However, his lack of ambition and her retreat into self-absorption cause
+        potentially irreversible cracks in their marriage.</image:caption
+      >
+      <image:title>Blue Valentine</image:title>
+    </image:image>
+  </url>
+</urlset>

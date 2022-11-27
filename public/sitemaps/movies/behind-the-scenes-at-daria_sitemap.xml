@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/575508-Behind the Scenes at Daria</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/575508-Behind the Scenes at Daria</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sJAVATFswmDRnVa0wut05CRXC1B.jpg</image:loc
+      >
+      <image:caption
+        >Hosted by Janeane Garafalo, this made-for-TV documentary treats
+        animation fans to a behind-the-scenes look at the making of DARIA, the
+        spin-off from BEAVIS AND BUTT-HEAD about an intelligent teenage girl
+        surround by a world full of idiots. Features various interviews with the
+        cast and crew of the series who share insights into what goes into
+        making an episode.</image:caption
+      >
+      <image:title>Behind the Scenes at Daria</image:title>
+    </image:image>
+  </url>
+</urlset>

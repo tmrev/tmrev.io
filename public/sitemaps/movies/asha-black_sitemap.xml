@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301789-Asha Black</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301789-Asha Black</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ulCfHsiRJUwR3ZSow24Gaw6Lny.jpg</image:loc
+      >
+      <image:caption
+        >Five people get murdered in Malaysia and the cop who investigates the
+        crime finds out that they have a common Facebook friend — Asha Black.
+        Meanwhile, a young man from India comes to the country to meet Asha,
+        after she befriends him on Facebook.</image:caption
+      >
+      <image:title>Asha Black</image:title>
+    </image:image>
+  </url>
+</urlset>

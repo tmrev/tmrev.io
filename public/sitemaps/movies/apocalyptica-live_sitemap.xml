@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97407-Apocalyptica: Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97407-Apocalyptica: Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/si12Pq8uBQ8QSTcJzfxh4k1AF1o.jpg</image:loc
+      >
+      <image:caption
+        >Live is the first official Apocalyptica DVD which consists of a
+        recorded show in Munich, on the 24th of October, 2001. It only includes
+        tracks from the first 3 albums: Plays Metallica by Four Cellos,
+        Inquisition Symphony and Cult.</image:caption
+      >
+      <image:title>Apocalyptica: Live</image:title>
+    </image:image>
+  </url>
+</urlset>

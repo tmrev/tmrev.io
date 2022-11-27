@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/758703-Around the World in 20 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/758703-Around the World in 20 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/34RGV86lD3o9LUvouPqu2VtmCJa.jpg</image:loc
+      >
+      <image:caption
+        >To mark the twentieth anniversary of "Around the World in 80 Days" we
+        went back to Dubai and India to retrace our steps and to see if we could
+        find any of the crew of Al Shama. The result was a one-hour documentary
+        and an account of our return and a whole stack of new pictures. Now they
+        join all my other traveller's tales.</image:caption
+      >
+      <image:title>Around the World in 20 Years</image:title>
+    </image:image>
+  </url>
+</urlset>

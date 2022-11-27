@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22530-Bled</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22530-Bled</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/snwEsep12ZcaykPtboMsOie8bY.jpg</image:loc
+      >
+      <image:caption
+        >Sai, a young artist living in a downtown warehouse delves into an
+        ancient world of blood and lust. An enigmatic foreigner seduces her to
+        try a long forgotten drug making her the prey of a dimensional vampire
+        who needs her new found hunger for blood to cross over from his world to
+        hers.</image:caption
+      >
+      <image:title>Bled</image:title>
+    </image:image>
+  </url>
+</urlset>

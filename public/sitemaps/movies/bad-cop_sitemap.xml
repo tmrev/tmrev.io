@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67316-Bad Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67316-Bad Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yjjrgylUyDdY1i1gzAwshVh3wlQ.jpg</image:loc
+      >
+      <image:caption
+        >A cop Angel Almaraz saves the life of a local crime boss who, in
+        return, offers him a job as part of his security. Almaraz accepts but
+        soon has doubts.</image:caption
+      >
+      <image:title>Bad Cop</image:title>
+    </image:image>
+  </url>
+</urlset>

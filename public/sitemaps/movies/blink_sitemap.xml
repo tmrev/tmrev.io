@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/934707-Blink</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/934707-Blink</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i9d0SOdZMVrwH9zTBFY5yModuSQ.jpg</image:loc
+      >
+      <image:caption
+        >After being violently pushed from a window, Mary wakes up in the
+        hospital, almost completely paralyzed. Trapped inside the prison of her
+        own body, Mary's only way to communicate is by blinking her eyes. She
+        tries to warn the nurse that a sinister, inhuman force is trying to kill
+        her. But when strange things begin happening around her, she realizes it
+        may be too late to stop it.</image:caption
+      >
+      <image:title>Blink</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/406366-April elegy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/406366-April elegy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/17KZPH2o9DIybr34DpXwoZWVz3u.jpg</image:loc
+      >
+      <image:caption
+        >The poet Salvador Merlino didn’t live to see published April’s elegy,
+        his last book, as he died when it was still in the printing press. His
+        daughter Mary (72) and his son, Carlos (74), kept the parcels of copies
+        of their father’s book stashed away for 50 years, high up, on top of a
+        wardrobe. The curiosity of young Federico will force them to come face
+        to face with themselves.</image:caption
+      >
+      <image:title>April elegy</image:title>
+    </image:image>
+  </url>
+</urlset>

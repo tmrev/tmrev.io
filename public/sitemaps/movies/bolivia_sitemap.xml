@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49913-Bolivia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49913-Bolivia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hBqMklEq66l3bD48wS1izH4My1Y.jpg</image:loc
+      >
+      <image:caption
+        >A Bolivian immigrant working illegally as a cook in a small restaurant
+        in Buenos Aires suffers abuse and discrimination from its
+        customers.</image:caption
+      >
+      <image:title>Bolivia</image:title>
+    </image:image>
+  </url>
+</urlset>

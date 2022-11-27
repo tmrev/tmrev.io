@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79766-Because We Were Born</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79766-Because We Were Born</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Cocada and Nego are two boys in their early teens living in a small
+        town in Pernambouc, Brazil. Cocada and Nego are half-brothers who live
+        with their mother, stepfather and eight other siblings in a ramshackle
+        house where the children are often left to care for themselves as their
+        parents work. Filmmakers Jean-Pierre Duret and Andréa Santana spent some
+        time with Cocada and Nego, and Puisque nous sommes nés is a documentary
+        that offers a look at their lives as they struggle with poverty and
+        dream of a happier future.</image:caption
+      >
+      <image:title>Because We Were Born</image:title>
+    </image:image>
+  </url>
+</urlset>

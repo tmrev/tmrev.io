@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43092-Beat Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43092-Beat Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hCA0ecn9LjRWbXXu1E1jUIUi0JV.jpg</image:loc
+      >
+      <image:caption
+        >When her architect father brings home a much younger new wife,
+        rebellious and resentful teen Jenny goes to extreme lengths to sabotage
+        their relationship.</image:caption
+      >
+      <image:title>Beat Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

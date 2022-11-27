@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440790-Born to Be Free</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440790-Born to Be Free</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kRGz3cPvZ5P5gsQBLmIuNslssVB.jpg</image:loc
+      >
+      <image:caption
+        >BORN TO BE FREE is a revelatory investigation by three intrepid
+        free-diving journalists, Gaya, Tanya and Julia, into the global trade in
+        wild sea mammals. Their journey takes us to the most remote corners of
+        Russia and witnesses, for the very first time, the shocking treatment
+        that whales, dolphins and walruses are subjected to and discovers the
+        corruption at the heart of this cruel international
+        business.</image:caption
+      >
+      <image:title>Born to Be Free</image:title>
+    </image:image>
+  </url>
+</urlset>

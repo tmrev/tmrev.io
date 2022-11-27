@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/498907-Black Luck</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/498907-Black Luck</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cdShLRoyfmDi6xr1beYMm0zqusq.jpg</image:loc
+      >
+      <image:caption
+        >A hitman in hiding struggles to keep his monsters at bay when his dark
+        past comes calling. Some days your LUCK just goes BLACK.</image:caption
+      >
+      <image:title>Black Luck</image:title>
+    </image:image>
+  </url>
+</urlset>

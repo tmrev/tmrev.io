@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/284727-Bernard Allison: Kentucky Fried Blues</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/284727-Bernard Allison: Kentucky Fried Blues</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Critics seldom agree upon anything so much as they do with Bernard
+        Allison. The son of the blues legend Luther Allison is regarded as one
+        of the most important and creative representatives of 21st century
+        blues. This live concert was recorded in August 1999 at the W.C. Handy
+        Festival in Henderson, Kentucky.</image:caption
+      >
+      <image:title>Bernard Allison: Kentucky Fried Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

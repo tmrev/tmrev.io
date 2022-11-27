@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/729839-Ballbuster</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/729839-Ballbuster</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oiYwG57GcZKuX9RoKILlJq4qM77.jpg</image:loc
+      >
+      <image:caption
+        >An entitled Basketball star is forced during suspension to tour with a
+        dismal charity league. In the process he has the most bizarre on the
+        road experiences in the history of the game, in the end discovers what
+        is truly important in life.</image:caption
+      >
+      <image:title>Ballbuster</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/706862-Annabellum - The Curse of Salem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/706862-Annabellum - The Curse of Salem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9cMiaJOtIorpr0IiQPyTlb9tYVk.jpg</image:loc
+      >
+      <image:caption
+        >In the form of an old doll a vengeful witches curse from 1692 Salem is
+        released upon a family trapped in a historic English
+        mansion.</image:caption
+      >
+      <image:title>Annabellum - The Curse of Salem</image:title>
+    </image:image>
+  </url>
+</urlset>

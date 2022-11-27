@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/469302-Avatharam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/469302-Avatharam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xuCzUUWvjdCVEu8iBK4LKH3QhZ0.jpg</image:loc
+      >
+      <image:caption
+        >Madhavan Mahadevan, who comes into the city from a village to see off
+        his sister-in-law and her daughter after the death of his elder brother,
+        an upright Customs Officer (KB Ganesh Kumar). While running around to
+        claim the insurance money, he comes to know that his brother was
+        actually murdered by the underworld don Irumbanakkal John (Joy
+        Mathew).</image:caption
+      >
+      <image:title>Avatharam</image:title>
+    </image:image>
+  </url>
+</urlset>

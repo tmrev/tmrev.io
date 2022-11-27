@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254630-Bored Silly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254630-Bored Silly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/KROj8N4sU0r3je6XL7cf63WU8P.jpg</image:loc
+      >
+      <image:caption
+        >What starts out as a boring day for Bobby, Johnnie and Chuck quickly
+        escalates into a riotous backyard adventure. A swarming beehive, a lawn
+        mower with a mind of its own, a mysterious junkman and the neighborhood
+        bully are just some of the hilarious encounters these close-knit friends
+        will experience on a day that began with the classic kid question of all
+        time: "What do you guys wanna do?"</image:caption
+      >
+      <image:title>Bored Silly</image:title>
+    </image:image>
+  </url>
+</urlset>

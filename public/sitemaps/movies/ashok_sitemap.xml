@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80864-Ashok</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80864-Ashok</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uQapGMmGJxZVz9Bm7d4WZ8A1pac.jpg</image:loc
+      >
+      <image:caption
+        >A short-tempered man falls in love with a woman, who is also pursued by
+        a gangster that wants to marry her. As the man sets out to take on the
+        mighty mob, his estranged family gets drawn into the
+        fight.</image:caption
+      >
+      <image:title>Ashok</image:title>
+    </image:image>
+  </url>
+</urlset>

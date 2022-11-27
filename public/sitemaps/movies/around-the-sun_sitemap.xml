@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/573998-Around the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/573998-Around the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/94TeQcKA5jWNfgLu0T1JqhswFSM.jpg</image:loc
+      >
+      <image:caption
+        >Touring a repossessed château, a film location scout falls for its
+        flirtatious representative, who recounts the story of an influential
+        book written there. But is their present-tense connection for real, or
+        just a projection of the book’s 17th Century characters?</image:caption
+      >
+      <image:title>Around the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

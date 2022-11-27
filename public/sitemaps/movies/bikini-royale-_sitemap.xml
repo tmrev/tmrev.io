@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/150785-Bikini Royale 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/150785-Bikini Royale 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7fwxd86cPClL5rZsCzwxiBLcdRR.jpg</image:loc
+      >
+      <image:caption
+        >When an enemy spy ring is discovered to be operating out of a Madame
+        Zola's House of Tarts, Tanya X must go uncover to infiltrate to the gang
+        using her sensuous and secretive talents.</image:caption
+      >
+      <image:title>Bikini Royale 2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1021433-Blind Yellow Sunshine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1021433-Blind Yellow Sunshine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AgJ9cI8ey59et5o6HIQS00H5gLx.jpg</image:loc
+      >
+      <image:caption
+        >The world has turned yellow, and people carry stuffed birds under their
+        arms in this anxious and alienated environment.</image:caption
+      >
+      <image:title>Blind Yellow Sunshine</image:title>
+    </image:image>
+  </url>
+</urlset>

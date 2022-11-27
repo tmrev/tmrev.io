@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/807979-Baby Bulldog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/807979-Baby Bulldog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rkYrNAAq8AXZF77aibbpYi00keO.jpg</image:loc
+      >
+      <image:caption
+        >Animal loving Amber is racing the clock and taking on city hall for her
+        new dog Shadow and learning that you can't judge by what you
+        see.</image:caption
+      >
+      <image:title>Baby Bulldog</image:title>
+    </image:image>
+  </url>
+</urlset>

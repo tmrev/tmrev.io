@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/782979-Be Mine Again</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/782979-Be Mine Again</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/68uvsum6l8mD6BSQT6VLgWzNi69.jpg</image:loc
+      >
+      <image:caption
+        >The film explores the tension between human freedom, what people decide
+        to do with their lives, and divine wisdom, what God asks for each
+        person. Also starring Noel Trinidad and Sandy Andolong.</image:caption
+      >
+      <image:title>Be Mine Again</image:title>
+    </image:image>
+  </url>
+</urlset>

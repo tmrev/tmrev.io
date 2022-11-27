@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104269-Babaouo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104269-Babaouo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >It starts of with an 11minute little documentary on Dali mostly
+        questioning the general public. Then, we are presented with the actual
+        movie itself, it starts with an extreme long shot of a scenic background
+        which then fades away overlapping the next shot of a girl walking along
+        the beach side, she sees a table with an extremely white sheet and a
+        letter placed on the table, she reads it out loud and suddenly a
+        computer screen is superimposed onto the sea, and we are taken back into
+        the 4th of November 1932.</image:caption
+      >
+      <image:title>Babaouo</image:title>
+    </image:image>
+  </url>
+</urlset>

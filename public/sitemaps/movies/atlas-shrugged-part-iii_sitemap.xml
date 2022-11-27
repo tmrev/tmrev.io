@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199933-Atlas Shrugged: Part III</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199933-Atlas Shrugged: Part III</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wR7NM125F63zxECZKCVMzibkWpZ.jpg</image:loc
+      >
+      <image:caption
+        >Approaching collapse, the nation's economy is quickly eroding. As crime
+        and fear take over the countryside, the government continues to exert
+        its brutal force against the nation's most productive who are
+        mysteriously vanishing - leaving behind a wake of despair. One man has
+        the answer. One woman stands in his way. Some will stop at nothing to
+        control him. Others will stop at nothing to save him. He swore by his
+        life. They swore to find him.</image:caption
+      >
+      <image:title>Atlas Shrugged: Part III</image:title>
+    </image:image>
+  </url>
+</urlset>

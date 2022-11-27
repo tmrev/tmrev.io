@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1004879-BabyDolls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1004879-BabyDolls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4flEHqdMvAKjD11SmPSmKmG2Ujb.jpg</image:loc
+      >
+      <image:caption
+        >Unable to accept his ex Jess's departure, Billy finds a website that
+        allows him to design a sexbot in her image. ‘BabyDolls’ claim that their
+        custom made sexbots have the ability to mirror their buyer’s behaviour,
+        making them an idyllic partner for the purchaser. After falling victim
+        to his own toxicity through Becks' adaptive algorithm, Billy seeks to
+        reconcile with Jess but his moment of redemption is cut short by Becks'
+        unusual act of revenge.</image:caption
+      >
+      <image:title>BabyDolls</image:title>
+    </image:image>
+  </url>
+</urlset>

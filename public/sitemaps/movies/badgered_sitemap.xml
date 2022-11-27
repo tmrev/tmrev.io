@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/220867-Badgered</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/220867-Badgered</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pkDRaXXezIkxiBsTiaKJzyHEx8U.jpg</image:loc
+      >
+      <image:caption
+        >Two crows disturb a badger's hibernation. The badger climbs out of its
+        hole once to try to silence the crows. When that doesn't work, fate
+        intervenes and the hill on which are the crow's tree and the badger's
+        lair becomes an underground missile silo. The badger investigates, and
+        events move beyond its control. Is sleep in the offing?</image:caption
+      >
+      <image:title>Badgered</image:title>
+    </image:image>
+  </url>
+</urlset>

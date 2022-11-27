@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72364-Anne Frank's Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72364-Anne Frank's Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v7gMwCqmIHDeRkRpdwg06wxgKRG.jpg</image:loc
+      >
+      <image:caption
+        >During World War II, a teenage Jewish girl named Anne Frank and her
+        family are forced into hiding in the Nazi-occupied Netherlands, as she
+        keeps a diary of the next few years. NOTE: This is a French *edited*
+        version of the 1995 original anime film by Akinori Nagaoka, which is
+        listed as some minutes longer (102, while the France edit is cut down to
+        88). The edited version also replaced the original musical score with a
+        more orchestral soundtrack. First shown in 1999 via festivals (some with
+        an English dub), then released on DVD in 2000 with French audio &
+        English subtitles, it took a while for an official English dub to be
+        released next, but a trailer was posted on YouTube in April of 2015. The
+        edited film with an English-audio dub was finally made available for
+        free on YouTube as of May 2020. The "original" title in the info on TMDB
+        is incorrectly in English but locked; the English should be in the
+        "translated title" spot. It's in French on a poster though: Le Journal
+        d'Anne Frank.</image:caption
+      >
+      <image:title>Anne Frank's Diary</image:title>
+    </image:image>
+  </url>
+</urlset>

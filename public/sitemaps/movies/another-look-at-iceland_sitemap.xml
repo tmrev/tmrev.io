@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/690723-Another Look At Iceland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/690723-Another Look At Iceland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ghSLCt0kIP5oQkSsqjkGarnC1GQ.jpg</image:loc
+      >
+      <image:caption
+        >What did the old parliament look like when Vikings settled Iceland in
+        874 A.D.? How has the Icelandic environment changed since man first
+        arrived? Is the human species a blight on the face of the Earth? What
+        will the future look like here? Will the glaciers melt whether we like
+        it or not? Will there be a volcanic eruption in the Reykjavik area? Will
+        soil erosion blow Iceland back into the ocean? Can natural waterfalls
+        replace energy with pollutants - and at what cost to the
+        landscape?</image:caption
+      >
+      <image:title>Another Look At Iceland</image:title>
+    </image:image>
+  </url>
+</urlset>

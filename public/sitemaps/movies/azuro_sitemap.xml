@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/843066-Azuro</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/843066-Azuro</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cL8uZAaZBHPxsflwrD0ziEdJyu4.jpg</image:loc
+      >
+      <image:caption
+        >It’s summer, the heat is overwhelming and the weather is out of whack.
+        A group of friends are enjoying their yearly holiday in their favorite
+        little village, wedged between the sea and the mountains. As usual, they
+        are bored and eat and drink a lot. They do not pay attention to the fire
+        which progresses on the mountain nearby, nor to the world around them.
+        But this year, a mysterious man arrives from the sea and shakes up their
+        seemingly balanced existence...</image:caption
+      >
+      <image:title>Azuro</image:title>
+    </image:image>
+  </url>
+</urlset>

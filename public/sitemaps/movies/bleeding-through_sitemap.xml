@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/262079-Bleeding Through</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/262079-Bleeding Through</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Months after the brutal car accident that killed her parents, sensitive
+        college student Lindsey still struggles with overwhelming grief.
+        Pressure from her brother to sell the family home, financial stressors
+        and failing grades send Lindsey spiraling into a dark pit of depression,
+        her only resource a new friendship and possibility of romance. But when
+        romance turns into vicious betrayal, Lindsey unearths a capacity for
+        violence and bloody revenge from beyond the grave!</image:caption
+      >
+      <image:title>Bleeding Through</image:title>
+    </image:image>
+  </url>
+</urlset>

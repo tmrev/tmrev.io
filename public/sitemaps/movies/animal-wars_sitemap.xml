@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/720041-Animal Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/720041-Animal Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p3B2nuyuBAq76ERWWrPpQHfkDLS.jpg</image:loc
+      >
+      <image:caption
+        >In a galaxy far, far away, a tiny planet is ravaged by a long war
+        between two animal tribes: Biters and Slashers. Both tribes decide to
+        settle their dispute by playing the Game of Animal Football. You are in
+        for a treat if you like major hits, unnecessary roughness, and illegal
+        use of claws and other body parts.</image:caption
+      >
+      <image:title>Animal Wars</image:title>
+    </image:image>
+  </url>
+</urlset>

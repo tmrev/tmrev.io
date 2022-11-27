@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/130506-Boerenpsalm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/130506-Boerenpsalm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jwy4KA3o9l0ATxMdEoo8WVb3ZUJ.jpg</image:loc
+      >
+      <image:caption
+        >This heimat-movie after a novel by Felix Timmermans is about the at
+        first sight idyllic, but actually tragical life of Wortel, a peasant in
+        a pre-war Belgian village, who has a hard time accepting the curate’s
+        assurance it’s all part of God’s grand plan when his loved ones keep
+        coming to harm.</image:caption
+      >
+      <image:title>Boerenpsalm</image:title>
+    </image:image>
+  </url>
+</urlset>

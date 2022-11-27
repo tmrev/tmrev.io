@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859923-Blooming In Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859923-Blooming In Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pi0qe8pynFbMBvaPNPd7XzhP4W4.jpg</image:loc
+      >
+      <image:caption
+        >Yun-ah thinks her body reeks and refuses to eat. One day, during
+        lunchtime, the kids in her class try to force Yun-ah to eat, but
+        Sung-eun, the most studious student, tries to stop them and a fight
+        breaks loose. Yun-ah’s bare pubescent body running freely in the spring
+        rain looks gaunt, hungry, but beautiful.</image:caption
+      >
+      <image:title>Blooming In Spring</image:title>
+    </image:image>
+  </url>
+</urlset>

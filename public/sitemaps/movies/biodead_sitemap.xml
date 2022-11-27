@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157272-Bio-Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157272-Bio-Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xfdFjLhHZT6L9uDW1xKvUu32XX.jpg</image:loc
+      >
+      <image:caption
+        >After a devastating biological disaster kills twelve million people, a
+        hazmat team searches the contaminated wasteland for survivors. But what
+        they find is a vicious predator hungry for human flesh.</image:caption
+      >
+      <image:title>Bio-Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

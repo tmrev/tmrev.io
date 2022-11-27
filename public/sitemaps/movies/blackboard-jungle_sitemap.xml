@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26516-Blackboard Jungle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26516-Blackboard Jungle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vPGvWlsMg4niyuGCSzvAiyjYNWC.jpg</image:loc
+      >
+      <image:caption
+        >Richard Dadier is a teacher at North Manual High School, an inner-city
+        school where many of the pupils frequently engage in anti-social
+        behavior. Dadier makes various attempts to engage the students' interest
+        in education, challenging both the school staff and the pupils. He is
+        subjected to violence as well as duplicitous schemes.</image:caption
+      >
+      <image:title>Blackboard Jungle</image:title>
+    </image:image>
+  </url>
+</urlset>

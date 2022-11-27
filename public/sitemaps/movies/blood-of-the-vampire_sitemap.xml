@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52639-Blood of the Vampire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52639-Blood of the Vampire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ndLN20yprorlAyT6tLSOWXpEdlK.jpg</image:loc
+      >
+      <image:caption
+        >A man and wife are terrorized by Mad Scientist Dr. Callistratus who was
+        executed but has returned to life with a heart transplant. Along with
+        his crippled assistant Carl, the 'anemic' Mad Scientist, believed to be
+        a vampire, conducts blood deficiency research on the inmates of a prison
+        hospital for the criminally insane to sustain his return to
+        life.</image:caption
+      >
+      <image:title>Blood of the Vampire</image:title>
+    </image:image>
+  </url>
+</urlset>

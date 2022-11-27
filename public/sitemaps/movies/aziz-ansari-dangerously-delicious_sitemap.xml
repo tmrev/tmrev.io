@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/96924-Aziz Ansari: Dangerously Delicious</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/96924-Aziz Ansari: Dangerously Delicious</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nuVQ8zNxWy5NwnqjpF70pjNd463.jpg</image:loc
+      >
+      <image:caption
+        >Aziz Ansari channels his crude side taking on topics like watching porn
+        and the struggles of dating in New York City.</image:caption
+      >
+      <image:title>Aziz Ansari: Dangerously Delicious</image:title>
+    </image:image>
+  </url>
+</urlset>

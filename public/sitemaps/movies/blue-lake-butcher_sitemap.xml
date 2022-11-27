@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793914-Blue Lake Butcher</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793914-Blue Lake Butcher</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Fa0cvBtUuuAMP4QGjfY2znrTH6.jpg</image:loc
+      >
+      <image:caption
+        >While traumatized by the sight of his mother's death by his father's
+        butcher knife, Marcus finds himself in the same situation years later
+        with his own wife. Using his butchering skills, Marcus artistically
+        carves each body to feed his only friends, the wolves.</image:caption
+      >
+      <image:title>Blue Lake Butcher</image:title>
+    </image:image>
+  </url>
+</urlset>

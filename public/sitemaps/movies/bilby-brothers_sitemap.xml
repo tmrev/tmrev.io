@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/513663-Bilby Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/513663-Bilby Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9bRz27BLNYyi2ScPorHHS5mLRA2.jpg</image:loc
+      >
+      <image:caption
+        >The documentary focuses on the plight of the bilby, a small big eared,
+        long nosed unusual creature of the Australian outback that has been
+        marginalised by rabbits, feral predators and humans. But there are two
+        humans that put the bilby first and have gone on to capture the
+        imagination of their local community, politicians, government bureaucrat
+        and the wider population because they have single handedly turned the
+        tables on an almost extinct species. Candy company Darrell Lea
+        contributes a percentage of sales to Save the Bilby Fund, ($185,000AU to
+        date) and the sanctuary has been built thanks to the chocolate eating
+        Australian public and The Bilby Brothers, who have spent practically
+        every waking moment of the past decade working to save this little
+        oddball from extinction. Their work is a phenominal example of how one
+        person CAN make a difference.</image:caption
+      >
+      <image:title>Bilby Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

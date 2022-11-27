@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/873837-Bigfoot Famous</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/873837-Bigfoot Famous</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/141Mj7agibo9jmbpKqw3tHppIoa.jpg</image:loc
+      >
+      <image:caption
+        >When a viral video of Bigfoot emerges, a once popular influencer goes
+        on a mission to film a vlog with Bigfoot and regain her
+        fame.</image:caption
+      >
+      <image:title>Bigfoot Famous</image:title>
+    </image:image>
+  </url>
+</urlset>

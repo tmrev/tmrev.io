@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384545-Blue World Order</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384545-Blue World Order</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bI2vkXvx0z9xw0fYmCaVO4bo05y.jpg</image:loc
+      >
+      <image:caption
+        >After a nuclear war decimated the northern hemisphere, the surviving
+        population in the south become desperate and violent competing for
+        scarce resources. Society crumbles and an infectious bacteria threatens
+        to destroy those who remain. In an attempt to rebuild civilization, a
+        self appointed government called 'The ORDER' distributed an immunization
+        to the bacteria, via a massive Electro-Macnetic Pulse (EMP). Secretly,
+        the Order also delivered a bio-tech virus through the EMP, giving them
+        the power to control the population. One man remains immune to the
+        Order's virus - Jake Slater. Now Jake scavenges the wasteland searching
+        for a way to keep his unconscious daughter alive, unaware she is the
+        last child on Earth, and the key to the survival of
+        mankind.</image:caption
+      >
+      <image:title>Blue World Order</image:title>
+    </image:image>
+  </url>
+</urlset>

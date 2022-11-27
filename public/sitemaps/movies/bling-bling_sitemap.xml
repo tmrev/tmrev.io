@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/180031-Bling Bling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/180031-Bling Bling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A student film project, written, produced, and directed by Mark
+        Clayborne with the assistance of the New York Digital Training Center.
+        The story revolves around a corrupt record label, run by a man named
+        Dice. Dice mismanages his artists, and then kills them when they try to
+        break from their contracts. He goes one step too far when he has young
+        rapper Little G killed, attracting the attention of the police and the
+        vengeful wrath of Little G's brother.</image:caption
+      >
+      <image:title>Bling Bling</image:title>
+    </image:image>
+  </url>
+</urlset>

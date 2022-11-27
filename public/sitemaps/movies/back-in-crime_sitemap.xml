@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197772-Back in Crime</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197772-Back in Crime</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qfA6JAOJBgxRK8qiF7LXJtMypmW.jpg</image:loc
+      >
+      <image:caption
+        >Inspector Richard Kemp never got around to putting the handcuffs around
+        the Eardrum Slasher, a dangerous serial killer whose rampage began 20
+        years before. When Hélène, a psychologist, witnesses the Slasher’s
+        latest crime and offers to testify, Kemp falls in love with her at first
+        sight. In a mysterious turn of event, Kemp is suddenly transported back
+        in time to the site of the Eardrum Slasher’s first murder, he realizes
+        that this could provide a second chance to catch the
+        killer...</image:caption
+      >
+      <image:title>Back in Crime</image:title>
+    </image:image>
+  </url>
+</urlset>

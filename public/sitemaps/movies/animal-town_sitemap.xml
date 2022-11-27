@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/131124-Animal Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/131124-Animal Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pUcGBuXNvacshPgqNkRTlgeNowm.jpg</image:loc
+      >
+      <image:caption
+        >Oh Sung-Chul has been released on parole. He wears an ankle bracelet
+        that monitors his movements as well as reminding himself of his
+        horrifying past deeds. Sung-Chul lives in an apartment complex about to
+        be demolished. He loses his construction job and is screwed over for
+        half of his last paycheck. He takes medication to suppress his urges.
+        Kim Hyung-Do is a religious family man who runs a printing company. The
+        printing business is going through hard times. Kim Hyung-Do also goes
+        through heavy emotional turmoil due to a horrendous crime inflicted upon
+        his daughter by Oh Sung-Chul. On a fateful day, Hyung-Do spots Sung-Chul
+        out on the street.</image:caption
+      >
+      <image:title>Animal Town</image:title>
+    </image:image>
+  </url>
+</urlset>

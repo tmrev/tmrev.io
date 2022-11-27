@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/542693-Arild Kristos's verden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/542693-Arild Kristos's verden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPotW5WIVJ50oH3wiH1FJ3bbte1.jpg</image:loc
+      >
+      <image:caption
+        >"The World According to Arild Kristo" - A portrait of the Norwegian
+        photographer, designer, screenwriter and filmmaker Arild Kristo (1939 -
+        2010). The son of a cabaret singer. Who made his first film only 11
+        years old. Worked as a piccolo at Hotel Bristol in Oslo . Took to the
+        sea and was involved in the filming of "Windjammer" (1958). Freelance
+        photographer in the US during the 60's. An outsider who lived a very
+        different kind of life. In Paris or Berlin or Oslo.</image:caption
+      >
+      <image:title>Arild Kristos's verden</image:title>
+    </image:image>
+  </url>
+</urlset>

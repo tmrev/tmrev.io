@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438493-Becoming Bond</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438493-Becoming Bond</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oRyVYIqegDB5rWjfloeu1Zgk332.jpg</image:loc
+      >
+      <image:caption
+        >The stranger-than-fiction true story of George Lazenby, a poor
+        Australian car mechanic who, through an unbelievable set of
+        circumstances, landed the role of James Bond despite having never acted
+        a day in his life.</image:caption
+      >
+      <image:title>Becoming Bond</image:title>
+    </image:image>
+  </url>
+</urlset>

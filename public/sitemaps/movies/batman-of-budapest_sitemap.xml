@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/927424-Batman of Budapest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/927424-Batman of Budapest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oxgYg44gzX4dzWeUZaDn57k7qSf.jpg</image:loc
+      >
+      <image:caption
+        >Krisztián is 36 years old and lives with his mother. He is currently
+        unemployed, but he is busy. At night he wears a bat costume and walks
+        the streets, pubs and nightclubs of Budapest. He faces drug abuse and
+        violence, helps homeless people, troubled citizens, drunken youth and
+        anyone who he can. If he sees injustice, violence, misbehavior he
+        fights. Due to his unusual appearance, this mostly proves to be enough,
+        however, when things get worse, he calls the police.</image:caption
+      >
+      <image:title>Batman of Budapest</image:title>
+    </image:image>
+  </url>
+</urlset>

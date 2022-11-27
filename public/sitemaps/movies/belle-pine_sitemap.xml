@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63319-Belle épine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63319-Belle épine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iMA5u7qfQbauCkJwzqZtcgGu6TO.jpg</image:loc
+      >
+      <image:caption
+        >After the death of her mother, 17-year-old Prudence finds herself
+        living alone in her Paris apartment. Then she meets Maryline, a rebel of
+        her own age, who introduces her to the thrills of motorcycle racing on
+        the biker circuit at Rungis. Prudence’s newfound lease of freedom
+        becomes complicated when she falls for a boy Franck who wastes no time
+        in taking advantage of her naivety...</image:caption
+      >
+      <image:title>Belle épine</image:title>
+    </image:image>
+  </url>
+</urlset>

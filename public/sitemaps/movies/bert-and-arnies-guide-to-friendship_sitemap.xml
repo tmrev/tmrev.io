@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/202176-Bert and Arnie's Guide to Friendship</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/202176-Bert and Arnie's Guide to Friendship</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4prrv7bHwNi5oO5OdyIKP8tuyKP.jpg</image:loc
+      >
+      <image:caption
+        >The romantic misadventures of Bert Sheering, a sophisticated, yet
+        sexually repressed author and Arnie Hubert, an executive and unabashed
+        ladies man. When Bert discovers that Arnie is sleeping with his wife,
+        this modern day odd couple are launched into a journey filled with
+        comedy, romance and ultimately, friendship.</image:caption
+      >
+      <image:title>Bert and Arnie's Guide to Friendship</image:title>
+    </image:image>
+  </url>
+</urlset>

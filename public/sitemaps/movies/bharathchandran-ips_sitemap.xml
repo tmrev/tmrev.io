@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/240569-Bharathchandran I.P.S</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/240569-Bharathchandran I.P.S</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kAuqbtxW6zaPxXUFbqDLc6nqsqB.jpg</image:loc
+      >
+      <image:caption
+        >Hyder Ali Hassan, a scheming politician, is in league with the
+        underworld and runs a lot of illegal businesses. Balachandran, an IPS
+        officer, is sent on a mission to capture him.</image:caption
+      >
+      <image:title>Bharathchandran I.P.S</image:title>
+    </image:image>
+  </url>
+</urlset>

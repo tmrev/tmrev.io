@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330224-Aunt Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330224-Aunt Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gJlAkVdta2jExPkiChxFwhXoQB2.jpg</image:loc
+      >
+      <image:caption
+        >A trio of ruthless killers seeks refuge in a quiet suburban home, only
+        to discover a destructive force that could spell their doom in this
+        blood-drenched frightener from director James Tucker. They thought they
+        had found the perfect hideout, but what they didn't realize was that
+        they had entered into the home of a truly terrifying family. But the
+        folks downstairs are the least of their worries, because by the time
+        these sadistic beasts discover the unearthly powers of the woman who
+        dwells on the third floor, it's already too late for any hope of
+        survival.</image:caption
+      >
+      <image:title>Aunt Rose</image:title>
+    </image:image>
+  </url>
+</urlset>

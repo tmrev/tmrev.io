@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541876-Babysitter's Nightmare</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541876-Babysitter's Nightmare</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zZbMWiJU4zSN2Mccql8tiZzO8hw.jpg</image:loc
+      >
+      <image:caption
+        >When registered nurse Daphne Hart is let go from the hospital where she
+        works due to wrongfully accused negligence, she finds herself
+        babysitting for the weekend at the suburban estate of a wealthy doctor
+        caring for her diabetic young son. But when another babysitter in the
+        area is murdered, Daphne starts to suspect things are amiss around the
+        desolate home.</image:caption
+      >
+      <image:title>Babysitter's Nightmare</image:title>
+    </image:image>
+  </url>
+</urlset>

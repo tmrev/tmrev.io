@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547391-Bike Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547391-Bike Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3L2XTP4W8XrVtuWyLiJxuKrKo7.jpg</image:loc
+      >
+      <image:caption
+        >Nahid (12) is an asylum seeker in Norway. She has a dream she wants to
+        realize, which turns out to be difficult for her: She wants to learn how
+        to ride a bike. Her parents won’t allow it, fearing for her reputation
+        if they’re deported. Girls who ride bikes are frowned upon in
+        Afghanistan. But Nahid is a fighter, and she won’t let anyone get in the
+        way of her dreams.</image:caption
+      >
+      <image:title>Bike Bird</image:title>
+    </image:image>
+  </url>
+</urlset>

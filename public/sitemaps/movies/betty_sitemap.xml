@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31303-Betty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31303-Betty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oUaXFUipehFG5Z32hEbIYTLYU0y.jpg</image:loc
+      >
+      <image:caption
+        >Drunk, Betty is feeling worse and worse, the previous evening is slowly
+        coming back to her: her husband and her husband's family had criticized
+        her harshly, had sent her away. But Betty hadn't wanted to get married
+        in the first place. She knows that she always ruined everything, that
+        she drinks to much, that she has had several affairs. Laure, who is
+        taking care of her, suggests that Betty stay with her in the hotel where
+        she lives, as long as Betty would like. Laure, too, finds solace and
+        companionship in alcohol.</image:caption
+      >
+      <image:title>Betty</image:title>
+    </image:image>
+  </url>
+</urlset>

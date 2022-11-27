@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/192349-Beyond the Movie: The Fellowship of the
+      Ring</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/192349-Beyond the Movie: The Fellowship of the
+      Ring</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/knCJvfbr4LWNZBkTDlwRdM28PuR.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about the influences on Tolkien, covering in brief his
+        childhood and how he detested the onslaught of industry through the
+        idyllic countryside, moving on to describe his fighting experience from
+        WWI, and closing with a look at the Finnish inspiration for the
+        scholar's self-invented languages of Elfish. In between are interviews
+        with the cast of the films and some clips, by far the most from "The
+        Fellowship of the Ring", but a few glimpses of Rohan riders (from "The
+        Two Towers") are provided. Also, there are interviews with a range of
+        the filmmakers.</image:caption
+      >
+      <image:title>Beyond the Movie: The Fellowship of the Ring</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50081-Born to Be Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50081-Born to Be Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aMB2p4gbfFRfReDM9OOUrA0hQs2.jpg</image:loc
+      >
+      <image:caption
+        >Born to Be Wild observes various orphaned jungle animals and their
+        day-to-day behavioural interactions with the individuals who rescue them
+        and raise them to adulthood. The film unfurls in two separate geographic
+        spheres. Half of it takes place in the rain forests of Borneo, where
+        celebrated primatologist Dr. Birute Galdikas assists baby orangutans;
+        the other half takes place on the arid savannahs of Kenya, where
+        zoologist Dame Daphne Sheldrick works with baby elephant
+        calves.</image:caption
+      >
+      <image:title>Born to Be Wild</image:title>
+    </image:image>
+  </url>
+</urlset>

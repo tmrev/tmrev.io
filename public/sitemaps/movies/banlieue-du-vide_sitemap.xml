@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693997-Banlieue Du Vide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693997-Banlieue Du Vide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"During last winter I collected (via the Internet) about 3000 pictures
+        taken by surveillance cameras. The images I selected show empty roads at
+        night, covered with snow. The soundtrack consists of grey noise and
+        traffic sounds, created from memory. The only movement that is visible
+        are the changes of snow covering the roads."</image:caption
+      >
+      <image:title>Banlieue Du Vide</image:title>
+    </image:image>
+  </url>
+</urlset>

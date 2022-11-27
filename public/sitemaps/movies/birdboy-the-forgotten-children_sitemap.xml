@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361705-Birdboy: The Forgotten Children</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361705-Birdboy: The Forgotten Children</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xS6M8jigRzQ0oFG0SdAQBfmEYtd.jpg</image:loc
+      >
+      <image:caption
+        >Teenagers Birdboy and Dinki have decided to escape from an island
+        devastated by ecological catastrophe: Birdboy by shutting himself off
+        from the world, Dinki by setting out on a dangerous voyage in the hope
+        that Birdboy will accompany her.</image:caption
+      >
+      <image:title>Birdboy: The Forgotten Children</image:title>
+    </image:image>
+  </url>
+</urlset>

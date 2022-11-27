@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/808900-Blood Line: The Life and Times of Brian
+      Deegan</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/808900-Blood Line: The Life and Times of Brian
+      Deegan</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pWE67U87ficqa5vodAj1zXGvPUN.jpg</image:loc
+      >
+      <image:caption
+        >Blood Line follows the life and career of motocross superstar, Brian
+        Deegan, as he transitions from a gravity-defying rebel, to the father of
+        the next generation of motorsports stars.</image:caption
+      >
+      <image:title>Blood Line: The Life and Times of Brian Deegan</image:title>
+    </image:image>
+  </url>
+</urlset>

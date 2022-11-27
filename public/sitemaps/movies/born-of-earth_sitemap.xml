@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/54101-Born of Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/54101-Born of Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tAoGWRbYkl7ufR8IYGf4hhscdfA.jpg</image:loc
+      >
+      <image:caption
+        >Over centuries humans have been mysteriously disappearing with no
+        explanations, just hushed whispers in the dark. On the surface Prophet
+        Hills seems like a perfect place to live and raise a family, but Danny
+        Kessler (Baldwin) has seen better days. This is one man's journey to
+        find the culprit of the ultimate sacrifice he's endured. He must face
+        his demons and go back to the place that has haunted him. He must
+        convince family, friends and townspeople that something is not right in
+        Prophet Hills. He must make them believe that something evil is living
+        beneath their own backyards.</image:caption
+      >
+      <image:title>Born of Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

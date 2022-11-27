@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/750775-Blue Code of Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/750775-Blue Code of Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sjAjX7VKsIo3FYwUIiMAXG9ra99.jpg</image:loc
+      >
+      <image:caption
+        >Every year an average of one thousand American police officers are
+        arrested for misconduct or corruption, and the abuse of power is a
+        legacy that stretches back to the dawn of US policing. BLUE CODE OF
+        SILENCE tells the true story about a crooked police officer in 1970s New
+        York who brought down the most corrupt police unit in American history.
+        Who was detective Bob Leuci?</image:caption
+      >
+      <image:title>Blue Code of Silence</image:title>
+    </image:image>
+  </url>
+</urlset>

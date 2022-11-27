@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297948-Bienvenido Paisano</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297948-Bienvenido Paisano</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/renckXaIpRo5jBZcrq6t7RMS1cq.jpg</image:loc
+      >
+      <image:caption
+        >Epifanio is a gardener who has-been living with his wife and children
+        in the United States for the past 25 years. When he recives bad news
+        from his brother in Mexico, he takes his family on the journey of their
+        lives. During this fun and action packed road movie homecoming,
+        Epifamio's family will overcome obstacles and difficult situations using
+        their Mexican wit.</image:caption
+      >
+      <image:title>Bienvenido Paisano</image:title>
+    </image:image>
+  </url>
+</urlset>

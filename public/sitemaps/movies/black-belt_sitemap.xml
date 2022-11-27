@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20225-Black Belt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20225-Black Belt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fI2XTsxxO0U3NUE42rLr7GShmIy.jpg</image:loc
+      >
+      <image:caption
+        >Set in 1932, amid the rise of militarism after the establishment of the
+        Manchukuo colony in Northeast China, the story centers on a trio of
+        karateka. Studying under their aging master in a small dojo in the woods
+        of central Kyushu, Choei, Taikan and Giryu face a company of kempeitai
+        military police come to requisition their dojo for use as a military
+        base.</image:caption
+      >
+      <image:title>Black Belt</image:title>
+    </image:image>
+  </url>
+</urlset>

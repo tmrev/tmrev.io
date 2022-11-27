@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409106-Ascent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409106-Ascent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ZwW7qlfrkxMnANZnAk6zppgUIW.jpg</image:loc
+      >
+      <image:caption
+        >Through a grey blanket of clouds, we barely discern the contours of
+        Mount Fuji, a volcano with many faces. 4,500 exceptional and diverse
+        photographs from the past 150 years form the basis for Ascent. Made
+        entirely with stills, it is a filmic experiment balancing between
+        documentary and fiction, photography and film, where an English woman
+        and her deceased Japanese partner, Hiroshi, lead the way. As Mount Fuji
+        is climbed across geographical, temporal and cultural divides, the
+        narrative unfolds, exploring unexpected paths.</image:caption
+      >
+      <image:title>Ascent</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274701-Bombs, Bullets and Fraud</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274701-Bombs, Bullets and Fraud</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x1l57vWBNbfKzSZxVrDMXFJOfFJ.jpg</image:loc
+      >
+      <image:caption
+        >Documentary - Go behind the scenes at the United States Postal
+        Inspection Service with this documentary that explores the odd and
+        surprisingly dangerous job of postal inspectors, who investigate crimes
+        ranging from identity theft to domestic terrorism. Lethal explosives,
+        strange powders, illicit drugs and more are all in a day's work for this
+        elite group of forensic detectives, who can trace their unit's origins
+        all the way back to 1772. - Patrick Michael Strange, Paul Fahrenkopf,
+        Manny Oliverez</image:caption
+      >
+      <image:title>Bombs, Bullets and Fraud</image:title>
+    </image:image>
+  </url>
+</urlset>

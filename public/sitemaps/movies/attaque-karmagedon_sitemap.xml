@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/812768-Attaque 77: Karmagedon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/812768-Attaque 77: Karmagedon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pi0imdu3FFEBMxeZhZH7RulHG5U.jpg</image:loc
+      >
+      <image:caption
+        >Recorded live at El Teatro, Flores, on May 31, 2008 at the end of a
+        cycle of 7 shows that Attaque 77 gave to present Karmagedon (the album)
+        in Buenos Aires, Argentina.</image:caption
+      >
+      <image:title>Attaque 77: Karmagedon</image:title>
+    </image:image>
+  </url>
+</urlset>

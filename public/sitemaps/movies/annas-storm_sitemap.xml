@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52724-Anna's Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52724-Anna's Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cO9HFdT4HBwqNPW06h1s3Q9wHVH.jpg</image:loc
+      >
+      <image:caption
+        >When a barrage of meteors hurtles through the atmosphere straight for
+        Mayor Anna McPherson's town, Anna must lead the desperate fight to save
+        the town and her family from the flaming balls of destruction shooting
+        down from the sky.</image:caption
+      >
+      <image:title>Anna's Storm</image:title>
+    </image:image>
+  </url>
+</urlset>

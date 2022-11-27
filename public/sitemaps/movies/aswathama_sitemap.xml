@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/658113-Aswathama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/658113-Aswathama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kiAOon7Y0R4O3ipEQirBlX80ftS.jpg</image:loc
+      >
+      <image:caption
+        >After learning his sister has been mysteriously impregnated, Gana sets
+        out to hunt down the culprit as he discovers similar cases in the
+        city.</image:caption
+      >
+      <image:title>Aswathama</image:title>
+    </image:image>
+  </url>
+</urlset>

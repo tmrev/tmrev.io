@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15435-Baby Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15435-Baby Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cMLZqxrZSF5hjzHfd4psBDp9iA9.jpg</image:loc
+      >
+      <image:caption
+        >They were the perfect loving couple, well, almost. Emmanuel wanted a
+        child but Philippe didn't. One day, however, Emmanuel decides to take
+        the plunge, at the risk of losing Philippe. But how do you make a child
+        when you are gay?</image:caption
+      >
+      <image:title>Baby Love</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/613450-Beyond the Arctic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/613450-Beyond the Arctic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4FYxAU7Ey5oapGBMCtOTTacQdZK.jpg</image:loc
+      >
+      <image:caption
+        >A team of an entrepreneur, an athlete and a student from Taiwan arrived
+        in the Arctic Circle. Through their participation in the 2008 Polar
+        Challenge – a 600 km race to the Magnetic North Pole, they’ve realized
+        their dreams. They experienced hypothermia and attack from polar bears
+        en route.</image:caption
+      >
+      <image:title>Beyond the Arctic</image:title>
+    </image:image>
+  </url>
+</urlset>

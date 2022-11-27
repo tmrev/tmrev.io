@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1281-Bean</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1281-Bean</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/IwrDPrB4d2DMcpnGkvan46yINL.jpg</image:loc
+      >
+      <image:caption
+        >Childlike Englishman, Mr. Bean, is an incompetent watchman at the Royal
+        National Gallery. After the museum's board of directors' attempt to have
+        him fired is blocked by the chairman, who has taken a liking to Bean,
+        they send him to Los Angeles to act as their ambassador for the
+        unveiling of a historic painting to humiliate him. Fooled, Mr. Bean must
+        now successfully unveil the painting or risk his and a hapless Los
+        Angeles curator's termination.</image:caption
+      >
+      <image:title>Bean</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134451-Baby Dolls Behind Bars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134451-Baby Dolls Behind Bars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/44uErQQLdwCXzgs9R807MuIrC5n.jpg</image:loc
+      >
+      <image:caption
+        >Ditzy police cadet Sissy goes undercover in a maximum security prison
+        to get the goods on world famous jewel thief, Maggie. Once inside she
+        uncovers a devious plot headed up by the wicked Warden.</image:caption
+      >
+      <image:title>Baby Dolls Behind Bars</image:title>
+    </image:image>
+  </url>
+</urlset>

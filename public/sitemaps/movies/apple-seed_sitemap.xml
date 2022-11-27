@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/712353-Apple Seed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/712353-Apple Seed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sQWz8H7TUDTNH359lEhT7eHEIDi.jpg</image:loc
+      >
+      <image:caption
+        >On a cross country road trip to rob his home town bank Prince Mccoy
+        finds himself having to rely on the help of an ex convict hitchhiker
+        named Carl Robbins. Along the way the people they meet and the
+        friendships they build begin to heal the ghosts of their pasts. However,
+        they both have one final crossroad to face in the small town of Apple
+        Seed.</image:caption
+      >
+      <image:title>Apple Seed</image:title>
+    </image:image>
+  </url>
+</urlset>

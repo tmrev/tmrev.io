@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70806-Blind Husbands</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70806-Blind Husbands</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ofk9OqriMU3AoYLwiEOJlFhOIeL.jpg</image:loc
+      >
+      <image:caption
+        >An Austrian military officer and rogue attempts to seduce the wife of a
+        surgeon. The two men confront each other in a test of abilities that
+        ends surprisingly.</image:caption
+      >
+      <image:title>Blind Husbands</image:title>
+    </image:image>
+  </url>
+</urlset>

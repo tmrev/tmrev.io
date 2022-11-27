@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/284470-Atari: Game Over</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/284470-Atari: Game Over</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/69VCXTki2gDutUhndJgU8UHlvxA.jpg</image:loc
+      >
+      <image:caption
+        >The Xbox Originals documentary that chronicles the fall of the Atari
+        Corporation through the lens of one of the biggest mysteries of all
+        time, dubbed “The Great Video Game Burial of 1983.” Rumor claims that
+        millions of returned and unsold E.T. cartridges were buried in the
+        desert, but what really happened there?</image:caption
+      >
+      <image:title>Atari: Game Over</image:title>
+    </image:image>
+  </url>
+</urlset>

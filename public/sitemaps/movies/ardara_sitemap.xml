@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645971-Ardara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645971-Ardara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9gLvwQjGmGeARcqngQ6fTfoxNrJ.jpg</image:loc
+      >
+      <image:caption
+        >Macià decides to visit Ireland following a route that his parents did
+        20 years ago. Bruna and María seek a place to escape and disconnect.
+        Their trips intersect in Ardara, Donegal County, where they share the
+        last summer days. A summer that ends abruptly where Europe ends. ARDARA
+        reconstructs their journey through what the people who saw them tell us.
+        The film is the portrait of all three and that of the people who knew
+        them. A story that reflects on the very fact of telling
+        stories.</image:caption
+      >
+      <image:title>Ardara</image:title>
+    </image:image>
+  </url>
+</urlset>

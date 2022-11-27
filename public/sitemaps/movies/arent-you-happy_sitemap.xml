@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/523882-Aren't You Happy?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/523882-Aren't You Happy?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sm3NuEMA2ZkyDDtbpThI8sN7BoT.jpg</image:loc
+      >
+      <image:caption
+        >A girl roams through the city looking for a place to sleep. Along the
+        way she meets young mothers who celebrate motherhood religiously, goes
+        home with an abstinent existentialist for whom sex is “just another
+        market”, and waits for the end of capitalism in a drag bar. Her attempt
+        to write a book doesn’t make it beyond the first sentence of the second
+        chapter, and she finds no space between art galleries, yoga studios and
+        the beds of strangers. Instead of trying to fit in, she starts regarding
+        her depression as a political issue.</image:caption
+      >
+      <image:title>Aren't You Happy?</image:title>
+    </image:image>
+  </url>
+</urlset>

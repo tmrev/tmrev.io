@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342827-Beethoven Symphonies Nos. 4 & 7</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342827-Beethoven Symphonies Nos. 4 & 7</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xHyj1PxPFCbQ1vxl2nUrH02bDsP.jpg</image:loc
+      >
+      <image:caption
+        >Claudio Abbado conducted Beethoven’s symphonies on many occasions in
+        the Philharmonie in Berlin. But only at the end of his tenure as chief
+        conductor of the Berliner Philharmoniker did he decide to give a
+        performance of the complete symphonies. It was left to audiences of his
+        native Italy to witness these concerts in February 2001 in the Accademia
+        Nazionale di Santa Cecilia in Rome.</image:caption
+      >
+      <image:title>Beethoven Symphonies Nos. 4 & 7</image:title>
+    </image:image>
+  </url>
+</urlset>

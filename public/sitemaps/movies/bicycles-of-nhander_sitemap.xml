@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279953-Bicycles of Nhanderú</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279953-Bicycles of Nhanderú</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r84PyTG5QIb9y9ng2Vei9DDPTWW.jpg</image:loc
+      >
+      <image:caption
+        >An immersion in spirituality and everyday life of the Mbya-Guarani from
+        the Koenju village in Southern Brazil.</image:caption
+      >
+      <image:title>Bicycles of Nhanderú</image:title>
+    </image:image>
+  </url>
+</urlset>

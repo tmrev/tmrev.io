@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/422431-Black Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/422431-Black Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Antonia is a lyrical singer whose beauty is uncommon, lush and somber.
+        Recovering from a suicide attempt in a rehabilitation institution, all
+        her family ties are irreparably broken. But her sister remains deeply
+        affected by what happened.</image:caption
+      >
+      <image:title>Black Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545655-Bisikan Iblis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545655-Bisikan Iblis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xt6XTu79OrnID1FzvozYJ06aSeZ.jpg</image:loc
+      >
+      <image:caption
+        >Nany's mother was killed by an unseen force. 8 years later, Nany went
+        to the school her mom used to be in to study. And then, something is
+        disturbing her.</image:caption
+      >
+      <image:title>Bisikan Iblis</image:title>
+    </image:image>
+  </url>
+</urlset>

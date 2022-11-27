@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/208807-Azé</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/208807-Azé</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >As he is fleeing the Western world, a terrorist discovers Eastern
+        civilization. His subjective journey is a means to create a fiction
+        halfway between adventure and romance. The narrative is guided by
+        sensation and gives birth to a series of visual and sound feelings
+        bearing witness to the encounter between cultures. - MUBI</image:caption
+      >
+      <image:title>Azé</image:title>
+    </image:image>
+  </url>
+</urlset>

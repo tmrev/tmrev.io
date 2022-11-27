@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24136-Border Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24136-Border Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Over five thousand people illegally cross the border each day. There
+        are areas where crime is at its highest, where criminals prey upon these
+        defenseless groups. An elite task force is put together with high
+        expectations of solving this problem that is plaguing our
+        border</image:caption
+      >
+      <image:title>Border Lost</image:title>
+    </image:image>
+  </url>
+</urlset>

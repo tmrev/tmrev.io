@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/728212-Between the World and Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/728212-Between the World and Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rHntazEQuvO0wSplvOxf5wNdvFO.jpg</image:loc
+      >
+      <image:caption
+        >Based on Ta-Nehisi Coates’ #1 New York Times bestseller and originally
+        adapted and staged by the Apollo Theater, this special combines elements
+        of that production - including powerful readings from Coates’ book -
+        with documentary footage from the actors’ home life, archival footage,
+        and animation.</image:caption
+      >
+      <image:title>Between the World and Me</image:title>
+    </image:image>
+  </url>
+</urlset>

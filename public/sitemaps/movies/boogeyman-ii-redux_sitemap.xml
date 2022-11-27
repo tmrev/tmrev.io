@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/525301-Boogeyman II: Redux</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/525301-Boogeyman II: Redux</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z08SLthinVg94v6lFNxjhG5lO6k.jpg</image:loc
+      >
+      <image:caption
+        >Film director Mickey Lombard is questioned by the authorities for the
+        murders of several people at his own home. The police believe Mickey did
+        it but he swears he is innocent because even though he doesn't believe
+        it himself, the Boogeyman is responsible. (IMDB)</image:caption
+      >
+      <image:title>Boogeyman II: Redux</image:title>
+    </image:image>
+  </url>
+</urlset>

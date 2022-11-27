@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400970-Bendor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400970-Bendor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vTV8rv1Mo2GOAnKw0fR6rvHJrBH.jpg</image:loc
+      >
+      <image:caption
+        >Blondie (Vivian Velez) is personified as three things: a hardworking
+        businesswoman, a wife who’s been cheated on, and a mother of three. She
+        is a 50-something woman with poor eyesight who works as an upfront
+        candle vendor outside Quiapo church and sells Cytotec, an abortion pill,
+        on the side.</image:caption
+      >
+      <image:title>Bendor</image:title>
+    </image:image>
+  </url>
+</urlset>

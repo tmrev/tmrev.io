@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/26557-Beijing 2008 Olympic Opening Ceremony</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/26557-Beijing 2008 Olympic Opening Ceremony</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xD8O2hDT2kbwaZOQ7ptFczGM9gh.jpg</image:loc
+      >
+      <image:caption
+        >The 2008 Summer Olympics opening ceremony was held at the Beijing
+        National Stadium, also known as the Bird's Nest. It began at 8:00 p.m.
+        China Standard Time (UTC+8) on August 8, 2008, as 8 is considered to be
+        a lucky number in Chinese culture. Featuring more than 15,000
+        performers, the ceremony lasted over four hours and cost over $100
+        million USD to produce.</image:caption
+      >
+      <image:title>Beijing 2008 Olympic Opening Ceremony</image:title>
+    </image:image>
+  </url>
+</urlset>

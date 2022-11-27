@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/563309-Bigil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/563309-Bigil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aaZX7jvKGgTK9VoZpo5DAPL6lET.jpg</image:loc
+      >
+      <image:caption
+        >A do-gooder don wants his footballer son to uplift the life of his
+        people by becoming a champion, but fate draws the youngster into a life
+        of violence. Will he be able to fulfill his father’s dream when an
+        opportunity comes his way seven years later?</image:caption
+      >
+      <image:title>Bigil</image:title>
+    </image:image>
+  </url>
+</urlset>

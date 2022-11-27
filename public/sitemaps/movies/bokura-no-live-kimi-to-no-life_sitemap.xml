@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/918670-Bokura no Live Kimi to no Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/918670-Bokura no Live Kimi to no Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/35YISGE4ZR3WmDBbbdsn9IlvXVH.jpg</image:loc
+      >
+      <image:caption
+        >Love Live! School idol project. DVD bundled with the debut CD single of
+        the fan-voted idol project.</image:caption
+      >
+      <image:title>Bokura no Live Kimi to no Life</image:title>
+    </image:image>
+  </url>
+</urlset>

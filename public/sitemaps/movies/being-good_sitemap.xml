@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547369-Being Good</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547369-Being Good</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yDJMOTHZmi9nMd0qlTcmbvK6e5j.jpg</image:loc
+      >
+      <image:caption
+        >A teenage girl has two guardians, the angel Ava and the demon Mal who
+        act as her conscience. While these two struggle to keep the stubborn
+        punk girl that can't see them safe they are also figuring out their own
+        differences and preconceptions about each other.</image:caption
+      >
+      <image:title>Being Good</image:title>
+    </image:image>
+  </url>
+</urlset>

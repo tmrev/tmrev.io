@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425386-Bob Marley: The Making of a Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425386-Bob Marley: The Making of a Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/swBp1OVyQhVuvg3n00SwDjgizPi.jpg</image:loc
+      >
+      <image:caption
+        >Based on footage shot in the early seventies and lost for more than
+        thirty years, we see and hear the young Bob Marley before he was famous.
+        The film shows us the Wailers' first rehearsal, when the idea of a
+        Jamaican supergroup was still just a dream. Sit in as the albums of Bob
+        Marley and the Wailers brought reggae music and Rasta consciousness to
+        the world, starting a revolution that would change rock music and
+        contemporary culture.</image:caption
+      >
+      <image:title>Bob Marley: The Making of a Legend</image:title>
+    </image:image>
+  </url>
+</urlset>

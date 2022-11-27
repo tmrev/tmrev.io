@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209403-Bad Words</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209403-Bad Words</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ZOz1GTFsrfGZNziZHupOvqUdub.jpg</image:loc
+      >
+      <image:caption
+        >A misanthropic man sets out to exact revenge on his estranged father,
+        by finding a loophole and attempting to win the National Spelling Bee as
+        an adult. Figuring it would destroy his father, and everything he's
+        worked so hard for as head of the Spelling Bee Championship
+        Organization, Guy Trilby eventually discovers winning isn't necessary
+        for revenge, and that friendship is a blessing not a
+        curse.</image:caption
+      >
+      <image:title>Bad Words</image:title>
+    </image:image>
+  </url>
+</urlset>

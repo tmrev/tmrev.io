@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515698-Axel 2: Adventures of the Spacekids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515698-Axel 2: Adventures of the Spacekids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPqt10o33sQV4prcOFDP3KogRdJ.jpg</image:loc
+      >
+      <image:caption
+        >The once beautiful and lush Planet Keplar is now dry and near death
+        after its precocious Kar-Lalo plant was exploited by Earthers to
+        extinction. The Kar-Lalo plant was known throughout the galaxy as a
+        source for super energy.</image:caption
+      >
+      <image:title>Axel 2: Adventures of the Spacekids</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/604786-As Long As There's Alcohol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/604786-As Long As There's Alcohol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3e8gfZEEgto1ykzec4NuhKnMRZi.jpg</image:loc
+      >
+      <image:caption
+        >The invisible side of modern Italy where fear, loneliness and crime
+        prevail. Following an inner impulse and searching for this dark Italy,
+        Michalis, the main character, one rainy morning will arrive in Milan and
+        wander the city with nostalgia. Every corner, every building, every
+        street is an occasion for the memory to run in the old days. A chance
+        acquaintance will lead him to the outskirts of the city to a giant
+        residential complex that everyone calls "Nightmare".</image:caption
+      >
+      <image:title>As Long As There's Alcohol</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/543061-Balsamista</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/543061-Balsamista</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film tells the story of the only Polish embalmer in Poland.
+        Ireneusz Migdal is 34 years old and has been working in the morgue for
+        12 years, preparing the bodies of the deceased for the funeral. He got
+        used to his work, he draws strength and peace from it. Families wanting
+        to embalm the bodies of their relatives turn to him.</image:caption
+      >
+      <image:title>Balsamista</image:title>
+    </image:image>
+  </url>
+</urlset>

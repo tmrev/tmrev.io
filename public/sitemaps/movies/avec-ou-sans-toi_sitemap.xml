@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/809061-Avec ou sans toi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/809061-Avec ou sans toi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/12amDcFYOQKlQxjRKUBJY7U3V44.jpg</image:loc
+      >
+      <image:caption
+        >A short film written by the AIDES teams in Bobigny on the occasion of
+        the International Day against LGBT Phobias, the film features Lucas, a
+        young man who announces his homosexuality to his mother.</image:caption
+      >
+      <image:title>Avec ou sans toi</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1040827-Araal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1040827-Araal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2cdKbF7aZbdFgmSEPCAvEJ87s2X.jpg</image:loc
+      >
+      <image:caption
+        >Muezzin Siddiq of a local mosque in Manpura Island discovered the body
+        of a prostitute on the floor of his house in the early morning. Siddiq
+        does not think about how this body came to his house. In this village,
+        Siddique has no one to call his own except the Imam of the mosque.
+        Siddiq goes to tell him, but can't say anything out of fear and shame.
+        What will Siddique do with this body?</image:caption
+      >
+      <image:title>Araal</image:title>
+    </image:image>
+  </url>
+</urlset>

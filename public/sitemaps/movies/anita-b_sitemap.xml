@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228107-Anita B.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228107-Anita B.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4BG8AdD84sWLHtkFGlqSE4MIUc5.jpg</image:loc
+      >
+      <image:caption
+        >After World War II, Anita, a young survivor of Auschwitz, becomes
+        involved in an intense and passionate affair that almost shatters her
+        until she gains the strength to start a new life.</image:caption
+      >
+      <image:title>Anita B.</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467117-Bhaskar Oru Rascal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467117-Bhaskar Oru Rascal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sSDoUF1ll8M8hyLJqxcfvF2iC1J.jpg</image:loc
+      >
+      <image:caption
+        >Two children raised by single parents want to enjoy the happiness of a
+        complete family. To achieve this, they try to unite their parents, but
+        end up in trouble.</image:caption
+      >
+      <image:title>Bhaskar Oru Rascal</image:title>
+    </image:image>
+  </url>
+</urlset>

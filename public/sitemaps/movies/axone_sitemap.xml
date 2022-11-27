@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627072-Axone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627072-Axone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tbj1Mu1XT4O684OtG1mQhWOIYq1.jpg</image:loc
+      >
+      <image:caption
+        >This bittersweet comedy follows immigrants in Delhi who are attempting
+        to organise a wedding party, but soon find everything going
+        wrong.</image:caption
+      >
+      <image:title>Axone</image:title>
+    </image:image>
+  </url>
+</urlset>

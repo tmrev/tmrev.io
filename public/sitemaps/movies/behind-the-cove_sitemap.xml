@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418685-Behind 'The Cove'</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418685-Behind 'The Cove'</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fGFibxOZu6qF5Kg1aHdfetsTGSd.jpg</image:loc
+      >
+      <image:caption
+        >Negative media coverage on the never-ending whaling issue prompted
+        first-time documentary filmmaker Keiko Yagi to find out more about the
+        topic. With no budget, limited experience in filmmaking, no fluency in
+        English, but armed with a video camera and a strong desire to find out
+        about the truth of the matter on whaling, Yagi started her
+        research.</image:caption
+      >
+      <image:title>Behind 'The Cove'</image:title>
+    </image:image>
+  </url>
+</urlset>

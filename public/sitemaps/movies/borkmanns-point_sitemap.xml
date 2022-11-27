@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/156158-Borkmann's Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/156158-Borkmann's Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1hl6MDVeQsHqLeoZiMofDf0hOEQ.jpg</image:loc
+      >
+      <image:caption
+        >Van Veeteren finds retiring from the police force is easier said than
+        done when two decapitated bodies are found in quick succession. The
+        matching MO in the two grisly murders brings the investigation teams of
+        Maardam and Kaalbringen together - a collaboration that is not without
+        its problems.</image:caption
+      >
+      <image:title>Borkmann's Point</image:title>
+    </image:image>
+  </url>
+</urlset>

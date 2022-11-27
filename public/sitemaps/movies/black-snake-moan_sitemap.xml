@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/7874-Black Snake Moan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/7874-Black Snake Moan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Yv7kxsqXSe4ZHl8uJEhmsPjhAP.jpg</image:loc
+      >
+      <image:caption
+        >A God-fearing bluesman takes to a wild young woman who, as a victim of
+        childhood sexual abuse, is looking everywhere for love, but never quite
+        finding it.</image:caption
+      >
+      <image:title>Black Snake Moan</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312113-Black November</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312113-Black November</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/onBy6iJt3BX8MSc7GjzIRgE07oV.jpg</image:loc
+      >
+      <image:caption
+        >A volatile, oil-rich Nigerian community wages war against their corrupt
+        government and a multi-national oil corporation to protect their land
+        from being destroyed by excessive drilling and spills. To seek justice,
+        a rebel organization kidnaps an American oil executive and demands that
+        his corporation end the destruction and pollution. Inspired by true
+        events, Black November is the gripping story of how a community rises up
+        and takes drastic measures to make sure their voices are
+        heard.</image:caption
+      >
+      <image:title>Black November</image:title>
+    </image:image>
+  </url>
+</urlset>

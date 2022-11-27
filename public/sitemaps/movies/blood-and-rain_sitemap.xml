@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123876-Blood and Rain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123876-Blood and Rain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lJq2mePPr2eBl5zWz9oCJMrK3kb.jpg</image:loc
+      >
+      <image:caption
+        >Taxi driver Jorge begins his night shift bent on revenge after his
+        brother's murder at the hands of a violent gang. But when an accident
+        brings him unexpectedly closer to his party-girl fare Angela, the
+        damaged pair must struggle against forces already set in motion, drawing
+        them inexorably into the rain soaked underworld of Bogota</image:caption
+      >
+      <image:title>Blood and Rain</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/255528-Blank: A Vinylmation Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/255528-Blank: A Vinylmation Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b8UDSRj9ZSyRJofqqfENklcBHpU.jpg</image:loc
+      >
+      <image:caption
+        >In search of his lost soul mate, an unpainted Vinylmation finds himself
+        on a quest that alters the destiny of his entire world.</image:caption
+      >
+      <image:title>Blank: A Vinylmation Love Story</image:title>
+    </image:image>
+  </url>
+</urlset>

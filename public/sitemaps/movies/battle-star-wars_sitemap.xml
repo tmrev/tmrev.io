@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/667574-Battle Star Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/667574-Battle Star Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ocA0ECiFoB4d1HITyEDQlLk7x84.jpg</image:loc
+      >
+      <image:caption
+        >When the leader of the evil Coalition threatens to destroy a Rebel
+        planet for its resources, his daughter will have no choice but to join
+        the Rebel side and fight for what is right.</image:caption
+      >
+      <image:title>Battle Star Wars</image:title>
+    </image:image>
+  </url>
+</urlset>

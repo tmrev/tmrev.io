@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15920-Autumn Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15920-Autumn Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A1RHlp8q0QxI4SREgSvUEe3asDk.jpg</image:loc
+      >
+      <image:caption
+        >A bittersweet comedy starring the great Vlastimil Brodský as Fanda, an
+        old man who refuses to grow up. Despite pleas from his exasperated wife
+        who wants him to make serious decisions about the future, Fanda ignores
+        the nagging and spends his days seeking amusement and
+        adventure.</image:caption
+      >
+      <image:title>Autumn Spring</image:title>
+    </image:image>
+  </url>
+</urlset>

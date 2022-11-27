@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2280-Big</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2280-Big</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg</image:loc
+      >
+      <image:caption
+        >When a young boy makes a wish at a carnival machine to be big—he wakes
+        up the following morning to find that it has been granted and his body
+        has grown older overnight. But he is still the same 13-year-old boy
+        inside. Now he must learn how to cope with the unfamiliar world of
+        grown-ups including getting a job and having his first romantic
+        encounter with a woman.</image:caption
+      >
+      <image:title>Big</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/548011-Baader-Meinhof Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/548011-Baader-Meinhof Gang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dgqY94sIkur52og5m6ZO0MtQ90W.jpg</image:loc
+      >
+      <image:caption
+        >The Baader-Meinhof gang, a left-wing terrorist collective born of the
+        student revolutions of the Sixties, terrorized West Germany with a
+        series of bombings, assassinations and hijackings in the Seventies. They
+        became die RAF - die rote army fraktion in 1970. It is claimed that
+        property destruction during the Watts riots in the United States in 1965
+        influenced the practical and ideological approach of the RAF founders.
+        As for changing the world, they failed. All they achieved was to make
+        West Germany a less tolerant, more paranoid society than it had been
+        before.</image:caption
+      >
+      <image:title>Baader-Meinhof Gang</image:title>
+    </image:image>
+  </url>
+</urlset>

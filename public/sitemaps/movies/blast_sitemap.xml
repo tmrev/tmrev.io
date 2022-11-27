@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/415284-Blast!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/415284-Blast!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vW6dzR7gavnpDe3u9DX0HQOAIoU.jpg</image:loc
+      >
+      <image:caption
+        >Brass and percussion blend with dramatic choreography, brilliant
+        lighting and special effects to create a new genre of performance in
+        BLAST! Its performers move constantly, staging intricate movements to
+        classical, symphonic, Broadway and popular music.Taped at the London
+        Apollo Hammersmith Theatre in April 2000, BLAST! musical highlights
+        include Ravel's "Bolero," Copland's "Appalachian Spring," and Chuck
+        Mangione's "Land of Make Believe."</image:caption
+      >
+      <image:title>Blast!</image:title>
+    </image:image>
+  </url>
+</urlset>

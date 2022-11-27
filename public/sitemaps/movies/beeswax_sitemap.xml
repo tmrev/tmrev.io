@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36703-Beeswax</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36703-Beeswax</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKhLIS8JC54o4yD2BHRuGhsz7l5.jpg</image:loc
+      >
+      <image:caption
+        >Jeannie and her estranged business partner Amanda have a falling out
+        leading to Amanda getting back with an ex and Jeannie bonding more with
+        her non-paralyzed twin Lauren.</image:caption
+      >
+      <image:title>Beeswax</image:title>
+    </image:image>
+  </url>
+</urlset>

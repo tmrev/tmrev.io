@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28182-Birth Rite</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28182-Birth Rite</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hpq4FjPIH5YCz450qhfnVgmVqH3.jpg</image:loc
+      >
+      <image:caption
+        >On her 18th birthday, Rebecca meets a mysterious man with magical
+        powers. Roman, the warlock, shows her how her parents were murdered and
+        bestows upon her the Sacred Amulet that is her birth rite. As she delves
+        into the black arts of witchcraft, her adopted sister, Erin, fights to
+        save her soul from the evil that has possessed her. It all ends in a
+        showdown of good and evil as Erin and Roman battle for
+        Rebecca.</image:caption
+      >
+      <image:title>Birth Rite</image:title>
+    </image:image>
+  </url>
+</urlset>

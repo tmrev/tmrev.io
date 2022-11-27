@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61077-Avida</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61077-Avida</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/www3gbNorP4wnqSEHjsQJEr5I20.jpg</image:loc
+      >
+      <image:caption
+        >The kidnapping of a plump billionaire's dog by a deaf-mute and 2
+        ketamine addicts goes wrong. The wealthy woman takes advantage of the
+        situation to make them fullfil her last wishes.</image:caption
+      >
+      <image:title>Avida</image:title>
+    </image:image>
+  </url>
+</urlset>

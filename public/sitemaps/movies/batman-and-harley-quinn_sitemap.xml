@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408648-Batman and Harley Quinn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408648-Batman and Harley Quinn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zrqIPpbqCgrs1rS0ltxNicJcuse.jpg</image:loc
+      >
+      <image:caption
+        >Batman and Nightwing are forced to team with the Joker's
+        sometimes-girlfriend Harley Quinn to stop a global threat brought about
+        by Poison Ivy and Jason Woodrue, the Floronic Man.</image:caption
+      >
+      <image:title>Batman and Harley Quinn</image:title>
+    </image:image>
+  </url>
+</urlset>

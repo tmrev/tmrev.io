@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373032-Backwards Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373032-Backwards Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zBKDCmJsaxG0V4z1sdAUmSUinw9.jpg</image:loc
+      >
+      <image:caption
+        >Cúilín Dualach lives in a small town in the west of Ireland. He is the
+        apple of his mother’s eye, yet his father shows him little affection.
+        Everywhere he goes, people stare at him. Cúilín strives to fit in as
+        best he can but that can be a difficult thing to do when your head is on
+        backwards!</image:caption
+      >
+      <image:title>Backwards Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8916-Antz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8916-Antz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg</image:loc
+      >
+      <image:caption
+        >A neurotic worker ant in love with a rebellious princess rises to
+        unlikely stardom when he switches places with a soldier. Signing up to
+        march in a parade, he ends up under the command of a bloodthirsty
+        general. But he's actually been enlisted to fight against a termite
+        army.</image:caption
+      >
+      <image:title>Antz</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42286-Berlín Express</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42286-Berlín Express</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eoJHaq8FLu7vJiJZTEs1OsdAjcy.jpg</image:loc
+      >
+      <image:caption
+        >Robert Ryan leads a group of Allied agents fighting an underground Nazi
+        group in post-war Europe.</image:caption
+      >
+      <image:title>Berlín Express</image:title>
+    </image:image>
+  </url>
+</urlset>

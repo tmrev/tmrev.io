@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/263876-Bob the Builder: Big Dino Dig</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/263876-Bob the Builder: Big Dino Dig</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eAXCdQHw44HLxnsHJGLagCAGxQK.jpg</image:loc
+      >
+      <image:caption
+        >Bob s building Fixham Harbour s new dinosaur-themed fun park with a
+        giant roller coaster and fantastic rides. Everything is going to plan
+        until the team begin unearth dinosaur bones on site! The machines can t
+        contain their excitement and are eager to dig in and get mucky, but
+        where are they going to put all the bones and who will be able to move
+        them and will dinosaur hunter Scratch be lucky enough to find his own
+        discovery? Fortunately Bob s got a plan and Rubble the new dumper truck
+        can help!</image:caption
+      >
+      <image:title>Bob the Builder: Big Dino Dig</image:title>
+    </image:image>
+  </url>
+</urlset>

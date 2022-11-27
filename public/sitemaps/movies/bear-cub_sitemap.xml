@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47549-Bear Cub</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47549-Bear Cub</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oAit5WpzApbgtJ1nJ95rl30zAuR.jpg</image:loc
+      >
+      <image:caption
+        >Pedro, a gay man with an active social life and big circle of friends,
+        takes in his nephew Bernardo for a couple weeks. When it appears as
+        though it might become a permanent arrangement, however, Pedro turns to
+        his friends for guidance as he and 9-year-old Bernardo begin to forge a
+        household together.</image:caption
+      >
+      <image:title>Bear Cub</image:title>
+    </image:image>
+  </url>
+</urlset>

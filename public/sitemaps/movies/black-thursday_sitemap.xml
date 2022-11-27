@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78326-Black Thursday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78326-Black Thursday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iVISdQkHFB2JyhdoEwIhn7dKsnu.jpg</image:loc
+      >
+      <image:caption
+        >Antoni Krauze reminds one of the darkest history of the cards with PRL.
+        Spectacular reconstruction of the dramatic events in Gdynia, ended a
+        brutal pacification of demonstrators by troops and militia in
+        1970.</image:caption
+      >
+      <image:title>Black Thursday</image:title>
+    </image:image>
+  </url>
+</urlset>

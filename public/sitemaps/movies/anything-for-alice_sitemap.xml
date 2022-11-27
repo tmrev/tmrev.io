@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/204765-Anything for Alice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/204765-Anything for Alice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/trfopBZxRfuy9QNMSdlEvU5TbZD.jpg</image:loc
+      >
+      <image:caption
+        >Slacker Max fell so hard for single mother Alice in college that he
+        developed a website aimed at winning her heart. Years later, after his
+        venture has earned him millions of dollars, Max risks his entire fortune
+        performing an ever more complicated series of social contortions to get
+        close to Alice, now a politically motivated factory
+        worker.</image:caption
+      >
+      <image:title>Anything for Alice</image:title>
+    </image:image>
+  </url>
+</urlset>

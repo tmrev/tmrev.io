@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38130-Audience of One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38130-Audience of One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film follows the story of a San Francisco Pentecostal minister
+        Richard Gazowsky on his quest to shoot a groundbreaking fantasy film
+        called Gravity: The Shadow of Joseph (described by him as "Star Wars
+        meets The Ten Commandments"). The film follows him and members of his
+        church as they go through pre-production and fly to Alberobello, Italy,
+        for initial shooting that turns out to be marred with
+        difficulties.</image:caption
+      >
+      <image:title>Audience of One</image:title>
+    </image:image>
+  </url>
+</urlset>

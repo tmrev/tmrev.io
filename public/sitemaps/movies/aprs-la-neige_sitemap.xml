@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/455408-Après la neige</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/455408-Après la neige</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xWrYlS4LWmG2xxfEs90KJG2w5wl.jpg</image:loc
+      >
+      <image:caption
+        >When a divorced music video producer is forced to shut down his
+        company, he attempts to rebuild his relationships with his father and
+        estranged teenage son.</image:caption
+      >
+      <image:title>Après la neige</image:title>
+    </image:image>
+  </url>
+</urlset>

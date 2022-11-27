@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20594-Anubis and the Path of 7 Sins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20594-Anubis and the Path of 7 Sins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mc9md6300okPu7vVD01RDKlEbcv.jpg</image:loc
+      >
+      <image:caption
+        >When their school bus crashes, a group of friends are sent to another
+        dimension in a medieval time zone.</image:caption
+      >
+      <image:title>Anubis and the Path of 7 Sins</image:title>
+    </image:image>
+  </url>
+</urlset>

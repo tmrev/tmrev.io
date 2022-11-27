@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/808021-Blitzed!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/808021-Blitzed!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h320E5Dr7Zgds15k1IYxx0VStav.jpg</image:loc
+      >
+      <image:caption
+        >Out of one small London venue called The Blitz came a generation of
+        outrageous teenagers, working class and art school kids, who would
+        define the look, the sound, the style and the attitude of the '80s and
+        beyond. This is their story.</image:caption
+      >
+      <image:title>Blitzed!</image:title>
+    </image:image>
+  </url>
+</urlset>

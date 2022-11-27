@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/846612-Berlin: Been there / to be here</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/846612-Berlin: Been there / to be here</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Numerous filmmakers and video artists have attempted, with varying
+        success, to produce visual representations of memories. The eye of
+        memory does not see things in the same way as the physical eye, and many
+        artists have come to regret this difference. Aravena Abughosh's attempt
+        belongs to the category of successes. He has managed to account for the
+        fragmentary and associative character of memory; for the vague emerging
+        and dissolving of images, and even for the feelings that are so
+        intrinsically linked to it.</image:caption
+      >
+      <image:title>Berlin: Been there / to be here</image:title>
+    </image:image>
+  </url>
+</urlset>

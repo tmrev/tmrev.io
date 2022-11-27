@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/270199-Beck 15 - The Boy in the Glass Ball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/270199-Beck 15 - The Boy in the Glass Ball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kEYTRwORL8vQGohSYObxO9JAp7q.jpg</image:loc
+      >
+      <image:caption
+        >Mother of an autistic boy is found murdered in her home. The boy holds
+        the murder weapon, covered in blood..</image:caption
+      >
+      <image:title>Beck 15 - The Boy in the Glass Ball</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44707-Blue Cha Cha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44707-Blue Cha Cha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vs245QD8OyOTLu7QtmmJQpE0Lim.jpg</image:loc
+      >
+      <image:caption
+        >Just coming out of the jail, depressed and close-hearted, Ah Yu met two
+        men with different characters from each other. One is a businessman,
+        charming and mature; the other is a young supervisor in a factory with a
+        promising future. But these two loves are short-lived, fading away like
+        bubbles on the beach. With a wounded soul, she went back to the cottage
+        owned by Sister An, a friend from jail.</image:caption
+      >
+      <image:title>Blue Cha Cha</image:title>
+    </image:image>
+  </url>
+</urlset>

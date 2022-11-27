@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69246-Asfaltenglene</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69246-Asfaltenglene</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e7Fqf8pnmbNYAoI6DAe9JM5ZmA0.jpg</image:loc
+      >
+      <image:caption
+        >It's vacation. 12-year-olds Maja, Rikke and Ohna have big ambitions to
+        not lift a finger this summer, but then the police find drugs hidden in
+        the restaurant. Saigon House is closed and Ohna's big brother gets
+        arrested. The girls know that he is innocent but he won't get out of
+        jail before the drug league is exposed. It's a case for the East End
+        Angels...</image:caption
+      >
+      <image:title>Asfaltenglene</image:title>
+    </image:image>
+  </url>
+</urlset>

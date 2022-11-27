@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/677054-Bad Roads</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/677054-Bad Roads</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1hOP3LhjOteXiplHI9WrK9SJSZU.jpg</image:loc
+      >
+      <image:caption
+        >Four short stories are set along the roads of Donbass during the war.
+        There are no safe spaces and no one can make sense of just what is going
+        on. Even as they are trapped in the chaos, some manage to wield
+        authority over others. But in this world, where tomorrow may never come,
+        not everyone is defenseless and miserable. Even the most innocent
+        victims may have their turn at taking charge.</image:caption
+      >
+      <image:title>Bad Roads</image:title>
+    </image:image>
+  </url>
+</urlset>

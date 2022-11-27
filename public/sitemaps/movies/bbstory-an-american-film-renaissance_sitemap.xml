@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/390638-BBStory: An American Film Renaissance</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/390638-BBStory: An American Film Renaissance</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l0V2f9nJsawkp670zkZgtMHAHV1.jpg</image:loc
+      >
+      <image:caption
+        >This 2009 documentary features directors Bob Rafelson, Peter
+        Bogdanovich, and Henry Jaglom, actor-director Jack Nicholson, and
+        actresses Karen Black and Ellen Burstyn, among others, reminiscing about
+        the making of the groundbreaking films of BBS
+        Productions.</image:caption
+      >
+      <image:title>BBStory: An American Film Renaissance</image:title>
+    </image:image>
+  </url>
+</urlset>

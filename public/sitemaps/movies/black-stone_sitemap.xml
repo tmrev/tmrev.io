@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317991-Black Stone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317991-Black Stone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/klVW6TualTxfLppFTXGT9mfR87f.jpg</image:loc
+      >
+      <image:caption
+        >While his parents are toiling away in a food processing plant in Seoul,
+        Shon Sun is drafted in the army. X is raped in the army, kills his
+        commander and deserts. Back in Seoul he finds out his parents have
+        disappeared. Intent on finding them, he embarks on a journey through the
+        contaminated jungle his father was born in. There, X meets his
+        grandmother and father and experiences magical moments right before his
+        death</image:caption
+      >
+      <image:title>Black Stone</image:title>
+    </image:image>
+  </url>
+</urlset>

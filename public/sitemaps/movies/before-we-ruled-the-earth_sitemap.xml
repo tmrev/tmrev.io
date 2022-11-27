@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/227588-Before We Ruled the Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/227588-Before We Ruled the Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5KGCNpN6NKtMDdJfJleyIm0hAmW.jpg</image:loc
+      >
+      <image:caption
+        >Before We Ruled the Earth is a two-part documentary television
+        miniseries featuring early human history and the challenges human beings
+        faced thousands of years ago.</image:caption
+      >
+      <image:title>Before We Ruled the Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

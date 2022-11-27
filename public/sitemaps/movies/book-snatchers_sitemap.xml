@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/579542-Book Snatchers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/579542-Book Snatchers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iLV6GQ0hNOXvBnypTJWaLpww8jt.jpg</image:loc
+      >
+      <image:caption
+        >An amazing story about the life of a modern girl and her friends, the
+        same desperate young people who do not want to put up with the gray
+        routine and boredom, eager to escape from the real world into the world
+        of their dreams and fantasies.</image:caption
+      >
+      <image:title>Book Snatchers</image:title>
+    </image:image>
+  </url>
+</urlset>

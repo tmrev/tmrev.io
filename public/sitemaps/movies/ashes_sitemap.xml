@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/610014-Ashes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/610014-Ashes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qBSkD9uR3g3RX3ZLvPFmzc2W98O.jpg</image:loc
+      >
+      <image:caption
+        >After the aunt, the "black sheep" of the family, has died, the family
+        is reluctant to accept the cremated remains of their relatives. But when
+        they are struck by a series of mysterious and supernatural events, they
+        must go through hell to get rid of the aunt's angry spirit once and for
+        all.</image:caption
+      >
+      <image:title>Ashes</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/823837-Black Easter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/823837-Black Easter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kswyBMyaFhLtoQNG2pyWW8rgX1S.jpg</image:loc
+      >
+      <image:caption
+        >When a billionaire gives a group of young scientists unlimited
+        resources to study the science of matter transfer, the scientists unlock
+        the secrets of time travel. But they soon find out that the project is
+        backed by a militant extremist group, and the billionaire plans to go
+        back in time and prove that Jesus never rose from the
+        dead.</image:caption
+      >
+      <image:title>Black Easter</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1015338-Baba Yaga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1015338-Baba Yaga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bsmdHmkZ0oEvE6UuD8oxWnDciMg.jpg</image:loc
+      >
+      <image:caption
+        >Baba Yaga is a witch in the enchanted Forest. When the viewer's mother,
+        the Chief, falls ill, it is up to them and their sister Magda to enter
+        the forbidden rainforest, uncover its hidden mysteries and get the cure
+        from Baba Yaga.</image:caption
+      >
+      <image:title>Baba Yaga</image:title>
+    </image:image>
+  </url>
+</urlset>

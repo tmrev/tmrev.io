@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/824386-Big Boys Don’t Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/824386-Big Boys Don’t Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zXwmFv0z6rBy39hOjm9cSnwP8ZB.jpg</image:loc
+      >
+      <image:caption
+        >Based on true events, Paul is forced to recall his harrowing childhood
+        growing up in a children’s home, when a police investigation into his
+        boyhood friend’s suicide opens old wounds. As Paul struggles to shake
+        off his past and build a relationship with Anthea, his fragile mental
+        state and bitter memories lead to a confrontation with those responsible
+        for his shattered childhood and the death of his friend.</image:caption
+      >
+      <image:title>Big Boys Don’t Cry</image:title>
+    </image:image>
+  </url>
+</urlset>

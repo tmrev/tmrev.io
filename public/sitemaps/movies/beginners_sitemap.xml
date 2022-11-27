@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55347-Beginners</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55347-Beginners</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/io2Tm89or3jO2pDtEAPEACx4wUe.jpg</image:loc
+      >
+      <image:caption
+        >Oliver meets the irreverent and unpredictable Anna only months after
+        his father Hal Fields has passed away. This new love floods Oliver with
+        memories of his father, who, following the death of his wife of 44
+        years, came out of the closet at age 75 to live a full, energized, and
+        wonderfully tumultuous gay life – which included a younger
+        boyfriend.</image:caption
+      >
+      <image:title>Beginners</image:title>
+    </image:image>
+  </url>
+</urlset>

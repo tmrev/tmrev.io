@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/218957-Bam Bam and Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/218957-Bam Bam and Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fyTedLCnZU4nZybGYpvzLNnUpCS.jpg</image:loc
+      >
+      <image:caption
+        >Celeste and Bam Bam escape their Midwest hometown for New York, and
+        take on their high-school nemeses - the dictators of the world-famous
+        Salon Mirage - while discovering that true beauty lies
+        within.</image:caption
+      >
+      <image:title>Bam Bam and Celeste</image:title>
+    </image:image>
+  </url>
+</urlset>

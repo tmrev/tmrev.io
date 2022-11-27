@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/840553-Beware Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/840553-Beware Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1QfmPmXxnHrTm4N1yF2mED3XE4K.jpg</image:loc
+      >
+      <image:caption
+        >The film Beware Dogs captures two days in the life of four eclectic
+        musicians and their struggle to create music. Across the city, in a
+        house dating back to a Delhi long forgotten, four musicians have a song
+        to weave. Indian Ocean, as the band is called, is a bit of the modern
+        city in itself. They draw myriad folk & local traditions fusing them
+        with the sound of the contemporary, creating music, which is
+        diasporic.</image:caption
+      >
+      <image:title>Beware Dogs</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/687895-Beauty Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/687895-Beauty Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pZTwqqGZPoH9lITVIQalJu0LfkL.jpg</image:loc
+      >
+      <image:caption
+        >High school friends Joo-yeon, So-jin, Hyeon-mi and Seon-hee have been
+        close since they were young but don’t pour their hearts out to each
+        other. Joo-yeon is an office girl, So-jin has been taking the bar exam
+        for 4 years, Hyeon-mi was born to be solo and Seon-hee who is out of
+        reach one day receive a picture of a rose and get together for the first
+        time in a while. They say the plates break when three girls gather at
+        once. Seon-hee isn’t there yet but Joo-yeon, So-jin and Hyeon-mi
+        released the vanity they’d kept inside for so long.</image:caption
+      >
+      <image:title>Beauty Wars</image:title>
+    </image:image>
+  </url>
+</urlset>

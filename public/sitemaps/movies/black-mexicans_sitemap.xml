@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/511354-Black Mexicans</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/511354-Black Mexicans</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k8H3jasVXHxKpAkcSpAk5k2LHDn.jpg</image:loc
+      >
+      <image:caption
+        >Among the black population of the Oaxacan coast, Juana and Magdalena
+        share their life with Neri although they know that it hurts them. In
+        addition, Juana's terminal disease will give Magdalena clarity to resume
+        her life.</image:caption
+      >
+      <image:title>Black Mexicans</image:title>
+    </image:image>
+  </url>
+</urlset>

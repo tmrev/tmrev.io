@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309680-Bank Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309680-Bank Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8zTmwRrF1GYZwTIzzkZfXrdbm8t.jpg</image:loc
+      >
+      <image:caption
+        >The city's biggest crime lords have hatched a plan: Recruit three of
+        the best bank robbers and hire them to go on a spree, which includes
+        snatching a highly valued gem the bosses can claim for insurance money.
+        Each one's working on his own, until they realize they're being played
+        against each other. Their counterattack? To band together and run off
+        with the loot, beating the mobsters at their own game. Stars Ryan Combs
+        and David E. Baker.</image:caption
+      >
+      <image:title>Bank Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

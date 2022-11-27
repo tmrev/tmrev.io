@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/208242-Assassins Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/208242-Assassins Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3LtLt4f2zA1mLJu5BZgN3IDZ9BM.jpg</image:loc
+      >
+      <image:caption
+        >Three assassins deal with life, love, addiction and trust as each tries
+        to find the answers to a better life. Together, they prove to be the
+        most trustworthy in this tangled web of murder, greed, friendship and
+        betrayal.</image:caption
+      >
+      <image:title>Assassins Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

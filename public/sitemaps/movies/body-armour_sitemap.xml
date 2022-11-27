@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21833-Body Armour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21833-Body Armour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Jbsxbn8m0UjrLzwUMtw9u72E9d.jpg</image:loc
+      >
+      <image:caption
+        >A burned-out bodyguard is hired to protect the man he hates the most:
+        an international assassin who destroyed his career and ruined his life.
+        Forced to put his personal feelings on hold, the bodyguard must use all
+        his skills and years of experience to keep the assassin alive in the
+        face of constant danger.</image:caption
+      >
+      <image:title>Body Armour</image:title>
+    </image:image>
+  </url>
+</urlset>

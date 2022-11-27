@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/974287-Black Jack: The Boy Who Came from the
+      Sky</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/974287-Black Jack: The Boy Who Came from the
+      Sky</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4AoGQfcMsJvpe06lpcinfuniu28.jpg</image:loc
+      >
+      <image:caption
+        >Black Jack is approached by a defecting soldier and his wife with a
+        plea to help their son, who is afflicted with a rare disease. Although
+        it might already be too late for the boy, Black Jack is able to save the
+        child. But at what cost?</image:caption
+      >
+      <image:title>Black Jack: The Boy Who Came from the Sky</image:title>
+    </image:image>
+  </url>
+</urlset>

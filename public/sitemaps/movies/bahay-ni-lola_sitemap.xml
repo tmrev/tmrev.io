@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/350005-Bahay ni Lola</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/350005-Bahay ni Lola</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e2yw4VAfRNSMnG8pWInbOFsmtyU.jpg</image:loc
+      >
+      <image:caption
+        >A vacationing family heads to their remote ancestral home to celebrate
+        Christmas, but when they begin to quarrel among themselves,
+        opportunistic demons seize the chance to infiltrate the clan. It's up to
+        the guardian spirit of the family's brave grandmother to save her
+        grandkids from the terrorizing sinister forces.</image:caption
+      >
+      <image:title>Bahay ni Lola</image:title>
+    </image:image>
+  </url>
+</urlset>

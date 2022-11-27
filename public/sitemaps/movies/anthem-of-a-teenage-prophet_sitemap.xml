@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454610-Anthem of a Teenage Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454610-Anthem of a Teenage Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nBW578tMQw6XbGN7iCv43QMh8pn.jpg</image:loc
+      >
+      <image:caption
+        >A small town-teen predicts his friend’s death with startling accuracy
+        and is labelled the “Prophet of Death.” One thing he didn’t see coming?
+        Falling in love - with his best friend’s girl.</image:caption
+      >
+      <image:title>Anthem of a Teenage Prophet</image:title>
+    </image:image>
+  </url>
+</urlset>

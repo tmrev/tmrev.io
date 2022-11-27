@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/796499-Army of Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/796499-Army of Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg</image:loc
+      >
+      <image:caption
+        >A mysterious woman recruits bank teller Ludwig Dieter to lead a group
+        of aspiring thieves on a top-secret heist during the early stages of the
+        zombie apocalypse.</image:caption
+      >
+      <image:title>Army of Thieves</image:title>
+    </image:image>
+  </url>
+</urlset>

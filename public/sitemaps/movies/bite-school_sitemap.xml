@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/285872-Bite School</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/285872-Bite School</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fXasAntzLhBjqGIifQZUjPP319F.jpg</image:loc
+      >
+      <image:caption
+        >Playboy millionaire, Tony Canoni, is caught between a satanic vampire
+        cult and the Yakuza, but taking on undead blood suckers and the Japanese
+        mafia isn't as hard as studying for his GED test at Night School. Based
+        on a true story. Except the mafia part. We all know that there are no
+        such things as the "Japanese".</image:caption
+      >
+      <image:title>Bite School</image:title>
+    </image:image>
+  </url>
+</urlset>

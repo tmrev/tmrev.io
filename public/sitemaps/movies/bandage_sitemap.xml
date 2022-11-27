@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/74495-Bandage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/74495-Bandage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Q6Rwb0bo878HZyHKTgnxn25MDT.jpg</image:loc
+      >
+      <image:caption
+        >Set in the 1990s during Japan's "band boom" era, the film tells the
+        tale of a girl in high school, Asako, who goes to a concert and meets
+        Natsu, vocalist of the new band LANDS. Asako ends up being the band
+        manager, but as the band's popularity starts to soar, the band's
+        friendship begins to suffer.</image:caption
+      >
+      <image:title>Bandage</image:title>
+    </image:image>
+  </url>
+</urlset>

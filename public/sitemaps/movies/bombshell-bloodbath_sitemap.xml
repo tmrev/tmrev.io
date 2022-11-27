@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279525-Bombshell Bloodbath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279525-Bombshell Bloodbath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nSd7sRuLPiWYvss6MX8YLFSVwYO.jpg</image:loc
+      >
+      <image:caption
+        >Doctor Carter losts his wife and devotes his life to resurrecting her.
+        However, every test of his C-900 formula creates hungry, flesh-eating
+        zombies. Then, his daughter Cara contracts the virus and she and her
+        sister strive to obtain the anti-serum.</image:caption
+      >
+      <image:title>Bombshell Bloodbath</image:title>
+    </image:image>
+  </url>
+</urlset>

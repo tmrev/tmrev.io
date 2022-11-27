@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587808-Backdraft 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587808-Backdraft 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg</image:loc
+      >
+      <image:caption
+        >Years after the original Backdraft, Sean, son of the late Steve "Bull"
+        McCaffrey, is assigned to investigate a deadly fire only to realize it
+        is something much more sinister.</image:caption
+      >
+      <image:title>Backdraft 2</image:title>
+    </image:image>
+  </url>
+</urlset>

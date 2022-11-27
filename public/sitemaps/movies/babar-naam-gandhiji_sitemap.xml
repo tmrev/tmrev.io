@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407678-Babar Naam Gandhiji</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407678-Babar Naam Gandhiji</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7UdY31WrkKYCNIndv9ZmieNRMFv.jpg</image:loc
+      >
+      <image:caption
+        >Babar Naam Gandhiji is about Mahatma Gandhi and modern society through
+        the eyes of street child. The film is based around a boy named Kencho,
+        who has an encounter with the Father of the Nation through a currency
+        note with Gandhiji's photo on it. The curious boy is adopted by an NGO
+        and is taught the ideals of Gandhiji.</image:caption
+      >
+      <image:title>Babar Naam Gandhiji</image:title>
+    </image:image>
+  </url>
+</urlset>

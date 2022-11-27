@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228736-Banklady</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228736-Banklady</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A15itmW5vVkU9jsbBJAYybMVdlG.jpg</image:loc
+      >
+      <image:caption
+        >Banklady tells the true story of Gisela Werler, a law-abiding factory
+        worker from Hamburg, who falls in love with a thief and becomes a media
+        darling as Germany’s first and most notorious female bank robber.
+        Cunning, sexy, and exciting, Gisela and her beloved Hermann pull off one
+        daring heist after another. Banklady follows this outlaw who captured
+        Germany’s imagination, boldly defying gender expectations and living a
+        decades-long Bonnie and Clyde romance.</image:caption
+      >
+      <image:title>Banklady</image:title>
+    </image:image>
+  </url>
+</urlset>

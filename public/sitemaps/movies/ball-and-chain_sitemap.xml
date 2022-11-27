@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42550-Ball and Chain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42550-Ball and Chain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uii4SDhM7mnnghJ4oJKubtgUWCG.jpg</image:loc
+      >
+      <image:caption
+        >Somewhere in the middle of Texas, Ameet (Sunil Malhotra) and Saima
+        (Lisa Ray) have a problem. They were perfectly happy avoiding each other
+        until their parents set them up to get married. The reluctant couple
+        decide to do whatever it takes to break off the engagement. After some
+        very embarrassing efforts, they finally succeed in getting their parents
+        to call off the wedding, only to realize they have another problem,
+        they're in love! Meanwhile, Saima's father (Asrani), deciding that she's
+        passed her expiration date, promises her to Ashol (Ismail Bashey)- a
+        sleazy playboy.</image:caption
+      >
+      <image:title>Ball and Chain</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27206-Bald</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27206-Bald</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kI9Y1tTybLGbzS8Smn5LNCl6nSj.jpg</image:loc
+      >
+      <image:caption
+        >BALD is the tale of Andrew Wood, a second year university student whose
+        grades are receding faster than his hairline. He hits rock bottom when
+        he finds out that hes been kicked out of school. In an effort to
+        increase his own self esteem and erase his insecurity about losing his
+        hair, Andrew and his best friend Max start an online internet business
+        with all of the girls at college.</image:caption
+      >
+      <image:title>Bald</image:title>
+    </image:image>
+  </url>
+</urlset>

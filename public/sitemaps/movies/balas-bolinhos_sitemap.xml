@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71780-Balas & Bolinhos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71780-Balas & Bolinhos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t8l0hRGG9BcA8IetL3LzCbzvngy.jpg</image:loc
+      >
+      <image:caption
+        >A group of friends meet and set out to rob a gas
+        station.</image:caption
+      >
+      <image:title>Balas & Bolinhos</image:title>
+    </image:image>
+  </url>
+</urlset>

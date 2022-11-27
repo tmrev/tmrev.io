@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/426502-Bloody Blacksmith</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/426502-Bloody Blacksmith</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/35kj7gvkatXuzD63sfmsVW7H6Zk.jpg</image:loc
+      >
+      <image:caption
+        >A group of history students are promised a reward if they can find the
+        ancient tools of legendary blacksmith, 'One-Eyed Yardley', who murdered
+        the townspeople of a remote rustic village in the 1800s. Legend says his
+        ghost still stalks these haunted grounds...</image:caption
+      >
+      <image:title>Bloody Blacksmith</image:title>
+    </image:image>
+  </url>
+</urlset>

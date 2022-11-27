@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/724585-Birdemic 3: Sea Eagle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/724585-Birdemic 3: Sea Eagle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5sriKCazFnnCyEI0hHozPjelYlw.jpg</image:loc
+      >
+      <image:caption
+        >Love blossoms between Evan and Kim in the coastal town of Santa Cruz,
+        California but so does a flock of displaced sea eagles, who go on a
+        rampage.</image:caption
+      >
+      <image:title>Birdemic 3: Sea Eagle</image:title>
+    </image:image>
+  </url>
+</urlset>

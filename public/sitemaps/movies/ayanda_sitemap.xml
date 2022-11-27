@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/340627-Ayanda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/340627-Ayanda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A coming of age story of a twenty one year old Afro hipster, who
+        embarks on a journey of self discovery trying to keep the memory of her
+        father alive, when she's thrown into a world of greasy overalls, gender
+        stereotypes and abandoned vintage cars in need of a young woman's re
+        inventive touch who tries to reclaim what would've been, what could've
+        been.</image:caption
+      >
+      <image:title>Ayanda</image:title>
+    </image:image>
+  </url>
+</urlset>

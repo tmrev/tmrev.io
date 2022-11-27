@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22029-Black Caesar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22029-Black Caesar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yq07GtsZiN1Ot2QkTWsKQypq65m.jpg</image:loc
+      >
+      <image:caption
+        >Tommy Gibbs is a tough kid, raised in the ghetto, who aspires to be a
+        kingpin criminal. As a young boy, his leg is broken by a bad cop on the
+        take, during a payoff gone bad. Nursing his vengeance, he rises to power
+        in Harlem, New York. Angry at the racist society around him, both
+        criminal and straight, he sees the acquisition of power as the solution
+        to his rage.</image:caption
+      >
+      <image:title>Black Caesar</image:title>
+    </image:image>
+  </url>
+</urlset>

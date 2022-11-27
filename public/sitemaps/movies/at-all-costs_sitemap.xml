@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416122-At All Costs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416122-At All Costs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aITQIdRBqTZWXWb91F4382dCJDA.jpg</image:loc
+      >
+      <image:caption
+        >At All Costs is a documentary set in the world of elite youth
+        grassroots basketball that explores how the AAU system has
+        professionalized youth basketball in America. We follow highly recruited
+        'blue chip' prospects, their families, and their teams as they navigate
+        the shaky terrain of the AAU circuit in pursuit of their
+        dreams.</image:caption
+      >
+      <image:title>At All Costs</image:title>
+    </image:image>
+  </url>
+</urlset>

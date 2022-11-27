@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/976269-Bonny And Clara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/976269-Bonny And Clara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8YlPTZhqoEBUV3Gq10qSDTUtZIL.jpg</image:loc
+      >
+      <image:caption
+        >Two Petty Thieves (Bonny & Clara) get into trouble when they snatch a
+        mysterious Briefcase which belongs to a notorious Gang Leader. Now they
+        must run for their lives and also find a way to extract the content of
+        the briefcase before Ebuka, the rightful owner catches up with
+        them.</image:caption
+      >
+      <image:title>Bonny And Clara</image:title>
+    </image:image>
+  </url>
+</urlset>

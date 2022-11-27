@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/465571-Bandipotu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/465571-Bandipotu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qxLyRRKvQEqGdLxYYF5ytAnZ1WB.jpg</image:loc
+      >
+      <image:caption
+        >When Jahnavi approaches Vishwanath, a con man, with an idea to
+        humiliate three people, who wrecked her father's life, he joins hands
+        with her without any second thoughts. The rest of the film is about how
+        Vishwanath succeeds in his mission.</image:caption
+      >
+      <image:title>Bandipotu</image:title>
+    </image:image>
+  </url>
+</urlset>

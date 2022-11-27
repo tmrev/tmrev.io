@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/811076-Barbarians</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/811076-Barbarians</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6GQH7czsea1iEPmBbcbTzF5x1sF.jpg</image:loc
+      >
+      <image:caption
+        >A civilized dinner party in a country house sees four friends, Lucas,
+        Adam, Chloe, and Eve, coming together for a birthday celebration. As the
+        night progresses secrets and lies force themselves into the light and
+        polite pretensions are dropped. A knock at the door reveals three masked
+        intruders with an agenda of their own. Will their friendship stand the
+        test? Can they survive the night or will their secrets eventually catch
+        up with them?</image:caption
+      >
+      <image:title>Barbarians</image:title>
+    </image:image>
+  </url>
+</urlset>

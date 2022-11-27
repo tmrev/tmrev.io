@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/881958-Barricata San Calisto</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/881958-Barricata San Calisto</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uxX2CEMASNw85APF6l8AfAxhlAT.jpg</image:loc
+      >
+      <image:caption
+        >a documentary about the story and characters of the Bar San Calisto - a
+        famous bar located in the neighbourhood of trastevere in
+        Rome.</image:caption
+      >
+      <image:title>Barricata San Calisto</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/606222-Bitter Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/606222-Bitter Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8jpKGJcaaHe4Rmr6rJvlIFw3klI.jpg</image:loc
+      >
+      <image:caption
+        >In 1941, a Greek soldier accidentally kills a German soldier and
+        carries a burden on his conscience. After many years, the memories
+        return and this man wants to return the personal belongings, which he
+        had taken from the dead soldier to his family, as a last tribute and in
+        this way to save his soul. However, his forces abandon him and Myrto's
+        granddaughter is called to fulfill this odyssey ...</image:caption
+      >
+      <image:title>Bitter Snow</image:title>
+    </image:image>
+  </url>
+</urlset>

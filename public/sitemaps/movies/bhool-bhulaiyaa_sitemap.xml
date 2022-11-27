@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19025-Bhool Bhulaiyaa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19025-Bhool Bhulaiyaa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/soRW3p4GlPphHiFkwbqYGrodQ5S.jpg</image:loc
+      >
+      <image:caption
+        >An NRI and his wife decide to stay in his ancestral home, paying no
+        heed to the warnings about ghosts. Soon, inexplicable occurrences cause
+        him to call a psychiatrist to help solve the mystery.</image:caption
+      >
+      <image:title>Bhool Bhulaiyaa</image:title>
+    </image:image>
+  </url>
+</urlset>

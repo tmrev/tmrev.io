@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207909-Battle of Westerplatte</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207909-Battle of Westerplatte</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/24Xrgc2NV2qMysnVpHeDKDPekz7.jpg</image:loc
+      >
+      <image:caption
+        >This harrowing war film is an epic dramatization of the first battle of
+        World War II. The Battle of Westerplatte that began on 1 September 1939
+        will forever be remembered as the one that announced the beginning of
+        the Second World War in Europe. Over one week, fewer than 200 Polish
+        soldiers fought against heavy German bombardment and in the process came
+        to symbolize the power of resistance. As the violence rages, a complex
+        battle of a more personal nature plays out between two Polish commanders
+        over how to best lead their men. Amid the bloodshed, they must ask
+        themselves – should they fight until the last man standing or surrender
+        in the face of overwhelming odds? What unfolds is a stirring exploration
+        of the fight against the forces of tyranny.</image:caption
+      >
+      <image:title>Battle of Westerplatte</image:title>
+    </image:image>
+  </url>
+</urlset>

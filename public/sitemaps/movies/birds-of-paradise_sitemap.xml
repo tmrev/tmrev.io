@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/667969-Birds of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/667969-Birds of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h3v0rsQvik8yMh3LStRiDu0GTHP.jpg</image:loc
+      >
+      <image:caption
+        >Two dancers at an elite ballet academy in Paris must compete for a
+        contract to join the highly coveted Opéra National de Paris as they
+        confront their competitive nature, sexual awakenings and how far they
+        would go to win.</image:caption
+      >
+      <image:title>Birds of Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

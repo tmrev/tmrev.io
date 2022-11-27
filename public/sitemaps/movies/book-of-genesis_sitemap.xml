@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/780223-Book Of Genesis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/780223-Book Of Genesis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ESSZI6LGKoDnRV8L1zd1nZ1kIi.jpg</image:loc
+      >
+      <image:caption
+        >Onishi’s short Book Of Genesis (2002) shows us in an impressive way the
+        connection between the sky and skylines, made of all that technical
+        stuff human beings have created. We watch storms and lighting in a
+        colourful composition, connected to your TV or radio and maybe there is
+        a fight going on. And sometimes you’re just being manipulated. Which is
+        great, and it’s part of every director’s craft. (Desistfilm,
+        2015)</image:caption
+      >
+      <image:title>Book Of Genesis</image:title>
+    </image:image>
+  </url>
+</urlset>

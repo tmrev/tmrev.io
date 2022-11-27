@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22747-Bob the Butler</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22747-Bob the Butler</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gbVHXnDlx9UPCYH9bIAP5Dr8PC3.jpg</image:loc
+      >
+      <image:caption
+        >Bob, an incompetent man, is searching for an available job by
+        alphabetical order. He had just failed all of the A's, and discovers an
+        ad in the Yellow Pages for a butler school. He is the only one in the
+        butler school course to pass, because all of the other people quit due
+        to the embarrassment and pressure of the teacher.</image:caption
+      >
+      <image:title>Bob the Butler</image:title>
+    </image:image>
+  </url>
+</urlset>

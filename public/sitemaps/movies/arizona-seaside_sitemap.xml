@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272473-Arizona Seaside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272473-Arizona Seaside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cfbK1zu3NluwNmcPoIgPSoUN4N2.jpg</image:loc
+      >
+      <image:caption
+        >Comedy - Elena, a young factory worker from Kazakhstan with Nashville
+        dreams, is duped by a wannabe pimp and oddball gangster. Through a
+        comedy of errors she crosses paths with a sweet con man moonlighting as
+        a Robin Hood for stray animals. - Roy Werner, Kim Delgado,
+        Sanjay</image:caption
+      >
+      <image:title>Arizona Seaside</image:title>
+    </image:image>
+  </url>
+</urlset>

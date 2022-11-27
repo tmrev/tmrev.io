@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466484-Banda, The Dark Forgotten Trail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466484-Banda, The Dark Forgotten Trail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k9i1EfFDv6U45q5Xc38Ger6wseI.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about the illustrious history of spice trade in Banda
+        East Indonesia.</image:caption
+      >
+      <image:title>Banda, The Dark Forgotten Trail</image:title>
+    </image:image>
+  </url>
+</urlset>

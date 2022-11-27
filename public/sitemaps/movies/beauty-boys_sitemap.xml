@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/682139-Beauty Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/682139-Beauty Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cd21acC73Zvu3LO8Yqh0wSs4i4L.jpg</image:loc
+      >
+      <image:caption
+        >In their small village, seventeen-year-old Léo and his friends are
+        crazy about makeup. Jules, Léo's older brother, doesn't share his
+        sibling's passion, fearing he'll be the laughing stock among his gang of
+        pals. The night of the village's "open theater" event, against Jules'
+        advice, Léo walks on the stage dressed in drag.</image:caption
+      >
+      <image:title>Beauty Boys</image:title>
+    </image:image>
+  </url>
+</urlset>

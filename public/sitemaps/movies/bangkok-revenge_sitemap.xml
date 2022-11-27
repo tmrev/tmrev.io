@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/128185-Bangkok Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/128185-Bangkok Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pNT22AQgeL3l4HdRuDMMoHvOsQg.jpg</image:loc
+      >
+      <image:caption
+        >Manit (Jon Foo) witnessed the murder of his parents when he was just 10
+        years old. The killers shot him in the head, but he miraculously
+        survived. However, the damage to his brain left him unable to experience
+        regular human emotions. A martial arts master saved him and took him in.
+        Twenty years later, Manit has become a master of martial arts himself.
+        He returns to the scene of the crime, seeking justice.</image:caption
+      >
+      <image:title>Bangkok Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

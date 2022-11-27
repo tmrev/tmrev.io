@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425860-Baka Bukas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425860-Baka Bukas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ohaB39pKYyXqpBlVkueY5XWH1m.jpg</image:loc
+      >
+      <image:caption
+        >Alex is a 23 year old gay girl based in Manila. She is out to most
+        people except her best friend Jess who she has been secretly in love
+        with since they were kids. When Jess discovers the truth about Alex,
+        they are forced to confront the feelings they have for each
+        other.</image:caption
+      >
+      <image:title>Baka Bukas</image:title>
+    </image:image>
+  </url>
+</urlset>

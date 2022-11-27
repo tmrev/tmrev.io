@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/568066-Bikes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/568066-Bikes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c7hFWcR1MtWqx5IuJWJmI4kjVFZ.jpg</image:loc
+      >
+      <image:caption
+        >Life for the bike citizens is idyllic, until one day, a new and
+        surprising gizmo, the gas engine, comes to town. What follows is a
+        thrilling, hilarious adventure, that will see Speedy the mountain bike
+        become the unwitting leader of a group of environmental activists, who
+        are determined to stop the gas engine from polluting their unspoilt
+        haven.</image:caption
+      >
+      <image:title>Bikes</image:title>
+    </image:image>
+  </url>
+</urlset>

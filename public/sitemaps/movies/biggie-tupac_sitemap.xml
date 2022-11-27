@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30586-Biggie & Tupac</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30586-Biggie & Tupac</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hh64yVsYNWjPGcIEKITp0f6Uqsu.jpg</image:loc
+      >
+      <image:caption
+        >In 1997, rap superstars Tupac Shakur and Christopher Wallace (aka
+        Biggie Smalls, The Notorious B.I.G.) were gunned down in separate
+        incidents, the apparent victims of hip hop's infamous east-west rivalry.
+        Nick Broomfield's film introduces Russell Poole, an ex-cop with damning
+        evidence that suggests the LAPD deliberately fumbled the case to conceal
+        connections between the police, LA gangs and Death Row Records, the
+        label run by feared rap mogul Marion "Suge" Knight.</image:caption
+      >
+      <image:title>Biggie & Tupac</image:title>
+    </image:image>
+  </url>
+</urlset>

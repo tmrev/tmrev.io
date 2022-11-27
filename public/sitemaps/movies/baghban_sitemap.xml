@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39839-Baghban</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39839-Baghban</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg</image:loc
+      >
+      <image:caption
+        >After dedicating their whole life in upbringing their children, elderly
+        couple Raj Malhotra and Pooja gets homeless. Instead of caring, their
+        children treat them as a burden.</image:caption
+      >
+      <image:title>Baghban</image:title>
+    </image:image>
+  </url>
+</urlset>

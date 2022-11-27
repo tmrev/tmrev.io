@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19599-Book of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19599-Book of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aKgshqVFvuzMl89YMNdO9pd8eFi.jpg</image:loc
+      >
+      <image:caption
+        >Based on the wraparound story penned by Clive Barker in the author's
+        "Books of Blood" collection, the story centers on a paranormal expert
+        who, while investigating a gruesome slaying, finds a house that is at
+        the intersection of "highways" transporting souls to the
+        afterlife.</image:caption
+      >
+      <image:title>Book of Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

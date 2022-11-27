@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45830-Behind the Wall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45830-Behind the Wall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jDlPWlc4ei1kG6zAwDlg1KxDdGi.jpg</image:loc
+      >
+      <image:caption
+        >In this chilling, atmospheric thriller, Katelyn (Lindy Booth) seeks
+        answers about the brutal murder that claimed her mother's life 20 years
+        ago in the lighthouse where they lived, a crime for which her
+        grief-and-guilt-crazed father has long held the blame. When developers
+        descend on the abandoned lighthouse and begin to vanish mysteriously,
+        Katelyn comes face-to-face with the evil haunts the family's former
+        abode.</image:caption
+      >
+      <image:title>Behind the Wall</image:title>
+    </image:image>
+  </url>
+</urlset>

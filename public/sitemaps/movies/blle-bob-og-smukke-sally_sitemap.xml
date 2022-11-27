@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37508-Bølle Bob og smukke Sally</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37508-Bølle Bob og smukke Sally</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Q89cGgFeufVB4dLcsfBvVT8bBl.jpg</image:loc
+      >
+      <image:caption
+        >Bully Bob is in love, but it is very difficult to say it. At the same
+        time beautiful Sally interested in making their presence felt. When a
+        sudden, a television crew to town she gets her chance.</image:caption
+      >
+      <image:title>Bølle Bob og smukke Sally</image:title>
+    </image:image>
+  </url>
+</urlset>

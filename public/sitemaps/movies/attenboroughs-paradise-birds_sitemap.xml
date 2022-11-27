@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335016-Attenborough's Paradise Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335016-Attenborough's Paradise Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d1cJQKIRrHmMBEdpaUgMhVggue4.jpg</image:loc
+      >
+      <image:caption
+        >David Attenborough tells the remarkable story of how these " birds of
+        paradise " have captivated explorers , naturalists, artists, filmmakers
+        and even royalty.</image:caption
+      >
+      <image:title>Attenborough's Paradise Birds</image:title>
+    </image:image>
+  </url>
+</urlset>

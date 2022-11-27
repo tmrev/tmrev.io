@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2897-Around the World in Eighty Days</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2897-Around the World in Eighty Days</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kk6Rrwh0toMz9tjuUHdS4O3v2Rk.jpg</image:loc
+      >
+      <image:caption
+        >Based on the famous book by Jules Verne the movie follows Phileas Fogg
+        on his journey around the world. Which has to be completed within 80
+        days, a very short period for those days.</image:caption
+      >
+      <image:title>Around the World in Eighty Days</image:title>
+    </image:image>
+  </url>
+</urlset>

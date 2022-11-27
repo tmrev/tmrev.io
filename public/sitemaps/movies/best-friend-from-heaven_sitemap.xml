@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/488343-Best Friend from Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/488343-Best Friend from Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yA4TfCd72adffkGIpcmOdZf8rh4.jpg</image:loc
+      >
+      <image:caption
+        >When a tragic accident takes the life of her dog, Tara is forced to
+        cancel her wedding. With a little help from above, their small town
+        rallies together to make sure these two are able to have the wedding of
+        their dreams.</image:caption
+      >
+      <image:title>Best Friend from Heaven</image:title>
+    </image:image>
+  </url>
+</urlset>

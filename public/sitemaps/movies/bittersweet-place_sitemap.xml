@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/927165-Bittersweet Place</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/927165-Bittersweet Place</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xdpNx1O17VM5cMrqeCuShAU9Fvq.jpg</image:loc
+      >
+      <image:caption
+        >The story of the Schaffer family, made up of terminally ill father Jack
+        and his two daughters, bipolar Pappy, and Susannah, who tries to keep
+        the family together despite it taking a strain on her romantic
+        life.</image:caption
+      >
+      <image:title>Bittersweet Place</image:title>
+    </image:image>
+  </url>
+</urlset>

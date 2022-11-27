@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/763452-Black Cherry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/763452-Black Cherry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A woman finds herself confronted by her own image: who is she, and what
+        makes her a woman? As she finds a black cherry that seduces her, she is
+        forced to explore and to finally take full control of her own body. Her
+        desire is aroused by an apparently insignificant fruit.</image:caption
+      >
+      <image:title>Black Cherry</image:title>
+    </image:image>
+  </url>
+</urlset>

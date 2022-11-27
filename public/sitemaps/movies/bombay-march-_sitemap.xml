@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/211765-Bombay March 12</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/211765-Bombay March 12</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eYYQfhjayIatyiudA182RIxkBXd.jpg</image:loc
+      >
+      <image:caption
+        >The story is about Sameer (Mammootty), a sweeper with the Alapuzha
+        Municipality, who is always on tenterhooks because he is on the police
+        radar whenever there is trouble or an act of terror occurs. Later it is
+        revealed that his brother-in-law Shahjahan (Unni Mukundan) was suspected
+        to be part of the terror team that had planted bombs in Bombay in 1993
+        and was later killed in an encounter with the Army in Andhra
+        Pradesh.</image:caption
+      >
+      <image:title>Bombay March 12</image:title>
+    </image:image>
+  </url>
+</urlset>

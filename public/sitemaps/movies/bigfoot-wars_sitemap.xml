@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/290724-Bigfoot Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/290724-Bigfoot Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mc5jvkwBkeMkNysxH4ZnDRzLcBX.jpg</image:loc
+      >
+      <image:caption
+        >After the sheriff of the small town of Boggy Creek receives reports of
+        attacks from a vicious beast bearing resemblance to the legendary
+        Sasquatch, he enlists the help of an expert survivalist (The Outsider's
+        C. Thomas Howell) and sets out to hunt down the creature. However, as
+        they wander into the wilderness they discover that an entire tribe of
+        Sasquatches awaits them. Now the enraged creatures descend from the
+        hills and into the town to declare war upon its citizens.</image:caption
+      >
+      <image:title>Bigfoot Wars</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029509-Banksy in London</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029509-Banksy in London</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rPoMIl7xz0ZFkMs8YxnC4C3NrYe.jpg</image:loc
+      >
+      <image:caption
+        >Outtakes from Finisterre (from A London Trilogy) that document the
+        artist’s work, some of which is no longer in situ.</image:caption
+      >
+      <image:title>Banksy in London</image:title>
+    </image:image>
+  </url>
+</urlset>

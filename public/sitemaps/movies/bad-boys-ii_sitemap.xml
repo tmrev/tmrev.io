@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8961-Bad Boys II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8961-Bad Boys II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg</image:loc
+      >
+      <image:caption
+        >Out-of-control, trash-talking buddy cops Marcus Burnett and Mike Lowrey
+        of the Miami Narcotics Task Force reunite, and bullets fly, cars crash
+        and laughs explode as they pursue a whacked-out drug lord from the
+        streets of Miami to the barrios of Cuba. But the real fireworks result
+        when Marcus discovers that playboy Mike is secretly romancing Marcus’
+        sexy sister.</image:caption
+      >
+      <image:title>Bad Boys II</image:title>
+    </image:image>
+  </url>
+</urlset>

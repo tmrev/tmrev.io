@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8965-Atlantis: Milo's Return</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8965-Atlantis: Milo's Return</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c9siOypFgzsKL4LQI1d3EkDN6U3.jpg</image:loc
+      >
+      <image:caption
+        >Milo and Kida reunite with their friends to investigate strange
+        occurances around the world that seem to have links to the secrets of
+        Atlantis.</image:caption
+      >
+      <image:title>Atlantis: Milo's Return</image:title>
+    </image:image>
+  </url>
+</urlset>

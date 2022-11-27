@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454908-Battlecock!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454908-Battlecock!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sIPvJEAGdfHYE6mQB15kow85H4u.jpg</image:loc
+      >
+      <image:caption
+        >The Dukinson brothers have finally beaten their arch rivals, but the
+        Krullmuller sisters are out for blood and revenge is a dish best served
+        underarm.</image:caption
+      >
+      <image:title>Battlecock!</image:title>
+    </image:image>
+  </url>
+</urlset>

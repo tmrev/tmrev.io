@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/624788-Black Bear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/624788-Black Bear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nqZFjQRWfW6PjFTc17pzJ5LRAAv.jpg</image:loc
+      >
+      <image:caption
+        >At a remote lake house in the Adirondack Mountains, a couple entertains
+        an out-of-town guest looking for inspiration in her filmmaking. The
+        group quickly falls into a calculated game of desire, manipulation, and
+        jealousy, unaware of how dangerously intertwined their lives will soon
+        become.</image:caption
+      >
+      <image:title>Black Bear</image:title>
+    </image:image>
+  </url>
+</urlset>

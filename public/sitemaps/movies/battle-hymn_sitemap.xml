@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75046-Battle Hymn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75046-Battle Hymn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rwvnWJDg8KsFGsx6le6Bb9jsPWc.jpg</image:loc
+      >
+      <image:caption
+        >Battle Hymn was inspired by the true story of American minister Dean
+        Hess, played here with rare sensitivity by Rock Hudson. A bomber pilot
+        during World War II, Hess inadvertently releases a bomb which destroys a
+        German orphanage. Tortured by guilt, Hess relocates in Korea after the
+        war to offer his services as a missionary. Combining the best elements
+        of Christianity and Eastern spiritualism, Hess establishes a large home
+        for orphans. The preacher's efforts are threatened when the Korean
+        "police action" breaks out in 1950.</image:caption
+      >
+      <image:title>Battle Hymn</image:title>
+    </image:image>
+  </url>
+</urlset>

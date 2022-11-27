@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104274-Blastfighter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104274-Blastfighter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dCv591lbALZtzkFWpQ1KBS7j7ne.jpg</image:loc
+      >
+      <image:caption
+        >Former cop Jake 'Tiger' Sharp returns to his old hometown after having
+        been in prison for the murder of his wife's killer. Illegal hunting
+        seems to be widespread and inbred rednecks control the city with an iron
+        fist. Jake manages to make himself an enemy to hillbillies and he and
+        his newly found daughter had to flee for their lives. Fortunately, Jake
+        a GAT that can shoot grenades and rockets ...</image:caption
+      >
+      <image:title>Blastfighter</image:title>
+    </image:image>
+  </url>
+</urlset>

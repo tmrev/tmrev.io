@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6478-Beyond the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6478-Beyond the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wIewPJNyyTIMI5rQzcElc23jenW.jpg</image:loc
+      >
+      <image:caption
+        >Based on the life and career of legendary entertainer, Bobby Darin, the
+        biopic moves back and forth between his childhood and adulthood, to tell
+        the tale of his life.</image:caption
+      >
+      <image:title>Beyond the Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

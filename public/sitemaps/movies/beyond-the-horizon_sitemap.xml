@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/592789-Beyond the Horizon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/592789-Beyond the Horizon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nQOh2FruQijwiR3e35qzLjFdWGj.jpg</image:loc
+      >
+      <image:caption
+        >Summer '76, there's a heatwave and the Swiss countryside is drying out
+        at top speed. In this stifling environment, Gus who is thirteen years
+        old and son of a farmer, sees both his family environment and his
+        innocence relentlessly breaking. He's living the end of a
+        world.</image:caption
+      >
+      <image:title>Beyond the Horizon</image:title>
+    </image:image>
+  </url>
+</urlset>

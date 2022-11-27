@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041463-Another Possible Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041463-Another Possible Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uncwpNlOhyK7f8GNntiYYMfzyRn.jpg</image:loc
+      >
+      <image:caption
+        >A man and a woman meet again after many years - on the territory and
+        circumstances of post-socialist Bulgaria. A university graduate and
+        poetess, forced to adapt herself to the new social environment, she
+        survives in her own country as a tram driver. Having arrived for his
+        father's funeral after years of travels abroad, he catches a glimpse of
+        his old flame accidentally in a tram. Could they bring back their
+        emotional time, the time of their lives? Could they try to resurrect
+        whatever bound them together in their youth?</image:caption
+      >
+      <image:title>Another Possible Life</image:title>
+    </image:image>
+  </url>
+</urlset>

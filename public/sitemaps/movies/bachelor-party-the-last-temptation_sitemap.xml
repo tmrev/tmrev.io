@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/14503-Bachelor Party 2: The Last Temptation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/14503-Bachelor Party 2: The Last Temptation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5jYCn53G4oqNnGLh6TThQduJqxT.jpg</image:loc
+      >
+      <image:caption
+        >Ron Simmons is ready to settle down and get married, but first, he must
+        survive his out-of-control bachelor party.</image:caption
+      >
+      <image:title>Bachelor Party 2: The Last Temptation</image:title>
+    </image:image>
+  </url>
+</urlset>

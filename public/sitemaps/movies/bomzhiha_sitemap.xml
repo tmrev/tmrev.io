@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627940-Bomzhiha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627940-Bomzhiha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g0DjtGglDiC0gHOhhqdtfJI8Ve9.jpg</image:loc
+      >
+      <image:caption
+        >Tatyana is a forty-five year old teacher from Moscow who borrows a
+        large sum of money to pay for her sick mother's operation. Sadly her
+        mother dies, and Tatyana soon finds herself plunged into debt. Her
+        financial situation spirals further out of control when she is ill
+        advised by her friends to set up a cake stall at the local market, a
+        venture, which, not surprisingly, fails. Tatyana is forced to sell her
+        apartment and, after an argument with her niece with whom she has been
+        staying, Tatyana is left with no job and nowhere to live.</image:caption
+      >
+      <image:title>Bomzhiha</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/669123-Anveshanam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/669123-Anveshanam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jFNJZJgYr7kZIfUIr1y7NvTNQmb.jpg</image:loc
+      >
+      <image:caption
+        >Aravind is informed that something unexpected has happened to his
+        family and has to reach the hospital immediately. What awaits him comes
+        as a shock as he is soon sucked into a miasma of questions that he has
+        to fight to find the answers.</image:caption
+      >
+      <image:title>Anveshanam</image:title>
+    </image:image>
+  </url>
+</urlset>

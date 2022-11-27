@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/341712-Antes de Morir</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/341712-Antes de Morir</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Andrés lives obsessed with the disappearance and possible murder of his
+        family during a violent military coup in his country. The years have
+        aggravated his obsession and he has become a police man as a way of
+        accessing the truth. There is some madness in his life. He won’t rest
+        until he finds the truth which is closer every day.</image:caption
+      >
+      <image:title>Antes de Morir</image:title>
+    </image:image>
+  </url>
+</urlset>

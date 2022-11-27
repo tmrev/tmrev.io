@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11693-Big Man Japan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11693-Big Man Japan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pT5ze3fjW8rYPVtqDyHSRNExHTq.jpg</image:loc
+      >
+      <image:caption
+        >Daisato, a second-rate, third-generation superhero, annoys his
+        neighbors with the noise and destruction he causes on the job. But a
+        heroic public image is the least of his concerns. Besides defending
+        Japan from bizarre monsters, he must deal with an agent seeking to brand
+        him with ads, a superhero grandfather with Alzheimer's and a family
+        embarrassed by his incompetence.</image:caption
+      >
+      <image:title>Big Man Japan</image:title>
+    </image:image>
+  </url>
+</urlset>

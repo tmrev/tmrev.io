@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55420-Another Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55420-Another Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qvGJK3lFzpifAdyIupMNdWNX0qr.jpg</image:loc
+      >
+      <image:caption
+        >On the night of the discovery of a duplicate Earth in the Solar system,
+        an ambitious young student and an accomplished composer cross paths in a
+        tragic accident.</image:caption
+      >
+      <image:title>Another Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

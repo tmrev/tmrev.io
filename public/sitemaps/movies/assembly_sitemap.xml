@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14044-Assembly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14044-Assembly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d8drBimtE0UFLlIh8BrLyk0C8Ad.jpg</image:loc
+      >
+      <image:caption
+        >Follows a soldier trying to gain recognition for comrades who died in
+        1948, at a turning point in the civil war between the communists and the
+        nationalist forces of the Kuomintang (KMT).</image:caption
+      >
+      <image:title>Assembly</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97340-Black's Game</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97340-Black's Game</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iG3e6KeIvhbkryLolUGx8BNfCnj.jpg</image:loc
+      >
+      <image:caption
+        >In the mid to late '90s, the Reykjavik crime and drug scene saw a
+        drastic change from a relatively small and innocent world into a much
+        more aggressive and violent one.. The film tells the story of this
+        change through the fictional gang of pushers that took control of
+        Iceland's underworld.</image:caption
+      >
+      <image:title>Black's Game</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582349-Baby Mamas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582349-Baby Mamas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Iz8x7wTsa4Xe7Cl4DM0mk9WWMZ.jpg</image:loc
+      >
+      <image:caption
+        >The daily lives and loves of four professional women in South Africa
+        who are all in different stages of their own real-life baby mama
+        drama.</image:caption
+      >
+      <image:title>Baby Mamas</image:title>
+    </image:image>
+  </url>
+</urlset>

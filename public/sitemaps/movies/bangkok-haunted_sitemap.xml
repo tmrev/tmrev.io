@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55141-Bangkok Haunted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55141-Bangkok Haunted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/alF38hmeoqqIsvsBqP2bJcpw9TE.jpg</image:loc
+      >
+      <image:caption
+        >Three young women gathered in a coffee bar in Bangkok tell and discuss
+        three original ghost stories with each other. The first tale: In
+        Bangkok, the young Jieb receives an ancient drum not listed in the order
+        from the truck of Transportation Company owned by Mr. Anake. She calls
+        her former Professor Arkom, who identifies the markings for good luck
+        that she describes and tells the story of the orphan Paga. In 1917, the
+        renowned music teacher Jangwah-Chuem and his wife Peng raise the
+        beautiful Paga with their deformed son Gnod.</image:caption
+      >
+      <image:title>Bangkok Haunted</image:title>
+    </image:image>
+  </url>
+</urlset>

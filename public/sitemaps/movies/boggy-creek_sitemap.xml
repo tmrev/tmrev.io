@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78083-Boggy Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78083-Boggy Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kos3jCYh41YXwcMeaR9esUUy0Y3.jpg</image:loc
+      >
+      <image:caption
+        >Following the death of her father in a terrible accident, sweet, yet
+        troubled Jennifer and her friends decide to check out her dad's cabin
+        that's located in the deep woods of Boggy Creek, Texas. While staying at
+        said cabin for a week, Jennifer and company run afoul of an evil and
+        vicious monster of local legend that kills men and abducts
+        women.</image:caption
+      >
+      <image:title>Boggy Creek</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273756-Asteroid vs Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273756-Asteroid vs Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aGm87aggFQF8oAmzNYWITL0NVVv.jpg</image:loc
+      >
+      <image:caption
+        >When a shower of massive meteors threatens an extinction level on
+        Earth, the world's greatest minds devise a dangerous plan that will take
+        the planet off its axis in order to avoid the impact.</image:caption
+      >
+      <image:title>Asteroid vs Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

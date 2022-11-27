@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40127-Art of the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40127-Art of the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rxLlAzwihpsUQQXAbNVmKg2peBZ.jpg</image:loc
+      >
+      <image:caption
+        >A pregnant woman is abandoned by her lover. Enraged, she goes to a
+        witch doctor and uses black magic to have her ex and his family killed,
+        only for another woman claiming to be her lover's secret mistress to
+        claim his inheritance and move into his house with her children. Not
+        long after that, inexplicable things happen to that family and, one by
+        one, they begin to die.</image:caption
+      >
+      <image:title>Art of the Devil</image:title>
+    </image:image>
+  </url>
+</urlset>

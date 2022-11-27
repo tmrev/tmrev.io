@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335077-Battle For SkyArk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335077-Battle For SkyArk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cb2t0c07LP2lmP1URmXB3AUMWdq.jpg</image:loc
+      >
+      <image:caption
+        >In the near future the earth has become desolate and dangerous. Now
+        inhabited by by a mysterious race of creatures, humanity has been forced
+        to find refuge in the SkyArk, a man-made city in the sky. As the
+        population grows, space becomes scarce and only the rich and powerful
+        can stay, dumping the poor and orphaned of SkyArk to the abandoned
+        earth.</image:caption
+      >
+      <image:title>Battle For SkyArk</image:title>
+    </image:image>
+  </url>
+</urlset>

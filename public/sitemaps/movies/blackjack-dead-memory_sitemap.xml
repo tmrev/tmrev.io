@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/709041-BlackJack: Dead Memory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/709041-BlackJack: Dead Memory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g9itO3S0ci3EtDgUy4O9v7yg7yR.jpg</image:loc
+      >
+      <image:caption
+        >A young woman goes missing when her car breaks down one rainy night.
+        Her body is later discovered in a national park and for Detective Jack
+        Kempson's offsider Sam, details of the crime mirror the disappearance of
+        her friend Hannah, who vanished without trace some years ago. In
+        Kempson's pursuit of the truth Sam is forced to face the sordid secrets
+        of her past.</image:caption
+      >
+      <image:title>BlackJack: Dead Memory</image:title>
+    </image:image>
+  </url>
+</urlset>

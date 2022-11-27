@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/566063-Ask Dr. Ruth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/566063-Ask Dr. Ruth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pr57bIvTsM140Ub4Uc1FCwUElDK.jpg</image:loc
+      >
+      <image:caption
+        >A documentary portrait chronicling the incredible life of Dr. Ruth
+        Westheimer, a Holocaust survivor who became the United States' most
+        famous sex therapist. As her 90th birthday approaches, Dr. Ruth revisits
+        her painful past and her career at the forefront of the sexual
+        revolution.</image:caption
+      >
+      <image:title>Ask Dr. Ruth</image:title>
+    </image:image>
+  </url>
+</urlset>

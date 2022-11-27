@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278516-Avatars Offline</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278516-Avatars Offline</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Around the world hundreds of thousands of people, most of them over the
+        age of 20, spend a significant portion of their life in front of the
+        screen. Socializing. Making friends. Chasing dragons. Getting armor.
+        Meeting soulmates. they are willing to lose friends, family, and spouses
+        to live a life "more real" than their own.</image:caption
+      >
+      <image:title>Avatars Offline</image:title>
+    </image:image>
+  </url>
+</urlset>

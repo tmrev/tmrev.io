@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158356-Are We Alone?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158356-Are We Alone?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sGNHU8fGsRYxikXDVsVTj4pEuVF.jpg</image:loc
+      >
+      <image:caption
+        >Is there life beyond Earth? Could the bizarre, hellish worlds of our
+        solar system actually harbor alien biology? From poisonous hot springs
+        to desolate mountaintop glaciers, the clues they unearth could open a
+        window to alien life. This two-hour event joins astrobiologists as they
+        explore the most obscure regions on Earth, where the secrets of life in
+        the solar system may finally be revealed.</image:caption
+      >
+      <image:title>Are We Alone?</image:title>
+    </image:image>
+  </url>
+</urlset>

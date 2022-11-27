@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473895-Being...Neil Armstrong</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473895-Being...Neil Armstrong</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yYx20AwN3kLGnGCQReYPnvviWq6.jpg</image:loc
+      >
+      <image:caption
+        >It has been said that 10,000 years from now only one name will still be
+        remembered, that of Neil Armstrong. But in the four decades since he
+        first set foot on the moon, Armstrong has become increasingly reclusive.
+        Andrew Smith, author of the best-selling book Moondust, journeys across
+        America to try and discover the real Neil Armstrong. He tracks down the
+        people who knew Armstrong, from his closest childhood friend to fellow
+        astronauts and Houston technicians, and even the barber who sold his
+        hair, in a wry and sideways look at the reluctant hero of the greatest
+        event of the 20th century.</image:caption
+      >
+      <image:title>Being...Neil Armstrong</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/174362-Bending Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/174362-Bending Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Cyclone, The Freakshow, The Mermaid Parade: all Coney Island icons.
+        But Chris “Wonder” Schoeck has always preferred the Coney Island
+        Strongman. Bending Steel follows the sweet, unassuming Schoeck as he
+        parlays his extraordinary strength into the pursuit of his lifelong
+        dream. Training with an elite group of men whose hands bend, drag, twist
+        and shred metal, he tackles an enormous physical and mental challenge,
+        taking a surprisingly emotional journey as a result.</image:caption
+      >
+      <image:title>Bending Steel</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207972-Bear on the Run</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207972-Bear on the Run</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d1lzDlC2xSXDjJPLkceDHJa2Qqu.jpg</image:loc
+      >
+      <image:caption
+        >Thirteen-year-old Julia leaves Berlin, where she resides with her
+        father, to spend vacation in the Czech Republic. While there she
+        experiences first love, and also tries to help the local kids rescue a
+        circus bear from a rich German hunter who's willing to pay for a bit of
+        sport. If the parents get their way they'll use Mr. Big Game to finance
+        the circus and even contribute to local pensions. The children and the
+        bear head for the forest.</image:caption
+      >
+      <image:title>Bear on the Run</image:title>
+    </image:image>
+  </url>
+</urlset>

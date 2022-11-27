@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/120419-Baseball in the Time of Cholera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/120419-Baseball in the Time of Cholera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >As a Cholera epidemic rages in Haiti, the United Nations denies it is
+        responsible for introducing the disease despite glaring evidence
+        suggesting Nepalese peacekeepers are to blame. Baseball in the Time of
+        Cholera is the story of a young Haitian boy who plays in Haiti's first
+        little league baseball team and the Haitian Lawyer seeking justice
+        against the UN. As the epidemic spreads, the two stories intersect in
+        the struggle for survival and justice.</image:caption
+      >
+      <image:title>Baseball in the Time of Cholera</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9266-Blue Crush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9266-Blue Crush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iZSw0JVG0cIFuZoTHuQU3nmGT4k.jpg</image:loc
+      >
+      <image:caption
+        >Nothing gets between Anne Marie and her board. Living in a beach shack
+        with three roommates, she is up before dawn every morning to conquer the
+        waves and count the days until the Pipe Masters competition. Having
+        transplanted herself to Hawaii with no one's blessing but her own, Anne
+        Marie finds all she needs in the adrenaline-charged surf scene - until
+        pro quarterback Matt Tollman comes along...</image:caption
+      >
+      <image:title>Blue Crush</image:title>
+    </image:image>
+  </url>
+</urlset>

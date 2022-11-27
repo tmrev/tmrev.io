@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476680-Beyond PlayTime</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476680-Beyond PlayTime</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/brhonUMYfaKsj0rah3E9Czb1eUN.jpg</image:loc
+      >
+      <image:caption
+        >This short documentary from 2002, written by Jacques Tati scholar
+        Stéphane Goudet and featuring rare archival footage, explores the
+        genesis of the director’s hugely ambitious 1967 film
+        production.</image:caption
+      >
+      <image:title>Beyond PlayTime</image:title>
+    </image:image>
+  </url>
+</urlset>

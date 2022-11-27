@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/176589-Beast Beneath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/176589-Beast Beneath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/swYEqCqb5tbiNw1xAbNDzdMIYgy.jpg</image:loc
+      >
+      <image:caption
+        >According to legend, prior to his tragic death, Don Antonio Feliz hid a
+        fortune of Spanish gold deep inside a well on his estate… Decades later,
+        Angelina Feliz discovers a map revealing the secret location of her
+        ancestor’s treasure, but standing in her way is an ancient curse and a
+        bloodthirsty netherworld beast.</image:caption
+      >
+      <image:title>Beast Beneath</image:title>
+    </image:image>
+  </url>
+</urlset>

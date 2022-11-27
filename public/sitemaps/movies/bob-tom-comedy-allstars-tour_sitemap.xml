@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320580-Bob & Tom Comedy All-Stars Tour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320580-Bob & Tom Comedy All-Stars Tour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gLlOQpDp5yl6U7Owivm6j6TuApa.jpg</image:loc
+      >
+      <image:caption
+        >Broadcast daily on over 150 radio stations, The Bob & Tom Show is one
+        of the most successful comedy radio shows in the country. Now in this
+        all-star event, the comedians who have helped make Bob & Tom a morning
+        ritual for over 5 million listeners come together on-stage for one
+        sold-out night. This event, taped live at the historic Paramount Theatre
+        in Anderson, Indiana, features the very best of the friends of Bob & Tom
+        including: David Crowe, Mike Birbiglia, Nick Griffin, Ralph Harris and
+        Greg Warren.</image:caption
+      >
+      <image:title>Bob & Tom Comedy All-Stars Tour</image:title>
+    </image:image>
+  </url>
+</urlset>

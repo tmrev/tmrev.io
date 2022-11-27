@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61021-Behemoth: Evangelia Heretika</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61021-Behemoth: Evangelia Heretika</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8w8LAWMNtp6GQswnl98JMRTPmeM.jpg</image:loc
+      >
+      <image:caption
+        >This musical release from Polish death metal band Behemoth captures two
+        live performances by the group, recorded in Paris in 2008, and Warsaw in
+        2009. Some of the songs featured in the release include "Christians to
+        the Lions", "Slaves Shall Serve", "Antichristian Phenomenon", and
+        more.</image:caption
+      >
+      <image:title>Behemoth: Evangelia Heretika</image:title>
+    </image:image>
+  </url>
+</urlset>

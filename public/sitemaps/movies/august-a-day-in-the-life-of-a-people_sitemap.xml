@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/500239-August 28: A Day in the Life of a
+      People</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/500239-August 28: A Day in the Life of a
+      People</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rrftmLz3QEgPjKZvGpXLdYJ994O.jpg</image:loc
+      >
+      <image:caption
+        >Documentary film on events that happened on August 28th in
+        African-American history, shown at the Smithsonian African-American
+        History Museum.</image:caption
+      >
+      <image:title>August 28: A Day in the Life of a People</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312305-Back to Ballin'</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312305-Back to Ballin'</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f2TNyiWTgQw4rNAEGRMPsvfV0Z.jpg</image:loc
+      >
+      <image:caption
+        >Riding high on a steady string of hits, rapper Lil' Troy (playing
+        himself) is quickly amassing a hip-hop empire. But someone seems eager
+        to bring about the fall of Troy, and soon a traitor infiltrates the
+        entourage. Meanwhile, Troy struggles with looking after his nephew,
+        who's become deeply enamored with the bling-bling lifestyle. This gritty
+        thriller helmed by director Tara E. Davis is based on the life of
+        Houston performer Lil' Troy.</image:caption
+      >
+      <image:title>Back to Ballin'</image:title>
+    </image:image>
+  </url>
+</urlset>

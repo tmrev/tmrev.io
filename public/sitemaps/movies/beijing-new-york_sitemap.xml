@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/338781-Beijing, New York</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/338781-Beijing, New York</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eMnqIgnA5V6j9ZzzpT099ELc5OI.jpg</image:loc
+      >
+      <image:caption
+        >BEIJING, NEW YORK is a touching and complex love story that bridges
+        time, distance and culture, intertwining the lives of two Chinese
+        childhood friends and an American artist. It is set against the backdrop
+        of economic power shift between China and America. As the film's complex
+        love triangle takes the audience on a wild ride, interweaving its way
+        through the plot and each character's unique existence, it ultimately
+        forces each of them to face life's eternal questions head-on. BEIJING,
+        NEW YORK is a truthful and thrilling look into the journey to find true
+        happiness and the joy, pain and adventure that ensues when one is forced
+        to integrate their dreams into reality.</image:caption
+      >
+      <image:title>Beijing, New York</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416480-Before the Fall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416480-Before the Fall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gcaeUI6vHliLiOdrfS5NYrmp6en.jpg</image:loc
+      >
+      <image:caption
+        >It's a classic case of opposite attraction: Handsome Ben Bennet is a
+        gay, affluent, stylish attorney at the top of the genteel social set in
+        southern Virginia, while Lee Darcy is a rough-hewn welder with a secret
+        that he nightly tries to blot out with an excess of
+        liquor.</image:caption
+      >
+      <image:title>Before the Fall</image:title>
+    </image:image>
+  </url>
+</urlset>

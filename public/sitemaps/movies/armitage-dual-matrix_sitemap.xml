@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21769-Armitage: Dual Matrix</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21769-Armitage: Dual Matrix</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p5nd9VPKxpow5MFAQfZy2DEatPI.jpg</image:loc
+      >
+      <image:caption
+        >Naomi Armitage and Ross Sylibus have changed their names and live with
+        their daughter Yoko as a happy and normal family on Mars — until an
+        android riot breaks out at an anti-matter plant on Earth.</image:caption
+      >
+      <image:title>Armitage: Dual Matrix</image:title>
+    </image:image>
+  </url>
+</urlset>

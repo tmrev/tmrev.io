@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500163-Beauty in the Broken</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500163-Beauty in the Broken</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tr8vuukXngm9xkJE4g5uKLpXbZp.jpg</image:loc
+      >
+      <image:caption
+        >The worlds of a depressed psychologist and an emotionally disturbed
+        homeless woman collide. While trying to rescue her they fall in love,
+        and each gets a second chance at a new life.</image:caption
+      >
+      <image:title>Beauty in the Broken</image:title>
+    </image:image>
+  </url>
+</urlset>

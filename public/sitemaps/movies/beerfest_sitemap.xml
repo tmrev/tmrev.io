@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9988-Beerfest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9988-Beerfest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5srGbSv3zhEUjXFOZR9qHkgJO6l.jpg</image:loc
+      >
+      <image:caption
+        >During a trip to Germany to scatter their grandfather's ashes,
+        German-American brothers Todd and Jan discover Beerfest, the secret
+        Olympics of downing stout, and want to enter the contest to defend their
+        family's beer-guzzling honor. Their Old Country cousins sneer at the
+        Yanks' chances, prompting the siblings to return to America to prepare
+        for a showdown the following year.</image:caption
+      >
+      <image:title>Beerfest</image:title>
+    </image:image>
+  </url>
+</urlset>

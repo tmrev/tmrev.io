@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127501-Barfi!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127501-Barfi!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8lVuWmArvr41CvyvpgI3elD5iB1.jpg</image:loc
+      >
+      <image:caption
+        >He is cute. He's shrewd. The girls love him. The cops hate him. He
+        can't speak but is always talked about. His naughty antics will make you
+        scream, but he will never listen. Cos he can't! Next summer ride a
+        rollercoaster of emotions with Barfii - the Chalu
+        Chaplin!</image:caption
+      >
+      <image:title>Barfi!</image:title>
+    </image:image>
+  </url>
+</urlset>

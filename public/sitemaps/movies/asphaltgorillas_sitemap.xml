@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427032-Asphaltgorillas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427032-Asphaltgorillas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wqJ3J3H0E06383ZGmoqDGtpbnAu.jpg</image:loc
+      >
+      <image:caption
+        >Small-time crook Atris is tired of working for Berlin crime lord El
+        Keitar. Yet in order to build his own syndicate, he needs money. When
+        his friend Frank offers him a lucrative deal, Atris thinks his chance
+        has finally come, not knowing that he is about to set in motion a
+        fateful chain of events.</image:caption
+      >
+      <image:title>Asphaltgorillas</image:title>
+    </image:image>
+  </url>
+</urlset>

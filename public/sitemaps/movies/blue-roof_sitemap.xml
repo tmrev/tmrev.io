@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/815223-Blue Roof</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/815223-Blue Roof</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A short burlesque. A playful film that doesn't only play with colour
+        and vertigo. Albert is a security man and that isn't always an exciting
+        job. Sometimes he enjoys the view from the roof of the building. A blue
+        roof. One day a burglar manages to escape his attention and he gets the
+        sack. The blue roof calls.</image:caption
+      >
+      <image:title>Blue Roof</image:title>
+    </image:image>
+  </url>
+</urlset>

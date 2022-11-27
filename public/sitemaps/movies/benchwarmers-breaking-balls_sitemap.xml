@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/576296-Benchwarmers 2: Breaking Balls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/576296-Benchwarmers 2: Breaking Balls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4TxdsFc149fntpR1ia8Ri8JQieb.jpg</image:loc
+      >
+      <image:caption
+        >A washed-up baseball player becomes an attorney. He gets a chance at
+        redemption when his boss asks him to manage the company softball team in
+        hopes of winning a championship.</image:caption
+      >
+      <image:title>Benchwarmers 2: Breaking Balls</image:title>
+    </image:image>
+  </url>
+</urlset>

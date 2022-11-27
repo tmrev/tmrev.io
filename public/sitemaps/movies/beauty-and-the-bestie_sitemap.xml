@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373564-Beauty and the Bestie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373564-Beauty and the Bestie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qc3F7UyE8N04xt5QervNVufaJV5.jpg</image:loc
+      >
+      <image:caption
+        >For an important case, a policeman needs the help of his former best
+        friend to impersonate the daughter of a foreign dignitary in a beauty
+        pageant.</image:caption
+      >
+      <image:title>Beauty and the Bestie</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336155-Another Frontier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336155-Another Frontier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Hannah and her son Leon flee from a war that has isolated their
+        country. Trying to cross the border, they enter No Man’s Land, a refugee
+        camp that provides them with a bed and food, but will subject them to a
+        severely oppressive system forcing them to compete to be able to stay at
+        the camp. Claus, an old acquaintance, claims to know a secret about
+        Hannah and Leon that, if brought to light, would endanger their
+        lives.</image:caption
+      >
+      <image:title>Another Frontier</image:title>
+    </image:image>
+  </url>
+</urlset>

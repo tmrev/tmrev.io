@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/217304-Approaching Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/217304-Approaching Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9Jmxl4uy2LTZExjyn8dj6SoMvsc.jpg</image:loc
+      >
+      <image:caption
+        >Young Army staff sergeant Wesley Kent returns to his small hometown
+        from war in Afghanistan. He must cope with burying the body of his best
+        friend under his command and enduring the news of the death of his
+        girlfriend Aspen Malverne who passed away in a car accident while he was
+        abroad.</image:caption
+      >
+      <image:title>Approaching Midnight</image:title>
+    </image:image>
+  </url>
+</urlset>

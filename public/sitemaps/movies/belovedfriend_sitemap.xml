@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80471-Beloved/Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80471-Beloved/Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yvIOKJYryk5KXIZzHt28dYDcuqQ.jpg</image:loc
+      >
+      <image:caption
+        >Based on a work of Josep Maria Benet i Jornet entitled "Testament", the
+        film tells the story of an aging professor of medieval literature with
+        the dilemma of deciding who will inherit his essay on "The Book of
+        friend and loved" by Ramon Llull. Feeling near death as a result of
+        illness, he discovers that the ideal person is a young and intelligent
+        student he is in love with and who is dedicated to male
+        prostitution.</image:caption
+      >
+      <image:title>Beloved/Friend</image:title>
+    </image:image>
+  </url>
+</urlset>

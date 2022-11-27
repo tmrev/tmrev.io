@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280116-Aranmanai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280116-Aranmanai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kSoOaW9BVWtiqLz2YBwstxjL8ET.jpg</image:loc
+      >
+      <image:caption
+        >Aranmanai is about a family that wants to sell their ancestral home.
+        The supernatural elements they discover there in the aranmanai (palace)
+        lead to some bone-chilling moments.</image:caption
+      >
+      <image:title>Aranmanai</image:title>
+    </image:image>
+  </url>
+</urlset>

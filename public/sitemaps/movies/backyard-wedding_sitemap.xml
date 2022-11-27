@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126223-Backyard Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126223-Backyard Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gZ0u9PADT8YzdCwt34AzBRrT4ED.jpg</image:loc
+      >
+      <image:caption
+        >Kim Tyler grew up loving her next-door neighbor, Evan Slauson. Now
+        she's all set to have the wedding of her dreams to stable Jeffrey in her
+        parents' backyard, but her ex-husband, and first love—whose parents
+        still live next door—keeps popping up causing her to seriously question
+        her big plans.</image:caption
+      >
+      <image:title>Backyard Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/399178-Benediction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/399178-Benediction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/85NUEtt7qzag9dgOov4spHY9RtL.jpg</image:loc
+      >
+      <image:caption
+        >The story of soldier and poet Siegfried Sassoon (1886–1967), who was
+        decorated for bravery on the Western Front, and is best remembered for
+        his angry and compassionate poems about the First World War, which
+        brought him public and critical acclaim. Avoiding the sentimentality and
+        jingoism of many war poets, Sassoon wrote of the horror and brutality of
+        trench warfare and contemptuously satirised generals, politicians, and
+        churchmen for their incompetence and blind support of the
+        war.</image:caption
+      >
+      <image:title>Benediction</image:title>
+    </image:image>
+  </url>
+</urlset>

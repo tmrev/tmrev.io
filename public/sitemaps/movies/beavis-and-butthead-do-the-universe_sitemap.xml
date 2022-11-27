@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/828947-Beavis and Butt-Head Do the Universe</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/828947-Beavis and Butt-Head Do the Universe</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg</image:loc
+      >
+      <image:caption
+        >In 1998, Beavis and Butt-Head are sentenced to Space Camp by a
+        “creative” judge. Their obsession with a docking simulator (huh huh)
+        leads to a trip on the Space Shuttle, with predictably disastrous
+        results. After going through a black hole, they re-emerge in our time,
+        where they look for love, misuse iPhones, and are hunted by the Deep
+        State. Spoiler: They don’t score.</image:caption
+      >
+      <image:title>Beavis and Butt-Head Do the Universe</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1043342-Blue Sky White Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1043342-Blue Sky White Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xdsBk8wCGj4KoIpncch6aeeXWIh.jpg</image:loc
+      >
+      <image:caption
+        >Grandma has become a little doddery. And since the death of her
+        husband, called E.O., ever bigger gaps have opened in her memory, and
+        her disorientation has increased. Director Astrid Menzel makes a
+        decision: to take a ten-day canoe trip on northern German waters with
+        her brother and the 86-year-old lady. An adventure whose outcome is
+        uncertain and which the three travellers have to face anew at every
+        stage.</image:caption
+      >
+      <image:title>Blue Sky White Clouds</image:title>
+    </image:image>
+  </url>
+</urlset>

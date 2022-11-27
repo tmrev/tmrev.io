@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/714453-Blackfeet Boxing: Not Invisible</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/714453-Blackfeet Boxing: Not Invisible</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uwI1Ynqd8foHFoMu7wLplMUGJbg.jpg</image:loc
+      >
+      <image:caption
+        >As the epidemic of missing and murdered Indigenous women epidemic
+        affects tribal communities, a group of Blackfeet women tackle the threat
+        head-on by practicing and training in self-defense.</image:caption
+      >
+      <image:title>Blackfeet Boxing: Not Invisible</image:title>
+    </image:image>
+  </url>
+</urlset>

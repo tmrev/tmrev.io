@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43980-Bashu, the Little Stranger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43980-Bashu, the Little Stranger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/63ta6SW20iJNstuKoAd7EbJ1mdr.jpg</image:loc
+      >
+      <image:caption
+        >During the Iran-Iraq War, Bashu, a young boy loses his house and all
+        his family. Scared, he sneaks into a truck that is leaving the area. He
+        gets off the truck in the Northern part of the country, where everything
+        from landscape to language is different. He meets Naii, who is trying to
+        raise her two young children on a farm, while her husband is away.
+        Despite cultural differences, and the fact that they do not speak the
+        same language, Bashu and Naii slowly form a strong bond.</image:caption
+      >
+      <image:title>Bashu, the Little Stranger</image:title>
+    </image:image>
+  </url>
+</urlset>

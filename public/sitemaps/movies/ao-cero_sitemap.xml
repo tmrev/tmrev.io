@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/426631-Año cero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/426631-Año cero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zqET8yNR3sGXjPRmtY79wNJHI2K.jpg</image:loc
+      >
+      <image:caption
+        >"Año cero" is about the well-educated, well-to-do middle-class man,
+        Miguel who loses his job. Now he finds himself without direction,
+        credentials or long-term relationships.</image:caption
+      >
+      <image:title>Año cero</image:title>
+    </image:image>
+  </url>
+</urlset>

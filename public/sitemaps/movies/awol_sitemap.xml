@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342502-AWOL-72</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342502-AWOL-72</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9xnzd7yq9vXrjuQjlRLNZ0kFQYU.jpg</image:loc
+      >
+      <image:caption
+        >An AWOL marine in possession of secret government information, is a
+        wanted man, pursued by Russian special ops, the LAPD, and a dangerous
+        assassin.</image:caption
+      >
+      <image:title>AWOL-72</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276846-Badal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276846-Badal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lMMOhx1VTkf3TS5xnS1LisoRIHc.jpg</image:loc
+      >
+      <image:caption
+        >Badal is a victim of the 1984 riots, brought up by a terrorist. Badal
+        aims to kill the treacherous police officer who had killed his parents
+        and his loving sister. He takes shelter in the house of an honest police
+        officer and falls in love with a minister's granddaughter. Will he be
+        able to accomplish his revenge?</image:caption
+      >
+      <image:title>Badal</image:title>
+    </image:image>
+  </url>
+</urlset>

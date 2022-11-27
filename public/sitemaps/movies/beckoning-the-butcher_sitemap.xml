@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/263905-Beckoning the Butcher</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/263905-Beckoning the Butcher</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aFX0fqdm4tDNubzXRBpTEfwQIhs.jpg</image:loc
+      >
+      <image:caption
+        >Beckoning the Butcher explores the night Chris Shaw and his four
+        friends summoned a spirit into their holiday house - then disappeared
+        forever.</image:caption
+      >
+      <image:title>Beckoning the Butcher</image:title>
+    </image:image>
+  </url>
+</urlset>

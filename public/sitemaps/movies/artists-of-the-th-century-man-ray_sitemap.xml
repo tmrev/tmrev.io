@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/319411-Artists of the 20th Century: Man Ray</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/319411-Artists of the 20th Century: Man Ray</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6E4G6vbllueH14p7ltE3J9zaUME.jpg</image:loc
+      >
+      <image:caption
+        >An indefatigable experimenter who participated in the Cubist, Dadaist
+        and Surrealist art movements, Man Ray (1890-1976) created a new
+        photographic art that emphasized chance effects and juxtapositions. Ray
+        used solarization, grain enlargement and cameraless prints (called
+        "Rayographs") -- made by placing objects directly on photographic paper
+        and exposing them to light.</image:caption
+      >
+      <image:title>Artists of the 20th Century: Man Ray</image:title>
+    </image:image>
+  </url>
+</urlset>

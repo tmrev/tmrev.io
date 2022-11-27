@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/728568-Bombies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/728568-Bombies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Between 1964 and 1973 the United States conducted a secret air war,
+        dropping over 2 million tons of bombs and making tiny Laos the most
+        heavily bombed country in history. Millions of these 'cluster bombs' did
+        not explode when dropped, leaving the country massively contaminated
+        with 'bombies' as dangerous now as when they fell 30 years ago. Bombies
+        examines the problem of unexploded cluster bombs through the personal
+        experiences of a group of Laotians and foreigners and argues for their
+        elimination as a weapon of war. Unfortunately they are still a standard
+        part of the US arsenal and were dropped in Kosovo, Afghanistan and
+        Iraq.</image:caption
+      >
+      <image:title>Bombies</image:title>
+    </image:image>
+  </url>
+</urlset>

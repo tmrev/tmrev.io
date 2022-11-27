@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105-Back to the Future</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105-Back to the Future</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg</image:loc
+      >
+      <image:caption
+        >Eighties teenager Marty McFly is accidentally sent back in time to
+        1955, inadvertently disrupting his parents' first meeting and attracting
+        his mother's romantic interest. Marty must repair the damage to history
+        by rekindling his parents' romance and - with the help of his eccentric
+        inventor friend Doc Brown - return to 1985.</image:caption
+      >
+      <image:title>Back to the Future</image:title>
+    </image:image>
+  </url>
+</urlset>

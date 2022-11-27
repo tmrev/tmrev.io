@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/201181-Bloodspit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/201181-Bloodspit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2TdE83It6dxTOa3tzSEwe9ZWZMX.jpg</image:loc
+      >
+      <image:caption
+        >When Count Bloodspit and his family of ghouls return from the Vampire
+        Mirror World to feast on young virgins, they find famed Vampire Hunter
+        Dr. Ludvic hot on their trail. When Ludvic steals the family crest off
+        of Bloodspit’s coffin, the villainous vampire finds himself trapped in
+        our dimension. Now, the hunt is on as Dr. Ludvic chases BLOODSPIT around
+        the world trying to bury a stake in his heart once and for
+        all!</image:caption
+      >
+      <image:title>Bloodspit</image:title>
+    </image:image>
+  </url>
+</urlset>

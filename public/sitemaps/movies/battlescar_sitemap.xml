@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547602-BattleScar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547602-BattleScar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rlcXcyWEgbNZpO5AOGfiOdPskqH.jpg</image:loc
+      >
+      <image:caption
+        >New York City, 1978: When Lupe, a Puerto Rican-American teen, meets
+        fellow runaway Debbie, the Bowery's punk scene and the Lower East Side
+        is their playground.</image:caption
+      >
+      <image:title>BattleScar</image:title>
+    </image:image>
+  </url>
+</urlset>

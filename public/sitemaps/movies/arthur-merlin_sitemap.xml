@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336149-Arthur & Merlin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336149-Arthur & Merlin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lItiYAN3Md0KFWSPvzw2TtB7pAE.jpg</image:loc
+      >
+      <image:caption
+        >In dark ages Britain, a time of magic and legend, a powerful druid is
+        bent on destroying the Celtic people. Arthur, a banished warrior, and
+        Merlin, a hermit wizard, embark on a heroic quest to stop the druid and
+        save their people, before the Celts are lost forever and become a myth
+        themselves.</image:caption
+      >
+      <image:title>Arthur & Merlin</image:title>
+    </image:image>
+  </url>
+</urlset>

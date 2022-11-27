@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/363779-Apocalypse Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/363779-Apocalypse Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h42IzsyhW8PP6qCGWspKtZs2DNi.jpg</image:loc
+      >
+      <image:caption
+        >Ford, a surfing instructor from the Philippines has been told his whole
+        life that he's the son of Francis Ford Coppola. He's wasted his youth
+        waiting as his mother petitions the director to acknowledge Ford as his
+        son. But as the surfing season ends, he’s forced to confront his past
+        actions, inactions, and the stories of his life.</image:caption
+      >
+      <image:title>Apocalypse Child</image:title>
+    </image:image>
+  </url>
+</urlset>

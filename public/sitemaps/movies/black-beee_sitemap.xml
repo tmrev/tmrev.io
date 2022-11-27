@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/167381-Black Beee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/167381-Black Beee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Rr3SQuzTg0WLfTrVACJtPGmcbW.jpg</image:loc
+      >
+      <image:caption
+        >An ancient Greek philosopher, Epicurus, wrote in the first century AD,
+        a letter to Thodorakis the neo-Greek. When Thodorakis learn about it, he
+        travels to Italy and specifically in the area that the letter where
+        found along with 2000 other ancient Greek texts, in order to receive it
+        from the Italian archaeologists.</image:caption
+      >
+      <image:title>Black Beee</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/703076-Autumn of Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/703076-Autumn of Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jEE0Axt7504WfD7ChazM3BUzeP2.jpg</image:loc
+      >
+      <image:caption
+        >A menopausal woman thought her husband had an affair because she was no
+        longer beautiful. Imagine that a rival competitor is a young and
+        beautiful woman, struggling to maintain a seemingly complete and happy
+        home.</image:caption
+      >
+      <image:title>Autumn of Blue</image:title>
+    </image:image>
+  </url>
+</urlset>

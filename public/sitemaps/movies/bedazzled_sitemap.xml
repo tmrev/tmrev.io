@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1636-Bedazzled</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1636-Bedazzled</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9aIg9oKMetjfDUNH1jDJKiw2Qos.jpg</image:loc
+      >
+      <image:caption
+        >Elliot Richardson, a suicidal techno geek, is given seven wishes to
+        turn his life around when he meets a very seductive Satan. The catch:
+        his soul. Some of his wishes include a 7 foot basketball star, a rock
+        star, and a hamburger. But, as could be expected, the Devil puts her own
+        little twist on each of his fantasies.</image:caption
+      >
+      <image:title>Bedazzled</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/343550-Blood Riders: The Devil Rides with Us</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/343550-Blood Riders: The Devil Rides with Us</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/soOxBuSrBccGQvWMLSmpy5U3eCJ.jpg</image:loc
+      >
+      <image:caption
+        >Blood Riders is a blood soaked adventure comedy about 4 young friends
+        who stumble upon a body after stealing a car. That discovery pushes the
+        friends on a road trip around town during which they try get rid of the
+        increasing amount of corpses. Along their wild ride the kids encounter
+        neo-Nazis, punk artists, devil worshipers and a plan to resurrect
+        Hitler.</image:caption
+      >
+      <image:title>Blood Riders: The Devil Rides with Us</image:title>
+    </image:image>
+  </url>
+</urlset>

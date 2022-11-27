@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72050-Blijf!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72050-Blijf!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gT0tsKWwYFOlgB5Zef3P4GF7SI3.jpg</image:loc
+      >
+      <image:caption
+        >Lieke and Millad are best friends. Milad land his family have been
+        living in the Netherlands for years. Suddenly, Milad is told that he and
+        his family have to leave, because they don't have a permit to stay.
+        Lieke is upset. She wants to find a way to solve this problem. Together
+        with Milad, she begins an exciting journey.</image:caption
+      >
+      <image:title>Blijf!</image:title>
+    </image:image>
+  </url>
+</urlset>

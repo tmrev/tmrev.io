@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571294-Bengal tiger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571294-Bengal tiger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yOysDdKqd9BmkW82mhHzq2YbRl0.jpg</image:loc
+      >
+      <image:caption
+        >In caste and religion laden India there are some people who work
+        together without any bias - they are underworld dons and gangster - and
+        their prime motive is to amass as much money as ...</image:caption
+      >
+      <image:title>Bengal tiger</image:title>
+    </image:image>
+  </url>
+</urlset>

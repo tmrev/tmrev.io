@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80862-Anukokunda Oka Roju</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80862-Anukokunda Oka Roju</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ywtEZjovzdv3ckLIgMqeeTey4dw.jpg</image:loc
+      >
+      <image:caption
+        >Sahasra, a struggling singer, attends a party and wakes up after a day
+        without realising it. However, as the days pass, she feels something is
+        amiss after getting chased by men who want to kill her.</image:caption
+      >
+      <image:title>Anukokunda Oka Roju</image:title>
+    </image:image>
+  </url>
+</urlset>

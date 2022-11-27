@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435665-Ava's Impossible Things</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435665-Ava's Impossible Things</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3BdKWMbIekyK7Mk8qhuI7coE6JW.jpg</image:loc
+      >
+      <image:caption
+        >When her mother makes a shocking request, sheltered Ava struggles with
+        reality, escaping into a dream world where she summons up old friends
+        and long forgotten desires.</image:caption
+      >
+      <image:title>Ava's Impossible Things</image:title>
+    </image:image>
+  </url>
+</urlset>

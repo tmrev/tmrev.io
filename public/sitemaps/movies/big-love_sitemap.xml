@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89604-Big Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89604-Big Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bBjc000l0eNBE3uV70uERrfCoUk.jpg</image:loc
+      >
+      <image:caption
+        >Emilka meets the slightly-older Maciek out at a club one night. He
+        shows Emilka—who was brought up by a single mom—a whole new world filled
+        with desire, passion, restlessness and rebellion. The girl moves in with
+        him and at first everything seems just perfect, but gradually Emilka
+        discovers her separate identity, and starts to grow apart from him. When
+        her dream of becoming a singer comes true, Maciek feels threatened. A
+        toxic love game begins, full of lust and jealousy.</image:caption
+      >
+      <image:title>Big Love</image:title>
+    </image:image>
+  </url>
+</urlset>

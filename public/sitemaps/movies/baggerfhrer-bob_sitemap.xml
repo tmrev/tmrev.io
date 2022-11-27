@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/329250-Baggerführer Bob</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/329250-Baggerführer Bob</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8hXRjky9qkqJwBeukY8JRLhYysk.jpg</image:loc
+      >
+      <image:caption
+        >Bob is a stereotype of a construction worker. He's not particularly
+        hard-working and his thoughts are only on food and women. His
+        hard-working boss, the site manager, doesn't like that at all. While
+        working with his excavator, Bob comes across an old bomb. When he tries
+        to retrieve it, there is an explosion and Bob inexplicably gets into the
+        hostile time of the Nazi regime, somehow just tries to get back to today
+        and has to survive a lot...</image:caption
+      >
+      <image:title>Baggerführer Bob</image:title>
+    </image:image>
+  </url>
+</urlset>

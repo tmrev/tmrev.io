@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46956-Boogiepop and Others</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46956-Boogiepop and Others</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5UL26KIJHzJtvDCYOzWoiPLWoER.jpg</image:loc
+      >
+      <image:caption
+        >The story takes place in an unnamed Japanese city, and follows five
+        students at Shinyo Academy as they try to piece together the puzzle of a
+        new drug and recent disappearances among the student populace. While the
+        teachers believe them to only be runaways, the female students whisper
+        among themselves about the urban legend Boogiepop, who is said to be a
+        Shinigami.</image:caption
+      >
+      <image:title>Boogiepop and Others</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/358895-Being Charlie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/358895-Being Charlie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iYr2MGPOCNiTF5IzrO6ZmoMKbSH.jpg</image:loc
+      >
+      <image:caption
+        >Charlie is a troublesome 18-year-old who breaks out of a youth drug
+        treatment clinic, but when he returns home to Los Angeles, he's given an
+        intervention by his parents and forced to go to an adult rehab. There,
+        he meets a beautiful but troubled girl, Eva, and is forced to battle
+        with drugs, elusive love and divided parents.</image:caption
+      >
+      <image:title>Being Charlie</image:title>
+    </image:image>
+  </url>
+</urlset>

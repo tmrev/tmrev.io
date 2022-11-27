@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468620-Architects of Denial</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468620-Architects of Denial</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oKQmNNHfG4i6eQSILtER7stP17Q.jpg</image:loc
+      >
+      <image:caption
+        >Though both the historical and modern-day persecution of Armenians and
+        other Christians is relatively uncovered in the mainstream media and not
+        on the radar of many average Americans, it is a subject that has gotten
+        far more attention in recent years.</image:caption
+      >
+      <image:title>Architects of Denial</image:title>
+    </image:image>
+  </url>
+</urlset>

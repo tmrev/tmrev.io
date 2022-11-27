@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16391-Black Narcissus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16391-Black Narcissus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/93VKekQFOkIyQsPzmv2gVpNLtEZ.jpg</image:loc
+      >
+      <image:caption
+        >A group of Anglican nuns, led by Sister Clodagh, are sent to a mountain
+        in the Himalayas. The climate in the region is hostile and the nuns are
+        housed in an odd old palace. They work to establish a school and a
+        hospital, but slowly their focus shifts. Sister Ruth falls for a
+        government worker, Mr. Dean, and begins to question her vow of celibacy.
+        As Sister Ruth obsesses over Mr. Dean, Sister Clodagh becomes immersed
+        in her own memories of love.</image:caption
+      >
+      <image:title>Black Narcissus</image:title>
+    </image:image>
+  </url>
+</urlset>

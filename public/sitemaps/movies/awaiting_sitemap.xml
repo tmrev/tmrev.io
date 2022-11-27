@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330530-Awaiting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330530-Awaiting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/62lDYB4VEh7UDwY3I1lWsPHSYlr.jpg</image:loc
+      >
+      <image:caption
+        >After a car accident, Jake is rescued by Morris and brought to his
+        remote farmhouse. As he recovers from his injuries, Jake soon begins to
+        suspect that something is very wrong. Morris has sinister plans for his
+        new houseguest.</image:caption
+      >
+      <image:title>Awaiting</image:title>
+    </image:image>
+  </url>
+</urlset>

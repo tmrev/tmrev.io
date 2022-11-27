@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56752-Animal Crisis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56752-Animal Crisis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/btoDk7lS0YsuouJQg8ugltL8eh2.jpg</image:loc
+      >
+      <image:caption
+        >Thanks to the Vegetarian Pact, all animals live in peace and harmony.
+        All but one: the hippen Crevel, who lives with the anguished feeling of
+        not re-testing the meat. Decided to calm his hatred, one night Crevel
+        goes to the cemetery ready to devour the corpses, but he can not do it,
+        because there is none. The lion Persius and his consigliere, the tiger
+        Altaicus, organized a whole nutritional network with the dead to keep
+        their carnivorous habits. When discovered, they accuse Crevel of the
+        brutal desecration, forcing him to flee from the wrath of the
+        herbivores.</image:caption
+      >
+      <image:title>Animal Crisis</image:title>
+    </image:image>
+  </url>
+</urlset>

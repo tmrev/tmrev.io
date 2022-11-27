@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362256-Barça Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362256-Barça Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wN8L1Sp9omTVd5aNcxNkQ857eqp.jpg</image:loc
+      >
+      <image:caption
+        >Fascinating chronicle of the ascendancy of FC Barcelona - possibly the
+        top team in the world and powerful emblem of Catalan identity - 'Barca:
+        More than a Club'. Director Jordi Llompart charts the team's inexorable
+        rise from its origins with founder Joan Gamper more than 100 years ago
+        to a Champion's League-winning side that boasts striker Lionel Messi and
+        prestigious coach Pep Guardiola.</image:caption
+      >
+      <image:title>Barça Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

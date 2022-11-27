@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/336432-Blues Traveler Live - Thinnest of Air</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/336432-Blues Traveler Live - Thinnest of Air</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Blues Traveler is one of the best touring Jam bands on the scene
+        currently. The Red Rocks July 4th show is a yearly tradition spreading
+        back over ten years and brings in travelers from all over the country
+        and some from overseas to join in this unique yearly
+        experience.</image:caption
+      >
+      <image:title>Blues Traveler Live - Thinnest of Air</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43768-Border Café</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43768-Border Café</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ikEMDuDsVC9IhtLOz1n4EOgD3Kq.jpg</image:loc
+      >
+      <image:caption
+        >A young widow takes over her late husband’s truck stop café, keeping
+        hidden in the kitchen so as not to cause a scandal in Iran’s
+        conservative society. But her brother-in-law, out of familial
+        obligation, wants to take her as a wife and also take over the café.
+        Meanwhile a Greek trucker who is a frequent café customer is slowly
+        entranced — at first by her sublime cooking ability, and then by
+        her.</image:caption
+      >
+      <image:title>Border Café</image:title>
+    </image:image>
+  </url>
+</urlset>

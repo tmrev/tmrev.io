@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342381-Bad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342381-Bad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/871wcm1cluC7iTqhsOZbUUxuWl1.jpg</image:loc
+      >
+      <image:caption
+        >For the first short film for one of five consecutive record-breaking
+        No. 1 hits from "Bad," Michael Jackson and director Martin Scorsese
+        created an epic 18-minute tale of urban and racial challenges in the
+        1980s. "Bad" was named the second greatest of Michael's short films by
+        Rolling Stone in 2014.</image:caption
+      >
+      <image:title>Bad</image:title>
+    </image:image>
+  </url>
+</urlset>

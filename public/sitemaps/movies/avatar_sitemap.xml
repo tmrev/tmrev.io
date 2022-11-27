@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/282908-Avatar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/282908-Avatar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xEAhV18F5Ej78qL0EneyPqa2a20.jpg</image:loc
+      >
+      <image:caption
+        >Michiko lost her dad in a car accident when she was 10 years old. After
+        the car accident, Michiko has lived with her mother Kyoko. Michiko, now
+        in her 2nd year of high school, gets a cell phone from her mother as a
+        birthday present. Michiko is so excited to have her very first cell
+        phone. Soon afterwards, she is forced into joining social networking
+        site "AvaQ" by classmate, and queen of the classroom,
+        Taeko.</image:caption
+      >
+      <image:title>Avatar</image:title>
+    </image:image>
+  </url>
+</urlset>

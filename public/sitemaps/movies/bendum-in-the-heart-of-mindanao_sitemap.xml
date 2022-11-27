@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/961952-Bendum: In The Heart of Mindanao</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/961952-Bendum: In The Heart of Mindanao</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This documentary is about the homeland and daily life of an indigenous
+        tribal community in the tropical uplands of central Mindanao in the
+        Philippines. In this small village called Bendum, the local community
+        has successfully struggled after decades of commercialized logging and
+        deforestation, to gain control over their ancestral lands</image:caption
+      >
+      <image:title>Bendum: In The Heart of Mindanao</image:title>
+    </image:image>
+  </url>
+</urlset>

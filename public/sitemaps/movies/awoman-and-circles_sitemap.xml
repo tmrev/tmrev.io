@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/816223-A Woman and Circles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/816223-A Woman and Circles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nn5yM5Cr5VpLh1C2ULtPc8rX4Da.jpg</image:loc
+      >
+      <image:caption
+        >Using a vintage 35mm camera, the director re-creates the unmade film
+        script of a Polish poet living in Paris in the 1930s. Revealing
+        successions of negative and positive images, the figurative and abstract
+        film pays homage to a surrealist and poetic vision.</image:caption
+      >
+      <image:title>A Woman and Circles</image:title>
+    </image:image>
+  </url>
+</urlset>

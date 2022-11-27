@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/437557-Blockers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/437557-Blockers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg</image:loc
+      >
+      <image:caption
+        >When three parents discover that each of their daughters have a pact to
+        lose their virginity at prom, they launch a covert one-night operation
+        to stop the teens from sealing the deal.</image:caption
+      >
+      <image:title>Blockers</image:title>
+    </image:image>
+  </url>
+</urlset>

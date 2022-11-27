@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/737534-Blight of Humanity</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/737534-Blight of Humanity</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AjUhJ8kYu4LlcrjHRSdf5DmXjcJ.jpg</image:loc
+      >
+      <image:caption
+        >A Sunday walk through the late summer landscape leads not only to a
+        small lake, but also to the abyss of human existence. Dominance and
+        oppression, superiority and humiliation serve for an alleged
+        "incarnation".</image:caption
+      >
+      <image:title>Blight of Humanity</image:title>
+    </image:image>
+  </url>
+</urlset>

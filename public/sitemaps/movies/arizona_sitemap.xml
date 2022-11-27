@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490004-Arizona</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490004-Arizona</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sLqutab3wuUfPBu27rXcoaEd6WD.jpg</image:loc
+      >
+      <image:caption
+        >Set in the midst of the 2009 housing crisis, the life of Cassie Fowler,
+        a single mother and struggling realtor, goes off the rails when she
+        witnesses a murder.</image:caption
+      >
+      <image:title>Arizona</image:title>
+    </image:image>
+  </url>
+</urlset>

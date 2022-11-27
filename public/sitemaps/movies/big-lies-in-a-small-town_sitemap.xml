@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1012370-Big Lies In A Small Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1012370-Big Lies In A Small Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/em1ZQa5RCJYIFKdmY6zE8N6aCHw.jpg</image:loc
+      >
+      <image:caption
+        >A young mother, Rachel, frantically searches for her teen daughter,
+        Hannah after their car crashed outside of a small town in the middle of
+        nowhere and her daughter goes missing. People die mysteriously in
+        Rachel’s wake as she gets closer to finding out that the small-town
+        doctor kidnapped her daughter. He and his wife never got over the tragic
+        loss of their teen daughter and it turns out that Hannah is the perfect
+        surrogate to take her place. Rachel desperately needs to find and rescue
+        her daughter before she is forced to play this role for the rest of her
+        life</image:caption
+      >
+      <image:title>Big Lies In A Small Town</image:title>
+    </image:image>
+  </url>
+</urlset>

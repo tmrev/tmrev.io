@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/743199-Ballada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/743199-Ballada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AlDTv6lgj7DmcohLNp9Z90AQGZK.jpg</image:loc
+      >
+      <image:caption
+        >The film relates the cruel reality of a small mountain village.
+        Inspired by the 100-year-old painting Il quarto stato (1901) by Giuseppe
+        Pellizza da Volpedo, it takes the characters and situation of the
+        painting as a starting point and creats an original
+        fiction.</image:caption
+      >
+      <image:title>Ballada</image:title>
+    </image:image>
+  </url>
+</urlset>

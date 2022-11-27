@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/633183-Blade Of Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/633183-Blade Of Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3HuYmWpeLEZ89r2NUSWerSNDODn.jpg</image:loc
+      >
+      <image:caption
+        >When the crew of the Hermes finds itself trapped in a space battle with
+        the evil Calinar breaching their ship they must fight for their lives
+        while Arina Kartades still has strange visions of her master Yuni on
+        Deridia Prime.</image:caption
+      >
+      <image:title>Blade Of Honor</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567566-Blizzard of Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567566-Blizzard of Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z3lVSySBEW17JK4k5RZJ5mALHM5.jpg</image:loc
+      >
+      <image:caption
+        >The love story of sixteen-year-old Arturs is interrupted by the First
+        World War. After losing his mother and his home, he finds some
+        consolation in joining the army, because this is the first time national
+        battalions are allowed in the Russian Empire. But war is nothing like
+        Arturs imagined – no glory, no fairness. It is brutal and painful.
+        Arturs is now completely alone as war takes the lives of his father and
+        brother. Also, no progress is made in the promised quick resolution of
+        the war and timely return home. Within the notion that only he alone
+        cares about returning home and that his homeland is just a playground
+        for other nations, Arturs finds strength for the final battle and
+        eventually returns home to start everything from scratch, just like his
+        newly born country.</image:caption
+      >
+      <image:title>Blizzard of Souls</image:title>
+    </image:image>
+  </url>
+</urlset>

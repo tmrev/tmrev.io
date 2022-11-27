@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/116811-Berberian Sound Studio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/116811-Berberian Sound Studio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sCrLZYF7TU32Vk5bOIJneVAcoKE.jpg</image:loc
+      >
+      <image:caption
+        >In the 1970s, a British sound technician is brought to Italy to work on
+        the sound effects for a gruesome horror film. His nightmarish task
+        slowly takes over his psyche, driving him to confront his own
+        past.</image:caption
+      >
+      <image:title>Berberian Sound Studio</image:title>
+    </image:image>
+  </url>
+</urlset>

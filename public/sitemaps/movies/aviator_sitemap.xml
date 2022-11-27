@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/605534-Aviator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/605534-Aviator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yYcV5jtIKPgSColm8aNRERILX9F.jpg</image:loc
+      >
+      <image:caption
+        >Upon arriving in Cartagena, Colombia, American pilot Benjamin Grey's
+        passport and money are stolen leaving him stranded. Shortly after he
+        receives a call from his son's doctor, who informs him that he is his
+        Leukemia-stricken son's only chance for survival, and the clock is
+        ticking</image:caption
+      >
+      <image:title>Aviator</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/615792-Black and Cuba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/615792-Black and Cuba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pz3Y5f0GfdkGnbPTs6Gs0FkkyAk.jpg</image:loc
+      >
+      <image:caption
+        >'Black and Cuba' follows street-smart students, who are outcasts at an
+        elite Ivy League university, as they band together and adventure to Cuba
+        to see if revolution is truly possible. While filming their poignant
+        encounters with AfroCuban youth, breathtaking sites and moving hip-hop
+        performances, the travelers confront realities behind myths of
+        color-blindness and social mobility. This edgy and artful documentary of
+        their journey uncovers renewed hope for equality and human rights.
+        'Black and Cuba' is the feature film directorial debut of international
+        human rights advocate and scholar Robin J. Hayes, PhD.</image:caption
+      >
+      <image:title>Black and Cuba</image:title>
+    </image:image>
+  </url>
+</urlset>

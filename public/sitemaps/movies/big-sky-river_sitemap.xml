@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/999104-Big Sky River</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/999104-Big Sky River</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/64xEn5k3clTLflvNGndaI6xZZS3.jpg</image:loc
+      >
+      <image:caption
+        >Tara needs to go back to Parable, Montana, the place that made her the
+        happiest, in order to move forward after a messy divorce. Her handsome
+        neighbor presents an unexpected twist.</image:caption
+      >
+      <image:title>Big Sky River</image:title>
+    </image:image>
+  </url>
+</urlset>

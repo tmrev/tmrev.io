@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/806295-Blackmores Night: Beyond The Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/806295-Blackmores Night: Beyond The Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6M9eMG4LI1gL0kMQ9KE9cdaLUnj.jpg</image:loc
+      >
+      <image:caption
+        >1.Written In The Stars 2.Morning Star 3.Play Minstrel Play 4.Minstrel
+        Hall 5.Under a Violent Moon</image:caption
+      >
+      <image:title>Blackmores Night: Beyond The Sunset</image:title>
+    </image:image>
+  </url>
+</urlset>

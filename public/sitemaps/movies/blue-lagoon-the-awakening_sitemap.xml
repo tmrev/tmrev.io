@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/115290-Blue Lagoon: The Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/115290-Blue Lagoon: The Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ptsBY9Aqo4Mn0V1krI5s8WfFxzW.jpg</image:loc
+      >
+      <image:caption
+        >Two high school students become stranded on a tropical island and must
+        rely on each other for survival. They learn more about themselves and
+        each other while falling in love.</image:caption
+      >
+      <image:title>Blue Lagoon: The Awakening</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/492974-Bon week-end Monsieur Bennett !</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/492974-Bon week-end Monsieur Bennett !</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fVh2mTKRiFOwuB4HUsQwjiSOzmi.jpg</image:loc
+      >
+      <image:caption
+        >Mr. Bennett is a model citizen, a tender father and an irreproachable
+        husband, he yearns for a quiet life. On a weekend he receives a visit
+        from a strange man called Pédro Juarez. Mr. Bennett’s past suddenly
+        resurfaces and his peaceful existence is turned upside down
+        ...</image:caption
+      >
+      <image:title>Bon week-end Monsieur Bennett !</image:title>
+    </image:image>
+  </url>
+</urlset>

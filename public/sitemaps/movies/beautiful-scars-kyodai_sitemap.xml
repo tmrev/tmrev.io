@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029930-Beautiful Scars: Kyodai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029930-Beautiful Scars: Kyodai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cL1YprVqOq6jZpZk5NxCJcCgl8K.jpg</image:loc
+      >
+      <image:caption
+        >Four friends have a reunion in the Scottish highlands and wake up to
+        find one is missing. Tensions arise as they begin to turn on one
+        another.</image:caption
+      >
+      <image:title>Beautiful Scars: Kyodai</image:title>
+    </image:image>
+  </url>
+</urlset>

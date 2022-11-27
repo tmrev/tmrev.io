@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291431-Bernard the Great</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291431-Bernard the Great</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hIlPap7mzZCZL1KJiUZooCvKZGK.jpg</image:loc
+      >
+      <image:caption
+        >It's Bernard's birthday, but he is not happy about it. In a strange
+        world where adults are selfish and indifferent, his parents never
+        accepted him as a child. Bernard doesn't want to grow up if it means to
+        become like them. So he creates a suit that stops his growth. The day he
+        reaches 10 years of age, Bernard will confront his parents and his whole
+        world.</image:caption
+      >
+      <image:title>Bernard the Great</image:title>
+    </image:image>
+  </url>
+</urlset>

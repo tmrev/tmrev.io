@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/145314-Bob Smiley: Uncaged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/145314-Bob Smiley: Uncaged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rhZTtHpvTPzxDM2mHZS8y6sTCOR.jpg</image:loc
+      >
+      <image:caption
+        >Find out why this show sold out and everyone including Bob's Mother
+        In-Law loves it! This DVD contains over an hour of Bob's comedy show and
+        several bonus features including the hit video "The Colter Show"
+        complete with bloopers!</image:caption
+      >
+      <image:title>Bob Smiley: Uncaged</image:title>
+    </image:image>
+  </url>
+</urlset>

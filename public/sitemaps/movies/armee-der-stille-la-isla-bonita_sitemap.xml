@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63425-Armee der Stille - La Isla Bonita</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63425-Armee der Stille - La Isla Bonita</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vorjMg0Nba1jpmWV4TZ5n8fKB7e.jpg</image:loc
+      >
+      <image:caption
+        >Somewhere in the middle of nowhere: after a wild party, seven people
+        take part in a high-risk game. A well-known media mogul becomes their
+        host, but then turns into a cynic. In the end, the seven people realize
+        that the game only took part in their heads...</image:caption
+      >
+      <image:title>Armee der Stille - La Isla Bonita</image:title>
+    </image:image>
+  </url>
+</urlset>

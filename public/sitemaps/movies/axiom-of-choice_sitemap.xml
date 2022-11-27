@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/785064-Axiom of Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/785064-Axiom of Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aX0HUZHahMAaIt0TcL3mEDkRo0z.jpg</image:loc
+      >
+      <image:caption
+        >Evoking the physiognomy of a Rembrandt portrait, Axiom of Choice
+        depicts Jonas Mekas and his son Sebastian, their heads rotating in
+        radiant chiaroscuro against a black ground. With Mekas at its center,
+        the references to cinematic machinery abound in this work: from the
+        proto-filmic zoetrope (which used a spinning cylinder to create the
+        illusion of a moving image), to the flickering zoom of Ernie Gehr’s film
+        Serene Velocity, to the enormous gyrating machine at the center of
+        Michael Snow’s La Région Centrale. —Richard Birkett, Karin Schneider &
+        Nicolás Guagnini</image:caption
+      >
+      <image:title>Axiom of Choice</image:title>
+    </image:image>
+  </url>
+</urlset>

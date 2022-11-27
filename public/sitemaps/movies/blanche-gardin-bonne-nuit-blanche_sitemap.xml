@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/638292-Blanche Gardin - Bonne nuit Blanche</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/638292-Blanche Gardin - Bonne nuit Blanche</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t7gvgmK7t9InobiWfZYj9VqaZQo.jpg</image:loc
+      >
+      <image:caption
+        >Blanche offers us her new stand-up, creation 2018. She spares no one.
+        Not even her own guts, which she still delivers to us smoking on the
+        altar of self-derision.</image:caption
+      >
+      <image:title>Blanche Gardin - Bonne nuit Blanche</image:title>
+    </image:image>
+  </url>
+</urlset>

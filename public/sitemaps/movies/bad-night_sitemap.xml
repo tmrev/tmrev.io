@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348499-Bad Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348499-Bad Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eH1Dnl1hD8JOyvQe7K0uulZDT7M.jpg</image:loc
+      >
+      <image:caption
+        >When Kate and Abby are mistaken for famous art thieves, their fun night
+        out quickly goes from good to bad.</image:caption
+      >
+      <image:title>Bad Night</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15167-Barbie in the Nutcracker</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15167-Barbie in the Nutcracker</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eIkXJggVmzN4MyPgJ2kDjOy9lmQ.jpg</image:loc
+      >
+      <image:caption
+        >"Barbie" stars as Clara in this animated retelling of the classic
+        Christmas ballet, complete with Tchaikovsky soundtrack and ballet
+        choreography.</image:caption
+      >
+      <image:title>Barbie in the Nutcracker</image:title>
+    </image:image>
+  </url>
+</urlset>

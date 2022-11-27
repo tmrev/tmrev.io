@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271715-Basmati Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271715-Basmati Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8MR9Qiwfpi4ztGXe3MrIQOnX65r.jpg</image:loc
+      >
+      <image:caption
+        >Linda Watt is a sheltered but brilliant young scientist who is plucked
+        out of her company's lab and sent to India by her CEO to sell "Rice 9,"
+        a genetically modified rice she's created. However, unbeknownst to her,
+        the rice will destroy the Indian farmers she thinks she's
+        helping.</image:caption
+      >
+      <image:title>Basmati Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

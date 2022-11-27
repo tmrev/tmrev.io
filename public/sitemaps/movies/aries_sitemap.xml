@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/797975-Aries</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/797975-Aries</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2LpZXGzndov8TNNdAVayUMyfKgF.jpg</image:loc
+      >
+      <image:caption
+        >Aries is the code of living in Heaven, until one day the passion comes
+        and forbidden fruits fall to the earth</image:caption
+      >
+      <image:title>Aries</image:title>
+    </image:image>
+  </url>
+</urlset>

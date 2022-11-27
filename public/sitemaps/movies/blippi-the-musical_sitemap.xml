@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/941066-Blippi The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/941066-Blippi The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wL3TNwMLtVYQFbyLSn5hdOzwobT.jpg</image:loc
+      >
+      <image:caption
+        >The energetic and fun Blippi brings all his previous adventures and
+        lessons on stage that'll make everyone sing and dance
+        along.</image:caption
+      >
+      <image:title>Blippi The Musical</image:title>
+    </image:image>
+  </url>
+</urlset>

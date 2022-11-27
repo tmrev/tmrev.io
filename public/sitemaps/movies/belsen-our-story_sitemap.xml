@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699888-Belsen: Our Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699888-Belsen: Our Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y94DIUozuQjiUn776zxQx4lk3ST.jpg</image:loc
+      >
+      <image:caption
+        >Survivors of the Bergen-Belsen concentration camp eloquently and
+        movingly tell of their experiences of deportation, family destruction,
+        and their own survival, together with the history of its place in the
+        Nazi death camp system and its liberation by the British army in April
+        1945.</image:caption
+      >
+      <image:title>Belsen: Our Story</image:title>
+    </image:image>
+  </url>
+</urlset>

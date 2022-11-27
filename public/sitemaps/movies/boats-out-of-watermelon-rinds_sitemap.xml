@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/103785-Boats Out of Watermelon Rinds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/103785-Boats Out of Watermelon Rinds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xHMndVnIWnKVqvj43lAG2LiGPpj.jpg</image:loc
+      >
+      <image:caption
+        >In his award-winning debut feature film, director Ahmet Ulucay portrays
+        the innocence of childhood and the lure of the cinema for two teens in a
+        small Turkish village. Working for a watermelon seller by day, Remet
+        spends his evenings trying to rebuild a film projector with his friend
+        Mehmet. Both have big dreams to be famous film directors one
+        day.</image:caption
+      >
+      <image:title>Boats Out of Watermelon Rinds</image:title>
+    </image:image>
+  </url>
+</urlset>

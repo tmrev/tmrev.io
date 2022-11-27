@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5845-Aragami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5845-Aragami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kSCNj4TSAnCp0XcCRJRN1x5dNdv.jpg</image:loc
+      >
+      <image:caption
+        >Two seriously wounded samurai find refuge from a storm at an isolated
+        temple, the home of a swordsman and a mysterious young woman. One
+        samurai awakes to find that not only has his comrade died, but that his
+        wounds have miraculously healed. He discovers that he has been given the
+        power of immortality by the swordsman, a man once known as the legendary
+        Miyamoto Musashi, who now lives an endless existence as Aragami, a "god
+        of battle".</image:caption
+      >
+      <image:title>Aragami</image:title>
+    </image:image>
+  </url>
+</urlset>

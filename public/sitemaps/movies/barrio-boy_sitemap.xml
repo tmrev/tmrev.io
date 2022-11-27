@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301003-Barrio Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301003-Barrio Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cT3H6geT8Vw9dsPwyptnop1zbWc.jpg</image:loc
+      >
+      <image:caption
+        >A secretly gay Latino barber quietly falls in love with a handsome
+        stranger over the course of a haircut during a hot and sweaty summer
+        afternoon in a macho Brooklyn hood.</image:caption
+      >
+      <image:title>Barrio Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

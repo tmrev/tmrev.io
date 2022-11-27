@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42507-Bestseller</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42507-Bestseller</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ZaW8EBJV2ZVw56ysSaXCermAP7.jpg</image:loc
+      >
+      <image:caption
+        >Following a humiliating plagiarism scandal, an author moves to an
+        isolated small-town house with her daughter to write her comeback novel.
+        Desperate for inspiration, she communicates with a mysterious ghostly
+        presence that has befriended her daughter.</image:caption
+      >
+      <image:title>Bestseller</image:title>
+    </image:image>
+  </url>
+</urlset>

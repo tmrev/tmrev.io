@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/74566-As Life Goes By</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/74566-As Life Goes By</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d63FegnILtriZ6tTPPn5lstgO3S.jpg</image:loc
+      >
+      <image:caption
+        >Un chef de gare surréaliste, un poète de la mécanique, un retraité "à
+        la coule", une centenaire à l'humeur chantante, un paysan voyageur, un
+        gyrocoptère qui fait du sur-place, un coq qui passe à la casserole... La
+        Vie comme elle va prend les choses comme elles viennent et les gens
+        comme ils sont. Loin du cynisme de la ville, le film révèle la réalité
+        décalée d'un petit village de la campagne aveyronnaise : un bouquet
+        champêtre d'humanité dont les héros sont reliés par un même désir, celui
+        de vivre à Najac, proches de la nature, et y vivre bien,
+        libres.</image:caption
+      >
+      <image:title>As Life Goes By</image:title>
+    </image:image>
+  </url>
+</urlset>

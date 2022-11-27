@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382854-Blurry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382854-Blurry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A woman with an over-active imagination sees the world unlike anyone
+        else, but that's not always a good thing. When her visions become too
+        distracting, she leaps at the opportunity to get a chip implant that
+        removes her imagination. After the procedure, her entire perspective on
+        life and herself changes... but for the better?</image:caption
+      >
+      <image:title>Blurry</image:title>
+    </image:image>
+  </url>
+</urlset>

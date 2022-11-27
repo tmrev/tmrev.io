@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396386-Barracuda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396386-Barracuda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1NoDUt9nJ3SiPN9mZBjEJhj5L4y.jpg</image:loc
+      >
+      <image:caption
+        >Sinaloa hitchhikes into Texas to meet Merle, her half-sister by way of
+        their dead country musician father. As the two get to know each other,
+        Sinaloa's chaotic influence starts to unravel Merle's quiet, comfortable
+        life. While the family music legacy brought Sinaloa to Austin, she won't
+        leave without taking revenge against the people who stole her daddy away
+        years ago.</image:caption
+      >
+      <image:title>Barracuda</image:title>
+    </image:image>
+  </url>
+</urlset>

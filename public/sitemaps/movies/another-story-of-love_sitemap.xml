@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/222584-Another Story of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/222584-Another Story of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wVo2CxtJx50mUcjko64gvf6yypg.jpg</image:loc
+      >
+      <image:caption
+        >Diego is a twenty-year-old Chilean boy who spends every day taking
+        pictures of anything he sees. After many years he meets Sebastian, his
+        childhood friend, and they spend a whole summer together drinking
+        alcohol, smoking marijuana and walking around in the blazing sun of
+        Santiago. They both come from dysfunctional families (Diego's mother is
+        an alcoholic and Sebastian feels abandoned by his father and his
+        stepmother), but the need to discover the world around them and explore
+        their inner feelings brings them closer to each other, making their
+        friendship very, very intense. The desire that ties them to each other
+        is palpable, and soon barriers and fears fall, leading them to wonder
+        what they really want.</image:caption
+      >
+      <image:title>Another Story of Love</image:title>
+    </image:image>
+  </url>
+</urlset>

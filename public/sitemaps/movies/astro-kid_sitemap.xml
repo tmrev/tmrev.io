@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/580600-Astro Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/580600-Astro Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vwqEIL5SrsZFVvileNe9LuHbJy7.jpg</image:loc
+      >
+      <image:caption
+        >Upon the destruction of their ship, Willy is separated from his
+        parents. He lands on a wild and unexplored planet and with the help of
+        Buck, a survival robot, he will have to hold until the arrival of a
+        rescue mission.</image:caption
+      >
+      <image:title>Astro Kid</image:title>
+    </image:image>
+  </url>
+</urlset>

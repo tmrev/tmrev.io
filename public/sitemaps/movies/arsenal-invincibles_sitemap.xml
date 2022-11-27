@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348476-Arsenal Invincibles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348476-Arsenal Invincibles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >What does it take to become Invincible? In 2004, Arsenal won the
+        Premier League without losing a single game and earned their place in
+        football history. Narrated by Mark Strong and featuring interviews with
+        Thierry Henry, Jens Lehmann, Martin Keown, Sol Campbell, Ray Parlour and
+        Arsène Wenger; Invincibles retells the story of that magical season
+        through those that made the impossible a reality.</image:caption
+      >
+      <image:title>Arsenal Invincibles</image:title>
+    </image:image>
+  </url>
+</urlset>

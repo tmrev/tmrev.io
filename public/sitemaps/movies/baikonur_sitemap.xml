@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/109046-Baikonur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/109046-Baikonur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1DZleUxHcqRXPdhg4FYQ0sOdtUm.jpg</image:loc
+      >
+      <image:caption
+        >“Whatever falls from heaven, you may keep.” So goes the unwritten law
+        of the Kazakh steppes. A law avidly adhered to by the inhabitants of a
+        small village, who collect the space debris that falls downrange from
+        the nearby Baikonur space station. The last two youthful members of the
+        village are the radio operator Iskander, known as Gagarin, and the
+        spirited Nazira. While Nazira finds it increasing difficult to conceal
+        her love for Iskander by means of her unconventional behaviour, Iskander
+        is evidently not only crazy about Baikonur and the vastness of outer
+        space, but also deeply smitten with the beautiful French astronaut Julie
+        Mahé, whose journey to the stars he wistfully follows on
+        television.</image:caption
+      >
+      <image:title>Baikonur</image:title>
+    </image:image>
+  </url>
+</urlset>

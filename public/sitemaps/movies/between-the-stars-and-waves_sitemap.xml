@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029204-Between the Stars and Waves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029204-Between the Stars and Waves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6kR1FlAIHjBZuMGt4ZBc02CVgws.jpg</image:loc
+      >
+      <image:caption
+        >One million people in Malaysia's Sabah are stateless. Fifty thousand of
+        them are children who have been denied their rights to public education
+        and healthcare. This is a story of those who learn to speak up for
+        themselves.</image:caption
+      >
+      <image:title>Between the Stars and Waves</image:title>
+    </image:image>
+  </url>
+</urlset>

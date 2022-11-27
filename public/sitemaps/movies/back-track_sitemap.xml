@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400290-Back Track</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400290-Back Track</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rk7Btuq6yb4l4pQ7qrzI1HcBqO8.jpg</image:loc
+      >
+      <image:caption
+        >Virgil Widrich compiles film excerpts from the 1950s and 1960s and
+        translates the resulting remix of images through multiple projections on
+        mirror and canvas constructions into a handbuilt three-dimensionality.
+        The visual levels collide (physically), and dream and reality
+        superimpose and dissolve: an audiovisual hall of mirrors in ragingly
+        beautiful black-and-white.</image:caption
+      >
+      <image:title>Back Track</image:title>
+    </image:image>
+  </url>
+</urlset>

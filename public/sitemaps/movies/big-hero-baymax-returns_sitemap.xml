@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/779451-Big Hero 6: Baymax Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/779451-Big Hero 6: Baymax Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tLFVNdWmaImZnYxHYYxE47CknrX.jpg</image:loc
+      >
+      <image:caption
+        >Hiro discovers a chip for Baymax's creation that was left behind by his
+        late brother Tadashi, which inspires Hiro to recreate Baymax, after
+        thinking his companion was gone forever. Of course, the task isn't as
+        easy or straightforward as it initially seems, and the Big Hero 6 team
+        quickly find themselves in trouble.</image:caption
+      >
+      <image:title>Big Hero 6: Baymax Returns</image:title>
+    </image:image>
+  </url>
+</urlset>

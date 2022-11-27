@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171944-Bambi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171944-Bambi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gWwAKOzGWHO1vZizZLgkk81r6w1.jpg</image:loc
+      >
+      <image:caption
+        >Bambi was born Jean-Pierre Pruvot in a tiny Algerian village in 1935.
+        Even as a child, she refused to meet the expectations of her extended
+        family, choosing instead to find a way to become the woman she always
+        knew herself to be. A Cabaret Carrousel de Paris performance in Algiers
+        in the 1950s proved to be all the encouragement she needed to emigrate
+        to the French capital, assume the stage name of ‘Bambi’ and lead the
+        life she longed for on the music-hall stages.</image:caption
+      >
+      <image:title>Bambi</image:title>
+    </image:image>
+  </url>
+</urlset>

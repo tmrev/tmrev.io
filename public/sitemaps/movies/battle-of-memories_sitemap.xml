@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/449306-Battle of Memories</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/449306-Battle of Memories</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3FWqQ8IM3tUt5RUVCeS109B9jBj.jpg</image:loc
+      >
+      <image:caption
+        >When a famous writer (Huang Bo) decides to have his memories wiped to
+        forget a divorce, he regrets it. Attempting to recover the memories, he
+        becomes haunted by psychopathic thoughts, acting out in ways both he and
+        those around him could never imagine. A companion film to director Leste
+        Chen's 2014 film The Great Hypnotist.</image:caption
+      >
+      <image:title>Battle of Memories</image:title>
+    </image:image>
+  </url>
+</urlset>

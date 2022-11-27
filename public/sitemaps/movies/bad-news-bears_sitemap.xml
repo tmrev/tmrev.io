@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13341-Bad News Bears</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13341-Bad News Bears</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ja1yrgfYAGmwnridioMY3MV0GDm.jpg</image:loc
+      >
+      <image:caption
+        >Morris Buttermaker is a burned-out minor league baseball player who
+        loves to drink and can't keep his hands to himself. His long-suffering
+        lawyer arranges for him to manage a local Little League team, and
+        Buttermaker soon finds himself the head of a rag-tag group of misfit
+        players. Through unconventional team-building exercises and his offbeat
+        coaching style, Buttermaker helps his hapless Bears prepare to meet
+        their rivals, the Yankees.</image:caption
+      >
+      <image:title>Bad News Bears</image:title>
+    </image:image>
+  </url>
+</urlset>

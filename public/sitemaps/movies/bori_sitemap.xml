@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582377-Bori</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582377-Bori</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6fCdVepSzkVgCkfIeCdyVnF4nhu.jpg</image:loc
+      >
+      <image:caption
+        >Bori, an 11-year-old girl who lives in a sea village, is the only
+        family member who can hear. Being an elementary school student, Bori
+        gradually becomes more familiar with communicating with her friends at
+        school by speaking and has a difficult time joining a sign language
+        conversation at home. Why was I the only person born different from my
+        family? The more she thinks about it, the more she feels
+        alienated.</image:caption
+      >
+      <image:title>Bori</image:title>
+    </image:image>
+  </url>
+</urlset>

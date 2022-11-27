@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/398770-App Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/398770-App Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cs8q7lv6ert3oJxWbZv6Hhtfhfa.jpg</image:loc
+      >
+      <image:caption
+        >A new Thai comedy which the story is about a man who dresses like a
+        woman. One day, he falls in love with a beautiful woman that he meets at
+        school in all of sudden. Their relationship becomes more interesting and
+        many funny moments comes up as they become closer to each
+        other.</image:caption
+      >
+      <image:title>App Love</image:title>
+    </image:image>
+  </url>
+</urlset>

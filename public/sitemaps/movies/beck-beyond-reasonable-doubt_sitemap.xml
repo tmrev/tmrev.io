@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/771622-Beck 40 - Beyond Reasonable Doubt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/771622-Beck 40 - Beyond Reasonable Doubt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9A0dQwVVIxC5CUqbKLgd037ux1v.jpg</image:loc
+      >
+      <image:caption
+        >During a police intervention, a macabre discovery is made in the trunk
+        of a car. Josef and Oskar find themselves in the line of fire of a
+        seemingly cold-blooded killer. But things are not what they
+        seem.</image:caption
+      >
+      <image:title>Beck 40 - Beyond Reasonable Doubt</image:title>
+    </image:image>
+  </url>
+</urlset>

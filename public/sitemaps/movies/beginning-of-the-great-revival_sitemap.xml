@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69310-Beginning of the Great Revival</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69310-Beginning of the Great Revival</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dw4lcKrxY5JwEzh09g7Vyt7Xc4q.jpg</image:loc
+      >
+      <image:caption
+        >A chronicle of the events that led to the founding of the Chinese
+        Communist Party.</image:caption
+      >
+      <image:title>Beginning of the Great Revival</image:title>
+    </image:image>
+  </url>
+</urlset>

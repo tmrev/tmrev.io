@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029340-Beckii: Schoolgirl Superstar at 14</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029340-Beckii: Schoolgirl Superstar at 14</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mCosTmczAGApyy1T6bXBdLM9KFQ.jpg</image:loc
+      >
+      <image:caption
+        >Documentary telling the story of 14-year-old Rebecca Flint, an ordinary
+        schoolgirl from the Isle of Man who in Japan becomes Beckii Cruel, a
+        teen icon and an internet sensation.</image:caption
+      >
+      <image:title>Beckii: Schoolgirl Superstar at 14</image:title>
+    </image:image>
+  </url>
+</urlset>
