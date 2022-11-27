@@ -28,9 +28,9 @@ const prettier = require('prettier');
                     `;
     })
     .join('')}
-        <url>
-            <loc>${'https://tmrev.io/sitemaps/movies'}</loc>
-        </url>
+      <url>
+        <loc>https://tmrev.io/sitemaps/movies/movie_parent_sitemap.xml</loc>
+      </url>
         </urlset>
     `;
 
