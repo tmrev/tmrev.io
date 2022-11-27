@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574835-Bouit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574835-Bouit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v6AMw5XGTAhIW2SFVwf7PiaHKnp.jpg</image:loc
+      >
+      <image:caption
+        >After a lab accident, a lethal virus destroys the entire planet, left
+        alone eight human beings, among whom the "virus" creator, but also a
+        photographer and six mentally handicapped persons.</image:caption
+      >
+      <image:title>Bouit</image:title>
+    </image:image>
+  </url>
+</urlset>

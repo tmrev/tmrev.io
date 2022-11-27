@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553713-Cognitio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553713-Cognitio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kUN5C5DsoDJzGJJj1abJQOhPy4E.jpg</image:loc
+      >
+      <image:caption
+        >Reclusively withdrawn Tobias is hospitalized in a psychiatric
+        institution. Here, he meets the boy Emil, a boy with an entirely
+        different view on life and the situation he and Tobias are in. The two
+        boys develop a close friendship that puts the mind and boundaries of
+        Tobias to the test.</image:caption
+      >
+      <image:title>Cognitio</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/377335-Conquest of Hawaii</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/377335-Conquest of Hawaii</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zcDeFvfEPmGMyfEo3BXczPqhPwi.jpg</image:loc
+      >
+      <image:caption
+        >History Channel documentary which chronicles the history of Hawai'i and
+        the rarely told story of the overthrow of the Hawaiian monarchy by the
+        American government.</image:caption
+      >
+      <image:title>Conquest of Hawaii</image:title>
+    </image:image>
+  </url>
+</urlset>

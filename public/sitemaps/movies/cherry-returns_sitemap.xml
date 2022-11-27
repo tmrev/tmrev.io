@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/437216-Cherry Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/437216-Cherry Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1VTxO8xIkaMKlhOLd2rYMdltQIq.jpg</image:loc
+      >
+      <image:caption
+        >The story revolves around Ah Ying, a young girl who was kidnapped and
+        declared missing for over a decade. She suddenly returns to her family
+        after 12 years, and older sister Ning Jing soon discovers that something
+        is wrong with Ah Ying. It turns out Ah Ying has been carrying out crimes
+        on the orders of her abductor, and Ning Jing employs the help of
+        friendly police officer to unravel her younger sister’s
+        conspiracy.</image:caption
+      >
+      <image:title>Cherry Returns</image:title>
+    </image:image>
+  </url>
+</urlset>

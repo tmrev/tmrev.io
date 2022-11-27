@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/599876-Caught in the Net</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/599876-Caught in the Net</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jt61E2pvsexKH903PaGFnm2csHi.jpg</image:loc
+      >
+      <image:caption
+        >Everyone knows something like this is happening. But this is the only
+        experiment to fully demonstrate what excessive openness on the internet
+        means. The filmmaking couple hired youthful-looking (but over 18)
+        actresses to pretend to be prepubescent girls and communicate with
+        strangers who approached them based on their fake accounts. They
+        attracted dozens of men in the first ten days, then hundreds, and
+        finally thousands...</image:caption
+      >
+      <image:title>Caught in the Net</image:title>
+    </image:image>
+  </url>
+</urlset>

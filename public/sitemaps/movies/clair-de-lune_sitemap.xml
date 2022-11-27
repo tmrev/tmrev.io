@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/344682-Clair de Lune</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/344682-Clair de Lune</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hPUk47JzJVPWpJPcDLY77sENVNb.jpg</image:loc
+      >
+      <image:caption
+        >"Clair de Lune" was fully animated and scored when it was deleted from
+        Fantasia in early 1940, a casualty of Fantasia's excessive length. In
+        February 1942, inking, painting and technicolor photography were
+        completed for "Clair de Lune" as a short subject, but it was not
+        released. In 1946 it was edited , reshaped and re-scored as the popular
+        music sequence "Blue Bayou" in "Make Mine Music". Previous attempts to
+        recreate "Clair de Lune" were frustrated by missing animation and
+        Stokowski footage. A nitrate workprint of the original version located
+        in 1992 has allowed "Clair de Lune" to be completely reconstructed as
+        Walt Disney intended it to be seen.</image:caption
+      >
+      <image:title>Clair de Lune</image:title>
+    </image:image>
+  </url>
+</urlset>

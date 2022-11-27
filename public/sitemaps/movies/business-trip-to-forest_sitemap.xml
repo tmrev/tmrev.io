@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/792248-Business Trip to Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/792248-Business Trip to Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6adGT6GtM9h9cwDzvnGmW3kvFqK.jpg</image:loc
+      >
+      <image:caption
+        >Circumstances force two former friends and schoolmates to meet again
+        after a long separation. There’s an unresolved conflict from their past.
+        Will this chance meeting result in reconciliation?</image:caption
+      >
+      <image:title>Business Trip to Forest</image:title>
+    </image:image>
+  </url>
+</urlset>

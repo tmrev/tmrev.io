@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1042507-Cloud Jacket</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1042507-Cloud Jacket</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tePRcFthNMPvDlUGrqHuvYwrR7l.jpg</image:loc
+      >
+      <image:caption
+        >A special boy named Yolaf dreamed of escaping from a creature that was
+        bothering him but with the help of his pet fish he made a pair of
+        magical jackets to fight the creature.</image:caption
+      >
+      <image:title>Cloud Jacket</image:title>
+    </image:image>
+  </url>
+</urlset>

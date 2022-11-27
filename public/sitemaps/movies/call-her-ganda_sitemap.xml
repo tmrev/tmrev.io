@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/512761-Call Her Ganda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/512761-Call Her Ganda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rIZV3X1NeG99jeJRaDXtKHt9W.jpg</image:loc
+      >
+      <image:caption
+        >Grassroots activists in the Philippines are spurred into action when a
+        local transgender woman is found dead in a motel room with a 19-year-old
+        U.S. marine as the leading suspect. As they demand answers and a just
+        trial, hidden histories of U.S. colonization come bubbling to the
+        surface.</image:caption
+      >
+      <image:title>Call Her Ganda</image:title>
+    </image:image>
+  </url>
+</urlset>

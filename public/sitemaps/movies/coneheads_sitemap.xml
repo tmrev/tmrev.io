@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9612-Coneheads</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9612-Coneheads</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2HLX4Kc15FOA1HHjOl0AuKex6ym.jpg</image:loc
+      >
+      <image:caption
+        >A pair of aliens arrive on Earth to prepare for invasion, but crash
+        instead. With enormous cone-shaped heads, robotlike walks and an
+        appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend
+        in with the population of Paramus, N.J. But for some reason, everyone
+        believes them when they say they're from France.</image:caption
+      >
+      <image:title>Coneheads</image:title>
+    </image:image>
+  </url>
+</urlset>

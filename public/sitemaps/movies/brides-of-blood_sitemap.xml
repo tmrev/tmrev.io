@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77889-Brides of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77889-Brides of Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dh2IzvZ4ND6n3s3QW2TvSfMaysY.jpg</image:loc
+      >
+      <image:caption
+        >Americans investigating the results of nuclear radiation discover a
+        man-eating monster on a remote island.</image:caption
+      >
+      <image:title>Brides of Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/707925-Cuba: Island of Baseball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/707925-Cuba: Island of Baseball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A look at the decades of personal stories of Cuban baseball players and
+        their defection from their country in pursuit of a Major League career,
+        from Tony Oliva and Luis Tiant to Aroldis Chapman and Yasiel
+        Puig.</image:caption
+      >
+      <image:title>Cuba: Island of Baseball</image:title>
+    </image:image>
+  </url>
+</urlset>

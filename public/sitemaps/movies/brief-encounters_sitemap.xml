@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83440-Brief Encounters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83440-Brief Encounters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cMLLA10XdxormV5dmY0huH2RGW7.jpg</image:loc
+      >
+      <image:caption
+        >Country girl Nadia moves to the city and becomes a maid in Valya's
+        apartment. Valya, who is a member of the local District Committee, does
+        not know that Nadia fell in love with her currently absent husband, a
+        geologist named Maksim, when he had visited Nadia's village during a
+        recent expedition.</image:caption
+      >
+      <image:title>Brief Encounters</image:title>
+    </image:image>
+  </url>
+</urlset>

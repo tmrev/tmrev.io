@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/981269-Bye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/981269-Bye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8WL1w19maliqDRIEeb3Zq9I3J2H.jpg</image:loc
+      >
+      <image:caption
+        >If you love something, set it free. If it comes back to you, you're
+        going to get what you deserve. Based on a time in the director's past
+        and his pet fish, this short piece looks at the point in his life when
+        having the beautiful boyfriend just wasn't enough.</image:caption
+      >
+      <image:title>Bye</image:title>
+    </image:image>
+  </url>
+</urlset>

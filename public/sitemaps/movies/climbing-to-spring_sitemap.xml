@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311029-Climbing to Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311029-Climbing to Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iwJiO0cMvHK0Qy815G3NKblBYtc.jpg</image:loc
+      >
+      <image:caption
+        >Toru grew up in alpine countryside around Mount Tate. As a child, he
+        resented the yearly trek up the mountain with his father to prepare
+        their mountain hut for the summer season of climbers. When Toru grows
+        up, he leaves his hometown and enters the working world as a stock
+        trader. One day, Toru receives word that his father has passed away. He
+        returns to Mount Tate once again, and becomes conscious of a new
+        calling. But, does Toru have what it takes to follow in his father
+        footsteps?</image:caption
+      >
+      <image:title>Climbing to Spring</image:title>
+    </image:image>
+  </url>
+</urlset>

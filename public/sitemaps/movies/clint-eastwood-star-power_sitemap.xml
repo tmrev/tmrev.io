@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/923913-Clint Eastwood: Star Power</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/923913-Clint Eastwood: Star Power</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Clint Eastwood has become Hollywood royalty, beloved by audiences
+        around the world. See rare footage along with special interviews, and
+        get the unedited true story of one of Hollywood's
+        greatest.</image:caption
+      >
+      <image:title>Clint Eastwood: Star Power</image:title>
+    </image:image>
+  </url>
+</urlset>

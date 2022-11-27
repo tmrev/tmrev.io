@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252801-Chermin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252801-Chermin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wsqqlk8kOMMTgzT6bTao6Xw7MHE.jpg</image:loc
+      >
+      <image:caption
+        >The story is about a girl name Nasrin who got herself into a tragic car
+        accident. Her face is ruined. Her mother discovers an antique mirror.
+        The mirror is not an ordinary mirror, a spirit trapped inside it makes
+        the mirror able to reflect what Nasrin wants to see. Nasrin becomes
+        obsessed with the mirror. On a quest to regain her past beauty, Nasrin
+        submits herself to the mirror spirit by satisfying the mirror’s need for
+        blood and revenge.</image:caption
+      >
+      <image:title>Chermin</image:title>
+    </image:image>
+  </url>
+</urlset>

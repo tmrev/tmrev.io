@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181108-Code of the West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181108-Code of the West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >At a time when the country is rethinking its drug policies large and
+        small, one state raises to the forefront of national attention. Once a
+        pioneer in legalizing medical marijuana, the state of Montana is poised
+        to become the first in the nation to repeal its medical marijuana law.
+        Set against the sweeping vistas of the Rockies, the steamy lamplight of
+        marijuana grow houses, and the bustling halls of the State Capitol, CODE
+        OF THE WEST follows the 2011 Montana State Legislature as it debates the
+        fate of medical marijuana. This is the story of the many lives and
+        fraught emotions tied to one of the most heated policy questions facing
+        the country today</image:caption
+      >
+      <image:title>Code of the West</image:title>
+    </image:image>
+  </url>
+</urlset>

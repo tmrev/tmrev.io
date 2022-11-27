@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1004921-Contra el cristal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1004921-Contra el cristal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/txJRCqvunRUmcjHtOEswqC7gYLn.jpg</image:loc
+      >
+      <image:caption
+        >Quima goes to say goodbye to her best friend, who has died. During the
+        bus ride to the morgue, she opens her heart to a stranger and with him
+        she relieves the pain she has accumulated.</image:caption
+      >
+      <image:title>Contra el cristal</image:title>
+    </image:image>
+  </url>
+</urlset>

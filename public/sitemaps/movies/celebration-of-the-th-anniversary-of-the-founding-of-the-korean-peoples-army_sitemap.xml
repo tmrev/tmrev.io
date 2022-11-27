@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/458796-Celebration of the 75th Anniversary of the
+      Founding of the Korean People's Army</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/458796-Celebration of the 75th Anniversary of the
+      Founding of the Korean People's Army</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2n5sqM8Etf8nCRQwrBnqmOZ5NIe.jpg</image:loc
+      >
+      <image:caption
+        >This is a documentary film about the 75th anniversary of the founding
+        of the Korean People's Army of North Korea.</image:caption
+      >
+      <image:title
+        >Celebration of the 75th Anniversary of the Founding of the Korean
+        People's Army</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

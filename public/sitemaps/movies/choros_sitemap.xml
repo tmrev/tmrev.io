@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/182575-Choros</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/182575-Choros</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9d09rkRJlyXCyTRs9nXa8Yg5SBH.jpg</image:loc
+      >
+      <image:caption
+        >A chorus of women are borne from the movements of a single dancer in
+        this dreamlike "pas de trente-deux."</image:caption
+      >
+      <image:title>Choros</image:title>
+    </image:image>
+  </url>
+</urlset>

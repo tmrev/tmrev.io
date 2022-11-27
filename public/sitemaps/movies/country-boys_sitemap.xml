@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/590258-Country Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/590258-Country Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/I8d8JqmHDjVw7CcSO8fHHrnEMr.jpg</image:loc
+      >
+      <image:caption
+        >Country Boys is a 6-hour documentary film centered on Cody Perkins and
+        Chris Johnson, two teenage boys from David, Kentucky. They attended the
+        David School, a non-denominational alternative high school with a
+        mission to serve underprivileged and struggling students. The film
+        covers the 3-year period from 1999 to 2002 in which the boys' ages range
+        from 15 to 18. It was directed by David Sutherland. It was a three-part
+        edition of Frontline on PBS, with each part running for two hours,
+        originally broadcast in January 2006.</image:caption
+      >
+      <image:title>Country Boys</image:title>
+    </image:image>
+  </url>
+</urlset>

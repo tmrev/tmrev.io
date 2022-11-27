@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/683830-Compound Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/683830-Compound Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r2tiCpRXQgZvHYjFlUEWm96ucPF.jpg</image:loc
+      >
+      <image:caption
+        >A film shot with super-8 using various distortion lenses in front of
+        the camera; partly in real-time, partly animation. The footage has been
+        treated with coloured inks and bleach and features a specially composed
+        electronic music soundtrack.</image:caption
+      >
+      <image:title>Compound Eye</image:title>
+    </image:image>
+  </url>
+</urlset>

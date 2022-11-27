@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407165-Children Who Love Each Other</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407165-Children Who Love Each Other</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mKCTAb8zBiCOzoC23pAAKxoHBwi.jpg</image:loc
+      >
+      <image:caption
+        >A family vacation in the mountains. Nine-year-old Eliane is as free as
+        a caged bird. She tries to escape her bossy mother, who lives in a state
+        of pathological stress that affects Eliane and her siblings.
+        Partially-deaf, Eliane uses her disability to protect herself from the
+        adults around her. Despite the emotional bruising and trauma, she faces
+        up to her own isolation and looks for freedom in wide open
+        spaces.</image:caption
+      >
+      <image:title>Children Who Love Each Other</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60170-Christopher and His Kind</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60170-Christopher and His Kind</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xGtqQgahfwm3cxrVv9Vv2B8z2K.jpg</image:loc
+      >
+      <image:caption
+        >In 1931, budding author Christopher Isherwood goes to Berlin at the
+        invitation of his friend W. H. Auden for the gay sex that abounds in the
+        city. He falls for street sweeper Heinz, paying medical bills for the
+        boy's sickly mother, to the disapproval of her other son, Nazi
+        Gerhardt.</image:caption
+      >
+      <image:title>Christopher and His Kind</image:title>
+    </image:image>
+  </url>
+</urlset>

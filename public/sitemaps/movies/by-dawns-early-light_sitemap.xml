@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298158-By Dawn's Early Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298158-By Dawn's Early Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uzoA2lhTBqN1JjeOw5MFQOgvzTC.jpg</image:loc
+      >
+      <image:caption
+        >When Mike Lewis leaves L.A. to stay with his grandfather in Colorado
+        for the summer, he hates the old man's cowboy ways. When Mike demands to
+        go home, the old man agrees and saddles up a couple of horses for a six
+        week trip toward California, home, the Pacific and
+        redemption.</image:caption
+      >
+      <image:title>By Dawn's Early Light</image:title>
+    </image:image>
+  </url>
+</urlset>

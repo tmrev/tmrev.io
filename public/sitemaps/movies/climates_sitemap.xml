@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18421-Climates</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18421-Climates</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g08nEJjsuz8cHvIPDE012wjLg7h.jpg</image:loc
+      >
+      <image:caption
+        >Man was made to be happy for simple reasons and unhappy for even
+        simpler ones – just as he is born for simple reasons and dies for even
+        simpler ones... Isa and Bahar are two lonely figures dragged through the
+        ever-changing climate of their inner selves in pursuit of a happiness
+        that no longer belongs to them.</image:caption
+      >
+      <image:title>Climates</image:title>
+    </image:image>
+  </url>
+</urlset>

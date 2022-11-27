@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16304-Creepshow 3</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16304-Creepshow 3</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qvJSdbruD4e5cUxruoUFUkJrsqt.jpg</image:loc
+      >
+      <image:caption
+        >This follow-up to the George Romero/Stephen King-launched anthology
+        series features five new tales of horror and a wraparound. The main
+        stories deal with alternative realities ("Alice"), possessed
+        communication devices ("The Radio"), vampires and serial killers in lust
+        ("Call Girl"), mad inventors ("The Professor's Wife"), and hauntings
+        from beyond the grave ("Haunted Dog").</image:caption
+      >
+      <image:title>Creepshow 3</image:title>
+    </image:image>
+  </url>
+</urlset>

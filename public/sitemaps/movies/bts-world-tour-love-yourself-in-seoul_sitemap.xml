@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/568300-BTS World Tour: Love Yourself in Seoul</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/568300-BTS World Tour: Love Yourself in Seoul</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1u0rtWPgYfAWmqveXOsQDvMRODD.jpg</image:loc
+      >
+      <image:caption
+        >Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love
+        Yourself’ to celebrate the seven members of the global boyband and their
+        unprecedented international phenomenon.</image:caption
+      >
+      <image:title>BTS World Tour: Love Yourself in Seoul</image:title>
+    </image:image>
+  </url>
+</urlset>

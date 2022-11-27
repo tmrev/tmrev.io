@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716473-Celluloid Soul</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716473-Celluloid Soul</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/62yfqBLNUfQ6D7bdGqHdtKRaRD.jpg</image:loc
+      >
+      <image:caption
+        >Monty meets an actress from a 1939 movie who looks exactly like she did
+        then, complete with a black and white hue, specks of dust and vertical
+        scratches throughout her face and body.</image:caption
+      >
+      <image:title>Celluloid Soul</image:title>
+    </image:image>
+  </url>
+</urlset>

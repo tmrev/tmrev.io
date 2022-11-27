@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/266882-Closer to God</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/266882-Closer to God</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vk7nGhMUEiKYqaIVuEzgwGPMNHB.jpg</image:loc
+      >
+      <image:caption
+        >A man on the cutting edge of science becomes the first to successfully
+        clone a person, but events unravel when the news leaks out before his
+        team could prepare for what's to come.</image:caption
+      >
+      <image:title>Closer to God</image:title>
+    </image:image>
+  </url>
+</urlset>

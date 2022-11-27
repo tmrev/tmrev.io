@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311815-Christian Ferras in Recital</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311815-Christian Ferras in Recital</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Featuring a medley of vintage performances, this compilation showcases
+        the genius of illustrious French violinist Christian Ferras, accompanied
+        by the Radio Canada Orchestra under the baton of maestro Alexander
+        Brott. Selections include Claude Debussy's Sonata for Violin and Piano
+        in G Minor, Maurice Ravel's Tzigane for Violin and Piano, Béla Bartók's
+        Sonata for Violin and Piano no. 2 and Felix Mendelssohn's Violin
+        Concerto in E Minor, op. 64.</image:caption
+      >
+      <image:title>Christian Ferras in Recital</image:title>
+    </image:image>
+  </url>
+</urlset>

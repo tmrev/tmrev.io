@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/719564-Cuilos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/719564-Cuilos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tHbhRLFea3BecWlCrAlEWlwEWy6.jpg</image:loc
+      >
+      <image:caption
+        >Michelle is about to bring her boyfriend home to meet her parents. But
+        it will be more difficult for Michelle than the other girls of her
+        age</image:caption
+      >
+      <image:title>Cuilos</image:title>
+    </image:image>
+  </url>
+</urlset>

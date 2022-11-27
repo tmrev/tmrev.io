@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/92213-Chaya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/92213-Chaya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ydY587huCcliR6dZ5bnk1wwJ2bS.jpg</image:loc
+      >
+      <image:caption
+        >A young archaeologist uncovers a coffin of an ancient princess who was
+        his lover in their past life. The princess is out to avenge her death
+        from her younger sister who, in this life, is the lover of the
+        archaeologist.</image:caption
+      >
+      <image:title>Chaya</image:title>
+    </image:image>
+  </url>
+</urlset>

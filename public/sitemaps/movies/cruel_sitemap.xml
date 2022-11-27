@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/349193-Cruel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/349193-Cruel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xdPeqnzvdiwTvk6lzyXpHXR4Ywa.jpg</image:loc
+      >
+      <image:caption
+        >Pierre Tardieu, a day laborer, lives with his sick father. Reminiscing
+        about his childhood with his mother on the beach, he can't free himself
+        from her. Murdering someone becomes the only way of realizing his
+        existence. One day, he meets a pianist called Laure in a bookstore and
+        falls in love with her.</image:caption
+      >
+      <image:title>Cruel</image:title>
+    </image:image>
+  </url>
+</urlset>

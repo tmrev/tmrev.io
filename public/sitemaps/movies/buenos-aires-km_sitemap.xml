@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71576-Buenos Aires 100 km</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71576-Buenos Aires 100 km</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pMX0k5TzA19YuOXKqld5CD5Z1aC.jpg</image:loc
+      >
+      <image:caption
+        >A remote village 100 kilometers from the city of Buenos Aires. Stephen,
+        Matías, Alejo, Damián and Guido were born 13 years ago in this small
+        town. Have always been friends and together they share the monotonous
+        summer afternoons sitting on the stoop of a women's hairdresser.
+        Anxious, restless, impatient for a change, go through the most confusing
+        period of experiment. The transition from childhood to adolescence.
+        Appears curious about women and sexual awakening, accompanied by the
+        rebellion against their parents and family mandates.</image:caption
+      >
+      <image:title>Buenos Aires 100 km</image:title>
+    </image:image>
+  </url>
+</urlset>

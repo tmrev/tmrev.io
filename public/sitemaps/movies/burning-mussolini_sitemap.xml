@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63329-Burning Mussolini</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63329-Burning Mussolini</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h6SVXiEm4bojv1K8CQyj9VIMEr4.jpg</image:loc
+      >
+      <image:caption
+        >.Ex-boxer Paul Choquino decides to finance his upcoming wedding by
+        robbing reputed drug lord Benito Mussolini Bonacci. But everything that
+        can go wrong in the burn does and Paul is left running from the law, the
+        mob and one of the members of his own posse</image:caption
+      >
+      <image:title>Burning Mussolini</image:title>
+    </image:image>
+  </url>
+</urlset>

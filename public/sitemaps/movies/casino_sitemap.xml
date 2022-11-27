@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1031167-Casino</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1031167-Casino</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/loL5QtEvyRgU9SpXT2cuefvhvRf.jpg</image:loc
+      >
+      <image:caption
+        >Live performance 16mm film that's more or less about the now torn down
+        Casino in Asbury Park, NJ. An ever evolving work surrounding the
+        abandoned boardwalk Casino in Asbury Park, New Jersey. As much about the
+        city and shore community as it is a about the building itself and my own
+        upbringing in the Garden State.</image:caption
+      >
+      <image:title>Casino</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/507654-Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/507654-Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c2I2LTemeTZISHViM20KPL4NTzU.jpg</image:loc
+      >
+      <image:caption
+        >Celeste is a renowned opera diva who retired early for the man she
+        loved to live on a crumbling and beautiful estate in the heart of a
+        rainforest in Far North Queensland. Ten years after the tragic death of
+        her husband, Mateos, in a boating accident, Celeste is set to return to
+        the stage for her final performance. Her husband’s son Jack, still
+        haunted by the past, arrives amidst the preparations for the performance
+        and finds Celeste is as he remembered – beautiful, intoxicating and
+        dangerous. Celeste wants Jack to stay at the estate, but needs him to
+        perform one last request.</image:caption
+      >
+      <image:title>Celeste</image:title>
+    </image:image>
+  </url>
+</urlset>

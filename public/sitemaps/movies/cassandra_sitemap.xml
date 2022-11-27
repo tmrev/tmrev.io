@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/424653-Cassandra</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/424653-Cassandra</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bHk6Pa03UqgaM2z4bOJNy7OOlSP.jpg</image:loc
+      >
+      <image:caption
+        >Are words, photographs and speeches sufficient means for describing and
+        communicating a complex, harsh, unmanageable reality? These unsolved
+        questions pursue Cassandra during her trip through the impenetrable
+        Chaco as chronicler of a means of communication, her first job after
+        graduating from literature school. The unknown reality of native peoples
+        who live in the Chaco communities, their beautiful and uncomprehensive
+        languages and their dilemmas facing an economy which excludes them, are
+        part of a trip in which Cassandra finds an inhabitable world within her
+        status as foreigner. Her visions start merging with the cosmovision of
+        ancient inhabitants until she becomes part of the enigma
+        herself.</image:caption
+      >
+      <image:title>Cassandra</image:title>
+    </image:image>
+  </url>
+</urlset>

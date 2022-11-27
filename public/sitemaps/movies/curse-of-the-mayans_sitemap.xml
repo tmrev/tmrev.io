@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/267767-Curse of the Mayans</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/267767-Curse of the Mayans</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/piKOoGPT1vw78WbLfkCc7JmrP4N.jpg</image:loc
+      >
+      <image:caption
+        >Danielle Noble (played by Carla Ortiz) and her team of expert cave
+        divers led by an ambitious american archaeologist (Steve Wilcox),
+        undertake an expedition in search of the lost Mayan Library, without
+        imagining they will instead find the hidden gates of hell known as
+        Xib'alb'a.</image:caption
+      >
+      <image:title>Curse of the Mayans</image:title>
+    </image:image>
+  </url>
+</urlset>

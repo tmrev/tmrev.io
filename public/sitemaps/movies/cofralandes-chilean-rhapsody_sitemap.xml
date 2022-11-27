@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291772-Cofralandes, Chilean Rhapsody</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291772-Cofralandes, Chilean Rhapsody</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/azQOsiHIEpm9YN4KV8axktkBVFw.jpg</image:loc
+      >
+      <image:caption
+        >An experimental four-part 2002 Franco-Chilean digital video series
+        written and directed by Raúl Ruiz. The first part won a FIPRESCI Award
+        at the Montreal World Film Festival in 2002 "for the director's personal
+        exploration into his homeland, using DV in a rigorous yet playful
+        manner".</image:caption
+      >
+      <image:title>Cofralandes, Chilean Rhapsody</image:title>
+    </image:image>
+  </url>
+</urlset>

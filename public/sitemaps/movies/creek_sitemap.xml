@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/446453-Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/446453-Creek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8kKSiAfk1RqILSpyvUlgGNS9B7X.jpg</image:loc
+      >
+      <image:caption
+        >A group of friends driving to Las Vegas to attend a Horror convention
+        decide to stop at a roadside attraction promising the opportunity to
+        find gold. After being told about the ghosts who haunt the Creek, they
+        head into the woods to test their luck disbelieving what has been told.
+        Soon the friends decide to leave, but their car is missing and the
+        roadside attraction is permanently closed. The only thing left to do is
+        venture back into the woods and search for their car or anyone that
+        could help, but after one friend finds hidden gold the ghosts of the
+        Creek begins to stalk the group out of vengeance.</image:caption
+      >
+      <image:title>Creek</image:title>
+    </image:image>
+  </url>
+</urlset>

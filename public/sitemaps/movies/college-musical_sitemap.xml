@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298775-College Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298775-College Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >It's freshman year and Cooper has a distracting crush on his hot TA
+        Bianca, devastating his grades. With the help of his college-mandated
+        tutor and cadre of wacky friends, Cooper discovers that true love is
+        more than meets the eye, and reveals some shocking truths about Bianca
+        that will rock the school.</image:caption
+      >
+      <image:title>College Musical</image:title>
+    </image:image>
+  </url>
+</urlset>

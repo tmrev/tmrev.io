@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/421833-Brave New Jersey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/421833-Brave New Jersey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rCDTWX51Xk4yUJOpOd6niIUdptG.jpg</image:loc
+      >
+      <image:caption
+        >A comedy that tells the story of a small New Jersey town on the night
+        of Orson Welles' famed 1938 War of the Worlds radio broadcast, which led
+        millions of listeners to believe the U.S. was being invaded by
+        Martians.</image:caption
+      >
+      <image:title>Brave New Jersey</image:title>
+    </image:image>
+  </url>
+</urlset>

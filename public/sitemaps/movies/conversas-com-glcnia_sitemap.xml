@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/735986-Conversas com Glícínia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/735986-Conversas com Glícínia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nZPu8INgeR2Sel9Onygt64Pgax2.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about the actress Glicínia Quartin on her 80th birthday.
+        Her family, the anarcho-syndicalism, readings at his parents' house,
+        prisons, experimental theaters, surrealists, the encounter with José
+        Ernesto de Sousa on the unfolding of Cinema Novo with “Dom Roberto”,
+        Italy, fantasy, Beckett, Genet, Vitor Garcia, the encounter with Luís
+        Miguel Cintra - a life in motion.</image:caption
+      >
+      <image:title>Conversas com Glícínia</image:title>
+    </image:image>
+  </url>
+</urlset>

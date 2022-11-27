@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/536127-Clown Motel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/536127-Clown Motel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2emnctnSa26o9J9HeTadtAgROiQ.jpg</image:loc
+      >
+      <image:caption
+        >A lost group ends up stranded in the middle of nowhere and decides to
+        seek refuge in a deserted Clown Motel. Little do they know, the place is
+        cursed, and they unwittingly unleash the evil clown
+        spirits.</image:caption
+      >
+      <image:title>Clown Motel</image:title>
+    </image:image>
+  </url>
+</urlset>

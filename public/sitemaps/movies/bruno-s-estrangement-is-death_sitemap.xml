@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/557074-Bruno S. - Estrangement Is Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/557074-Bruno S. - Estrangement Is Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3SbVfWfp75kmanqMEof8AiAHXjh.jpg</image:loc
+      >
+      <image:caption
+        >A portrait of Bruno S., who became famous as an actor in Werner
+        Herzog's films The Enigma of Kaspar Hauser and Stroszek and was
+        forgotten all too quickly.</image:caption
+      >
+      <image:title>Bruno S. - Estrangement Is Death</image:title>
+    </image:image>
+  </url>
+</urlset>

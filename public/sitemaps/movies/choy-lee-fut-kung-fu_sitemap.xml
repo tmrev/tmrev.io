@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/529084-Choy Lee Fut Kung Fu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/529084-Choy Lee Fut Kung Fu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/10OTRaIXte3W3t4jGzwRxIXkFe3.jpg</image:loc
+      >
+      <image:caption
+        >Danny is a young martial arts enthusiast who arrives in Hong Kong to
+        head a school of Choy Lee Fut owned by his wealthy
+        father.</image:caption
+      >
+      <image:title>Choy Lee Fut Kung Fu</image:title>
+    </image:image>
+  </url>
+</urlset>

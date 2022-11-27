@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/355948-Call Me King</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/355948-Call Me King</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ei7M2nckkVkPY4civibbRBBjst2.jpg</image:loc
+      >
+      <image:caption
+        >In the international world of gun running... loyalty, honor and
+        discretion are valuable commodities, but nothing is more priceless than
+        the bond of family. Power begets enemies and a loved ones betrayal cuts
+        like a knife. Sides will be chosen, wars will be fought. In the end,
+        there can only be one King.</image:caption
+      >
+      <image:title>Call Me King</image:title>
+    </image:image>
+  </url>
+</urlset>

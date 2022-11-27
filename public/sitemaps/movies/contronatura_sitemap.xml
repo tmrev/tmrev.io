@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784068-Contronatura</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784068-Contronatura</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gv5d2hfjrkTNMb3Y6JYQyIzBYp.jpg</image:loc
+      >
+      <image:caption
+        >"Contronatura" could be described a bit too simply as a romance between
+        a rural woodsman and a suburban pharmacist's wife playing out the
+        struggle between civilization and nature.</image:caption
+      >
+      <image:title>Contronatura</image:title>
+    </image:image>
+  </url>
+</urlset>

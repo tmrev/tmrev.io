@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28832-Brass Knuckle Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28832-Brass Knuckle Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nV2GzuqDPH3neLjIFxP9O7ojeV6.jpg</image:loc
+      >
+      <image:caption
+        >A record company office worker named Kanna discovers a punk rock band
+        called Shonen Meriken Sakku (Brass Knuckle Boys) through the internet
+        and subsequently decides to represent them on behalf of her company.
+        What Kanna did not know was that the Brass Knuckle Boys consists of all
+        middle aged men.</image:caption
+      >
+      <image:title>Brass Knuckle Boys</image:title>
+    </image:image>
+  </url>
+</urlset>

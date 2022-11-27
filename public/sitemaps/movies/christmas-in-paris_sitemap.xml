@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/643198-Christmas in Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/643198-Christmas in Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hi85nTBjInhOi9OCFxqpXln806.jpg</image:loc
+      >
+      <image:caption
+        >A gorgeous, French multi-millionaire comes to Montana to do a deal and
+        photoshoot with a major cosmetics company and meets the woman of his
+        dreams - the beautiful Art Director on his shoot. When the two jet off
+        to Paris on a whirlwind Christmas adventure, they each think that their
+        happiness could last forever. But in the middle of their magical
+        Parisian getaway, she discovers a secret about him that could push them
+        apart forever.</image:caption
+      >
+      <image:title>Christmas in Paris</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574037-Crazy Alien</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574037-Crazy Alien</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uDhrTus1sGmYxJ7sIqNV8Pe0mVu.jpg</image:loc
+      >
+      <image:caption
+        >A monkey trainer whose act goes wrong after an alien crash lands on
+        Earth and injures his monkey. Desperate to perform the act, he attempts
+        to train the alien instead, though is punished after the alien regains
+        his powers.</image:caption
+      >
+      <image:title>Crazy Alien</image:title>
+    </image:image>
+  </url>
+</urlset>

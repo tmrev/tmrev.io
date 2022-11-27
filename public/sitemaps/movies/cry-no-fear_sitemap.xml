@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/516665-Cry No Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/516665-Cry No Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jzuV6Ob10ARUYhcMdcuE3Bfr2NZ.jpg</image:loc
+      >
+      <image:caption
+        >Kaycee and Wendy are always at each other’s throats. But when they are
+        left alone in their house amidst a storm, with intruders trying to kill
+        them, they have no choice but to become partners as they try to
+        escape.</image:caption
+      >
+      <image:title>Cry No Fear</image:title>
+    </image:image>
+  </url>
+</urlset>

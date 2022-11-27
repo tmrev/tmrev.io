@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/167919-Confine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/167919-Confine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xzbN7nwOs0prRDcllvj9hd8V1Sw.jpg</image:loc
+      >
+      <image:caption
+        >Pippa is a physically and emotionally scarred former model living as a
+        recluse in her meticulous Georgian flat. When a heist taking place in
+        the same building goes wrong, Pippa's home is broken into by the
+        charismatic Kayleigh. Pippa is taken hostage by this unpredictable and
+        volatile thief who's looking for a temporary hideout, but when outside
+        forces close in, Kayleigh takes a darker path to get her way. As the
+        confined space becomes a fighting ring, in a tense struggle to get out
+        Pippa learns how to stand up for herself once again.</image:caption
+      >
+      <image:title>Confine</image:title>
+    </image:image>
+  </url>
+</urlset>

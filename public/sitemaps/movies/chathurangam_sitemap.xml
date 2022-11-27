@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280203-Chathurangam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280203-Chathurangam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ztKP7cwWZrykuIbLxHg5qXgsNbs.jpg</image:loc
+      >
+      <image:caption
+        >Chathurangam movie is about Attiprakkal Jimmy (Mohanlal) who is a young
+        wrestler from Kottayam,and who is associated with the Keraladesham
+        Congress Party and is anticipating a seat in the next assembly
+        elections.Minister Kora (Saikumar) takes a special liking for Jimmy and
+        considers him his lieutenant and political heir. Paulose (Vijaya
+        Raghavan) who leads the rival faction is always at loggerheads with Kora
+        and very often Jimmy steps in to humble Paulose and his
+        men.</image:caption
+      >
+      <image:title>Chathurangam</image:title>
+    </image:image>
+  </url>
+</urlset>

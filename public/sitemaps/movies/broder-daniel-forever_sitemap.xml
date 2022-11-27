@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57349-Broder Daniel Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57349-Broder Daniel Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bCsPYWBJxAHV7iF1LHx9RJqcfrM.jpg</image:loc
+      >
+      <image:caption
+        >A film about iconic Swedish indie pop band Broder Daniel as they
+        reunite during the summer 2008 before their last ever performance as a
+        group. A concert held in honor of guitarist Anders who committed suicide
+        earlier this year. It is a performance, and a portrait and a last
+        goodbye from a band with more unconditional willpower than any
+        other.</image:caption
+      >
+      <image:title>Broder Daniel Forever</image:title>
+    </image:image>
+  </url>
+</urlset>

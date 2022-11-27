@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112136-Buzzkill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112136-Buzzkill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ouzZo3Yr7GclY3tIM79mR3HqspI.jpg</image:loc
+      >
+      <image:caption
+        >Failed writer Ray Wyatt is ready to take his own life when a notorious
+        serial murderer steals his latest movie script and begins publicizing
+        it. Revived by the sudden deluge of celebrity, Ray starts tracking the
+        killer to recover the manuscript.</image:caption
+      >
+      <image:title>Buzzkill</image:title>
+    </image:image>
+  </url>
+</urlset>

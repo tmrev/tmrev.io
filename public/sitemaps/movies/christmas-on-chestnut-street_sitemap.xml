@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/358879-Christmas on Chestnut Street</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/358879-Christmas on Chestnut Street</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sEJMDDrOCng0hU3GyZBteFaXKYy.jpg</image:loc
+      >
+      <image:caption
+        >A store decides to start a contest to sell off 60,000 Christmas lights,
+        ordered by accident. The competition soon causes unrest among the
+        locals, but the store's owner, Diane, wants to keep what has become a
+        very profitable competition going, at all costs.</image:caption
+      >
+      <image:title>Christmas on Chestnut Street</image:title>
+    </image:image>
+  </url>
+</urlset>

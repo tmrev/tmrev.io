@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15552-Cirque du Soleil: Varekai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15552-Cirque du Soleil: Varekai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q6NyeRGwhm55dsXECKFQn4EslA3.jpg</image:loc
+      >
+      <image:caption
+        >Icarus (Anton Chelnokov) is the main character of Varekai, who falls to
+        the ground, breaking his legs as he does. He is suddenly in a strange,
+        new world full of creatures he has never seen before. "Parachuted into
+        the shadows of a magical forest, a kaleidoscopic world populated by
+        fantastical creatures, this young man sets off on an adventure both
+        absurd and extraordinary.</image:caption
+      >
+      <image:title>Cirque du Soleil: Varekai</image:title>
+    </image:image>
+  </url>
+</urlset>

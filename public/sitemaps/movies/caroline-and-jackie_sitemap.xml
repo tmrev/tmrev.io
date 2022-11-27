@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/183361-Caroline and Jackie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/183361-Caroline and Jackie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cYIHCSTNBfg5G8ooSUoR1cWTtnD.jpg</image:loc
+      >
+      <image:caption
+        >A woman turns her sister's belated birthday celebration into an
+        intervention, but as events unfold, it becomes unclear which sibling
+        needs the most help.</image:caption
+      >
+      <image:title>Caroline and Jackie</image:title>
+    </image:image>
+  </url>
+</urlset>

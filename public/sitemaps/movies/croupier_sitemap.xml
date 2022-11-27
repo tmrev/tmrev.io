@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12706-Croupier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12706-Croupier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uaWqZXnXe5agLUjAqS0Cg8dq3Rw.jpg</image:loc
+      >
+      <image:caption
+        >Jack Manfred is an aspiring writer who to make ends meet, takes a job
+        as a croupier. Jack remains an observer, knowing that everything in life
+        is a gamble and that gamblers are born to lose. Inevitably, he gets
+        sucked into the world of the casino which takes its toll on his
+        relationships and the novel he is writing.</image:caption
+      >
+      <image:title>Croupier</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298188-Brace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298188-Brace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tFU8KLVba7pFjMpGSMAa5NsnP75.jpg</image:loc
+      >
+      <image:caption
+        >On his first foray out onto London's thriving gay scene, newly single
+        Adam meets Rocky, a handsome and mysterious drifter, with whom he shares
+        an instant and undeniable chemistry. From the outset, Rocky is eager to
+        reveal more of himself than Adam is ready for, and so the two maintain
+        an uncomfortable pact of silence. As the pair grow closer, something has
+        to give, and the truth about Rocky is explosively revealed. As the dust
+        settles, the men are left to decide whether they can find acceptance in
+        each other, by facing the truth about themselves.</image:caption
+      >
+      <image:title>Brace</image:title>
+    </image:image>
+  </url>
+</urlset>

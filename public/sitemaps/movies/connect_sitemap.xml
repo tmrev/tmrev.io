@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/583398-Connect</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/583398-Connect</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/naWdIh9UZgPRW5SArRh6gokc2hz.jpg</image:loc
+      >
+      <image:caption
+        >In a small town in Scotland, a young man must overcome his depression
+        and the voice that haunts him daily. From a cliff top, a man in a hoody
+        leaps to his death.</image:caption
+      >
+      <image:title>Connect</image:title>
+    </image:image>
+  </url>
+</urlset>

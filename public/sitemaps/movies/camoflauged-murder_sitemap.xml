@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1024542-Camoflauged Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1024542-Camoflauged Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b2HZW2IVC6f6kpBCHk21YA5afRe.jpg</image:loc
+      >
+      <image:caption
+        >By chance, Narumi discovers that the room next door is the hideout of a
+        Chinese gang of thieves. Having lost her job and being stuck with
+        everything, she tries to steal money from the thieves and get a new
+        life...</image:caption
+      >
+      <image:title>Camoflauged Murder</image:title>
+    </image:image>
+  </url>
+</urlset>

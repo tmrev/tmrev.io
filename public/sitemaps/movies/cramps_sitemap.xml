@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/715715-Cramps</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/715715-Cramps</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4MeTzW6CSb5L585WVXthaJ4Seuq.jpg</image:loc
+      >
+      <image:caption
+        >15-year-old Sofie has a secret that no one will ever know, as she puts
+        on her make-up she reflects on what happened.</image:caption
+      >
+      <image:title>Cramps</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22033-Cry of the Banshee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22033-Cry of the Banshee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/urub0N7F8mZDEsMwORiN2T2vTXq.jpg</image:loc
+      >
+      <image:caption
+        >In seventeenth century England Lord Whitman wages unending war on what
+        he sees as the ever-present scourge of witchcraft, and many local
+        villagers have suffered at his hands. But one victim uses her occult
+        powers to curse his family, enlisting unknowing help from one of the
+        household.</image:caption
+      >
+      <image:title>Cry of the Banshee</image:title>
+    </image:image>
+  </url>
+</urlset>

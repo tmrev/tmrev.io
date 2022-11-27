@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31701-Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31701-Cop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aj3PtDyFjBKfkxglcJp1dpCLEeM.jpg</image:loc
+      >
+      <image:caption
+        >An obsessive, insubordinate homicide cop is convinced a serial killer
+        is loose in the Hollywood area and disobeys orders in order to catch
+        him.</image:caption
+      >
+      <image:title>Cop</image:title>
+    </image:image>
+  </url>
+</urlset>

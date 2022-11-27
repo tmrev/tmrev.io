@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/578836-Bételgeuse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/578836-Bételgeuse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ivsvPGy1JYeePGbUejkRVcWIoJe.jpg</image:loc
+      >
+      <image:caption
+        >"The disciplines interweaved by Hugo Verlinde resound like echoes of a
+        primal scream. Starting from a meditation on space, using all the
+        technical devices of our times, and inspired by a timeless ideal, he
+        paces up and down the immaterial dimension of desire: all that makes the
+        world go 'round'. If his works captivate us, its because he renders the
+        universe not distant and monotonous, but gushing; infinitely intimate."
+        Gabriela Trujillo</image:caption
+      >
+      <image:title>Bételgeuse</image:title>
+    </image:image>
+  </url>
+</urlset>

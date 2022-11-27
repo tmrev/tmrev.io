@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/616252-Cherry-Red</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/616252-Cherry-Red</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lJuY4v8TQxYkWOZjDkN53E5givo.jpg</image:loc
+      >
+      <image:caption
+        >Anna and Marie are two women who could possibly love each other. Marie
+        wants to be open to this new overwhelming feeling, even if she has to
+        throw away all that she has ever held to be right. Anna on the other
+        hand, enjoys the attention from this gentle soft girl Marie, who seems
+        to love her, not in spite of but also because of her sharp edges. It
+        could all be so easy if it weren't for Zoe, the woman who has been at
+        Anna's side for years.</image:caption
+      >
+      <image:title>Cherry-Red</image:title>
+    </image:image>
+  </url>
+</urlset>

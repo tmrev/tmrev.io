@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45548-Bullfighter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45548-Bullfighter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/405bmSwM8r3Jo63tB0saG4sX4F5.jpg</image:loc
+      >
+      <image:caption
+        >Jack is a wanderer whose aimless roaming leads him to a number of
+        interesting locations and into the company of many interesting people,
+        and despite his fascination with bullfighting he leads a largely
+        peaceful existence. When a crime boss' daughter is accidentally gored to
+        death, Jack is implicated in the unfortunate event and singled out for
+        termination by a seemingly unending army of lethal hitmen. As Jack wages
+        an uphill battle for survival against the harsh desert terrain and a
+        hail of gun smoke and lead, his will to live depends on his ability to
+        exercise his demons and come to terms with the fact that he may not live
+        to see another sunrise.</image:caption
+      >
+      <image:title>Bullfighter</image:title>
+    </image:image>
+  </url>
+</urlset>

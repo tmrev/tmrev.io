@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/118545-Chop Socky: Cinema Hong Kong</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/118545-Chop Socky: Cinema Hong Kong</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vqqb4diCHondKZoRq2o9F1DnzAz.jpg</image:loc
+      >
+      <image:caption
+        >Filmmaker Ian Taylor examines the impressive legacy of Hong Kong cinema
+        -- specifically, how martial arts crossed borders and become an
+        international phenomenon -- with the help of footage and interviews with
+        the stars who made the genre what it is today. Director Lau Ka Leung
+        (who helmed The 36th Chamber of Shaolin) joins in, sharing his thoughts
+        on how certain cinematic technologies have improved martial arts films
+        and expanded their appeal.</image:caption
+      >
+      <image:title>Chop Socky: Cinema Hong Kong</image:title>
+    </image:image>
+  </url>
+</urlset>

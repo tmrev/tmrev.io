@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/485114-Chihayafuru Part III</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/485114-Chihayafuru Part III</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rQew6IX92T2z5WA8zOXyzGvYh3X.jpg</image:loc
+      >
+      <image:caption
+        >Story takes place 2 years after "Chihayafuru Part 2" and Chihaya is now
+        a high school senior.</image:caption
+      >
+      <image:title>Chihayafuru Part III</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/694129-Change the Game</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/694129-Change the Game</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7seterX0kydn0gYd4rNco7EFz5b.jpg</image:loc
+      >
+      <image:caption
+        >Set in the inner city, its about a group of individuals who aspire to
+        achieve their goals and survive the trials and tribulations of life on
+        the streets. A drama addressing the battles within oneself through the
+        alleyways of our cities. The focus is on the determination of young
+        minds to succeed and to define a brighter future for themselves above
+        the racial and class issues that surround them.</image:caption
+      >
+      <image:title>Change the Game</image:title>
+    </image:image>
+  </url>
+</urlset>

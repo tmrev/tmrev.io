@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/98905-Come on Eileen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/98905-Come on Eileen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >One summer, mother and ex dancer Eileen lapses back to a troubled past
+        as she starts a new relationship... we watch as she and her family
+        combust. The film, shot on a micro budget, treads between darkness and
+        humour as it moves from its beginning in the suburban cricket club to
+        its conclusion at a music festival.</image:caption
+      >
+      <image:title>Come on Eileen</image:title>
+    </image:image>
+  </url>
+</urlset>

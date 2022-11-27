@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/727478-Curse of Aurore</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/727478-Curse of Aurore</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aR4fzZkBvjDxJyvYD2oEl13uh70.jpg</image:loc
+      >
+      <image:caption
+        >A “Dark Web” thumb drive reveals footage of three American filmmakers
+        in rural Quebec researching a historic child murder case. After
+        witnessing several disturbing paranormal occurrences, they attempt to
+        communicate with the spirit of the child.</image:caption
+      >
+      <image:title>Curse of Aurore</image:title>
+    </image:image>
+  </url>
+</urlset>

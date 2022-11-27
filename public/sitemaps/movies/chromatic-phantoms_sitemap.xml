@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/482093-Chromatic Phantoms</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/482093-Chromatic Phantoms</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/riAFTBrDuVQe3N27xWVEMy9q4pQ.jpg</image:loc
+      >
+      <image:caption
+        >Super 8, B&W in color, approximately 25 minutes. Triple projection,
+        sound in digital file. Music by Claudio Caldini. "Chromatic Ghosts
+        operates through the primitive system of color photography, not to
+        reconstruct its result but to decompose it, suggesting in the images a
+        critique of the omnipresence of the automobile and an impossible escape
+        into the natural world."</image:caption
+      >
+      <image:title>Chromatic Phantoms</image:title>
+    </image:image>
+  </url>
+</urlset>

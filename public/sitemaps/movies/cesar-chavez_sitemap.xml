@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230779-Cesar Chavez</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230779-Cesar Chavez</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cyEpCV8nLfhloAkwNxel4OjIhAA.jpg</image:loc
+      >
+      <image:caption
+        >A biography of the civil-rights activist and labor organizer Cesar
+        Chavez. Chronicling the birth of a modern American labour movement,
+        Cesar Chavez tells the story of the famed civil rights leader and labour
+        organiser torn between his duties as a husband and father and his
+        commitment to securing a living wage for farm workers. Passionate but
+        soft-spoken, Chavez embraced non-violence as he battled greed and
+        prejudice in his struggle to bring dignity to working
+        people.</image:caption
+      >
+      <image:title>Cesar Chavez</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693258-Curtains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693258-Curtains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fEXLDiY85bzJozVYRa9A7AzrGS.jpg</image:loc
+      >
+      <image:caption
+        >It’s murder putting on a new musical – literally! The star of a new
+        Broadway-bound musical has been murdered on stage on opening night! The
+        entire cast and crew are suspects. Time to call in the local detective,
+        Frank Cioffi. With a nose for crime and an ear for music, Frank tries to
+        find the killer whilst giving the show a lifeline.</image:caption
+      >
+      <image:title>Curtains</image:title>
+    </image:image>
+  </url>
+</urlset>

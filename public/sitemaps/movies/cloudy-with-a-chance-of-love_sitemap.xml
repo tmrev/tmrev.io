@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317120-Cloudy With a Chance of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317120-Cloudy With a Chance of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yrFzdJd5Vbg7jNyEDU42jw0Cume.jpg</image:loc
+      >
+      <image:caption
+        >Quirky meteorologist Deb spends most of her time finishing the
+        passionate pursuit of her meteorology Ph.D. The wind of change starts
+        blowing, however, when a handsome news director recruits her to fill in
+        as an on-air weather personality.</image:caption
+      >
+      <image:title>Cloudy With a Chance of Love</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/455894-Civil Status</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/455894-Civil Status</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iBdWEgmtdyVdROWJQe8fVPs0QvJ.jpg</image:loc
+      >
+      <image:caption
+        >A brilliant observational documentary filmed at the Civil Registry
+        office in St. Petersburg, where people come to have births, marriages,
+        divorces and deaths registered. 'It’s like a theatre here', one says in
+        the beginning of the film, and it indeed is, the Theater of Life. The
+        young women working in the office have a job that shifts from being
+        verbally attacked and called idiots, to situations where they are
+        subject to flirt, or where they master the happy ceremony of marriage.
+        Faces, joy, sorrow, fun, despair... It’s all very well composed,
+        rhythmical, with atmosphere conveyed, and lives up to what a documentary
+        should be: multilayered and universal. And about Life.</image:caption
+      >
+      <image:title>Civil Status</image:title>
+    </image:image>
+  </url>
+</urlset>

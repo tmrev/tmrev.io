@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110272-Cheerful Weather for the Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110272-Cheerful Weather for the Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f4VYPAwkzMaznPnQcVKaRUBeros.jpg</image:loc
+      >
+      <image:caption
+        >England, 1932. Today is Dolly Thatcham's wedding day, and her family is
+        arriving at the manor house with all the cheerfulness, chaos and
+        grievances that accompany such gatherings. Trouble soon appears in the
+        shape of Joseph, Dolly's lover from the previous summer, who throws her
+        feelings into turmoil. But Dolly's mother will not allow her carefully
+        laid plans for her daughter's future to be threatened...</image:caption
+      >
+      <image:title>Cheerful Weather for the Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/663706-Cupid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/663706-Cupid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b1QQPNKNSqhE45HxofvAmLgGLki.jpg</image:loc
+      >
+      <image:caption
+        >After being embarrassed by the mean girls at school, Faye, a practicing
+        witch, summons the evil Cupid to take revenge on all those who wronged
+        her. On Valentine’s Day, Cupid does in fact rise and will stop at
+        nothing until the walls are covered in blood. The students must figure
+        out a way to stop Cupid and undo the spell before their hearts get
+        broken… literally.</image:caption
+      >
+      <image:title>Cupid</image:title>
+    </image:image>
+  </url>
+</urlset>

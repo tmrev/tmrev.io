@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/303573-Conférence de Berlin 1885 - La ruée sur
+      l'Afrique</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/303573-Conférence de Berlin 1885 - La ruée sur
+      l'Afrique</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dQHxRh3s1ljmroKhwY2iNIPdxOJ.jpg</image:loc
+      >
+      <image:caption
+        >A docudrama depicting the Berlin Conference in which the Western powers
+        decided the partition of Africa.</image:caption
+      >
+      <image:title
+        >Conférence de Berlin 1885 - La ruée sur l'Afrique</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

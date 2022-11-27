@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/357539-Bruce Hornsby + Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/357539-Bruce Hornsby + Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Spider Fingers / Talk of the Town / The End of the Innocence / Walk in
+        the Sun / White Wheeled Limosine / Mandolin Rain / Jack Straw /
+        Rainbow's Cadillac / The Valley Road / Cruise Control</image:caption
+      >
+      <image:title>Bruce Hornsby + Friends</image:title>
+    </image:image>
+  </url>
+</urlset>

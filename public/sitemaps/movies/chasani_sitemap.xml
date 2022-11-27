@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/616802-Chasani</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/616802-Chasani</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hqIHX8RrA2LmoWO1dxgXXxBqZff.jpg</image:loc
+      >
+      <image:caption
+        >Ramnik is married for 25 years and thinks his life is picture perfect
+        but does not know what love is. While Rahul is 25 years old but has just
+        lost the love of his life. A chance meeting of the two takes them on a
+        journey of discovering the true meaning of love.</image:caption
+      >
+      <image:title>Chasani</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1024379-Cursed Urban Legend : Purple Mirror</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1024379-Cursed Urban Legend : Purple Mirror</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nJTU6BIEiWqMCCmHEz0bGDKB19L.jpg</image:loc
+      >
+      <image:caption
+        >A horror that depicts the urban legend "Purple Mirror" on an
+        overwhelming scale. Kitagawa Tomoko, who celebrated her 20th birthday,
+        is walking through the city when she suddenly wanders into a dimly lit
+        forest. While walking around in a panic, a bloodied man jumped out of
+        the ruins in the back of the forest and died in front of
+        him.</image:caption
+      >
+      <image:title>Cursed Urban Legend : Purple Mirror</image:title>
+    </image:image>
+  </url>
+</urlset>

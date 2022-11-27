@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/591656-Cães Raivosos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/591656-Cães Raivosos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A director is trying to stage the play “The Jew of Linz”, but his
+        dementia and delirium can’t take the production past rehearsals. The
+        venue cancels the play and the director and his leading man go on an
+        odyssey where they can’t distinguish life from fiction.</image:caption
+      >
+      <image:title>Cães Raivosos</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260514-Cars 3</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260514-Cars 3</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fyy1nDC8wm553FCiBDojkJmKLCs.jpg</image:loc
+      >
+      <image:caption
+        >Blindsided by a new generation of blazing-fast racers, the legendary
+        Lightning McQueen is suddenly pushed out of the sport he loves. To get
+        back in the game, he will need the help of an eager young race
+        technician with her own plan to win, inspiration from the late Fabulous
+        Hudson Hornet, and a few unexpected turns. Proving that #95 isn't
+        through yet will test the heart of a champion on Piston Cup Racing’s
+        biggest stage!</image:caption
+      >
+      <image:title>Cars 3</image:title>
+    </image:image>
+  </url>
+</urlset>

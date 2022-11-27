@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/53933-Curse of the Weeping Woman: J-ok'el</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/53933-Curse of the Weeping Woman: J-ok'el</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/buhmse22wY7xMQYhU75tPDFvzgQ.jpg</image:loc
+      >
+      <image:caption
+        >An unworldly and closed-minded American travels to a small village in
+        exotic Chiapas, Mexico; at the behest of his estranged mother when his
+        half-sister disappears during a local epidemic of kidnappings attributed
+        to the legendary J-ok'el, the weeping woman, who drowned her own babies,
+        centuries ago and whose spirit has returned to claim more children as
+        her own.</image:caption
+      >
+      <image:title>Curse of the Weeping Woman: J-ok'el</image:title>
+    </image:image>
+  </url>
+</urlset>

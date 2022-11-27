@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/628949-Butter Balls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/628949-Butter Balls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pEvx5rCVzhOhWFEDDiSLzNkQH6z.jpg</image:loc
+      >
+      <image:caption
+        >"To counteract the talkie I had done with graduate student the day
+        before, this undergrad project has no dialogue but just a steady stream
+        of images we dreamed up on the spot. A psychodrama that’s heavy on the
+        beefcake, our picture deals with the sexual dementia of a sex addict
+        undergoing hypnotherapy. It’s a mixture of fantasy and desire with some
+        animals thrown in and lots of strange angles of the leading actor’s
+        attributes." - George Kuchar</image:caption
+      >
+      <image:title>Butter Balls</image:title>
+    </image:image>
+  </url>
+</urlset>

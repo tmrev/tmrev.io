@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26791-Brigham City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26791-Brigham City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/acXmEYtJe05Y5Wt0qsBIg9iNsTv.jpg</image:loc
+      >
+      <image:caption
+        >Wes Clayton is a lawman and a bishop in a Mormon community called
+        Brigham. The town is shaken when a woman from California is found
+        murdered. Clayton and his young deputy work with an FBI agent sent to
+        investigate. As a civil and spiritual leader in the frightened town,
+        Clayton must uncover the town's deepest secrets, find the murderer and
+        keep Brigham from ripping itself apart.</image:caption
+      >
+      <image:title>Brigham City</image:title>
+    </image:image>
+  </url>
+</urlset>

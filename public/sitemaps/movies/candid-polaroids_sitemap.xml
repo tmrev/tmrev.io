@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/973671-Candid Polaroids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/973671-Candid Polaroids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Captured in "candid polaroid pictures", the characters of Ravenhill's
+        new play are a former social rebel who served time for murder for
+        political reasons, his ex–girlfriend who made the usual way for many
+        "from hippie to yuppie", a nightclub stripper who is regularly beaten by
+        her boyfriend, a gay man dying of AIDS and a sex slave he bought. This
+        is a play about the vicissitudes of love, which, "without knowing
+        shame", can arise from any "bullshit".</image:caption
+      >
+      <image:title>Candid Polaroids</image:title>
+    </image:image>
+  </url>
+</urlset>

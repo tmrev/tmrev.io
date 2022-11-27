@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/288248-Clown Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/288248-Clown Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jHnrksmC6i2xJu8VWSr2bEfAbEf.jpg</image:loc
+      >
+      <image:caption
+        >In the wilds of Texas, grown men gather to hunt the rarest game of all:
+        Clowns. Once plentiful and common now one must pay a heft some to hunt
+        clowns, and for some reason it's become annual tradition. However this
+        season the appearance of Albino Willie, a rare albino clown, poses a
+        special prize and danger.</image:caption
+      >
+      <image:title>Clown Hunt</image:title>
+    </image:image>
+  </url>
+</urlset>

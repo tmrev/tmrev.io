@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272270-Canaan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272270-Canaan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3xKB0RhdH461KITOwuP10C1CnTG.jpg</image:loc
+      >
+      <image:caption
+        >Mina has decided to leave her older husband Morteza after ten years of
+        marriage. Next Monday will be her divorce date, which means her first
+        step towards her goal; immigration. However, the arrival of her older
+        sister, Azar, together with the illness of her mother in law is causing
+        her trouble. To her surprise, meanwhile, she finds out she is
+        pregnant.</image:caption
+      >
+      <image:title>Canaan</image:title>
+    </image:image>
+  </url>
+</urlset>

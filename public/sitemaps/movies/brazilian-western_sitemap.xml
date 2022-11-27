@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/195423-Brazilian Western</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/195423-Brazilian Western</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1PiDjLId8sSJqNuCgfsEd6DfMHd.jpg</image:loc
+      >
+      <image:caption
+        >An adaptation of the eponymous song by Renato Russo, a famous Brazilian
+        singer and composer who in the style of Bob Dylan knew how to delight
+        crowds by telling stories and singing with his lyrics. Focusing on the
+        love story of outlaw João do Santo Cristo with Architecture major
+        student Maria Lúcia, the movie takes place in Brasilia in the early 80s.
+        In a clash of interest, drug dealers and the police conflict with one
+        another,while the end of the military dictatorship in the Capital of
+        Brazil, Brasilia takes place. The wanderings and tedium of a young
+        rocker, who lived in a city still being built, are the backdrop for this
+        story.</image:caption
+      >
+      <image:title>Brazilian Western</image:title>
+    </image:image>
+  </url>
+</urlset>

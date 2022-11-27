@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/995184-Clown Motel 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/995184-Clown Motel 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8L7c4TQyayYCPCnT8CAxysIQ8IR.jpg</image:loc
+      >
+      <image:caption
+        >The search for Brooke is in full swing when her fiancé gets new intel
+        on her whereabouts. Gathering a group of people, they enter the Clown
+        realm where Brooke and Jane Doe have been trapped.</image:caption
+      >
+      <image:title>Clown Motel 2</image:title>
+    </image:image>
+  </url>
+</urlset>

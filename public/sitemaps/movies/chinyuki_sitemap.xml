@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375534-Chinyuki</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375534-Chinyuki</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/11bFBvXvrWF0amuhFsdqGWyxvDG.jpg</image:loc
+      >
+      <image:caption
+        >Genzo is a monk on his way to Tianzhu (early East Asian name for
+        India). Along the way, he happens to visit a house and meets an old
+        couple. The couple has an adopted son, Taro Yamada (Kenichi Matsuyama).
+        They ask Genzo to rehabilitate Taro who makes trouble with his magical
+        power. Genzo takes Taro and travels to Tianzhu.</image:caption
+      >
+      <image:title>Chinyuki</image:title>
+    </image:image>
+  </url>
+</urlset>

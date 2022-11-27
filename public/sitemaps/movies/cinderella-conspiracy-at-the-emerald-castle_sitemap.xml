@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/628740-Cinderella: Conspiracy at the Emerald
+      Castle</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/628740-Cinderella: Conspiracy at the Emerald
+      Castle</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yGg3BDNcNZui6ncFn27HPjALrjM.jpg</image:loc
+      >
+      <image:caption
+        >Come along with Cinderella as she ventures into the Emerald Castle in
+        this animated feature.</image:caption
+      >
+      <image:title>Cinderella: Conspiracy at the Emerald Castle</image:title>
+    </image:image>
+  </url>
+</urlset>

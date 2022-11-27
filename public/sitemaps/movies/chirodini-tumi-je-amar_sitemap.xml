@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327665-Chirodini Tumi Je Amar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327665-Chirodini Tumi Je Amar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oelrAn7QVlCU08Z5pMcUe5j3tIe.jpg</image:loc
+      >
+      <image:caption
+        >Pallavi, a rich, beautiful school student, falls in love with Krishna,
+        a scooter mechanic, and gets married without her parents' approval. The
+        situation takes an ugly turn when her family tries to separate
+        them.</image:caption
+      >
+      <image:title>Chirodini Tumi Je Amar</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/795439-Botcha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/795439-Botcha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/icY8Sgfhr8Fap2mIUJt8SCkD24b.jpg</image:loc
+      >
+      <image:caption
+        >UNFP-MDG Award-winning short film in 2008 (Special Jury), about meat
+        carcasses double dead sold by butchers in the market and intercut with
+        the sad plight of the prostitute.</image:caption
+      >
+      <image:title>Botcha</image:title>
+    </image:image>
+  </url>
+</urlset>

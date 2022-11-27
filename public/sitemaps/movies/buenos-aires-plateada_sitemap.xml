@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/906192-Buenos Aires plateada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/906192-Buenos Aires plateada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yRRqQCB1ZyvwqhWci7c3cBp9hul.jpg</image:loc
+      >
+      <image:caption
+        >A television director seeks the support of two old guerrilla comrades,
+        now incorporated, like him, into the squad to broadcast the pilot
+        program of a television series based on his own story, but they, who
+        occupy important positions in the media of communication and the
+        government now has other commitments.</image:caption
+      >
+      <image:title>Buenos Aires plateada</image:title>
+    </image:image>
+  </url>
+</urlset>

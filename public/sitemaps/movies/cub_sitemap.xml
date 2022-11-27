@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/646307-Cub</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/646307-Cub</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5S5VP7AN0K5cYxDKPL3a7jjy7vl.jpg</image:loc
+      >
+      <image:caption
+        >A mother tries to end her teenage son’s relationship with an older
+        woman at the risk of losing him altogether.</image:caption
+      >
+      <image:title>Cub</image:title>
+    </image:image>
+  </url>
+</urlset>

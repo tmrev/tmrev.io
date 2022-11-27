@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468191-Bumping Heads</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468191-Bumping Heads</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iuSGHHaLpo3doBX1kfFtUw2ObRF.jpg</image:loc
+      >
+      <image:caption
+        >Craig is an older, average-looking man who isn't handling aging well.
+        Gary is a hot, blond young stud at the center of attention. They
+        literally bump heads one night, and become best friends. But Craig wants
+        to be boyfriends, while Gary has other issues. They work things out
+        (somewhat) during a night in the emergency room.</image:caption
+      >
+      <image:title>Bumping Heads</image:title>
+    </image:image>
+  </url>
+</urlset>

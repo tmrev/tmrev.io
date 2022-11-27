@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1037320-Consuelo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1037320-Consuelo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hEmqsRlGu5uxjsLeyLybL03wIwT.jpg</image:loc
+      >
+      <image:caption
+        >Amanda, who had to flee the town, and her sister Catalina, who decided
+        to stay, must meet after their mother's funeral to manage the
+        inheritance left to them in the form of an unsaleable house. Bureaucracy
+        and mourning will be hindered by old family quarrels and old
+        grudges.</image:caption
+      >
+      <image:title>Consuelo</image:title>
+    </image:image>
+  </url>
+</urlset>

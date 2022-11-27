@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57673-Christopher Columbus, The Enigma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57673-Christopher Columbus, The Enigma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uPsKPCUWCTrtaMVA31bDMhcP7UR.jpg</image:loc
+      >
+      <image:caption
+        >A true story of a doctor and his wife who went on a journey in order to
+        prove that discoverer Christopher Columbus was in fact Portuguese.
+        Inspired by the book "Cristóvão Colon Era Português".</image:caption
+      >
+      <image:title>Christopher Columbus, The Enigma</image:title>
+    </image:image>
+  </url>
+</urlset>

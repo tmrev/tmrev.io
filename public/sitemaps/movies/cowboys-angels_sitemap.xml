@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20148-Cowboys & Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20148-Cowboys & Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7sypdRwsUnWnCp9VhXA1lEMYXHx.jpg</image:loc
+      >
+      <image:caption
+        >This story concerns a hapless civil servant who gets more than he
+        bargains for when he moves into an apartment in Limerick with a gay
+        fashion student and becomes a star on the catwalk. A contemporary story
+        embracing the essence of what it is to be young in today's
+        Ireland.</image:caption
+      >
+      <image:title>Cowboys & Angels</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/517367-Confucius</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/517367-Confucius</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hTLgiVKSM1vtCv8GxzV9ueaSl8i.jpg</image:loc
+      >
+      <image:caption
+        >Confucius was one of history's most influential thinkers. He was a
+        sage, philosopher and teacher who, with Socrates and Buddha, lived at an
+        extraordinary time in the evolution of human civilization. This
+        stunningly beautiful drama-documentary explores the life and times of
+        Confucius, while reflecting on his influence on modern justice and
+        morality. Today, Confucius is a window into China's rise.</image:caption
+      >
+      <image:title>Confucius</image:title>
+    </image:image>
+  </url>
+</urlset>

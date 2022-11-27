@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/597041-Cloud Cover</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/597041-Cloud Cover</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/45sziHApw5RSw3fkWkpjecCnBJ0.jpg</image:loc
+      >
+      <image:caption
+        >In a city seemingly full of happy people, one young woman walks about
+        with a small dark cloud directly over her head. It follows her up the
+        stairs and into her apartment. She tries slamming the door on it,
+        getting rid of it with a vacuum cleaner, and dumping it in someone
+        else's shopping cart. But the cloud doesn't leave her, until she meets a
+        young man who has his own sunshine. Is love the way she's going to get
+        rid of her cloud? Or will change have to happen from
+        within?</image:caption
+      >
+      <image:title>Cloud Cover</image:title>
+    </image:image>
+  </url>
+</urlset>

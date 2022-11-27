@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70927-Chie the Brat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70927-Chie the Brat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y836Tb7YTEypaRR6YbD9eXgQhho.jpg</image:loc
+      >
+      <image:caption
+        >Chie Takemoto is a dependable girl who struggles to help her
+        troublesome father run a small tavern in Osaka. Unbeknown to her dad,
+        she occasionally visits her mother who left him not too long ago. She
+        plans on trying to reunite them, but not until her father gets a
+        job.</image:caption
+      >
+      <image:title>Chie the Brat</image:title>
+    </image:image>
+  </url>
+</urlset>

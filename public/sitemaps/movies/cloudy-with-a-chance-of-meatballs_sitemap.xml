@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22794-Cloudy with a Chance of Meatballs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22794-Cloudy with a Chance of Meatballs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qhOhIKf7QEyQ5dMrRUqs5eTX1Oq.jpg</image:loc
+      >
+      <image:caption
+        >Inventor Flint Lockwood creates a machine that makes clouds rain food,
+        enabling the down-and-out citizens of Chewandswallow to feed themselves.
+        But when the falling food reaches gargantuan proportions, Flint must
+        scramble to avert disaster. Can he regain control of the machine and put
+        an end to the wild weather before the town is destroyed?</image:caption
+      >
+      <image:title>Cloudy with a Chance of Meatballs</image:title>
+    </image:image>
+  </url>
+</urlset>

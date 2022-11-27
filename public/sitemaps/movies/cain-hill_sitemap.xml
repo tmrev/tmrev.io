@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484701-Cain Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484701-Cain Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i6YxLDvxOEa7LOAxTMrHxmEsou8.jpg</image:loc
+      >
+      <image:caption
+        >A group of documentary filmmakers are filming a TV special about the
+        events which occurred at the famous and mysterious abandoned Cain Hill
+        asylum many years earlier, and the unexplained abductions and murders
+        that have occurred at the site since then. The group soon learn that one
+        of the inmates never left Cain Hill at all.</image:caption
+      >
+      <image:title>Cain Hill</image:title>
+    </image:image>
+  </url>
+</urlset>

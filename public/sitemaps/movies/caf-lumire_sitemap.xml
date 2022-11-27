@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52512-Café Lumière</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52512-Café Lumière</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9YYT1S3bSgI3tC6S3Ln4wLRnsh5.jpg</image:loc
+      >
+      <image:caption
+        >Making her way through life by forming superficial relationships, Yoko
+        keeps everyone at arm's length, whether it's her father and stepmother
+        or Hajime, the owner of a small bookstore who could be the father of her
+        unborn child. Yoko seems most at home when she's riding the train,
+        speeding around the city with only her thoughts to entertain
+        her.</image:caption
+      >
+      <image:title>Café Lumière</image:title>
+    </image:image>
+  </url>
+</urlset>

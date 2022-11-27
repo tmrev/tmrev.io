@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317114-Bridal Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317114-Bridal Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yZMUAsU9MxTDls737iU23XeywND.jpg</image:loc
+      >
+      <image:caption
+        >With her wedding day rapidly approaching, an anxious bride-to-be has
+        doubts about her pending marriage. At a romantic island resort, she
+        encounters a handsome kindred spirit and must now decide if her
+        "perfect" fiancé is really her true love.</image:caption
+      >
+      <image:title>Bridal Wave</image:title>
+    </image:image>
+  </url>
+</urlset>

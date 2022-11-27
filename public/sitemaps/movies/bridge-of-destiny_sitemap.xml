@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/791520-Bridge of Destiny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/791520-Bridge of Destiny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7NrutJdy0lF40T0WFGLPm6ilHpl.jpg</image:loc
+      >
+      <image:caption
+        >Cuong is an admirable man. He has a successful career, a beautiful
+        wife, and a good son. However, his life begins to turn upside down when
+        he discovers Thang - a friend of his son is related to Trung, his gay
+        lover in the past.</image:caption
+      >
+      <image:title>Bridge of Destiny</image:title>
+    </image:image>
+  </url>
+</urlset>

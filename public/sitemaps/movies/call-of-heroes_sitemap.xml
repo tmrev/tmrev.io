@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413198-Call of Heroes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413198-Call of Heroes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/frNzgqcLNno44PhcNREjM7AEXWL.jpg</image:loc
+      >
+      <image:caption
+        >During the warlords era in China, a village located in rural area
+        called Pucheng fell into dangerous situation when its government
+        allocated all its military force to the front line, the cruel commandant
+        Cao from the enemy troops arrived the village and killed the innocent,
+        the guardians of Pucheng were desperate to fight against Cao for justice
+        and to protect their homeland.</image:caption
+      >
+      <image:title>Call of Heroes</image:title>
+    </image:image>
+  </url>
+</urlset>

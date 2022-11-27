@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/249088-Children of the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/249088-Children of the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >'Children of the Stars' is the strange but true story of a UFO
+        contactee group who relive their past lives on other planets by making
+        their own science fiction films. In 1973, Ruth Norman, a 73-year-old
+        widow and self described cosmic visionary, purchased 67 acres of land in
+        the mountains east of San Diego, California as a landing site for the
+        Space Brothers (emissaries from the Intergalactic Confederation). Nearly
+        40 years later, a group of dedicated followers still await their
+        arrival.</image:caption
+      >
+      <image:title>Children of the Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

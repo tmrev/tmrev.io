@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376534-Cameraperson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376534-Cameraperson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/de3EPesgdG0S4rw8WzXWRDZoBH0.jpg</image:loc
+      >
+      <image:caption
+        >As a visually radical memoir, CAMERAPERSON draws on the remarkable
+        footage that filmmaker Kirsten Johnson has shot and reframes it in ways
+        that illuminate moments and situations that have personally affected
+        her. What emerges is an elegant meditation on the relationship between
+        truth and the camera frame, as Johnson transforms scenes that have been
+        presented on Festival screens as one kind of truth into another kind of
+        story—one about personal journey, craft, and direct human
+        connection.</image:caption
+      >
+      <image:title>Cameraperson</image:title>
+    </image:image>
+  </url>
+</urlset>

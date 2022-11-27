@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320693-Cold</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320693-Cold</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/32ZLaLo5CCaxxVoa2riqhJEi8hq.jpg</image:loc
+      >
+      <image:caption
+        >Genius scientist Kikuo Himura (Yosuke Kubozuka) succeeds in developing
+        a miracle cure for the cold virus. There are now people who are after
+        Kikuo Himura's cold vaccine. Doctor Ichinose (Akira Emoto) is jealous of
+        Kikuo Himura and tries to get the formula which is only in Kikuo
+        Himura's head. Dougen (Chris Peppler) is a high-ranking member of a
+        secret organization. Him and his subordinate try to get the vaccine
+        source by any means necessary. Meanwhile, a mysterious woman, Sakurako
+        (Manami Konishi) approaches Kikuo Himura.</image:caption
+      >
+      <image:title>Cold</image:title>
+    </image:image>
+  </url>
+</urlset>

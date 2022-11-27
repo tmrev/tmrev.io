@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/93420-Cunnamulla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/93420-Cunnamulla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3svLbAGDt1pf6yYrqtdjiGGKHtL.jpg</image:loc
+      >
+      <image:caption
+        >Cunnamulla, 800 kilometres west of Brisbane, is the end of the railway
+        line. In the months leading up to a scorching Christmas in the bush,
+        there's a lot more going on than the annual lizard race. Here,
+        Aboriginal and white Australians live together but apart. Creativity
+        struggles against indifference, eccentricity against
+        conformity.</image:caption
+      >
+      <image:title>Cunnamulla</image:title>
+    </image:image>
+  </url>
+</urlset>

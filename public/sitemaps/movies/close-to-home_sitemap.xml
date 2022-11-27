@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28705-Close to Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28705-Close to Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3gPmJz1KOTKwhHEATHFeST2gnqd.jpg</image:loc
+      >
+      <image:caption
+        >Smadar (Smadar Sayar) and Mirit (Naama Schendar), both 18 years old,
+        are assigned to patrol the streets of Jerusalem together as part of
+        their military service. Worlds apart in their personality their initial
+        frosty relationship changes to friendship as they deal with their own
+        emotional issues, the crushes and break-ups in their love lives, as well
+        as the political realities.</image:caption
+      >
+      <image:title>Close to Home</image:title>
+    </image:image>
+  </url>
+</urlset>

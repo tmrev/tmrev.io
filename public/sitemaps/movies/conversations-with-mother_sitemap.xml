@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35005-Conversations with Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35005-Conversations with Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zIRCirg18lhRQoBCSZ9Dl6DVY7W.jpg</image:loc
+      >
+      <image:caption
+        >Jaime has lost his job and has to provide for his wife, son and
+        daughter. Pressured by this circumstances, he visits his mom, who lives
+        in an apartment he owns, to ask her to move with him so he can sell the
+        apartment. But she is not going to cooperate. And, to Jaime's surprise,
+        she also has a boyfriend!</image:caption
+      >
+      <image:title>Conversations with Mother</image:title>
+    </image:image>
+  </url>
+</urlset>

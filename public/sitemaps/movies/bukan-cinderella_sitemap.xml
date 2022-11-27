@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/958760-Bukan Cinderella</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/958760-Bukan Cinderella</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tgvjMEUePS2rNeMhz7EGrYHnlck.jpg</image:loc
+      >
+      <image:caption
+        >A teenage girl who is not Cinderella is met with a man who brings her
+        shoe next to it so that they can love each other, change friendship from
+        enmity, unite families and get the most valuable value to respect her
+        life and others.</image:caption
+      >
+      <image:title>Bukan Cinderella</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/691149-Bullet Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/691149-Bullet Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8w0NJJSSyf7zo7HBjf2EfP5kyVw.jpg</image:loc
+      >
+      <image:caption
+        >A bullet is fired through many thin glass plates. We follow it along
+        its journey through the several steps until the final confrontation,
+        when the bullet is literally stopped by the last thin glass plate. The
+        film explores the beauty within the concepts of evolution, development,
+        energy and profusion.</image:caption
+      >
+      <image:title>Bullet Bird</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37121-Cold World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37121-Cold World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >“Cold World” can be summed up by one brutal trip the crew went on to
+        Moscow, Russia. Feel the pain of jibbing in negative 20-degree
+        temperatures. Like previous FODT videos, you’ll see highly anticipated
+        parts from newcomers like Lucas Magoon, Miami Thunder and Kyle
+        Cartwright along side familiar faces like Deadlung, Bradshaw, MFM,
+        Messier, Dennison, Doffin and Ylianntila. Soundtrack mixed by MFM and DJ
+        Knucklez, “Cold World” comes clean in true FODT fashion.</image:caption
+      >
+      <image:title>Cold World</image:title>
+    </image:image>
+  </url>
+</urlset>

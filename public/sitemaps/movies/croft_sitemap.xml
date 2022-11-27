@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/846916-Croft</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/846916-Croft</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nWQos06BC2zseb9GDaDMHd3b70i.jpg</image:loc
+      >
+      <image:caption
+        >A woman will risk everything for the life of a young girl held hostage
+        by a group of Mercenaries that hold her hostage high in the
+        mountains.</image:caption
+      >
+      <image:title>Croft</image:title>
+    </image:image>
+  </url>
+</urlset>

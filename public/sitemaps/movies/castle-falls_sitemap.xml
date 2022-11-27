@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/683311-Castle Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/683311-Castle Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hcmtEns8LZdkztVz5kX3cirugaa.jpg</image:loc
+      >
+      <image:caption
+        >Rival gangs seek out millions of dollars hidden inside a luxury
+        condominium that's scheduled to be demolished, but first they have to
+        deal with the demolition prep crewman who found the loot
+        first.</image:caption
+      >
+      <image:title>Castle Falls</image:title>
+    </image:image>
+  </url>
+</urlset>

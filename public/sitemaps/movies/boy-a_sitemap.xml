@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14748-Boy A</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14748-Boy A</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dfX5bbDmOpqiMge49W5wjUPrUz0.jpg</image:loc
+      >
+      <image:caption
+        >Freed after a lengthy term in a juvenile detention center, convicted
+        child killer Jack Burridge (Andrew Garfield) finds work as a deliveryman
+        and begins dating co-worker Michelle (Katie Lyons). While out on the
+        road one day, the young Englishman notices a distressed child, and,
+        after reuniting the girl with her family, becomes a local celebrity.
+        But, when a local newspaper unearths his past, Jack must cope with the
+        anger of citizens who fear for the safety of their
+        children.</image:caption
+      >
+      <image:title>Boy A</image:title>
+    </image:image>
+  </url>
+</urlset>

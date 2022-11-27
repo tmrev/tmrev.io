@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553404-Broken Skin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553404-Broken Skin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kYgEB01zCSCE3ltx6ISBTb67i3N.jpg</image:loc
+      >
+      <image:caption
+        >A teenage boy, Diego, connects with his teenage ex girlfriend, Karina,
+        and they rekindle their sex life, but their past has another face that
+        eludes them. Both will be forced to face it.</image:caption
+      >
+      <image:title>Broken Skin</image:title>
+    </image:image>
+  </url>
+</urlset>

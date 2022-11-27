@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/168344-Cabás</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/168344-Cabás</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Xabi and Sara break up just before their holiday trip. She leaves the
+        house and Xabi stays alone. At first he doesn't seem to be affected, but
+        soon weird things will start to happen as he feels sick with a strange
+        disease. When he finally understands what is going on he'll have to make
+        a decision that could change his life forever.</image:caption
+      >
+      <image:title>Cabás</image:title>
+    </image:image>
+  </url>
+</urlset>

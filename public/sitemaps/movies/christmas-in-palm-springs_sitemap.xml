@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/358876-Christmas In Palm Springs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/358876-Christmas In Palm Springs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b8smVHYje6dw6uj5phtOiWm1UZP.jpg</image:loc
+      >
+      <image:caption
+        >Jessica has a big presentation in Palm Springs. There are a couple of
+        problems though: her two kids who will do anything to get mom and dad
+        back together again - even if they have to hack mom's phone or pose as a
+        secretary to make sure dad's in Palm Springs too. And father Joe who'll
+        do anything to charm his way back into Jessica's life.</image:caption
+      >
+      <image:title>Christmas In Palm Springs</image:title>
+    </image:image>
+  </url>
+</urlset>

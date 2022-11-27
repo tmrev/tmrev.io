@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/816494-Chariot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/816494-Chariot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gKqA1Vz9CtDbiwR4z2peJjqwPXA.jpg</image:loc
+      >
+      <image:caption
+        >Odd, eccentric specialist Dr. Karn guides unknowing patients through
+        the reincarnation transition. When Harrison experiences mysterious
+        recurring dreams, he turns to Dr. Karn for help and reveals his
+        encounter with a woman he loved in a previous life. Noticing a glitch in
+        the system, the doctor must fix the issue before permanently derailing
+        his patient's future.</image:caption
+      >
+      <image:title>Chariot</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1035365-Clive Sullivan: Rugby League Legend</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1035365-Clive Sullivan: Rugby League Legend</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pIsF96daYlZW96eTxXpC9LKifTW.jpg</image:loc
+      >
+      <image:caption
+        >Football icon Nathan Blake uncovers the incredible story of a Welsh
+        rugby legend: his uncle, Clive Sullivan, who was the first black man to
+        captain Great Britain in any sport.</image:caption
+      >
+      <image:title>Clive Sullivan: Rugby League Legend</image:title>
+    </image:image>
+  </url>
+</urlset>

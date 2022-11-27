@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268066-Campus Confidential</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268066-Campus Confidential</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nY3rH4SfW5shutMCz01NvTTF4IS.jpg</image:loc
+      >
+      <image:caption
+        >The campus geek rescues the most attractive campus girl from a dried
+        lake after she falls in. Legend has it if two people meet at the lake
+        when it's dry, they are destined to fall in love.</image:caption
+      >
+      <image:title>Campus Confidential</image:title>
+    </image:image>
+  </url>
+</urlset>

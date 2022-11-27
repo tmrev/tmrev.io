@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39435-Cowboy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39435-Cowboy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ArI7lT0mo7EJ4FGjAs2zQScRKqb.jpg</image:loc
+      >
+      <image:caption
+        >Chicago hotel clerk Frank Harris dreams of life as a cowboy, and he
+        gets his chance when, jilted by the father of the woman he loves, he
+        joins Tom Reece and his cattle-driving outfit. Soon, though, the
+        tenderfoot finds out life on the range is neither what he expected nor
+        what he's been looking for...</image:caption
+      >
+      <image:title>Cowboy</image:title>
+    </image:image>
+  </url>
+</urlset>

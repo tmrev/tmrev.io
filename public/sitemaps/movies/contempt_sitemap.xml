@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/266-Contempt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/266-Contempt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aQUDdxuWQvXMGzZw0VmvGYrPtk9.jpg</image:loc
+      >
+      <image:caption
+        >A philistine in the art film business, Jeremy Prokosch is a producer
+        unhappy with the work of his director. Prokosch has hired Fritz Lang to
+        direct an adaptation of "The Odyssey," but when it seems that the
+        legendary filmmaker is making a picture destined to bomb at the box
+        office, he brings in a screenwriter to energize the script. The
+        professional intersects with the personal when a rift develops between
+        the writer and his wife.</image:caption
+      >
+      <image:title>Contempt</image:title>
+    </image:image>
+  </url>
+</urlset>

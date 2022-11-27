@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20283-Breaking Away</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20283-Breaking Away</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg</image:loc
+      >
+      <image:caption
+        >Dave, nineteen, has just graduated high school, with his 3 friends, The
+        comical Cyril, the warm hearted but short-tempered Moocher, and the
+        athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes
+        and hopes to race the Italians one day, and even takes up the Italian
+        culture, much to his friends and parents annoyance.</image:caption
+      >
+      <image:title>Breaking Away</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456768-Crash Test Aglaé</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456768-Crash Test Aglaé</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8dTtG54rJbg3HWxFptUageWcfBD.jpg</image:loc
+      >
+      <image:caption
+        >Aglaé, a young factory worker, has only one focus in life: her job at a
+        car crash test site. When she learns that the factory is going to be
+        relocated abroad, she accepts, to everyone's surprise, to go to India in
+        order to hold on to her job. Accompanied by two colleagues, she sets out
+        on a perilous road trip to the other side of the world.</image:caption
+      >
+      <image:title>Crash Test Aglaé</image:title>
+    </image:image>
+  </url>
+</urlset>

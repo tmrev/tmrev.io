@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/429707-Craft: The California Beer Documentary</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/429707-Craft: The California Beer Documentary</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/71TfG4mHCMJniPzbDO6VO3wJbY6.jpg</image:loc
+      >
+      <image:caption
+        >The film explores California's important place in the world of craft
+        beer. Featuring interviews at 80 breweries from every corner of the
+        state, the film deals with topics ranging from California's beer
+        history, and the possibility of a craft beer bubble.</image:caption
+      >
+      <image:title>Craft: The California Beer Documentary</image:title>
+    </image:image>
+  </url>
+</urlset>

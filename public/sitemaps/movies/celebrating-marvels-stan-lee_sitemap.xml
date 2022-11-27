@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662151-Celebrating Marvel's Stan Lee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662151-Celebrating Marvel's Stan Lee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg</image:loc
+      >
+      <image:caption
+        >Filmed in part in front of a live audience at The New Amsterdam Theater
+        in New York City, this Stan Lee tribute takes viewers on an
+        action-packed journey throughout the life of Lee and across the Marvel
+        Universe, sharing never-before-seen interviews and archive footage with
+        Lee himself from deep within the Marvel and ABC News
+        archives.</image:caption
+      >
+      <image:title>Celebrating Marvel's Stan Lee</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/383267-Crazy About Tiffany's</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/383267-Crazy About Tiffany's</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mpgwY0fqczICkyhLqhuvp7gWDXy.jpg</image:loc
+      >
+      <image:caption
+        >A provocative and rare glimpse at the most iconic luxury jeweler in the
+        world. From past to present, discovering the behind the scenes creation
+        to those beholden to its charm, Tiffany &amp; Co. is unveiled like never
+        before.</image:caption
+      >
+      <image:title>Crazy About Tiffany's</image:title>
+    </image:image>
+  </url>
+</urlset>

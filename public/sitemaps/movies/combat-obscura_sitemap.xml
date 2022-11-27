@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509207-Combat Obscura</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509207-Combat Obscura</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A4BiG9G4s2EpWAnQtY6rbWiHc1Q.jpg</image:loc
+      >
+      <image:caption
+        >At the age of 18, Miles Lagoze enlisted in the Marine Corps. He was
+        deployed to Afghanistan where he served as his unit's official
+        videographer, shooting and editing footage for the Corps' recruiting
+        purposes and historical initiatives. Upon discharging, Lagoze took all
+        the footage he and his fellow cameramen shot, and he assembled the very
+        documentary the Corps does not want you to see.</image:caption
+      >
+      <image:title>Combat Obscura</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/821369-Cochi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/821369-Cochi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y2oQCGQgfh88ggiqf8RUJvAOlRT.jpg</image:loc
+      >
+      <image:caption
+        >Al, a 12-year-old boy finds himself trapped in an inhospitable world
+        after the departure of a loved one. Al will seek to heal his heart to
+        see color in life again and be motivated to continue.</image:caption
+      >
+      <image:title>Cochi</image:title>
+    </image:image>
+  </url>
+</urlset>

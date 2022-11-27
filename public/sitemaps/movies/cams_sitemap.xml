@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291311-Cams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291311-Cams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The image pans slowly around a coastal moor, a neighborhood of silent
+        villas and empty streets, a forest path in fading summer light. There
+        are no witnesses to tell the stories of how it all ended. All
+        manifestations of human activity have ceased, giving way to the
+        crackling and bustling of nature. In this world, which at first seems
+        only to reflect a recent emptying, black things move about, as if dying
+        echoes of a cataclysm too terrifying to narrate.</image:caption
+      >
+      <image:title>Cams</image:title>
+    </image:image>
+  </url>
+</urlset>

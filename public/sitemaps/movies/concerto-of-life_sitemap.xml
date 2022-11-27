@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312249-Concerto of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312249-Concerto of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jilted by his first love, and abandoned by the woman he marries, piano
+        teacher Jiansheng refuses to allow his misfortune to dilute his devotion
+        to music and to his students. When he becomes critically ill, two of his
+        former students, who have become internationally-acclaimed pianists,
+        return to Shanghai to perform at a benefit concert in aid of their
+        former teacher, who they owe so much. Unfortunately, Jiansheng is too
+        ill to attend the concert, but can only listen to the 'live' radio
+        broadcast of one of his student playing his favorite concerto,
+        Rachmaninoff's Piano Concerto No.2.</image:caption
+      >
+      <image:title>Concerto of Life</image:title>
+    </image:image>
+  </url>
+</urlset>

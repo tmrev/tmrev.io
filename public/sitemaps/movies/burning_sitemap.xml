@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1036797-Burning</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1036797-Burning</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Two boys are searching for their place in a world not made for them.
+        They roam the neighboring corn field looking for somewhere to settle,
+        deciding to occupy an empty rooftop in order to fill it with their
+        curiosities, dreams and memories. It is an elegiac contemplation on
+        friendship and solitude.</image:caption
+      >
+      <image:title>Burning</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209718-B.O.Y.D.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209718-B.O.Y.D.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Set against the 2003 northeast blackout, "B.O.Y.D." follows a group of
+        20-somethings as they embark on a journey with equal parts debauchery
+        and self-discovery. Featuring the sights and sounds of western new york,
+        it is an unforgettable experience that reminds us all what it feels like
+        to be stuck in a rut and how much fun you can have getting out of
+        it.</image:caption
+      >
+      <image:title>B.O.Y.D.</image:title>
+    </image:image>
+  </url>
+</urlset>

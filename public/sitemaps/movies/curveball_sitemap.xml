@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/667938-Curveball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/667938-Curveball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lavCCgz01xUfIhnTwpMhUAwcgOM.jpg</image:loc
+      >
+      <image:caption
+        >Although he already has searched Iraq unsuccessfully for weapons of
+        mass destruction as a member of a UN mission, German bio-weapons expert
+        Arndt Wolf is still obsessed with the idea that Saddam Hussein is hiding
+        something. Nobody around him is interested in this topic any more. This
+        changes abruptly when an Iraqi asylum seeker claims to have been
+        involved in the manufacture of chemical weapons. The German Federal
+        Intelligence Service summons Dr. Wolf to ascertain the legitimacy of the
+        claims made by the informant, who has been given the code name
+        “Curveball”.</image:caption
+      >
+      <image:title>Curveball</image:title>
+    </image:image>
+  </url>
+</urlset>

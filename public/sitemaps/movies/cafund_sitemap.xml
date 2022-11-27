@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32642-Cafundó</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32642-Cafundó</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qzkdKx59A9dbKXv6xVbw7YohPVc.jpg</image:loc
+      >
+      <image:caption
+        >Cafundó is a 35 mm color film which blends fact with fiction in the
+        life of João de Camargo, a former black slave (1858-1942, Sorocaba,
+        Brazil) who, in his old age, works miracles and devotes himself to
+        assisting others in order to attain his freedom. João de Camargo
+        represents the genesis of religious and cultural syncretism in
+        Brazil.</image:caption
+      >
+      <image:title>Cafundó</image:title>
+    </image:image>
+  </url>
+</urlset>

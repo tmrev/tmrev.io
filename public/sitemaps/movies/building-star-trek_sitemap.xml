@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/414260-Building Star Trek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/414260-Building Star Trek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h9PS5CLIYQv6xo7F3r3Vh4PGhzD.jpg</image:loc
+      >
+      <image:caption
+        >When "Star Trek" first aired in 1966, it expanded the viewers'
+        imaginations about what was possible in their lifetimes. Today, many of
+        the space-age technologies displayed on the show, like space shuttles,
+        cell phones, and desktop computers, have already gone from science
+        fiction to science fact. Other innovations, like warp drive,
+        teleportation, and medical tricorders are actively in development. Join
+        us as we celebrate the 50th Anniversary of "Star Trek" - a show that
+        continues to inform, enrich, and inspire.</image:caption
+      >
+      <image:title>Building Star Trek</image:title>
+    </image:image>
+  </url>
+</urlset>

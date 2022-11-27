@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197597-Coming to Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197597-Coming to Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Coming to Light interweaves the story of Edward S. Curtis (1868-1952)
+        life with the results of his work, and through it, we see the world he
+        sought to preserve. Curtis was a driven, charismatic, obsessive artist,
+        a pioneer photographer who set out in 1900 to document traditional
+        Indian life.</image:caption
+      >
+      <image:title>Coming to Light</image:title>
+    </image:image>
+  </url>
+</urlset>

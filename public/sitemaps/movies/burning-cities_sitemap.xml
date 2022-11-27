@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/978974-Burning Cities</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/978974-Burning Cities</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An inventory of incendiary practices across the world at the beginning
+        of the 21st century as reflected in social and popular rituals,
+        festivals, savage celebrations, riots and military offensives. This work
+        is about the hypnotic power of flames and their spreading in jubilation,
+        communion, transgression or terror.</image:caption
+      >
+      <image:title>Burning Cities</image:title>
+    </image:image>
+  </url>
+</urlset>

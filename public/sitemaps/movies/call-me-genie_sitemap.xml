@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46790-Call Me Genie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46790-Call Me Genie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oU1cYsERonsgOvCfRz0QPF1sR83.jpg</image:loc
+      >
+      <image:caption
+        >The students go on wild adventure when a modern Genie appears suddenly
+        from a can of soda. He has a mission to fulfill, as a result the three
+        students are transported instantly to the Indian state of Goa, where one
+        of he students named Guch (Sergey Chirkov) gets a date with the lovely
+        classmate of his Lena (Anastasia Tsvetaeva).</image:caption
+      >
+      <image:title>Call Me Genie</image:title>
+    </image:image>
+  </url>
+</urlset>

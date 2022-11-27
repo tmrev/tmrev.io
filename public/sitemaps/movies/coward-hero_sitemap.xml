@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/609637-Coward Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/609637-Coward Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nRMqDT90bASsotS8C11rasTdB5m.jpg</image:loc
+      >
+      <image:caption
+        >A terminally ill gangster becomes a police insider to cash in on the
+        life insurance but ends up a department hero in this Chinese action
+        comedy.</image:caption
+      >
+      <image:title>Coward Hero</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/706783-Choked: Paisa Bolta Hai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/706783-Choked: Paisa Bolta Hai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i6wXrxq1CGfHn7qVckZt6FmLSxB.jpg</image:loc
+      >
+      <image:caption
+        >A bank employee weighed down by her jobless husband's debts - and her
+        own broken dreams - finds a secret source of seemingly unlimited cash in
+        her home.</image:caption
+      >
+      <image:title>Choked: Paisa Bolta Hai</image:title>
+    </image:image>
+  </url>
+</urlset>

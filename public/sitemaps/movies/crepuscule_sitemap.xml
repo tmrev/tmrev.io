@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70503-Crepuscule</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70503-Crepuscule</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pI3012TLiv8yh3iC7vlNYybGnJc.jpg</image:loc
+      >
+      <image:caption
+        >An impressionistic experimental drama. A woman walks a fine line
+        between sanity and madness in a world of constant twilight. She works at
+        a filling station and lives a life of emotional isolation. No one seems
+        to pay attention to her, and she lives in a run-down flat that looks as
+        if it's decaying before our eyes. As the woman wrestles with the demons
+        that are taking hold within her mind, she frequently confronts herself
+        in the mirror, often while naked.</image:caption
+      >
+      <image:title>Crepuscule</image:title>
+    </image:image>
+  </url>
+</urlset>

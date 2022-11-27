@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335669-Bread and Butter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335669-Bread and Butter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2cJOL6oZzBqJFoZtiWzFzgzcrO.jpg</image:loc
+      >
+      <image:caption
+        >On the brink of turning 30, endearing misfit AMELIA searches for signs
+        to show her how to deal with her obsessive parents, her eccentric boss
+        and her virginity.</image:caption
+      >
+      <image:title>Bread and Butter</image:title>
+    </image:image>
+  </url>
+</urlset>

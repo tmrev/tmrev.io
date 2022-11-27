@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/517814-Capernaum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/517814-Capernaum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg</image:loc
+      >
+      <image:caption
+        >Zain, a 12-year-old boy scrambling to survive on the streets of Beirut,
+        sues his parents for having brought him into such an unjust world, where
+        being a refugee with no documents means that your rights can easily be
+        denied.</image:caption
+      >
+      <image:title>Capernaum</image:title>
+    </image:image>
+  </url>
+</urlset>

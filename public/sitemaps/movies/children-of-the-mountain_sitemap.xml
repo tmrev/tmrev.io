@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/390597-Children of the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/390597-Children of the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/feAvfHAEBboDPqLae9R2i7g8hpD.jpg</image:loc
+      >
+      <image:caption
+        >Against the picturesque Ghanaian backdrop, Children of the Mountain is
+        an honest exploration of a mother’s will in the face of much adversity.
+        When her baby is born with a cleft lip, cerebral palsy, and Down
+        syndrome, Essuman is led to believe that she has a ‘dirty womb.’ Her
+        promising future as a wife and mother is shattered as her lover disowns
+        her and the community eyes her with suspicion.</image:caption
+      >
+      <image:title>Children of the Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/522144-Crossroads: One Two Jaga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/522144-Crossroads: One Two Jaga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1HomqFZLyeA4bRVyvuIr6jSG1gT.jpg</image:loc
+      >
+      <image:caption
+        >In the outskirts and back-alleys of Kuala Lumpur, several individuals
+        with money problems struggle to get their lives straight, find their
+        paths unexpectedly intersecting - with fatal results.</image:caption
+      >
+      <image:title>Crossroads: One Two Jaga</image:title>
+    </image:image>
+  </url>
+</urlset>

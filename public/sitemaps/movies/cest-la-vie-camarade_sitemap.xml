@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505172-C'est la vie, camarade!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505172-C'est la vie, camarade!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Vazquez, 60, owns a small French publishing house. His mother, a
+        Spanish refugee, raised him in the memory of a father, hero of the
+        resistance under Franquism. His daughter Lauriane, 30, has a complicated
+        love life, but still lives with her father.</image:caption
+      >
+      <image:title>C'est la vie, camarade!</image:title>
+    </image:image>
+  </url>
+</urlset>

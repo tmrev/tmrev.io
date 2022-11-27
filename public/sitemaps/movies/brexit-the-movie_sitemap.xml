@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/397403-Brexit: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/397403-Brexit: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Sw3KjsPEENJRC1P3aSKosoS3at.jpg</image:loc
+      >
+      <image:caption
+        >A feature-length documentary to show why Britain should vote to LEAVE
+        the EU - and would thrive outside of it. Brexit: The Movie spells out
+        the danger of staying part of the EU. Is it safe to give a remote
+        government beyond our control the power to make laws? Is it safe to tie
+        ourselves to countries which are close to financial ruin, drifting
+        towards scary political extremism, and suffering long-term,
+        self-inflicted economic decline?</image:caption
+      >
+      <image:title>Brexit: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

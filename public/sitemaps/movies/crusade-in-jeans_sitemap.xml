@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2286-Crusade in Jeans</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2286-Crusade in Jeans</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c4kphpgrPkkB26IConFGp8bE1vq.jpg</image:loc
+      >
+      <image:caption
+        >Dolf a 15 year old boy is sent back in time by a timemachine.
+        Accidentally he is sent back to the Middle Ages. He is rescued by
+        children who are part of a childrens' crusade, on their way to rescue
+        Jeruzalem. During the trip Dolf finds out the danger is not coming from
+        outside the crusade, but from within.</image:caption
+      >
+      <image:title>Crusade in Jeans</image:title>
+    </image:image>
+  </url>
+</urlset>

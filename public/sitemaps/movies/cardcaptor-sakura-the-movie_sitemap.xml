@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26945-Cardcaptor Sakura: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26945-Cardcaptor Sakura: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mBk9kE6AQ2L5HDwL9huGpjG2Umv.jpg</image:loc
+      >
+      <image:caption
+        >Sakura Kinomoto, a Card Captor, wins a game of chance and is awarded a
+        trip to Hong Kong, along with her best friend Tomoyo and her rival,
+        Syaoran Li. It turns out that the ancient rival of Clow Reed, the
+        creator of the mysterious and powerful Clow Cards, summoned them, and
+        she's out for revenge. A battle ensues, and secrets are revealed about
+        Clow Reed's shady past and Sakura's connection to him.</image:caption
+      >
+      <image:title>Cardcaptor Sakura: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

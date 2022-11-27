@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/698922-Chaouch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/698922-Chaouch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g5xdclJtiG7Px7eq2DnuePsVjZX.jpg</image:loc
+      >
+      <image:caption
+        >Sellam is an administrative agent who works in a town hall, curious and
+        seeks to know everything, he believes he has good relations with his
+        superiors. he stumbled upon a file of land intended for the inhabitants
+        of barracks in the town can. Sellam then decides to buy a hut, but luck
+        is still not by his side.</image:caption
+      >
+      <image:title>Chaouch</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/294489-Coney Island Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/294489-Coney Island Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z8A3RoDs8i6roYhW7G7YvhKES7r.jpg</image:loc
+      >
+      <image:caption
+        >After spending time in New York City, Billy Hayes returns to his
+        Ireland hometown. He wants to get back together with his ex-girlfriend
+        and take her to America in hopes of opening up a gas station. But
+        everything isn't going Billy's way — the townspeople aren't happy to see
+        him, and his ex-girlfriend is engaged and pregnant. Then, Billy runs
+        into his old friends who are planning a scam.</image:caption
+      >
+      <image:title>Coney Island Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/534515-Calamity of a Zombie Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/534515-Calamity of a Zombie Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bGXY2Ej1eD3BWlOKeXo95Pk4o7T.jpg</image:loc
+      >
+      <image:caption
+        >When a zombie named Euphrosyne awakens after a century-long slumber,
+        she finds herself coming face-to-face with a group of five university
+        students – a stand-off that leads to a bloody battle for all concerned,
+        revolving around a secret stone hidden in the depths of the campus’
+        archives.</image:caption
+      >
+      <image:title>Calamity of a Zombie Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

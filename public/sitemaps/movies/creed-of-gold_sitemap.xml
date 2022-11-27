@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/316390-Creed of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/316390-Creed of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zV1gJUrke8UzAQs7Sd8IIZCzV2P.jpg</image:loc
+      >
+      <image:caption
+        >A cloak & dagger adventure about the Federal Reserve and the
+        international financial conspiracy that threatens the world. Three
+        heroic college students uncover the plot...and risk their lives to
+        expose the secret syndicate. "Gripping drama" says Dove
+        Fnd.</image:caption
+      >
+      <image:title>Creed of Gold</image:title>
+    </image:image>
+  </url>
+</urlset>

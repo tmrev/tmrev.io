@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42164-Camera Buff</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42164-Camera Buff</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l4n9LXUanIKdlKTCfRqrhwQbtVe.jpg</image:loc
+      >
+      <image:caption
+        >Filip buys an 8mm movie camera when his first child is born. Because
+        it's the first camera in town, he's named official photographer by the
+        local Party boss. His horizons widen when he is sent to regional film
+        festivals with his first works but his focus on movie making also leads
+        to domestic strife and philosophical dilemmas.</image:caption
+      >
+      <image:title>Camera Buff</image:title>
+    </image:image>
+  </url>
+</urlset>

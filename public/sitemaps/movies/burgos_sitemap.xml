@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/857774-Burgos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/857774-Burgos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9dus2xJ2DABtYwNr8PELcwpAwSC.jpg</image:loc
+      >
+      <image:caption
+        >Burgos depicts a mother's search for her desaparecido. Ms. Lorna
+        Tolentino plays Editha Burgos, mother of missing activist-farmer Jonas
+        Burgos played by Rocco Nacino. The deeply religious Edith is a member of
+        the House of Prayer, the Secular Order of Discalced
+        Carmelites.</image:caption
+      >
+      <image:title>Burgos</image:title>
+    </image:image>
+  </url>
+</urlset>

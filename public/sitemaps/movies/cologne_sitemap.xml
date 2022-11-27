@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382278-Cologne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382278-Cologne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A portrait of an impossible love. A man and a woman are leaving
+        everything and everybody behind for a private weekend by the sea. But it
+        soon becomes clear that privacy is not what they are getting, as Frank's
+        'other life' keeps coming up. Alex, expecting this weekend to be theirs,
+        seems to crack. As an ultimate act of despair, she takes Frank as her
+        hostage. Recognising she has crossed the line of normal behaviour and
+        finally realising that she will always have to share Frank, Alex starts
+        losing her faith in this love. The next morning Alex is gone, leaving
+        Frank a small reminder…</image:caption
+      >
+      <image:title>Cologne</image:title>
+    </image:image>
+  </url>
+</urlset>

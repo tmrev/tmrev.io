@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859575-Chloe's Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859575-Chloe's Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gmThyvE3euSVypzrYdinjtupio6.jpg</image:loc
+      >
+      <image:caption
+        >A teenage girl, songwriter-singer Chloe, reluctantly enters a Christian
+        University and then finds she must face the mountains that are holding
+        her back and in God who can move them.</image:caption
+      >
+      <image:title>Chloe's Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

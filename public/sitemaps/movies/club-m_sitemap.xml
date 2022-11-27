@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/754130-Club M2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/754130-Club M2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zPMh9BIvbCggUXXJeWzyQTOoPVF.jpg</image:loc
+      >
+      <image:caption
+        >A married, homophobic accountant unknowingly intercepts a bribe
+        intended for his boss, a corrupt real-estate developer. When thugs try
+        to take back the money, they unknowingly chase him into a gay sauna.
+        It's there for the first time that he knowingly confronts gay people.
+        Fearing for his life, the accountant is forced to accept help from the
+        people he would normally avoid and look down upon. At the sauna, he
+        discovers new lessons about life, acceptance, HIV/AIDS, and his
+        relationships with his own family.</image:caption
+      >
+      <image:title>Club M2</image:title>
+    </image:image>
+  </url>
+</urlset>

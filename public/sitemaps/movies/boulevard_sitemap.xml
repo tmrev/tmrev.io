@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259963-Boulevard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259963-Boulevard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pURqIgBlaYpU0gJkxyCkhSF9pri.jpg</image:loc
+      >
+      <image:caption
+        >Nolan Mack, a soft-spoken bank employee, undoubtedly loves his wife
+        Joy, though their cavernous empty house only underscores how
+        disconnected they’ve always been from each other. Nolan finds himself
+        drifting from his familiar present-day life in pursuit of lost time
+        after meeting a troubled young man named Leo on his drive home. What
+        begins as an aimless drive down an unfamiliar street turns into a
+        life-altering series of events.</image:caption
+      >
+      <image:title>Boulevard</image:title>
+    </image:image>
+  </url>
+</urlset>

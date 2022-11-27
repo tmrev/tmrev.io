@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/247267-Chamada a Cobrar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/247267-Chamada a Cobrar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A high class lady from Brazil falls into a fake kidnapping scam when
+        she answers a stranger’s phone call. Believing that one of her daughters
+        has been kidnapped, she is guided by a terrifying voice for 12 hours
+        through the cities of Sao Paulo and Rio de Janeiro.</image:caption
+      >
+      <image:title>Chamada a Cobrar</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300834-Bustin Chops The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300834-Bustin Chops The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4a3ZzRcxlhrRtchgPoloJgDzYdw.jpg</image:loc
+      >
+      <image:caption
+        >The movie starts 5 years after stuntman Eugene Koekemoer and his crew
+        of misfit stuntmen left the world of fame with their Stunt TV shows and
+        started to work regular 9 to 5 jobs.</image:caption
+      >
+      <image:title>Bustin Chops The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

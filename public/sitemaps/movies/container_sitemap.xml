@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110761-Container</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110761-Container</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1WBt5Ahwbqs82kvIAUU9IoXYKq6.jpg</image:loc
+      >
+      <image:caption
+        >Poetic, experimental and different, Container is described by Lukas
+        Moodysson as "a black and white silent movie with sound" and with the
+        following words; "A woman in a man's body. A man in a woman's body.
+        Jesus in Mary's stomach. The water breaks. It floods into me. I can't
+        close the lid. My heart is full."</image:caption
+      >
+      <image:title>Container</image:title>
+    </image:image>
+  </url>
+</urlset>

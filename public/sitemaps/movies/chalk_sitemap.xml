@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31811-Chalk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31811-Chalk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ymq0W1ijdSe73KqsHQFURa9ZtBR.jpg</image:loc
+      >
+      <image:caption
+        >Three rookie teachers and one unenthusiastic assistant principal face a
+        rambunctious student body, a cantankerous set of colleagues,
+        embarrassing rumors, equipment malfunctions and various absurdities at
+        Harrison High, a typically provocative and volatile (although fictional)
+        public school in Austin, Texas. The documentary-style comedy won several
+        awards, including Outstanding Performance by an Ensemble Cast at the
+        2006 Los Angeles Film Festival.</image:caption
+      >
+      <image:title>Chalk</image:title>
+    </image:image>
+  </url>
+</urlset>

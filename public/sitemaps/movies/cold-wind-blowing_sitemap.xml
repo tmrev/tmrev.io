@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/529683-Cold Wind Blowing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/529683-Cold Wind Blowing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qRf5GK85cbp5rgcXVIxtCHzZ95i.jpg</image:loc
+      >
+      <image:caption
+        >When a group of young friends take a trip to a remote mountain to get
+        away from their families for Christmas, their stress-free getaway turns
+        into a nightmare. Trapped in a cabin by a supernatural creature, their
+        fight for survival puts their fracturing relationships to the test as it
+        becomes increasingly clear that all of them won’t be surviving the
+        holidays.</image:caption
+      >
+      <image:title>Cold Wind Blowing</image:title>
+    </image:image>
+  </url>
+</urlset>

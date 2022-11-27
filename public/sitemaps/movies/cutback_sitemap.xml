@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100212-Cutback</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100212-Cutback</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/keeUQUhwH6TfX1d4X8t6sZTjcAD.jpg</image:loc
+      >
+      <image:caption
+        >High School senior Luke Harris dreams of just one thing... pro surfing.
+        But Luke's parents have other ideas: pick a college and grow up! When
+        Luke learns that a spot is opening up on the local surf team, he see's
+        his big chance to prove to his parents that he can make it as a surfer
+        and avoid being shipped off to school. When a devastating tragedy
+        strikes, Luke is forced to take a hard look at his life with the help of
+        the beautiful "church-girl" Emily and his youth pastor.</image:caption
+      >
+      <image:title>Cutback</image:title>
+    </image:image>
+  </url>
+</urlset>

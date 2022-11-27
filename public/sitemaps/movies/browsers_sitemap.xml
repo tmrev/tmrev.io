@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/399786-Browsers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/399786-Browsers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gD3uNs1dwyxWpnJtZUyuDsirWh7.jpg</image:loc
+      >
+      <image:caption
+        >Set in contemporary Manhattan, it follows four young people as they
+        start their first jobs at a news website.</image:caption
+      >
+      <image:title>Browsers</image:title>
+    </image:image>
+  </url>
+</urlset>

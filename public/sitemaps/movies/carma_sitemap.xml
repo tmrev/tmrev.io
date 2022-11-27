@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034777-Carma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034777-Carma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A man is abducted and held hostage in his car by 3 members of a
+        dangerous gang, led by a vicious psychopath. But what appears to be a
+        straight-forward kidnapping turns out to be an intricate tale of
+        deception, vengeance and retribution. Each progressive scene during the
+        kidnapping is linked with impactful scenes from the past, producing a
+        cohesive non-linear story that ends with a series of mind-boggling, yet
+        ultimately satisfying, twists.</image:caption
+      >
+      <image:title>Carma</image:title>
+    </image:image>
+  </url>
+</urlset>

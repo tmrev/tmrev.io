@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716527-Close-Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716527-Close-Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jhQlasrHlxvqvpoEGIYTeMbrsE7.jpg</image:loc
+      >
+      <image:caption
+        >told through the eyes of a failed Philadelphia actor who has succumbed
+        to drug addiction. Our story follows him during the Holidays as he
+        desperately tries to regain everything he has lost in his life; his wife
+        and child, his job, and his pride, before it's too late. Over the course
+        of one day on New Years Eve in New York City, a young vibrant woman,
+        Freebird, shows him how to stand up, discover himself and move on with
+        his life.</image:caption
+      >
+      <image:title>Close-Up</image:title>
+    </image:image>
+  </url>
+</urlset>

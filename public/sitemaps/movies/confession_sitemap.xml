@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/760877-Confession</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/760877-Confession</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nlwlW4iJxvDYMADZa7asiDrPHVi.jpg</image:loc
+      >
+      <image:caption
+        >For two detectives Dean McCallum is an enigma; is he a psychopath or a
+        serial killer; does he suffer from multiple personalities, could he be
+        possessed by demons, or is there something even more shocking to
+        consider.</image:caption
+      >
+      <image:title>Confession</image:title>
+    </image:image>
+  </url>
+</urlset>

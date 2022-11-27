@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/59996-Cold Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/59996-Cold Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lXHPkjlXFlclX4KMq0wVGQ2KkQN.jpg</image:loc
+      >
+      <image:caption
+        >A married woman has a fling with her husband’s charming, but
+        sociopathic young patient, but when she returns to her husband she finds
+        herself being stalked by her former lover.</image:caption
+      >
+      <image:title>Cold Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

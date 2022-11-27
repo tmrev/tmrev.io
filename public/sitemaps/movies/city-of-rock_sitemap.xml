@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479794-City of Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479794-City of Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9a1la8a7rw0XzmCErCCtsV4RbJc.jpg</image:loc
+      >
+      <image:caption
+        >A young musician from a small town in China tries to save his town's
+        treasured Rock Park by organizing a charity rock concert.</image:caption
+      >
+      <image:title>City of Rock</image:title>
+    </image:image>
+  </url>
+</urlset>

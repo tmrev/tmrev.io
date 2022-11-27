@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/113351-Congo River</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/113351-Congo River</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pXXh0UFxKT8V5vnVabu9tyBM4iK.jpg</image:loc
+      >
+      <image:caption
+        >Following the great explorers’ footsteps, “Congo River” takes us up one
+        of the world’s greatest river basins, from its mouth to its source. All
+        the way along its 2,716 miles, we pass places that testify to the
+        country’s tumultuous history, and encounter the ghosts of those who
+        shaped its destiny: Stanley, the explorer, Leopold II, the colonizer,
+        Mobutu, the despot. We also cross paths with an entire people – boatmen
+        guiding their dugout canoes, fishermen, traveling salesmen, military
+        personnel and rebels, women and children – searching for light and
+        dignity.</image:caption
+      >
+      <image:title>Congo River</image:title>
+    </image:image>
+  </url>
+</urlset>

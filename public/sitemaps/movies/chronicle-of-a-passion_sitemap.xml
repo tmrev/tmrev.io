@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/648366-Chronicle of a Passion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/648366-Chronicle of a Passion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6wthdtH10AvCz64BMwwBnDP4uDh.jpg</image:loc
+      >
+      <image:caption
+        >Giovanni and Anna are a married couple in their sixties who have lived
+        together all their lives, with honestly and dignity. However, in the
+        past few years the economic crisis has hit town and work, Anna has not
+        been able to keep up her payments and she has accumulated a debt with
+        the tax authorities. For Giovanni and Anna this marks the beginning of
+        an inexorable ordeal which will lead them to lose first their home, then
+        their work, and ultimately their privacy.</image:caption
+      >
+      <image:title>Chronicle of a Passion</image:title>
+    </image:image>
+  </url>
+</urlset>

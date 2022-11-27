@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/916719-Code Name Banshee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/916719-Code Name Banshee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g29dShv0wHJUvif2KPq039imds5.jpg</image:loc
+      >
+      <image:caption
+        >Caleb, a former government assassin in hiding, who resurfaces when his
+        protégé, the equally deadly killer known as Banshee, discovers a bounty
+        has been placed on Caleb's head.</image:caption
+      >
+      <image:title>Code Name Banshee</image:title>
+    </image:image>
+  </url>
+</urlset>

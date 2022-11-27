@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/212843-Burt's Buzz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/212843-Burt's Buzz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bGb3g4kbBqeKjSuesZqpEgzM3KG.jpg</image:loc
+      >
+      <image:caption
+        >BURT'S BUZZ is an in-depth and personal look at the life of Burt
+        Shavitz, known to millions around the world as the "Burt" of the Burt’s
+        Bees natural product brand. The documentary explores what it means to be
+        marketed as an icon, and how that life differs from the one of the man
+        behind the logo.</image:caption
+      >
+      <image:title>Burt's Buzz</image:title>
+    </image:image>
+  </url>
+</urlset>

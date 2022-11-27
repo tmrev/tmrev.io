@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/23529-Cosas insignificantes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/23529-Cosas insignificantes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uM27P8FtwSTEXmyJ6dTrQ7jNZVD.jpg</image:loc
+      >
+      <image:caption
+        >Esmeralda is a teenager with an unusual obsession: she collects lost,
+        forgotten or discarded objects from people she doesn't know and keeps
+        them in a box beneath her bed. This is the tale of three objects in the
+        box and the people behind them, all in some way incapable of relating to
+        the person they love most. It is also a tale of the box itself, and of
+        how Esmeralda learns to open it, to feel and to hoard the most valuable
+        thing of all: human relations.</image:caption
+      >
+      <image:title>Cosas insignificantes</image:title>
+    </image:image>
+  </url>
+</urlset>

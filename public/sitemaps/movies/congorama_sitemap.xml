@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61783-Congorama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61783-Congorama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vR92CiqJG5dj6m7389B1M6fPCPc.jpg</image:loc
+      >
+      <image:caption
+        >Michel is a Belgian inventor. He cares for his father, a paralysed
+        writer, is married to a Congolese woman and is the father of an
+        interracial child whom he reassures as to his parentage. He discovers at
+        the age of 41 that he was adopted, actually having been born in
+        Sainte-Cécile, Quebec. In the summer of 2000, he travels to Quebec,
+        supposedly to sell some of his inventions. While on a near-impossible
+        quest to find his birth family in the town where he was born, he crosses
+        paths with Louis Legros, son of another inventor, in a meeting which
+        will change their lives.</image:caption
+      >
+      <image:title>Congorama</image:title>
+    </image:image>
+  </url>
+</urlset>

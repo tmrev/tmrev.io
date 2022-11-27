@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254760-Chez Schwartz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254760-Chez Schwartz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Chez Schwartz takes us inside a year in the life of Schwartz's Deli -
+        the unique 75-year-old landmark on Montreal's historic Main. Filmed
+        through changing seasons, from the quiet of early morning preparation to
+        the frenetic bustle of packed lunch times and never ending line-ups, to
+        the more relaxed ambiance late at night - Chez Schwartz is an evocative,
+        cinematic portrait of a small spunky deli known worldwide equally for
+        its atmosphere and smoked meat.</image:caption
+      >
+      <image:title>Chez Schwartz</image:title>
+    </image:image>
+  </url>
+</urlset>

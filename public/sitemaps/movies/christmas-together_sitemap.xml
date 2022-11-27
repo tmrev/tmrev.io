@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/748898-Christmas Together</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/748898-Christmas Together</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/MKgopT6vlEc6aUR71MUOs7SCaR.jpg</image:loc
+      >
+      <image:caption
+        >A brokenhearted New York painter, Ava, and a West Coast widower, Mason,
+        have their lives collide when Mason’s young daughter, Mia, rents out his
+        guest house to Ava for Christmas, without her dad's knowledge, in an
+        attempt to convince her dad she is responsible enough to earn a dog for
+        Christmas.</image:caption
+      >
+      <image:title>Christmas Together</image:title>
+    </image:image>
+  </url>
+</urlset>

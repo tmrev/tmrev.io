@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/787731-Cry Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/787731-Cry Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fqPhZfpJVbdrfWBY20YE4gpcJtC.jpg</image:loc
+      >
+      <image:caption
+        >The wild beauty of the Bella Coola Valley blends with vivid watercolor
+        animation illuminating the role of the Nuxalk oral tradition and the
+        intersection of story, place and culture.</image:caption
+      >
+      <image:title>Cry Rock</image:title>
+    </image:image>
+  </url>
+</urlset>

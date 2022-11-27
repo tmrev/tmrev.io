@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450867-Bucharest - Vienna, 8:15</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450867-Bucharest - Vienna, 8:15</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/grfhv9bmtHS2mvzusGaTQpVogmC.jpg</image:loc
+      >
+      <image:caption
+        >Niki wants to leave his family and work illegally in Germany. The
+        voyage with his friend Cretu proves difficult.</image:caption
+      >
+      <image:title>Bucharest - Vienna, 8:15</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317954-City of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317954-City of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uu5dxoVi791363dRQeaPAqAyzrE.jpg</image:loc
+      >
+      <image:caption
+        >As the unabashed cradle of Hollywood superficiality and smoggy urban
+        sprawl, Los Angeles has long been condemned as a cultural wasteland. In
+        the richly penetrating documentary odyssey City of Gold, Pulitzer
+        Prize-winning food critic Jonathan Gold shows us another Los Angeles,
+        where ethnic cooking is a kaleidoscopic portal to the mysteries of an
+        unwieldy city and the soul of America.</image:caption
+      >
+      <image:title>City of Gold</image:title>
+    </image:image>
+  </url>
+</urlset>

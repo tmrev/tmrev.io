@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/501738-Charlatan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/501738-Charlatan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ferQ5Ko7z44C1FVHuvncSt9XrLg.jpg</image:loc
+      >
+      <image:caption
+        >Born in the early 20th century, herbalist Jan Mikolasek became rich and
+        famous after curing countless diseases with unorthodox means. A true
+        emblem of Czechoslovakia before World War II, the healer became even
+        more appreciated during the Nazi occupation and the communist regime.
+        Each regime appreciates his skill and protects him. But how much will it
+        cost him to maintain his status in a new political
+        change?</image:caption
+      >
+      <image:title>Charlatan</image:title>
+    </image:image>
+  </url>
+</urlset>

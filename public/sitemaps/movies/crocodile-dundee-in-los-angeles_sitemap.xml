@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9290-Crocodile Dundee in Los Angeles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9290-Crocodile Dundee in Los Angeles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hwt6iJjPuXRDKJON5s9G9pdfPbu.jpg</image:loc
+      >
+      <image:caption
+        >After settling in the tiny Australian town of Walkabout Creek with his
+        significant other and his young son, Mick "Crocodile" Dundee is thrown
+        for a loop when a prestigious Los Angeles newspaper offers his honey a
+        job. The family migrates back to the United States, and Croc and son
+        soon find themselves learning some lessons about American life -- many
+        of them inadvertent</image:caption
+      >
+      <image:title>Crocodile Dundee in Los Angeles</image:title>
+    </image:image>
+  </url>
+</urlset>

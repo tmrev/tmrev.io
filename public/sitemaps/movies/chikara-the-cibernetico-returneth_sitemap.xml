@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/798969-Chikara: The Cibernetico Returneth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/798969-Chikara: The Cibernetico Returneth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6XnbU0fF66jJ2bAXVH95TZcpnVI.jpg</image:loc
+      >
+      <image:caption
+        >In the longest Torneo Cibernetico match in CHIKARA history, Mike
+        Quackenbush leads a squad of eight men, including a returning Mister
+        ZERO against Chris Hero’s squad, consisting of the Kings of Wrestling
+        and the Dark Breed! Plus: Larry Sweeney tries to win back his ICW-ICWA
+        Tex-Arkana Television Championship!</image:caption
+      >
+      <image:title>Chikara: The Cibernetico Returneth</image:title>
+    </image:image>
+  </url>
+</urlset>

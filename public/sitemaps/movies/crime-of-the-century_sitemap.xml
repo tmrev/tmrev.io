@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198389-Crime of the Century</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198389-Crime of the Century</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mnfRkYErOIPQwpm2WT5Ac7U98dz.jpg</image:loc
+      >
+      <image:caption
+        >In 1932, the nation was shocked when the 14-month-old son of Charles
+        Lindberg was kidnapped, held for ransom, and murdered. Two years later,
+        Bruno Richard Hauptmann was arrested, convicted, and executed. This film
+        dramatizes the investigation against Hauptmann, the trial, and the
+        execution, painting a picture of a corrupt police force under pressure
+        to finger a killer framing an innocent man by manufacturing evidence,
+        paying-off and blackmailing witnesses, and covering up exculpatory
+        evidence.</image:caption
+      >
+      <image:title>Crime of the Century</image:title>
+    </image:image>
+  </url>
+</urlset>

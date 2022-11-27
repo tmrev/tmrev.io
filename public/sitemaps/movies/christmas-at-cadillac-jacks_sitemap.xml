@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478788-Christmas at Cadillac Jack's</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478788-Christmas at Cadillac Jack's</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/418QWtyW4xSpVcenHeETLuQb1xb.jpg</image:loc
+      >
+      <image:caption
+        >While stranded at a diner on Christmas Eve, Rose finds personal
+        redemption in protecting a young baby from an abusive father on her way
+        to reconciling with the child she had to give up for adoption in her
+        youth.</image:caption
+      >
+      <image:title>Christmas at Cadillac Jack's</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/250572-Break Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/250572-Break Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vJFAg3vc2s9aHV14CWirg3JNFOQ.jpg</image:loc
+      >
+      <image:caption
+        >Jimmy Price is a reckless man-child on the last leg of his career as a
+        doubles tennis player. When his latest partner drops him, he realizes
+        he's officially burned all of his bridges on the pro circuit. He decides
+        to make one last ditch effort to revive his career, reaching outside of
+        the tennis world and convincing his childhood partner -- his estranged
+        brother Darren, now an apathetic substitute teacher - to team up with
+        him. The mismatched pair, with the help of a unique 11-year-old named
+        Barry, make an unlikely run at a grand slam tournament and are forced to
+        re-discover their game, and their brotherhood.</image:caption
+      >
+      <image:title>Break Point</image:title>
+    </image:image>
+  </url>
+</urlset>

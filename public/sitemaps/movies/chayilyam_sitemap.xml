@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/379535-Chayilyam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/379535-Chayilyam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t8heYQNEc6zhCmw20rbyHsThjvD.jpg</image:loc
+      >
+      <image:caption
+        >Chayilyam is a Malayalam language film written and directed by Manoj
+        Kana. The story is about the plight of a hapless widow, who is denied
+        the freedom to lead a normal life by the society. The film was produced
+        with contributions from more than 2,000 individuals and released in
+        theatres in February 2014.</image:caption
+      >
+      <image:title>Chayilyam</image:title>
+    </image:image>
+  </url>
+</urlset>

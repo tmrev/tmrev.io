@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/378361-Borrowed Happiness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/378361-Borrowed Happiness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yYAVjXwKz7SR7RU6IAG7KXRnk4d.jpg</image:loc
+      >
+      <image:caption
+        >Borrowed Happiness follows a group of bar regulars, inside and out of
+        their favorite watering hole. Though the personalities and circumstances
+        of the men differ greatly from one another, similarities between them
+        exist, as habit leads them to continually seek out the almighty drink.
+        The story explores, often with humor, the possibility that the guys
+        might find the true happiness they seek, without having to settle for
+        drunken euphoria.</image:caption
+      >
+      <image:title>Borrowed Happiness</image:title>
+    </image:image>
+  </url>
+</urlset>

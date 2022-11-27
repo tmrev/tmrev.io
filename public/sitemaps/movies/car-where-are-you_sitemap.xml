@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31395-Car 54, Where Are You?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31395-Car 54, Where Are You?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1wD1ez4d3wSd79eTdFbH5nvc5p5.jpg</image:loc
+      >
+      <image:caption
+        >Brash NYC policeman Officer Gunther Toody is partnered with stiff,
+        by-the-book Officer Francis Muldoon to protect an important mafia
+        witness prior to testifying against orgainzed crime in Brooklyn, all the
+        while dealing with their personal lives, overbearing spouses, common
+        criminals, arms dealers, and their officious boss Captain
+        Anderson.</image:caption
+      >
+      <image:title>Car 54, Where Are You?</image:title>
+    </image:image>
+  </url>
+</urlset>

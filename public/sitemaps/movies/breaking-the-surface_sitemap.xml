@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65442-Breaking the Surface</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65442-Breaking the Surface</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPB609vfOSIn4bFceyErf03mUFK.jpg</image:loc
+      >
+      <image:caption
+        >Having just landed a gig with a trendy magazine, young photographer
+        Nadja celebrates at the local disco, where she bumps into Darius, a
+        20-year-old skateboarder. Although her frankness at first scares him,
+        the two quickly become a couple, and as their intoxicating affair takes
+        off, they seem like passionate soul mates. Soon, however, career demands
+        and emotional intensity gradually put a strain on their rapport, and
+        things turn even more complicated...</image:caption
+      >
+      <image:title>Breaking the Surface</image:title>
+    </image:image>
+  </url>
+</urlset>

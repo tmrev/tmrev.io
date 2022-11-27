@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/597693-Burning Ghost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/597693-Burning Ghost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4bqjQDHMqBDrQkW2ZE2xh6npGEP.jpg</image:loc
+      >
+      <image:caption
+        >Juste wanders the streets of Paris looking for people only he can see.
+        He collects their last memory before helping them into the afterlife.
+        One day Agathe, a young woman, recognizes him. She belongs to his
+        previous life. She is alive and he is a ghost. How will they manage to
+        love each other and seize this second chance?</image:caption
+      >
+      <image:title>Burning Ghost</image:title>
+    </image:image>
+  </url>
+</urlset>

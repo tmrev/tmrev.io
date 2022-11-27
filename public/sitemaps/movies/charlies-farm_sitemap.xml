@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304613-Charlie's Farm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304613-Charlie's Farm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kTYBbY9AvbpNdcKEBcK5OwEu72H.jpg</image:loc
+      >
+      <image:caption
+        >Four friends head into the Australian Outback to investigate an urban
+        legend about Charlie's Farm, where legend has it that an angry mob
+        killed a sadistic family, and encounter a demented giant with a big
+        thirst for revenge.</image:caption
+      >
+      <image:title>Charlie's Farm</image:title>
+    </image:image>
+  </url>
+</urlset>

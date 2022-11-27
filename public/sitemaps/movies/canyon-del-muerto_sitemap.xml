@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/774101-Canyon Del Muerto</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/774101-Canyon Del Muerto</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film, written and produced by Coerte Voorhees, portrays the life of
+        Ann Axtell Morris, one of the first female archaeologists. Axtell Morris
+        (1900-1945) accompanied her husband Earl on archaeological excavations,
+        including in Canyon de Chelly, Aztec Ruins and Mesa Verde, as well as
+        the Yucatan peninsula of Mexico. The film is an historical drama
+        shooting on location in New Mexico, Arizona, and the Yucatan in Fall
+        2020. Axtell Morris was married to Earl Halstead Morris - a primary
+        inspiration for Indiana Jones. She is sometimes credited as the
+        “co-discoverer” of the Anasazi or Ancestral Puebloan culture, although
+        Southwestern Natives might well dispute that terminology.</image:caption
+      >
+      <image:title>Canyon Del Muerto</image:title>
+    </image:image>
+  </url>
+</urlset>

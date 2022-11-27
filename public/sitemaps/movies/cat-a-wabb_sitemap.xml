@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/345547-Cat A Wabb</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/345547-Cat A Wabb</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ccSuwccluqjw4e7Sc4tUxSeIooj.jpg</image:loc
+      >
+      <image:caption
+        >An assistant commercial director gets a big break when he has a chance
+        to direct a commercial with a cat. But when a student trainee loses the
+        cat, everything falls apart very quickly.</image:caption
+      >
+      <image:title>Cat A Wabb</image:title>
+    </image:image>
+  </url>
+</urlset>

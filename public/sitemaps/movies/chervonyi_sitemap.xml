@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/421915-Chervonyi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/421915-Chervonyi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s7irWZIrfkU8nytS3mfsGn9ekXS.jpg</image:loc
+      >
+      <image:caption
+        >Year 1947. Commander of UPA Danylo Chervonyi gets into the terrible
+        slaughter of Stalin's camps, where he must go through hell and inhumane
+        prison conditions, prosecution of criminal leaders, meanness, betrayal
+        and despair. Danylo finds the strength to resist repression of the camp
+        commander and makes a desperate attempt to break free, raising the first
+        rebel in the camp.</image:caption
+      >
+      <image:title>Chervonyi</image:title>
+    </image:image>
+  </url>
+</urlset>

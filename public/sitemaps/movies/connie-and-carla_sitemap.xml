@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15673-Connie and Carla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15673-Connie and Carla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mR0K8S5s2c5uxpcevnVam17HFrh.jpg</image:loc
+      >
+      <image:caption
+        >After accidentally witnessing a mafia hit in the Windy City, gal pals
+        Connie and Carla skip town for L.A., where they go way undercover as
+        singers working the city's dinner theater circuit ... as drag queens.
+        Now, it's not enough that they become big hits on the scene; things get
+        extra-weird when Connie meets Jeff -- a guy she'd like to be a woman
+        with</image:caption
+      >
+      <image:title>Connie and Carla</image:title>
+    </image:image>
+  </url>
+</urlset>

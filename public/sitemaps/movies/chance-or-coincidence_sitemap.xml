@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76394-Chance or Coincidence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76394-Chance or Coincidence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3g3y0DuCqPhWsMjExdyZBebOOU7.jpg</image:loc
+      >
+      <image:caption
+        >Once a successful dancer, Miriam has abandoned her career to bring up
+        her son, Serge, after her boyfriend walked out of her.</image:caption
+      >
+      <image:title>Chance or Coincidence</image:title>
+    </image:image>
+  </url>
+</urlset>

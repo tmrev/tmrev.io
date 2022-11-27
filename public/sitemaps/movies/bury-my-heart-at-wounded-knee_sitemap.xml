@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13470-Bury My Heart at Wounded Knee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13470-Bury My Heart at Wounded Knee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w8FeAVNxe17rQUqaBhKy5F0wpBf.jpg</image:loc
+      >
+      <image:caption
+        >Beginning just after the bloody Sioux victory over General Custer at
+        Little Big Horn, the story is told through two unique perspectives:
+        Charles Eastman, a young, white-educated Sioux doctor held up as living
+        proof of the alleged success of assimilation, and Sitting Bull the proud
+        Lakota chief whose tribe won the American Indians’ last major victory at
+        Little Big Horn.</image:caption
+      >
+      <image:title>Bury My Heart at Wounded Knee</image:title>
+    </image:image>
+  </url>
+</urlset>

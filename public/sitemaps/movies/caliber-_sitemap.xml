@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/660598-Caliber 9</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/660598-Caliber 9</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/75WLuYJnF7mXQnv6AEBK7i8ceBl.jpg</image:loc
+      >
+      <image:caption
+        >Milan, Nowadays: Fernando, son of Ugo Piazza, is a brilliant criminal
+        defense lawyer whose mother, Nelly, has done everything in her power to
+        raise him different from his father, a deplorable
+        gangster.</image:caption
+      >
+      <image:title>Caliber 9</image:title>
+    </image:image>
+  </url>
+</urlset>

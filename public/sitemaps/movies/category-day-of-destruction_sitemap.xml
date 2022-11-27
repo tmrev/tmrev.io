@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32128-Category 6: Day of Destruction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32128-Category 6: Day of Destruction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vTV6y6DrdSo9nhAAZcJpEqqyFTH.jpg</image:loc
+      >
+      <image:caption
+        >Three tornadoes converge to wreak havoc on Chicago, disrupting the
+        power grid and creating the worst super-storm in history: a category 6
+        twister.</image:caption
+      >
+      <image:title>Category 6: Day of Destruction</image:title>
+    </image:image>
+  </url>
+</urlset>

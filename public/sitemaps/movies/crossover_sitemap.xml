@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/882461-Crossover</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/882461-Crossover</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xRDbl3PyX7mORZuPisyodqg7uLS.jpg</image:loc
+      >
+      <image:caption
+        >Fragments of vinyl records, microgrooves, cinematographic wefts which,
+        through editing and sampling, tend to reject any storytelling, to become
+        exclusively language of avoidance and reappropriation.</image:caption
+      >
+      <image:title>Crossover</image:title>
+    </image:image>
+  </url>
+</urlset>

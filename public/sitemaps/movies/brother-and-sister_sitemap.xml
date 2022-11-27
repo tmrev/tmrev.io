@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/836202-Brother and Sister</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/836202-Brother and Sister</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uKD8FK85gBcRyqclrsDs4oUfLHt.jpg</image:loc
+      >
+      <image:caption
+        >Alice and Louis are brother and sister. She is an actress; he was a
+        teacher and poet. For more than 20 years, Alice has hated her brother.
+        In all this time they haven’t seen one another. The death of their
+        parents brings the siblings face to face.</image:caption
+      >
+      <image:title>Brother and Sister</image:title>
+    </image:image>
+  </url>
+</urlset>

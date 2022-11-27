@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381399-Class Divide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381399-Class Divide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Z8Bzm1Bdvq4Q0xndHrGPHiUAe4.jpg</image:loc
+      >
+      <image:caption
+        >A look at NYC’s gentrification and growing inequality in a microcosm,
+        Class Divide explores two distinct worlds that share the same Chelsea
+        intersection – 10th Avenue and 26th Street. On one side of the avenue,
+        the Chelsea-Elliot Houses have provided low-income public housing to
+        residents for decades. Their neighbor across the avenue since 2012 is
+        Avenues: The World School, a costly private school. What happens when
+        kids from both of these worlds attempt to cross the
+        divide?</image:caption
+      >
+      <image:title>Class Divide</image:title>
+    </image:image>
+  </url>
+</urlset>

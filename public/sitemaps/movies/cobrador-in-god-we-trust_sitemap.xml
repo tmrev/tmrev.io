@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41727-Cobrador: In God We Trust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41727-Cobrador: In God We Trust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/71ZHE0HEPVWi0tEXHPZo5C4F0b4.jpg</image:loc
+      >
+      <image:caption
+        >Adaptation and unification in a single story of several stories by the
+        writer Rubem Fonseca, where the theme of violence in contemporary
+        society is explored.</image:caption
+      >
+      <image:title>Cobrador: In God We Trust</image:title>
+    </image:image>
+  </url>
+</urlset>

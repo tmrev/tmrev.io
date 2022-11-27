@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297239-Boy 7</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297239-Boy 7</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tOmYnPiCsmEWn8pmLQ523Nt5wGd.jpg</image:loc
+      >
+      <image:caption
+        >When Sam regains consciousness in the middle of a crowded subway, he
+        doesn't know how he got there, where he came from nor his own name. He
+        franticly searches for his identity, using the contents of his backpack.
+        Slowly but surely he realizes his life is in great
+        danger.</image:caption
+      >
+      <image:title>Boy 7</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/684869-Burning Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/684869-Burning Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b9D1WtgNk2ULjd2eI0uq4eLynpd.jpg</image:loc
+      >
+      <image:caption
+        >When a video game designer stumbles into a blackmail conspiracy, he
+        clashes with contract killers, Russian mobsters, and compromised cops in
+        a wild journey through the bizarro world of Los Angeles. Uniquely told
+        through a first-person point of view, Burning Dog is a relentless
+        suspense thriller that keeps you guessing until the very
+        end.</image:caption
+      >
+      <image:title>Burning Dog</image:title>
+    </image:image>
+  </url>
+</urlset>

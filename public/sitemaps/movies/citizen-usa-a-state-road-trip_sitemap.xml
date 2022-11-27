@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82325-Citizen USA: A 50 State Road Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82325-Citizen USA: A 50 State Road Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Alexandra Pelosi's patriotic travelogue crisscrosses the U.S. to attend
+        naturalization ceremonies in all 50 states and listens to recent
+        immigrants from around the world explain their decision to become
+        American citizens. The film is inspired by the naturalization process
+        experienced by Pelosi's Dutch-born husband, Michiel Vos.</image:caption
+      >
+      <image:title>Citizen USA: A 50 State Road Trip</image:title>
+    </image:image>
+  </url>
+</urlset>

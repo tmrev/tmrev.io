@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/350175-COMIX: Beyond the Comic Book Pages</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/350175-COMIX: Beyond the Comic Book Pages</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vDK3ueNMtTzTlldp9NrUrHzi52Y.jpg</image:loc
+      >
+      <image:caption
+        >COMIX is a feature documentary on comic books, the comic book world,
+        and the phenomenon surrounding them. It is told through the thoughts and
+        images of some of the greatest talent in the comic book industry like
+        Stan Lee, Frank Miller, Neal Adams, Mark Waid, Marc Silvestri, and John
+        Romita Jr., among many others. COMIX also has tons of interviews with
+        the fans, many in full costumes, as they share their love for the art
+        form, and who have made comics the phenomenon that it is
+        today.</image:caption
+      >
+      <image:title>COMIX: Beyond the Comic Book Pages</image:title>
+    </image:image>
+  </url>
+</urlset>

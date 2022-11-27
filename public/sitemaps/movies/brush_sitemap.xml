@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/818334-Brush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/818334-Brush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8GWtgPO4GDo5HeuwNtZH45WME8x.jpg</image:loc
+      >
+      <image:caption
+        >The story tells the dream work of an old painter. When the inspiration
+        dries up, the protagonist attempts to commit suicide, enters the space
+        in the picture in the hallucinations, realizes the inspiration of
+        creation, and leaves the masterpiece-running horse, carrying the last
+        life of the old painter, galloping away.</image:caption
+      >
+      <image:title>Brush</image:title>
+    </image:image>
+  </url>
+</urlset>

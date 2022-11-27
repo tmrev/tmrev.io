@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56774-Chutney Popcorn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56774-Chutney Popcorn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pJ3pnvwUar9nrkMDzD0OtEDpFuA.jpg</image:loc
+      >
+      <image:caption
+        >Reena is a young Indian American lesbian who lives and works in New
+        York. Her sister Sarita, who is happily married, discovers that she is
+        infertile. Reena offers to be a surrogate mother for her sister's baby,
+        hoping to improve her relationship with their mother, who disapproves of
+        Reena's sexual orientation. Reena has second thoughts when her
+        girlfriend Lisa feels left out.</image:caption
+      >
+      <image:title>Chutney Popcorn</image:title>
+    </image:image>
+  </url>
+</urlset>

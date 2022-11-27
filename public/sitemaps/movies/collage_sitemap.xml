@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/705646-Collage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/705646-Collage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/As3A2ZmLiYI3VB2bLflDx8K3n51.jpg</image:loc
+      >
+      <image:caption
+        >Sarah, a teenage school girl, faces few challenges with her sexual
+        identity. She cannot express her feelings to her mother. She decided to
+        leave home with her partner, Franak, with no coming back.</image:caption
+      >
+      <image:title>Collage</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574283-Close Calls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574283-Close Calls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6YrkkqiqyUX5TEozTPLKyhkkY5X.jpg</image:loc
+      >
+      <image:caption
+        >Morgan, a troubled, drug-addled teen, must deal with her crazy grandma
+        and a psycho caller when her father leaves her home alone. As the calls
+        keep coming in, a paranoid Morgan is forced to face some of her worst
+        fears and inner demons when she believes everyone she knows is either
+        plotting against her - or trying to kill her.</image:caption
+      >
+      <image:title>Close Calls</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20362-Cry of the City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20362-Cry of the City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cm3VlM8xw0LPDiZsNBHrfEQLiEW.jpg</image:loc
+      >
+      <image:caption
+        >Petty crook and cop-killer Martin Rome, in bad shape from wounds in the
+        hospital prison ward, still refuses to help slimy lawyer Niles clear his
+        client by confessing to another crime. Police Lt. Candella must check
+        Niles' allegation; a friend of the Rome family, he walks a tightrope
+        between sentiment and cynicism. When Martin fears Candella will
+        implicate his girlfriend Teena, he'll do anything to protect her. How
+        many others will he drag down to disaster with him?</image:caption
+      >
+      <image:title>Cry of the City</image:title>
+    </image:image>
+  </url>
+</urlset>

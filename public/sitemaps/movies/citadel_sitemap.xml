@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/185791-Citadel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/185791-Citadel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iUfQoOAhrzU3IotVonQb1TQbvTC.jpg</image:loc
+      >
+      <image:caption
+        >In the San Pedro male prison of La Paz, Bolivia, 1500 prisoners coexist
+        in a space originally designed for only 300 nuns. Inside, it is like a
+        small city, with businesses and services abound. The prisoners make
+        their living inside the enclosure as they would outside. There is a
+        strong self-organization that plans every-body's lives. As if it weren't
+        enough, there are hundreds of women, wives of the inmates, and almost
+        300 children, who chose to share their captivity. They are non-convicted
+        beings that accepted living behind bars with the only purpose of
+        preserving a united family. The documentary shows the life of a family
+        inside the jail of La Paz.</image:caption
+      >
+      <image:title>Citadel</image:title>
+    </image:image>
+  </url>
+</urlset>

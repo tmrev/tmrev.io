@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/448820-Cloudboy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/448820-Cloudboy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4XqG7cTwRGkvNlMJcrFhIEELOBC.jpg</image:loc
+      >
+      <image:caption
+        >Cityboy Niilas (12) is sent to his mother in Lapland. The only one
+        succeeding in making contact with him is his new sister Suna (11). She
+        takes him on a journey in the magical woods where shy Niilas turns into
+        a wild cloudboy.</image:caption
+      >
+      <image:title>Cloudboy</image:title>
+    </image:image>
+  </url>
+</urlset>

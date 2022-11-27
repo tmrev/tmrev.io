@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/465545-Crystal Inferno</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/465545-Crystal Inferno</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A3laQfentQdbloFeGCPeCGZrzrQ.jpg</image:loc
+      >
+      <image:caption
+        >Disaster hits when two teenagers are caught in a fire on the 20th floor
+        of a skyscraper. Their parents are on the 60th. Will they survive the
+        flames?</image:caption
+      >
+      <image:title>Crystal Inferno</image:title>
+    </image:image>
+  </url>
+</urlset>

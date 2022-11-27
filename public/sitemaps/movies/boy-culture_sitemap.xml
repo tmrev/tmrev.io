@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15728-Boy Culture</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15728-Boy Culture</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ogjLrPti0rdMPFfMKbB7MEnNf6B.jpg</image:loc
+      >
+      <image:caption
+        >A successful gay male escort describes in a series of confessions his
+        tangled romantic relationships with his two roommates and an older,
+        enigmatic male client.</image:caption
+      >
+      <image:title>Boy Culture</image:title>
+    </image:image>
+  </url>
+</urlset>

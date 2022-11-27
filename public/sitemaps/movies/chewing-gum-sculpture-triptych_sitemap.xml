@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/735515-Chewing Gum Sculpture - Triptych</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/735515-Chewing Gum Sculpture - Triptych</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Radim Labuda’s early works are characterized by a process of
+        observation focusing on surrounding world or due to its performative
+        overlap also to the artist himself. Camera means for Labuda a means of
+        exploring the surrounding world or even own introspection. Three videos
+        of performative sculpture events consisting in modelling a chewing gum
+        in a mouth were recorded by Labuda during his art fellowship in San
+        Francisco in 2004.</image:caption
+      >
+      <image:title>Chewing Gum Sculpture - Triptych</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/882336-Close to Kiarostami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/882336-Close to Kiarostami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sJDh5H5q4xSodAsNeE9CffS3032.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that focuses on Abbas Kiarostami's cinematic philosophy
+        talking to himself and other figures, and also seeks the opinion about
+        his works both inside and outside his homeland.</image:caption
+      >
+      <image:title>Close to Kiarostami</image:title>
+    </image:image>
+  </url>
+</urlset>

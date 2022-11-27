@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140172-Cool Air</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140172-Cool Air</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rtnli56H9xKUwtETeHxjUuuYaRU.jpg</image:loc
+      >
+      <image:caption
+        >Charlie Baxter, a struggling screenwriter, is searching for
+        accommodation in a rundown mansion somewhere in the isolated mountains
+        above Malibu. An expressionless and creatively bankrupt young man who
+        rewrites exploitation sci-fi / horror scripts for a living, he takes a
+        room in the mansion and learns of the mysterious doctor residing in the
+        room above his own who dabbles in strange experiments. As he learns more
+        about the circumstances of the doctor and the history of his landlady,
+        her autistic daughter and the strange lodger across the hall, Baxter is
+        inspired to write his long blocked "great American Screenplay". Working
+        furiously, Baxter suffers a heart attack, and staggers up to see the
+        doctor for treatment. He passes out immediately, but awakens a cured
+        man. But at a terrible price.</image:caption
+      >
+      <image:title>Cool Air</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11779-Buena Vista Social Club</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11779-Buena Vista Social Club</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xMEebcZYw8TZl7HZFQQs1EirC7G.jpg</image:loc
+      >
+      <image:caption
+        >In this fascinating Oscar-nominated documentary, American guitarist Ry
+        Cooder brings together a group of legendary Cuban folk musicians (some
+        in their 90s) to record a Grammy-winning CD in their native city of
+        Havana. The result is a spectacular compilation of concert footage from
+        the group's gigs in Amsterdam and New York City's famed Carnegie Hall,
+        with director Wim Wenders capturing not only the music -- but also the
+        musicians' life stories.</image:caption
+      >
+      <image:title>Buena Vista Social Club</image:title>
+    </image:image>
+  </url>
+</urlset>

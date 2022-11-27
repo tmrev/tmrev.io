@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/537030-Bullet Explosion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/537030-Bullet Explosion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wOv16QtNf3QEyNLwP4aG68adPrn.jpg</image:loc
+      >
+      <image:caption
+        >When a lowly thug gets brought into a powerful Yakuza gang by his
+        successful younger brother, he is tasked to take the hit on a rival gang
+        leader.</image:caption
+      >
+      <image:title>Bullet Explosion</image:title>
+    </image:image>
+  </url>
+</urlset>

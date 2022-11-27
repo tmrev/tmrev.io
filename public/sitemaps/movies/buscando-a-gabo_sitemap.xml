@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/937160-Buscando a Gabo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/937160-Buscando a Gabo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/12BJQNNGNPLKO9NDmWYA2OwMaLZ.jpg</image:loc
+      >
+      <image:caption
+        >Documentary that tells the most human side of Gabriel García Márquez
+        through the testimonies of family members, fellow journalists and
+        writers. 'Buscando a Gabo' pursues the human Gabo, the one that can be
+        revealed by the friends who were with him throughout his life, the one
+        that has been lost in the biographical data.</image:caption
+      >
+      <image:title>Buscando a Gabo</image:title>
+    </image:image>
+  </url>
+</urlset>

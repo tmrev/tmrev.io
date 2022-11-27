@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27004-Ca$h</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27004-Ca$h</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nEeeKsfN1hr98aCmL16LVOckawC.jpg</image:loc
+      >
+      <image:caption
+        >A stroke of good luck turns lethal for Sam Phelan and his wife Leslie
+        when they are faced with a life-changing decision that brings strange
+        and sinister Pyke Kubic to their doorstep. As Pyke leads Sam and Leslie
+        on a tumultuous adventure through the streets of Chicago, each are
+        pulled deeper and deeper into a desperate spiral of deception and
+        violence – all in the name of money.</image:caption
+      >
+      <image:title>Ca$h</image:title>
+    </image:image>
+  </url>
+</urlset>

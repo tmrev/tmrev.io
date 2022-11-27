@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1039433-Cold Lunch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1039433-Cold Lunch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uB3XaZsQ3EThB4eCfHSEm7qPaHz.jpg</image:loc
+      >
+      <image:caption
+        >Nari is a Korean-American girl who wants to enjoy her lunch just like
+        her friends, but her noodles are far from being American. Her noodles
+        take the form of a dragon and that seeks her attention. Afraid of
+        judgment from her peers, she tries her best to contain the noodle
+        dragon.</image:caption
+      >
+      <image:title>Cold Lunch</image:title>
+    </image:image>
+  </url>
+</urlset>

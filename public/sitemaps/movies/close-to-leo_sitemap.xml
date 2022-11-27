@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27093-Close to Leo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27093-Close to Leo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/82YHb4T9B4NyzNmdcj2GbYDrp7b.jpg</image:loc
+      >
+      <image:caption
+        >When 21 year-old Leo, the oldest of four brothers, announces to his
+        rural French family that he's HIV positive, his family quickly rallies
+        around him. Leo travels to Paris with his youngst brother Marcel for
+        treatment. When Leo tries to push his brother away to protect him, the
+        love and loyalty of the two brothers is tested.</image:caption
+      >
+      <image:title>Close to Leo</image:title>
+    </image:image>
+  </url>
+</urlset>

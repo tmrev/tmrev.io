@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/916740-Brazen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/916740-Brazen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg</image:loc
+      >
+      <image:caption
+        >Mystery writer Grace Miller has killer instincts when it comes to
+        motive - and she'll need every bit of expertise to help solve her
+        sister's murder.</image:caption
+      >
+      <image:title>Brazen</image:title>
+    </image:image>
+  </url>
+</urlset>

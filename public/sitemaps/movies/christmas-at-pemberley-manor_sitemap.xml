@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/549301-Christmas at Pemberley Manor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/549301-Christmas at Pemberley Manor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a9Dja61XK00gxXdl5pwFZUO0cYY.jpg</image:loc
+      >
+      <image:caption
+        >As Christmas approaches, Elizabeth Bennett, a New York event planner is
+        sent to a quaint, small town to organize a holiday festival. When she
+        arrives, she finds William Darcy, a high-profile billionaire lacking in
+        holiday spirit, in the process of selling the charming estate she hoped
+        to use as a venue. Elizabeth persuades the reluctant Darcy to let her
+        hold the festival on the historical estate and, before long, the
+        unlikely pair begins falling for each other.</image:caption
+      >
+      <image:title>Christmas at Pemberley Manor</image:title>
+    </image:image>
+  </url>
+</urlset>

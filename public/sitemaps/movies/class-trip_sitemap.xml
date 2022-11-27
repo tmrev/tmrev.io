@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268858-Class Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268858-Class Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nBrSHd8TIC7tPHq9mHLiZ7UuS01.jpg</image:loc
+      >
+      <image:caption
+        >Sometimes you can live your whole life in a few days... A high school
+        graduation trip in which love, friendship, desire, illusion, innocence
+        and the forbidden are all part of the adventure. Charm and
+        disillusionment shine through teenage friendships as the characters try
+        to understand what is happening to them and what they should do with
+        their future.</image:caption
+      >
+      <image:title>Class Trip</image:title>
+    </image:image>
+  </url>
+</urlset>

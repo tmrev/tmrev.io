@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/208625-Celluloid Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/208625-Celluloid Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sIFXG2ML4V4dbxaxd1zuDWybMO0.jpg</image:loc
+      >
+      <image:caption
+        >Indian documentary about Indian film history and P. K. Nair, the
+        founder of the National Film Archive of India and guardian of Indian
+        cinema. He built the archive can by can in a country where the archiving
+        of cinema was considered unimportant.</image:caption
+      >
+      <image:title>Celluloid Man</image:title>
+    </image:image>
+  </url>
+</urlset>

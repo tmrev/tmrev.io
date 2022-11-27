@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12912-Chaos Theory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12912-Chaos Theory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iP4DJqTeMMQJ3J0eyt2RjRH6NZH.jpg</image:loc
+      >
+      <image:caption
+        >Frank Allen, a professional speaker who lectures on time management has
+        a perfectly ordered and scheduled life, down to the minute. When his
+        wife sets his clock forward 10 minutes as a joke, his day is thrown off.
+        Deciding that his strictly ordered life has done him little good, he
+        begins to make multiple choice index cards, choosing one at random and
+        doing what is written on the card.</image:caption
+      >
+      <image:title>Chaos Theory</image:title>
+    </image:image>
+  </url>
+</urlset>

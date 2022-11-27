@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199741-Chasing Cain II: Face</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199741-Chasing Cain II: Face</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Two homicide detectives investigate the murder of a popular Jamaican
+        woman, who seems to have lived in two separate worlds. Although there
+        are no witnesses, no clues and police resources are going towards
+        another higher-profile murder, the detectives doggedly track down people
+        who knew the victim until they finally break the case. This edgy and
+        intense film shows how homicide detectives go about their work in an
+        ethnically diverse, multicultural city.</image:caption
+      >
+      <image:title>Chasing Cain II: Face</image:title>
+    </image:image>
+  </url>
+</urlset>

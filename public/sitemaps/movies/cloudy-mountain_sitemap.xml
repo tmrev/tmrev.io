@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/862855-Cloudy Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/862855-Cloudy Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tmw47lSildm6BKRdzCyjibM8Tud.jpg</image:loc
+      >
+      <image:caption
+        >The opening of the new tunnel, which took ten years to build, coincided
+        with a series of serious cataclysms. The lives of 160,000 people depend
+        on the actions of two people, a father and a son.</image:caption
+      >
+      <image:title>Cloudy Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

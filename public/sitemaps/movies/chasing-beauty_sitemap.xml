@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/224992-Chasing Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/224992-Chasing Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oezjAk3IFTrlTjFAoF3O3RokW1c.jpg</image:loc
+      >
+      <image:caption
+        >CHASING BEAUTY provides a rare glimpse into the intriguing and complex
+        world of modeling. Behind the glossy covers of Vogue and Glamour lie the
+        rarely talked about, uncensored stories of what models endure and
+        sacrifice to become a top model. CHASING BEAUTY examines body image and
+        the psychological effects of the beauty business on young women and
+        men.</image:caption
+      >
+      <image:title>Chasing Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

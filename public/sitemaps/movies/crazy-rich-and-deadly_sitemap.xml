@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784997-Crazy, Rich and Deadly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784997-Crazy, Rich and Deadly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9AwVhED9Rdrrke6uk1hxovlg4kE.jpg</image:loc
+      >
+      <image:caption
+        >When Brandi arrives at her boyfriend Aaron’s family estate, she is
+        surprised to discover that his father is one of the richest men in the
+        country. But as Brandi falls deeper in love, she begins to suspect that
+        Aaron’s family harbors a deadly secret.</image:caption
+      >
+      <image:title>Crazy, Rich and Deadly</image:title>
+    </image:image>
+  </url>
+</urlset>

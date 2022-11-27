@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/681877-Chunky Shrapnel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/681877-Chunky Shrapnel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wCdsAkuEC9TOBu1Q050854Jykil.jpg</image:loc
+      >
+      <image:caption
+        >CHUNKY SHRAPNEL is a feature length live music Documentary from King
+        Gizzard & the Lizard Wizard. Literally bringing the audience onto the
+        stages of their 2019 tour across Europe & the UK, Chunky offers a
+        uniquely immersive experience never before captured on film. A musical
+        road movie dipped in turpentine.</image:caption
+      >
+      <image:title>Chunky Shrapnel</image:title>
+    </image:image>
+  </url>
+</urlset>

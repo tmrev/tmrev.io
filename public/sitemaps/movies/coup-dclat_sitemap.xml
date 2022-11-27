@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73568-Coup d'éclat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73568-Coup d'éclat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/79LtH49CG9TPYfReCZnQFRQSEGI.jpg</image:loc
+      >
+      <image:caption
+        >Fabienne is a police officer. She does her job well but is gradually
+        growing tired of the dehumanized nature of her work : arresting
+        undocumented aliens day after day does not fit in with her ideals.
+        That's why when, one night, Olga, the Kazakh prostitute she apprehends,
+        begs her to free her not to leave her four-year-old son alone, she
+        hesitates... And why, after Olga has run away and is found dead,
+        Fabienne decides to deal with this matter personally...</image:caption
+      >
+      <image:title>Coup d'éclat</image:title>
+    </image:image>
+  </url>
+</urlset>

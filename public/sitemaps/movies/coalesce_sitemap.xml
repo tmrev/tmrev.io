@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/718102-Coalesce</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/718102-Coalesce</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cwcNNWKXuCp11yauREWk31jWe83.jpg</image:loc
+      >
+      <image:caption
+        >Songsa is 15 years old when his family decides to send him to Phnom
+        Penh to sell clothes in a tuk tuk. Phearum borrowed money to buy a taxi
+        in order to support his family. Thy, 20, has a dream: buying a big
+        motorbike. When their paths cross, a new road merges.</image:caption
+      >
+      <image:title>Coalesce</image:title>
+    </image:image>
+  </url>
+</urlset>

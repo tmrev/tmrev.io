@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/432278-Crying Out In Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/432278-Crying Out In Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yFc3EXeI5651Nmv8d5zqz7Bi0x9.jpg</image:loc
+      >
+      <image:caption
+        >Chinese romance film directed and co-written by Kwak Jae-yong, starring
+        Oho Ou, Zhang Huiwen, Yang Zi, Wang Zhi, and Yao Lu. The film is an
+        adaptation of Kyoichi Katayama's 2004 novel Socrates in Love. Crying Out
+        In Love was released by Beijing Enlight Pictures on 26 August
+        2016</image:caption
+      >
+      <image:title>Crying Out In Love</image:title>
+    </image:image>
+  </url>
+</urlset>

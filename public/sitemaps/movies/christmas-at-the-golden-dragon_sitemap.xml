@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028186-Christmas at the Golden Dragon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028186-Christmas at the Golden Dragon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yOARNu1KqgU6CathaT4PK1qYWGX.jpg</image:loc
+      >
+      <image:caption
+        >When Romy and Rick’s parents surprise them with the news that they will
+        be closing the Chinese restaurant they have owned and operated for
+        decades, the siblings each find themselves reevaluating their futures.
+        Also impacted by the news are the landmark restaurant’s loyal patrons
+        and staff, who have all come to depend on the restaurant over the
+        holidays.</image:caption
+      >
+      <image:title>Christmas at the Golden Dragon</image:title>
+    </image:image>
+  </url>
+</urlset>

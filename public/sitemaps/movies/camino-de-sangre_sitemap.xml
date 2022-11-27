@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/697909-Camino de sangre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/697909-Camino de sangre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Pancho and José Santos, bandits from Teno, known by their fondness of
+        tearing their enemies' faces, meet after four years for another robbery.
+        After re-telling their adventures, they cross paths with Saturnino who
+        has old accounts to settle with them.</image:caption
+      >
+      <image:title>Camino de sangre</image:title>
+    </image:image>
+  </url>
+</urlset>

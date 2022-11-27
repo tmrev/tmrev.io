@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73092-Closer to Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73092-Closer to Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l53X0ar16mInf7TaT2HVAu052al.jpg</image:loc
+      >
+      <image:caption
+        >A funeral director meets a man who has been battling Lou Gehrig's
+        disease since he was young. The two fall in love and hope for a cure
+        that can keep him alive.</image:caption
+      >
+      <image:title>Closer to Heaven</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26871-Carpool Guy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26871-Carpool Guy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y4o9iHtrpUQ4pmlE1DuB6ERs1qI.jpg</image:loc
+      >
+      <image:caption
+        >Joel Goodman is a hotshot advertising executive angling for a
+        promotion, but he feels stuck - not least of all in traffic. A seeming
+        answer to his prayers comes in the form of a homeless man whom Joel pays
+        to sit in his passenger seat so he can use the carpool lane. The two
+        form an unexpected bond, and Joel comes to realize that sometimes
+        changing lanes can change your life.</image:caption
+      >
+      <image:title>Carpool Guy</image:title>
+    </image:image>
+  </url>
+</urlset>

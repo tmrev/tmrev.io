@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/511308-Cultivating Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/511308-Cultivating Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j9q0grTzToz7gKxCTUBcraDJSB1.jpg</image:loc
+      >
+      <image:caption
+        >Cultivating Murder is a portrait of a devastated family, a murderer and
+        a divided rural community on the front lines of the battle over global
+        warming and land clearing.</image:caption
+      >
+      <image:title>Cultivating Murder</image:title>
+    </image:image>
+  </url>
+</urlset>

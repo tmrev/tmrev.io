@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300605-City of God: 10 Years Later</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300605-City of God: 10 Years Later</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dz3ynaQbL0etAuAv119jH8DfoEJ.jpg</image:loc
+      >
+      <image:caption
+        >City of God – 10 Years Later investigates what happened to the actors
+        who took part in the award-winning film directed by Fernando Meirelles
+        and Katia Lund. This documentary shows what City of God’s worldwide
+        success meant to their lives. Were the actors prepared for the film’s
+        success? Did the social background of some of them prove stronger than
+        the opportunity that came their way?</image:caption
+      >
+      <image:title>City of God: 10 Years Later</image:title>
+    </image:image>
+  </url>
+</urlset>

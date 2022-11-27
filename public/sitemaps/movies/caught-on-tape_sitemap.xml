@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171485-Caught on Tape</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171485-Caught on Tape</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mYFSre7RF2vsiVygmPYGJgAsiFT.jpg</image:loc
+      >
+      <image:caption
+        >A young boy uses his video camera that he got for his birthday to spy
+        on his mother's boyfriend, who's plotting a crime. Mix in a nosy
+        neighbor, jealous fiancé, shady maintenance man, a UPS driver with a
+        heist gone horribly wrong and you're bound to have some
+        drama.</image:caption
+      >
+      <image:title>Caught on Tape</image:title>
+    </image:image>
+  </url>
+</urlset>

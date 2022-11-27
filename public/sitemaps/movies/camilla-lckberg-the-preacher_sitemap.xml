@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20080-Camilla Läckberg: The Preacher</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20080-Camilla Läckberg: The Preacher</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kuL64Gfdi3Lv9JNVC3CA7JAZbkf.jpg</image:loc
+      >
+      <image:caption
+        >A boy finds a dead woman. When police move the corpse they find the
+        skeletons of two women who disappeared in the seventies.</image:caption
+      >
+      <image:title>Camilla Läckberg: The Preacher</image:title>
+    </image:image>
+  </url>
+</urlset>

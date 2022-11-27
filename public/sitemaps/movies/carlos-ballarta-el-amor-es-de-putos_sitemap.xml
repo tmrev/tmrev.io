@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/427298-Carlos Ballarta: el amor es de putos</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/427298-Carlos Ballarta: el amor es de putos</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9EneX9RhdoHrgtDKINNbeuOusS3.jpg</image:loc
+      >
+      <image:caption
+        >Carlos Ballarta mocks daily life in Mexico, including public transit,
+        the education system and the corn seller who betrays your
+        confidence</image:caption
+      >
+      <image:title>Carlos Ballarta: el amor es de putos</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189361-Cold Winter Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189361-Cold Winter Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gdBgV3hl8yTaiv23QZELwQ9wILT.jpg</image:loc
+      >
+      <image:caption
+        >Rich kid Adrian is released form the psychiatric institution where he
+        has lived since he was a child and goes to live in the house he's been
+        given by his father, who he's not seen for years. On the other opposite
+        end of the city, sleepy-eyed Gonzalo, the son of aging hooker Raquel,
+        finds himself desperately short on cash. Attempting to burgle Adrian's
+        house, Gonzalo is caught red-handed by Adrian who promises not to tell
+        the cops if Gonzalo will acquire a pistol for him. Their meeting is the
+        start of something that neither of them could have ever
+        imagined.</image:caption
+      >
+      <image:title>Cold Winter Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

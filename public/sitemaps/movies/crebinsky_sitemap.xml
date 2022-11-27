@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82451-Crebinsky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82451-Crebinsky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yTa5JlUHw0DiPxGnbP1PCckilrH.jpg</image:loc
+      >
+      <image:caption
+        >Torrential rains cause the swollen river, whose waters inundate a
+        village. The current drags the cow Crebinsky and his brothers, who
+        miraculously reappear alive in a place on the coast. Installed there at
+        the foot of a lighthouse, which brings survive by sea. Isolated military
+        conflicts, the brothers created their own world: a particular universe
+        made of realism and fantasy.</image:caption
+      >
+      <image:title>Crebinsky</image:title>
+    </image:image>
+  </url>
+</urlset>

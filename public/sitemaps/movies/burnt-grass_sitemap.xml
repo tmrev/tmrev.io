@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/292874-Burnt Grass</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/292874-Burnt Grass</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jvYcHe5OU20xnTsMUnrW9JNIpz3.jpg</image:loc
+      >
+      <image:caption
+        >When a couple discovers a strange phenomenon in their backyard that
+        duplicates organic life, their relationship takes unexpected turns after
+        one of them makes a copy of themselves.</image:caption
+      >
+      <image:title>Burnt Grass</image:title>
+    </image:image>
+  </url>
+</urlset>

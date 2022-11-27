@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571329-Chung To: Close Up & Personal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571329-Chung To: Close Up & Personal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A Chinese-American philanthropist speaks frankly about his status as a
+        gay man, his experience with AIDS while growing up in the U.S., and what
+        led him to give up a lucrative career in investment banking to work with
+        gay men in China and others at risk of AIDS.</image:caption
+      >
+      <image:title>Chung To: Close Up & Personal</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/411012-Chasing Trane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/411012-Chasing Trane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pb09v5koCU7GrxCJNfRnliPRIKD.jpg</image:loc
+      >
+      <image:caption
+        >An account of the life of the brilliant jazz musician John Coltrane
+        (1926-67), a gifted saxophonist, an extraordinarily talented thinker
+        whose original, avant-garde work has impacted and influenced people all
+        over the world. A story about music's ability to entertain, inspire and
+        transform.</image:caption
+      >
+      <image:title>Chasing Trane</image:title>
+    </image:image>
+  </url>
+</urlset>

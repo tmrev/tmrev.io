@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489996-Clara's Ghost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489996-Clara's Ghost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg</image:loc
+      >
+      <image:caption
+        >Set over the course of a single evening at the Reynolds’ family home in
+        Connecticut, Clara, fed up with the constant ribbing from her
+        self-absorbed showbiz family, finds solace in and guidance from the
+        supernatural force she believes is haunting her.</image:caption
+      >
+      <image:title>Clara's Ghost</image:title>
+    </image:image>
+  </url>
+</urlset>

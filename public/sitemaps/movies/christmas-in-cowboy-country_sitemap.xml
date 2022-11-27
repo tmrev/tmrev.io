@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/643634-Christmas in Cowboy Country</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/643634-Christmas in Cowboy Country</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sRD2AsW5U75POMe42bPaqNODk0a.jpg</image:loc
+      >
+      <image:caption
+        >Clint Black hosts the upcoming CMT special Christmas in Cowboy Country,
+        which debuts on Dec. 5. Black also performs on the one-hour show, which
+        features dog sledding in Jackson, Wyo.; an Oklahoma City parade led by
+        Texas longhorns; the light show from 37 Street in Austin, Texas; and a
+        dude ranch celebration in Steamboat Springs, Colo.</image:caption
+      >
+      <image:title>Christmas in Cowboy Country</image:title>
+    </image:image>
+  </url>
+</urlset>

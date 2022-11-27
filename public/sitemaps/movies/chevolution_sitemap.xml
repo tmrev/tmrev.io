@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34219-Chevolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34219-Chevolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ncw9UiyoBaWfjmPyJ8gv9qfSgJ5.jpg</image:loc
+      >
+      <image:caption
+        >Examines the history and legacy of the photo Guerrillero Heroico taken
+        by famous Cuban photographer Alberto Díaz Gutiérrez. This image has
+        thrived for the decades since Che Guevara's death and has evolved into
+        an iconic image, which represents a multitude of ideals. The documentary
+        film explores the story of how the photo came to be, its adoption of
+        multiple interpretations and meanings, as well as the commercialization
+        of the image of Ernesto "Che" Guevara.</image:caption
+      >
+      <image:title>Chevolution</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/302632-Chotushkone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/302632-Chotushkone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6NhorrHcB3GYDqgYiXQmDDQnZtu.jpg</image:loc
+      >
+      <image:caption
+        >Four famous directors and old friends are reunited together by an
+        unknown producer to make a film. They have to make four short story in
+        this film with one common theme: Death.</image:caption
+      >
+      <image:title>Chotushkone</image:title>
+    </image:image>
+  </url>
+</urlset>

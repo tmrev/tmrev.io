@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279547-Cannibal Lolita</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279547-Cannibal Lolita</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oRl9aWIVzxVtU0AIa0Zq4l941yM.jpg</image:loc
+      >
+      <image:caption
+        >A series of sadistic murders has plagued a small resort town. Each
+        death is more gruesome than the last. Each is the work of a sick serial
+        killer and cannibal. Lola Thinks eating the flesh from her male victims
+        will keep her young and beautiful. Her lover and partner in murder,
+        Sandman kills for the love of it. The two of them are unaware the hunt
+        is on from two determined cops and a woman who lost her brother to their
+        murder spree.</image:caption
+      >
+      <image:title>Cannibal Lolita</image:title>
+    </image:image>
+  </url>
+</urlset>

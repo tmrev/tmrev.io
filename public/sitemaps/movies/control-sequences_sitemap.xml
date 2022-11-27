@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/701431-Control Sequences</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/701431-Control Sequences</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e7n3O6XJR5u0zqxgDR6rBdVUG8p.jpg</image:loc
+      >
+      <image:caption
+        >"Super 8 images of a cellophane-covered male body floating in water are
+        blown up into two separate movies—one video, the other 16mm—which screen
+        simultaneously as superimpositions upon one another, further altered
+        through colored gels placed in front of the projectors. The overlapped
+        projections create an uncanny 3D effect, while the claustrophobic shots
+        of the man's open mouth attempting to breath through clinging cellophane
+        and roiling water, and the film's respiratory soundtrack, unveils a
+        thanatos within its eros." —Ed Halter</image:caption
+      >
+      <image:title>Control Sequences</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1003753-Crosslinx</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1003753-Crosslinx</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m9J10grod5eO4aFwVYY7X3FFysP.jpg</image:loc
+      >
+      <image:caption
+        >Telcosystems investigates the relationship between programmed numeric
+        logic and a translation of it to the physical world, looking for an
+        individual narrative in the world of abstract spatial image and sound.
+        Crosslinx has a clear and sober aestheticism that is closely related to
+        the computer technology used to generate it.</image:caption
+      >
+      <image:title>Crosslinx</image:title>
+    </image:image>
+  </url>
+</urlset>

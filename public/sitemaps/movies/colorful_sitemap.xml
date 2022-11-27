@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64246-Colorful</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64246-Colorful</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aSM1ki4WSEgvPYMZ9K28aylImFF.jpg</image:loc
+      >
+      <image:caption
+        >Upon reaching the train station to death, a dejected soul is informed
+        that he is lucky and will have another chance at life. He is placed in
+        the body of a 14-year-old boy named Kobayashi Makoto, who has just
+        committed suicide. Watched over by a neutral spirit named Purapura, the
+        soul must figure out what his greatest sin and mistake in his former
+        life was, before his time limit in Makoto's body runs out. He also has a
+        number of other lesser duties he must complete, such as understanding
+        what led Makoto to commit suicide in the first place and learning how to
+        enjoy his second chance at life.</image:caption
+      >
+      <image:title>Colorful</image:title>
+    </image:image>
+  </url>
+</urlset>

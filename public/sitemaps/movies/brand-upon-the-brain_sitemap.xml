@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27359-Brand Upon the Brain!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27359-Brand Upon the Brain!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3AGFRKdzgfkBseQWZgLaZIa1K38.jpg</image:loc
+      >
+      <image:caption
+        >Guy and his sister grow up on an island. His domineering mother keeps
+        watch over everything from the tip of a lighthouse, his eccentric father
+        experiments in the basement laboratory. Then there are the orphans, on
+        whose heads the adoptive parents later find puzzling wounds. Another
+        brother and sister pair is sent to the island: the Lightball Kids, two
+        detectives that are meant to bring light into the darkness. The brothers
+        and sisters are all yanked into the emotional roller coaster of first
+        love, while something cryptic comes to light in the parents'
+        house.</image:caption
+      >
+      <image:title>Brand Upon the Brain!</image:title>
+    </image:image>
+  </url>
+</urlset>

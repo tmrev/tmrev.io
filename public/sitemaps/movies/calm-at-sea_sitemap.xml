@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/141950-Calm at Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/141950-Calm at Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zZQ785bMkmjnGHH1kvhauQYeKHT.jpg</image:loc
+      >
+      <image:caption
+        >October 1941. Eighteen months into France’s occupation by German
+        troops, young Communist members of the Resistance shoot dead an officer
+        of the German Army. In retaliation, Hitler demands the deaths of 150
+        Frenchmen, as 'retribution'. The targets are to be mostly young men
+        believed to share the assassins’ political convictions. Most of these
+        men are taken from an internment camp for opponents of the occupation; a
+        35-year-old French rural administrator is ordered to select the victims.
+        Although the parish priest appeals to their conscience and moral
+        sensibilities, both the German military and their French helpers
+        slavishly follow their orders.</image:caption
+      >
+      <image:title>Calm at Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

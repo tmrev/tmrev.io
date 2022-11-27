@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/555281-Christmas Bells Are Ringing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/555281-Christmas Bells Are Ringing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bJV4HVbYZMblIEa1bqk6mSHQ5YJ.jpg</image:loc
+      >
+      <image:caption
+        >Samantha, a freelance photographer, is returning to Cape Cod for the
+        first time since the death of her mother years earlier. She’s going to
+        celebrate her father’s Christmas Eve wedding but is anxious to revisit
+        past memories. On a deadline for a big Christmas spread that could
+        ignite her career, she enlists the help of her childhood friend, Mike,
+        to show her around. In the time she spends in Cape Cod, she realizes
+        that Christmas is wherever your family is.</image:caption
+      >
+      <image:title>Christmas Bells Are Ringing</image:title>
+    </image:image>
+  </url>
+</urlset>

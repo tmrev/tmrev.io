@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/717808-Car's Life: Junkyard Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/717808-Car's Life: Junkyard Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l2n4NBXxHXd6WCXi68LBCjLDMYK.jpg</image:loc
+      >
+      <image:caption
+        >Sparky, the little red sports car, must use his best detective skills
+        when strange accidents occur in El Coche.</image:caption
+      >
+      <image:title>Car's Life: Junkyard Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

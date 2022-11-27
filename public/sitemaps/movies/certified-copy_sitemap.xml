@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48303-Certified Copy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48303-Certified Copy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg</image:loc
+      >
+      <image:caption
+        >In Tuscany to promote his latest book, a middle-aged English writer
+        meets a French woman who leads him to the village of
+        Lucignano.</image:caption
+      >
+      <image:title>Certified Copy</image:title>
+    </image:image>
+  </url>
+</urlset>

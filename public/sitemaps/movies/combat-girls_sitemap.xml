@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82529-Combat Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82529-Combat Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nsMjsaBMkZgXaUzW3YmvIAHE2oC.jpg</image:loc
+      >
+      <image:caption
+        >Marisa, a 20-year-old German girl, hates foreigners, Jews, cops, and
+        everyone she finds guilty for the decline of her country. She provokes,
+        drinks, fights and her next tattoo will be a portrait of Adolf Hitler.
+        But Marisa's convictions begin to crumble when she meets a young Afghan
+        refugee, and she learns that the black and white principles of her gang
+        are not the only way.</image:caption
+      >
+      <image:title>Combat Girls</image:title>
+    </image:image>
+  </url>
+</urlset>

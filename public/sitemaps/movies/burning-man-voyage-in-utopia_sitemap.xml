@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37591-Burning Man: Voyage in Utopia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37591-Burning Man: Voyage in Utopia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >With a strong emphasis on founder Larry Harvey and temple artist David
+        Best, this video expresses the scale and power of the Burning Man
+        experience. Superb cinematography and editing are combined to make this
+        is one of the most moving Burning Man videos ever
+        produced.</image:caption
+      >
+      <image:title>Burning Man: Voyage in Utopia</image:title>
+    </image:image>
+  </url>
+</urlset>

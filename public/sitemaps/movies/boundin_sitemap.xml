@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13062-Boundin'</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13062-Boundin'</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bQBFIwb77jrsXiH7TQVFu7onwN7.jpg</image:loc
+      >
+      <image:caption
+        >On a high mountain plain lives a lamb with wool of such remarkable
+        sheen that he breaks into high-steppin' dance. But there comes a day
+        when he loses his lustrous coat and, along with it, his pride. It takes
+        a wise jackalope - a horn-adorned rabbit - to teach the moping lamb that
+        wooly or not, it's what's inside that'll help him rebound from life's
+        troubles.</image:caption
+      >
+      <image:title>Boundin'</image:title>
+    </image:image>
+  </url>
+</urlset>

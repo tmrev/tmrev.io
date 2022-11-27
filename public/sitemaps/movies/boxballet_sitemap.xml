@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/746080-BoxBallet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/746080-BoxBallet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/itMGtzYChYodWjZ1mBs5EPCDqPP.jpg</image:loc
+      >
+      <image:caption
+        >Once a fragile ballerina Olya meets a rude and gloomy boxer Evgeny. The
+        contrast between the worlds of the heroes and their worldview is so
+        striking that the very possibility of intersection of heroes appears as
+        a miracle. Are the heroes ready to accept the same timid feeling that
+        arose between them? Will they overcome everything external and
+        superficial, behind which fragile loving souls are
+        hidden.</image:caption
+      >
+      <image:title>BoxBallet</image:title>
+    </image:image>
+  </url>
+</urlset>

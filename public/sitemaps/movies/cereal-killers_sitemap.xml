@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279142-Cereal Killers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279142-Cereal Killers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bwFVrytZAQU4FubqBfzYjmxdGu1.jpg</image:loc
+      >
+      <image:caption
+        >The film follows Donal - a lean, fit, seemingly healthy 41 year old man
+        – on a quest to hack his genes and drop dead healthy by avoiding the
+        heart disease and diabetes that has afflicted his family.</image:caption
+      >
+      <image:title>Cereal Killers</image:title>
+    </image:image>
+  </url>
+</urlset>

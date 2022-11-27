@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/852005-Crazy Tsunami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/852005-Crazy Tsunami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rmIpIU3nieLdJCzewOtM1rdAl1w.jpg</image:loc
+      >
+      <image:caption
+        >A sudden tsunami came as a shock, trapping Jiang Peng and his daughter,
+        Jiang Xiao Hu, in Chinatown of Southeast Asia. The two of them, with
+        other inhabitants, took a brace to fight against the terrible monster
+        that followed. However, after the life-and-death struggle, they found
+        surprisingly a man-made calamity instead of a natural
+        disaster.</image:caption
+      >
+      <image:title>Crazy Tsunami</image:title>
+    </image:image>
+  </url>
+</urlset>

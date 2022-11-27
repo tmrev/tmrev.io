@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626979-Coup 53</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626979-Coup 53</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Ar7iq23QZNh0ZX57uPc8e2IasvD.jpg</image:loc
+      >
+      <image:caption
+        >Tehran, Iran, August 19, 1953. A group of Iranian conspirators who,
+        with the approval of the deposed tyrant Mohammad Reza Pahlavi, have
+        conspired with agents of the British MI6 and the US CIA, manage to put
+        an end to the democratic government led by Mohammad Mosaddegh, a
+        dramatic event that will begin the tragic era of coups d'état that,
+        orchestrated by the CIA, will take place, over the following decades, in
+        dozens of countries around the world.</image:caption
+      >
+      <image:title>Coup 53</image:title>
+    </image:image>
+  </url>
+</urlset>

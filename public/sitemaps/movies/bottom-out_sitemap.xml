@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/598984-Bottom Out</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/598984-Bottom Out</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/otruvaPqtcY6dZ74gJ8ar6aVjb2.jpg</image:loc
+      >
+      <image:caption
+        >In this story about impoverished urban life, a woman named Kelly has to
+        decide how much risk and sacrifice is worth the chance to get out of the
+        ghetto. Stealing the 250,000 dollars that her fresh-out-of-prison
+        boyfriend is hording from a bank heist, she makes a run for it, fully
+        aware that if he finds her, she will be dead. Both of these people want
+        a chance at a clean life, but after everything they must go through to
+        get it, that life may turn out to be nothing but a dream.</image:caption
+      >
+      <image:title>Bottom Out</image:title>
+    </image:image>
+  </url>
+</urlset>

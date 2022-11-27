@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/66118-Case départ</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/66118-Case départ</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/unhcfaBxuCKaGFzDV7B46vF6IUZ.jpg</image:loc
+      >
+      <image:caption
+        >Two contempo Frenchmen of Antillean descent visit their ancestor's time
+        as well as their land in the slavery-themed French era.</image:caption
+      >
+      <image:title>Case départ</image:title>
+    </image:image>
+  </url>
+</urlset>

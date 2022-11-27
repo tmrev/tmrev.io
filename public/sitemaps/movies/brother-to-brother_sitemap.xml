@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47272-Brother to Brother</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47272-Brother to Brother</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oWlLj4JZM9qIoH6Cb3Y4943jpEZ.jpg</image:loc
+      >
+      <image:caption
+        >A drama that looks back on the Harlem Renaissance from the perspective
+        of an elderly, black writer who meets a gay teenager in a New York
+        homeless shelter.</image:caption
+      >
+      <image:title>Brother to Brother</image:title>
+    </image:image>
+  </url>
+</urlset>

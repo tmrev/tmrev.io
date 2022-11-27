@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/779006-Cooking Up Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/779006-Cooking Up Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8pj2NyPotYZFTOXczS3pFkXymt2.jpg</image:loc
+      >
+      <image:caption
+        >On a lark, Zoey rents a food truck and enters a reality TV competition.
+        Heat rises between her and the handsome founder of a fast food chain,
+        but when Zoey finds out he’s a judge in the contest, things quickly
+        fizzle. Zoey’s determined to win fair and square and she suspects
+        ‘Mr-Too-Good-To-Be-True’ is really after her sauce recipe, not her
+        heart.</image:caption
+      >
+      <image:title>Cooking Up Love</image:title>
+    </image:image>
+  </url>
+</urlset>

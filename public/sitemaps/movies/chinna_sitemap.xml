@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69436-Chinna</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69436-Chinna</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nCmBvaMqobVDJwEj1I5El5NRj6u.jpg</image:loc
+      >
+      <image:caption
+        >Chinna (2005) is a love-drama thriller Tamil language movie directed by
+        the Tamil Director Sundar C. It stars Arjun Sarja and Sneha in the lead
+        roles. It did reasonable business at the box-office.</image:caption
+      >
+      <image:title>Chinna</image:title>
+    </image:image>
+  </url>
+</urlset>

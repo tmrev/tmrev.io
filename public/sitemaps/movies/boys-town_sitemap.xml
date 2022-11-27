@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42390-Boys Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42390-Boys Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jGwKOZvPItNSocHFAg1USbhKR6c.jpg</image:loc
+      >
+      <image:caption
+        >The devout but iron-willed Father Flanagan leads a community called
+        Boys Town, a different sort of juvenile detention facility where,
+        instead of being treated as underage criminals, the boys are shepherded
+        into making themselves better people. But hard-nosed petty thief and
+        pool shark Whitey Marsh, the impulsive and violent younger brother of an
+        imprisoned murderer, might be too much for the good father's tough-love
+        system.</image:caption
+      >
+      <image:title>Boys Town</image:title>
+    </image:image>
+  </url>
+</urlset>

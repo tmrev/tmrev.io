@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49720-Clarkson: The Italian Job</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49720-Clarkson: The Italian Job</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/35VyP1Qxm7rLBeVNWiZ38zEmuP6.jpg</image:loc
+      >
+      <image:caption
+        >It’s The Italian Job so obviously, I head to Kent in England for the
+        race of a lifetime. But first I have to get ready. So, it’s the Fiorano
+        test track in Italy where I spend a while not getting ready at all. I
+        try the gym but it’s all rubbish so instead, I decide to compare
+        Ferrari’s 458 Italia and the limited edition 599 GTO. On paper, that
+        doesn’t seem fair. But in reality….</image:caption
+      >
+      <image:title>Clarkson: The Italian Job</image:title>
+    </image:image>
+  </url>
+</urlset>

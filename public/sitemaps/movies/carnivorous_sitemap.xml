@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81489-Carnivorous</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81489-Carnivorous</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uJw5Tb7oCoBoalWKfvTxwt9zVZE.jpg</image:loc
+      >
+      <image:caption
+        >After being kidnapped, Kate Walker wakes to find herself trapped in a
+        small chamber. She realizes she's not the only prisoner, as nineteen
+        others share the same fate. Hunted by demonic creatures, the group must
+        band together if they are to escape the hellish labyrinth and survive
+        the onslaught. Starring: Leah Rose (Dust), Ryan Schaufler (Chasing
+        Life), Adrienne Rusk (The Trouble with the Truth), Matt Ukena (Dark
+        Nemesis) and Tom Lodewyck (Petty Cash).</image:caption
+      >
+      <image:title>Carnivorous</image:title>
+    </image:image>
+  </url>
+</urlset>

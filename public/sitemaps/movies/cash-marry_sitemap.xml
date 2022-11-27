@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/969901-Cash & Marry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/969901-Cash & Marry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m4rmJcQkKxgT39mM0H2mguBWstZ.jpg</image:loc
+      >
+      <image:caption
+        >Marko and Atanas are two friends whose lives would be sweet as strudel
+        but for an annoying little problem with their papers. They need a
+        European passport and they are prepared to do almost anything to get
+        one, including buying a wife. With nothing but their brass necks and
+        7,000 euros, they set out to find the woman of their
+        dreams.</image:caption
+      >
+      <image:title>Cash & Marry</image:title>
+    </image:image>
+  </url>
+</urlset>

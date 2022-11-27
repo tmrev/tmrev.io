@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/135232-Buratino</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/135232-Buratino</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vf4w846NCOtCZvcy4EZes2pEMIK.jpg</image:loc
+      >
+      <image:caption
+        >Imagine a mix of Repo Man, Oliver! and Pinocchio and you're on the road
+        to grasping the tone of this bizarre Estonian take on Aleksey
+        Nikolayevich Tolstoy's character Buratino, a wooden boy (or boyus
+        woodenus, as the doctors in the film refer to him). Buratino's virginal
+        mother wishes upon a star for a son and is immediately answered by what
+        can only be called a rape-splinter. The woman gives birth almost
+        immediately to her little wooden Buratino.</image:caption
+      >
+      <image:title>Buratino</image:title>
+    </image:image>
+  </url>
+</urlset>

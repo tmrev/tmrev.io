@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/673129-Catherine's Room</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/673129-Catherine's Room</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aKkwQphDNMvc4VyfhHSnGjtX7Yf.jpg</image:loc
+      >
+      <image:caption
+        >This video work is one of a group of pieces known as 'The Passions'
+        which explores human emotions, inspired by early European devotional
+        paintings. The five screens show different times of the day – morning,
+        afternoon, sunset, evening and night. Each scene shows the female
+        protagonist at a different task, from yoga exercises in the morning
+        through to lighting candles in the evening and finally going to bed. In
+        each scene, the tree outside the window is shown at different stages of
+        its annual cycle, putting the woman's routine in the larger context of
+        the cycles of nature. The work is based on a predella by the fourteenth
+        century artist Andrea di Bartolo.</image:caption
+      >
+      <image:title>Catherine's Room</image:title>
+    </image:image>
+  </url>
+</urlset>

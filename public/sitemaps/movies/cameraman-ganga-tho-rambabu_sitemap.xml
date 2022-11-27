@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/138667-Cameraman Ganga Tho Rambabu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/138667-Cameraman Ganga Tho Rambabu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cBfNQhygQWuuKoQZUFEwhTlfpLj.jpg</image:loc
+      >
+      <image:caption
+        >Ganga, a camerawoman, helps Rambabu, a fiery mechanic, become a
+        journalist. When Rana, an evil politician, kills a journalist, Rambabu
+        decides to destroy his political career.</image:caption
+      >
+      <image:title>Cameraman Ganga Tho Rambabu</image:title>
+    </image:image>
+  </url>
+</urlset>

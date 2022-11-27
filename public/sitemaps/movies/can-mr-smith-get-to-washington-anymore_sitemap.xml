@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/25058-Can Mr. Smith Get to Washington
+      Anymore?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/25058-Can Mr. Smith Get to Washington
+      Anymore?</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This documentary follows the 2004 Missouri Democratic primary to
+        replace retiring 28-year veteran and former House Majority Leader Dick
+        Gephardt. It is told from inside the campaign of Jeff Smith, a 29-year
+        old part-time political science instructor at Washington
+        University.</image:caption
+      >
+      <image:title>Can Mr. Smith Get to Washington Anymore?</image:title>
+    </image:image>
+  </url>
+</urlset>

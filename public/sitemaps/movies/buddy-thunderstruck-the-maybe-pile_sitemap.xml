@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466405-Buddy Thunderstruck: The Maybe Pile</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466405-Buddy Thunderstruck: The Maybe Pile</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7mYK8dMavcXcScIp8eUs5q5JjMk.jpg</image:loc
+      >
+      <image:caption
+        >Champion truck-racing dog Buddy and his best friend, ferret mechanic
+        Darnell, paw through the "maybe pile" and test out a bunch of crazy
+        stunts.</image:caption
+      >
+      <image:title>Buddy Thunderstruck: The Maybe Pile</image:title>
+    </image:image>
+  </url>
+</urlset>

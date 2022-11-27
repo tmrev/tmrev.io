@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314536-Cloudy Times</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314536-Cloudy Times</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2tZRDvPhHsSzQXD4EbiaN7YV2Op.jpg</image:loc
+      >
+      <image:caption
+        >Arami Ullón must return to Paraguay to make an important decision: what
+        will happen to her sick mother, Mirna? The heartfelt gaze of the camera
+        reveals a relationship filled with love, but also unspoken and
+        unresolved issues. A sensitive film which examines the inner turmoil of
+        the daughter during the final stages of her mother’s degenerative
+        illness.</image:caption
+      >
+      <image:title>Cloudy Times</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/213849-Columbus The Lost Voyage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/213849-Columbus The Lost Voyage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6XywrR5vDdZ0v27ucKC67PQKkG.jpg</image:loc
+      >
+      <image:caption
+        >Columbus' 4th voyage has been a total failure: he has not found the
+        westward passage, he has no gold to show, he has lost men and ships and
+        his efforts to build a colony have fallen through. The monarchs of Spain
+        are not going to restore the rights and privileges which were taken away
+        from Columbus after the first voyage. And Columbus will be shamed. Many
+        of his sailors who have survived, can't face the journey home. They will
+        choose to remain on Hispaniola or neighbouring Puerto
+        Rico.</image:caption
+      >
+      <image:title>Columbus The Lost Voyage</image:title>
+    </image:image>
+  </url>
+</urlset>

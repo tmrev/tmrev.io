@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/160220-Bronies: The Extremely Unexpected Adult
+      Fans of My Little Pony</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/160220-Bronies: The Extremely Unexpected Adult
+      Fans of My Little Pony</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vH50lq31h8GlDgRnHKrW5x0aHUK.jpg</image:loc
+      >
+      <image:caption
+        >A film profiling the unusual cross-demographic fandom of the ostensibly
+        girl oriented television series "My Little Pony: Friendship Is
+        Magic"</image:caption
+      >
+      <image:title
+        >Bronies: The Extremely Unexpected Adult Fans of My Little
+        Pony</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

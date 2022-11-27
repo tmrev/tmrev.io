@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/673379-Carpatia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/673379-Carpatia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bxpdUtAPER8YesU6A9nAXU1pD1P.jpg</image:loc
+      >
+      <image:caption
+        >This mountain region that reaches across several countries in Eastern
+        Europe is the home to gold diggers, wizards, cow herders and old
+        Hassids.</image:caption
+      >
+      <image:title>Carpatia</image:title>
+    </image:image>
+  </url>
+</urlset>

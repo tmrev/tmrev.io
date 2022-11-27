@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301201-Cam Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301201-Cam Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fWOhRXSF0KpLfoGP9ywkHGIqJAJ.jpg</image:loc
+      >
+      <image:caption
+        >Desperate after losing her job, Alice starts a sexy webcam site with
+        three friends. Successful at first, their new-found decadence sends them
+        on a downward spiral of mutual resentment and dangerous
+        excess.</image:caption
+      >
+      <image:title>Cam Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

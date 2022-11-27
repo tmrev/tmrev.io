@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/318031-Conquering China</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/318031-Conquering China</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/19LE1MwatlMkF4cb90lr8Yw4C3U.jpg</image:loc
+      >
+      <image:caption
+        >A Swedish singer trades Europe for China. Like a blonde nephew of Bryan
+        Ferry, he enters the burgeoning music scene in Shanghai, where
+        electronic dance music dominates. But is this new land of opportunity
+        ready for his soul-searching, tormented voice? Is music really such a
+        universal language?</image:caption
+      >
+      <image:title>Conquering China</image:title>
+    </image:image>
+  </url>
+</urlset>

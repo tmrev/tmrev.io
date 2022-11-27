@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/811459-Canoe in the Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/811459-Canoe in the Snow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/njuuHnNtcXp1NWdWDrUhJqc3396.jpg</image:loc
+      >
+      <image:caption
+        >Living on the fringe of mainstream society, one man ventures deep into
+        the northern forest each winter to answer the call of the outdoors. For
+        a decade, Clément has followed the same ritual: travelling to the middle
+        of nowhere on the hunt for peace, quiet and beauty. From his camp, he
+        spends the winter hunting, trapping and living as one with the nature
+        surrounding him.</image:caption
+      >
+      <image:title>Canoe in the Snow</image:title>
+    </image:image>
+  </url>
+</urlset>

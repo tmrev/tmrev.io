@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/132602-Brothers Three: An American Gothic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/132602-Brothers Three: An American Gothic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9myi28gGxhGmkGYEpO12DOIOXt4.jpg</image:loc
+      >
+      <image:caption
+        >Three brothers reunite at a remote cabin in the woods, when beckoned by
+        their father. The brothers are left to deal with the dark secrets and
+        demons that have haunted them their whole lives. The resulting truths
+        they must face, end in an explosive tragedy.</image:caption
+      >
+      <image:title>Brothers Three: An American Gothic</image:title>
+    </image:image>
+  </url>
+</urlset>

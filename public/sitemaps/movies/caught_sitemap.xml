@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436972-Caught</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436972-Caught</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sRRDSeg1wHgiq4aEGKjlgQLiauX.jpg</image:loc
+      >
+      <image:caption
+        >While on an afternoon walk with their children, two small town
+        reporters notice the military camped on a hilltop. Debating the possible
+        significance of this activity, they answer their door when two unusual
+        strangers come knocking and find themselves held hostage in their own
+        home.</image:caption
+      >
+      <image:title>Caught</image:title>
+    </image:image>
+  </url>
+</urlset>

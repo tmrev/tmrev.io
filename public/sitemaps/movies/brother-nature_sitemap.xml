@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/292834-Brother Nature</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/292834-Brother Nature</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jEaUqbtlOvg0bfnPaPh1Bd0MoAu.jpg</image:loc
+      >
+      <image:caption
+        >Roger, a straight-laced politician has big plans to propose to his
+        dream girl at her family's lake house. But everything goes awry when he
+        meets his potential brother-in-law Todd: a full-time camp counselor with
+        a heart of gold and a wild sense of fun, pining to be Roger's best
+        friend, and ultimately catapulting him into a series of unfortunate
+        events. As Roger tries to take a stand amidst outrageous fishing
+        excursions, propulsive water jetpacks and American history-themed
+        musicals, he realizes that being a part of a new family may be more
+        difficult than he'd thought.</image:caption
+      >
+      <image:title>Brother Nature</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320586-Brand: A Second Coming</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320586-Brand: A Second Coming</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pRUvs5XBlhny4x1fXG3SFJCBD1k.jpg</image:loc
+      >
+      <image:caption
+        >Comic Russell Brand uses drugs, sex and fame in a quest for happiness,
+        only to find it remains elusive. As he explores iconic figures such as
+        Gandhi, Malcolm X, Che Guevara, and Jesus, he transforms himself into a
+        political antagonist.</image:caption
+      >
+      <image:title>Brand: A Second Coming</image:title>
+    </image:image>
+  </url>
+</urlset>

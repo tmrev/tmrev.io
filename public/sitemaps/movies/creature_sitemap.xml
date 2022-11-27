@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1018950-Creature</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1018950-Creature</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1v9XzLMigGqGYsoYP4H5SCWXXwg.jpg</image:loc
+      >
+      <image:caption
+        >Follows an outsider's search for belonging, set in a dilapidated former
+        Arctic research station. A collaboration between acclaimed choreographer
+        Akram Khan and Oscar-winner Asif Kapadia</image:caption
+      >
+      <image:title>Creature</image:title>
+    </image:image>
+  </url>
+</urlset>

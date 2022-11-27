@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13610-Christmas Cottage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13610-Christmas Cottage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xgVxmbD4mLtvelP8U5jbT7Rxjiv.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the picturesque paintings of Thomas Kinkade, The Christmas
+        Cottage tells the semi-autobiographical tale of how a young boy is
+        propelled to launch a career as an artist after he learns that his
+        mother is in danger of losing the family home.</image:caption
+      >
+      <image:title>Christmas Cottage</image:title>
+    </image:image>
+  </url>
+</urlset>

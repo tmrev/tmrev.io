@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85033-Café de Flore</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85033-Café de Flore</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sDzPQTJQyTwePZNh6PoZIcgBtvO.jpg</image:loc
+      >
+      <image:caption
+        >Jacqueline is a young mother living in 1960s Paris with her disabled
+        son Laurent. Abandoned by her husband, Jacqueline sacrifices everything
+        to care for her son and vows to give Laurent a “normal” life full of
+        happiness. Antoine, is a successful DJ in present day Montreal who seems
+        to have it all: a thriving career, two beautiful daughters, partner
+        Rose, with whom he is passionately in love. However, nothing is perfect
+        and Antoine’s ex-wife Carole remains devastated by their recent
+        separation.</image:caption
+      >
+      <image:title>Café de Flore</image:title>
+    </image:image>
+  </url>
+</urlset>

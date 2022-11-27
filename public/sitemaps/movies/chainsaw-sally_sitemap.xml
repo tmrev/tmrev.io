@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30385-Chainsaw Sally</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30385-Chainsaw Sally</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/srKh2av2oE0NB12qGHkZZVyeXI8.jpg</image:loc
+      >
+      <image:caption
+        >Sally is a young woman living two lives: a calmly librarian by day, and
+        a brutal serial killer by night where she randomly targets any man or
+        woman whom even slightly upsets her. Sally lives with her reclusive,
+        transvestite younger brother Rudy whom assists her with the killings.
+        Both Sally and Ruby were traumatized as children when both of them
+        witnessed three lunatics murder their mother and father before they,
+        with 'Daddy's' help, killed the three murderous psychos.</image:caption
+      >
+      <image:title>Chainsaw Sally</image:title>
+    </image:image>
+  </url>
+</urlset>

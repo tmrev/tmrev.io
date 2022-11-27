@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/619578-Cairo Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/619578-Cairo Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dvdLMSH1p1IpLXDckYXbR6uLSNn.jpg</image:loc
+      >
+      <image:caption
+        >Ahmed is in for the shock of his life when his mother calls from Cairo
+        to announce her imminent visit to Montreal . He has to clean up his act
+        to get ready for her arrival. He convinces his entourage to play along
+        for the duration of her stay, telling them that the visit is a short
+        one. But Mother has other plans... She is a woman on a mission and is
+        ready to stay for as long as it takes for her to see it through. In
+        fact, she has an open ticket! Ahmed's patience as well as his friends'
+        will be severely tested as his mother tries to bring her old world
+        values into their lives. But she too will get tested when she realizes
+        the true meaning of the old saying : be careful what you wish for, it
+        may just come true...</image:caption
+      >
+      <image:title>Cairo Calling</image:title>
+    </image:image>
+  </url>
+</urlset>

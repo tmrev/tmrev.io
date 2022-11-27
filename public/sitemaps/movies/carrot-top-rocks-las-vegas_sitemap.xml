@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/389983-Carrot Top Rocks Las Vegas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/389983-Carrot Top Rocks Las Vegas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Carrot Top, the red-headed wunderkind with a trunk full of giggles,
+        invades Vegas and this one you won't want to miss. Filmed live at the
+        MGM Grand, Carrot Top Rocks Las Vegas is a rock & roll hyper-reality
+        comedy explosion with strobe laser lights, sound effects, pyrotechnics,
+        and a fog machine.</image:caption
+      >
+      <image:title>Carrot Top Rocks Las Vegas</image:title>
+    </image:image>
+  </url>
+</urlset>

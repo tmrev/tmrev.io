@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32707-Breaking Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32707-Breaking Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nK89Nb7qHXEp1scxlJdoCywTdnw.jpg</image:loc
+      >
+      <image:caption
+        >Within the confines of an insane asylum languish many would-be seers
+        and messiahs. Medical students meet them day in, day out. But when Eve
+        meets Don Wake, she discovers he's not your run-of-the-mill paranoic. In
+        fact, his visions of her life on the outside tread the line between
+        fantasy and reality as a stalker becomes known to her. She could be in
+        danger; it could all be in her head.</image:caption
+      >
+      <image:title>Breaking Dawn</image:title>
+    </image:image>
+  </url>
+</urlset>

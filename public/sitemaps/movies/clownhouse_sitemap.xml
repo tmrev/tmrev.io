@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25756-Clownhouse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25756-Clownhouse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l8D1gJCR4zxtgY52TLpzZbMbLBc.jpg</image:loc
+      >
+      <image:caption
+        >Just before Halloween, three young brothers alone in a big house are
+        menaced by three escaped mental patients who have murdered some
+        traveling circus clowns and taken their identities.</image:caption
+      >
+      <image:title>Clownhouse</image:title>
+    </image:image>
+  </url>
+</urlset>

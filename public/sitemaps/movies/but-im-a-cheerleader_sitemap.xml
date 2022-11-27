@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20770-But I'm a Cheerleader</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20770-But I'm a Cheerleader</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bemsTZ7S0dkiQA36mw8vpdZY297.jpg</image:loc
+      >
+      <image:caption
+        >Megan is an all-American girl. A cheerleader. She has a boyfriend. But
+        Megan doesn't like kissing her boyfriend very much. And she's pretty
+        touchy with her cheerleader friends. Her conservative parents worry that
+        she must be a lesbian and send her off to "sexual redirection" school,
+        where she must, with other lesbians and gays learn how to be
+        straight.</image:caption
+      >
+      <image:title>But I'm a Cheerleader</image:title>
+    </image:image>
+  </url>
+</urlset>

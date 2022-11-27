@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/818269-Built to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/818269-Built to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6cYiiWQZjXY1yQKpSxI3ywM1qS5.jpg</image:loc
+      >
+      <image:caption
+        >Built to Kill is an edgy, hyper-stylish horror anthology about people
+        pushed, pulled, and driven to kill. An abused wife tends to the
+        post-robbery wounds of her criminal ex-husband, when they are visited by
+        a mysterious - and malevolent - preacher. A teenage girl lost in life
+        finds belonging in a cult that brings out her darkest side. A man
+        trapped in a deadly loop must lure another victim to buy his freedom.
+        Two sisters must find a way forward and an unspeakable act is the only
+        way to rid them of their abusive father. And a young woman buys her way,
+        with flesh and blood, into a secret society.</image:caption
+      >
+      <image:title>Built to Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

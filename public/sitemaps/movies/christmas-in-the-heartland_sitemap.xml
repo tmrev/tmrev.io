@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/485612-Christmas in the Heartland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/485612-Christmas in the Heartland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4jOa1pFBJM4lKA3kNJcAWD9kR6P.jpg</image:loc
+      >
+      <image:caption
+        >Kara and Jessie are two teenage girls from very different worlds, but
+        with a little Christmas magic, they find they have much more in common
+        than they ever imagined.</image:caption
+      >
+      <image:title>Christmas in the Heartland</image:title>
+    </image:image>
+  </url>
+</urlset>

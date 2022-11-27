@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662942-Christmas Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662942-Christmas Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7hKzuuay7ZJvVjr7XxlldPkbf4G.jpg</image:loc
+      >
+      <image:caption
+        >That Christmas wasn't particularly snowy in Lviv, however it didn't
+        spoil the mood for tourists and locals. Mother and her daughter taking
+        advantage of people's inattention steal from shops and sell it in social
+        networks.</image:caption
+      >
+      <image:title>Christmas Stories</image:title>
+    </image:image>
+  </url>
+</urlset>

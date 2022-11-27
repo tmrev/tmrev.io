@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/651961-Britain's Real Monarch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/651961-Britain's Real Monarch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xSIXy9jrY7OrMt9NQMXn01ePpHX.jpg</image:loc
+      >
+      <image:caption
+        >Britain's Real Monarch was a historical documentary presented by Tony
+        Robinson first shown on Channel 4 on 3 January 2004. It has also been
+        broadcast in Australia and in the United States. The documentary
+        discusses the descendants of George Plantagenet, Duke of Clarence, and
+        their claim to the throne of England.</image:caption
+      >
+      <image:title>Britain's Real Monarch</image:title>
+    </image:image>
+  </url>
+</urlset>

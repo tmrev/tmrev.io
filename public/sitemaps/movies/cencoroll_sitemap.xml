@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37928-Cencoroll</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37928-Cencoroll</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k1IeVdhsM3vnXjEfZr0kdilnttY.jpg</image:loc
+      >
+      <image:caption
+        >A giant monster sends a town's citizens into a panic, except for a girl
+        named Yuki and her schoolmate Tetsu. Tetsu happens to have his own
+        strange creature named Cenco as a pet. Another boy named Shuu controls
+        the monster threatening the town, and the stage is set for a
+        battle.</image:caption
+      >
+      <image:title>Cencoroll</image:title>
+    </image:image>
+  </url>
+</urlset>

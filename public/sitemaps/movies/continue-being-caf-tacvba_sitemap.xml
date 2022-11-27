@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/54515-Continue Being: Café Tacvba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/54515-Continue Being: Café Tacvba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m0NrpSgLdtA8XxFZT0OzhFTHMoC.jpg</image:loc
+      >
+      <image:caption
+        >A rock band traveling many places of the world, and on planes, buses,
+        in hotels and dressing rooms we discover the creative process that
+        brings them together, their friendship, frustrations and the desire of
+        still being a rock band, the most important rock band in Mexico, on the
+        year that they celebrate 20 years of being Cafe Tacvba</image:caption
+      >
+      <image:title>Continue Being: Café Tacvba</image:title>
+    </image:image>
+  </url>
+</urlset>

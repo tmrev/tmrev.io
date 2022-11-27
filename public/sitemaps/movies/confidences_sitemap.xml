@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228923-Confidences</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228923-Confidences</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6CfAt6HIqKqSx3y075BSHnlpCMl.jpg</image:loc
+      >
+      <image:caption
+        >Wedding invitations are about to be mailed when Casey abruptly calls
+        off the wedding sending her fiancé, Clay, into a tailspin. Clay's best
+        friend Reggie breaches the sanctity of their friendship to bring Clay
+        face to face with what his 'business as usual' approach toward Casey has
+        fostered and what he must do to correct it.</image:caption
+      >
+      <image:title>Confidences</image:title>
+    </image:image>
+  </url>
+</urlset>

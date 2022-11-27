@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45833-Confessions of an Action Star</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45833-Confessions of an Action Star</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3fIw69KEVzfycdEjqJQXHb7olR4.jpg</image:loc
+      >
+      <image:caption
+        >A 'mocumentary' on the rise and fall of Chip and Dales dancer turned
+        martial arts action star, Francis Allen Sledgewick, AKA Frank Sledge.
+        When fame and fortune caused Frank to lose his sense of what's truely
+        important, he realised he's going to have to get in touch with his roots
+        if there's ever going to be a comeback.</image:caption
+      >
+      <image:title>Confessions of an Action Star</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478741-Charismata</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478741-Charismata</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u94cACkX4yD5cebyyfH9yB3OXGR.jpg</image:loc
+      >
+      <image:caption
+        >As a rookie detective struggling to find acceptance in a police
+        department defined by a culture of bullying and intolerance, things go
+        from bad to worse when the chief suspect in a series of brutal
+        ritualistic murders takes a personal interest in her. A game of cat and
+        mouse ensues which sees Rebecca’s grasp on reality beginning to spiral
+        out of control, leading to a terrifying climax where she needs to fight
+        for her sanity, her life and maybe even her soul.</image:caption
+      >
+      <image:title>Charismata</image:title>
+    </image:image>
+  </url>
+</urlset>

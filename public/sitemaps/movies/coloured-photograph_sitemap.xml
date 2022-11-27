@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/798148-Coloured Photograph</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/798148-Coloured Photograph</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2rRXCd2lMnQp6p9xrhWmCnUUSS.jpg</image:loc
+      >
+      <image:caption
+        >"Colored Photograph" with an aesthetic reminiscent of the campaigns of
+        United Colors of Benetton, Waheeda Malullah (Bahrain) chooses to color a
+        group of women dressed in black Burqas, frozen in an almost fixed shot
+        taken from the front.</image:caption
+      >
+      <image:title>Coloured Photograph</image:title>
+    </image:image>
+  </url>
+</urlset>

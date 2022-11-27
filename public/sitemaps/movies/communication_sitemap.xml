@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454811-Communication</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454811-Communication</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mN23M1s74EX5rYKmXWfrczLmbcB.jpg</image:loc
+      >
+      <image:caption
+        >An Orthodox Jewish student unexpectedly inherits the estate of his
+        estranged mentor, and discovers a painful truth about their final days
+        together.</image:caption
+      >
+      <image:title>Communication</image:title>
+    </image:image>
+  </url>
+</urlset>

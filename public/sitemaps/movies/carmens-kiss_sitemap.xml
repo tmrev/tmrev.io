@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77354-Carmen's Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77354-Carmen's Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cCQUNP33z0F7YpPC9FAtCEZ5DBP.jpg</image:loc
+      >
+      <image:caption
+        >The tragic story of Joe, a Police Sargeant in London who falls for
+        Carmen a feisty gypsy girl who is the victim of a eastern European gang
+        of sex traffickers. Joe rescues her from her horrific entrapment and
+        begins to love her like no man has before.</image:caption
+      >
+      <image:title>Carmen's Kiss</image:title>
+    </image:image>
+  </url>
+</urlset>

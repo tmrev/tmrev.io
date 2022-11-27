@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/663300-City of Trees</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/663300-City of Trees</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jr7O0eqIKdrirBYsKp4OU961MYZ.jpg</image:loc
+      >
+      <image:caption
+        >A 20-something woman goes back to her hometown for the holidays for the
+        first time in several years and is not only met with people from her
+        past, but she's forced to deal with unresolved feelings
+        too.</image:caption
+      >
+      <image:title>City of Trees</image:title>
+    </image:image>
+  </url>
+</urlset>

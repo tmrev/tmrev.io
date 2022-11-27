@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/701285-Chef Antonio's Recipes for Revolution</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/701285-Chef Antonio's Recipes for Revolution</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nz878db45VpznZ77ELG0ZOgLjnw.jpg</image:loc
+      >
+      <image:caption
+        >A feature documentary following Antonio de Benedetto, an Italian chef
+        on a quest to change the world with food. His apprentices are aspiring
+        chefs with Down syndrome, who travel from across Italy to train and work
+        in hospitality and take their place at the table of life and find their
+        pathway to freedom and independence.</image:caption
+      >
+      <image:title>Chef Antonio's Recipes for Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

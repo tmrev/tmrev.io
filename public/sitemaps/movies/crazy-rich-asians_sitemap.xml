@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/455207-Crazy Rich Asians</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/455207-Crazy Rich Asians</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg</image:loc
+      >
+      <image:caption
+        >An American-born Chinese economics professor accompanies her boyfriend
+        to Singapore for his best friend's wedding, only to get thrust into the
+        lives of Asia's rich and famous.</image:caption
+      >
+      <image:title>Crazy Rich Asians</image:title>
+    </image:image>
+  </url>
+</urlset>

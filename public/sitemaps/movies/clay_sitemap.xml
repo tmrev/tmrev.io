@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/667576-Clay</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/667576-Clay</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film explores the idea of the consistency of land use over time.
+        In the exact location of where the filmmaker is living and realizing
+        this project, trypillian people lived over 5,000 year ago. A modern day,
+        post soviet brick factory in the village uses the exact same process to
+        make bricks that the trypillian people used to make pots. Through this
+        same process, and the unexplained burning of the trypillian homes, we
+        have fired clay remnants of their presence in this village in very large
+        numbers. A reknowned local archeologist talks about these people and
+        their relationship to land, clay and black gold.</image:caption
+      >
+      <image:title>Clay</image:title>
+    </image:image>
+  </url>
+</urlset>

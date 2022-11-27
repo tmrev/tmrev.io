@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392342-Callback</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392342-Callback</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1jONQQBkQd4HiS1S0qI014R6TrU.jpg</image:loc
+      >
+      <image:caption
+        >Larry is an ardent evangelical Christian, lives in New York, works as a
+        mover, and dreams of breaking into the world of commercial acting. As he
+        seeks his big break, he argues with his boss and leads a solitary life.
+        His fate takes an unexpected turn the day he meets
+        Alexandra.</image:caption
+      >
+      <image:title>Callback</image:title>
+    </image:image>
+  </url>
+</urlset>

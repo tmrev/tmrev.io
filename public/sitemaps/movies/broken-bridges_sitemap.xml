@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13842-Broken Bridges</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13842-Broken Bridges</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f4vynL22x06Ip6nwZEh5ouO0mSI.jpg</image:loc
+      >
+      <image:caption
+        >A fading country music star (Keith) returns to his hometown, where he
+        reunites with his childhood sweetheart and also meets his 16-year-old
+        daughter for the first time.</image:caption
+      >
+      <image:title>Broken Bridges</image:title>
+    </image:image>
+  </url>
+</urlset>

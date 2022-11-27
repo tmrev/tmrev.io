@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/144182-Captain Hima</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/144182-Captain Hima</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kevnGiQqdX6fcWWA7dQGl8QTM7o.jpg</image:loc
+      >
+      <image:caption
+        >University graduate works as a school bus driver after failing to find
+        a proper job, where he unexpectedly falls in love with a school teacher,
+        who is the love interest of an evil businessman. Of course you don’t
+        already know that she will be loving the "King of Generation", after
+        all, who wouldn’t?</image:caption
+      >
+      <image:title>Captain Hima</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/215556-Chihuahua Too!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/215556-Chihuahua Too!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5Ii7Wu6wK12SfeHmIHSNfDtBEfO.jpg</image:loc
+      >
+      <image:caption
+        >When the Fasteners inherit an old family vacation home, they soon
+        realize it's being haunted by their ancestors' famous movie star dog,
+        Sophie. Homer, the Fastener's golden retriever, befriends Sophie and
+        discovers that she is just looking for a family to love. Now it's up to
+        Homer and the Fastener kids to convince their parents that Sophie really
+        exists and keep them from selling the house and leaving Sophie alone
+        forever. Will Sophie finally have a family again? Find out in this
+        hilarious tail-wagging adventure featuring lessons about acceptance,
+        cooperation and honesty.</image:caption
+      >
+      <image:title>Chihuahua Too!</image:title>
+    </image:image>
+  </url>
+</urlset>

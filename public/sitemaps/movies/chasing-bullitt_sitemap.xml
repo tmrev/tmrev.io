@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586604-Chasing Bullitt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586604-Chasing Bullitt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fe2cK1UKidq2W6p1yRqek7ZMpfM.jpg</image:loc
+      >
+      <image:caption
+        >January 1971- After an unexpected confrontation with his agent,
+        Hollywood legend Steve McQueen makes a reluctant deal. He'll choose his
+        next acting gig on one condition: his agent has to help him locate the
+        iconic Ford Mustang GT 390 from his seminal film BULLITT. On his journey
+        across the desert and back to Los Angeles, Steve ruminates on his
+        triumphs and losses. Through his memories, a picture of the man's
+        reality is slowly revealed: a crumbling marriage, therapy, financial
+        troubles, and a waning career.</image:caption
+      >
+      <image:title>Chasing Bullitt</image:title>
+    </image:image>
+  </url>
+</urlset>

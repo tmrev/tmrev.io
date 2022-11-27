@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/736506-Claw</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/736506-Claw</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jdabkPU69SllGHrkLsbeF5VB05j.jpg</image:loc
+      >
+      <image:caption
+        >Two friends forced to spend the night in a ghost town find themselves
+        hunted by a prehistoric predator.</image:caption
+      >
+      <image:title>Claw</image:title>
+    </image:image>
+  </url>
+</urlset>

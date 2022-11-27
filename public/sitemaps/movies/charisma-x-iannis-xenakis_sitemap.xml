@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527244-Charisma X: Iannis Xenakis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527244-Charisma X: Iannis Xenakis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sC5zLi2OumHv62ABg0x8T4scosX.jpg</image:loc
+      >
+      <image:caption
+        >This is a documentary film on the life and work of the composer Iannis
+        Xenakis, the “architect of sound”, whose visionary work reconciles art
+        with science. The film develops in such a way to show how Xenakis’
+        philosophy, architectural experience, mathematics and political
+        background morph into music and how physical phenomena are transformed
+        into musical expression.</image:caption
+      >
+      <image:title>Charisma X: Iannis Xenakis</image:title>
+    </image:image>
+  </url>
+</urlset>

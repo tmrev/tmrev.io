@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197241-Chaplin Today: The Gold Rush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197241-Chaplin Today: The Gold Rush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cPOUa2a1i4uzUUOsp6d0D2wjVA0.jpg</image:loc
+      >
+      <image:caption
+        >African filmmaker Idrissa Ouedraogo (YAABA) discusses the influence
+        that Charlie Chaplin has been on his work, along with archival footage
+        of interviews with several of Chaplin's co-stars.</image:caption
+      >
+      <image:title>Chaplin Today: The Gold Rush</image:title>
+    </image:image>
+  </url>
+</urlset>

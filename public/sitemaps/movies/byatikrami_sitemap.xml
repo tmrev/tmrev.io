@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1004184-Byatikrami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1004184-Byatikrami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ROJUXflbEOLYrfiaiJNhhSitDe.jpg</image:loc
+      >
+      <image:caption
+        >When a woman loses her baby, her husband abandons her and she starts
+        showing schizophrenic symptoms. She sets her eyes on her elder sister's
+        husband and tries to get close to him.</image:caption
+      >
+      <image:title>Byatikrami</image:title>
+    </image:image>
+  </url>
+</urlset>

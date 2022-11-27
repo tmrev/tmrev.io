@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475908-Carmilla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475908-Carmilla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jeVujtPRWHSusWGcNJ68BZYKIB1.jpg</image:loc
+      >
+      <image:caption
+        >Isolated from the outside world, fifteen-year-old Lara lives in
+        seclusion on a vast country estate with her father and strict governess
+        Miss Fontaine. Late one evening, a mysterious carriage crash brings a
+        young girl into their home to recuperate. Lara immediately becomes
+        enchanted by this strange visitor who arouses her curiosity and awakens
+        her burgeoning desires.</image:caption
+      >
+      <image:title>Carmilla</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/779923-Boxer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/779923-Boxer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3SCQXvSELTphmHCkfifwmjZS1tB.jpg</image:loc
+      >
+      <image:caption
+        >Rony is the son of a rich man, who craves success as a boxer. In the
+        pursuit of fame he pushes aside his family and the one girl who truly
+        loved him. Loneliness being his only companion, Rony embraces his dream
+        by going back to boxing. In the ring, he realises that life is pretty
+        much like a boxing ring. Rony sets out to make things right in his
+        life.</image:caption
+      >
+      <image:title>Boxer</image:title>
+    </image:image>
+  </url>
+</urlset>

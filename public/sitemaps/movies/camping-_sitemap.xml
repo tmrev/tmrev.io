@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375804-Camping 3</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375804-Camping 3</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sdNwYpjH4yCwhbKFOYrpClrvxHg.jpg</image:loc
+      >
+      <image:caption
+        >Like every summer, our friends, the Pics, Jacky and Laurette, Gatineau,
+        recently divorced from Sopie, and Patrick Chirac, ever true to form, get
+        together at the Blue Waves camping grounds. This year, Patrick has
+        decided to try car sharing. Believing that he'll travel through France
+        alone with Vanessa, he finds himself accompanied by three young Dijon
+        inhabitants: smooth-talking Robert, good-looking Benji and loudmouth
+        José. Of course, after car sharing Patrick is forced to try out bed
+        sharing...</image:caption
+      >
+      <image:title>Camping 3</image:title>
+    </image:image>
+  </url>
+</urlset>

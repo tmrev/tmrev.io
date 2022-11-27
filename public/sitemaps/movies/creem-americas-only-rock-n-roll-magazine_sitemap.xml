@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/406486-Creem: America's Only Rock 'n' Roll
+      Magazine</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/406486-Creem: America's Only Rock 'n' Roll
+      Magazine</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rRqgQTcUClCju0PdFqZmvA4ipd.jpg</image:loc
+      >
+      <image:caption
+        >Explores the seminal music magazine from its 1969 launch in Detroit to
+        the untimely death of its publisher Barry Kramer in 1981.</image:caption
+      >
+      <image:title>Creem: America's Only Rock 'n' Roll Magazine</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38244-Casa de los Babys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38244-Casa de los Babys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sFSCFlfY9i1eaBLcJdaNvscJK31.jpg</image:loc
+      >
+      <image:caption
+        >A group of women, including Skipper, the wealthy young Jennifer and the
+        domineering Nan, journey from the United States to South America in
+        hopes of easily adopting children. Unfortunately, their plans are
+        complicated by local laws that require the women to live in the foreign
+        nation for an extended period before they can take in orphaned kids.
+        While stuck in another country, the women bond as they share their
+        aspirations and anxieties.</image:caption
+      >
+      <image:title>Casa de los Babys</image:title>
+    </image:image>
+  </url>
+</urlset>

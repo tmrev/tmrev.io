@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32782-Come Dance at My Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32782-Come Dance at My Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wypnjMC7XQvNlQ7rFViCFibqWnM.jpg</image:loc
+      >
+      <image:caption
+        >Just a few weeks before her wedding, dance teacher Cyd Merriman comes
+        face-to-face with the father she never knew. As they deal with the
+        emotional repercussions of his return, they must decide together whether
+        to sell the dance studio that has been in the family for generations to
+        a real estate developer.</image:caption
+      >
+      <image:title>Come Dance at My Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/23903-Curious George 2: Follow That Monkey!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/23903-Curious George 2: Follow That Monkey!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1jkSEqOvp3CnA3UzWrT56cu7yLR.jpg</image:loc
+      >
+      <image:caption
+        >The film chronicles George's adventures as he befriends Kayla, a baby
+        elephant, at a magic circus show and helps her travel across the country
+        to be reunited with her family.Accompanied by his friend, the Man with
+        the Yellow Hat, George travels by foot, train, and truck to reach
+        Kayla's brother and sister in California, only to be accused of
+        elephant-napping and brought all the way back to New
+        York.</image:caption
+      >
+      <image:title>Curious George 2: Follow That Monkey!</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539771-Bronx-Barbès</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539771-Bronx-Barbès</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6t8PpWDh2aDxYdDsspee8ITaS17.jpg</image:loc
+      >
+      <image:caption
+        >A drama set in the brutal world of Africa's ghettos, Bronx-Barbes opens
+        with an introduction to Toussaint and Nixon, two teenaged friends who
+        are out of work and commit petty thievery in order to eat. After
+        accidentally murdering a ganglord one night, the two are taken under the
+        wing of a group of thugs who populate the Bronx, a tough neighborhood
+        run by a Mafia-like organization. Toussaint is able to scale the ranks
+        of the neighborhood hierarchy, while Nixon ends up in jail for burglary,
+        and is only released after Toussaint raises the money to free him.
+        Eventually, the friends move on to Barbes, an even rougher neighborhood
+        where they find that it takes more than just friendship to
+        survive.</image:caption
+      >
+      <image:title>Bronx-Barbès</image:title>
+    </image:image>
+  </url>
+</urlset>

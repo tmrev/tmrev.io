@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/583372-Chronicle Mysteries: Vines that Bind</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/583372-Chronicle Mysteries: Vines that Bind</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xqwXUeE4RAMDqVhs7S94vbmr7bH.jpg</image:loc
+      >
+      <image:caption
+        >The latest edition of Alex McPherson’s true crime podcast leads her and
+        most of the Chronicle staff to nearby Macklin, where they investigate
+        the death of a vintner that was ruled an accident by the local
+        police.</image:caption
+      >
+      <image:title>Chronicle Mysteries: Vines that Bind</image:title>
+    </image:image>
+  </url>
+</urlset>

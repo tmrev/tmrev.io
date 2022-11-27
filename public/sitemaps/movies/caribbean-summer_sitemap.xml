@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/970896-Caribbean Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/970896-Caribbean Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2kiRSeVBL4PC2W34ZcICA6zetUT.jpg</image:loc
+      >
+      <image:caption
+        >Jade, a news producer heads to the Caribbean for relaxation, only to
+        fall victim to a rental scam. Serendipitously, she befriends the real
+        owner, Ford, and discovers fun and romance.</image:caption
+      >
+      <image:title>Caribbean Summer</image:title>
+    </image:image>
+  </url>
+</urlset>

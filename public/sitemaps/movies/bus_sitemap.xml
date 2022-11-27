@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472048-Bus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472048-Bus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7XjKI5L7Xg1sXiR7JrR4mevPVdR.jpg</image:loc
+      >
+      <image:caption
+        >This documentary follows a bustrip from Tallinn to Kaliningrad. A route
+        that was so common in the Soviet times now passes through 4 different
+        countries and crosses 3 different borders.</image:caption
+      >
+      <image:title>Bus</image:title>
+    </image:image>
+  </url>
+</urlset>

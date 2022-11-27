@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14761-Cocaine Cowboys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14761-Cocaine Cowboys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hkU1V6DBJoCUxi3xVHiI0OI38oN.jpg</image:loc
+      >
+      <image:caption
+        >In the 1980s, ruthless Colombian cocaine barons invaded Miami with a
+        brand of violence unseen in this country since Prohibition-era Chicago -
+        and it put the city on the map. "Cocaine Cowboys" is the true story of
+        how Miami became the drug, murder and cash capital of the United States,
+        told by the people who made it all happen.</image:caption
+      >
+      <image:title>Cocaine Cowboys</image:title>
+    </image:image>
+  </url>
+</urlset>

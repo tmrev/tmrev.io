@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/783570-C'est magnifique !</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/783570-C'est magnifique !</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kXncN0io58NdvgOoxB6n42Uh7oP.jpg</image:loc
+      >
+      <image:caption
+        >When Pierre learns that his parents are not his parents, he wants to
+        find out who he is and where he comes from. Raised in nature, Pierre has
+        never been confronted with society. He does not know the codes. He will
+        team up with Anna who will help him in his quest and cross a whole
+        gallery of characters as funny as tender. But during his investigation,
+        Pierre will lose his colors – like a photo that fades.</image:caption
+      >
+      <image:title>C'est magnifique !</image:title>
+    </image:image>
+  </url>
+</urlset>

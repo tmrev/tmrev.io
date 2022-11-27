@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429724-Browse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429724-Browse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f5VrmnvvKF5sbi81JfcKvoY5nIO.jpg</image:loc
+      >
+      <image:caption
+        >A solitary man becomes convinced that someone hacked into all of his
+        devices and that they're being used to manipulate and control
+        him.</image:caption
+      >
+      <image:title>Browse</image:title>
+    </image:image>
+  </url>
+</urlset>

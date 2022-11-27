@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/109913-California Conquest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/109913-California Conquest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e0wf9lsVM9tf8qZnxGVGkI0WBXP.jpg</image:loc
+      >
+      <image:caption
+        >The period is the 1840s and California is part of Mexico. Many of the
+        citizens wish to become part of the United States. Other countries are
+        also interested and the Russians have established bases in the northern
+        part of the state. To further their hold they have stolen guns and Don
+        Arturo Bordega, a leader of those wanting statehood, is out to recover
+        them.</image:caption
+      >
+      <image:title>California Conquest</image:title>
+    </image:image>
+  </url>
+</urlset>

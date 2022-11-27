@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20048-Confessions of a Shopaholic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20048-Confessions of a Shopaholic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6DH1iP06fcpjD7tppsTwcAyZfDR.jpg</image:loc
+      >
+      <image:caption
+        >In the glamorous world of New York City, Rebecca Bloomwood is a
+        fun-loving girl who is really good at shopping-a little too good,
+        perhaps. She dreams of working for her favorite fashion magazine, but
+        can't quite get her foot in the door-until ironically, she snags a job
+        as an advice columnist for a financial magazine published by the same
+        company.</image:caption
+      >
+      <image:title>Confessions of a Shopaholic</image:title>
+    </image:image>
+  </url>
+</urlset>

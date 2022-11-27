@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/985300-"BUZZ!!" THE MOVIE</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/985300-"BUZZ!!" THE MOVIE</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oDhDVbeMblwLS9UXBzrdRWsqgPW.jpg</image:loc
+      >
+      <image:caption
+        >"BUZZ!!" THE MOVIE is a home video by B'z, released on January 1, 1996.
+        The film shows the majority of the setlist to B'z LIVE-GYM Pleasure'95
+        "BUZZ!!" in full, along with a great deal of backstage footage and
+        interviews from various shows. The video was later issued on DVD on
+        March 14, 2001, with two bonus tracks "Mou Ichido Kiss Shitakatta" and
+        "Hadashi no Megami", along with three other older home video releases
+        and the band's then-latest single, "ultra soul".</image:caption
+      >
+      <image:title>"BUZZ!!" THE MOVIE</image:title>
+    </image:image>
+  </url>
+</urlset>

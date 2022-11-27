@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39848-Breakfast with Hunter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39848-Breakfast with Hunter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/78kYQQZ1tTK4oXlI1P1PxLQJbFn.jpg</image:loc
+      >
+      <image:caption
+        >Breakfast with Hunter is a feature length documentary starring the
+        infamous outlaw journalist Dr. Hunter S. Thompson. Edited by director
+        Wayne Ewing from cinema verite film and digital video that he shot over
+        many years on the road with Dr. Thompson, Breakfast with Hunter follows
+        several story lines in the trials (literally) and triumphs of this
+        cultural icon who created his own genre of writing - Gonzo
+        journalism.</image:caption
+      >
+      <image:title>Breakfast with Hunter</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/605587-Buzz Saw</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/605587-Buzz Saw</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2jEMa87rJT0k2OMPD5gLdqhQ7mf.jpg</image:loc
+      >
+      <image:caption
+        >Pete Shepherd, a maintenance man at Pea Tree Apartments, has his
+        universe pulled inside out in this mysterious tale of twisted suspense.
+        Pete and his coworker, the paranoid yet darkly comedic Cass, are
+        tormented by freakish murders of outlandish proportion as residents are
+        brutally slain, one by one, are left for the men to discover. Clues only
+        lead to dead ends in this supernatural thriller, but one common thread
+        persists: the murder weapons are all tools belonging to Pete...Who is to
+        blame? And who will put a stop to the horrific bloodbath?</image:caption
+      >
+      <image:title>Buzz Saw</image:title>
+    </image:image>
+  </url>
+</urlset>

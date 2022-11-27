@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/752916-Charlie's Christmas Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/752916-Charlie's Christmas Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oJ0E6bDENrDb7PzyCImwTRlxuMf.jpg</image:loc
+      >
+      <image:caption
+        >Coming home from his last deployment, Sgt. Major John Frost arrives a
+        month early and he’s happy to be home for Christmas. He finds his wife,
+        Jill and son Jimmy too busy to give him the welcome he anticipated and
+        in his absence, they have adopted a dog - a little dog named Charlie.
+        John finds solace with the fellow vets at the Moose Lodge until Charlie
+        finds Hank, a retired Vietnam vet, homeless and having suffered a heart
+        attack. John finds his purpose as he rallies friends, family and
+        community to build a new house for the vets and give them a warm
+        Christmas Eve and a new start on civilian life.</image:caption
+      >
+      <image:title>Charlie's Christmas Wish</image:title>
+    </image:image>
+  </url>
+</urlset>

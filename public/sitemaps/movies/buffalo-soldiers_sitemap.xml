@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9104-Buffalo Soldiers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9104-Buffalo Soldiers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNl4T8xxC0xDeX8JFJVCBzH4Kg8.jpg</image:loc
+      >
+      <image:caption
+        >A criminal subculture operates among U.S. soldiers stationed in West
+        Germany just before the fall of the Berlin wall.</image:caption
+      >
+      <image:title>Buffalo Soldiers</image:title>
+    </image:image>
+  </url>
+</urlset>

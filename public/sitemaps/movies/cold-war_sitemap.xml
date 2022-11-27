@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440298-Cold War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440298-Cold War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg</image:loc
+      >
+      <image:caption
+        >A man and a woman meet in the ruins of post-war Poland. With vastly
+        different backgrounds and temperaments, they are fatally mismatched and
+        yet drawn to each other.</image:caption
+      >
+      <image:title>Cold War</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/141747-Craft</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/141747-Craft</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bWW5T8S7ioDZz9140ynOlnA9edZ.jpg</image:loc
+      >
+      <image:caption
+        >What's the importance of luck in life? How much effort and talent is
+        enough to guarantee a solid carrier? Is luck part of the craft? Bianca
+        is an excellent actor but theater doesn't pay the bills yet. In order to
+        make a living, she impersonates movie divas and promotes events. Bianca
+        auditions for a big international production and gets the part. The
+        director of the film, inspired by her work, changes the character he
+        wrote into a version of Bianca. Is this the chance of a
+        lifetime?</image:caption
+      >
+      <image:title>Craft</image:title>
+    </image:image>
+  </url>
+</urlset>

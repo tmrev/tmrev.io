@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/240820-Christmas in Conway</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/240820-Christmas in Conway</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7aHxp9CrvxuWbGWO1BmYdFpk0Fo.jpg</image:loc
+      >
+      <image:caption
+        >Duncan Mayor decides the perfect Christmas present for his terminally
+        ill wife, Suzy, is a ride on a real Ferris wheel, set up in their very
+        own back yard. As a young man, it was the perfect place for a wedding
+        proposal. Now, years later, in order to relive the experience with his
+        wife, Duncan will go to any length to make their fantasy become a
+        reality.</image:caption
+      >
+      <image:title>Christmas in Conway</image:title>
+    </image:image>
+  </url>
+</urlset>

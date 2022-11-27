@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1026966-Casablanca, Casablanca</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1026966-Casablanca, Casablanca</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bBA22DP4QPcWxuPnwRh05D8cgnL.jpg</image:loc
+      >
+      <image:caption
+        >The story of Aicha, a young girl who disappears one day, and whose
+        father lives a difficult life that gets even worse after her
+        disappearance.</image:caption
+      >
+      <image:title>Casablanca, Casablanca</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1003867-Broken Beat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1003867-Broken Beat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fjfXvgdx5nSzFmQ0F4y4a8ZyTq0.jpg</image:loc
+      >
+      <image:caption
+        >Will and Jacob are lovers but are worlds apart. Will is a golden boy,
+        tall, fair, and accustomed to success. He is loved by his family, has
+        "come out" to his parents, but conceals his homosexuality from his
+        colleagues. Jacob on the other had is as dark as Will is fair, of a
+        large hardworking Italian family who could never accept his
+        homosexuality.</image:caption
+      >
+      <image:title>Broken Beat</image:title>
+    </image:image>
+  </url>
+</urlset>

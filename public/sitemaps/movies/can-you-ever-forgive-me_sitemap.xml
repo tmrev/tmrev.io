@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/401847-Can You Ever Forgive Me?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/401847-Can You Ever Forgive Me?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hPuZR2bFoV0kuBrA98exWyvTf40.jpg</image:loc
+      >
+      <image:caption
+        >When a bestselling celebrity biographer is no longer able to get
+        published because she has fallen out of step with current tastes, she
+        turns her art form to deception.</image:caption
+      >
+      <image:title>Can You Ever Forgive Me?</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/925758-Buildings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/925758-Buildings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r0HutwzEN8k5FnBpfSXQ43XEO4e.jpg</image:loc
+      >
+      <image:caption
+        >it is a story of a skyscraper that has suddenly appeared in a town. The
+        skyscraper looks down on the low-rise buildings and wants to stand out,
+        causing fear and annoyance among the buildings around it. As a result,
+        it is hated. And, the town goes under water by a sudden
+        storm.</image:caption
+      >
+      <image:title>Buildings</image:title>
+    </image:image>
+  </url>
+</urlset>

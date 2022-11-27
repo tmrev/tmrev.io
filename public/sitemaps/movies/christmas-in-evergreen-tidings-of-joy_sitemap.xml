@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/630921-Christmas In Evergreen: Tidings of Joy</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/630921-Christmas In Evergreen: Tidings of Joy</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ej6FGMa62uzGPoWooZD2XnLm26.jpg</image:loc
+      >
+      <image:caption
+        >A skeptical writer shows up in Evergreen to get the scoop on the town's
+        famed passion for Christmas during a search for a long-lost time
+        capsule.</image:caption
+      >
+      <image:title>Christmas In Evergreen: Tidings of Joy</image:title>
+    </image:image>
+  </url>
+</urlset>

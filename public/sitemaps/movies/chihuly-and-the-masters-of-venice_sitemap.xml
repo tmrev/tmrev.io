@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276429-Chihuly and the Masters of Venice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276429-Chihuly and the Masters of Venice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xpoWSQd01BHfEoKf1XwcQuPuTJI.jpg</image:loc
+      >
+      <image:caption
+        >Two of the world's most accomplished glassblowing masters travel from
+        Venice, Italy, to America to collaborate with sculptor Dale Chihuly.
+        Pino Signoretto and Lino Tagliapietra combine their talents with those
+        of Chihuly to create beautiful works. Forbidden to work together back
+        home in Venice, these two glass masters revel in this rare opportunity
+        to join forces and let their imaginations run wild.</image:caption
+      >
+      <image:title>Chihuly and the Masters of Venice</image:title>
+    </image:image>
+  </url>
+</urlset>

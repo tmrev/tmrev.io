@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24481-Born Yesterday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24481-Born Yesterday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hPiQUhnkgp2O9bQz9KhSyOjLvGl.jpg</image:loc
+      >
+      <image:caption
+        >Uncouth, loud-mouth junkyard tycoon Harry Brock descends upon
+        Washington D.C. to buy himself a congressman or two, bringing with him
+        his mistress, ex-showgirl Billie Dawn.</image:caption
+      >
+      <image:title>Born Yesterday</image:title>
+    </image:image>
+  </url>
+</urlset>

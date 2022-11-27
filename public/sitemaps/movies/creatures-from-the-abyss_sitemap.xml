@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42870-Creatures from the Abyss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42870-Creatures from the Abyss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pbmjo8cDQfgBkYUdW0H5ys6oiCS.jpg</image:loc
+      >
+      <image:caption
+        >Five teenagers embark on a boating trip off the coast of Florida. The
+        teens get hopelessly lost at sea after they get caught in a fierce
+        storm. Fortunately, the quintet stumble across an abandoned yacht in the
+        middle of the ocean with a mysterious biology lab on board it.
+        Unfortunately, there are also ferocious mutated prehistoric fish running
+        amok on the yacht. Will any of the teens survive this harrowing
+        ordeal?</image:caption
+      >
+      <image:title>Creatures from the Abyss</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110733-By the Bluest of Seas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110733-By the Bluest of Seas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o9PzjQheqgA72pDtsmg8VGYDz7u.jpg</image:loc
+      >
+      <image:caption
+        >Yussuf and Aliosha are two shipwrecked sailors on an island in the
+        Caspian Sea. They start working as sailor and mechanic for the fishing
+        boats of the "Lights of the Communism" kolkhoz. Here the two friends
+        will fall in love with the beautiful Masha.</image:caption
+      >
+      <image:title>By the Bluest of Seas</image:title>
+    </image:image>
+  </url>
+</urlset>

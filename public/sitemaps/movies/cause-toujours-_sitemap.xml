@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78279-Cause toujours !</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78279-Cause toujours !</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lOeOBYEdF0H1BhoQetkSpcTQXtm.jpg</image:loc
+      >
+      <image:caption
+        >This way-offbeat comedy from Gallic director Jeanne Labrune concerns
+        two young French women, best friends Léa and Jacinthe. While Jacinthe
+        develops a fixation with the moths that begin to cluster in frightening
+        quantities throughout her apartment, Léa finds herself drawn to a
+        dim-witted fellow employed by a local supermarket, then impulsively
+        decides to follow him home via train. When Léa mysteriously disappears
+        during the days that follow, Jacinthe naturally grows concerned about
+        her friend and decides to investigate.</image:caption
+      >
+      <image:title>Cause toujours !</image:title>
+    </image:image>
+  </url>
+</urlset>

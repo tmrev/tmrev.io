@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/275244-Cheburashka</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/275244-Cheburashka</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hmjmFGBlTa8jFWeeoyWqUKXH2ba.jpg</image:loc
+      >
+      <image:caption
+        >The film based on the book by Eduard Uspensky "Crocodile Gena and his
+        friends". Crocodile Gena works in a zoo - a crocodile. Every evening he
+        returns home to his lonely apartment. Finally he tired of playing with
+        himself in chess, and Gene decides to make friends. On the ads pasted
+        around the city, responding animals and people. First comes a girl with
+        a homeless puppy Gal, followed by the Cheburashka...</image:caption
+      >
+      <image:title>Cheburashka</image:title>
+    </image:image>
+  </url>
+</urlset>

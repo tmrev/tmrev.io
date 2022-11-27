@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/331806-Clue: A Movie Mystery Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/331806-Clue: A Movie Mystery Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nRrtOGp2RttQTpC0kNG6DJnsZzd.jpg</image:loc
+      >
+      <image:caption
+        >In a new take on the classic 1985 film of the same name, six teens
+        accidentally witness a horrible crime and must work to piece together
+        clues they find to solve the mystery of 'who done it.' They soon find
+        out that there is a lot more than meets the eye as they discover hidden
+        treasure and a secret society.</image:caption
+      >
+      <image:title>Clue: A Movie Mystery Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/245925-Bushido Sixteen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/245925-Bushido Sixteen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qF0Tbw5IHleRBv1tM5IeGUYnC8i.jpg</image:loc
+      >
+      <image:caption
+        >Kaori is an intense kendo fighter who has been training since she was
+        young. Sanae is a girl who has only participated in kendo casually, but
+        somehow manages to beat Kaori in the final tournament of junior high
+        school. Although Sanae doesn’t particularly care about it, Kaori holds a
+        grudge, setting up a rivalry that bleeds over into high
+        school.</image:caption
+      >
+      <image:title>Bushido Sixteen</image:title>
+    </image:image>
+  </url>
+</urlset>

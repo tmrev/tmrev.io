@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/933406-Chasing Buddha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/933406-Chasing Buddha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hNaZfMKRwVBjDszBkgZP4z8QjK3.jpg</image:loc
+      >
+      <image:caption
+        >In his inspired first film, Chasing Buddha, Amiel Courtin-Wilson (who
+        happens to be Robina’s nephew) provides an intimate portrait of a unique
+        individual whose own search for inner peace helps guide others to
+        transcend their arduous circumstances. An Australian expatriate,
+        ex-Catholic, and ex-leftist radical with a penchant for speeding,
+        espresso coffee, and four letter profanities, Robin Courtin hardly seems
+        a likely candidate for a Buddabist nun. And yet, since her conversion,
+        Robina has traveled the globe, teaching her very unique brand of
+        Buddhism to an international following of passionate
+        devotees.</image:caption
+      >
+      <image:title>Chasing Buddha</image:title>
+    </image:image>
+  </url>
+</urlset>

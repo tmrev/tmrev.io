@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/300282-Christa McAuliffe: Reach for the Stars</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/300282-Christa McAuliffe: Reach for the Stars</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v3srcnizNi9mgglt3XbTqH9xJch.jpg</image:loc
+      >
+      <image:caption
+        >The amazing story of NASA's Teacher in Space, Christa McAuliffe - and
+        the impact her death had on her family and the nation - watching in
+        horror as space shuttle Challenger exploded on January 28th 1986.
+        Narrated by Susan Sarandon, music by Carly Simon.</image:caption
+      >
+      <image:title>Christa McAuliffe: Reach for the Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

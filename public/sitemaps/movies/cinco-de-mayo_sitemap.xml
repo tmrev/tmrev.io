@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788629-Cinco de Mayo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788629-Cinco de Mayo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The riveting story of the day an ill-equipped Mexican Army, Zacapoaxtla
+        Indians, and average Mexican citizens reclaimed their lives. Together
+        they bravely defeated occupying French forces to reclaim their land and
+        secure their independence.</image:caption
+      >
+      <image:title>Cinco de Mayo</image:title>
+    </image:image>
+  </url>
+</urlset>

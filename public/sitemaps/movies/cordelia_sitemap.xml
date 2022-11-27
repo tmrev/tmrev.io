@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514743-Cordelia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514743-Cordelia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3LD2EaAxV09Md3RK5gIYx0RQw7X.jpg</image:loc
+      >
+      <image:caption
+        >Cordelia ia a troubled, damaged soul who is only just recovering after
+        some unnamed trauma; she is an actor rehearsing a play and comes to stay
+        in a creepy London mansion flat occupied by her twin sister Caroline and
+        Caroline’s boyfriend Matt. When they leave her alone there Cordelia
+        strikes up a friendship with Frank the charming, but strange and
+        unreliable young man they can hear practising his cello in the upstairs
+        flat – a relationship which quickly becomes very
+        disturbing.</image:caption
+      >
+      <image:title>Cordelia</image:title>
+    </image:image>
+  </url>
+</urlset>

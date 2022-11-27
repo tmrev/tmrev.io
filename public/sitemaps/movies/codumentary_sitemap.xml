@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/556196-CODumentary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/556196-CODumentary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qPl4oeItLKkSheOQck7qK3kHcod.jpg</image:loc
+      >
+      <image:caption
+        >An independent documentary telling a story of how the video game Call
+        Of Duty grew into one of the biggest global entertainment blockbuster
+        franchises of all time. Featuring developers,experts and pro players,the
+        film looks at how a single video game gained millions of fans,broke
+        numerous records and battled through the years to establish itself as
+        one of the greatest video games of all time.</image:caption
+      >
+      <image:title>CODumentary</image:title>
+    </image:image>
+  </url>
+</urlset>

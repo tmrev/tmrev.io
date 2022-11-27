@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474819-Countrycide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474819-Countrycide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fJddfXIlhaEdGHr0bNWxHZbCsHb.jpg</image:loc
+      >
+      <image:caption
+        >Abby and Mike are on a long road trip to her sister's wedding when they
+        stop to camp out for the night. Soon they're lost in the woods and at
+        the mercy of nature--and something more sinister.</image:caption
+      >
+      <image:title>Countrycide</image:title>
+    </image:image>
+  </url>
+</urlset>

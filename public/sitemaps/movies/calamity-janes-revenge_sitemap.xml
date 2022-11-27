@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/356849-Calamity Jane's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/356849-Calamity Jane's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s7WmWLl4c11lFlEvysUBJcRrmKU.jpg</image:loc
+      >
+      <image:caption
+        >A western that takes a look at a different take on the death of Wild
+        Bill Hickok and the revenge Calamity Jane takes on the men who conspired
+        to kill him. While Jane is on the hunt taking the law into her own hands
+        a lawman enlists the help of Jane's friend Colorado Charlie Utter to
+        track Jane and stop her before she goes too far.</image:caption
+      >
+      <image:title>Calamity Jane's Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034130-Christmas Party Crashers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034130-Christmas Party Crashers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4uBJAAXtuP8nFI2WBstLUKiaqdG.jpg</image:loc
+      >
+      <image:caption
+        >When two grifters meet after crashing the same millionaire’s Christmas
+        party, they agree to work together to achieve each other’s “mission,”
+        not knowing that they would find something more than money or fame –
+        true love.</image:caption
+      >
+      <image:title>Christmas Party Crashers</image:title>
+    </image:image>
+  </url>
+</urlset>

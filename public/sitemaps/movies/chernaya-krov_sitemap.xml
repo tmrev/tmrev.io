@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62284-Chernaya Krov</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62284-Chernaya Krov</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Русско-эстонская банда похищает офицера российской таможни, прибывшего
+        в Таллин с особо важными документами. При попытке допроса оперативник
+        теряет память. Пытаясь вырвать у офицера необходимую информацию,
+        преступники делают его наркоманом… Офицер спецотряда "Кобра" совместно с
+        эстонскими полицейскими пытается найти в Таллине следы похищенного
+        мафией офицера Государственного Таможенного Комитета
+        России.</image:caption
+      >
+      <image:title>Chernaya Krov</image:title>
+    </image:image>
+  </url>
+</urlset>

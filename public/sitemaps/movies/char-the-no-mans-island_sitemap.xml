@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171965-Char... the No Man's Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171965-Char... the No Man's Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/SIS6LON2mE7BzdwGAaTSacX1GW.jpg</image:loc
+      >
+      <image:caption
+        >Meet Rubel, fourteen years old boy smuggling rice from India to
+        Bangladesh. He has to cross the river Ganga acting as the international
+        border. The same river eroded his home in mainland.</image:caption
+      >
+      <image:title>Char... the No Man's Island</image:title>
+    </image:image>
+  </url>
+</urlset>

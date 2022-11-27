@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58457-Burning Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58457-Burning Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/73Imx1o2LabUURjKy1kFW6aQ9nQ.jpg</image:loc
+      >
+      <image:caption
+        >An exotic, legendary battle between the forces of good and evil comes
+        to life as the celebrated disciples of the Shaolin Temple -- monks who
+        practice a lethal and spiritual form of martial arts -- fight the evil
+        followers of China's Manchu rulers.</image:caption
+      >
+      <image:title>Burning Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

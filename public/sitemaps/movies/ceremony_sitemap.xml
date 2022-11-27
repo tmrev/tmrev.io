@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55246-Ceremony</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55246-Ceremony</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7o2JhrMOYmGoZTeghXqYW9sEQzz.jpg</image:loc
+      >
+      <image:caption
+        >Sam Davis convinces his former best friend to spend a weekend with him
+        to rekindle their friendship at an elegant beachside estate owned by a
+        famous documentary filmmaker. However, it soon becomes clear that Sam is
+        secretly infatuated with his ex, Zoe, who is now the filmmaker’s
+        fiancée, and that his true intention is to thwart their impending
+        nuptials. As Sam’s plan begins to unravel, he is forced to realize how
+        complicated love and friendship can be.</image:caption
+      >
+      <image:title>Ceremony</image:title>
+    </image:image>
+  </url>
+</urlset>

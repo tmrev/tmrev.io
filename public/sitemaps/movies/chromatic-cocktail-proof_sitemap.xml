@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/961704-Chromatic Cocktail 180 Proof</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/961704-Chromatic Cocktail 180 Proof</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/64A8Fh4g0Za4iwQo4SmHqCVYuLD.jpg</image:loc
+      >
+      <image:caption
+        >Digital video in Chromadepth 3D. "The bubbly dayglo images and bleepy
+        beats added a nice sacriligous feeling, since experimental film shows
+        often feel like going to church." -David Cairns</image:caption
+      >
+      <image:title>Chromatic Cocktail 180 Proof</image:title>
+    </image:image>
+  </url>
+</urlset>

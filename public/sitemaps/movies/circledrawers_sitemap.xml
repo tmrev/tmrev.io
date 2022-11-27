@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/944454-Circledrawers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/944454-Circledrawers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7MkAYoMQ3f0WtUIiz8F2pOLPjew.jpg</image:loc
+      >
+      <image:caption
+        >Welcome to world of the Circledrawers - lowly janitors of the
+        Almighty's imperfect system, angels living among us and performing the
+        most mundane of tasks. Oleg, a special emissary has arrived at
+        transmission central in Iceland to do the semi-centennial report on the
+        efficiency of the Circledrawer system.</image:caption
+      >
+      <image:title>Circledrawers</image:title>
+    </image:image>
+  </url>
+</urlset>

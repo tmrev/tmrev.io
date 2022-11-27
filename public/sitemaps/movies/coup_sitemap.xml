@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/980950-Coup!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/980950-Coup!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Dramatisation of the abortive real-life attempt by Simon Mann to
+        organise a coup to take over Equatorial Guinea in 2004. The case
+        achieved notoriety because one of the financial backers of the project
+        was Sir Mark Thatcher, son of British ex-PM 'Margaret
+        Thatcher'.</image:caption
+      >
+      <image:title>Coup!</image:title>
+    </image:image>
+  </url>
+</urlset>

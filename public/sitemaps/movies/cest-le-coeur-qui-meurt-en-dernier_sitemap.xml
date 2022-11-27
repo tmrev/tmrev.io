@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451834-C'est le coeur qui meurt en dernier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451834-C'est le coeur qui meurt en dernier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xfRYwwbSqWYjfi5JHhqlXd1sX.jpg</image:loc
+      >
+      <image:caption
+        >At 47, Julien is an eternal misfit with no real job. But now that he
+        has published an autobiography recounting his childhood memories, a
+        complicated relationship with his mother and troubling family secrets,
+        success is knocking on his door. Julien and his mother have cut ties a
+        long time ago and she doesn't know about the book. Living a sad and
+        miserable life in a retirement home, she renews contact with her son to
+        make up for lost time. But is that all there is to it?</image:caption
+      >
+      <image:title>C'est le coeur qui meurt en dernier</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438857-Cook Up a Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438857-Cook Up a Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jHMVa4VWLxggvbDo2Ol1ln4obJs.jpg</image:loc
+      >
+      <image:caption
+        >An international culinary competition becomes a battleground between
+        rival cooks, one famous for his Cantonese street food and the other a
+        Michelin-starred chef trained in France. But their rivalry takes an
+        unexpected turn when they discover a common foe and combine their skills
+        in a fusion of East and West.</image:caption
+      >
+      <image:title>Cook Up a Storm</image:title>
+    </image:image>
+  </url>
+</urlset>

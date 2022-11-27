@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474051-Calibre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474051-Calibre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gCVOQzV7Z556WnJFNeX7y8BFhyW.jpg</image:loc
+      >
+      <image:caption
+        >Two lifelong friends head up to an isolated Scottish Highlands village
+        for a weekend hunting trip that descends into a never-ending nightmare
+        as they attempt to cover up a horrific hunting accident.</image:caption
+      >
+      <image:title>Calibre</image:title>
+    </image:image>
+  </url>
+</urlset>

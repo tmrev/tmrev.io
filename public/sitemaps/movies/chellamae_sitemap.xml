@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76967-Chellamae</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76967-Chellamae</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pBXQccVn4TCKvLzMwCpGlltWgOY.jpg</image:loc
+      >
+      <image:caption
+        >A young man follows his newlywed neighbour from Chennai to Goa when she
+        moves there with her husband. He ends up kidnapping her when his
+        obsession takes a drastic turn.</image:caption
+      >
+      <image:title>Chellamae</image:title>
+    </image:image>
+  </url>
+</urlset>

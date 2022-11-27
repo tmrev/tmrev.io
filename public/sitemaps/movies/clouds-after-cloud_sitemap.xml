@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/853426-Clouds After Cloud</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/853426-Clouds After Cloud</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Lm5OU2PLr4r22icWKLJuZgUe2d.jpg</image:loc
+      >
+      <image:caption
+        >A story of Bangladesh’s liberation war of 1971. Where two doppelgängers
+        encounter each other in the war camp. The film revolves around their
+        friendship & journey after the war.</image:caption
+      >
+      <image:title>Clouds After Cloud</image:title>
+    </image:image>
+  </url>
+</urlset>

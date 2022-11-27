@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/303096-Brothers in Exile</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/303096-Brothers in Exile</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kRgcG6xli3ewvsjaFeQoG2IQ7Sq.jpg</image:loc
+      >
+      <image:caption
+        >Major League Baseball has been transformed by the influx of Cuban
+        players such as Aroldis Chapman, Yasiel Puig and Jose Abreu. But a
+        special debt of gratitude is owed to two half-brothers, whose courage
+        two decades ago paved the way for their stardom. "Brothers in Exile"
+        tells the incredible story of Livan and Orlando "El Duque" Hernandez,
+        who risked their lives to get off the island.</image:caption
+      >
+      <image:title>Brothers in Exile</image:title>
+    </image:image>
+  </url>
+</urlset>

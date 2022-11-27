@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/292643-Cutaway</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/292643-Cutaway</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zMItSzw9oR6ffXG6s8Z4cNMO1YK.jpg</image:loc
+      >
+      <image:caption
+        >Cutaway portrays a phase in the life of a single young man as he works
+        as a labourer, pursues relationships with women, and comes to terms with
+        a life changing event. Told through close details of hands and objects,
+        this film intimately portrays uncertainty and loss.</image:caption
+      >
+      <image:title>Cutaway</image:title>
+    </image:image>
+  </url>
+</urlset>

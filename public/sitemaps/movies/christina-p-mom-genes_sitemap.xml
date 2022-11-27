@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/971618-Christina P: Mom Genes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/971618-Christina P: Mom Genes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sMf9SqvDhHZwSJD6Iys0b1UOM5M.jpg</image:loc
+      >
+      <image:caption
+        >Comedian Christina P examines the joys and drags of parenting,
+        partnering and more through a no-nonsense Gen-X lens in this
+        special.</image:caption
+      >
+      <image:title>Christina P: Mom Genes</image:title>
+    </image:image>
+  </url>
+</urlset>

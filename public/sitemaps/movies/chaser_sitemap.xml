@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280997-Chaser</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280997-Chaser</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jiWisDsd1wDpmPwdKwmgw02fB5D.jpg</image:loc
+      >
+      <image:caption
+        >Zach is looking for something. Is it fun or thrills? Is it family? Or
+        is it love? Alienated from his conservative Jewish family and community,
+        a promising, young, gay schoolteacher seeks solace in New York's
+        barebacking scene. Official Selection: Palm Springs International
+        ShortFest, Brooklyn Film Festival, Provincetown International Film
+        Festival.</image:caption
+      >
+      <image:title>Chaser</image:title>
+    </image:image>
+  </url>
+</urlset>

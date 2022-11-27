@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25237-Come and See</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25237-Come and See</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg</image:loc
+      >
+      <image:caption
+        >The invasion of a village in Byelorussia by German forces sends young
+        Florya into the forest to join the weary Resistance fighters, against
+        his family's wishes. There he meets a girl, Glasha, who accompanies him
+        back to his village. On returning home, Florya finds his family and
+        fellow peasants massacred. His continued survival amidst the brutal
+        debris of war becomes increasingly nightmarish, a battle between despair
+        and hope.</image:caption
+      >
+      <image:title>Come and See</image:title>
+    </image:image>
+  </url>
+</urlset>

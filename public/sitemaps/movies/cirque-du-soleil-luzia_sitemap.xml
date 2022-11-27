@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476217-Cirque du Soleil: Luzia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476217-Cirque du Soleil: Luzia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2nZuGuxyuNvT0z0QoM9rLU1Ibgi.jpg</image:loc
+      >
+      <image:caption
+        >LUZIA takes you to an imaginary Mexico, like in a waking dream, where
+        light (“luz” in Spanish) quenches the spirit and rain (“lluvia”) soothes
+        the soul. With a surrealistic series of grand visual surprises and
+        breathtaking acrobatic performances, LUZIA cleverly brings to the stage
+        multiple places, faces and sounds of Mexico taken from both tradition
+        and modernity.</image:caption
+      >
+      <image:title>Cirque du Soleil: Luzia</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278477-Bottom of the Ninth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278477-Bottom of the Ninth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Forget the overpaid, overhyped major leagues. The real spirit of
+        baseball is alive and well in the minors, as this stirring documentary
+        of the New Jersey Somerset Patriots can attest. Chronicling the minor
+        league team for one season, this film offers a unique look into
+        America's favorite pastime. Oscar-nominated director Charles Braverman
+        scored a Directors Guild nomination for this real-life Bull Durham
+        story.</image:caption
+      >
+      <image:title>Bottom of the Ninth</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6075-Carlito's Way</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6075-Carlito's Way</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg</image:loc
+      >
+      <image:caption
+        >A Puerto-Rican ex-con, just released from prison, pledges to stay away
+        from drugs and violence despite the pressure around him, and lead a
+        better life outside NYC.</image:caption
+      >
+      <image:title>Carlito's Way</image:title>
+    </image:image>
+  </url>
+</urlset>

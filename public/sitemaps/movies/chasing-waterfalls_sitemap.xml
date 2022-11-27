@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793430-Chasing Waterfalls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793430-Chasing Waterfalls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eJxHoF3xqXIqamM0j9WlKxGKZ6a.jpg</image:loc
+      >
+      <image:caption
+        >Photographer Amy travels to a remote lodge to find mythical waterfalls
+        and falls for handsome guide, Mark. They adventure to find the mystic
+        waterfall and discover their true feelings.</image:caption
+      >
+      <image:title>Chasing Waterfalls</image:title>
+    </image:image>
+  </url>
+</urlset>

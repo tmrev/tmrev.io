@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/704877-Brulee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/704877-Brulee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k4dMn8myeHw3HQfu8c39d4SwDUr.jpg</image:loc
+      >
+      <image:caption
+        >Hinako is a serial arsonist. Minako has a secret. Identical twin
+        sisters ran away from each other 13 years ago. They run into each other
+        again, when Minako takes their grandmother's ashes from the Kyushu
+        district to the sea. This time, they never want to be apart, even if its
+        against their destiny.</image:caption
+      >
+      <image:title>Brulee</image:title>
+    </image:image>
+  </url>
+</urlset>

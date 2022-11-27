@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36824-Carl Barron: Whatever Comes Next</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36824-Carl Barron: Whatever Comes Next</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6oBXk941hssbN9Vo89Rg0cOquSE.jpg</image:loc
+      >
+      <image:caption
+        >Features over an hour of his award-winning show plus special
+        behind-the-scenes footage taking you on a journey you will never
+        forget</image:caption
+      >
+      <image:title>Carl Barron: Whatever Comes Next</image:title>
+    </image:image>
+  </url>
+</urlset>

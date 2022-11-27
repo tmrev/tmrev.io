@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140405-Coldplay: Live 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140405-Coldplay: Live 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eHmhChNYQLmlnNoH3ot8NJYOvzo.jpg</image:loc
+      >
+      <image:caption
+        >A concert film documenting English pop rock band Coldplay's 2011-2012
+        'Mylo Xyloto' world tour, capturing their live shows at Paris's Stade de
+        France, Montreal's Bell Centre, and Glastonbury Festival's Pyramid
+        Stage.</image:caption
+      >
+      <image:title>Coldplay: Live 2012</image:title>
+    </image:image>
+  </url>
+</urlset>

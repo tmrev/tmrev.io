@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438-Cube Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438-Cube Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p3t7ofvNlNhRkbAspiUe4ZdNcGA.jpg</image:loc
+      >
+      <image:caption
+        >Cube Zero is the third film in the trilogy yet this time instead of a
+        film about people trapped in a deadly cube trying to get out we see it
+        from the eyes of someone who is controlling the cube and the torture of
+        the victims inside. When the nerd can’t stand to see a woman suffer he
+        himself enters the cube to try and save her.</image:caption
+      >
+      <image:title>Cube Zero</image:title>
+    </image:image>
+  </url>
+</urlset>

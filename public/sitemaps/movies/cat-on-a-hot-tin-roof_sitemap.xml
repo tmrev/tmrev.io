@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/261-Cat on a Hot Tin Roof</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/261-Cat on a Hot Tin Roof</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/reO2NXIYPeBqehTsmia0P9rSMDv.jpg</image:loc
+      >
+      <image:caption
+        >An alcoholic ex-football player drinks his days away, having failed to
+        come to terms with his sexuality and his real feelings for his football
+        buddy who died after an ambiguous accident. His wife is crucified by her
+        desperation to make him desire her: but he resists the affections of his
+        wife. His reunion with his father—who is dying of cancer—jogs a host of
+        memories and revelations for both father and son.</image:caption
+      >
+      <image:title>Cat on a Hot Tin Roof</image:title>
+    </image:image>
+  </url>
+</urlset>

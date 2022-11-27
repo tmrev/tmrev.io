@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/486030-Changing Partners</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/486030-Changing Partners</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wx2OtaRkn3FktR7z8gkRM7kP0n9.jpg</image:loc
+      >
+      <image:caption
+        >The love story, shown through the perspective of different genders,
+        paints how a real relationship works. It eschews the narrative for
+        emotions and established that love knows no gender when it pains or
+        soothes, when it hurts and heals.</image:caption
+      >
+      <image:title>Changing Partners</image:title>
+    </image:image>
+  </url>
+</urlset>

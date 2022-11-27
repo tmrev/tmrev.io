@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/808962-Causality</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/808962-Causality</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg</image:loc
+      >
+      <image:caption
+        >Claudia shows up at a bar to meet Luis, a doctor who contacted her
+        through a dating app. Claudia doesn't suspect what fate has in store for
+        her. A kidnapping that ends with an inevitable and unpredictable death.
+        A suspense story with surprising twists until the last second, narrated
+        in a sequence shot without cuts.</image:caption
+      >
+      <image:title>Causality</image:title>
+    </image:image>
+  </url>
+</urlset>

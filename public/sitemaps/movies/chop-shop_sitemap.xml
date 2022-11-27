@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/338789-Chop Shop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/338789-Chop Shop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/UZtlr9TmcF5BcI23dfQ1UQL2EK.jpg</image:loc
+      >
+      <image:caption
+        >Chop Shop\” follows a group of car thieves in Los Angeles as they rise
+        from the criminal underground to become big-time international
+        players.</image:caption
+      >
+      <image:title>Chop Shop</image:title>
+    </image:image>
+  </url>
+</urlset>

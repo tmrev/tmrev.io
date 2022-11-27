@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410317-Christmas Cookies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410317-Christmas Cookies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ztUImiguxCycNeo5bVy8feyBbAw.jpg</image:loc
+      >
+      <image:caption
+        >Aunt Sally's Christmas Cookie Company is sold to a large conglomerate
+        and executive Hannah must seal the deal and shut down the factory, which
+        is the small town of Cookie Jar's lifeblood. What was supposed to be a
+        simple assignment for Hannah becomes complicated when she meets Jake,
+        the factory owner who's determined to keep the factory in town. Despite
+        not being a fan of the holiday, the Christmas spirit in this small town
+        is infectious and she gets swept up in the joy of the season while also
+        falling in love with Jake.</image:caption
+      >
+      <image:title>Christmas Cookies</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/395001-Cheetahs: The Deadly Race</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/395001-Cheetahs: The Deadly Race</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2qL7vOk8gD8kFkrEuAfBBJ0V0OA.jpg</image:loc
+      >
+      <image:caption
+        >The open terrain and abundance of suitable prey make this an ideal
+        habitat for these beautiful cats. Cheetahs have pursued their main prey,
+        the Springbuck, for thousands of years here, honing each other to ever
+        greater skills and speed.</image:caption
+      >
+      <image:title>Cheetahs: The Deadly Race</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69585-Cafe Isobe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69585-Cafe Isobe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mzOcFGuesQOlwxiHxR3XyGS5Ce4.jpg</image:loc
+      >
+      <image:caption
+        >Sakiko is a typical teenager in many ways. She hates her divorced
+        father, who chases after every skirt he sees. She does not know, if she
+        will ever be loved by the other sex. When her dad suddenly inherits a
+        lot of money and becomes really lazy, she hates him even more. He
+        finally decides to start his own cafe, where Sakiko, of course has to
+        help. From this moment, strange customers and good-looking waitresses
+        form the center of tension between father and daughter.</image:caption
+      >
+      <image:title>Cafe Isobe</image:title>
+    </image:image>
+  </url>
+</urlset>

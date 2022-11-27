@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295508-Calcutta Mail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295508-Calcutta Mail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vuRLXfk3Tn0hYNzrb1PATfiivl0.jpg</image:loc
+      >
+      <image:caption
+        >Avinash(Anil Kapoor) went to Calcutta for no reason. After meeting with
+        Reema (Rani Mukherjee), he starts having flashbacks about his past and
+        his son. His inquiries take him to Bombay via the Calcutta Mail, and
+        this is where he will find out whether his son is alive or not, or he
+        has been trapped.</image:caption
+      >
+      <image:title>Calcutta Mail</image:title>
+    </image:image>
+  </url>
+</urlset>

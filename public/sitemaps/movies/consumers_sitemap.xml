@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360401-Consumers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360401-Consumers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sammy is a 14 year old girl who makes YouTube videos. Robby just moved
+        to New York City after college. Jerry is a single 34 year old network
+        administrator living in the suburbs. Through their fragmented
+        experiences, Consumers explores the dialectical problematics of the
+        contemporary experience.</image:caption
+      >
+      <image:title>Consumers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/144909-Charm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/144909-Charm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pS9d7Qz5IjbOzJr1XJPNhuaUm4r.jpg</image:loc
+      >
+      <image:caption
+        >Being the adventures of a young man whose principle interests are
+        movies, New York, and mass murder. CHARM is an ultra low budget black
+        comedy about Malcolm - a New Yorker who gets tired of how gentrified,
+        tepid and antiseptic it's all become. What's happened to the 'Good ole
+        days'?! And so he decides to take matters into his own hands by
+        personally starting a crime wave which he hopes will catch on and drive
+        real estate value down, opening up the city to bohemians, artists and a
+        swell of creativity, just like the supposed good 'ole days of the 1970s
+        and 80s. The only problem is: Nobody is paying attention.</image:caption
+      >
+      <image:title>Charm</image:title>
+    </image:image>
+  </url>
+</urlset>

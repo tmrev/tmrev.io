@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9589-Christiane F.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9589-Christiane F.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pxjCfoKO48JJN7L3QieYGOwWDig.jpg</image:loc
+      >
+      <image:caption
+        >This movie portrays the drug scene in Berlin in the 70s, following tape
+        recordings of Christiane F. 14 years old Christiane lives with her
+        mother and little sister in a typical multi-storey apartment building in
+        Berlin. She's fascinated by the 'Sound', a new disco with most modern
+        equipment. Although she's legally too young, she asks a friend to take
+        her. There she meets Detlef, who's in a clique where everybody's on
+        drugs. Step by step she gets drawn deeper into the scene.</image:caption
+      >
+      <image:title>Christiane F.</image:title>
+    </image:image>
+  </url>
+</urlset>

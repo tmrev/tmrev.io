@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/558441-Cozmo's</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/558441-Cozmo's</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i9kdnHE1gvIcGfy6W9THCkgdBhn.jpg</image:loc
+      >
+      <image:caption
+        >At Cozmo’s, humans are the new species on the block and are the butt of
+        all the jokes. The main cast feature Cozmo (Ethan Phillips), a
+        good-natured four tentacled bartender, Ken (Drake Bell), his wet behind
+        the ears human assistant, and Kallie (Renee Olstead), a beautiful,
+        street smart waitress. Along with a host of regular and new patrons,
+        they share their far-flung adventures, stories, romantic endeavours,
+        business ventures and antics.</image:caption
+      >
+      <image:title>Cozmo's</image:title>
+    </image:image>
+  </url>
+</urlset>

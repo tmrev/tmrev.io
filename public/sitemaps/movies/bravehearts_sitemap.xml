@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/139578-Bravehearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/139578-Bravehearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nQCgaSBubCROxGMxPApvjQ77LQI.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about youth politicians changes radically on July 22nd
+        2011, when a right-wing extremist murders 69 people at a summer camp run
+        by the Workers Youth Party.</image:caption
+      >
+      <image:title>Bravehearts</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45368-Comme les 5 doigts de la main</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45368-Comme les 5 doigts de la main</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aT6HSzLyg8GuI3uQUf45uRa1SDF.jpg</image:loc
+      >
+      <image:caption
+        >Five brothers similar yet different, raised by a mother widowed too
+        early. One of them had left the family when he returns, pursued by a
+        gang of smugglers, he find shelter in his family while reveling them a
+        dark secret. The five brothers, together, will find the energy to defend
+        themself and the means to avenge the memory of their murdered
+        father...</image:caption
+      >
+      <image:title>Comme les 5 doigts de la main</image:title>
+    </image:image>
+  </url>
+</urlset>

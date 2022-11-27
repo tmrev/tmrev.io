@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/225666-Cult</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/225666-Cult</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1E2gpCakq2UC0XETBJ9k2M6Rti9.jpg</image:loc
+      >
+      <image:caption
+        >Three female idols appear on a television show to investigate an
+        exorcism. An exorcist with psychic powers named Unsui claims that the
+        show’s subjects, the Kaneda family, are cursed by a demon that’s too
+        powerful for him to banish on his own, so he calls in a fellow exorcist
+        to help. Soon, a reckless ghost hunter enters the fray as the three
+        idols witness a series of terrifying events.</image:caption
+      >
+      <image:title>Cult</image:title>
+    </image:image>
+  </url>
+</urlset>

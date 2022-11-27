@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/868539-Country Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/868539-Country Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vhSrNNvzbWSBxrwYSwazOjaw46A.jpg</image:loc
+      >
+      <image:caption
+        >Julian, a simple farmer's son from the country side, loves his home in
+        the mountains. He is gay and just recently outed himself to his best
+        friend Simone. Although Simone has a hard time believing that he's gay,
+        she arranges a meeting with Adi from Zurich. Adi lives a very urban life
+        and frequently goes to gay clubs. Two worlds collide...</image:caption
+      >
+      <image:title>Country Life</image:title>
+    </image:image>
+  </url>
+</urlset>

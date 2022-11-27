@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473236-Chinese Midnight Express II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473236-Chinese Midnight Express II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u7YuSIfGzlrGaae2ejulXG1XYrS.jpg</image:loc
+      >
+      <image:caption
+        >Chan Siu Hong is a lawyer who goes into jail after hitting a vicious
+        policeman. He's welcomed by the inmates because he convinces fellow
+        inmates not to use violence to settle every dispute.</image:caption
+      >
+      <image:title>Chinese Midnight Express II</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/177446-Buick Riviera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/177446-Buick Riviera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story of Buick Riviera is told through fates of two men, both
+        Bosnian (ex Yugoslavian) emigrants, belonging to the two different
+        religious groups that fought for the city of Sarajevo during the
+        War.</image:caption
+      >
+      <image:title>Buick Riviera</image:title>
+    </image:image>
+  </url>
+</urlset>

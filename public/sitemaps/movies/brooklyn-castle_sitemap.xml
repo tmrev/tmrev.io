@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/95808-Brooklyn Castle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/95808-Brooklyn Castle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yG9xtC9rkWz8E237TLnDdFtsjE9.jpg</image:loc
+      >
+      <image:caption
+        >Brooklyn Castle is a documentary about I.S. 318 – an inner-city school
+        where more than 65 percent of students are from homes with incomes below
+        the federal poverty level – that also happens to have the best, most
+        winning junior high school chess team in the country. (If Albert
+        Einstein, who was rated 1800, were to join the team, he’d only rank
+        fifth best.) Chess has transformed the school from one cited in 2003 as
+        a “school in need of improvement” to one of New York City’s best. But a
+        series of recession-driven public school budget cuts now threaten to
+        undermine those hard-won successes.</image:caption
+      >
+      <image:title>Brooklyn Castle</image:title>
+    </image:image>
+  </url>
+</urlset>

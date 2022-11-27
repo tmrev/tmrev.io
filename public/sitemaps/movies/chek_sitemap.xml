@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62280-Chek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62280-Chek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Сюжет этого авантюрно - приключенческого фильма закручен вокруг
+        банковского чека на 5 миллионов долларов. Его стремятся заполучить во
+        что бы то ни стало и крутые мафиози, и милиция, и даже... трое
+        подростков - юный русский богатырь Илья, казахский компьютерный
+        вундеркинд Акежан и девочка Соня. Акежану нужна срочная дорогостоящая
+        операция, поэтому ребята и решились на это опасное и рискованное
+        дело.</image:caption
+      >
+      <image:title>Chek</image:title>
+    </image:image>
+  </url>
+</urlset>

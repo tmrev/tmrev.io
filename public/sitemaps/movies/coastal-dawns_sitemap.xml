@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/704789-Coastal Dawns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/704789-Coastal Dawns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q9q4Y0fWUudWbCDCxbkgfM0pRXs.jpg</image:loc
+      >
+      <image:caption
+        >Coastal Dawns features two 50 minute programs, each showing nature's
+        transformation as dawn unfolds overlooking the coastal town of Camden,
+        Maine, and the coast of Maui, Hawaii. These are both offered in full
+        1080p, and are produced and directed by David Conover who pioneered
+        nature programming on Discovery HD's Sunrise Earth. The disc provides
+        two text overlay viewing options during playback. One provides viewing
+        field guide notes and the other offers viewing of inspirational quotes.
+        You can choose to view no text as well.</image:caption
+      >
+      <image:title>Coastal Dawns</image:title>
+    </image:image>
+  </url>
+</urlset>

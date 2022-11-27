@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301014-Crybaby Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301014-Crybaby Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4SNNKFTPpG8Gd4vxJVgQp3iySoZ.jpg</image:loc
+      >
+      <image:caption
+        >Nick, Ryan, and Bill have a dream: to have their own hunting show on
+        television. With the help of their camera man Craig and the funding of
+        the National Gun Owners of America, they are given the chance at a trial
+        run, a documentary about the hunting experience. But when they cross the
+        bridge and into the woods beyond, the hunters find themselves in the
+        midst of the legend of Elizabeth, a vengeful specter willing to do
+        whatever it takes to be reunited with her lost child. As the documentary
+        progresses, the strange events continue to escalate to a deadly climax.
+        Can the hunters save themselves from becoming the hunted, or are they
+        doomed to be become a permanent part of the legend of Crybaby
+        Bridge?</image:caption
+      >
+      <image:title>Crybaby Bridge</image:title>
+    </image:image>
+  </url>
+</urlset>

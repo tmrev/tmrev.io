@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/343961-Brainman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/343961-Brainman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d9Q9AwQM6Gt5loU0pWc3oMTFYBh.jpg</image:loc
+      >
+      <image:caption
+        >Daniel Tammet has autism. He is also a savant. He can perform
+        mind-boggling mathematical calculations at breakneck speeds. But unlike
+        other savants, who can perform similar feats, Tammet can describe how he
+        does it. He speaks seven languages and is even devising his own
+        language. Now scientists are asking whether his exceptional abilities
+        are the key to unlock the secrets of autism. This documentary follows
+        Daniel as he travels to America to meet the scientists who are convinced
+        he may hold the key to unlocking similar abilities in everyone. He is
+        challenged to learn Icelandic, one of the world’s hardest languages, in
+        just one week. Will Daniel do it? And what can we learn from this
+        prodigious talent?</image:caption
+      >
+      <image:title>Brainman</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1430-Bowling for Columbine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1430-Bowling for Columbine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nSoLDNbNraDszBT0gT2U0Azqof8.jpg</image:loc
+      >
+      <image:caption
+        >This is not a film about gun control. It is a film about the fearful
+        heart and soul of the United States, and the 280 million Americans lucky
+        enough to have the right to a constitutionally protected Uzi. From a
+        look at the Columbine High School security camera tapes to the home of
+        Oscar-winning NRA President Charlton Heston, from a young man who makes
+        homemade napalm with The Anarchist's Cookbook to the murder of a
+        six-year-old girl by another six-year-old. Bowling for Columbine is a
+        journey through the US, through our past, hoping to discover why our
+        pursuit of happiness is so riddled with violence.</image:caption
+      >
+      <image:title>Bowling for Columbine</image:title>
+    </image:image>
+  </url>
+</urlset>

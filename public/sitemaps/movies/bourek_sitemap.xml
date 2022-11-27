@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/395177-Bourek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/395177-Bourek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ulym4cSPbRtsg3z3Xlz8ISSNUgc.jpg</image:loc
+      >
+      <image:caption
+        >In this humanistic comedy, set against the backdrop of economic crises
+        and bad news, an extravagant international cast of characters meet,
+        fight, and fall in love, while hiding from the end of the world and
+        other calamities on the tiny Greek island of Khronos.</image:caption
+      >
+      <image:title>Bourek</image:title>
+    </image:image>
+  </url>
+</urlset>

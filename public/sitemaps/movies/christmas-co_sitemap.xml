@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451500-Christmas & Co.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451500-Christmas & Co.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg</image:loc
+      >
+      <image:caption
+        >Christmas is on its way and with it disaster. The 92,000 responsible
+        for manufacturing children's toys all become sick at the same time! It's
+        a tough moment for Santa, better known as Father Christmas. He's left no
+        choice: he must make an emergency trip to Earth with his reindeer to
+        search for a remedy. When he arrives, he must find some allies to save
+        the magic of Christmas.</image:caption
+      >
+      <image:title>Christmas & Co.</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/510318-Buñuel in the Labyrinth of the Turtles</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/510318-Buñuel in the Labyrinth of the Turtles</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oHYRYgEcpjD6tXRxMr5xisjJCU4.jpg</image:loc
+      >
+      <image:caption
+        >Paris, 1930. Luis Buñuel is penniless after the scandal surrounding the
+        release of his last movie. Sculptor Ramón Acín, a good friend, buys a
+        lottery ticket and promises Buñuel that he will pay for his next movie
+        if he wins the prize.</image:caption
+      >
+      <image:title>Buñuel in the Labyrinth of the Turtles</image:title>
+    </image:image>
+  </url>
+</urlset>

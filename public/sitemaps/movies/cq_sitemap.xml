@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27834-CQ</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27834-CQ</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aFAPOT77Jh7lNWYtojC6nxi4CpJ.jpg</image:loc
+      >
+      <image:caption
+        >A young filmmaker in 1960s Paris juggles directing a cheesy sci-fi
+        debacle, directing his own personal art film, coping with his crumbling
+        relationship with his girlfriend, and a new-found infatuation with the
+        sci-fi film's starlet.</image:caption
+      >
+      <image:title>CQ</image:title>
+    </image:image>
+  </url>
+</urlset>

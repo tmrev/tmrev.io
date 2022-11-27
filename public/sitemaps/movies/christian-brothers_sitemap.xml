@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76531-Christian Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76531-Christian Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ycEsZ8o9ce08fTTpH2VVExfhZvY.jpg</image:loc
+      >
+      <image:caption
+        >When the daughter of a minister gets kidnapped, Christy is called upon
+        to rescue her. Although he manages to save her, he himself gets
+        embroiled in the kidnapper's murder.</image:caption
+      >
+      <image:title>Christian Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

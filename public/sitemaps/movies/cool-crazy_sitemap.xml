@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30182-Cool & Crazy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30182-Cool & Crazy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lNw1HyxMSb2PbVx4GW7DGuIy1F0.jpg</image:loc
+      >
+      <image:caption
+        >Men in an isolated fishing village on Norway's North Cape find an
+        outlet in song.</image:caption
+      >
+      <image:title>Cool & Crazy</image:title>
+    </image:image>
+  </url>
+</urlset>

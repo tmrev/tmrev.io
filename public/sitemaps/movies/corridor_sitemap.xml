@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56532-Corridor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56532-Corridor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zQZICHmb51nEcptRkRpQikXqfn1.jpg</image:loc
+      >
+      <image:caption
+        >Lonely medical student Frank is pleased with his flat, a quiet place to
+        focus on his coming exams. But when he meets the girl upstairs, the
+        intrusive Lotte, he realizes there is something wrong with the place.
+        Each time he leaves his apartment, Frank is scared... the talkative
+        concierge, the annoying child, the love-sick Lotte, her brutal
+        ex-boyfriend and above all, her new jealous boyfriend, the scary Micke,
+        they all seem to be Frank's enemies.</image:caption
+      >
+      <image:title>Corridor</image:title>
+    </image:image>
+  </url>
+</urlset>

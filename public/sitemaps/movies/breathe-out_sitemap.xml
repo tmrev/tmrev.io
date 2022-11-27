@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/887994-Breathe Out</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/887994-Breathe Out</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bFXZILljpCowFG1TaS3eJQLxTvw.jpg</image:loc
+      >
+      <image:caption
+        >The windows are closed. Everything the old man can hear is the heavy
+        breath of his wife. The slow routines of ageing and the decay of the
+        body are closely examined in beautiful intensity.</image:caption
+      >
+      <image:title>Breathe Out</image:title>
+    </image:image>
+  </url>
+</urlset>

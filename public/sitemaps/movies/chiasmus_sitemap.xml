@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418547-Chiasmus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418547-Chiasmus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1unq0E9o7F93yhN5Qlr7sFtllPU.jpg</image:loc
+      >
+      <image:caption
+        >An exploration into perceptual processes in the act of seeing and
+        listening, Chiasmus takes film as a metaphor for the breathing body,
+        through the intercrossing of the medium and the fragmented images of the
+        body in movement. The rhythm and tension created by the interplay
+        between sound and image, and their disjunction and conjunction, aspire
+        to an organic and sensual moment where inside becomes outside, and
+        outside inside.</image:caption
+      >
+      <image:title>Chiasmus</image:title>
+    </image:image>
+  </url>
+</urlset>

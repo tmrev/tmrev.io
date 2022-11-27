@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/139459-Contest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/139459-Contest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aFah9mRpAL9YTT82UJxNVlqclpf.jpg</image:loc
+      >
+      <image:caption
+        >Bullied high school student Tommy is suddenly befriended by his chief
+        tormentor, Matt, the school's most popular student and star athlete.
+        Tommy is suspicious, but is forced to accept the awkward friendship in
+        order to enter a cooking contest with a big prize. And besides, it's so
+        much easier to impress his crush, Sarah, when he's not getting beat up
+        by Matt and his team. As the cooking contest heats up, Sarah sniffs out
+        a conspiracy, but nobody wants to hear about it. Can Tommy trust his
+        budding friendship with Matt or is it all a huge joke on
+        him?</image:caption
+      >
+      <image:title>Contest</image:title>
+    </image:image>
+  </url>
+</urlset>

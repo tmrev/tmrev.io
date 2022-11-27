@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/531969-Ctrl+Alt+Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/531969-Ctrl+Alt+Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kXBg8hgEmsWxVmONOMOrJ94nHlO.jpg</image:loc
+      >
+      <image:caption
+        >Ctrl+Alt+Dance is about Colin, a risk-averse computer tech, who falls
+        for happy-go-lucky jazz dancer Jillian but is in danger of losing it all
+        when a disgruntled hacker threatens to expose a hidden
+        secret.</image:caption
+      >
+      <image:title>Ctrl+Alt+Dance</image:title>
+    </image:image>
+  </url>
+</urlset>

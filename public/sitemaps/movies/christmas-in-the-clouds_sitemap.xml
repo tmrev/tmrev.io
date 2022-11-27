@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13356-Christmas in the Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13356-Christmas in the Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ejEanMGoAQL28RUBT8s3tl1oOa4.jpg</image:loc
+      >
+      <image:caption
+        >A classic comedy of mistaken identity and romance set during the
+        holiday season at a ski resort that is owned and operated by a Native
+        American Nation. Shot on location at The Sundance Resort in Utah, this
+        is the first contemporary romantic comedy to feature an almost entirely
+        American Indian cast. The film was featured at the 2001 Sundance Film
+        Festival.</image:caption
+      >
+      <image:title>Christmas in the Clouds</image:title>
+    </image:image>
+  </url>
+</urlset>

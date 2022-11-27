@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/393570-Chasing Asylum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/393570-Chasing Asylum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lVdPQd4xZbjc9GqWhLSTiGUEGz0.jpg</image:loc
+      >
+      <image:caption
+        >Chasing Asylum tells the story of Australia's cruel, inhumane treatment
+        of asylum seekers and refugees, examining the human, political,
+        financial and moral impact of current and previous
+        policy.</image:caption
+      >
+      <image:title>Chasing Asylum</image:title>
+    </image:image>
+  </url>
+</urlset>

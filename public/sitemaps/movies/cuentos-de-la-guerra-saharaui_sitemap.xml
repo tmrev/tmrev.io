@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425054-Cuentos de la guerra saharaui</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425054-Cuentos de la guerra saharaui</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Based on a true story. A Spanish soldier hides out with and aids the
+        Saharawi people of the Western Sahara against the injustices of his own
+        army.</image:caption
+      >
+      <image:title>Cuentos de la guerra saharaui</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/680631-Boys from County Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/680631-Boys from County Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5DAmmAxTeZd2oh6cveD0yyysjcT.jpg</image:loc
+      >
+      <image:caption
+        >A crew of hardy road workers, led by a bickering Father and Son, must
+        survive the night when they accidentally awaken an ancient Irish
+        vampire.</image:caption
+      >
+      <image:title>Boys from County Hell</image:title>
+    </image:image>
+  </url>
+</urlset>

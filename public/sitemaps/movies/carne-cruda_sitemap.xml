@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80123-Carne cruda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80123-Carne cruda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nEpzludNmbFKVu3LH9jL5Jlm08f.jpg</image:loc
+      >
+      <image:caption
+        >In "Raw meat" we meet Quico and Andrew, two salesmen. A weekend in the
+        countryside leads them to fall into the trap of a sect of cannibals led
+        by Maruja, an old hippie specialist in the preparation of human kebabs
+        .... Kill or be killed? That is the question... When life gets tough,
+        there's nothing better than raw meat.</image:caption
+      >
+      <image:title>Carne cruda</image:title>
+    </image:image>
+  </url>
+</urlset>

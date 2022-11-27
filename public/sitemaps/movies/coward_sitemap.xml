@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/166082-Coward</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/166082-Coward</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jVxAreLoMMjIBRdyOEUvRGLO2mi.jpg</image:loc
+      >
+      <image:caption
+        >Coward is a 28 minute film set during World War 1 that brings to light
+        some of the brutal treatment soldiers received for suffering what would
+        now be known as shell-shock. It follows two cousins, Andrew and James,
+        from their home in Northern Ireland who join the British Army to fight
+        for their Country and make their families proud. Through their eyes we
+        see the reality of life on the front lines.</image:caption
+      >
+      <image:title>Coward</image:title>
+    </image:image>
+  </url>
+</urlset>

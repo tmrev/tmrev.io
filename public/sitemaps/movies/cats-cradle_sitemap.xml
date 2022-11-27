@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/231840-Cat's Cradle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/231840-Cat's Cradle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Y1U9S2e7YuUO0WeMpVVM4TuhlP.jpg</image:loc
+      >
+      <image:caption
+        >We wanted to make a film about a teenage mother. We met Joana in a
+        casting that took place in Setubal, in the Bela Vista neighborhood. She
+        appeared to us as a porcelain doll, small, fragile, pale, with a little
+        hair bow. Little by little, she crumbled apart, revealing a charming
+        complexity. We were conquered by the duality of strength and fragility,
+        freedom and incarceration, joy and sorrow. The intimacy and complicity
+        we were able to establish with her made this film possible. In Cat's
+        Cradle, we share her with everyone else.</image:caption
+      >
+      <image:title>Cat's Cradle</image:title>
+    </image:image>
+  </url>
+</urlset>

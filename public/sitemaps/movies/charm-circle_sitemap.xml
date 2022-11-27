@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/835406-Charm Circle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/835406-Charm Circle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l2grVEvsVHRfAqxTfP3zavq0uNS.jpg</image:loc
+      >
+      <image:caption
+        >Oscillating between present day and decades-old home videos, Charm
+        Circle is a cinéma vérité portrait of an eccentric New York family
+        navigating the chaos that divides them.</image:caption
+      >
+      <image:title>Charm Circle</image:title>
+    </image:image>
+  </url>
+</urlset>

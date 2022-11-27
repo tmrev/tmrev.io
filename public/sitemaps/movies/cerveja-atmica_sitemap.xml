@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/903967-Cerveja Atômica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/903967-Cerveja Atômica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/33pv8pqCiJYgvxV00nxP53b9K8b.jpg</image:loc
+      >
+      <image:caption
+        >A punk scientist formed the formula of the deadly drink that transforms
+        drunks into hallucinated zombies and awakens the fury of Little Red
+        Riding Hood's grandmother and her afternoon tea buddies, who armed and
+        dangerous decide to get revenge.</image:caption
+      >
+      <image:title>Cerveja Atômica</image:title>
+    </image:image>
+  </url>
+</urlset>

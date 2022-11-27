@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/848829-Crrush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/848829-Crrush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/clsrqgxP8KU6YBqB59BXmWg9kVm.jpg</image:loc
+      >
+      <image:caption
+        >The plot revolves around the life of three youngsters. They dream to
+        shift to America with a special desire.</image:caption
+      >
+      <image:title>Crrush</image:title>
+    </image:image>
+  </url>
+</urlset>

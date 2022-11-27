@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545612-Curse of the Nun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545612-Curse of the Nun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ksU3xPkEnfd7XClq7c2owSTKIA.jpg</image:loc
+      >
+      <image:caption
+        >A damaged young woman is looking forward to moving to a beautiful new
+        home, but the spirit of a deranged nun wants her to stay right where she
+        is.</image:caption
+      >
+      <image:title>Curse of the Nun</image:title>
+    </image:image>
+  </url>
+</urlset>

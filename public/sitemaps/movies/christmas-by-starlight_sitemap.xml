@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/746045-Christmas by Starlight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/746045-Christmas by Starlight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vrKqg5J2dsc0Jr85v3WVxlw1y8J.jpg</image:loc
+      >
+      <image:caption
+        >Annie, a lawyer, must help her loved ones this holiday season. Her
+        family’s restaurant, The Starlight Café, is slated for demolition. The
+        heir to the development firm responsible, William, makes her an unlikely
+        proposition: he’ll spare the café if Annie spends the week “appearing”
+        as the legal counsel his father is demanding he hire in the wake of some
+        costly mistakes.</image:caption
+      >
+      <image:title>Christmas by Starlight</image:title>
+    </image:image>
+  </url>
+</urlset>

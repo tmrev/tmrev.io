@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/58652-C'est pas parce qu'on a rien à dire qu'il
+      faut fermer sa gueule!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/58652-C'est pas parce qu'on a rien à dire qu'il
+      faut fermer sa gueule!</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jtRS5ccYhjR4HeT4s3tWR6p62sl.jpg</image:loc
+      >
+      <image:caption
+        >Max and Riton, 2 thieves make plan to steal money in a train station
+        office. They will operate through the wall in the public
+        toilets.</image:caption
+      >
+      <image:title
+        >C'est pas parce qu'on a rien à dire qu'il faut fermer sa
+        gueule!</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

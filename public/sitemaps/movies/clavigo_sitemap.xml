@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/930070-Clavigo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/930070-Clavigo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ljG6iEJo1f0SmLMTvjdpVfG4XoB.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by Goethe's early romantic play Clavigo, Roland Petit's ballet
+        recounts the agonies of a weak-willed lover torn between the
+        contradictory promptings of his heart and his evil spirit, which urges
+        him to serve his own interests and forsake true love in favor of a life
+        of debauchery. Recorded live at the Opera National de Paris, Palais
+        Garnier, October 1999.</image:caption
+      >
+      <image:title>Clavigo</image:title>
+    </image:image>
+  </url>
+</urlset>

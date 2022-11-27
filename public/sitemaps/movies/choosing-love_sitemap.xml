@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159578-Choosing Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159578-Choosing Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1G0G0vsagfSi2x8jUXu6ERrw4v9.jpg</image:loc
+      >
+      <image:caption
+        >In Paris, a university student attempts to lead a double life - in love
+        with her French boyfriend Pascal, and staying true to her Algerian
+        family, particular her strict, traditional father. In Algiers, her
+        cousin Yacine leads a parallel life, preparing to leave his girlfriend
+        to move to Paris.</image:caption
+      >
+      <image:title>Choosing Love</image:title>
+    </image:image>
+  </url>
+</urlset>

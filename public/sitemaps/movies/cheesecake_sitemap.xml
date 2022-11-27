@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/154259-Cheesecake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/154259-Cheesecake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Some time ago three total strangers participated in a cheesecake
+        commercial. A mother, a father and a son were simply having tea at a
+        dinner table, but for the boy from a dysfunctional family the shot where
+        they were eating a cake together became an obsession; he dreams about
+        another “family” gathering at the same table. Alyosha does not care that
+        his “mom”, Natalia, has been married for a long time, and that his
+        “dad”, Mikhail, has a girlfriend.</image:caption
+      >
+      <image:title>Cheesecake</image:title>
+    </image:image>
+  </url>
+</urlset>

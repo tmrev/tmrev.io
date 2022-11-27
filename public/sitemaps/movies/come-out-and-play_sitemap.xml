@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127884-Come Out and Play</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127884-Come Out and Play</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/31KjWbcG9NEMLekF9TlzBJCaKeG.jpg</image:loc
+      >
+      <image:caption
+        >A couple take a vacation to a remote island - their last holiday
+        together before they become parents. Soon after their arrival, they
+        notice that no adults seem to be present - an observation that quickly
+        presents a nightmarish reality.</image:caption
+      >
+      <image:title>Come Out and Play</image:title>
+    </image:image>
+  </url>
+</urlset>

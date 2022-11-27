@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360421-Boxer's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360421-Boxer's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Wah Sang was a boxing champion seven years ago. He now works at a
+        garage and cares for his seven-year-old son Henry. They live a small
+        apartment and Wah spends much of his time gambling and drinking. Henry
+        wants Wah, whom he addresses by that name him to return to boxing, but
+        Wah is hesitant because he suffered a brain injury.</image:caption
+      >
+      <image:title>Boxer's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

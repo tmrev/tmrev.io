@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/952451-Boss Fight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/952451-Boss Fight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1yulofiRdCJZR4rGkfFAwuXzDon.jpg</image:loc
+      >
+      <image:caption
+        >Two video game store clerks deal with customers from hell and an owner
+        from Super Hell on their last day of employment in this low budget
+        homage to Clerks</image:caption
+      >
+      <image:title>Boss Fight</image:title>
+    </image:image>
+  </url>
+</urlset>

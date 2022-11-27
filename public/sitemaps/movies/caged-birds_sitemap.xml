@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/747440-Caged Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/747440-Caged Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3g1OOH9vXp8CUW61Wo1ispMJOwx.jpg</image:loc
+      >
+      <image:caption
+        >Barbara Hug is a young radical lawyer fighting Switzerland's antiquated
+        prison system in the 1980s. Walter Stürm is in and often escaping out of
+        jail becoming known as the Jailbreak King. When the two meet an unlikely
+        alliance is formed.</image:caption
+      >
+      <image:title>Caged Birds</image:title>
+    </image:image>
+  </url>
+</urlset>

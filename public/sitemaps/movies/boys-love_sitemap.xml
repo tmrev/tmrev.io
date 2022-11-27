@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73517-Boys Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73517-Boys Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bPMwUNwz1xR52C1uJPMcIxQjvhv.jpg</image:loc
+      >
+      <image:caption
+        >Magazine editor Taishin Mamiya interviews high school model Noeru
+        Kisaragi. Despite Noeru's bad attitude, his painting of an ocean
+        intrigues Mamiya and leads to a dinner, during which Noeru solicits
+        Mamiya sexually. Soon Mamiya sees Noeru with another man, and he is
+        shocked to discover at that moment that his interest in Noeru goes
+        beyond article research—he truly wants to know more about
+        him.</image:caption
+      >
+      <image:title>Boys Love</image:title>
+    </image:image>
+  </url>
+</urlset>

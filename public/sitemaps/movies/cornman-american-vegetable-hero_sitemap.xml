@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/117749-Cornman: American Vegetable Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/117749-Cornman: American Vegetable Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This wacky comedy is Barak Epstein's directorial debut about an unusual
+        superhero, Cornman, who's super powers are the ability to communicate
+        with corn. In this adventure he's up against the evil Dr. Hoe who is
+        trying to control all the corn in the world. How will the heroic Cornman
+        stop the evil Dr Hoe? It's time for the American Vegetable Hero to save
+        the day!</image:caption
+      >
+      <image:title>Cornman: American Vegetable Hero</image:title>
+    </image:image>
+  </url>
+</urlset>

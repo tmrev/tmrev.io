@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/401228-Bye Bye Bangkok</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/401228-Bye Bye Bangkok</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2sHjbjFCnpPtimqi1kEUsem8IE4.jpg</image:loc
+      >
+      <image:caption
+        >Bye Bye Bangkok is a 2011 Bengali comedy film, directed by Aniket
+        Chattopadhyay. It featured Swastika Mukherjee, Rajesh Sharma, Shilajit
+        Majumdar, Rudranil Ghosh, Kharaj Mukherjee, Anjana Basu, Locket
+        Chatterjee, Sonali Choudhury, Kanchan Mullick, Kanchana Maitra, Neel
+        Mukherjee, Rajatava Dutta, Biswajit Chakrabarty, Phalguni Chatterjee,
+        Kunal Padhi, Sudipa Basu and others. The film has been shot in Bangkok
+        and Kolkata.</image:caption
+      >
+      <image:title>Bye Bye Bangkok</image:title>
+    </image:image>
+  </url>
+</urlset>

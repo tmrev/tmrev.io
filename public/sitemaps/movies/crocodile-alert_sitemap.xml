@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112040-Crocodile Alert</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112040-Crocodile Alert</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lQZczuWVFwmR73T7EwClUzgbTuW.jpg</image:loc
+      >
+      <image:caption
+        >Ann Berg, in her late twenties, is an ambitious intern in the Forensic
+        Medicine department. While investigating a crime scene she is shocked to
+        find evidence of a crocodile attack. She turns to the expert Mitch
+        "Croc" McDearie for help.</image:caption
+      >
+      <image:title>Crocodile Alert</image:title>
+    </image:image>
+  </url>
+</urlset>

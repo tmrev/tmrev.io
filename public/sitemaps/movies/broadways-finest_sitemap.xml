@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300278-Broadway's Finest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300278-Broadway's Finest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dYEtM0y6rLMW6Fxx1Q3nGafvzfR.jpg</image:loc
+      >
+      <image:caption
+        >The winner of twelve film festival awards including Best Feature Film
+        and the Audience Award, "Broadway's Finest" follows three desperate, men
+        who impersonate New York City undercover cops and chase down a notorious
+        drug in order dealer to get the authentic material they need to create
+        their own cutting edge police drama. Things are rarely what they seem in
+        this gritty dramatic action comedy.</image:caption
+      >
+      <image:title>Broadway's Finest</image:title>
+    </image:image>
+  </url>
+</urlset>

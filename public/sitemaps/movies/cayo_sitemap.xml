@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105879-Cayo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105879-Cayo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/39HWPAtznkElYiPepqZjDLGdoXy.jpg</image:loc
+      >
+      <image:caption
+        >Ivan, Julia and Kike were born and grew up in Culebra where they shared
+        a close friendship. Ivan ventures in a small boat and stumbles on Cayo,
+        a small island close by. Here he finds peace of mind, and the island has
+        a healing effect on him. When federal authorities try to keep Ivan away
+        from Cayo, they find themselves face to face with a community that will
+        defend Ivan's need to visit the island. Based on a true story of love
+        and friendship that will touch your heart, this wrenching drama was
+        filmed in the beautiful natural scenery of Culebra, Puerto
+        Rico.</image:caption
+      >
+      <image:title>Cayo</image:title>
+    </image:image>
+  </url>
+</urlset>

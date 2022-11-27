@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/561516-Curse of the Scarecrow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/561516-Curse of the Scarecrow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j6VDPhntesW1D1cS5nRcYZp7DAj.jpg</image:loc
+      >
+      <image:caption
+        >After witnessing their parents murder as infants, June and Carl have
+        held a deadly secret throughout their entire lives, a secret that none
+        will believe. Years later, June is back to investigate the family home
+        after her estranged brother Carl's mysterious suicide. As she walks the
+        grounds, and inhabits the house, June learns that the Scarecrow who came
+        to take her family is walking once again and is seeking revenge on the
+        town.</image:caption
+      >
+      <image:title>Curse of the Scarecrow</image:title>
+    </image:image>
+  </url>
+</urlset>

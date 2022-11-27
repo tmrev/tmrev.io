@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20682-Chain of Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20682-Chain of Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rUwl3cfSf60aP1uvfb4QIEVMHuq.jpg</image:loc
+      >
+      <image:caption
+        >An avid detective is assigned to investigate the heist of a batch of
+        precious coins that end up in the hands of a suicidal
+        barber.</image:caption
+      >
+      <image:title>Chain of Fools</image:title>
+    </image:image>
+  </url>
+</urlset>

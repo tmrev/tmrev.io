@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582006-Coriolanus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582006-Coriolanus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ffsgTyhg3yX58agC9MUjNIrxIAr.jpg</image:loc
+      >
+      <image:caption
+        >Staged at the Stratford Festival and named on many 2018 year-end
+        critics “best of” lists, the Stratford Festival’s “riveting” and
+        “exhilarating” (The New York Times) production of Shakespeare’s
+        Coriolanus, has been called “the show of the decade… a landmark
+        production for the Stratford Festival. Maybe for William Shakespeare,
+        too” (The Globe and Mail), and “the greatest contemporary staging of
+        this play that I have ever seen” (Chicago Tribune).</image:caption
+      >
+      <image:title>Coriolanus</image:title>
+    </image:image>
+  </url>
+</urlset>

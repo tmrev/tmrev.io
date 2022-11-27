@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473684-Chico Meets Chica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473684-Chico Meets Chica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A guy on the rebound from a failed relationship goes to an exotic
+        Island to try and get away. A local who befriends him tries to help his
+        cause by introducing him to exotic women. Their adventures turn into
+        misadventures and the 'guy meets girl' scheme doesn't come out as
+        planned.</image:caption
+      >
+      <image:title>Chico Meets Chica</image:title>
+    </image:image>
+  </url>
+</urlset>

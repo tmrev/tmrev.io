@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/687262-Cold Meridian</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/687262-Cold Meridian</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uyHgDkeq0X3itadbsrYzVkMSADL.jpg</image:loc
+      >
+      <image:caption
+        >In this short exploration of sensual audio-visual stimulation, the
+        repeated rituals of an online performer have a transfixing effect on her
+        viewers. What starts as an exploration of tactility, addiction and
+        control soon descends into a nightmarish dance performance where no
+        rules apply.</image:caption
+      >
+      <image:title>Cold Meridian</image:title>
+    </image:image>
+  </url>
+</urlset>

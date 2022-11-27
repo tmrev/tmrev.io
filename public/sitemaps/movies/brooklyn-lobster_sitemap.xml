@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28554-Brooklyn Lobster</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28554-Brooklyn Lobster</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dB88dy7zv9ccB5MEUaI5UdeKyuX.jpg</image:loc
+      >
+      <image:caption
+        >Giorgio's Lobster Farm has been a tradition in Brooklyn for over 65
+        years. Manned by an eccentric crew and serving the best seafood in the
+        state</image:caption
+      >
+      <image:title>Brooklyn Lobster</image:title>
+    </image:image>
+  </url>
+</urlset>

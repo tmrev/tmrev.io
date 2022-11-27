@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438859-Call of the Wolf</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438859-Call of the Wolf</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3xIw06nJsQiCKmfgzSh73nQtMqe.jpg</image:loc
+      >
+      <image:caption
+        >Kidnapped and trapped by a winter storm, this slow burn thriller
+        follows two strangers who must outsmart an unseen killer.</image:caption
+      >
+      <image:title>Call of the Wolf</image:title>
+    </image:image>
+  </url>
+</urlset>

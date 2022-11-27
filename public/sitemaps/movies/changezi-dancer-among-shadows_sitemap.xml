@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/394084-Changezi, Dancer Among Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/394084-Changezi, Dancer Among Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ucrbyczaj7LaYxZA55cT7IXl1fX.jpg</image:loc
+      >
+      <image:caption
+        >This is the first and official documentary about a dancer Changu
+        Changezi from the small city of Quetta, Pakistan. This film follows him
+        on his journey of self discovery and experimentation as he discovers how
+        important his dreams are to him and how far will he go to attain
+        them.</image:caption
+      >
+      <image:title>Changezi, Dancer Among Shadows</image:title>
+    </image:image>
+  </url>
+</urlset>

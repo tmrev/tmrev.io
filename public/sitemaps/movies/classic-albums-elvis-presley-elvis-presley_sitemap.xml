@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/790073-Classic Albums: Elvis Presley - Elvis
+      Presley</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/790073-Classic Albums: Elvis Presley - Elvis
+      Presley</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yXDNud32tXPZf0Pbwm6oHHE5LmF.jpg</image:loc
+      >
+      <image:caption
+        >The story behind Elvis's first album features performances from 1955
+        and '56, interviews with the King and rare home movies of him at play
+        and work.</image:caption
+      >
+      <image:title>Classic Albums: Elvis Presley - Elvis Presley</image:title>
+    </image:image>
+  </url>
+</urlset>

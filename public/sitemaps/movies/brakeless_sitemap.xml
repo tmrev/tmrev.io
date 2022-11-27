@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333473-Brakeless</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333473-Brakeless</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Documentary exploring one of Japan's biggest train crashes in modern
+        history, caused when a driver tried to catch up with a delay of just 80
+        seconds. It's a cautionary tale of what happens when punctuality,
+        protocol and efficiency are taken to the extreme. On Monday April 25th
+        2005, a West Japan Railway commuter train crashed into an apartment
+        building and killed 107 people. Just what pressures made the driver risk
+        so much for such a minimal delay? Piecing together personal accounts of
+        those affected by the train crash, with insights from experts and former
+        train drivers, the film poses a question for a society that equates
+        speed with progress. It offers a fascinating insight into the railway's
+        role in Japan's post-war economic boom and the dangers of corner-cutting
+        in the prolonged economic stagnation that followed. Through the lens of
+        this catastrophic train crash, Brakeless considers the ultimate cost
+        efficiency.</image:caption
+      >
+      <image:title>Brakeless</image:title>
+    </image:image>
+  </url>
+</urlset>

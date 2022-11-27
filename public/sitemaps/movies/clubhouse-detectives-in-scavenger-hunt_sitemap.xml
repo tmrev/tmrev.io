@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/127432-Clubhouse Detectives in Scavenger Hunt</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/127432-Clubhouse Detectives in Scavenger Hunt</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When 4 friends attend a birthday party they find a stolen painting
+        which sends them on chase to find out who the real burgulars are and
+        where the next hit will be. Will they be able to find the real burgulars
+        and solve the case? Find out!</image:caption
+      >
+      <image:title>Clubhouse Detectives in Scavenger Hunt</image:title>
+    </image:image>
+  </url>
+</urlset>

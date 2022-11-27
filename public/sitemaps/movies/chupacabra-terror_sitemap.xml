@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33197-Chupacabra Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33197-Chupacabra Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bO9lA5CRNYAAaxBQIdwECySdVuL.jpg</image:loc
+      >
+      <image:caption
+        >Cryptozoologist Doctor Peña traps the legendary Chupacabra on a remote
+        Caribbean Island to make his name in the scientific community. When he
+        smuggles it aboard the cruise ship Regent Queen, commanded by Captain
+        Randolph, the monster breaks out of the cargo hold and makes a
+        smorgasbord out of the passengers and crew.</image:caption
+      >
+      <image:title>Chupacabra Terror</image:title>
+    </image:image>
+  </url>
+</urlset>

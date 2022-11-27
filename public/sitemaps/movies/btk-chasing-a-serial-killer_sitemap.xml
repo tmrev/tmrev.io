@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/748324-BTK: Chasing a Serial Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/748324-BTK: Chasing a Serial Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sEN3dHKUxzYZOarxN2WqnZsZRpZ.jpg</image:loc
+      >
+      <image:caption
+        >A three-part documentary series that recounts the notorious killer's
+        crimes, the decades long investigation that captured him, and the effect
+        his brutal murders had on everyone in his orbit, especially his daughter
+        who speaks openly about what it is like to be the daughter of a serial
+        killer.</image:caption
+      >
+      <image:title>BTK: Chasing a Serial Killer</image:title>
+    </image:image>
+  </url>
+</urlset>

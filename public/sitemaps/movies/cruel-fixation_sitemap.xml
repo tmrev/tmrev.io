@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/639838-Cruel Fixation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/639838-Cruel Fixation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1d7A66mMtoJ5TQ3UWJn26qUZEhQ.jpg</image:loc
+      >
+      <image:caption
+        >A recent widow is glad when her son finds a new friend. But it soon
+        becomes clear that he's after a different type of companionship. Will
+        their attraction be her undoing? And what secrets is
+        hiding?</image:caption
+      >
+      <image:title>Cruel Fixation</image:title>
+    </image:image>
+  </url>
+</urlset>

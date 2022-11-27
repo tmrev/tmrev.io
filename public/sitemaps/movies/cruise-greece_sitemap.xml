@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311478-Cruise Greece</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311478-Cruise Greece</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Without cash or time, traveling to Greece may not be the easiest
+        vacation to organize, but this documentary offers the next best thing --
+        a virtual vacation right into the heart of the Greek Isles. Cruise the
+        Mediterranean waters and discover a vibrant world filled with history
+        and grandeur. There'll be no seasickness here, as mesmerizing images of
+        a land that balances the ancient and the modern flit onscreen for a trip
+        to remember.</image:caption
+      >
+      <image:title>Cruise Greece</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279585-Champions of the Deep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279585-Champions of the Deep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >CHAMPIONS OF THE DEEP is a fantastic adventure movie for the whole
+        family! A brother and sister help a mythical guardian of the ocean find
+        the Sword of the Sea, and bring balance back to the waters of the earth.
+        While fighting the dark forces of the water, the kids learn to use their
+        martial arts skills to protect the ocean that they love.</image:caption
+      >
+      <image:title>Champions of the Deep</image:title>
+    </image:image>
+  </url>
+</urlset>

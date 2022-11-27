@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/240874-Coming Back</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/240874-Coming Back</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ucmbRJZW8dShZ3KRTlRNYSfD56.jpg</image:loc
+      >
+      <image:caption
+        >A comedic crime drama starring Echoes of the Rainbow actor Simon Yam.
+        In Coming Back, which was shot in Mandarin, Yam plays a painter who
+        restores art to increse its value. He’s also a father of an estranged
+        daughter struggling with two personalities, one dark and one light,
+        reflected in the alternately black and pink socks Yam brought to his
+        screen costumes.</image:caption
+      >
+      <image:title>Coming Back</image:title>
+    </image:image>
+  </url>
+</urlset>

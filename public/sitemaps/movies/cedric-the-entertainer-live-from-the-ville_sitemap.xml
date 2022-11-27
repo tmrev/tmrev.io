@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/416290-Cedric the Entertainer: Live from the
+      Ville</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/416290-Cedric the Entertainer: Live from the
+      Ville</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/apBNv9j45oCHCoogMWiHlPcinYZ.jpg</image:loc
+      >
+      <image:caption
+        >Donning his signature suit and fedora, the dapper comic offers a unique
+        spin on getting old, the presidential election and "Honky Tonk
+        Badonkadonk."</image:caption
+      >
+      <image:title>Cedric the Entertainer: Live from the Ville</image:title>
+    </image:image>
+  </url>
+</urlset>

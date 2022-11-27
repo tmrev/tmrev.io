@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207141-Brother of Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207141-Brother of Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A car plays the main part of a torture-chamber in Jens Jonsson’s Bror
+        min, where two brothers pull off a fight inside while waiting for their
+        parents who are fighting outside. The older of the two demonstrates with
+        deep concentration all the funny little gadgets the car can provide in
+        order to torture a kid brother.</image:caption
+      >
+      <image:title>Brother of Mine</image:title>
+    </image:image>
+  </url>
+</urlset>

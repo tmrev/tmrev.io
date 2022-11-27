@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/245792-Christmas Belle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/245792-Christmas Belle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sh822zcLjxGfF2BogCOLLNCPvSu.jpg</image:loc
+      >
+      <image:caption
+        >With her California hometown in the rearview mirror, Belle heads north
+        on business to catalog the sale of a large mansion. While the job is a
+        dream, the client, Hunter Lowell, is not. But, as the two spend more
+        time together, his icy demeanor begins to melt. Although their
+        relationship is budding, Belle’s long-time suitor, Tony, arrives,
+        sending mixed signals to Hunter while adding chaos to the holiday
+        season.</image:caption
+      >
+      <image:title>Christmas Belle</image:title>
+    </image:image>
+  </url>
+</urlset>

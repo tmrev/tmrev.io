@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/101884-Carrie's War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/101884-Carrie's War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8uJB3bWCvAoVVYP3GO5foC85jp5.jpg</image:loc
+      >
+      <image:caption
+        >Carrie's War is an adaptation of a 1973 children's novel by Nina
+        Bawden, set during the Second World War and following two evacuees,
+        Carrie and her younger brother Nick.</image:caption
+      >
+      <image:title>Carrie's War</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/223932-Cupcakes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/223932-Cupcakes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/neUnsoKglQRP0mNY2E4TFksWLH7.jpg</image:loc
+      >
+      <image:caption
+        >A group of friends in a Tel Aviv suburb get together to watch
+        Universong, a Eurovision-like television song contest. They gather to
+        watch and are depressed by the lifelessness of the Israeli entry, a
+        parody of many recent offerings, a flashy, grating song about "amour."
+        Realizing that Anat is distraught over the crisis in her marriage, they
+        decide to compose a song to cheer her up. As a lark, they enters their
+        cellphone video of it in next year's contest, and it becomes Israel's
+        entry.</image:caption
+      >
+      <image:title>Cupcakes</image:title>
+    </image:image>
+  </url>
+</urlset>

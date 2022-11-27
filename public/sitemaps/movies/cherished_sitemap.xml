@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438606-Cherished</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438606-Cherished</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A drama based on the true story of Angela Cannings, who was wrongly
+        convicted of killing two of her children, on the basis of "expert
+        witness" evidence about Sudden Infant Death Syndrome (Cot Death
+        Syndrome) which has since been discredited.</image:caption
+      >
+      <image:title>Cherished</image:title>
+    </image:image>
+  </url>
+</urlset>

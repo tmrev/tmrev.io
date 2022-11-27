@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553840-Circumcision</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553840-Circumcision</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eBRQ5lcIkCNxcZoSY5hcCfk4Kqo.jpg</image:loc
+      >
+      <image:caption
+        >Circumcision is not a trivial act. For those parents, mostly "mixed"
+        couples from different religious origins, a choice has to be made before
+        the birth of their children, whether religion has a role in their lives
+        or not.</image:caption
+      >
+      <image:title>Circumcision</image:title>
+    </image:image>
+  </url>
+</urlset>

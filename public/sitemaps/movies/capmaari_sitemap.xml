@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655905-Capmaari</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655905-Capmaari</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aXaKwrBT1rlGI2zWD9m9XrFTouH.jpg</image:loc
+      >
+      <image:caption
+        >Vijay, a software engineer happens to share a coach with Jenny where
+        they share beers, then one thing leads to another and they get
+        physically close. They meet after some years and decide to get married.
+        While everything seems to be smooth, Vijay’s colleague Varsha enters
+        their home pregnant claiming Vijay is the father of the
+        child.</image:caption
+      >
+      <image:title>Capmaari</image:title>
+    </image:image>
+  </url>
+</urlset>

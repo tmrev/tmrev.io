@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81620-Chantrapas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81620-Chantrapas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mzvz2V85Ohx9QcV5JsG6Shm83D0.jpg</image:loc
+      >
+      <image:caption
+        >A filmmaker finds creative freedom more elusive than he imagined in
+        this ironic comedy-drama. Tired of the state-appointed producers and
+        censorship in his homeland, Soviet Georgia, Niko decides to move to
+        France, only to find that he has merely traded one type of interference
+        for another.</image:caption
+      >
+      <image:title>Chantrapas</image:title>
+    </image:image>
+  </url>
+</urlset>

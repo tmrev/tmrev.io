@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/150859-Chhota Bheem And The Curse of Damyaan</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/150859-Chhota Bheem And The Curse of Damyaan</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mVX28hqyMvlIXpqwqC5O9D5M7lC.jpg</image:loc
+      >
+      <image:caption
+        >Chhota Bheem and his friends set out to fight Damyaan, a demon blessed
+        with immortality. However, it is not as easy as they thought it would
+        be.</image:caption
+      >
+      <image:title>Chhota Bheem And The Curse of Damyaan</image:title>
+    </image:image>
+  </url>
+</urlset>

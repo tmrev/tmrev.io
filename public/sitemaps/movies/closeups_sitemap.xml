@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/339520-Close-Ups</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/339520-Close-Ups</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eycX5EsIyM6pCTRc2SXA0qKs6k5.jpg</image:loc
+      >
+      <image:caption
+        >37-year-old Marta gets married and wants to have a baby. But her toxic
+        relationship with overbearing mother complicates her life in many
+        ways.</image:caption
+      >
+      <image:title>Close-Ups</image:title>
+    </image:image>
+  </url>
+</urlset>

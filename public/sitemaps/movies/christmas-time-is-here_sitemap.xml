@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/878417-Christmas Time Is Here</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/878417-Christmas Time Is Here</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ay1EBaNZa8Bkh8uvNhfJ9rY70pk.jpg</image:loc
+      >
+      <image:caption
+        >Nia Moore ia a successful small-town real estate agent trying to sell a
+        resort to her client, Julian. Much to Nia's dismay, the only resort that
+        Julian wants to buy belongs to her widower father, Patrick. Patrick is
+        ready to retire, but Nia wants to keep the property and the family
+        memories it holds.</image:caption
+      >
+      <image:title>Christmas Time Is Here</image:title>
+    </image:image>
+  </url>
+</urlset>

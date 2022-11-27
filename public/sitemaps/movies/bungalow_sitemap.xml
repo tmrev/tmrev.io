@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40640-Bungalow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40640-Bungalow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dbHQehNiUqkeNJchoriC9L0OU1a.jpg</image:loc
+      >
+      <image:caption
+        >A major work of the celebrated Berlin School, the debut of Ulrich
+        Köhler (In My Room) is a mesmerizing portrait of a young German soldier
+        named Paul who goes AWOL and returns to his childhood home in the
+        countryside. Over a few summer days, Paul evades the responsibilities of
+        everyday life and falls in love with his brother’s girlfriend,
+        disrupting the lives of everyone in his circle. With Köhler’s penchant
+        for deadpan humor and subtle performances, Bungalow becomes a quiet
+        mockery of militarism, familial estrangement, and youthful
+        ennui.</image:caption
+      >
+      <image:title>Bungalow</image:title>
+    </image:image>
+  </url>
+</urlset>

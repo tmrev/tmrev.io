@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/638888-Breakfast, lunch, dinner, bed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/638888-Breakfast, lunch, dinner, bed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A21eJIioYoevQ58OPhioyYp5hJO.jpg</image:loc
+      >
+      <image:caption
+        >Esteban and Virginia do what they usually do together, but is it out of
+        love or out of habit and fear of loneliness? Would daily routines work
+        just as well with someone else? A depiction of a dead end
+        relationship.</image:caption
+      >
+      <image:title>Breakfast, lunch, dinner, bed</image:title>
+    </image:image>
+  </url>
+</urlset>

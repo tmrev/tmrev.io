@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19271-BoyTown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19271-BoyTown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5of04FSddfPXryLwQnKw6wDjpgV.jpg</image:loc
+      >
+      <image:caption
+        >They were the hottest thing in the eighties, the pin-up boys on every
+        teenage girl’s wall. And with hits like “Tough Titties” and “BoyTown”,
+        they cemented their reputation as the biggest boy band on the planet.
+        Now two decades later, BoyTown are back – they may be the Old Kids on
+        the Block and a bit Out of Synch, but these Boys to Men are ready to
+        suck in the gut, put on the pastels and get those middle aged women
+        crying for more!</image:caption
+      >
+      <image:title>BoyTown</image:title>
+    </image:image>
+  </url>
+</urlset>

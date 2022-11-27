@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/386663-Cowboy Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/386663-Cowboy Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1vOAGaR7EFxNXORzD40XKkAsegz.jpg</image:loc
+      >
+      <image:caption
+        >The two weeks before the Fourth of July are unofficially called "Cowboy
+        Christmas," as there are 65 rodeos across 25 states and that many
+        chances for the cowboys to win money. "Cowboy Christmas" follows four
+        professional rodeo cowboys (steer wrestlers) as they travel the rodeo
+        circuit looking for fame and fortune. From small towns in bustling
+        cities from Arizona to North Dakota follow the cowboys participating in
+        the 150 year-old tradition of bucking broncs and roping
+        calves.</image:caption
+      >
+      <image:title>Cowboy Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

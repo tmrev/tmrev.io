@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/602697-Boy Meets Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/602697-Boy Meets Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xBNawOjn4p3grjviHC6WFJDbtC3.jpg</image:loc
+      >
+      <image:caption
+        >When the bored out philosopher Maarten Moreau gets caught up in a
+        robbery, he accidentally gets hold of the weapon. Seized by a renewed
+        appetite for life, Maarten decides to keep the gun. A true romance
+        blossoms between the boy and the gun, not without
+        consequences.</image:caption
+      >
+      <image:title>Boy Meets Gun</image:title>
+    </image:image>
+  </url>
+</urlset>

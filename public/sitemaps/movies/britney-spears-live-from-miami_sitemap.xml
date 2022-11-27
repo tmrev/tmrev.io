@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52820-Britney Spears: Live from Miami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52820-Britney Spears: Live from Miami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g39Ecq01ka9nWAGXvmKX6LSfWRB.jpg</image:loc
+      >
+      <image:caption
+        >Broadcasted live by Showtime, Britney Spears performs tracks in support
+        of her fourth studio album "In The Zone" alongside her biggest hits at
+        the America Airlines Arena in Miami.</image:caption
+      >
+      <image:title>Britney Spears: Live from Miami</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571086-Con Game</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571086-Con Game</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oEbu7vE5LWJV2r84QcJKl7Vn1N1.jpg</image:loc
+      >
+      <image:caption
+        >Snowy D. White is caught up in a drug deal gone wrong - during the
+        handover, his wife shoots the courier and wants to kill him as well, but
+        he survives. He flees to a farm far away from civilization - but that is
+        a mistake, as his apparent saviors use him in a game of unimagined
+        magnitude...</image:caption
+      >
+      <image:title>Con Game</image:title>
+    </image:image>
+  </url>
+</urlset>

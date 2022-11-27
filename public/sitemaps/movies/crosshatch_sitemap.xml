@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/954024-Crosshatch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/954024-Crosshatch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1GQspuRo1lCMzzNspMetb2OOH4A.jpg</image:loc
+      >
+      <image:caption
+        >The underlying chessboard image is derived from modified TV test
+        pattern apparatus distorted by audio signals from a sinewave generator;
+        filmed off a monitor with super 8, then coloured in with black ink and
+        coated with household bleach. After initial editing on film it was
+        compiled into positive, negative and split screen in a 1-2-4-2-1
+        sequence. The 4 track electronic music made with Helliwell's homemade
+        circuits, also follows this symmetrical order.</image:caption
+      >
+      <image:title>Crosshatch</image:title>
+    </image:image>
+  </url>
+</urlset>

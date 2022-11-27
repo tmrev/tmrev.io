@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/628964-Child of Kamiari Month</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/628964-Child of Kamiari Month</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zVeyEpClF1Oxjg2UBJl62HRgC2m.jpg</image:loc
+      >
+      <image:caption
+        >A year after losing her mother, a young girl learns that she must
+        journey across Japan to the annual gathering of gods in the sacred land
+        of Izumo.</image:caption
+      >
+      <image:title>Child of Kamiari Month</image:title>
+    </image:image>
+  </url>
+</urlset>

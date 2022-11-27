@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/310-Bruce Almighty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/310-Bruce Almighty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg</image:loc
+      >
+      <image:caption
+        >Bruce Nolan toils as a 'human interest' television reporter in Buffalo,
+        N.Y., but despite his high ratings and the love of his beautiful
+        girlfriend, Bruce remains unfulfilled. At the end of the worst day in
+        his life, he angrily ridicules God—and the Almighty responds, endowing
+        Bruce with all of His divine powers.</image:caption
+      >
+      <image:title>Bruce Almighty</image:title>
+    </image:image>
+  </url>
+</urlset>

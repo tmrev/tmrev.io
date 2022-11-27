@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84238-Chaalis Chauraasi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84238-Chaalis Chauraasi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3C2KwqyTqgLXr5sUrG7Ik1IDfop.jpg</image:loc
+      >
+      <image:caption
+        >Four friends -- Pankaj (Naseeruddin Shah), Bobby (Atul Kulkarni),
+        Shakti Chinappa (Ravi Kissen), Albert Pinto (Kay Kay Menon) -- want to
+        rob a lonely house in a lonely stretch of it's Rs 20 crore fake Indian
+        currency... and the very fake note vending machine that lies in there.
+        Just one problem: They have no plan...</image:caption
+      >
+      <image:title>Chaalis Chauraasi</image:title>
+    </image:image>
+  </url>
+</urlset>

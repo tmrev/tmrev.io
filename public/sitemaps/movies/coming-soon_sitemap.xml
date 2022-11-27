@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295748-Coming Soon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295748-Coming Soon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gE3RzW3m1KMNQUGMimjTk3xQcAL.jpg</image:loc
+      >
+      <image:caption
+        >Pirated DVD seller Zafer who is formerly an extra in movies, swore to
+        give up illegal works when his wife wanted to get divorce. To win his
+        family back, he and his old-fashioned crew decided to make a movie
+        called "Summit - The End Of Evil" which is a fantastic science fiction
+        movie and couldn't be shot since 1977. A funny, entertaining and
+        emotional journey awaits him who waded into this adventure with his
+        unqualified crew.</image:caption
+      >
+      <image:title>Coming Soon</image:title>
+    </image:image>
+  </url>
+</urlset>

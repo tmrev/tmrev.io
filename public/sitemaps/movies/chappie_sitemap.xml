@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198184-Chappie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198184-Chappie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg</image:loc
+      >
+      <image:caption
+        >Every child comes into the world full of promise, and none more so than
+        Chappie: he is gifted, special, a prodigy. Like any child, Chappie will
+        come under the influence of his surroundings—some good, some bad—and he
+        will rely on his heart and soul to find his way in the world and become
+        his own man. But there's one thing that makes Chappie different from any
+        one else: he is a robot.</image:caption
+      >
+      <image:title>Chappie</image:title>
+    </image:image>
+  </url>
+</urlset>

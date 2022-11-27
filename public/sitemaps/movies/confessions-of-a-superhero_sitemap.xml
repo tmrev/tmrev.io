@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16509-Confessions of a Superhero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16509-Confessions of a Superhero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bNLMLncZAYqGGWHiE7Iew2IsREq.jpg</image:loc
+      >
+      <image:caption
+        >CONFESSIONS OF A SUPERHERO is a feature length documentary chronicling
+        the lives of three mortal men and one woman who make their living
+        working as superhero characters on the sidewalks of Hollywood Boulevard.
+        This deeply personal view into their daily routines reveals their
+        hardships, and triumphs, as they pursue and achieve their own kind of
+        fame. The Hulk sold his Super Nintendo for a bus ticket to LA; Wonder
+        Woman was a mid-western homecoming queen; Batman struggles with his
+        anger, while Superman’s psyche is consumed by the Man of Steel. Although
+        the Walk of Fame is right beneath their feet, their own paths to stardom
+        prove to be a long, hard climbs.</image:caption
+      >
+      <image:title>Confessions of a Superhero</image:title>
+    </image:image>
+  </url>
+</urlset>

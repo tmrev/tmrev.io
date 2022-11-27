@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/659475-Bully</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/659475-Bully</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a5DjjvBgcWUSzjS9K4qzGAXXOh6.jpg</image:loc
+      >
+      <image:caption
+        >A coming-of-age comedy about Jimmy, a quiet, heavy-set high school kid
+        who is constantly tormented by the resident school bully Miles and his
+        cronies. After an altercation on his way home from school lands him a
+        chance meeting with former professional boxer "Action" Jackson and
+        trainer Manny, Jimmy decides to learn how to fight back.</image:caption
+      >
+      <image:title>Bully</image:title>
+    </image:image>
+  </url>
+</urlset>

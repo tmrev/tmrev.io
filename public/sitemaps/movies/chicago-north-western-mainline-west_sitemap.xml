@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/788617-Chicago & North Western Mainline West</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/788617-Chicago & North Western Mainline West</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film covers more than 500 miles of the C&NW mainline west from
+        Chicago to Omaha and Fremont, Nebraska. There is a wide variety of
+        freight locomotives, ranging from the 1950 GP7s to new diesels built in
+        the 1990's. In addition to the freight of the mainline you will enjoy
+        plenty of Chicago Metra passenger trains on the Northwestern, and even
+        ride the cab for a while.</image:caption
+      >
+      <image:title>Chicago & North Western Mainline West</image:title>
+    </image:image>
+  </url>
+</urlset>

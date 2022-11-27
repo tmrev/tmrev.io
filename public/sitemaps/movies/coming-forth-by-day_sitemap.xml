@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/168308-Coming Forth by Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/168308-Coming Forth by Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gAFPLkW6hPCBTqrry5W04bcTuhz.jpg</image:loc
+      >
+      <image:caption
+        >One day in the life of Soad, who lives with her mother and bed-ridden
+        father on the outskirts of Cairo.</image:caption
+      >
+      <image:title>Coming Forth by Day</image:title>
+    </image:image>
+  </url>
+</urlset>

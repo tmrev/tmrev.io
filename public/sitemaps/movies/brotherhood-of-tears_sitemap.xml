@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226788-Brotherhood of Tears</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226788-Brotherhood of Tears</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xqKzfcD2CsTHNn6gfJRSV7IVFSz.jpg</image:loc
+      >
+      <image:caption
+        >Gabriel Chevalier, 45 years old, is an ex-policeman. Unemployed, lonely
+        and depressed,he lives like a ghost and hardly takes care of his only
+        teenage child Juliette. One day, by pure chance, he finds a suspicious
+        but extremely well paid job: his daily mission consists of delivering a
+        briefcase exactly where he is told. The only rule being to never open
+        it. These deliveries will bring him to meet weird people in strange
+        places. Gradually, his cop instinct resurfaces...</image:caption
+      >
+      <image:title>Brotherhood of Tears</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587595-Cavie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587595-Cavie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/19YT9OQFfjWyknf3zw5kYO4dRWK.jpg</image:loc
+      >
+      <image:caption
+        >Six strangers wake up handcuffed in the back of a truck. Left in the
+        woods with just a chest full of weapons and a military strategy book,
+        they soon find out that someone is after them and have to choose whether
+        to be prey or hunters. Rare unreleased low-budget horror film, starring
+        CSC (Rome Film School) students.</image:caption
+      >
+      <image:title>Cavie</image:title>
+    </image:image>
+  </url>
+</urlset>

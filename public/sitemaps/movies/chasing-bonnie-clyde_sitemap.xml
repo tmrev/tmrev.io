@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/422804-Chasing Bonnie & Clyde</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/422804-Chasing Bonnie & Clyde</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6FfSH1HK1J05o42RaS4GGX8KUIV.jpg</image:loc
+      >
+      <image:caption
+        >'Don't build prisons, they cost too much!' In this era of Great
+        Recession, the conservative and tough-on-crime State of Texas takes an
+        unprecedented path by becoming a social justice leader with programs
+        that rehabilitate offenders. Looks like rape, abuse and death are no
+        longer parts of the solution for modern-day Bonnie and
+        Clyde...</image:caption
+      >
+      <image:title>Chasing Bonnie & Clyde</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83824-Bunny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83824-Bunny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k5PBE0XB9eQ6HvY0Aetgwr2Hcio.jpg</image:loc
+      >
+      <image:caption
+        >A millionaire's daughter is all set to marry her boyfriend against her
+        father's wish. When her father finally approves the marriage, her
+        boyfriend believes that her father should sign over his wealth to
+        him.</image:caption
+      >
+      <image:title>Bunny</image:title>
+    </image:image>
+  </url>
+</urlset>

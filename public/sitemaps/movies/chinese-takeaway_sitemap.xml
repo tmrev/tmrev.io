@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67884-Chinese Take-Away</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67884-Chinese Take-Away</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wSrMT1YrcMH4NdzH7IdJaQzgzJc.jpg</image:loc
+      >
+      <image:caption
+        >A comedy that chronicles a chance encounter between Robert and a
+        Chinese named Jun who wanders lost through the city of Buenos Aires in
+        search of his uncle after being assaulted by a taxi driver and his
+        henchmen.</image:caption
+      >
+      <image:title>Chinese Take-Away</image:title>
+    </image:image>
+  </url>
+</urlset>

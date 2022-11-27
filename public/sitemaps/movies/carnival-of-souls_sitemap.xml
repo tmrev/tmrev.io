@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16093-Carnival of Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16093-Carnival of Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg</image:loc
+      >
+      <image:caption
+        >Mary Henry ends up the sole survivor of a fatal car accident through
+        mysterious circumstances. Trying to put the incident behind her, she
+        moves to Utah and takes a job as a church organist. But her fresh start
+        is interrupted by visions of a fiendish man. As the visions begin to
+        occur more frequently, Mary finds herself drawn to the deserted carnival
+        on the outskirts of town. The strangely alluring carnival may hold the
+        secret to her tragic past.</image:caption
+      >
+      <image:title>Carnival of Souls</image:title>
+    </image:image>
+  </url>
+</urlset>

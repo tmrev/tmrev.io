@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/445186-Credit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/445186-Credit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ehyy4jFBjU9CAiR95Dz81RcG5io.jpg</image:loc
+      >
+      <image:caption
+        >At the heart of the plot lies a conflict between a young woman and a
+        bank employee over some hidden clauses in a mortgage deal. The 25-year
+        old young woman is married and works as manager; she is paying off a
+        long-term mortgage. One day she finds out that she has an incurable
+        disease and that her husband, an airline steward, has perished in an air
+        crash. The insurance sum is sufficient to cover the mortgage in one lump
+        sum... An allusion to people trading the best years of their life for an
+        apartment, only in this case the trade is literally between an apartment
+        and life.</image:caption
+      >
+      <image:title>Credit</image:title>
+    </image:image>
+  </url>
+</urlset>

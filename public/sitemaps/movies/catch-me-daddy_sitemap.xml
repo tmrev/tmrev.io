@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/269747-Catch Me Daddy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/269747-Catch Me Daddy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/95NHzWZ5oltZOAVvQrkwT5PZcBV.jpg</image:loc
+      >
+      <image:caption
+        >Laila, a girl on the run from her family is hiding out in West
+        Yorkshire with her drifter boyfriend Aaron. When her brother arrives in
+        town with a gang of thugs in tow, she is forced to flee for her life and
+        faces her darkest night.</image:caption
+      >
+      <image:title>Catch Me Daddy</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15549-Cirque du Soleil: Alegria</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15549-Cirque du Soleil: Alegria</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/slEvZ2jzyWBIBOICOARD9ypFfch.jpg</image:loc
+      >
+      <image:caption
+        >A far cry from the dialogue-free circus performances Cirque du Soleil
+        is known for, Alegria chronicles the fate of a small boy who has been
+        forced into slavery. Eventually, he learns that in order to free himself
+        and the other children, he must defeat a fire-breathing or an equally
+        tough but decidedly more philosophical inner dragon.</image:caption
+      >
+      <image:title>Cirque du Soleil: Alegria</image:title>
+    </image:image>
+  </url>
+</urlset>

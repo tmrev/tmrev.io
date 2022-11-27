@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/351695-Calendar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/351695-Calendar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Thankom George is a college lecturer. After her husband's death, she is
+        a widowed single mother to her daughter (20-year-old Kochurani).
+        Meanwhile, Sojappan is a high school drop-out and businessman struggling
+        to make money with his friend Manjooran. Sojappan and Kouchrani fall in
+        love with each other, although Thankom doesn't approve of
+        Sojappan.</image:caption
+      >
+      <image:title>Calendar</image:title>
+    </image:image>
+  </url>
+</urlset>

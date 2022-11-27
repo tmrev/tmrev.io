@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/265347-Chasing Ghosts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/265347-Chasing Ghosts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5uTRycUM5MjTH8EFseYbbftzIgy.jpg</image:loc
+      >
+      <image:caption
+        >Lucas Simons, an 11-year-old filmmaker, is obsessed with death after
+        the loss of his brother. When Lucas accidentally captures a mysterious
+        presence in one of his films, he inadvertently becomes a YouTube
+        phenomenon, and must learn to live life in the spotlight while also
+        learning how to once again start living life to its
+        fullest.</image:caption
+      >
+      <image:title>Chasing Ghosts</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41475-Bright Leaves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41475-Bright Leaves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pT64LBtCypaQgsunhEch3MZkSCn.jpg</image:loc
+      >
+      <image:caption
+        >Ross McElwee travels through the North Carolina tobacco belt in search
+        of the ancient southern traditions associated with tobacco growing and
+        use, while comparing his filmmaking to commercial cinema, represented by
+        Bright Leaf, a melodrama directed by Michael Curtiz in 1950, starring
+        Gary Cooper, apparently based on the life of his
+        great-grandfather.</image:caption
+      >
+      <image:title>Bright Leaves</image:title>
+    </image:image>
+  </url>
+</urlset>

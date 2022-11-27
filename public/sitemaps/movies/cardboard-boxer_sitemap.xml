@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413452-Cardboard Boxer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413452-Cardboard Boxer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a9BDtWWBbcNekbras6k3ECpNwDH.jpg</image:loc
+      >
+      <image:caption
+        >Gentle and broken, a homeless man fights others on video for money but
+        soon finds comfort in an unlikely friend and the lost diary of a young
+        girl.</image:caption
+      >
+      <image:title>Cardboard Boxer</image:title>
+    </image:image>
+  </url>
+</urlset>

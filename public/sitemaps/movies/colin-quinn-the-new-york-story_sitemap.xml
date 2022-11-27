@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425003-Colin Quinn: The New York Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425003-Colin Quinn: The New York Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/140oOTuz1UIdSlJ2yOkMgOmF0xl.jpg</image:loc
+      >
+      <image:caption
+        >The "SNL" veteran performs his off-Broadway show about the history of
+        New York and the people who shape its personality.</image:caption
+      >
+      <image:title>Colin Quinn: The New York Story</image:title>
+    </image:image>
+  </url>
+</urlset>

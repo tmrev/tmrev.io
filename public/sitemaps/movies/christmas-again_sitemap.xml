@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/285020-Christmas, Again</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/285020-Christmas, Again</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/47cZzv0j1YqwdyT9XGOuVyd0gbb.jpg</image:loc
+      >
+      <image:caption
+        >Christmas, Again tells the story of Noel, a young man who travels from
+        upstate NY every year to sell Christmas trees in New York City.
+        Returning without the help of his long-time girlfriend, this year Noel
+        finds it impossible to do the one thing he knows so well---sell
+        Christmas trees. As Noel begins to spiral downwards, alienating
+        co-workers and customers in the process, it turns out this same
+        community of people may be the only ones capable of saving Noel from
+        self-destruction.</image:caption
+      >
+      <image:title>Christmas, Again</image:title>
+    </image:image>
+  </url>
+</urlset>

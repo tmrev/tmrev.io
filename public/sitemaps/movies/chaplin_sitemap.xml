@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/155241-Chaplin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/155241-Chaplin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Bangshi Das is an impersonator of Charlie Chaplin. He earns peanuts by
+        being the 'joker' at birthday parties. However, he prefers to call
+        himself an actor rather than a worker. His life circles around his son
+        who is the greatest critic of his performances. Poverty never seems
+        bitter as the father-son duo knows how to make fun of it.</image:caption
+      >
+      <image:title>Chaplin</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440099-City of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440099-City of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hYabtj7qYXk3V7p6JoWbCJWSAZw.jpg</image:loc
+      >
+      <image:caption
+        >Up to 50 percent of the world’s manganese, a vital metal across the
+        globe, used to be mined in Chiatura, in western Georgia. Today, it
+        resembles an apocalyptic ghost town. Mzis qalaqi portrays a few of the
+        remaining inhabitants. Music teacher Zurab dismantles ramshackle
+        concrete buildings and sells the iron girders to make some money on the
+        side. Archil still works in the mine but his real passion is the local
+        amateur theatre group. Despite being malnourished, two young female
+        athletes still train stoically for the next Olympic
+        Games.</image:caption
+      >
+      <image:title>City of the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

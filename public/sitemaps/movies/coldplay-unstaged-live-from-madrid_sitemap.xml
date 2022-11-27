@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97532-Coldplay: Unstaged Live From Madrid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97532-Coldplay: Unstaged Live From Madrid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The concert is the latest in the “American Express Unstaged” series,
+        which brings together musical artists with renowned film directors.
+        Coldplay will be paired with award-winning filmmaker and celebrated
+        photographer Anton Corbijn. Known for his masterful use of black and
+        white and striking imagery, Corbijn has been tapped to provide fans with
+        a visually stunning digital viewing and in-venue
+        experience.</image:caption
+      >
+      <image:title>Coldplay: Unstaged Live From Madrid</image:title>
+    </image:image>
+  </url>
+</urlset>

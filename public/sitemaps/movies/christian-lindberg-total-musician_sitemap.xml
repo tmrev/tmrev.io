@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/144375-Christian Lindberg: Total Musician</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/144375-Christian Lindberg: Total Musician</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The DVD includes 2 hour-long documentaries: a highly personal portrait
+        of Lindberg with friends, colleagues and various members of the 2
+        orchestras he conducts; and a chronicles of the making of Chick'a'bone
+        Checkout, a concerto commissioned by Lindberg.</image:caption
+      >
+      <image:title>Christian Lindberg: Total Musician</image:title>
+    </image:image>
+  </url>
+</urlset>

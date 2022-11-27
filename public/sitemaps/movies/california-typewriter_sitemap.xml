@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/414792-California Typewriter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/414792-California Typewriter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8tdOPx8TZ6y85BHD0G3sS8anuMY.jpg</image:loc
+      >
+      <image:caption
+        >A story about people whose lives are connected by typewriters. A
+        meditation on creativity and technology featuring Tom Hanks, John Mayer,
+        Sam Shepard, David McCullough and others.</image:caption
+      >
+      <image:title>California Typewriter</image:title>
+    </image:image>
+  </url>
+</urlset>

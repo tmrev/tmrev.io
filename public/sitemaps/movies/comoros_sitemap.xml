@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/936220-Comoros</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/936220-Comoros</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j0Ys6rLGNkMlI8H70yqtatnyBfR.jpg</image:loc
+      >
+      <image:caption
+        >Ethiopian Airlines Flight 961 was a scheduled flight serving the
+        route Addis Ababa–Nairobi–Brazzaville–Lagos–Abidjan. On 23 November
+        1996, the plane was hijacked en route from Addis Ababa to Nairobi by
+        three Ethiopians seeking asylum in Australia. The plane crash-landed in
+        the Indian Ocean near Grande Comore, Comoros Islands due to fuel
+        exhaustion.</image:caption
+      >
+      <image:title>Comoros</image:title>
+    </image:image>
+  </url>
+</urlset>

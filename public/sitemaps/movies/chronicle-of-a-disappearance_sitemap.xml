@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49104-Chronicle of a Disappearance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49104-Chronicle of a Disappearance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1F3cyDFl14E1epelr6KmuPaPHck.jpg</image:loc
+      >
+      <image:caption
+        >Chronicle of a Disappearance unfolds in a series of seemingly
+        unconnected cinematic tableaux, each of them focused on incidents or
+        characters which seldom reappear later in the film. Among the many
+        unrelated scenes, there is a Palestinian actress struggling to find an
+        apartment in West Jerusalem, the owner of the Holy Land souvenir shop
+        preparing merchandise for incoming Japanese tourists, a group of old
+        women gossiping about their relatives, and an Israeli police van which
+        screeches to a halt so several heavily armed soldiers can get off the
+        car and urinate.</image:caption
+      >
+      <image:title>Chronicle of a Disappearance</image:title>
+    </image:image>
+  </url>
+</urlset>

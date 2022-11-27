@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159417-Chasing a Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159417-Chasing a Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wyszVbHFePiSoq6wzMIwQORTfBY.jpg</image:loc
+      >
+      <image:caption
+        >When high school football player Cam Stiles loses his best friend, he
+        decides to drop football and focus on attaining his friend's goal of
+        running a mile in under four minutes. Cam's decision tears apart his
+        relationship with former teammates and his father—who happens to be his
+        demanding football coach.</image:caption
+      >
+      <image:title>Chasing a Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

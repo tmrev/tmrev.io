@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/352539-Brothers of War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/352539-Brothers of War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ztpmkdBnXerpVnrUORjdnlglRAd.jpg</image:loc
+      >
+      <image:caption
+        >When a bitter rivalry between two brothers finally erupts into bloody,
+        life-changing violence it is younger bother Greg who signs up for
+        frontline battle in France. Greg discovers a world of uncompromising
+        brutality as we follow him on his journey through France at the outbreak
+        of World War 2.</image:caption
+      >
+      <image:title>Brothers of War</image:title>
+    </image:image>
+  </url>
+</urlset>

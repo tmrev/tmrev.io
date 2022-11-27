@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/119995-Clown, Dog and Balloon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/119995-Clown, Dog and Balloon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Cute one-trick doggie show. The backdrop is beautifully detailed, yet
+        the illusion of depth is humorously broken by the balloon bouncing off
+        the set.</image:caption
+      >
+      <image:title>Clown, Dog and Balloon</image:title>
+    </image:image>
+  </url>
+</urlset>

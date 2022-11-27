@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/521753-Coffee for All</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/521753-Coffee for All</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xOqE6TmUecwMPw81FSAtkIAFSjV.jpg</image:loc
+      >
+      <image:caption
+        >Just as "the fluttering of the wings of a butterfly can be felt on the
+        other side of the world" (according to the Chinese proverb) a coffee
+        offered in Naples can be felt in Buenos Aires and replicated in New
+        York. In the bars of threedifferent cities ofthe world, the camera will
+        record the "first flutter" of a coffee cup offered to a
+        customer.</image:caption
+      >
+      <image:title>Coffee for All</image:title>
+    </image:image>
+  </url>
+</urlset>

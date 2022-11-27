@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58450-Cosmonaut</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58450-Cosmonaut</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b83XhOCmqMvtUlKYtqSgKEog9jl.jpg</image:loc
+      >
+      <image:caption
+        >Late '50s to early '60s, when the space war between the Soviet and US
+        was fiercely going on, a fifteen-year-old member of the communist party,
+        Luciana, develops her ideals while living with her bourgeois stepfather,
+        and among male chauvinists in a communist group in Rome. Her only friend
+        is her brother Arturo, who dreams of going to space but is unable to do
+        so due to his epilepsy.</image:caption
+      >
+      <image:title>Cosmonaut</image:title>
+    </image:image>
+  </url>
+</urlset>

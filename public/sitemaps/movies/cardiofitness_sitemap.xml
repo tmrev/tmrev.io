@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58078-Cardiofitness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58078-Cardiofitness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/37Gwc0f93GNDo3PTrBA163QRF2P.jpg</image:loc
+      >
+      <image:caption
+        >An irrepressible passion blossoms between 27 year-old aspiring writer
+        Stefania, and Stefano, a 15 year-old high school student. Their unusual
+        relationship obviously baffles friends and relatives of both components
+        of the unusual couple. Can their feelings withstand their own fears and
+        the pressure of society ? ...</image:caption
+      >
+      <image:title>Cardiofitness</image:title>
+    </image:image>
+  </url>
+</urlset>

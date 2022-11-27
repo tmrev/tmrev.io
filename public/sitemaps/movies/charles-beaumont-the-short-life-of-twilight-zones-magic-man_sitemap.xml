@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/747976-Charles Beaumont: The Short Life of
+      Twilight Zone's Magic Man</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/747976-Charles Beaumont: The Short Life of
+      Twilight Zone's Magic Man</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cMcilypPVTriCrtzIxZF0puqoWC.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about one of the most influential science fiction writers
+        of the 1950s and 1960s. Charles Beaumont was responsible for penning
+        some of the most memorable Twilight Zone episodes before his untimely
+        death at age 38.</image:caption
+      >
+      <image:title
+        >Charles Beaumont: The Short Life of Twilight Zone's Magic
+        Man</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435995-Bunyan and Babe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435995-Bunyan and Babe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1r3aKyYbIWZwzIRdMNO9EJFFUek.jpg</image:loc
+      >
+      <image:caption
+        >Travis and his sister, Whitney, visit their grandparents for the summer
+        and fall through a magical portal which transports him to the world of
+        American hero Paul Bunyan and his big, blue, talking ox,
+        Babe.</image:caption
+      >
+      <image:title>Bunyan and Babe</image:title>
+    </image:image>
+  </url>
+</urlset>

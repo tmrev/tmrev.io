@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/417499-Comeback</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/417499-Comeback</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a9WOiwLJGrKAQx3cIL6MljFg0h9.jpg</image:loc
+      >
+      <image:caption
+        >Amador is a retired and ostracized gunman. Alone and bitter, he
+        collects newspaper clippings of his old crimes in an album. After
+        several humiliations, he will react with violence to the world’s
+        hostility that surrounds him while also trying to get back to
+        action.</image:caption
+      >
+      <image:title>Comeback</image:title>
+    </image:image>
+  </url>
+</urlset>

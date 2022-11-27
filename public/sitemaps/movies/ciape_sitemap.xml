@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859719-C.I.Ape</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859719-C.I.Ape</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9d7k5IkBJDjJiMhHVRXljEsOgrY.jpg</image:loc
+      >
+      <image:caption
+        >When a criminal plot is discovered, the C.I.A. turns to its first ever
+        ape, their most unique operative, to foil the plot from the
+        inside.</image:caption
+      >
+      <image:title>C.I.Ape</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/355712-Children of Giant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/355712-Children of Giant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Children of GIANT is a documentary film that unearths deeply wrought
+        emotions in the small West Texas town of Marfa, before, during and after
+        the month-long production of George Stevens' 1956 feature film, Giant.
+        Based on the controversial Edna Ferber novel of the same name, the film,
+        Giant did not shy from strong social-issue themes experienced throughout
+        post-WWII America. George Stevens, its producer and director, purposely
+        gravitated to the drought-ridden community of Marfa for most all of the
+        exterior scenes.</image:caption
+      >
+      <image:title>Children of Giant</image:title>
+    </image:image>
+  </url>
+</urlset>

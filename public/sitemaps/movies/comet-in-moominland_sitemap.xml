@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70089-Comet in Moominland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70089-Comet in Moominland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fmDDTZxnl0BoGSsHLLGfMKwJk6l.jpg</image:loc
+      >
+      <image:caption
+        >Moomin, Sniff and Little My set out to stop a comet approaching the
+        Moominvalley. Along the way they meet Snufkin, the beautiful
+        Snorkmaiden, Snork and Hemulen, who join them in their
+        quest.</image:caption
+      >
+      <image:title>Comet in Moominland</image:title>
+    </image:image>
+  </url>
+</urlset>

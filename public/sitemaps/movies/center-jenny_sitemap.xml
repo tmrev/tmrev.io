@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/234214-Center Jenny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/234214-Center Jenny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eigN8r8IsDcSjQgsHhMf2g4j9qS.jpg</image:loc
+      >
+      <image:caption
+        >The film focuses on the life of Jenny who has, according to many of the
+        other characters, become too “left-of-center” while pursuing her
+        interests.</image:caption
+      >
+      <image:title>Center Jenny</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27331-Charley Varrick</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27331-Charley Varrick</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qPG2VPNA72he1Kczm2yFmslPNZN.jpg</image:loc
+      >
+      <image:caption
+        >Charley Varrick robs a bank in a small town with his friends, but
+        instead of obtaining a small amount of money, they discover they stole a
+        very large amount of money belonging to the mob. Charley must now come
+        up with a plan to not only evade the police but the mob as
+        well.</image:caption
+      >
+      <image:title>Charley Varrick</image:title>
+    </image:image>
+  </url>
+</urlset>

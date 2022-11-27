@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/449415-Classe Z</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/449415-Classe Z</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ksfBMwIQVq7fxrOAHYTYWPeKFyc.jpg</image:loc
+      >
+      <image:caption
+        >First day of last year for the students of a high school science, but
+        at school there is something new: some guys have been moved from their
+        respective classes in a section created especially for them, the section
+        H. Students of the H section are not were chosen at random, are in fact
+        notoriously problematic elements, too exuberant and listless. Among them
+        is Ricky who is awake and never misses a chance to make jokes irritating
+        that it shares on its Youtube channel, Star whose only interest is its
+        look and Viola intelligent but always at war with the
+        world.</image:caption
+      >
+      <image:title>Classe Z</image:title>
+    </image:image>
+  </url>
+</urlset>

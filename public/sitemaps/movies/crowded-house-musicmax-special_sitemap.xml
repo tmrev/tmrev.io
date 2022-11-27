@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409399-Crowded House: MusicMax Special</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409399-Crowded House: MusicMax Special</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Mini-Documentary aired in 2001 on Foxtel's MusicMax featuring
+        interviews with Neil Finn, Tim Finn and covering Crowded House and
+        Neil's solo career.</image:caption
+      >
+      <image:title>Crowded House: MusicMax Special</image:title>
+    </image:image>
+  </url>
+</urlset>

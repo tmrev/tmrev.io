@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/441669-Butcher the Bakers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/441669-Butcher the Bakers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6AXFxrot8sXHD2TfMEgE5ZkJC2k.jpg</image:loc
+      >
+      <image:caption
+        >Recently fired, a grim reaper with anger issues terrorizes a small
+        town, killing and collecting souls for a purpose only he knows. Sam and
+        Martin, slackers who work at the local bakery, are hired by a mysterious
+        stranger to stop him from killing again. Now they are the only ones who
+        can take out Death before it's too late, but these idiots have no idea
+        what they've walked into.</image:caption
+      >
+      <image:title>Butcher the Bakers</image:title>
+    </image:image>
+  </url>
+</urlset>

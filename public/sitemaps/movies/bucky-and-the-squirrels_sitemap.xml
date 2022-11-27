@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/499591-Bucky and the Squirrels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/499591-Bucky and the Squirrels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gNPJpr9YKj4jqI2uVtLXWTsuySY.jpg</image:loc
+      >
+      <image:caption
+        >Back in 1968, Bucky and the Squirrels topped the charts with their
+        dance hit 'Do the Squirrel.' Unfortunately, on their first promotional
+        tour, the plane carrying the band crashed and disappeared somewhere in
+        the Swiss Alps - never to be heard of again. That is until now, 50 years
+        later, when the plane is discovered with the Squirrels still inside -
+        frozen alive. Naturally, they're taken to a cryonics lab to be
+        defrosted. Long Live the Squirrels!</image:caption
+      >
+      <image:title>Bucky and the Squirrels</image:title>
+    </image:image>
+  </url>
+</urlset>

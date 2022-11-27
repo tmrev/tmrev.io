@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/163775-Congo Crossing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/163775-Congo Crossing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oSRJ6HQl2rXd40ztDwJwVzLRLyR.jpg</image:loc
+      >
+      <image:caption
+        >Congotanga, West Africa, has no extradition laws; the government is
+        controlled by foreign gangsters, headed by Carl Rittner. The latest
+        plane from Europe carries lovely Louise Whitman, fleeing a French murder
+        charge, and Mannering, who pays resident hit man O'Connell to kill her.
+        Through a chain of circumstances Louise, O'Connell, and heroic surveyor
+        David Carr end up alone in the jungle on Carr's mission to determine the
+        true border of Congotanga... in which Rittner is keenly
+        interested.</image:caption
+      >
+      <image:title>Congo Crossing</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412757-Colonel Panics</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412757-Colonel Panics</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/27jt8N9iu6aaDWoz0pYgja6lz6L.jpg</image:loc
+      >
+      <image:caption
+        >The destinies of two men, one from the future and one from the past,
+        become entwined as a malevolent virus spreads throughout Level 4, a
+        digital gaming experience that blurs dreams and reality.</image:caption
+      >
+      <image:title>Colonel Panics</image:title>
+    </image:image>
+  </url>
+</urlset>

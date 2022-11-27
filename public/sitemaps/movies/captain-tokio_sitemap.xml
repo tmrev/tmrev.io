@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/833380-Captain Tokio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/833380-Captain Tokio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/16yIWgjtKiYgXFlWzeveBJNxtXA.jpg</image:loc
+      >
+      <image:caption
+        >In the year 20XX, anarchy reigns over Tokyo after a devastating
+        earthquake destroyed the city. Isolated from the rest of the country,
+        the chaos-ridden city is ruled over by an autocratic governor (Izumiya
+        Shigeru) who has forbidden all forms of entertainment including cinema.
+        Timid movie lover Furuta (Wentz Eiji) and mischievous rocker Nitta
+        (Nakao Akiyoshi), two peddling high school boys lost in the city's
+        wasteland, gather forces and lead a youth rebellion against the
+        governor.</image:caption
+      >
+      <image:title>Captain Tokio</image:title>
+    </image:image>
+  </url>
+</urlset>

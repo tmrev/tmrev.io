@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/606734-Coup de vice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/606734-Coup de vice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yJZjVwJYvnxR5dY87UsoBAW4BEp.jpg</image:loc
+      >
+      <image:caption
+        >A woman picks up a stranded motorist on the side of the road. Once
+        inside her vehicle, the two hear a radio report about the recent
+        slayings of the Screwdriver Killer...</image:caption
+      >
+      <image:title>Coup de vice</image:title>
+    </image:image>
+  </url>
+</urlset>

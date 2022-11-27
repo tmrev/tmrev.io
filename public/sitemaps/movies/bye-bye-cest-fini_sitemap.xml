@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/761264-Bye bye c'est fini</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/761264-Bye bye c'est fini</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v1B09rP5WGXPjQMbfiwMOxoJ4qW.jpg</image:loc
+      >
+      <image:caption
+        >73-year-old Lina Merceis lives in a two-room flat in Rio de Janeiro.
+        She works as a telephone operator and after she gets off work she enjoys
+        life and entertains herself with one of her younger lovers. She has
+        chosen to live a single life and rejects the idea of having to take care
+        of some unrefined man.</image:caption
+      >
+      <image:title>Bye bye c'est fini</image:title>
+    </image:image>
+  </url>
+</urlset>

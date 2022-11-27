@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/213983-Club Sandwich</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/213983-Club Sandwich</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5FznbGSE307ke7KjMJUSh9AMoti.jpg</image:loc
+      >
+      <image:caption
+        >While vacationing at a beachside resort, a single mother faces
+        inevitable separation anxiety when her 15-year-old son — who is also her
+        best friend — discovers magical chemistry with a girl his own
+        age.</image:caption
+      >
+      <image:title>Club Sandwich</image:title>
+    </image:image>
+  </url>
+</urlset>

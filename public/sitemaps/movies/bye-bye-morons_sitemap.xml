@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/651881-Bye Bye Morons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/651881-Bye Bye Morons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kAzCQRu2ji9M5QOe48wTLgDwKG1.jpg</image:loc
+      >
+      <image:caption
+        >When 43-year-old hairdresser Suze Trappet finds out that she's
+        seriously ill, she decides to go looking for a child she was forced to
+        abandon when she was only 15. On her madcap bureaucratic quest she
+        crosses paths with JB, a 50-year-old man in the middle of a burnout, and
+        Mr. Blin, a blind archivist prone to overenthusiasm. The unlikely trio
+        set off on a hilarious and poignant helterskelter journey across the
+        city in search of Suze's long-lost child.</image:caption
+      >
+      <image:title>Bye Bye Morons</image:title>
+    </image:image>
+  </url>
+</urlset>

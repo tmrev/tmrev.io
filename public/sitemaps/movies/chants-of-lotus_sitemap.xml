@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260244-Chants of Lotus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260244-Chants of Lotus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lGwOtGfWlTqAHWcrmsaNzmodBby.jpg</image:loc
+      >
+      <image:caption
+        >This is an omnibus film, directed by 4 females and consists of 4
+        stories about women.</image:caption
+      >
+      <image:title>Chants of Lotus</image:title>
+    </image:image>
+  </url>
+</urlset>

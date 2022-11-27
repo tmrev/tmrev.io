@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171064-Carlo Giuliani, a Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171064-Carlo Giuliani, a Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xCEDN0BD6b8ZBd9NmS0kA5xlcfF.jpg</image:loc
+      >
+      <image:caption
+        >The film recounts Carlo Giuliani’s day of July 20 and, parallel to it,
+        the July 20 of the march of the ‘disobedients’, or the ‘white overalls’,
+        among whose ranks Carlo died. An individual’s story is told in all its
+        absolute concreteness, the friends he meets, the snack bar he goes to
+        for a bite, the roll of scotch tape he picks up on the street; whereas a
+        multitude’s story is told in all its epic tragedy, the night under the
+        rain, the colossal preparation against the march, the advance behind
+        shields, the attack of which the multitude was victim, the defense that
+        gets organized.</image:caption
+      >
+      <image:title>Carlo Giuliani, a Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

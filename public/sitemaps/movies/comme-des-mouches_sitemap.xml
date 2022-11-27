@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931903-Comme des mouches</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931903-Comme des mouches</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Francis is a taciturn teenager unhappy with his life. Not wanting to
+        stay with is mother, he lives in a foster home in the Laurentian
+        countryside with is guardian, Brian. They spend their days building a
+        bed for Camille, a young orphan soon to be joining them. But Francis
+        wants more: he wants out. As fate would have it, he crosses paths with
+        Bruno, a young gardener who decides to pass the night in the
+        forest.</image:caption
+      >
+      <image:title>Comme des mouches</image:title>
+    </image:image>
+  </url>
+</urlset>

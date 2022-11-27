@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67238-Cavite</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67238-Cavite</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s3pDLyGpJ4ZGvY7fL6ie5bV7Ge7.jpg</image:loc
+      >
+      <image:caption
+        >After arriving in Manila to attend his father's funeral, a
+        Filipino-American is lured into a conspiracy by a mysterious voice on
+        the other end of his cellphone. In order to save the lives of his
+        surviving family members, the expat must perform a series of dangerous
+        tasks amid the labyrinth of the Filipino underworld.</image:caption
+      >
+      <image:title>Cavite</image:title>
+    </image:image>
+  </url>
+</urlset>

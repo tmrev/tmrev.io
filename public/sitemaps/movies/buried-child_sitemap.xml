@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/590295-Buried Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/590295-Buried Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lMifcXgMNPlBu8arLT27D1zE1zb.jpg</image:loc
+      >
+      <image:caption
+        >Sam Shepard's Pulitzer Prize-winning play in a production by The New
+        Group, directed by Scott Elliott. Dodge (Ed Harris) and Halie (Amy
+        Madigan) try to hang on to their farmland and their sanity while caring
+        for their two wayward grown sons (Rich Sommer and Paul Sparks). When
+        their grandson (Nat Wolff) arrives no one seems to recognize him and a
+        secret must be kept.</image:caption
+      >
+      <image:title>Buried Child</image:title>
+    </image:image>
+  </url>
+</urlset>

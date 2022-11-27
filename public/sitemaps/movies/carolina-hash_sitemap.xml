@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1024299-Carolina Hash</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1024299-Carolina Hash</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Carolina Hash starts with establishing as fact the myth that
+        hash-popularity ends at the South Carolina borders. We learn that right
+        across the state line in North Carolina, barbecue customers and
+        restauranteurs "....don’t even know what hash is." The Brunswick stew
+        states of North Carolina and Georgia which border South Carolina for the
+        most part don’t know about it. But the tradition runs deep in all of
+        South Carolina, and most native South Carolinians not only know about it
+        - they can tell you where to go "....to get the best hash in South
+        Carolina!" and the name of the hash-master.</image:caption
+      >
+      <image:title>Carolina Hash</image:title>
+    </image:image>
+  </url>
+</urlset>

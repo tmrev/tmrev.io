@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/23928-Captain Horatio Hornblower</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/23928-Captain Horatio Hornblower</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oielnqLw4gVpaJDN6QTOapCqRXf.jpg</image:loc
+      >
+      <image:caption
+        >Captain Horatio Hornblower leads his ship HMS Lydia on a perilous
+        transatlantic voyage, during which his faithful crew battle both a
+        Spanish warship and a ragged band of Central American
+        rebels.</image:caption
+      >
+      <image:title>Captain Horatio Hornblower</image:title>
+    </image:image>
+  </url>
+</urlset>

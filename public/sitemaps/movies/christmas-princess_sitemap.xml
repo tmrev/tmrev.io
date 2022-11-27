@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/492335-Christmas Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/492335-Christmas Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aZPsZjwIb9qXXrGcrKaABhSlkYk.jpg</image:loc
+      >
+      <image:caption
+        >Against the backdrop of Christmas in Southern California comes
+        Christmas Princess, a heart-warming story inspired by true events about
+        one brave high school girl who overcomes her difficult past to become
+        one of the elite princesses in the world-renowned royal court of the
+        Tournament of Rose Parade presented by Honda</image:caption
+      >
+      <image:title>Christmas Princess</image:title>
+    </image:image>
+  </url>
+</urlset>

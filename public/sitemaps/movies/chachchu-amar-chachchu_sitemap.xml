@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1032348-Chachchu Amar Chachchu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1032348-Chachchu Amar Chachchu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sZIegaUoWwhR9V1pvG3X7lsdp4Q.jpg</image:loc
+      >
+      <image:caption
+        >Rafique Mallik is a honest judge. Someone tries to kill his son Rafat,
+        as revenge against Rafique. Rafat survives, but the perpetrator won’t
+        easily stop his campaign of terror against the family.</image:caption
+      >
+      <image:title>Chachchu Amar Chachchu</image:title>
+    </image:image>
+  </url>
+</urlset>

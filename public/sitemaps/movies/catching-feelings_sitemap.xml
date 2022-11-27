@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/461957-Catching Feelings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/461957-Catching Feelings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6lIbEslUg7Cklsoc09a6yQ0cH6.jpg</image:loc
+      >
+      <image:caption
+        >Set in a chic and middle class Johannesburg, a jaded academic and his
+        journalist wife have their lives turned upside down when a celebrated
+        and hedonistic older writer unexpectedly moves into their
+        home.</image:caption
+      >
+      <image:title>Catching Feelings</image:title>
+    </image:image>
+  </url>
+</urlset>

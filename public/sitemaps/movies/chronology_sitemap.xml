@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/628738-Chronology</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/628738-Chronology</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cqVukutxgwDRgq0KOEfoHDY1lD2.jpg</image:loc
+      >
+      <image:caption
+        >Hakan and Nihal have been married for many years. Shortly after they
+        find out that Nihal is unable to have children, she disappears. While
+        searching for her, Hakan makes some painful discoveries. He must face
+        his inner demons to discover what happened to his wife.</image:caption
+      >
+      <image:title>Chronology</image:title>
+    </image:image>
+  </url>
+</urlset>

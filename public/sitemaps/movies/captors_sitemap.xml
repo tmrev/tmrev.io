@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/634301-Captors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/634301-Captors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uw2F92plA1brk5CFZrhzJ6VrY8R.jpg</image:loc
+      >
+      <image:caption
+        >Alys - a human trafficking victim who narrowly escaped her captors ten
+        years ago - confronts her traumatic past when a relative leaves her his
+        remote, snowbound mansion. Although the new house first presents the
+        promise of a new chapter in her life, Alys is soon besieged by strange
+        hallucinations and deadly adversaries and must fight to survive while
+        keeping her sanity intact.</image:caption
+      >
+      <image:title>Captors</image:title>
+    </image:image>
+  </url>
+</urlset>

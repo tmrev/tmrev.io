@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387889-Buddymoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387889-Buddymoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eP8CNI8U2PlHLN72IEi7KqzP4MA.jpg</image:loc
+      >
+      <image:caption
+        >When David is left by his fiancé just days before the wedding, Flula,
+        his relentlessly upbeat best man, insists that the pair go on David's
+        previously planned honeymoon: a seven-day backpacking trip through the
+        breathtaking mountains of Oregon. Their adventures are bookended with
+        passages from William Clark's diary describing his friendship with
+        Meriwether Lewis and the terrain they crossed during their
+        expedition.</image:caption
+      >
+      <image:title>Buddymoon</image:title>
+    </image:image>
+  </url>
+</urlset>

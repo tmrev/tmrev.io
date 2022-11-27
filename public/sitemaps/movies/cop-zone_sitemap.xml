@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/875095-Cop Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/875095-Cop Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Officer John Halloway arrives home on his 45th birthday, only to find
+        no surprise birthday guests waiting for him. Frustrated and alone, with
+        a day old cupcake, John makes no wishes and goes straight to bed.
+        Suddenly John is awakened by a camera man who has barged into the back
+        door of his home at 2:00 AM, unannounced, ready for a ride
+        along.</image:caption
+      >
+      <image:title>Cop Zone</image:title>
+    </image:image>
+  </url>
+</urlset>

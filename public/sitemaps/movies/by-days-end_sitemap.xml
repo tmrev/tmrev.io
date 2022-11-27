@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/683875-By Day's End</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/683875-By Day's End</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tZcvj7lDlTklzCpJSYemV47ZXmk.jpg</image:loc
+      >
+      <image:caption
+        >A lesbian couple's efforts to mend their deteriorating relationship are
+        put on hold when a pandemic disease that causes insatiable hunger
+        ravages the world around them.</image:caption
+      >
+      <image:title>By Day's End</image:title>
+    </image:image>
+  </url>
+</urlset>

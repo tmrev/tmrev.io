@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12554-Citizen X</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12554-Citizen X</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pZq3c8rJEfctZof4VY6JCrvRost.jpg</image:loc
+      >
+      <image:caption
+        >Based on the true story of a Russian serial killer who, over many
+        years, claimed victim to over 50 people. His victims were mostly under
+        the age of 17. In what was then a communists state, the police
+        investigations were hampered by bureaucracy, incompetence and those in
+        power. The story is told from the viewpoint of the detective in charge
+        of the case.</image:caption
+      >
+      <image:title>Citizen X</image:title>
+    </image:image>
+  </url>
+</urlset>

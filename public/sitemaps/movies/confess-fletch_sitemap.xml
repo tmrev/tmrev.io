@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/724665-Confess, Fletch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/724665-Confess, Fletch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4dqEk1X8rHSOWWfnVEuzgXj24Mr.jpg</image:loc
+      >
+      <image:caption
+        >The roguishly charming and endlessly troublesome Fletch becomes the
+        prime suspect in a murder case while searching for a stolen art
+        collection. The only way to prove his innocence? Find out which of the
+        long list of suspects is the culprit - from the eccentric art dealer and
+        a missing playboy to a crazy neighbor and Fletch’s Italian girlfriend.
+        Crime, in fact, has never been this disorganized.</image:caption
+      >
+      <image:title>Confess, Fletch</image:title>
+    </image:image>
+  </url>
+</urlset>

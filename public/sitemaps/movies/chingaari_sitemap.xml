@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/310495-Chingaari</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/310495-Chingaari</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Ani9R7jObI69AplkUZxSxcE47D.jpg</image:loc
+      >
+      <image:caption
+        >Mithun Chakraborty plays a powerful and domineering priest who rules
+        his temple and the surrounding village with an iron fist, all supposedly
+        for the sake of religion. He becomes enamored with a prostitute
+        (Sushmita Sen) from a local brothel and begins spending more and more
+        time with her. But when the village postman (Anuj Sawhney) takes a
+        liking to her as well, the priest is forced to deal with him and a
+        growing village rebellion.</image:caption
+      >
+      <image:title>Chingaari</image:title>
+    </image:image>
+  </url>
+</urlset>

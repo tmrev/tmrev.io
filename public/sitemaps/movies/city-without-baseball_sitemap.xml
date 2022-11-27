@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160720-City Without Baseball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160720-City Without Baseball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6tPYYKZ6PDk5sPLWrLEg9t5Raeb.jpg</image:loc
+      >
+      <image:caption
+        >The actual members of the Hong Kong Baseball Team all prove themselves
+        to be natural actors by playing themselves in this fictional youth drama
+        set in 2004. In a city where baseball culture is non-existent, these
+        baseball players are a minority by choice. The experience teaches them
+        to be free-thinkers in dealing with love, friendship and their own
+        sexuality. It also enables them to find the will to live in the face of
+        death and the strength to conquer losing in a spectatorless
+        sport.</image:caption
+      >
+      <image:title>City Without Baseball</image:title>
+    </image:image>
+  </url>
+</urlset>

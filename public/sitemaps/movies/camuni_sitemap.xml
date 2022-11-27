@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/936454-Camuni</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/936454-Camuni</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dBxm5GgYHaNcDcv07ICQLYy81cR.jpg</image:loc
+      >
+      <image:caption
+        >A man sees a woman and falls in Iove. To win her heart, he embarks upon
+        a courtship involving fire-lit tribal dances, a perilous deer hunt and
+        demonstrations of his virility. The only thing that unlocks her heart,
+        however, is a flower, the “Camunian rose”, which he plucks from the rock
+        and gives to her as a sign of his love.</image:caption
+      >
+      <image:title>Camuni</image:title>
+    </image:image>
+  </url>
+</urlset>

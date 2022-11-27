@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230183-Chinthamani Kolacase</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230183-Chinthamani Kolacase</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/slLfCvoDbC20IsXPZCGsXuyeaqp.jpg</image:loc
+      >
+      <image:caption
+        >The story is centered on Lal Krishna Viradiar (Suresh Gopi), the
+        enigmatic criminal lawyer with an even more enigmatic mission. Lal
+        Krishna helps out hardened criminals to get away from the courts. But
+        later he pursues and takes them out in a bizarre show of vigilante
+        justice.</image:caption
+      >
+      <image:title>Chinthamani Kolacase</image:title>
+    </image:image>
+  </url>
+</urlset>

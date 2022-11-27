@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/537528-Burger Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/537528-Burger Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jgCeix2ZzCpnN9a0NRgAyqcm40A.jpg</image:loc
+      >
+      <image:caption
+        >'Burger Time' is a ski film from the 2000-2001 season produced by
+        Mercon Industries and Directed by Jon Mercon. This film shows you the
+        FREE in freestyle skiing and documents the revolution fully when twin
+        tips came onto the scene. From party to puking to park this film should
+        be rated x for x-tremely f'd up! Featuring Nick Mercon, Greg Tuffelmyer,
+        Omar Otte and pretty much anyone else that threw a trick that season on
+        skis!</image:caption
+      >
+      <image:title>Burger Time</image:title>
+    </image:image>
+  </url>
+</urlset>

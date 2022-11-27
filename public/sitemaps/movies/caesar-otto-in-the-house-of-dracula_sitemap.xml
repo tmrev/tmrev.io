@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/870056-Caesar & Otto in the House of Dracula</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/870056-Caesar & Otto in the House of Dracula</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c7jSkBK3d9BSowqCRZYXqUfFsoJ.jpg</image:loc
+      >
+      <image:caption
+        >In this throwback to old Universal monster movies, Caesar and Otto come
+        face to face with Steve Dracula, an eccentric theatre director who's
+        searching for "new Blood" for his latest production.</image:caption
+      >
+      <image:title>Caesar & Otto in the House of Dracula</image:title>
+    </image:image>
+  </url>
+</urlset>

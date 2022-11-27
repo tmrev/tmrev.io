@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/802851-Charles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/802851-Charles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Q7YV5XZuIQKMSnURnue5qqbfzR.jpg</image:loc
+      >
+      <image:caption
+        >A young couple moves in to their first apartment and encounters a
+        red-headed freckled doll. Soon they discover that their home and doll
+        reveal an evil presence.</image:caption
+      >
+      <image:title>Charles</image:title>
+    </image:image>
+  </url>
+</urlset>

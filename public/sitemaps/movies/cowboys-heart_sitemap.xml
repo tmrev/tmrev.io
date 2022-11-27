@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541891-Cowboy's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541891-Cowboy's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gHxxFvAb5m8yOQSLrvM7peLvhX3.jpg</image:loc
+      >
+      <image:caption
+        >Lucca is a struggling country singer who is forced by his manager
+        Iolanda to record cheesy pop-country song. Upon a disagreement during a
+        studio recording section, Lucca returns to his hometown in order to find
+        inspiration for his music.</image:caption
+      >
+      <image:title>Cowboy's Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

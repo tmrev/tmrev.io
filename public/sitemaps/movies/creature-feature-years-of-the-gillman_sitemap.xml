@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/387389-Creature Feature: 50 Years of the
+      Gill-Man</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/387389-Creature Feature: 50 Years of the
+      Gill-Man</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >First surfacing in 1954, the Gill-Man from CREATURE FROM THE BLACK
+        LAGOON has been one of the most influential screen monsters. This
+        documentary fondly recalls the history of the 3-D horror film - which
+        spawned several sequels and countless imitators - and the
+        behind-the-scenes story of its making as told by cast and
+        crew.</image:caption
+      >
+      <image:title>Creature Feature: 50 Years of the Gill-Man</image:title>
+    </image:image>
+  </url>
+</urlset>

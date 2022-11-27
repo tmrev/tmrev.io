@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33377-Bush's Brain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33377-Bush's Brain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sVH9hJAhAdN6MPt5njfBzB8IUyB.jpg</image:loc
+      >
+      <image:caption
+        >An examination of political consultant Karl Rove's influence on George
+        W. Bush's candidacy.</image:caption
+      >
+      <image:title>Bush's Brain</image:title>
+    </image:image>
+  </url>
+</urlset>

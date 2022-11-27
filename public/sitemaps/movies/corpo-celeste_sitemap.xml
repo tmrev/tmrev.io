@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64835-Corpo Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64835-Corpo Celeste</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mBQLpgzhiOOBxwZHuSw21b0s2lg.jpg</image:loc
+      >
+      <image:caption
+        >After growing up in Switzerland, 13-year-old Marta returns to a city in
+        southern Italy with her mother and older sister. Independent and
+        inquisitive, she joins a catechism class at a local church. However, the
+        games and religious pop songs she encounters there do not nearly satisfy
+        her interest in faith. Struggling to find her place, Marta pushes the
+        boundaries of the class, the priest, and the church.</image:caption
+      >
+      <image:title>Corpo Celeste</image:title>
+    </image:image>
+  </url>
+</urlset>

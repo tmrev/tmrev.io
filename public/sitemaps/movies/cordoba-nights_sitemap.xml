@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123960-Cordoba Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123960-Cordoba Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Finn (Raymond Turturro), drives around in an old car at night with a
+        portable record player in the back seat pumping out a variety of tunes
+        to help him make it through the night. Why is he out driving around
+        every night? Because he's a burned out pizza delivery guy delivering
+        pizzas in a city that seems as burned out as he is.</image:caption
+      >
+      <image:title>Cordoba Nights</image:title>
+    </image:image>
+  </url>
+</urlset>

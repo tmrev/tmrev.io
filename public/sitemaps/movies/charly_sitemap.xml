@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9580-Charly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9580-Charly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/97h7O0ny19BOUfrR2Ie4ChFX25G.jpg</image:loc
+      >
+      <image:caption
+        >Nicolas, an aimless adolescent who hasn't yet found his way in life
+        leaves his grandparent's home, hitchhikes to a small town, and
+        befriends, Charly an outspoken and slightly older prostitute, a
+        red-headed beauty who appears to ply her trade in the same no-nonsense
+        way she clears the breakfast dishes. She seems to find something
+        endearing about Nicolas' mussed hair and dopey face, so she puts him up
+        in the teeny trailer home that she maintains with such hilarious
+        fussiness. As their unusual domestic arrangement evolves, each stumbles
+        vulnerably into new emotional territory.</image:caption
+      >
+      <image:title>Charly</image:title>
+    </image:image>
+  </url>
+</urlset>

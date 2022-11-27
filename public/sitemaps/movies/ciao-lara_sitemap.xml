@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/549886-Ciao, Lara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/549886-Ciao, Lara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hhLy4GEC3GcomtIpV6bix3l2OHK.jpg</image:loc
+      >
+      <image:caption
+        >A woman in a really modern apartment, where the computer controls
+        everything. But who is human and who is the machine?</image:caption
+      >
+      <image:title>Ciao, Lara</image:title>
+    </image:image>
+  </url>
+</urlset>

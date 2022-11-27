@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33857-Bye-Bye Bin Laden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33857-Bye-Bye Bin Laden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Bushes and the Bin Ladens battle on national television with
+        dueling series aimed at boosting their popularity with the masses in
+        this animated musical satire with a cast of characters that includes
+        Osama Bin Laden, Mullah Omar and Jenna Bush. While Bin Laden waffles on
+        format, the Bushes come up with a surefire winner: "The George and Jenna
+        Comedy Hour," where dancing crucifixes and patriotic hot pants are the
+        order of the day.</image:caption
+      >
+      <image:title>Bye-Bye Bin Laden</image:title>
+    </image:image>
+  </url>
+</urlset>

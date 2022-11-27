@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/523940-Come On Irene</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/523940-Come On Irene</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bSjPALWjK99jldqm47xb3lbGkmZ.jpg</image:loc
+      >
+      <image:caption
+        >Iwao Shishido has found a wife. After paying three million yen for a
+        bridal tour to the Philippines, he comes home with Irene, who is
+        promptly confronted by Tsuru—Iwao’s freshly widowed mother, who’s
+        infuriated her loser son has married a woman she’s never
+        met.</image:caption
+      >
+      <image:title>Come On Irene</image:title>
+    </image:image>
+  </url>
+</urlset>

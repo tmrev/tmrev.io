@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400060-Chubby Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400060-Chubby Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nz42Zu5dWOOYyRwJ2G7VZdPZDj9.jpg</image:loc
+      >
+      <image:caption
+        >Oscar thinks he's special. He isn't. He thinks it's everyone else's
+        fault. It's not. Moving to London, he gives himself a year to break into
+        showbiz, but ends up waylaid by the same old problems: friendships,
+        flings, and finding ultimate fulfillment. Say what you like, but it's
+        tough being Chubby Funny.</image:caption
+      >
+      <image:title>Chubby Funny</image:title>
+    </image:image>
+  </url>
+</urlset>

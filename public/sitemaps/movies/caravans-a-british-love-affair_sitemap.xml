@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/774438-Caravans: A British Love Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/774438-Caravans: A British Love Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1kK6t1nMeEP2LRUGJL4bG96MUxw.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about the love affair between the British and their
+        caravans, which saw the country establish the world's largest caravan
+        manufacturer and transformed the holiday habits of generations of
+        families. In telling the intriguing story of caravanning in Britain from
+        the 1950s through to the present day, the film reveals how caravans were
+        once the plaything of a privileged minority, but after World War II
+        became a firm favourite with almost a quarter of British
+        holidaymakers.</image:caption
+      >
+      <image:title>Caravans: A British Love Affair</image:title>
+    </image:image>
+  </url>
+</urlset>

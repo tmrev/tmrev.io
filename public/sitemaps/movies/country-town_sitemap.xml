@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467604-Country Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467604-Country Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3XnZlZyRiHt4MRrf9WV0nQJwNXo.jpg</image:loc
+      >
+      <image:caption
+        >In this movie version of "Bellbird" (1967) a reporter, Philip Henderson
+        stirs up the town further when they are already suffering with a
+        drought.</image:caption
+      >
+      <image:title>Country Town</image:title>
+    </image:image>
+  </url>
+</urlset>

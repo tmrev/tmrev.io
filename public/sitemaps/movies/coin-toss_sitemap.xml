@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/203181-Coin Toss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/203181-Coin Toss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/73pncIwNjbNDDLG2pedcHOTFrBV.jpg</image:loc
+      >
+      <image:caption
+        >In the best screwball comedy tradition, This award winning film tells
+        the story of love and luck turning on the toss of a coin. Tom Benett is
+        trying to do the right thing, but his good intentions keep getting
+        derailed by his scheming fiancé and a hustler who want his $350 million
+        dollar lottery ticket. Mix in skulduggery with a stolen investment
+        formula, a childhood sweetheart, and a couple of homicidal pensioners,
+        and Tom has a long way to go before he learns that it's okay to lose
+        once you've learned what's worth winning!</image:caption
+      >
+      <image:title>Coin Toss</image:title>
+    </image:image>
+  </url>
+</urlset>

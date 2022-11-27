@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627477-Christmas Unleashed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627477-Christmas Unleashed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u3kXsrytxtcVz4D498lYlC99SkR.jpg</image:loc
+      >
+      <image:caption
+        >When Marla's dog runs away on Christmas Eve, she must team up with her
+        ex-boyfriend Max to find him. As the pup leads the exes on an
+        all-day-and-night search through their North Carolina hometown, they
+        revisit people, places and things that remind them of the Christmas
+        pasts they spent together.</image:caption
+      >
+      <image:title>Christmas Unleashed</image:title>
+    </image:image>
+  </url>
+</urlset>

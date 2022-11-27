@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/676575-Cricket & Antoinette</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/676575-Cricket & Antoinette</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fBSLAMH5vczIWgzpa9x7Z52F4QH.jpg</image:loc
+      >
+      <image:caption
+        >Two main characters, Cricket and Antoinette, represent two separate
+        worlds, the world of noise, chaos and creativity on the one side, and
+        the world of work, order and discipline on the other. As they fall in
+        love, in spite of obvious differences, they manage to create
+        harmony.</image:caption
+      >
+      <image:title>Cricket & Antoinette</image:title>
+    </image:image>
+  </url>
+</urlset>

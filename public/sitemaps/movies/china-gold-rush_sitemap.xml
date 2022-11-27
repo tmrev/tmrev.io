@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/502904-China Gold Rush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/502904-China Gold Rush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3HjSVVHXZ7zWY78Vzoa1z91UZ9A.jpg</image:loc
+      >
+      <image:caption
+        >Against the backdrop of millennial fervor, filmmaker Joanne Cheng
+        journeys from Times Square to Tiananmen Square seeking a definition of
+        China on the eve of the 21st Century. Interviewing internet surfers,
+        business executives, avant-garde artists, punk rockers, "China Watchers"
+        and Westerners living in China, she reveals a society in transitional
+        mode as it moves rapidly towards modernity.</image:caption
+      >
+      <image:title>China Gold Rush</image:title>
+    </image:image>
+  </url>
+</urlset>

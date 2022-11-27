@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/187513-Close Enough to Touch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/187513-Close Enough to Touch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dTtm2vUYbUnKuFaYoiiMzxltdQY.jpg</image:loc
+      >
+      <image:caption
+        >Two families, two homes and too many secrets. The Hendersons are a
+        textbook dysfunctional family: Jason is a money-hungry philanderer;
+        Amanda is an inattentive alcoholic. And both are eagerly consuming
+        whatever sordid sexual opportunities cross their paths. Then there's the
+        kids: Suzanne is a fashion-model while Neal is halfheartedly following
+        his father into a legal career. When the next-door neighbors - a sexy
+        widow and her prudish daughter - arrive, it's only a matter of time
+        before the curtain falls on this charade.</image:caption
+      >
+      <image:title>Close Enough to Touch</image:title>
+    </image:image>
+  </url>
+</urlset>

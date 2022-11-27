@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57029-Cinderella - In Concert</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57029-Cinderella - In Concert</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/77Y8y1t4PBPIvf8ETfvZsABFZq3.jpg</image:loc
+      >
+      <image:caption
+        >Filmed at the height of the band's popularity during the Heartbreak
+        Station Tour in 1991, this spectacular performance includes all of their
+        biggest hits including Night Songs, Don't Know What You Got 'Til It's
+        Gone, Nobody's Fool, Shelter Me and more.</image:caption
+      >
+      <image:title>Cinderella - In Concert</image:title>
+    </image:image>
+  </url>
+</urlset>

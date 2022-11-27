@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/201706-Chinese Heroes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/201706-Chinese Heroes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aO5ZupdPuOyIhHbhZCHzldh2Dvp.jpg</image:loc
+      >
+      <image:caption
+        >A good-natured kung fu kid gets caught up in conflict between rival
+        schools and rival countries, and has to fight for justice, honour and
+        friendship. Chin Kar-Lok plays a Drunken Master ™ with a troupe of kung
+        fu kids, who teaches our hero how to attain true mastery of the Chinese
+        Martial Arts.</image:caption
+      >
+      <image:title>Chinese Heroes</image:title>
+    </image:image>
+  </url>
+</urlset>

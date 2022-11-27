@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/524659-Crown Vic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/524659-Crown Vic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aUFuuUMd4nMbt3pdzulnFRxbY6e.jpg</image:loc
+      >
+      <image:caption
+        >One memorable night in the life of veteran patrol officer Ray Mandel
+        and his trainee, ambitious rookie cop Nick Holland in the LAPD's Olympic
+        Division. With two cop killers on the loose and hunting for more
+        targets, Mandel and Holland must contend with a city about to boil over,
+        as well as Jack VanZandt, an unhinged rogue cop out for payback running
+        wild in their patrol zone.</image:caption
+      >
+      <image:title>Crown Vic</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505718-Colin McRae: Rally Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505718-Colin McRae: Rally Legend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wmvf0n2CgU85DJ0rsXCbmYCjjdM.jpg</image:loc
+      >
+      <image:caption
+        >During 2007, a Duke production team was tasked with producing the
+        definitive documentary about Colin McRae. With full access to all the
+        WRC recordings of Colin's championship years, plus other rally and
+        family archive, director Mark Cross was able to compile the most
+        comprehensive career record yet of this remarkable
+        sportsman.</image:caption
+      >
+      <image:title>Colin McRae: Rally Legend</image:title>
+    </image:image>
+  </url>
+</urlset>

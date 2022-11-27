@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028537-Christmas Class Reunion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028537-Christmas Class Reunion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >High school classmates, who once dubbed themselves the “cursed class,”
+        reconnect at Christmas for their 15-year reunion. Over the course of
+        their time reconnecting, the classmates challenge each other to remember
+        who they were, who they are, and who they want to be.</image:caption
+      >
+      <image:title>Christmas Class Reunion</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297419-Common Denominator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297419-Common Denominator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yldpZEihAfm7XSHrkm7naILycCj.jpg</image:loc
+      >
+      <image:caption
+        >Four men meet in a coffee bar, where they discuss their views on life,
+        love, and the opposite sex. As their conversation progresses, they
+        realise they have far more in common with each other than they
+        anticipated.</image:caption
+      >
+      <image:title>Common Denominator</image:title>
+    </image:image>
+  </url>
+</urlset>

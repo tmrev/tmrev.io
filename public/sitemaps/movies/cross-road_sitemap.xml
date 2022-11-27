@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/277095-Cross Road</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/277095-Cross Road</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kZjV5KgkTF3iRELAhneJdIoAuiJ.jpg</image:loc
+      >
+      <image:caption
+        >High school students Miho and Shouta are preparing for college entrance
+        examinations. Miho comes from an island without even one cram school,
+        while Shouta lives in Tokyo and works a part-time job. Both are striving
+        to pass exams so they can enter college. The pair enroll in Z-Kai's
+        correspondence education courses, and their lives cross before they
+        realize it.</image:caption
+      >
+      <image:title>Cross Road</image:title>
+    </image:image>
+  </url>
+</urlset>

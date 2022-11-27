@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/780992-Carpe Millennium</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/780992-Carpe Millennium</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6FT7FAUm7vvQzGpgC3hKqXMSgN6.jpg</image:loc
+      >
+      <image:caption
+        >New Year's Eve, the last hours of the year 1999. Kevin wants to lose
+        his virginity, he had his chances before, but it just didn't happen.
+        Will tonight be the night?</image:caption
+      >
+      <image:title>Carpe Millennium</image:title>
+    </image:image>
+  </url>
+</urlset>

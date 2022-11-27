@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/623758-Cadillac Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/623758-Cadillac Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mC1MSmbTfe5ZDhHhkIxXJCmxzpj.jpg</image:loc
+      >
+      <image:caption
+        >Cadillac Blues is the story of three days in the life of two Lebanese
+        brothers, Omar and Ryan. They are very close. They live together,
+        sharing the living space, the mobile phone, and a huge old Cadillac. We
+        don’t know where their parents are. But they are present only in the
+        boys’ conversations. Through a series of dreams and hallucinations, we
+        get a glimpse into Ryan’s mental state before his brother does. We are
+        given the opportunity to see the world through the eyes of a young man
+        struggling with his sexuality in the stuffy environment of the margins.
+        He is down with the Cadillac blues.</image:caption
+      >
+      <image:title>Cadillac Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

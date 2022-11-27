@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47324-Cairo Station</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47324-Cairo Station</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zm8ET6PSfPT6pozgvjR7htaZFjy.jpg</image:loc
+      >
+      <image:caption
+        >Qinawi, a physically challenged peddler who makes his living selling
+        newspapers in the central Cairo train station, is obsessed by Hanuma, an
+        attractive young woman who sells drinks. While she jokes with him about
+        a possible relationship, she is actually in love with Abu Siri, a strong
+        and respected porter at the station who is struggling to unionize his
+        fellow workers to combat their boss' exploitative and abusive
+        treatment.</image:caption
+      >
+      <image:title>Cairo Station</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/621808-China, One Million Artists</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/621808-China, One Million Artists</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b2EE3sMw32Yke1FgcAkYuOKGqPg.jpg</image:loc
+      >
+      <image:caption
+        >Documentary charting the rise of Chinese art following the death of
+        Mao, and how some artists embraced Western styles while other critiqued
+        it by hijacking communist propaganda.</image:caption
+      >
+      <image:title>China, One Million Artists</image:title>
+    </image:image>
+  </url>
+</urlset>

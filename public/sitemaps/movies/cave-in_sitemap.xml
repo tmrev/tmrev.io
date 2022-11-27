@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/86704-Cave In</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/86704-Cave In</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rLSGiJ4PzwHVypZMYndf77YbCUY.jpg</image:loc
+      >
+      <image:caption
+        >When a cave in threatens the lives of four miners, including a father
+        and son, it becomes a fight for survival. The superintendent (Mimi
+        Rogers) struggles against the ticking clock to save her crew and family
+        from impending doom.</image:caption
+      >
+      <image:title>Cave In</image:title>
+    </image:image>
+  </url>
+</urlset>

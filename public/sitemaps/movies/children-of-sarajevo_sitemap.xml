@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/111728-Children of Sarajevo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/111728-Children of Sarajevo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o76OsW3QrrFcI146qTSK6z3yXuJ.jpg</image:loc
+      >
+      <image:caption
+        >A microcosm of the fathomless suffering that remains more than 16 years
+        since the siege of Sarajevo ended, writer-director Aida Begic’s
+        follow-up to her 2008 Cannes Critics’ Week Grand Prize-winning debut
+        Snow tells the story of two orphaned siblings struggling in a
+        transitional society where only the fittest survive.</image:caption
+      >
+      <image:title>Children of Sarajevo</image:title>
+    </image:image>
+  </url>
+</urlset>

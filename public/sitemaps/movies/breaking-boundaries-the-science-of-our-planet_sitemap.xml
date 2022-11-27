@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/828146-Breaking Boundaries: The Science of Our
+      Planet</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/828146-Breaking Boundaries: The Science of Our
+      Planet</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kRs7kdlw06DVkxOVidWloqZ3HCw.jpg</image:loc
+      >
+      <image:caption
+        >David Attenborough and scientist Johan Rockström examine Earth's
+        biodiversity collapse and how this crisis can still be
+        averted.</image:caption
+      >
+      <image:title>Breaking Boundaries: The Science of Our Planet</image:title>
+    </image:image>
+  </url>
+</urlset>

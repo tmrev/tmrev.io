@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/42003-Chuck Berry - Hail! Hail! Rock 'n' Roll</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/42003-Chuck Berry - Hail! Hail! Rock 'n' Roll</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l2UO83nc3Z2xluh355pD8ZWgjpd.jpg</image:loc
+      >
+      <image:caption
+        >St. Louis, 1986. For Chuck Berry's 60th, Keith Richards assembles a
+        pickup band of Robert Cray, Joey Spampinato, Eric Clapton, himself and
+        long-time Berry pianist, Johnnie Johnson. Joined on stage by Etta James,
+        Linda Ronstadt and Julian Lennon, Berry performs his classic rock songs.
+        His abilities as a composer, lyricist, singer, musician and entertainer
+        are on display and, in behind-the-scenes interviews, are discussed by Bo
+        Diddley, Little Richard, Jerry Lee Lewis, Bruce Springstein, the Everly
+        Brothers, Roy Orbison and others. There's even a rarity for Berry—a
+        rehearsal. Archival footage from the early 1950s and a duet with John
+        Lennon round out this portrait of a master.</image:caption
+      >
+      <image:title>Chuck Berry - Hail! Hail! Rock 'n' Roll</image:title>
+    </image:image>
+  </url>
+</urlset>

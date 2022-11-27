@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/620058-Crystal's Shadow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/620058-Crystal's Shadow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k6R50hwsjaEWxYYootrF1Q5jMJq.jpg</image:loc
+      >
+      <image:caption
+        >Crystal is a Texan orphan with a horrible and tragic past. Her parents
+        ritually abuse her, but one night strange lights appear outside her home
+        and she blacks out to awake and find them brutally murdered. A few years
+        later when she is a young adult, Crystal flees her Orphanage believing
+        that other worldly forces are after her. Arriving at a remote ranch, she
+        is discovered by a family who are forced to protect her and discover
+        that alien paranormal phenomena is real</image:caption
+      >
+      <image:title>Crystal's Shadow</image:title>
+    </image:image>
+  </url>
+</urlset>

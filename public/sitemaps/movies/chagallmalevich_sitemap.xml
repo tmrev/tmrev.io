@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/288892-Chagall-Malevich</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/288892-Chagall-Malevich</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wSMD8J5GQ2huCiYVm8FpVHEVM45.jpg</image:loc
+      >
+      <image:caption
+        >The film is an attempt to recreate the world of Marc Chagall and his
+        myth within the genre of a folklore ballad. We are not exploiting
+        Chagall's images, but are attempting to create a dramatized projection
+        of his creativity onto the movie screen, relying on both, facts and
+        fantasy (as Chagall himself would).The story is based on real events
+        which occurred at the time of Chagall's short-lived period in Vitebskin
+        in 1917-18, during which time he creates the Academy of Modern Art,
+        inspired by his dreams of a bright and beautiful future. Many pictures
+        by Chagall and Malevich are used in the film.</image:caption
+      >
+      <image:title>Chagall-Malevich</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84182-Can</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84182-Can</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yAiSsBLIXZWNx8i5rDzknbWftzs.jpg</image:loc
+      >
+      <image:caption
+        >Loving Istanbul couple Ayşe and Cemal need only a child to complete
+        their life together, but they cannot conceive. To salvage Cemal’s pride,
+        they resort to illegal means to procure a baby. This wild grab at a more
+        perfect life proves their undoing, leading the couple to spiral toward
+        separate futures. The couple's estrangement is intertwined with the
+        film’s parallel narrative, in which a distant and neglectful single mom
+        is raising her little boy, Can.</image:caption
+      >
+      <image:title>Can</image:title>
+    </image:image>
+  </url>
+</urlset>

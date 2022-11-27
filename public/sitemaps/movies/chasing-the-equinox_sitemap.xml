@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/711564-Chasing the Equinox</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/711564-Chasing the Equinox</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vcUg9U10RNe4q6BYM49Tf0bVRVn.jpg</image:loc
+      >
+      <image:caption
+        >The ancients hid the secrets of their incredible knowledge of astronomy
+        in their temples and palaces, built to align with the sun, on the same
+        day, all over the world. Revealing our species' obsession with the sun,
+        across thousands of years and every continent, this is architectural
+        magic on a cosmic scale.</image:caption
+      >
+      <image:title>Chasing the Equinox</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123242-Brooklyn Brothers Beat the Best</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123242-Brooklyn Brothers Beat the Best</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wdYvNx8AgEVVXy3EBqCjzyodKex.jpg</image:loc
+      >
+      <image:caption
+        >Recently dumped by his girlfriend, underachiever Alex (O'Nan) embarks
+        on an impromptu road trip with his new bandmate, the eccentric Jim
+        (Michael Weston). By channeling their inner children and giving a new
+        meaning to the term "lo-fi," Alex and Jim find their unique style by
+        bringing the sound of children's instruments to their unsuspecting fans.
+        Playing a series of bizarre shows and experiencing multiple
+        near-disasters, Alex and Jim's persistence takes them on a true
+        coming-of-age journey</image:caption
+      >
+      <image:title>Brooklyn Brothers Beat the Best</image:title>
+    </image:image>
+  </url>
+</urlset>

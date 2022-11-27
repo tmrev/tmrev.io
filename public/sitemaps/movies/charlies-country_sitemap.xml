@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/265349-Charlie's Country</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/265349-Charlie's Country</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sqhOh1iFUgzDD0855ZRcCnV5sJ8.jpg</image:loc
+      >
+      <image:caption
+        >Blackfella Charlie is getting older, and he's out of sorts. The
+        intervention is making life more difficult on his remote community, what
+        with the proper policing of whitefella laws that don't generally make
+        much sense, and Charlie's kin and ken seeming more interested in going
+        along with things than doing anything about it. So Charlie takes off, to
+        live the old way, but in doing so sets off a chain of events in his life
+        that has him return to his community chastened, and somewhat the
+        wiser.</image:caption
+      >
+      <image:title>Charlie's Country</image:title>
+    </image:image>
+  </url>
+</urlset>

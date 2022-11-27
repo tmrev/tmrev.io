@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/115504-Broken Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/115504-Broken Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nmSCRPzNklRXHCq0GEoYVSDjHzB.jpg</image:loc
+      >
+      <image:caption
+        >Winter, 1944. Lucía at 21 returns to her small village in the
+        mountains. She again meets Manuel, a young iron-smith who helps "those
+        in the mountain", the "maquis", the anti-Franco resistance. Lucía is
+        attracted to Manual, because of his smile and the bravery of those men
+        who continue fighting for their ideas, even at the cost of their own
+        lives. When Manuel is pursued (by Franco's Civil Guard) he flees to the
+        mountain and Lucía discovers the reality of political repression, the
+        silence, the horror and fear.</image:caption
+      >
+      <image:title>Broken Silence</image:title>
+    </image:image>
+  </url>
+</urlset>

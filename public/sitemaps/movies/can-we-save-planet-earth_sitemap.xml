@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/814987-Can We Save Planet Earth?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/814987-Can We Save Planet Earth?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In the second of a two-part documentary, David Attenborough explores
+        just how much climate change is altering our planet. He looks ahead to
+        find out what needs to be done to save Planet Earth from the worst
+        impact of global warming and discovers what could happen to the planet
+        once a 'tipping point' of carbon emissions is reached. He also discusses
+        the solutions we can all adopt to prevent catastrophic
+        change.</image:caption
+      >
+      <image:title>Can We Save Planet Earth?</image:title>
+    </image:image>
+  </url>
+</urlset>

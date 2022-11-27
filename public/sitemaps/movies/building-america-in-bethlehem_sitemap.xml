@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/938265-Building America in Bethlehem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/938265-Building America in Bethlehem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This documentary film, completed in 2009, follows the conversion of one
+        of the largest steel factories in America into a casino-entertainment
+        center. It depicts a poetic and dystopian portrait of American industry
+        and the city of Bethlehem, PA which was built around it.</image:caption
+      >
+      <image:title>Building America in Bethlehem</image:title>
+    </image:image>
+  </url>
+</urlset>

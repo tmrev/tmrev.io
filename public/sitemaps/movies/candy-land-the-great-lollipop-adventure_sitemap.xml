@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/103430-Candy Land: The Great Lollipop
+      Adventure</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/103430-Candy Land: The Great Lollipop
+      Adventure</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This is the story of the game "Candy Land," where a gingerbread boy
+        named Jib, as he travels the Rainbow Road in search of the annual Sweet
+        Celebration only to discover that the nefarious Lord Licorice has
+        hatched a plan to turn the brightly colored land into a licorice-hued
+        expanse. Now it's up to Jib and his friends Mister Mint and Princess
+        Frostine to foil the villain's dastardly plot and save the citizens of
+        Candy Land from certain drabness.</image:caption
+      >
+      <image:title>Candy Land: The Great Lollipop Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

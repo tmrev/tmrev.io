@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20483-Catch That Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20483-Catch That Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vNZTtrzrIsIAHzqH3143oWIzFjG.jpg</image:loc
+      >
+      <image:caption
+        >Athletic 12-year-old Maddy (Kristen Stewart) shares an enthusiasm for
+        mountain climbing with her father, Tom (Sam Robards). Unfortunately, Tom
+        suffers a spinal injury while scaling Mount Everest, and his family is
+        unable to afford the surgery that can save him. Maddy decides to get the
+        money for her father's operation by robbing a high-security bank. She
+        relies on her climbing skills and help from her geeky friends (Max
+        Thieriot, Corbin Bleu) to pull it off successfully.</image:caption
+      >
+      <image:title>Catch That Kid</image:title>
+    </image:image>
+  </url>
+</urlset>

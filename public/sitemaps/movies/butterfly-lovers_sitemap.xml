@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19464-Butterfly Lovers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19464-Butterfly Lovers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aSoS89eTUVhe6p0RTbV7x2exMFS.jpg</image:loc
+      >
+      <image:caption
+        >Zhu Yanzhi, disguised as a man, seeks to learn martial arts with an
+        elite clan. Once she begins her intense training, Zhu finds herself at
+        odds with her trainer and superior, Liang.</image:caption
+      >
+      <image:title>Butterfly Lovers</image:title>
+    </image:image>
+  </url>
+</urlset>

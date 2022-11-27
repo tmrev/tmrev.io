@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140765-Broken Path</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140765-Broken Path</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/44EHG44ygE13HWPBQnxzdOFVaUj.jpg</image:loc
+      >
+      <image:caption
+        >On an isolated ranch in the desert, one man must protect his wife from
+        a secret past that he is now forced to confront. With the sun towering
+        in the sky overhead, the ranch sits beneath the vast blue, isolated
+        amidst the arid terrain, Though life is certainly evident as a house
+        warming party ensues.</image:caption
+      >
+      <image:title>Broken Path</image:title>
+    </image:image>
+  </url>
+</urlset>

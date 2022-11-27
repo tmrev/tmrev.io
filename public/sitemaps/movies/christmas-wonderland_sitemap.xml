@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550032-Christmas Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550032-Christmas Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3QwvhdOZSNJdHbHcL9aIwp3l9mD.jpg</image:loc
+      >
+      <image:caption
+        >Heidi, who initially left her small town of Pleasant Valley with the
+        dream of one day becoming a successful painter, has put her own art on
+        hold to excel as an art gallery curator. Now, a week before the
+        gallery’s big Christmas party, she must return home to watch her niece
+        and nephew. She comes face to face with her high school love, Chris, now
+        a teacher, and offers to help him find a new last-minute location for
+        the Christmas dance.</image:caption
+      >
+      <image:title>Christmas Wonderland</image:title>
+    </image:image>
+  </url>
+</urlset>

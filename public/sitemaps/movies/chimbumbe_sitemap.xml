@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/780650-Chimbumbe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/780650-Chimbumbe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/soSkzUEnN5UkfQB3KUYlOWTI0b1.jpg</image:loc
+      >
+      <image:caption
+        >A mythical love story between a girl and a fish. Catalina Luango is
+        swallowed up by the waters of a swamp. Her family tries to rescue her
+        from the underworld called Chimbumbe. Adaptation of a legend of oral
+        tradition from San Basilio de Palenque, Colombia.</image:caption
+      >
+      <image:title>Chimbumbe</image:title>
+    </image:image>
+  </url>
+</urlset>

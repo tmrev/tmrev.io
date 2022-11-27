@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/217728-Coming Attractions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/217728-Coming Attractions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h3TM0n8NB3JKoMIp29tCRieKjIL.jpg</image:loc
+      >
+      <image:caption
+        >A film woven around the idea that between early cinema and avant-garde
+        film exists a connection.</image:caption
+      >
+      <image:title>Coming Attractions</image:title>
+    </image:image>
+  </url>
+</urlset>

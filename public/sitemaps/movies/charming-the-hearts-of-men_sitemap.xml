@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693730-Charming the Hearts of Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693730-Charming the Hearts of Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qnTmcUPBpJzZpbyOfNI9M5YwhXf.jpg</image:loc
+      >
+      <image:caption
+        >A romantic drama set during the politically charged early 60s where a
+        sophisticated woman returns to her Southern home town and discovers her
+        options are limited yet discrimination is plentiful. With the help of a
+        Congressional ally, she inspires historic legislation which allows
+        opportunities and protections never before afforded to
+        women.</image:caption
+      >
+      <image:title>Charming the Hearts of Men</image:title>
+    </image:image>
+  </url>
+</urlset>

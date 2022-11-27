@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/960497-CARLOS KLEIBER LUDWIG VAN BEETHOVEN
+      Symphonies 4 & 7</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/960497-CARLOS KLEIBER LUDWIG VAN BEETHOVEN
+      Symphonies 4 & 7</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9Z6IINQOMqR0wFw08tss5GOpboC.jpg</image:loc
+      >
+      <image:caption
+        >Ludwig van Beethoven (1770-1827) Symphony No. 4 in B minor, Op. 60
+        Symphony No. 7 in C major, Op. 92</image:caption
+      >
+      <image:title
+        >CARLOS KLEIBER LUDWIG VAN BEETHOVEN Symphonies 4 & 7</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

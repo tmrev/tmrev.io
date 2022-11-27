@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560538-CinéMagique</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560538-CinéMagique</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zOANKRW0BI8TPquVHI5qDN0zb5A.jpg</image:loc
+      >
+      <image:caption
+        >CinéMagique was a theatre show at Walt Disney Studios Park in
+        Disneyland Paris mixing the live performance of an actor with
+        synchronised movie scenes on a big screen. The attraction opened with
+        the park on March 16, 2002 and stars Martin Short and Julie Delpy. The
+        last show was on March 29, 2017.</image:caption
+      >
+      <image:title>CinéMagique</image:title>
+    </image:image>
+  </url>
+</urlset>

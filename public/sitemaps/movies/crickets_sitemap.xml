@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314114-Crickets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314114-Crickets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4G8QXZudb8iVwSVeagor7JHgmmi.jpg</image:loc
+      >
+      <image:caption
+        >Kaoru, a wealthy woman whose youth is fading, abandons the hustle and
+        bustle of the city to live a peaceful life in a house on the coast.
+        There she takes care of an old deaf, dumb and blind man as if he were an
+        insect, a child or a pet. He can’t do anything for himself, so she feeds
+        him and accompanies him on his walks. This strong mutual dependency
+        offers Kaoru an escape from society and allows her to free herself from
+        restrictions imposed by common sense.</image:caption
+      >
+      <image:title>Crickets</image:title>
+    </image:image>
+  </url>
+</urlset>

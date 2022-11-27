@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63597-Clash of the Santas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63597-Clash of the Santas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oz9vdqTN2ZYjHsvQFHzF6Zam8ao.jpg</image:loc
+      >
+      <image:caption
+        >Clash of the Santas is a heart-warming Christmas tale full of comedy,
+        action that will rekindle everyone's belief in the power of Santa. The
+        film sees Colin and Howie hot foot over to Lithuania to participate in a
+        Santa convention.</image:caption
+      >
+      <image:title>Clash of the Santas</image:title>
+    </image:image>
+  </url>
+</urlset>

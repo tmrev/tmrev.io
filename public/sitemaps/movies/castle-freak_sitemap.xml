@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593655-Castle Freak</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593655-Castle Freak</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/HJEosQRIdBzAHEdZJCUF7e5FmF.jpg</image:loc
+      >
+      <image:caption
+        >After she’s permanently blinded in a tragic car accident, Rebecca
+        receives some bizarre news: her long-lost mother has recently passed
+        away, leaving her their family’s ancestral castle in rural Albania.
+        Traveling to the estate with a group of friends, Rebecca hopes it will
+        be an opportunity for her to reconnect with a past she never knew and a
+        mother who seemingly left her behind. When mysterious events begin to
+        occur and her friends begin to die, Rebecca must unravel the secrets of
+        her family’s history before she too falls prey to the Castle
+        Freak.</image:caption
+      >
+      <image:title>Castle Freak</image:title>
+    </image:image>
+  </url>
+</urlset>

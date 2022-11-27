@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252204-BoyBand</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252204-BoyBand</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >It's 1982 and Brad Roberts is the best high school quarterback in the
+        country. He dates the sexiest girl in town and is extremely popular, but
+        Brad is not satisfied. He wants to prove that he's more than just a
+        hot-shot quarterback; Brad tries to turn his heavy metal band into the
+        first ever boy band, and they reject him. So Brad, the jock, teams up
+        with a stoner, and an ex-figure skater, and a couple of reject
+        break-dancers from the Bronx to make their mark in this sweet
+        film.</image:caption
+      >
+      <image:title>BoyBand</image:title>
+    </image:image>
+  </url>
+</urlset>

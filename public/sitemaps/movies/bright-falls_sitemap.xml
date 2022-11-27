@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295682-Bright Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295682-Bright Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6bQraeWZBhRmttw3PJxM1zFJRFb.jpg</image:loc
+      >
+      <image:caption
+        >After arriving in the small Pacific Northwestern town of Bright Falls,
+        reporter Jake Fischer is plagued by blackouts and finds disturbing
+        evidence of his activities. Tying this to a mysterious epidemic sweeping
+        the town, he plans an escape. Prequel to the game Alan
+        Wake.</image:caption
+      >
+      <image:title>Bright Falls</image:title>
+    </image:image>
+  </url>
+</urlset>

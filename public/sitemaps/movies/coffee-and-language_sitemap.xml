@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645834-Coffee and Language</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645834-Coffee and Language</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dA4XLJWGsw0SvxeA6z7w0aYnHMC.jpg</image:loc
+      >
+      <image:caption
+        >A man falls deeply in love with a novelist that he's never met. He
+        finds her at a coffeehouse and, despite her resistance, tells a
+        mysterious and passionate story.</image:caption
+      >
+      <image:title>Coffee and Language</image:title>
+    </image:image>
+  </url>
+</urlset>

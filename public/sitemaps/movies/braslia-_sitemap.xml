@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/249538-Brasília 18%</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/249538-Brasília 18%</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/owdk8D70ytw6Q0mPJBM7MRnUYJU.jpg</image:loc
+      >
+      <image:caption
+        >A star medical examiner is called to Brasília, the administrative
+        capital of Brazil, to confirm the identity of a beautiful, young
+        congressional aide's dead body. But his scientific rigor soon leads him
+        to details of a multi-layered political scandal.</image:caption
+      >
+      <image:title>Brasília 18%</image:title>
+    </image:image>
+  </url>
+</urlset>

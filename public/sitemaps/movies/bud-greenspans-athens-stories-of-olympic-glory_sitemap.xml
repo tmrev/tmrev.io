@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/471056-Bud Greenspan’s Athens 2004: Stories of
+      Olympic Glory</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/471056-Bud Greenspan’s Athens 2004: Stories of
+      Olympic Glory</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ywZ2utlKddR9RyH4hUtdeO7Ppw1.jpg</image:loc
+      >
+      <image:caption
+        >A documentary covering the 2004 Olympic Games in Athens.</image:caption
+      >
+      <image:title
+        >Bud Greenspan’s Athens 2004: Stories of Olympic Glory</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/820617-Boy in the Corner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/820617-Boy in the Corner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AgTKpLg3lbOO7KCZQ1AWCKXk6b6.jpg</image:loc
+      >
+      <image:caption
+        >The backward system of society pushes another dream-filled boy to the
+        curb. With his aspiration suppressed, he is at risk of falling into the
+        attractive arms of gang life.</image:caption
+      >
+      <image:title>Boy in the Corner</image:title>
+    </image:image>
+  </url>
+</urlset>

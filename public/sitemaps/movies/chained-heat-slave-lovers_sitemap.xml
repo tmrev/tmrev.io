@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260363-Chained Heat 2001: Slave Lovers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260363-Chained Heat 2001: Slave Lovers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hBnAnYcUFcgmWgmRxbz3lAaEsPx.jpg</image:loc
+      >
+      <image:caption
+        >There is no possibility of escape from slavery in the New Territories:
+        the choice is simple, the mine slave mines or love slave.</image:caption
+      >
+      <image:title>Chained Heat 2001: Slave Lovers</image:title>
+    </image:image>
+  </url>
+</urlset>

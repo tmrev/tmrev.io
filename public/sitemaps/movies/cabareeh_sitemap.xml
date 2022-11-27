@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/170839-Cabareeh</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/170839-Cabareeh</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b5DHDh6MsilxNXh6sFJ6aIfvgBD.jpg</image:loc
+      >
+      <image:caption
+        >A terrorist group trying to blow up a nightclub and when a terrorist
+        goes to blow the club finds that there are people who do not deserve
+        death</image:caption
+      >
+      <image:title>Cabareeh</image:title>
+    </image:image>
+  </url>
+</urlset>

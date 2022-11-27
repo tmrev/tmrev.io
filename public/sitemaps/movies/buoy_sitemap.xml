@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859091-Buoy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859091-Buoy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/weztvFG3qN6r1MFJrieKdgOnqIe.jpg</image:loc
+      >
+      <image:caption
+        >The golden, barren landscape of Death Valley, California, recorded by
+        Cho from a moving car, provides the luminous and mysterious texture of
+        Buoy. As the title suggests, this work reflects on the polar extremes of
+        this desert, which was once the floor of a vast sea, now traversed by
+        sight-seeing tourists. In contrast to the horizontal landscape, which
+        floats ceaselessly past Cho's camera, vertical "strata" pattern the
+        imagery, creating an axis between natural landscape and Cho's
+        composition. Cho accumulated his Death Valley footage over several
+        years; the vertical patterning further represents the collapse of this
+        footage into what appears to be a continuous drive through the
+        desert.</image:caption
+      >
+      <image:title>Buoy</image:title>
+    </image:image>
+  </url>
+</urlset>

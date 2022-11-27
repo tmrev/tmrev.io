@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75040-Chaos and Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75040-Chaos and Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wvw94WwWGUOdU49j3n43YHXQVpA.jpg</image:loc
+      >
+      <image:caption
+        >Suspecting that the cecassion of the tides may indicate an impending
+        earthquake, Seismologist Alice arrives in her hometown of Baie-Comeau,
+        Quebec to commence her investigation. Soon confronted by numerous
+        figures from her past, the unusual weather and inexplicable behavior of
+        the citizens lead Alice to believe that something beyond her
+        comprehension is occurring to her old hometown...</image:caption
+      >
+      <image:title>Chaos and Desire</image:title>
+    </image:image>
+  </url>
+</urlset>

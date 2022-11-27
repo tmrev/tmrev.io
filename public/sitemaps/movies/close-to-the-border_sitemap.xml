@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/703407-Close to the Border</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/703407-Close to the Border</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d6zztqcGhZmJ8IYy0YzSIOouXhJ.jpg</image:loc
+      >
+      <image:caption
+        >Esteban is a journalist who is escaping to the northern border. In the
+        Buenos Aires of 1978, his life is in danger. The threats after one of
+        his articles in the newspaper and his own inner conflicts push him to
+        run away. But crossing the border is impossible. He comes back to a
+        village near the frontier, where he stays at Father Gabriel's, a priest
+        with ideas and attitudes of mind far from the traditional church. There
+        he will meet Marina and Margarita, who will complete this human group
+        with strong convictions. His stay there will be a definitive
+        experience.</image:caption
+      >
+      <image:title>Close to the Border</image:title>
+    </image:image>
+  </url>
+</urlset>

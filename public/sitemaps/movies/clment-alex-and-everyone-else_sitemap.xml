@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/608956-Clément, Alex, and Everyone Else</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/608956-Clément, Alex, and Everyone Else</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lZg1eNxvumA6cv63XCVaJCvOihu.jpg</image:loc
+      >
+      <image:caption
+        >Clement is gay. Alex is gay. They are looking for a new roommate for
+        their big apartment in Paris with only one demand: he must be gay. And
+        they find Leo, a charming student who is in deep trouble to find a place
+        to sleep. Leo will do anything to get that room, whatever it
+        takes.</image:caption
+      >
+      <image:title>Clément, Alex, and Everyone Else</image:title>
+    </image:image>
+  </url>
+</urlset>

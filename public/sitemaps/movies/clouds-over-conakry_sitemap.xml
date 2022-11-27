@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87012-Clouds Over Conakry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87012-Clouds Over Conakry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6KgL9d5TNK54D6jVBxLRVG41svW.jpg</image:loc
+      >
+      <image:caption
+        >BB works as a political cartoonist at a liberal newspaper, his more
+        outrageous efforts duly appreciated but not necessarily published by his
+        boss. He's in love with the boss’ lovely, talented computer-scientist
+        daughter, Kesso. But his choice meets with stiff opposition from his
+        strict Muslim father Karamako, who is the chief of his village as well
+        as imam of Conakry, especially when Kesso becomes pregnant with BB’s
+        child.</image:caption
+      >
+      <image:title>Clouds Over Conakry</image:title>
+    </image:image>
+  </url>
+</urlset>

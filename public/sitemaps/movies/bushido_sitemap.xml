@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/231399-Bushido</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/231399-Bushido</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fz1zW0PEpbLUpt152W30WpGsOEa.jpg</image:loc
+      >
+      <image:caption
+        >1732, in the era of Yoshimune Tokugawa. West Japan suffers from a
+        severe famine. Three years after wards, it appeared as though calm had
+        been restored to the domain, but there is word that Jyuzo Matsumiya, the
+        sword fighting instructor sent by the shogunate, is taking some
+        suspicious actions.</image:caption
+      >
+      <image:title>Bushido</image:title>
+    </image:image>
+  </url>
+</urlset>

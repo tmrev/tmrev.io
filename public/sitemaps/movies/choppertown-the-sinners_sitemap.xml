@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37646-Choppertown: The Sinners</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37646-Choppertown: The Sinners</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Choppertown is the world’s first motorcycle documentary about the
+        renowned hot rod and motorcycle club, the Sinners. Modern day greasers,
+        the Sinners are all about the old school. None of them is old enough to
+        have experienced the hot rod heydays of the ‘50s and ‘60s, but still
+        they live on the edge of society chopping cars and bikes and searching
+        for vintage parts to make their “Rat Rods”, “Trumps”, “Mercs”, and
+        “Bobbers” into rolling works of art.</image:caption
+      >
+      <image:title>Choppertown: The Sinners</image:title>
+    </image:image>
+  </url>
+</urlset>

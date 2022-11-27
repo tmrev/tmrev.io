@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/860552-Chop Off</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/860552-Chop Off</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/viCjLnRaQd2KgRYTDidwFAMnReR.jpg</image:loc
+      >
+      <image:caption
+        >"Chop Off exposes the dark, fearful recesses of the human psyche by
+        filming the body modification of performance artist R.K. Literally
+        risking "life and limb," R.K.'S body is his medium and amputation is his
+        art. The very act of filming him often stimulates a cascading range of
+        emotions, from disgust to fear to dread." - Tribeca Film Festival
+        2009</image:caption
+      >
+      <image:title>Chop Off</image:title>
+    </image:image>
+  </url>
+</urlset>

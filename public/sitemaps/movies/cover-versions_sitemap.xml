@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/496245-Cover Versions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/496245-Cover Versions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c6H5hrU9AtVjDnplPVnwAxa1wGj.jpg</image:loc
+      >
+      <image:caption
+        >On the eve of their biggest gig ever, the members of synth-rock band
+        Starfoxy throw a rager that ends with a fan mysteriously dead in the
+        pool.</image:caption
+      >
+      <image:title>Cover Versions</image:title>
+    </image:image>
+  </url>
+</urlset>

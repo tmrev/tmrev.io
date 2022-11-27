@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/544661-Coagula</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/544661-Coagula</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fPJYlAJUzEjuyzVYE4qHtPrKek7.jpg</image:loc
+      >
+      <image:caption
+        >Eva's veins are getting darker. After a strange doctor's appointment,
+        she sees herself caught in a spiral of frenzy and paranoia, only to turn
+        into something other than human.</image:caption
+      >
+      <image:title>Coagula</image:title>
+    </image:image>
+  </url>
+</urlset>

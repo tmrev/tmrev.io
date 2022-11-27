@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/177204-Chasing Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/177204-Chasing Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3FRt0l2VyNa7QunqCjWkrcMsl6w.jpg</image:loc
+      >
+      <image:caption
+        >Chasing Life (Pulsação Zero) is an action/comedy about 25 year old
+        lovable loser Alex who, when his life hits rock bottom and decides to
+        end it all, shares his dogs euthanasia poison just moments before a
+        dramatic turn of events sends him hilariously and desperately seeking
+        the antidote which he must find within 4 hours or die.</image:caption
+      >
+      <image:title>Chasing Life</image:title>
+    </image:image>
+  </url>
+</urlset>

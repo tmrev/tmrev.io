@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/660328-Brigitte Bardot Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/660328-Brigitte Bardot Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2NK27uIkxBZn38I0K77Jdw5KXdh.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the tale of Telemachus in Homer’s Odyssey, young Adam’s
+        mother is persecuted by the state police because his father fought in
+        WWII as a pilot before disappearing. Adam fantasizes about his father
+        and one day, while watching Godard’s Contempt in the cinema, finds
+        himself transported into the dressing room of Brigitte Bardot and into a
+        world where he meets a coterie of her contemporary
+        celebrities.</image:caption
+      >
+      <image:title>Brigitte Bardot Forever</image:title>
+    </image:image>
+  </url>
+</urlset>

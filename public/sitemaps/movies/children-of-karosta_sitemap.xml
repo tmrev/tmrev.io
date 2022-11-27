@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/845416-Children of Karosta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/845416-Children of Karosta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story of Viktorija and her family who live in a former Soviet
+        military base in Latvia – Karosta. The surrounding environment, its
+        isolation, and the socio-economic situation has put these people in a
+        test for survival. After losing their apartment, Viktorija and her eight
+        children look for ways to escape the common destiny surrounding the
+        Karosta community.</image:caption
+      >
+      <image:title>Children of Karosta</image:title>
+    </image:image>
+  </url>
+</urlset>

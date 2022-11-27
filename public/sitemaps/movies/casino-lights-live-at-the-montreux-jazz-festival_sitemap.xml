@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/177539-Casino Lights '99 - Live At The Montreux
+      Jazz Festival</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/177539-Casino Lights '99 - Live At The Montreux
+      Jazz Festival</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eUdcMANBhrsxvMkIkq5ijhgZlXm.jpg</image:loc
+      >
+      <image:caption
+        >Casino Lights '99 is a live concert performance shot in 1999 at the
+        legendary Montreux Jazz Festival.</image:caption
+      >
+      <image:title
+        >Casino Lights '99 - Live At The Montreux Jazz Festival</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

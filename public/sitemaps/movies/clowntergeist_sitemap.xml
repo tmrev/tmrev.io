@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436775-Clowntergeist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436775-Clowntergeist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6FKljfqvKmdttj6D9EADy6iGpQT.jpg</image:loc
+      >
+      <image:caption
+        >Emma, a college student with a crippling fear of clowns, must come face
+        to face with her worst fear when an evil spirit in the body of a clown
+        is summoned terrorizing the town she calls home.</image:caption
+      >
+      <image:title>Clowntergeist</image:title>
+    </image:image>
+  </url>
+</urlset>

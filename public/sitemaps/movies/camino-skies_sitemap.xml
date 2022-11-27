@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614625-Camino Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614625-Camino Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tNVsRQnNFi0UxeTE4q0G1FBjikX.jpg</image:loc
+      >
+      <image:caption
+        >Exploring themes of spirituality, wellbeing and religion, this is the
+        inspirational journey of six strangers from New Zealand and Australia
+        walking the 800km Camino de Santiago to overcome the personal and
+        physical trauma that life has dealt them. Through blisters, shin splints
+        and heat, the Camino forces pilgrims to defy their age and physical
+        ability, while also acting as a catalyst for change. Both heart-breaking
+        and inspirational, 'Camino Skies' is an uplifting story about everyday
+        people doing the extraordinary.</image:caption
+      >
+      <image:title>Camino Skies</image:title>
+    </image:image>
+  </url>
+</urlset>

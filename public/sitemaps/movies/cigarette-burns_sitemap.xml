@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327389-Cigarette Burns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327389-Cigarette Burns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b3kR49rn7ibKf97ki8Pt0Dsf796.jpg</image:loc
+      >
+      <image:caption
+        >With a torrid past that haunts him, a movie theatre owner is hired to
+        search for the only existing print of a film so notorious that its
+        single screening caused the viewers to become homicidally
+        insane.</image:caption
+      >
+      <image:title>Cigarette Burns</image:title>
+    </image:image>
+  </url>
+</urlset>

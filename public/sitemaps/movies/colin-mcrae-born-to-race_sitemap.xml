@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587164-Colin McRae: Born to Race</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587164-Colin McRae: Born to Race</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story of Colin McRae, the first British driver to win the World
+        Rally Championship, is told by those who knew him best - his co-drivers
+        Derek Ringer and Nicky Grist, the team bosses at Subaru, Ford and
+        Citroën and his father Jimmy, himself a five-time British rally
+        champion.</image:caption
+      >
+      <image:title>Colin McRae: Born to Race</image:title>
+    </image:image>
+  </url>
+</urlset>

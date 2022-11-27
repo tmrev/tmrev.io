@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/895312-Cecília and Lourenço</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/895312-Cecília and Lourenço</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ye8XiIwwByRrhA6dF3bv0nZNH4s.jpg</image:loc
+      >
+      <image:caption
+        >Cecília is a young stage actress and playwright who starts dating
+        Lourenço, a young rock band guitarist who dreams of making films. But
+        the arrival of the COVID-19 pandemic will unearth Cecília's past demons,
+        putting at risk her relationship with Lourenço.</image:caption
+      >
+      <image:title>Cecília and Lourenço</image:title>
+    </image:image>
+  </url>
+</urlset>

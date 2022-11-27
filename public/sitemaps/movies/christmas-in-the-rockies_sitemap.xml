@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/769635-Christmas in the Rockies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/769635-Christmas in the Rockies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/881ao6NCGf0Sqojxf1o9AG7WPoE.jpg</image:loc
+      >
+      <image:caption
+        >Katie Jolly is a driven young woman with aspirations to leave her small
+        town of Homewood and the family business behind for a career in New York
+        City. Katie’s dreams come to a halt when her father’s sudden injury
+        leaves the future of the company on her shoulders. Saddled with Jolly
+        Lumber’s looming financial troubles, she must also navigate the
+        complexities of love and family as well as the pressure to win the
+        annual Lumberjack Competition.</image:caption
+      >
+      <image:title>Christmas in the Rockies</image:title>
+    </image:image>
+  </url>
+</urlset>

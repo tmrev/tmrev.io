@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/659088-Cruel Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/659088-Cruel Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cL135d6y3CXwmttM9yb9VHbxwm0.jpg</image:loc
+      >
+      <image:caption
+        >A young man, Guy, discovers the woman he's been sleeping with is not
+        only married, but married to Burt Walker, a notorious low-level crime
+        boss. Worried that Walker will at some point discover the affair and
+        kill him, Guy decides to be upfront, tell Walker about his transgression
+        and beg for forgiveness. The ploy works, and the pair form a very
+        unusual, and ultimately dangerous, friendship.</image:caption
+      >
+      <image:title>Cruel Hearts</image:title>
+    </image:image>
+  </url>
+</urlset>

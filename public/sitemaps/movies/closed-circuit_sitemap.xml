@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/146223-Closed Circuit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/146223-Closed Circuit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg</image:loc
+      >
+      <image:caption
+        >A terrorist attack in London results in the capture of suspect, and the
+        attorney general appoints Claudia Simmons-Howe as special advocate on
+        his defence team. On the eve of the trial, the accused's attorney dies
+        and a new one, Martin Rose, steps in. Martin and Claudia are former
+        lovers—a fact which must remain hidden—and, as Martin assembles his
+        case, he uncovers a sinister conspiracy that places him and Claudia in
+        danger.</image:caption
+      >
+      <image:title>Closed Circuit</image:title>
+    </image:image>
+  </url>
+</urlset>

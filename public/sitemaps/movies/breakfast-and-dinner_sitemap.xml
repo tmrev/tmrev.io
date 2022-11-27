@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/719495-Breakfast and Dinner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/719495-Breakfast and Dinner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3PUstoQiSKv3RF6tCdH6L9ieN05.jpg</image:loc
+      >
+      <image:caption
+        >High school student Takumi lives with his two mothers in a beautiful
+        house in Tokyo. Moving into a house across the street is Sora and her
+        two fathers. One day Takumi and Sora begin a quest to seek answers long
+        hidden and silent in their unconventional families. Takumi sets out to
+        determine the identity of his father, and Sora devises a plan to
+        integrate herself fully into her family. The ordeals of these households
+        stretch the traditional notions of family, convention and
+        tradition.</image:caption
+      >
+      <image:title>Breakfast and Dinner</image:title>
+    </image:image>
+  </url>
+</urlset>

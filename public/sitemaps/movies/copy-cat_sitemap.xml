@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/743549-Copy Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/743549-Copy Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kYVAkFknQaplulhvzXtN5XcxIEd.jpg</image:loc
+      >
+      <image:caption
+        >Newly promoted Lieutenant Valentine Ventura finds herself working with
+        famous Captain Antoine Thomas who just came back from his medical leave
+        after the tragedy he lived a few months ago : victim of a car crash that
+        killed both his wife and the child she was bearing, Antoine Thomas spent
+        several months in the hospital, and is now back in a wheelchair after
+        losing function of his legs. Working on the case of a murdered young
+        journalist, the two detectives succeed in arresting her colleague, whose
+        guilt is undeniable. Multiple elements even indicate that they just
+        caught a serial killer; although he admits he killed the young
+        journalist, their suspect didn't commit these other murders, and seems
+        to be the victim of a manipulation.</image:caption
+      >
+      <image:title>Copy Cat</image:title>
+    </image:image>
+  </url>
+</urlset>

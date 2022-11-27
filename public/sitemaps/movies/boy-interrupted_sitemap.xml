@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36738-Boy Interrupted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36738-Boy Interrupted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pYjSsZ96L8RTMIqCgiuOlGUU2Cq.jpg</image:loc
+      >
+      <image:caption
+        >On the night of Oct. 2, 2005, Hart and Dana Perry's 15-year-old son
+        Evan jumped to his death from his New York City bedroom window. This
+        moving film is the story, told by his filmmaker parents and others who
+        knew him, of Evan’s life and death, and his life-long struggle with
+        bipolar disorder. It delves into the complexity of Evan's disease,
+        sharing his family's journey through the maze of mental illness. In
+        showing how one family deals with generations of loss and grief, the
+        film defies the stigma related to mental illness and suicide and tells a
+        human story that touches everyone.</image:caption
+      >
+      <image:title>Boy Interrupted</image:title>
+    </image:image>
+  </url>
+</urlset>

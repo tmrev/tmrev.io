@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456231-Breaking2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456231-Breaking2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w2NRLirN9ooYid7puKCLS22izuF.jpg</image:loc
+      >
+      <image:caption
+        >After six months of scientifically advanced training, three of the
+        world's most elite distance runners set out to break the two-hour
+        marathon barrier. These pioneers go on a global trek to defy the
+        unthinkable and break the two-hour feat, from testing in wind tunnels
+        and running labs in the United States, to balancing training with their
+        day-to- day lives in eastern Africa, to the final heart-pounding race in
+        Italy.</image:caption
+      >
+      <image:title>Breaking2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136730-Buta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136730-Buta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cqIt5Pk4V70JSbCkb8A3x4SMlpa.jpg</image:loc
+      >
+      <image:caption
+        >"Buta" is the story of a lonely 7-year old boy (named Buta), who lives
+        in a mountain village with his grandmother. He is befriended by an old
+        man, a liquid soap merchant who once loved (and lost) Buta's
+        grandmother. The old man's friendship and wise advice helps Buta to
+        overcome his difficulties in life. Buta's grandmother, in the meantime,
+        is weaving a special carpet in memory of Buta's mother. The carpet
+        features a special pattern (also called "Buta"), which represents love.
+        The boy is inspired by his grandmother's work, and decides to make his
+        own "buta" made of rocks and stones, high on the top of the
+        mountain...</image:caption
+      >
+      <image:title>Buta</image:title>
+    </image:image>
+  </url>
+</urlset>

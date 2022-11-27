@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654894-Cosa sarà</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654894-Cosa sarà</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2KWKSpiotA5W54vEezCpUANiTTZ.jpg</image:loc
+      >
+      <image:caption
+        >Bruno Salvati is a director of little success, fresh from the
+        separation from his wife Anna with whom he had two children, the
+        twenty-year-old Adele and the seventeen-year-old Tito. Following a
+        sudden illness, Bruno is diagnosed with a disease that requires the
+        intervention of a donor. All his family relationships are called into
+        question, including that with his father Umberto, the custodian of a
+        secret that will force Bruno to embark on a journey in search of someone
+        who can help him.</image:caption
+      >
+      <image:title>Cosa sarà</image:title>
+    </image:image>
+  </url>
+</urlset>

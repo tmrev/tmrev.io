@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444343-Cold Tango</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444343-Cold Tango</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9vfdi5TDJqfPNzE6PfgdRlVF6d3.jpg</image:loc
+      >
+      <image:caption
+        >By miracle he avoided death and returns to the house where he was born.
+        In the house now lives the love of his life. But the hope for happiness
+        turns sour with a terrible discovery: his beloved is the daughter of his
+        enemy.</image:caption
+      >
+      <image:title>Cold Tango</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/955457-Brothers Incorporated</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/955457-Brothers Incorporated</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a0pXPsYERo4Y2VaR8H8LqPYKNxu.jpg</image:loc
+      >
+      <image:caption
+        >Brothers Incorporated takes place in Philadelphia 1963, a dynamic time
+        period shaken by the Civil Rights movement. A young man Marcus
+        Christianson finds himself at a crossroads. He has to choose between
+        taking over his father's newly formed Black Mafia or leave town with his
+        love of his life May and purse his up and coming music
+        career.</image:caption
+      >
+      <image:title>Brothers Incorporated</image:title>
+    </image:image>
+  </url>
+</urlset>

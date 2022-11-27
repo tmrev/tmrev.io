@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500552-Countdown to Death: Pablo Escobar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500552-Countdown to Death: Pablo Escobar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/X0aTsWQ2OWWn3oQiE3CAT2LnyQ.jpg</image:loc
+      >
+      <image:caption
+        >Through rare interviews, images and wiretap audio, this documentary
+        reconstructs the last nine years of Colombian drug lord Pablo Escobar's
+        life.</image:caption
+      >
+      <image:title>Countdown to Death: Pablo Escobar</image:title>
+    </image:image>
+  </url>
+</urlset>

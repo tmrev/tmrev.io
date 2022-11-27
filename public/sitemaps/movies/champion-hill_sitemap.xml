@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/224400-Champion Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/224400-Champion Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This fascinating biography faithfully recalls the highs and some of the
+        lows of this remarkable driver's career, featuring extensive and rare
+        archive material and personal anecdotes and tributes from Bette and
+        Damon Hill as well as former collegues.</image:caption
+      >
+      <image:title>Champion Hill</image:title>
+    </image:image>
+  </url>
+</urlset>

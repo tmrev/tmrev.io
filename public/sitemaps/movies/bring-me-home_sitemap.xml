@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/507773-Bring Me Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/507773-Bring Me Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vwuyP02WDpJrWNvkNl8UgdDsjfp.jpg</image:loc
+      >
+      <image:caption
+        >Six years after her son went missing, dedicated mother Jung-Yeon still
+        hasn't lost hope - even after her husband's shocking accident while
+        rushing to follow up on a potential sighting. Although she's in
+        mourning, drowned in despair for her losses, she doesn't give up. Just
+        when everything feels like it's in vain, she hears about a young boy
+        living in a fishing community outside the city who seems to resemble her
+        lost son. Facing strange surroundings and corrupt cops covering up child
+        abuse, Jung-yeon may not be able to handle all the obstacles in her way,
+        let alone fend for herself.</image:caption
+      >
+      <image:title>Bring Me Home</image:title>
+    </image:image>
+  </url>
+</urlset>

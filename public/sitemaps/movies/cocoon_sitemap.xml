@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/656483-Cocoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/656483-Cocoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ik5hG3HJWIjmS2HChi9DLvpQrHB.jpg</image:loc
+      >
+      <image:caption
+        >In the heat of a shimmering Berlin summer, Nora spends her days as a
+        third wheel to her older sister Jule and her best friend Aylin. When
+        Romy comes onto the scene, a friendship blossoms. Nora instantly falls
+        for her, opening up a whole new world and unexpected summer of
+        love.</image:caption
+      >
+      <image:title>Cocoon</image:title>
+    </image:image>
+  </url>
+</urlset>

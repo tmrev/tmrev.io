@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/865367-Cadejo Blanco</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/865367-Cadejo Blanco</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uSdoRbBxWz7YOuR5vBbRx35nFVJ.jpg</image:loc
+      >
+      <image:caption
+        >After her sister goes missing, Sarita, a working-class girl from
+        Guatemala City, travels to the seaside town of Puerto Barrios to
+        infiltrate a group of young gang members. As she risks her life to join
+        the gang, Sarita becomes involved with her sister’s dangerous
+        ex-boyfriend and gets closer to learning what happened to her
+        sister.</image:caption
+      >
+      <image:title>Cadejo Blanco</image:title>
+    </image:image>
+  </url>
+</urlset>

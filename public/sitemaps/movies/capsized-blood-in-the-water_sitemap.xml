@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614817-Capsized: Blood in the Water</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614817-Capsized: Blood in the Water</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qUzbjq1LHoJZoPa2F0LVidBLX1F.jpg</image:loc
+      >
+      <image:caption
+        >Based on the harrowing true story of an October 1982 shark encounter.
+        After a yacht bound for Florida capsizes during an unexpected storm, its
+        crew is left to drift for days in the chilling waters of the Atlantic
+        where they become prey to a group of tiger sharks. With the hope of
+        rescue dwindling, the crew must do everything in their power to survive
+        as the sharks continue to hunt them.</image:caption
+      >
+      <image:title>Capsized: Blood in the Water</image:title>
+    </image:image>
+  </url>
+</urlset>

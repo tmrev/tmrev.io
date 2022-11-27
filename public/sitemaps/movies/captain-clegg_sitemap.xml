@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19201-Captain Clegg</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19201-Captain Clegg</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5wQbnaBidXchb2WSSCdEFgX0ZyT.jpg</image:loc
+      >
+      <image:caption
+        >What secret lay behind the dreaded Marsh Phantoms, the ghostly riders
+        whose silent approach in the darkness of the bleak, unwelcoming Romney
+        Marshes causes men to die of fright? Are they a genuine manifestation or
+        a cover for illegal smuggling activities. Perhaps Dr. Blyss, the benign
+        vicar of the quiet village of Dymchurch, knows the truth about the
+        ruthless pirate and smuggler who lies buried in the village graveyard
+        and can unravel the phenomenon of the curse of Captain
+        Clegg.</image:caption
+      >
+      <image:title>Captain Clegg</image:title>
+    </image:image>
+  </url>
+</urlset>

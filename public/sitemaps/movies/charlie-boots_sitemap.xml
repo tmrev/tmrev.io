@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27595-Charlie & Boots</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27595-Charlie & Boots</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sskyVJp4LfMFqbXQadCnM2unlNB.jpg</image:loc
+      >
+      <image:caption
+        >Paul Hogan plays Charlie McFarland and Shane Jacobson plays his
+        estranged son, Boots. After a family tragedy Charlie and Boots try and
+        put their differences aside and head off on the road trip of a lifetime
+        - from regional Victoria to the Cape York Peninsula - they overcome many
+        challenges to reach their dream - to fish off the northern most tip of
+        Australia.</image:caption
+      >
+      <image:title>Charlie & Boots</image:title>
+    </image:image>
+  </url>
+</urlset>

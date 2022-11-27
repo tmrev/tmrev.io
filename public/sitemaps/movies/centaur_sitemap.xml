@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436363-Centaur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436363-Centaur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eTGHgUvUjC8UQmizSZ5W8YBjzh0.jpg</image:loc
+      >
+      <image:caption
+        >Centaur lives a modest life with his family in rural Kyrgyzstan until
+        he abruptly becomes the center of attention when he is caught stealing a
+        racehorse at night. A story inspired by the myth when horses became the
+        wings of men.</image:caption
+      >
+      <image:title>Centaur</image:title>
+    </image:image>
+  </url>
+</urlset>

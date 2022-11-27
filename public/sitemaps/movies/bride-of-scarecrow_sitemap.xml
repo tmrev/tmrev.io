@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/566849-Bride of Scarecrow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/566849-Bride of Scarecrow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uvwcF3SnKnwDl127Nh0LfdXeVkf.jpg</image:loc
+      >
+      <image:caption
+        >A failing radio host finds out she has inherited a farm house in Wales
+        from a family she never knew she had. But what goes on the land is story
+        in which people have gone missing every 20 years. Fixed on repairing her
+        career, she sets off with her friends to make the ultimate discovery for
+        her radio show - but what she discovers may well be what she would least
+        expect - for every 20 years, the Scarecrow will rise, and this time -
+        he's seeking a bride.</image:caption
+      >
+      <image:title>Bride of Scarecrow</image:title>
+    </image:image>
+  </url>
+</urlset>

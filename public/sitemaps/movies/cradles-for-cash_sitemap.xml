@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/580133-Cradles for Cash</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/580133-Cradles for Cash</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vqDpKsmWfa3ifRG5HhiaWHNOL52.jpg</image:loc
+      >
+      <image:caption
+        >When Kelly's newborn baby is stolen from the hospital where she works,
+        she teams up with Gloria, also a victim of baby abduction, to get her
+        child back from a black market adoption ring.</image:caption
+      >
+      <image:title>Cradles for Cash</image:title>
+    </image:image>
+  </url>
+</urlset>

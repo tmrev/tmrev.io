@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70575-Children of the Corn: Genesis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70575-Children of the Corn: Genesis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xBGufq8h7DHyWlXXbOz2pMUJWbI.jpg</image:loc
+      >
+      <image:caption
+        >Tim and Allie seek shelter in a remote desert compound after becoming
+        lost and stranded. A strange Manson-like character, Preacher,
+        reluctantly allows them inside with strict orders to be gone by morning
+        and not wander "where you are not invited."</image:caption
+      >
+      <image:title>Children of the Corn: Genesis</image:title>
+    </image:image>
+  </url>
+</urlset>

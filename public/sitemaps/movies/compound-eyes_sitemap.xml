@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409302-Compound Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409302-Compound Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Commissioned by the Exploratorium in San Francisco, Paul Clipson's
+        five-part COMPOUND EYES cycle delves into the otherworldliness of the
+        natural world. In training his Super-8 camera on insects and other
+        "minor" invertebrates, Clipson draws the eye into an unseen realm, one
+        so delicate as to simultaneously tempt and refuse the touch. Following
+        the surrealist desire to make the familiar strange and the strange
+        familiar, Clipson relates this micro-landscape to the built environment.
+        Electronic musical motifs supplied by frequent Clipson collaborator
+        Jefre Cantu-Ledesma add another layer of inquiry, one tuned to the
+        unspoken space between wonder and terror. This first entry in the series
+        keys the viewer's vision to a single drop of dew on a blade of glass.
+        Wisps of eyelashes, dandelions and insect limbs seem to brush against
+        the lens in a trembling intimation of seeing.</image:caption
+      >
+      <image:title>Compound Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

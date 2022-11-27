@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408626-City of Tiny Lights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408626-City of Tiny Lights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eX9iEZdU2w1elGQhNY50DmKqiaE.jpg</image:loc
+      >
+      <image:caption
+        >In the teeming, multicultural metropolis of modern-day London, a
+        seemingly straightforward missing-person case launches a down-at-heel
+        private eye into a dangerous world of religious fanaticism and political
+        intrigue.</image:caption
+      >
+      <image:title>City of Tiny Lights</image:title>
+    </image:image>
+  </url>
+</urlset>

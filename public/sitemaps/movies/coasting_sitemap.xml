@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/482421-Coasting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/482421-Coasting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xKZ1VskYScInN0bXXTFFK3x4J8I.jpg</image:loc
+      >
+      <image:caption
+        >Two people, both in relationships, find love in the most unlikely
+        place, a remote hotel bar in the small town of Stillwater, IL. Twice.
+        Now they'll have to deal with more than anyone's fair share of
+        difficulty, family issues, current significant other issues, and
+        proximity issues, to try to make it work.</image:caption
+      >
+      <image:title>Coasting</image:title>
+    </image:image>
+  </url>
+</urlset>

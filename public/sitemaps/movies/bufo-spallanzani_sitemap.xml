@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/96153-Bufo & Spallanzani</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/96153-Bufo & Spallanzani</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tLGoLIcOEGSpFxq4cXz4wczDauW.jpg</image:loc
+      >
+      <image:caption
+        >Ivan Canabrava is a writer, turned insurance ivestigator who
+        investigates mysterious deaths involving Bufo Marinus. Bufo Marinus is a
+        frog poison causing catalepsy in humans, simulating death, enabling
+        grand insurance fraud and other crimes. Ten years later, now as a
+        successful writer, similar characters possibly using Bufo Marinus
+        reappear and create an intricate plot full of surprises.</image:caption
+      >
+      <image:title>Bufo & Spallanzani</image:title>
+    </image:image>
+  </url>
+</urlset>

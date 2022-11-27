@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/452101-CBeebies Panto: Jack And The Beanstalk</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/452101-CBeebies Panto: Jack And The Beanstalk</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xHRP6yiql4GzC6fKLhDfqSzuw7T.jpg</image:loc
+      >
+      <image:caption
+        >Join your favourite CBeebies Stars in an enchanted land with magical
+        beans and dizzy Daisy the cow for an amazing pantomime adventure Jack
+        and the Beanstalk.</image:caption
+      >
+      <image:title>CBeebies Panto: Jack And The Beanstalk</image:title>
+    </image:image>
+  </url>
+</urlset>

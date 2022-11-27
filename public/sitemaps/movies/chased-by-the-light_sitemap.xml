@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/447643-Chased by the Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/447643-Chased by the Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aYCHLMBzWiaglBbmwCjgx2uxi3u.jpg</image:loc
+      >
+      <image:caption
+        >Chased by the Light: A Photographic Journey with Jim Brandenburg tells
+        the story of how one of the world s greatest nature photographers
+        immersed himself in a Zen-like exploration of his craft and the untamed
+        landscape of the rugged north woods.</image:caption
+      >
+      <image:title>Chased by the Light</image:title>
+    </image:image>
+  </url>
+</urlset>

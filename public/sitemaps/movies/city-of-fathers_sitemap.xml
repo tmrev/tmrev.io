@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45092-City Of Fathers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45092-City Of Fathers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q6Yz4GExli4oxL0pFGpR0IdEOaU.jpg</image:loc
+      >
+      <image:caption
+        >Kang-soo is a third-rate street thug in Busan; he's an alcoholic and
+        gambling addict who's always on the run from loan sharks. But when his
+        rebellious teenage son Jong-chul is diagnosed with kidney cancer, he
+        tries to be a real parent for the first time and seeks out Jong-chul's
+        biological father, Tae-suk, a pimp. Tae-suk, however, refuses to
+        help.</image:caption
+      >
+      <image:title>City Of Fathers</image:title>
+    </image:image>
+  </url>
+</urlset>

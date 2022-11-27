@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/970409-Compañero cineasta piquetero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/970409-Compañero cineasta piquetero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vOiUu6VyR7fU9gMxbWg5AmKFaPO.jpg</image:loc
+      >
+      <image:caption
+        >Short film made entirely by a picketer from Lanús that gives a
+        first-person account of a land occupation carried out by the Unemployed
+        Workers Movement in March 2002. Its author asked to borrow a camera for
+        an hour to film his neighborhood and its history.</image:caption
+      >
+      <image:title>Compañero cineasta piquetero</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230154-Cairo Drive</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230154-Cairo Drive</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gnB9R1ILfESgcG4iVZAMJywGcQX.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that explores the life of one of the world's most
+        populated cities from its streets. Shot in 2009-2012 (before and during
+        the Egyptian revolution, and ending with the most recent presidential
+        elections), the film explores the country's collective identity,
+        inherent struggles, and the sentiments that lead through the historic
+        changes taking place in Egypt today. For his third documentary,
+        Egyptian/ American filmmaker Sherief Elkatsha rides through the
+        congested streets alongside a diverse cast of characters-from taxi
+        drivers to ambulances, from traffic cops to private citizens-capturing
+        the unspoken codes of conduct, frustrations, humor, fatalism, and
+        life-or-death decisions of driving in a city where the only rule is:
+        there are no rules.</image:caption
+      >
+      <image:title>Cairo Drive</image:title>
+    </image:image>
+  </url>
+</urlset>

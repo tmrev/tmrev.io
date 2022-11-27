@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/170656-Crime Fiction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/170656-Crime Fiction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mkAO4bJrdfMFjBxOXxlV6eeRPzJ.jpg</image:loc
+      >
+      <image:caption
+        >Will you kill for a good story? If you are James Cooper, a 28 year old
+        copy editor with dreams of literary stardom, you will. After all, your
+        girlfriend was just crowned the "voice of a new America" by the New York
+        literati, and you waste your days editing third-rate textbooks in a
+        dreary Chicago basement. Your first book got panned. Your agent just
+        dumped you. You have no future. But when your girlfriend's corpse ends
+        up sprawled beneath your bedroom window, you finally know what to write
+        about. Crime Fiction is the story of murder, betrayal and outrageous
+        artistic fortune.</image:caption
+      >
+      <image:title>Crime Fiction</image:title>
+    </image:image>
+  </url>
+</urlset>

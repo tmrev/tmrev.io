@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/120194-Childish Games</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/120194-Childish Games</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nB8YiJz7zIvh3o8YTvcRptXoCz9.jpg</image:loc
+      >
+      <image:caption
+        >Daniel agrees to take Julia, the daughter of an old childhood friend
+        who has just died, into his home.</image:caption
+      >
+      <image:title>Childish Games</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61935-Crazy About Ya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61935-Crazy About Ya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tPgi1b2CXPRe2MfXv8GUyKOpa23.jpg</image:loc
+      >
+      <image:caption
+        >In Crazy About Ya, different characters meet. Sometimes their stories
+        are closely interwoven, sometimes they just brush past each other. But
+        sooner or later everyone runs into the hero of this story, Saint Jan. As
+        a true sanctus ex machina he makes sure that in the end, they are all a
+        bit crazier about each other again.</image:caption
+      >
+      <image:title>Crazy About Ya</image:title>
+    </image:image>
+  </url>
+</urlset>

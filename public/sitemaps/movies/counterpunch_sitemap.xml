@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157771-Counterpunch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157771-Counterpunch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uoftI8Bk7f8jrRwOr5xTks3B5K6.jpg</image:loc
+      >
+      <image:caption
+        >Based on a true story. A young boxer, Emilio, from the wrong side of
+        the tracks with big dreams of winning the Golden Gloves boxing
+        championship, finds himself at a cross roads after being locked up. As
+        he fights his way back into the winning circle he gets a second shot at
+        the championship title. As he is toe to toe in the ring with his
+        competitor he'll throw all the punches and be the last man
+        standing.</image:caption
+      >
+      <image:title>Counterpunch</image:title>
+    </image:image>
+  </url>
+</urlset>

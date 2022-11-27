@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9610-Conan the Destroyer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9610-Conan the Destroyer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m5i7S46DT1ESy7URkh2l92awGRr.jpg</image:loc
+      >
+      <image:caption
+        >Conan is commissioned by the evil queen Taramis to safely escort a teen
+        princess and her powerful bodyguard to a far away castle to retrieve the
+        magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the
+        princess when she returns and inherit her kingdom after the bodyguard
+        kills Conan. The queen's plans fail to take into consideration Conan's
+        strength and cunning and the abilities of his sidekicks: the eccentric
+        wizard Akiro, the warrior woman Zula, and the inept Malak. Together the
+        hero and his allies must defeat both mortal and supernatural foes in
+        this voyage to sword-and-sorcery land.</image:caption
+      >
+      <image:title>Conan the Destroyer</image:title>
+    </image:image>
+  </url>
+</urlset>

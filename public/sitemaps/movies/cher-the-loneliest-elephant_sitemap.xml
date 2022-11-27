@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/765712-Cher & the Loneliest Elephant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/765712-Cher & the Loneliest Elephant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nFYtX5MDzh8TCqKcaREDoENPJDt.jpg</image:loc
+      >
+      <image:caption
+        >"The World's Loneliest Elephant" Kaavan will finally experience
+        freedom, thanks to his biggest champion, the one & only Cher. We'll
+        follow Cher, Free The Wild, Four Paws International, and Kaavan on every
+        step of the trip.</image:caption
+      >
+      <image:title>Cher & the Loneliest Elephant</image:title>
+    </image:image>
+  </url>
+</urlset>

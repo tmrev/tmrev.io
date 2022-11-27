@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26856-Closed for Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26856-Closed for Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lQXN6bVycT5wgJXM6v1vEPUIVLK.jpg</image:loc
+      >
+      <image:caption
+        >An emotional and poetic story of Elise, a beautiful young woman haunted
+        by a tragic event in her youth. As Elise attempts to piece together the
+        mystery of her sister's disappearance at the beach, twenty years before
+        when both were children, she must face dark family secrets that have
+        remained unspoken. As the past is revealed, Elise at last finds the
+        courage to begin to live.</image:caption
+      >
+      <image:title>Closed for Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

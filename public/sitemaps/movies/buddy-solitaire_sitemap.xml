@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/386832-Buddy Solitaire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/386832-Buddy Solitaire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9CcL7SBsTSm3zX57q9rK82ZT93m.jpg</image:loc
+      >
+      <image:caption
+        >Buddy Solitaire is a struggling comedian on the late night circuit. The
+        only job he can get is teaching comedy to the mentally ill. Buddy
+        discovers, however, that by helping these patients, he can get closer
+        and closer to healing himself.</image:caption
+      >
+      <image:title>Buddy Solitaire</image:title>
+    </image:image>
+  </url>
+</urlset>

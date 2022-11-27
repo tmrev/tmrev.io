@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387507-Bulldog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387507-Bulldog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Quick cash, fake diamonds, and a triple-cross... When an out of work
+        Gulf War vet (Leo) is offered some quick cash as a bodyguard, he jumps
+        at the chance. His job is to escort a diamond courier from the airport
+        to a large wholesaler in L.A. ...simple enough. Unfortunately for Leo,
+        the security boss (Sal) who hired him plans to steal the diamonds. Add
+        two corrupt detectives and a disgruntled ex-jeweler all looking for the
+        stones, Leo and company soon have nowhere to turn. Bad turns to worse
+        when the "diamonds" turn out to be fake...and everyone wants what Leo
+        doesn't have.</image:caption
+      >
+      <image:title>Bulldog</image:title>
+    </image:image>
+  </url>
+</urlset>

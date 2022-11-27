@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/240243-Bus Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/240243-Bus Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/71Amkwxexdqb6X5VvgrJgg158Lr.jpg</image:loc
+      >
+      <image:caption
+        >Koe is a ticket boy on the bus who does the best for his routine job.
+        He also a co-worker with Lha,the moody bus driver who often quarrels to
+        the passengers. One day, on their regular route, Lha refuses to stop the
+        bus for Sub, a passenger who seems to be in bad mood. Unexpectedly, Sub
+        shows the gun and hijacks the bus causes Koe and Lha, also all the
+        passengers become the hostages.They're not allowed to step outside the
+        bus, so Lha keeps driving the bus with no exact destination while Koe
+        plans to stop the bus.</image:caption
+      >
+      <image:title>Bus Lane</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/557642-Cattle Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/557642-Cattle Hill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8NwDRkGqpei774Ub6K7ndQDmdRk.jpg</image:loc
+      >
+      <image:caption
+        >Klara, a young city-calf, dreams of becoming a big star. One day she
+        receives a letter from her father, Mosk, who wants her to visit his
+        farm. Her mom says Mosk is a rock star, but when Clara arrives, she
+        discovers her father is only a regular apple pie farmer.</image:caption
+      >
+      <image:title>Cattle Hill</image:title>
+    </image:image>
+  </url>
+</urlset>

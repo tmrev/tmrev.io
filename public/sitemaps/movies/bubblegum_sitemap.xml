@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/495210-Bubblegum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/495210-Bubblegum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8OssQqXQbFoY9JPVKHRt0PXTmtD.jpg</image:loc
+      >
+      <image:caption
+        >Kalin (35) is a talented advertising specialist, weary of life. Bilyana
+        (35) is a free spirit, still uncertain of what she wants. They grew up
+        in Socialist Bulgaria, where they were part of a mad group of friends,
+        for whom every day was a different adventure. Childlike, they had a pact
+        to get married. The two of them meet 25 years later.</image:caption
+      >
+      <image:title>Bubblegum</image:title>
+    </image:image>
+  </url>
+</urlset>

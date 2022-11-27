@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/967054-Buffering...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/967054-Buffering...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vldGgda7WRMLzaulJyaPnBlEn5H.jpg</image:loc
+      >
+      <image:caption
+        >This is a poetic, romantic, yet bittersweet journey about searching for
+        one's presence in the digital age, where anyone has the capability to
+        share their own stories of love and loneliness within it.</image:caption
+      >
+      <image:title>Buffering...</image:title>
+    </image:image>
+  </url>
+</urlset>

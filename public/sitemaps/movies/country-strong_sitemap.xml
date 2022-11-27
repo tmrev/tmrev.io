@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45272-Country Strong</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45272-Country Strong</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rVxUlUXEXh4VQUqAUOpxTyzG9I6.jpg</image:loc
+      >
+      <image:caption
+        >Soon after the rising young singer-songwriter Beau Williams gets
+        involved with a fallen, emotionally unstable country star Kelly Canter,
+        the pair embark on a career resurrection tour helmed by her
+        husband/manager James and featuring a beauty queen-turned-singer Chiles
+        Stanton. Between concerts, romantic entanglements and old demons
+        threaten to derail them all.</image:caption
+      >
+      <image:title>Country Strong</image:title>
+    </image:image>
+  </url>
+</urlset>

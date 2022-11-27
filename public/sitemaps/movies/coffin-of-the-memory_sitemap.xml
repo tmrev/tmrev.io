@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473450-Coffin of the Memory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473450-Coffin of the Memory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sTO7hDupFEcdYXGPQIjRrUHNzEy.jpg</image:loc
+      >
+      <image:caption
+        >After an interruption of thirty years. Christian Ghazi resumes his
+        cinematographic work with the documentary "Coffin of the Memory". The
+        film mixes newly shot interviews with archive images. In the interviews
+        it sheds light on two basic issues, solitude and economic situation.
+        Through images and simple daily situations, Christian Ghazi draws a
+        portrait of the Lebanese society, a society drowning in its
+        contradictions and its search for an empty individualism and the
+        superficiality of daily consumption, that of production, ideas, time and
+        space.</image:caption
+      >
+      <image:title>Coffin of the Memory</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/173189-Brian Posehn: The Fartist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/173189-Brian Posehn: The Fartist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gxRubeLNFQpqlmGTOHZfyQfY9m.jpg</image:loc
+      >
+      <image:caption
+        >Quirky comedian and actor Brian Posehn shares his stories of trying to
+        be a better person in this stand-up set filmed live at Seattle's Neptune
+        Theater.</image:caption
+      >
+      <image:title>Brian Posehn: The Fartist</image:title>
+    </image:image>
+  </url>
+</urlset>

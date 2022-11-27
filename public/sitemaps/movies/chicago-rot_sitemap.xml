@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362388-Chicago Rot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362388-Chicago Rot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lTL5lqOxrRLS1lslJPmFtlxDuvd.jpg</image:loc
+      >
+      <image:caption
+        >After years of rotting in Joliet, Les, a wrongfully imprisoned street
+        legend known as "The Ghoul", is released into a mad search through
+        Chicago's back alleys for the man who slaughtered his mother and robbed
+        him of his soul. Aided by mysterious benefactors, he must delve beneath
+        the city into a modern labyrinth of gutters whose tendrils have grown
+        deep while he was gone. What unfolds is a desperate tale of brute force
+        tragedy set in the supernatural underworld of Chicago, where heroes are
+        reduced to horror-shows, villains dream of their own demise, and good
+        and evil prove to be antiquated concepts.</image:caption
+      >
+      <image:title>Chicago Rot</image:title>
+    </image:image>
+  </url>
+</urlset>

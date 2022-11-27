@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42475-Clownstrophobia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42475-Clownstrophobia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Patient X was found wandering near a carnival one night, she is trying
+        to tell her nurse at the asylum that a killer clown has escaped and is
+        heading home and her own baby was taken from her. As "Snuffles" arrives
+        home, his sister Dr. Wethers is holding a group therapy session for
+        delinquent teens who all fear clowns. It turns into a a real
+        confrontation of their worst fears. Patient X is trying to get out and
+        join the mayhem at any cost</image:caption
+      >
+      <image:title>Clownstrophobia</image:title>
+    </image:image>
+  </url>
+</urlset>

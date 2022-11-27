@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16516-Clannad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16516-Clannad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/crJYdKEriRiyimMr5TUHxNW0XP5.jpg</image:loc
+      >
+      <image:caption
+        >Clannad is set in a high-school located in some Japanese town. Okazaki
+        Tomoya is a third-year student who doesn't take his studies seriously.
+        Always late for class, he's seen as a delinquent by the rest of his
+        classmates who are busy preparing for their entrance examinations.
+        Needless to say, he hasn't too many close friends either.</image:caption
+      >
+      <image:title>Clannad</image:title>
+    </image:image>
+  </url>
+</urlset>

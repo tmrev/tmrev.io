@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207358-Content</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207358-Content</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1OTlYjMA1jsRnt9Xv6h0jrBY4tq.jpg</image:loc
+      >
+      <image:caption
+        >Content is an ambient 21st-century road movie, an associative film
+        essay inspired by driving’s trancelike state rather than any linear
+        unfolding of the road.</image:caption
+      >
+      <image:title>Content</image:title>
+    </image:image>
+  </url>
+</urlset>

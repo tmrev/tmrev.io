@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274369-Chilango Chronicles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274369-Chilango Chronicles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n4lq2csy7zX7HXfo1anTYWL6VHp.jpg</image:loc
+      >
+      <image:caption
+        >Confusion and eccentricity are all part of life in the vast human ocean
+        of Mexico City -- including the three very different personalities
+        portrayed in this urban fable. By the end of the day, their paths are
+        destined to cross. "El Jairo" (Rodrigo Ostap) is a schizophrenic
+        obsessed with UFOs; Claudia (Regina Orozco) is a woman addicted to
+        pornography; and Juvenico (Patricio Castillo) is a retired teacher
+        trying to come to grips with the future.</image:caption
+      >
+      <image:title>Chilango Chronicles</image:title>
+    </image:image>
+  </url>
+</urlset>

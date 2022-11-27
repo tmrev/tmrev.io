@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473400-Cielo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473400-Cielo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Atq83uUZBOjC2M5BkhsS5zGbz0N.jpg</image:loc
+      >
+      <image:caption
+        >The first feature from Alison McAlpine is a dialogue with the
+        heavens—in this case, the heavens above the Andes and the Atacama Desert
+        in northern Chile, where she alights on the desert- and
+        mountain-dwelling astronomers, fishermen, miners, and cowboys who live
+        their lives with reverence and awe for the skies.</image:caption
+      >
+      <image:title>Cielo</image:title>
+    </image:image>
+  </url>
+</urlset>

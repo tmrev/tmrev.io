@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574487-Croisière</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574487-Croisière</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s2Et0G6g6aNVMj5rJopSzxCfsYF.jpg</image:loc
+      >
+      <image:caption
+        >Six young men and women, who left five days earlier for an idyllic
+        cruise, end up lost at sea. And a tragic event will quickly change the
+        trip into a nightmare...</image:caption
+      >
+      <image:title>Croisière</image:title>
+    </image:image>
+  </url>
+</urlset>

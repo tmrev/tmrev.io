@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71860-Caribbean Basterds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71860-Caribbean Basterds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9iZhwXMwoPUA01KX9M2HLkF0VoS.jpg</image:loc
+      >
+      <image:caption
+        >Three young people - Roy, Linda and José - who become pirates because
+        they end up involved in the drug traffic. Out of need and greed, they
+        find themselves caught up in something much bigger than them. It all
+        begins as a joke but gradually becomes a cruel and dangerous game all
+        the way to the final catharsis. The three main characters, Roy, his
+        sister Linda and her boyfriend José, start out as avengers but turn into
+        merciless criminals in an endless series of holdups and brutal acts of
+        violence.</image:caption
+      >
+      <image:title>Caribbean Basterds</image:title>
+    </image:image>
+  </url>
+</urlset>

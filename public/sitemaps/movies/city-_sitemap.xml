@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/395479-City 40</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/395479-City 40</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cqn1caYsPa4NGhRnpCaJpVnr0qh.jpg</image:loc
+      >
+      <image:caption
+        >Hidden in the heart of Russia, there is a Soviet-era city where
+        thousands of people live and work behind barbed-wire fences monitored by
+        armed guards. It is Ozyorsk (Ozersk), located in the Chelyabinsk Oblast,
+        one of the most polluted places on the planet and home to the largest
+        stockpiles of nuclear material. Its code name: City 40.</image:caption
+      >
+      <image:title>City 40</image:title>
+    </image:image>
+  </url>
+</urlset>

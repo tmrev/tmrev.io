@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46445-Buddy goes West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46445-Buddy goes West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o7sEAr5v7Ifl7sTp2nnUpu95YTR.jpg</image:loc
+      >
+      <image:caption
+        >Trinity series star Bud Spencer returns to the Wild West in director
+        Michele Lupo's comic tale of an outlaw drifter, Buddy, who is mistaken
+        for a doctor after his Indian companion inadvertently steals a bag of
+        surgical instruments. When a band of murderous outlaws attempts to
+        overrun the small town Buddy is passing through, the presumed medico
+        shows that his true talent is cracking skulls. Music is composed by
+        Ennio Morricone.</image:caption
+      >
+      <image:title>Buddy goes West</image:title>
+    </image:image>
+  </url>
+</urlset>

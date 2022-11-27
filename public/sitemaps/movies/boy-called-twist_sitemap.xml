@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136305-Boy Called Twist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136305-Boy Called Twist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The harrowing tale of a South African street-kid's search for love,
+        based on Dickens' classic story. Growing up neglected in a rural
+        orphanage, Twist escapes to the unpredictable freedom of Cape Town,
+        where he falls in with Fagin's gang of street urchins. With a gritty
+        honesty steeped in its vibrant characters, Boy called Twist superbly
+        captures the contemporary equivalents of Dickens' seedy individuals as
+        it shadows the timeless tale in its own inimitable style.</image:caption
+      >
+      <image:title>Boy Called Twist</image:title>
+    </image:image>
+  </url>
+</urlset>

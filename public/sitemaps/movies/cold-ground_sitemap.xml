@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472591-Cold Ground</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472591-Cold Ground</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ls8bIlEMxWdmkg0QD4naLBlOu5o.jpg</image:loc
+      >
+      <image:caption
+        >1976: Two young journalists leave for the French-Swiss border to
+        investigate a strange case of cattle mutilations and record testimonies
+        for a TV channel. Yet, once they get there, the scientific team they
+        were supposed to meet has gone missing. Escorted by a first-aider, a
+        British biologist and an American forensic investigator, Melissa and
+        David will go looking for the missing team deep into the
+        mountains.</image:caption
+      >
+      <image:title>Cold Ground</image:title>
+    </image:image>
+  </url>
+</urlset>

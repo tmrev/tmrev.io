@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541847-Castle to Castle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541847-Castle to Castle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eqBnRlJtNp2wUeKPsEFuPk6Bjbn.jpg</image:loc
+      >
+      <image:caption
+        >Spring 2017, in between the two rounds of the French presidential
+        election. Pierre, a 25-year-old scholarship holder studying in a big
+        Parisian school, lives with 75-year-old Francine, who is disabled and
+        wheelchair-bound. Politically and socially opposed, they are perplexed
+        and disoriented as they witness the unfolding electoral spectacle. While
+        waiting for the results, they engage with each other, as Pierre tries to
+        take care of Francine’s body and she attempts to heal his voiceless
+        resentment.</image:caption
+      >
+      <image:title>Castle to Castle</image:title>
+    </image:image>
+  </url>
+</urlset>

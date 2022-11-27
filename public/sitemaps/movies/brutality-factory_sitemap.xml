@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/686845-Brutality Factory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/686845-Brutality Factory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1QpqMfWGvoEeUJKeNL6gGj6pliv.jpg</image:loc
+      >
+      <image:caption
+        >Modern China. On a bright sunny day, in a building site, an industrial
+        complex is being deconstructed. Night falls. The ruins of the factory
+        are empty and silent. Phantoms appear, voices are heard, telling their
+        stories…. From the anthology The State of the World.</image:caption
+      >
+      <image:title>Brutality Factory</image:title>
+    </image:image>
+  </url>
+</urlset>

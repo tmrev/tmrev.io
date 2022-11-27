@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14163-Chak De! India</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14163-Chak De! India</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg</image:loc
+      >
+      <image:caption
+        >A team of rag-tag girls with their own agenda form Team India competing
+        for international fame in field hockey. Their coach, the ex-men's Indian
+        National team captain, returns from a life of shame after being unjustly
+        accused of match fixing in his last match. Can he give the girls the
+        motivation required to win, while dealing with the shadows of his own
+        past?</image:caption
+      >
+      <image:title>Chak De! India</image:title>
+    </image:image>
+  </url>
+</urlset>

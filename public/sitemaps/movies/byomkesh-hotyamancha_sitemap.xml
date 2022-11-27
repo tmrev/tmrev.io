@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/943333-Byomkesh Hotyamancha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/943333-Byomkesh Hotyamancha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lgKu1PykVRlarWdqTJBTyujtYPc.jpg</image:loc
+      >
+      <image:caption
+        >Set in the tumultuous Naxalite uprising in Bengal in 1971, Byomkesh
+        Bakshi gets involved in a story of vengeance when he decides to attend a
+        play at the theatre and becomes witness to a crime unfolding on the
+        center stage. As Byomkesh digs deep into the case, it opens him to a
+        tripartite story of love, betrayal, and infidelity. And how the mystery
+        is laid bare for Byomkesh to solve.</image:caption
+      >
+      <image:title>Byomkesh Hotyamancha</image:title>
+    </image:image>
+  </url>
+</urlset>

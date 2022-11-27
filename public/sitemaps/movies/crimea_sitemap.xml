@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/469114-Crimea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/469114-Crimea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5fdiLLg7aRylMxhmQwDWw2EfGq9.jpg</image:loc
+      >
+      <image:caption
+        >The film follows a romantic liaison between a young woman from Kiev,
+        who is a supporter of the pro-European Maidan uprising, and a man from
+        Sevastopol who joins the pro-Russian resistance in the aftermath of
+        Maidan’s success in Kiev.</image:caption
+      >
+      <image:title>Crimea</image:title>
+    </image:image>
+  </url>
+</urlset>

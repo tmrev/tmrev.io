@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/675476-Crazy Samurai Musashi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/675476-Crazy Samurai Musashi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/izKIwWr9LqKfXScLQX5GXPgoPAk.jpg</image:loc
+      >
+      <image:caption
+        >In 1604, Miyamoto Musashi attacked the Yoshioka family at their dojo
+        and defeated master Seijūrō and his younger brother Denshichirō in two
+        duels. To save their reputation, the Yoshioka family decides to fight
+        back with all 100 family members and hire an additional 300 samurai. Now
+        Musashi sets out to defeat all 400 enemies in his most famous
+        battle.</image:caption
+      >
+      <image:title>Crazy Samurai Musashi</image:title>
+    </image:image>
+  </url>
+</urlset>

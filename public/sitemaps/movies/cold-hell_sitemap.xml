@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410212-Cold Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410212-Cold Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5WlAA62MaLzdjCzMzIbZpc1pAN2.jpg</image:loc
+      >
+      <image:caption
+        >A young Vienna-based taxi driver of Turkish origin witnesses an
+        extremely brutal murder. The perpetrator, a serial killer, makes eye
+        contact with her; a deadly game of cat-and-mouse ensues.</image:caption
+      >
+      <image:title>Cold Hell</image:title>
+    </image:image>
+  </url>
+</urlset>

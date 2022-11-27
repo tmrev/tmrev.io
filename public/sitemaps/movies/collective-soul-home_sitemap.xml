@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15062-Collective Soul - Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15062-Collective Soul - Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/41YW0QyM8q9eK8OHdOIRgy5GuoH.jpg</image:loc
+      >
+      <image:caption
+        >Multi-platinum recording artists release their first-ever live DVD.
+        Recorded in April 2005, the shows were filmed in the band's hometown of
+        Atlanta during two special sold-out performances featuring the Atlanta
+        Symphony Youth Orchestra. The 20-song collection spans ninety minutes
+        and encompasses hits from Collective Soul's seven studio albums,
+        including their latest release, "Youth".</image:caption
+      >
+      <image:title>Collective Soul - Home</image:title>
+    </image:image>
+  </url>
+</urlset>

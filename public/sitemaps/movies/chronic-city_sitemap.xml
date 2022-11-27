@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/928852-Chronic City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/928852-Chronic City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kCFD9mLh4gQDUjkDdEvDZiBney8.jpg</image:loc
+      >
+      <image:caption
+        >Covering news of impact in Bogotá has become a personal race between
+        Roco and Matías, two contemporary journalists who are reaching their
+        fifties, determined to be the first to get red notices for their
+        editors. 30 years dedicated to competing for the most macabre news, they
+        are driven to cross paths through death, in a desolate and hostile city
+        that offers them no shelter or company.</image:caption
+      >
+      <image:title>Chronic City</image:title>
+    </image:image>
+  </url>
+</urlset>

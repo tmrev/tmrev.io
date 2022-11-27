@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/470319-Clint</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/470319-Clint</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8VyJZB0NxVBZYFf1QGJD7DAjHtW.jpg</image:loc
+      >
+      <image:caption
+        >Based on the life of Edmund Thomas Clint, who died at the mere age of
+        six due to kidney failure, Clint focuses on the exemplary talent of the
+        young boy, who, in his short lifespan, painted as many as 25,000
+        paintings.</image:caption
+      >
+      <image:title>Clint</image:title>
+    </image:image>
+  </url>
+</urlset>

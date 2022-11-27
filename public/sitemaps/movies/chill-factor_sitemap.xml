@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2162-Chill Factor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2162-Chill Factor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/alOPXtR6nxMiEvk6zRA9sX6Hbjk.jpg</image:loc
+      >
+      <image:caption
+        >A store clerk and an ice cream truck driver are thrown together when a
+        dying scientist entrusts them with a deadly chemical kept in ice. This
+        chemical will kill every living thing once it melts. They have to take
+        the chemical codenamed 'Elvis' to the next nearest military base while
+        being chased by terrorists who want it to hold the country for
+        ransom.</image:caption
+      >
+      <image:title>Chill Factor</image:title>
+    </image:image>
+  </url>
+</urlset>

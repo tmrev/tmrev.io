@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454648-Con Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454648-Con Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lNjm6BQXZGs4xCyztrzwCbtjNQ0.jpg</image:loc
+      >
+      <image:caption
+        >The story of Barry Minkow, a young and charismatic figure in business
+        who reaches CEO status by lying and scheming his way to the
+        top.</image:caption
+      >
+      <image:title>Con Man</image:title>
+    </image:image>
+  </url>
+</urlset>

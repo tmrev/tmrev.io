@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280960-Catarina and the others</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280960-Catarina and the others</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ibDLYpA3PfF5fu2X1b5WUZl5v5a.jpg</image:loc
+      >
+      <image:caption
+        >Outside, the first sun rays break the dawn. Sixteen years old Catarina
+        can't fall asleep. Inconsequently, in the big city adults are moved by
+        desire... Catarina found she is HIV positive. She wants to drag everyone
+        else along.</image:caption
+      >
+      <image:title>Catarina and the others</image:title>
+    </image:image>
+  </url>
+</urlset>

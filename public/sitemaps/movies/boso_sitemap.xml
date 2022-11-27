@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80795-Boso</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80795-Boso</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6n7EgZiLIjSVUguEFUZeNkPB6fi.jpg</image:loc
+      >
+      <image:caption
+        >Jake (Jeffrey Quizon) is a caretaker at a boarding residence that
+        houses a whole array of characters. But one day his life changes when he
+        hovers over the lives of newlyweds Cecilia (Katya Santos) and Ding
+        (Allen Dizon).</image:caption
+      >
+      <image:title>Boso</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/183756-Clover Bend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/183756-Clover Bend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2hGTHPFOdJr0MoqhGZpByWM3dSZ.jpg</image:loc
+      >
+      <image:caption
+        >En route to a camping trip, a newly married cop's family is caught in a
+        gas station robbery, where the wife is seriously injured.</image:caption
+      >
+      <image:title>Clover Bend</image:title>
+    </image:image>
+  </url>
+</urlset>

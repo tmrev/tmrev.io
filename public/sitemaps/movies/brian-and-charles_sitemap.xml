@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913814-Brian and Charles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913814-Brian and Charles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pzP3N9qRo3S91QjfBFWNI0ph0AY.jpg</image:loc
+      >
+      <image:caption
+        >An endearing outlier, Brian lives alone in a Welsh valley, inventing
+        oddball contraptions that seldom work. After finding a discarded
+        mannequin head, Brian gets an idea. Three days, a washing machine, and
+        sundry spare parts later, he’s invented Charles, an artificially
+        intelligent robot who learns English from a dictionary and proves a
+        charming, cheeky companion. Before long, however, Charles also develops
+        autonomy. Intrigued by the wider world — or whatever lies beyond the
+        cottage where Brian has hidden him away — Charles craves
+        adventure.</image:caption
+      >
+      <image:title>Brian and Charles</image:title>
+    </image:image>
+  </url>
+</urlset>

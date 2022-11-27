@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73903-Colony</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73903-Colony</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ct9oxiye9SEb4FK6yuIibttv30V.jpg</image:loc
+      >
+      <image:caption
+        >The unexplainable phenomenon known as Colony Collapse Disorder has left
+        landscapes of empty beehives all across the US, threatening not only the
+        beekeeping industry but our food supply. As scientists and beekeepers
+        search for the cause, Colony captures the struggle within the beekeeping
+        community to save the honeybee and themselves. Colony documents a time
+        of unprecedented crisis in the world of the honeybee through the eyes of
+        both veteran beekeeper, David Mendes, and Lance and Victor Seppi, two
+        young brothers getting into beekeeping when most are getting out. As
+        Mendes tries to save the nation's collapsing hives, the Seppi's try to
+        keep their business alive amidst a collapsing economy.</image:caption
+      >
+      <image:title>Colony</image:title>
+    </image:image>
+  </url>
+</urlset>

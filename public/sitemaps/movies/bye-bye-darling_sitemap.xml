@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/681661-Bye Bye Darling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/681661-Bye Bye Darling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bQBu5qcfTtcW10qGVB3DneamInv.jpg</image:loc
+      >
+      <image:caption
+        >A nightclub with mysterious logos... a belly dancer playing with some
+        golden veils... two acrobatic barmen... a man, who looks very nervous,
+        makes a proposal to a woman who's watching the show with a girlfriend:
+        she will go to bed with him in an hour... The unusual adventure,
+        described through the protagonist's memories, will end up in unexpected
+        way.</image:caption
+      >
+      <image:title>Bye Bye Darling</image:title>
+    </image:image>
+  </url>
+</urlset>

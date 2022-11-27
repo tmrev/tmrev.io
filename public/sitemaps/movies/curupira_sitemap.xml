@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/572189-Curupira</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/572189-Curupira</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lxV4QujJfEWVYBwUxRgCUc5xyMd.jpg</image:loc
+      >
+      <image:caption
+        >Clara is a ten-year-old girl who lives in a farm with her brutal uncle
+        Epaminondas. One night, during a hunt, one of the employees disappears,
+        and nobody suspects it may be the work of the Curupira, a mythological
+        entity who protects the forests.</image:caption
+      >
+      <image:title>Curupira</image:title>
+    </image:image>
+  </url>
+</urlset>

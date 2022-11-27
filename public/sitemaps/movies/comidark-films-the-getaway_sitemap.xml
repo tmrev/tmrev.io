@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/640155-Comidark Films: The Getaway</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/640155-Comidark Films: The Getaway</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dV3knufN6LT3p0lDQmjzzT0spwM.jpg</image:loc
+      >
+      <image:caption
+        >4 pals find themselves in the middle of an adventure involving the US
+        Army and aliens when one of them is gone missing during their secret
+        weekend getaway without their wives in a spa center in
+        Kömlük.</image:caption
+      >
+      <image:title>Comidark Films: The Getaway</image:title>
+    </image:image>
+  </url>
+</urlset>

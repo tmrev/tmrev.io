@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/310111-Brasil Santo - Retratos da Fé</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/310111-Brasil Santo - Retratos da Fé</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kwdAkNe8vTSEb97NekCbPn3bRCG.jpg</image:loc
+      >
+      <image:caption
+        >Stories about Brazilian people's faith and their devotion to popular
+        saints.</image:caption
+      >
+      <image:title>Brasil Santo - Retratos da Fé</image:title>
+    </image:image>
+  </url>
+</urlset>

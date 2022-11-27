@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/783820-Count Me In</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/783820-Count Me In</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zIlGGBGKdgG8qb9IJylHCEzM6fu.jpg</image:loc
+      >
+      <image:caption
+        >An exhilarating celebration of the art of rock drumming, featuring some
+        of the best drummers ever to have graced the drumkit. The viewer is
+        taken on a uplifting journey through some of the most iconic music ever
+        created, focusing on the women and men with the sticks, their passions,
+        culture and awe-inspiring energy.</image:caption
+      >
+      <image:title>Count Me In</image:title>
+    </image:image>
+  </url>
+</urlset>

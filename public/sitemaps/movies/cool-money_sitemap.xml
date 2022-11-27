@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/61819-Cool Money</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/61819-Cool Money</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4ESAUdzOGcWGzoI0blnwmBQn9xd.jpg</image:loc
+      >
+      <image:caption
+        >Charismatic thief Bobby Comfort escapes from prison, clears himself of
+        all charges, and returns to a home life he finds unsatisfying. Though he
+        is devoted to his wife and daughter, his old life comes calling, both
+        figuratively and literally, in the form of idea man Sammy Nalo. With the
+        help of Comfort's old partner, they begin robbing posh New York City
+        hotels, while second cousin and bumbling cop Phil Parris thinks he can
+        turn Comfort to the straight and narrow.</image:caption
+      >
+      <image:title>Cool Money</image:title>
+    </image:image>
+  </url>
+</urlset>

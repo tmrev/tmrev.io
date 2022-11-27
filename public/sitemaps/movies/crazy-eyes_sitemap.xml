@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/93091-Crazy Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/93091-Crazy Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o4FfGzHhjrCCJexUZvUYtC734aI.jpg</image:loc
+      >
+      <image:caption
+        >Zack is a young, divorced father who starts to develop romantic
+        feelings towards his friend Rebecca, whom he refers to as "Crazy Eyes".
+        He spends a lot of time at a bar run by his best friend Dan Drake and
+        hanging out with Autumn. As he pursues a sexual relationship with
+        Rebecca, Zack grows increasingly aware of the importance of his son's
+        role in his life amidst the failing health of his own
+        father.</image:caption
+      >
+      <image:title>Crazy Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

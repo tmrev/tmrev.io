@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/711387-Chicken Rice Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/711387-Chicken Rice Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/97NxHD3ZzQUpn6GffOai8Q4ejtw.jpg</image:loc
+      >
+      <image:caption
+        >A young boy ponders one of the greatest mysteries of his life: just why
+        is his mother's cooking so appalling? His father claims his mother lost
+        her cooking skills when she gave birth to him. But there remains one
+        sole culinary treat, so tantalisingly tasty, our small friend simply has
+        to find out how it is made... his mother's sublime chicken and rice
+        dish.</image:caption
+      >
+      <image:title>Chicken Rice Mystery</image:title>
+    </image:image>
+  </url>
+</urlset>

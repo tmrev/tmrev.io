@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291171-Britain's Most Fragile Treasure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291171-Britain's Most Fragile Treasure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tfjbnQTwtjuGI0WD66KDsVV2tQ7.jpg</image:loc
+      >
+      <image:caption
+        >Historian Dr Janina Ramirez unlocks the secrets of a centuries-old
+        masterpiece in glass. At 78 feet in height, the famous East Window at
+        York Minster is the largest medieval stained-glass window in the country
+        and it was the creative vision of a single artist - a mysterious master
+        craftsman called John Thornton, one of the earliest named English
+        artists. The East Window of York Minster is far more than a work of
+        artistic genius, it is a window onto the medieval world and the medieval
+        mind - telling us who were once were and who we still are, all preserved
+        in the most fragile medium of all.</image:caption
+      >
+      <image:title>Britain's Most Fragile Treasure</image:title>
+    </image:image>
+  </url>
+</urlset>

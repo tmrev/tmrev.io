@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/318028-Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/318028-Calling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4hbgW41pL8wrm7LvlTfmAmCKmZI.jpg</image:loc
+      >
+      <image:caption
+        >Father and son on a journey in the forest. Their trip through nature is
+        an act of initiation for them both. What looks innocent and safe turns
+        out to be dangerous and vicious. A beautifully shot meditation on first
+        encounters with the world as it is.</image:caption
+      >
+      <image:title>Calling</image:title>
+    </image:image>
+  </url>
+</urlset>

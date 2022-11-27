@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/702103-Boys for Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/702103-Boys for Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wQcjmsvkghoq5vnmiLprlW8c3Xw.jpg</image:loc
+      >
+      <image:caption
+        >A frank and candid portrait of the lives and family relations of three
+        gay teenagers in Taipei. One breaks up with his boyfriend before going
+        abroad to study, the other craves for love, and the third one moonlights
+        as a crossdresser. A bold statement against norms in a Confucean
+        society.</image:caption
+      >
+      <image:title>Boys for Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

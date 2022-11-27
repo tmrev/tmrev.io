@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/938520-Chronicle of the Minorities Institute</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/938520-Chronicle of the Minorities Institute</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ji2KnpCmhlERzCfU9HsqtzkQA7I.jpg</image:loc
+      >
+      <image:caption
+        >Filmmaker Liu Xiaojin spent 7 years shooting this film documenting the
+        birth and demise of a unique educational venture, the Yunnan Ethnic
+        Minority Institute. Founded by classical composer Tian Feng in 1994, the
+        school was set up to help preserve the traditional music and dance of
+        the Yi, Hani, Naxi, and Tibetan minority groups in Yunnan Province.
+        Although the school ran into legal and financial problems and had to be
+        shut down in 2000, it has had a lasting influence on the preservation
+        and expression of traditional culture in Yunnan.</image:caption
+      >
+      <image:title>Chronicle of the Minorities Institute</image:title>
+    </image:image>
+  </url>
+</urlset>

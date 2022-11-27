@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/917298-Ciudad Chicha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/917298-Ciudad Chicha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qdQIopku8sim9xdfytfEswbNLLl.jpg</image:loc
+      >
+      <image:caption
+        >The documentary Ciudad Chicha narrates the different stages through
+        which the Peruvian cumbia genre has passed. And the story is told by the
+        same leading musicians of this movement, such as Jaime Moreyra and Julio
+        Simeón (“Chapulín”) from the group Los Shapis, Edilberto Cuestas from
+        Los Ecos, Jorge Rodríguez from Los Mirlos, Humberto “Tito” Caycho from
+        Los Destellos and Rossy War, among others equally outstanding. Their
+        testimonies are commented on by specialists who observe the Peruvian
+        cumbia as a sociocultural phenomenon such as Carlos Iván Degregori,
+        Gonzalo Portocarrero, Rodrigo Montoya and Teófilo
+        Altamirano.</image:caption
+      >
+      <image:title>Ciudad Chicha</image:title>
+    </image:image>
+  </url>
+</urlset>

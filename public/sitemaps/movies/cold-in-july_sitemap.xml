@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/244509-Cold in July</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/244509-Cold in July</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i58D3vIxp7OF1bd5wLQ6Y67e3PL.jpg</image:loc
+      >
+      <image:caption
+        >While investigating noises in his house one balmy Texas night in 1989,
+        Richard Dane puts a bullet in the brain of a low-life burglar. Although
+        he’s hailed as a small-town hero, Dane soon finds himself fearing for
+        his family’s safety when Freddy’s ex-con father rolls into town,
+        hell-bent on revenge.</image:caption
+      >
+      <image:title>Cold in July</image:title>
+    </image:image>
+  </url>
+</urlset>

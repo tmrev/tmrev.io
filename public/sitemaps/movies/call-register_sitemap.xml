@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68475-Call Register</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68475-Call Register</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nR68pwiWyQKZU87BBSFT394QdkZ.jpg</image:loc
+      >
+      <image:caption
+        >A guy borrows his best friend's mobile phone in order to call a girl he
+        recently met, but the phone recognizes the number being dialed, leading
+        to a number of awkward and funny complications.</image:caption
+      >
+      <image:title>Call Register</image:title>
+    </image:image>
+  </url>
+</urlset>

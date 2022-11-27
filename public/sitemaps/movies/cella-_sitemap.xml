@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467928-Cella ...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467928-Cella ...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bROULGe4KJSdToBp636dMBhhenf.jpg</image:loc
+      >
+      <image:caption
+        >She loved mysteries so much that she became one, she used words to say
+        nothing at all, and silence to explain everything, and she smiled her
+        last smile, to so much that had been possible...</image:caption
+      >
+      <image:title>Cella ...</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/604238-Brico Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/604238-Brico Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jLDyaTaN7lH5N338BoNRKmyS0Xn.jpg</image:loc
+      >
+      <image:caption
+        >Manolo is a worker shamelessly exploited by his boss. Tired of his
+        situation, he finds a solution in the most unexpected
+        way.</image:caption
+      >
+      <image:title>Brico Killer</image:title>
+    </image:image>
+  </url>
+</urlset>

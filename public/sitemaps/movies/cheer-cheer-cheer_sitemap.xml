@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40121-Cheer Cheer Cheer!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40121-Cheer Cheer Cheer!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xhlo1seBWyv03lOsQou1g1tajFM.jpg</image:loc
+      >
+      <image:caption
+        >Momoko (Yui Aragaki) is a quiet and lonely high school girl who's only
+        passion is to cheer traditional cheer squad, but all she could gather
+        were good for nothing guys, who could not find places in school. They
+        start the cheer squad with a disaster, but when they finally find the
+        true meaning of "cheering" someone, their passion becomes power and
+        gives strength to those that are cheered.</image:caption
+      >
+      <image:title>Cheer Cheer Cheer!</image:title>
+    </image:image>
+  </url>
+</urlset>

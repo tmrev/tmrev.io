@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666206-Courland '44</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666206-Courland '44</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jQps7zeeibQ8dLcvjk9M8xSweYz.jpg</image:loc
+      >
+      <image:caption
+        >Autumn 1944; a young soldier named Karl Franke has been shipped to
+        Courland and must prove himself to his fellow soldiers in his first
+        mission.</image:caption
+      >
+      <image:title>Courland '44</image:title>
+    </image:image>
+  </url>
+</urlset>

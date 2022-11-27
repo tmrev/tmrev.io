@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17773-Crazy Girls Undercover</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17773-Crazy Girls Undercover</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1gLA69gteLn80VedUUx8vcuuG6s.jpg</image:loc
+      >
+      <image:caption
+        >The film is about a group of Las Vegas sexy showgirls who are
+        undercover agents working with a former C.I.A. agent (Robertson) to stop
+        a terrorist attack.</image:caption
+      >
+      <image:title>Crazy Girls Undercover</image:title>
+    </image:image>
+  </url>
+</urlset>

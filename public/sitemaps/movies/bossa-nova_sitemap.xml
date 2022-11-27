@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19600-Bossa Nova</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19600-Bossa Nova</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8U2ixqJhdTGqszU44CBpx68PIoD.jpg</image:loc
+      >
+      <image:caption
+        >Bossa Nova is a romantic comedy that enfolds many love convergences and
+        divergences, in today’s Rio de Janeiro. It’s in the city’s “useless
+        landscape” that the lonely hearts of nine characters will cross
+        destinies and they’ll discover new passions. The meeting place for these
+        journeys is a charming English teacher, Mary Ann Simpson, former airline
+        stewardess, who’s been living in Rio for two years, since she became a
+        widow, and the newly separated Pedro Paulo. They approach each other
+        without a hint that their lives will be linked by many characters and
+        incidents.</image:caption
+      >
+      <image:title>Bossa Nova</image:title>
+    </image:image>
+  </url>
+</urlset>

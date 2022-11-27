@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662334-Chaco</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662334-Chaco</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hCR2i9rK6P4VHMfFw2MT5jDGJcN.jpg</image:loc
+      >
+      <image:caption
+        >In 1934, Bolivia is at war with Paraguay. Liborio and Ticona and other
+        Bolivian indigenous soldiers are lost in the hell of the Chaco, under
+        the commandment of German Captain Kundt. They're looking for the
+        Paraguayan enemy that they haven't seen for months, and that they will
+        never find. They leave together in a search that will make them realize,
+        progressively, the destiny they have been pushed into and the inevitable
+        condition of a defeated troop. They're walking like shadows, wandering
+        forever in the middle of dust and silence.</image:caption
+      >
+      <image:title>Chaco</image:title>
+    </image:image>
+  </url>
+</urlset>

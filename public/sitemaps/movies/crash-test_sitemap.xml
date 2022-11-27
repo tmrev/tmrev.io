@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/355161-Crash Test</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/355161-Crash Test</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aYyVunZFovilRWCiQMhgWu99ZIa.jpg</image:loc
+      >
+      <image:caption
+        >Adapted from their beloved comedy show at Upright Citizens Brigade,
+        Crash Test showcases Rob Huebel and Paul Scheer on a state-of-the-art
+        party bus adventure, picking up famous comedians and celebrities as they
+        go on a sightseeing tour of Los Angeles. Ben Stiller, Stuart Cornfeld
+        and Mike Rosenstein of Red Hour executive produced the
+        special.</image:caption
+      >
+      <image:title>Crash Test</image:title>
+    </image:image>
+  </url>
+</urlset>

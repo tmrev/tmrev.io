@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/150889-Crazy Enough</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/150889-Crazy Enough</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A5SxCEfRfU3JtiT6FkCa25x9Nu8.jpg</image:loc
+      >
+      <image:caption
+        >Identical twins separated at birth: One a prominent psychiatrist; the
+        other a life long mental patient. When the doctor gets called to his
+        brother's institution, fate intervenes and the brothers swap
+        places.</image:caption
+      >
+      <image:title>Crazy Enough</image:title>
+    </image:image>
+  </url>
+</urlset>

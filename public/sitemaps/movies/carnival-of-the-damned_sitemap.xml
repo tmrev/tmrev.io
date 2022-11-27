@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/857240-Carnival of the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/857240-Carnival of the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film follows a detective, a rookie officer, a waitress, a reporter,
+        and a hitman stopping a cult from taking over with a legion of the
+        walking dead. Where will you be when the world ends? Director Chris
+        Thompson Writer Chris Thompson Stars Valerie AllenAdrienne BaltzChazz
+        Bessette</image:caption
+      >
+      <image:title>Carnival of the Damned</image:title>
+    </image:image>
+  </url>
+</urlset>

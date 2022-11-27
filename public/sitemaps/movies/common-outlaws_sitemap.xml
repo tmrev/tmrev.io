@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301210-Common Outlaws</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301210-Common Outlaws</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3nt3YXtdZirz7CclqGxDPnXnsHt.jpg</image:loc
+      >
+      <image:caption
+        >Fifteen years after their father was gunned down in cold blood, Cashius
+        and Winston Hurley return to their hometown to avenge his death. Joining
+        forces with their cousin Bugsy, the two gun-slinging brothers hunt down
+        everyone involved in their father's murder. As the bullets fly and the
+        death toll rises, the three young cowboys find themselves fugitives from
+        the law, running for their lives and fighting for their
+        revenge.</image:caption
+      >
+      <image:title>Common Outlaws</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1026958-Christmas at the Holly Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1026958-Christmas at the Holly Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rd2pFAjm1J8NWX19MKqeFE0WHgP.jpg</image:loc
+      >
+      <image:caption
+        >It follows Kathy, a food critic in New York City. Her parents ask her
+        to come home for Christmas, and there she meets a handsome police
+        officer, which now complicates her situation.</image:caption
+      >
+      <image:title>Christmas at the Holly Hotel</image:title>
+    </image:image>
+  </url>
+</urlset>

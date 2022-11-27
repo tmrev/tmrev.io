@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/138129-Chiara e Francesco</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/138129-Chiara e Francesco</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ZTvl9w0BGniQVu2rBD48QsnjlP.jpg</image:loc
+      >
+      <image:caption
+        >Italy, XIII century. The story of friendship between two young people
+        who dedicated their lives to God and others: St. Francis and St. Clare
+        of Assisi. Children of the bourgeoisie and the nobility, respectively,
+        gave up their lives accommodated by a life of sacrifice, humility and
+        proselytizing ...</image:caption
+      >
+      <image:title>Chiara e Francesco</image:title>
+    </image:image>
+  </url>
+</urlset>

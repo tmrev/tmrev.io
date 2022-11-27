@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/570711-Children of the Lie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/570711-Children of the Lie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qxxqFshbREQFG8qTIJsIvedAa1Z.jpg</image:loc
+      >
+      <image:caption
+        >A week before her wedding, Agathe Plichard, a pretty young woman of
+        mixed race, is found drowned in the Creuse river. The police treat the
+        case as an accident but her fiancé, Félix Bricourt, is convinced she was
+        murdered. He decides to investigate by himself, despite the wishes of
+        his family, a wealthy dynasty of the region. Won over by Félix's
+        resolve, police inspector Carole Levasseur also decides to find out the
+        truth. The murder of an independent journalist changes the course of the
+        investigation, stirring up the past and unveiling the forgotten
+        "Children of the Creuse" affair.</image:caption
+      >
+      <image:title>Children of the Lie</image:title>
+    </image:image>
+  </url>
+</urlset>

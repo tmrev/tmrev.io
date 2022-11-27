@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/960332-Camila, desde el alma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/960332-Camila, desde el alma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yLcz0qScfkhUG1sCJMJ6vochniH.jpg</image:loc
+      >
+      <image:caption
+        >Documentary that addresses the issue of transvestism and the
+        difficulties involved in the struggle for a sexual identity under
+        construction, not socially recognized. It interweaves the reflections of
+        a young transvestite actress interviewed in depth with fragments of the
+        successful play Carnestolendas, in which she fuses her emotions and
+        those of the society that surrounds her with those expressed by the
+        characters of Federico García Lorca.</image:caption
+      >
+      <image:title>Camila, desde el alma</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198062-Coffee Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198062-Coffee Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/475PTJRhikorye5BnTan5BPm85j.jpg</image:loc
+      >
+      <image:caption
+        >Will is a 30-something website manager who uses local café, Coffee
+        Town, as his office. When the owners of the shop discuss plans to
+        convert Coffee Town into a bar, Will enlists the help of his two best
+        friends Chad and Gino to save his freeloading existence. In order to
+        thwart the plans of Coffee Town's owners, the trio stages a robbery to
+        create the illusion of an unsafe neighborhood not suitable for the
+        proposed venue. Also standing in their way is Sam, a disgruntled barista
+        with delusions of grandeur and Will's heartache over unrequited love for
+        Becca.</image:caption
+      >
+      <image:title>Coffee Town</image:title>
+    </image:image>
+  </url>
+</urlset>

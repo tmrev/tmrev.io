@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44534-Captain from Castile</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44534-Captain from Castile</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5DojmAjGSnISbZLg7C1Bb6dvXVJ.jpg</image:loc
+      >
+      <image:caption
+        >Spain, 1518: young caballero Pedro De Vargas offends his sadistic
+        neighbor De Silva, who just happens to be an officer of the Inquisition.
+        Forced to flee, Pedro, friend Juan Garcia, and adoring servant girl
+        Catana join Cortez' first expedition to Mexico. Arriving in the rich new
+        land, Cortez decides to switch from exploration to conquest...with only
+        500 men. Embroiled in continuous adventures and a romantic interlude,
+        Pedro almost forgets he has a deadly enemy...</image:caption
+      >
+      <image:title>Captain from Castile</image:title>
+    </image:image>
+  </url>
+</urlset>

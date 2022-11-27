@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/486557-Brains in Danger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/486557-Brains in Danger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lxYPBGZQIlzKbwIoy5Yi8OLaa2e.jpg</image:loc
+      >
+      <image:caption
+        >For the past 20 years, the world has seen an alarming decrease in IQ
+        and a rise of autism and behavioral disorders. This international
+        scientific investigation reveals how chemicals in objects surrounding us
+        affect our brain, and especially those of fetuses.</image:caption
+      >
+      <image:title>Brains in Danger</image:title>
+    </image:image>
+  </url>
+</urlset>

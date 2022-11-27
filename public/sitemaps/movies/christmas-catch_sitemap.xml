@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/563737-Christmas Catch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/563737-Christmas Catch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7gRwH4w0gihgoDGAPJ5rcYFEZO0.jpg</image:loc
+      >
+      <image:caption
+        >Detective Mackenzie Bennett is hot on the trail of Carson, a suspected
+        diamond thief, and goes undercover to catch him in the act. While
+        undercover, Mack not only falls for Carson, but begins to suspect that
+        he's been framed. Are feelings clouding Mack's judgment or are they
+        focusing on the wrong suspect?</image:caption
+      >
+      <image:title>Christmas Catch</image:title>
+    </image:image>
+  </url>
+</urlset>

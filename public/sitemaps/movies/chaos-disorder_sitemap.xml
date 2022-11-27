@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/151095-Chaos, Disorder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/151095-Chaos, Disorder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t6hmuEnmIHltaEJEtUE5zlEEE1V.jpg</image:loc
+      >
+      <image:caption
+        >Manal is the lovely young daughter of a grocer in an isolated, run-down
+        Cairo neighborhood town bordering a garbage dump.  Both Zaki and Mounir
+        want to marry her.  Instead of letting Manal choose, the boys challenge
+        each other to a soccer match in which the winner will gain her hand in
+        marriage. </image:caption
+      >
+      <image:title>Chaos, Disorder</image:title>
+    </image:image>
+  </url>
+</urlset>

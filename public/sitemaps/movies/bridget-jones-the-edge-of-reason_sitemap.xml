@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9801-Bridget Jones: The Edge of Reason</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9801-Bridget Jones: The Edge of Reason</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/42v82AwTnhaL1JkNcQK8PRAh46P.jpg</image:loc
+      >
+      <image:caption
+        >Bridget Jones is becoming uncomfortable in her relationship with Mark
+        Darcy. Apart from discovering that he's a conservative voter, she has to
+        deal with a new boss, a strange contractor and the worst vacation of her
+        life.</image:caption
+      >
+      <image:title>Bridget Jones: The Edge of Reason</image:title>
+    </image:image>
+  </url>
+</urlset>

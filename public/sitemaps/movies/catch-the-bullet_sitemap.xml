@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859860-Catch the Bullet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859860-Catch the Bullet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7PoomidF9HlMKXcAyOJ87lGkhSp.jpg</image:loc
+      >
+      <image:caption
+        >U.S. marshal Britt MacMasters returns from a mission to find his father
+        wounded and his son kidnapped by the outlaw Jed Blake. Hot on their
+        trail, Britt forms a posse with a gunslinging deputy and a stoic Pawnee
+        tracker. But Jed and Britt tread dangerously close to the Red Desert’s
+        Sioux territory.</image:caption
+      >
+      <image:title>Catch the Bullet</image:title>
+    </image:image>
+  </url>
+</urlset>

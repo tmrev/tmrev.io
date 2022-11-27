@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31138-Camilla Läckberg: The Jinx</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31138-Camilla Läckberg: The Jinx</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wU0wvk5ox9pBjhtx6Tdg4feDiAY.jpg</image:loc
+      >
+      <image:caption
+        >The Stranger - two children are taken, A new officer joins the team, a
+        young girl is strangled and a death via traffic accident turns out to be
+        more. In the meantime, Patrick and Erica plan a wedding.</image:caption
+      >
+      <image:title>Camilla Läckberg: The Jinx</image:title>
+    </image:image>
+  </url>
+</urlset>

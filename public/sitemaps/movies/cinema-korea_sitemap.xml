@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/923602-Cinema Korea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/923602-Cinema Korea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kAyEtgwex6F5dPPAitUfxfOz7tR.jpg</image:loc
+      >
+      <image:caption
+        >Academy Award-nominated director Christine Choy brings together
+        interviews with actors and directors, archival footage of classic Korean
+        films and accounts of defining historical events to give a fully rounded
+        view of Korean film culture. Interviewees include Im Kwon-taek, Kim
+        Ki-duk, Jang Dong-gun, Jeon Ji-hyun, Lee Byung-hun, Kwak Kyung-taek,
+        Bang Eun-jin.</image:caption
+      >
+      <image:title>Cinema Korea</image:title>
+    </image:image>
+  </url>
+</urlset>

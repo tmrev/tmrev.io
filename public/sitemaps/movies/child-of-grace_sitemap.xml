@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362862-Child of Grace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362862-Child of Grace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kUUzbquKsGioT30OnNEhjMIx6hz.jpg</image:loc
+      >
+      <image:caption
+        >Katie Johnson, a 9-year-old girl, has spent her entire life traveling
+        across America in an RV with her father. At one of their stops, she
+        finds a picture of herself on a missing child poster and realizes her
+        father may actually be a kidnapper.</image:caption
+      >
+      <image:title>Child of Grace</image:title>
+    </image:image>
+  </url>
+</urlset>

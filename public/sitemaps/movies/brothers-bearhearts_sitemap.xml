@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412719-Brothers Bearhearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412719-Brothers Bearhearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The heroes of the film are three bear cubs from the cult painting by
+        Ivan Shishkin "Morning in a Pine Forest". After losing their painter
+        mom, the three brothers Henry, Vincent, and August appear in Paris, the
+        City of Light every creator dreams of. All attempts to earn their living
+        as artists fail. Their impressionistic "collies" won't be acknowledged.
+        Under cover as circus lions, the bear cubs travel back to Russia to find
+        the heritage of their mom.</image:caption
+      >
+      <image:title>Brothers Bearhearts</image:title>
+    </image:image>
+  </url>
+</urlset>

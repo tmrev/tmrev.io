@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308-Broken Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308-Broken Flowers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aSHkPnC0o4XPHpJC5TY3AWO6un4.jpg</image:loc
+      >
+      <image:caption
+        >As the devoutly single Don Johnston is dumped by his latest girlfriend,
+        he receives an anonymous pink letter informing him that he has a son who
+        may be looking for him.</image:caption
+      >
+      <image:title>Broken Flowers</image:title>
+    </image:image>
+  </url>
+</urlset>

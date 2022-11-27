@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/870724-Burning Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/870724-Burning Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8JIw7oZEm2o24ghGXESfSef2RKx.jpg</image:loc
+      >
+      <image:caption
+        >Puglia. Burnt by the sun and by hatred, the promontory of Gargano is
+        contested by criminals who seem to come from a remote past governed by
+        the law of the jungle. An archaic land reminiscent of the Far West, in
+        which blood is washed away with blood. An old feud between two rival
+        families is rekindled by a forbidden love: the one between Andrea,
+        reluctant heir of the Malatesta, and Marilena, beautiful wife of the
+        boss of the Camporeale clan. A fatal passion that sets the two clans at
+        war again. But Marilena, banished by the Camporeale and prisoner of the
+        Malatesta, disputed and abused, will oppose a fate already written with
+        a mother’s strength.</image:caption
+      >
+      <image:title>Burning Hearts</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44263-City Under Siege</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44263-City Under Siege</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zJGglhvEbjMQAhVc4lzMHTeUyav.jpg</image:loc
+      >
+      <image:caption
+        >Sunny is a naïve circus performer who dreams of inheriting his father's
+        knife-throwing skills. However, his hostile colleagues continue to bully
+        him, relegating him to a lowly clown. On a tour to Malaysia, Cheung and
+        other performers discover a cave occupied by the Japanese army during
+        World War II. Instead of finding treasure, the performers - including
+        Sunny - are sprayed with a mysterious chemical that turns them into
+        superhuman mutants...</image:caption
+      >
+      <image:title>City Under Siege</image:title>
+    </image:image>
+  </url>
+</urlset>

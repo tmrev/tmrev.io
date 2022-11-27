@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636612-Bride of the Werewolf</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636612-Bride of the Werewolf</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xsaENvB68MqWKQtS3PaXLoJFIcY.jpg</image:loc
+      >
+      <image:caption
+        >After two women are attacked on a desolate road they take refuge at the
+        home of a kind-hearted stranger named Saul who harbors the dark secret
+        of lycanthropy. Can a professor experimenting with the secrets of the
+        Pharaohs cure Saul, or will a battle between the Werewolf and a freshly
+        reanimated Mummy be the end for them all?</image:caption
+      >
+      <image:title>Bride of the Werewolf</image:title>
+    </image:image>
+  </url>
+</urlset>

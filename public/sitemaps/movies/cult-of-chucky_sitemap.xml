@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/393345-Cult of Chucky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/393345-Cult of Chucky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r5JUiMYfatwYeDkxkLWYUx5GIjY.jpg</image:loc
+      >
+      <image:caption
+        >Confined to an asylum for the criminally insane, Nica Pierce is
+        convinced that she, not Chucky, murdered her entire family. But when the
+        psychiatrist introduces a new therapeutic "Good Guy" doll with a
+        familiar face, a string of new, grisly deaths leads Nica to wonder if
+        she isn't crazy after all.</image:caption
+      >
+      <image:title>Cult of Chucky</image:title>
+    </image:image>
+  </url>
+</urlset>

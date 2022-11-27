@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4944-Burn After Reading</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4944-Burn After Reading</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jdwSkQu3XirmX18MNj8CqFWsCk.jpg</image:loc
+      >
+      <image:caption
+        >When a disc containing memoirs of a former CIA analyst falls into the
+        hands of gym employees, Linda and Chad, they see a chance to make enough
+        money for Linda to have life-changing cosmetic surgery. Predictably,
+        events whirl out of control for the duo, and those in their
+        orbit.</image:caption
+      >
+      <image:title>Burn After Reading</image:title>
+    </image:image>
+  </url>
+</urlset>

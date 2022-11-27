@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407825-Chudail Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407825-Chudail Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7GMHZxVC9dbiXcqWrqinXOKErxd.jpg</image:loc
+      >
+      <image:caption
+        >A seductive witch kills men by casting a spell on them. A bunch of
+        friends are trapped in a haunted house with mysterious lady. Is she the
+        Chudail?</image:caption
+      >
+      <image:title>Chudail Story</image:title>
+    </image:image>
+  </url>
+</urlset>

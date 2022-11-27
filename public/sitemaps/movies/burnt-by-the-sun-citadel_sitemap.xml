@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65060-Burnt by the Sun 2: Citadel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65060-Burnt by the Sun 2: Citadel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8b9D3rYrn4nFyszHG92Fnxjt0Bc.jpg</image:loc
+      >
+      <image:caption
+        >The final part of Mikhalkov's trilogy about Divisional Commander Kotov
+        finds him returning home during World War II having been betrayed,
+        narrowly escaped execution for treason and nearly reduced to dust in a
+        prison camp. Only to discover that everything has changed and he will
+        have to fight again for his name, for his honor, and for his
+        love.</image:caption
+      >
+      <image:title>Burnt by the Sun 2: Citadel</image:title>
+    </image:image>
+  </url>
+</urlset>

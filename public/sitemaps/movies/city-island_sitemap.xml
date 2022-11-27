@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28053-City Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28053-City Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t7LJY2LCcGRLP9E4QbwBkLpZ2W7.jpg</image:loc
+      >
+      <image:caption
+        >The Rizzos, a family who doesn't share their habits, aspirations, and
+        careers with one another, find their delicate web of lies disturbed by
+        the arrival of a young ex-con brought home by Vince, the patriarch of
+        the family, who is a corrections officer in real life, and a hopeful
+        actor in private.</image:caption
+      >
+      <image:title>City Island</image:title>
+    </image:image>
+  </url>
+</urlset>

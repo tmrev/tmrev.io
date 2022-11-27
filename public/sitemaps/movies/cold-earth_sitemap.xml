@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47935-Cold Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47935-Cold Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When a celebrity couple's daughter goes missing, everyone -- including
+        the police -- believes a serial killer is the culprit. The truth,
+        however, is not so cut-and-dried. With no clues or ransom note,
+        detectives must look to old demons for answers. Alex Walker plays Alex
+        Blight, a paparazzo whose knowledge and connections raise suspicions,
+        and Steven Elliot and Ben Shockley play the detectives assigned to the
+        case in this taught thriller.</image:caption
+      >
+      <image:title>Cold Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

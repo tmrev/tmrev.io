@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/883082-Castaway</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/883082-Castaway</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rXvhhjObNISP8CkVZ1dT3gDbX3u.jpg</image:loc
+      >
+      <image:caption
+        >Juan is 17 years old and wants to have sex with his girlfriend Samantha
+        until he dresses with Samantha's clothes and discovers new ways to feel
+        pleasure.</image:caption
+      >
+      <image:title>Castaway</image:title>
+    </image:image>
+  </url>
+</urlset>

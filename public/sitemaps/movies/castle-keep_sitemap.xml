@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45522-Castle Keep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45522-Castle Keep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gERA2rTFymgxteyqX6JUlyidMiE.jpg</image:loc
+      >
+      <image:caption
+        >During the Battle of the Bulge, an anachronistic count shelters a
+        ragtag squad of Americans in his isolated castle hoping they will defend
+        it against the advancing Germans.</image:caption
+      >
+      <image:title>Castle Keep</image:title>
+    </image:image>
+  </url>
+</urlset>

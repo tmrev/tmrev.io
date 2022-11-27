@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158946-Chanthupottu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158946-Chanthupottu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/da5etm0UedcuZBUUOQwqbelwK7l.jpg</image:loc
+      >
+      <image:caption
+        >Chanthupottu is a 2005 Malayalam film directed by Lal Jose, written by
+        Benny P. Nayarambalam, and produced by Lal. The story is about a man
+        named Radhakrishnan who was brought up like a girl by his
+        grandmother.</image:caption
+      >
+      <image:title>Chanthupottu</image:title>
+    </image:image>
+  </url>
+</urlset>

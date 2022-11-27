@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/433501-City of Lies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/433501-City of Lies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2CqyEyqvf5Z6jLRahozEV2vpcSS.jpg</image:loc
+      >
+      <image:caption
+        >Los Angeles Police Department detective Russell Poole has spent years
+        trying to solve his biggest case -- the murders of The Notorious B.I.G.
+        and Tupac Shakur -- but after two decades, the investigation remains
+        open. Jack Jackson, a reporter desperate to save his reputation and
+        career, is determined to find out why. In search of the truth, the two
+        team up and unravel a growing web of institutional corruption and
+        lies.</image:caption
+      >
+      <image:title>City of Lies</image:title>
+    </image:image>
+  </url>
+</urlset>

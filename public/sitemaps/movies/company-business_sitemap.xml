@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32074-Company Business</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32074-Company Business</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vwWexi2O70Efr4MkckbxjeIgchb.jpg</image:loc
+      >
+      <image:caption
+        >An aging agent is called back by "the Company" to run a hostage trade
+        of a Soviet spy for an American agent.</image:caption
+      >
+      <image:title>Company Business</image:title>
+    </image:image>
+  </url>
+</urlset>

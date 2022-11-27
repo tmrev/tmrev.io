@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20079-Camilla Läckberg: The Ice Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20079-Camilla Läckberg: The Ice Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a49DqQHVbmP9vLuvaQCizz3db2M.jpg</image:loc
+      >
+      <image:caption
+        >Erica returns to her hometown for her parents funeral and her childhood
+        friend murdered</image:caption
+      >
+      <image:title>Camilla Läckberg: The Ice Princess</image:title>
+    </image:image>
+  </url>
+</urlset>

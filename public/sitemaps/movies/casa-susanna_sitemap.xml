@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1005738-Casa Susanna</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1005738-Casa Susanna</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yA2MECN8Vd0GMauNY83qavNP8w4.jpg</image:loc
+      >
+      <image:caption
+        >In the 50s and 60s, deep in the American countryside at the foot of the
+        Catskills, a small wooden house with a barn behind it was home to the
+        first clandestine network of cross-dressers. Diane and Kate are now 80
+        years old. At the time, they were men and part of this secret
+        organization. Today, they relate this forgotten but essential chapter of
+        the early days of trans-identity. It is a story full of noise and fury,
+        rich in extraordinary characters, including the famous Susanna, who had
+        the courage to create this refuge that came to be known as Casa
+        Susanna.</image:caption
+      >
+      <image:title>Casa Susanna</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931633-Come Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931633-Come Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5RsvjLZNvxPhl3k6eRd5F4r6cE3.jpg</image:loc
+      >
+      <image:caption
+        >During the holiday season, Angie, a pack's mother, gets stranded by a
+        blizzard and winds up backstage at the variety show studio. She then
+        gets a chance to connect with her family even if she can't physically
+        make it back to the house.</image:caption
+      >
+      <image:title>Come Home</image:title>
+    </image:image>
+  </url>
+</urlset>

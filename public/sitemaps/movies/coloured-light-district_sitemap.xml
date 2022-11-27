@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/876536-Coloured Light District</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/876536-Coloured Light District</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g3C3zXVRpJK5SHpKBiDdOcpj8Co.jpg</image:loc
+      >
+      <image:caption
+        >Derived from found super-8 footage of night-time cityscapes shot in
+        London and Berlin in the early 1970s, this once-silent amateur film of
+        lights and neon signs has been reorganized through editing,
+        superimposition and colour inversion, with Helliwell's soundtrack
+        combining electronics, computer sounds and short wave radio
+        signals.</image:caption
+      >
+      <image:title>Coloured Light District</image:title>
+    </image:image>
+  </url>
+</urlset>

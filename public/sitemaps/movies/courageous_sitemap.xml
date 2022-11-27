@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72213-Courageous</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72213-Courageous</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/CkwRzUmxvMZvkzzGE45nqLGTm8.jpg</image:loc
+      >
+      <image:caption
+        >Law enforcement officers Adam Mitchell, Nathan Hayes, and their
+        partners stand up to the worst the streets have to offer with confidence
+        and focus. Yet at the end of the day, they face a challenge that none of
+        them are truly prepared to tackle: fatherhood. They know that God
+        desires to turn the hearts of fathers to their children, but their
+        children are beginning to drift further and further away from them. When
+        tragedy hits home, these men are left wrestling with their hopes, their
+        fears, their faith, and their fathering. Can a newfound urgency help
+        these dads draw closer to God... and to their children?</image:caption
+      >
+      <image:title>Courageous</image:title>
+    </image:image>
+  </url>
+</urlset>

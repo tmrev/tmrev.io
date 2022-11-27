@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/7191-Cloverfield</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/7191-Cloverfield</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg</image:loc
+      >
+      <image:caption
+        >Five young New Yorkers throw their friend a going-away party the night
+        that a monster the size of a skyscraper descends upon the city. Told
+        from the point of view of their video camera, the film is a document of
+        their attempt to survive the most surreal, horrifying event of their
+        lives.</image:caption
+      >
+      <image:title>Cloverfield</image:title>
+    </image:image>
+  </url>
+</urlset>

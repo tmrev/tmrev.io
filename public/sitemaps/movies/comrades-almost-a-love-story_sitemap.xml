@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37185-Comrades, Almost a Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37185-Comrades, Almost a Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5zI3WI1qg5fuHxHVJNdGAo8Etr1.jpg</image:loc
+      >
+      <image:caption
+        >Jun arrives in Hong Kong from mainland China, hoping to be able to earn
+        enough money to marry his girlfriend back home. He meets the streetwise
+        Qiao and they become friends. As friendship turns into love, problems
+        develop, and although they seem meant for each other they somehow keep
+        missing out.</image:caption
+      >
+      <image:title>Comrades, Almost a Love Story</image:title>
+    </image:image>
+  </url>
+</urlset>

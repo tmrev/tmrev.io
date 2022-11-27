@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/837096-Burning Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/837096-Burning Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qyfXdcsi91SfyrvetWGZpHnltym.jpg</image:loc
+      >
+      <image:caption
+        >The film sketches the lives and tribulations of some of those kids the
+        college girl on summer break, the boys from the neighbouring province
+        who only want to do hip-hop and through them we get a real glimpse of
+        what makes Shanghai today a promising big city.</image:caption
+      >
+      <image:title>Burning Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

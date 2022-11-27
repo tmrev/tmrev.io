@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/109030-Corruption.Gov</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/109030-Corruption.Gov</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sivNgKgtf6Iob6Hypo94yPctEwJ.jpg</image:loc
+      >
+      <image:caption
+        >African exchange student, Stan Rohamba arrives in the U.S., excited to
+        be a part of the "model democratic system". While campaigning for a
+        powerful American senator, Stan uncovers a host of dishonest activity
+        leading directly back to his home country of Mombaire. His discoveries
+        could cost him his life</image:caption
+      >
+      <image:title>Corruption.Gov</image:title>
+    </image:image>
+  </url>
+</urlset>

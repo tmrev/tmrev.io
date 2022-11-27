@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456735-Cinema Twain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456735-Cinema Twain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/atgYsfIH9uGWre4cznTd456GN4A.jpg</image:loc
+      >
+      <image:caption
+        >Val Kilmer, master of reinvention, becomes Mark Twain, in a funny,
+        moving, contemporary and reflective performance, based on the life of
+        the man who was Samuel Clemens and on his writings as Mark Twain: his
+        thoughts on politics, his family, his faith and God… Twain shows the
+        greatness of his incomparable wit.</image:caption
+      >
+      <image:title>Cinema Twain</image:title>
+    </image:image>
+  </url>
+</urlset>

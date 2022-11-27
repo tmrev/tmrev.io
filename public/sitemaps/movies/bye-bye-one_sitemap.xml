@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/881537-Bye Bye One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/881537-Bye Bye One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3PBPVApaE0W5extahhuqzf8aXq2.jpg</image:loc
+      >
+      <image:caption
+        >"You can only see them when you close your eyes." But closing your eyes
+        does not quite replace the perception of the film, which however tries
+        to reproduce this phenomenon. Artist Billy Roisz says "I have always
+        been fascinated by the figures and structures that are imprinted by the
+        light under the eyelid."</image:caption
+      >
+      <image:title>Bye Bye One</image:title>
+    </image:image>
+  </url>
+</urlset>

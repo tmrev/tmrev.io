@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/129684-Cheese</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/129684-Cheese</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dvsCZw96byWMYHVJiOMFqjCdcv0.jpg</image:loc
+      >
+      <image:caption
+        >Rottenberg’s newest film, Cheese (2007), conflates farm-girl imagery
+        with the fairy tale “Rapunzel” into a story loosely based on the
+        Sutherland Sisters, renowned for their extremely long hair. Floating
+        through a pastoral yet mazelike setting of raw wooden debris cobbled
+        together into a benign shantytown, six longhaired women in flowing white
+        nightgowns “milk” their locks and the goats they live with to generate
+        cheese. Shots of animals crowded in pens and the sisters’ bunk bed–
+        cluttered room visually compare the women to their ruminant allies. As
+        nurturing caretakers, these women represent maternal aspects of Mother
+        Nature. Here Rottenberg investigates feminine magic, the ability to
+        “grow things out of the body” as she says, as the ultimate, wondrous
+        physical mystery.</image:caption
+      >
+      <image:title>Cheese</image:title>
+    </image:image>
+  </url>
+</urlset>

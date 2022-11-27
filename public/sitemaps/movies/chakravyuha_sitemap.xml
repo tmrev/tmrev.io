@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412075-Chakravyuha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412075-Chakravyuha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pgh7yGHIcz2YvnqHuvr5BJ3bibZ.jpg</image:loc
+      >
+      <image:caption
+        >A young man (Puneeth Rajkumar) finds himself in too deep after taking
+        an injured protester to a hospital.</image:caption
+      >
+      <image:title>Chakravyuha</image:title>
+    </image:image>
+  </url>
+</urlset>

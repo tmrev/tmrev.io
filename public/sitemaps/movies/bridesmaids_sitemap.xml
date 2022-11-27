@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55721-Bridesmaids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55721-Bridesmaids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cruSkSZJEmv9pbDoHBwdHdsnvHO.jpg</image:loc
+      >
+      <image:caption
+        >Annie's life is a mess. But when she finds out her lifetime best friend
+        is engaged, she simply must serve as Lillian's maid of honor. Though
+        lovelorn and broke, Annie bluffs her way through the expensive and
+        bizarre rituals. With one chance to get it perfect, she’ll show Lillian
+        and her bridesmaids just how far you’ll go for someone you
+        love.</image:caption
+      >
+      <image:title>Bridesmaids</image:title>
+    </image:image>
+  </url>
+</urlset>

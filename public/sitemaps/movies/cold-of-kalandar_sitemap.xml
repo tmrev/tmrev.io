@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400812-Cold of Kalandar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400812-Cold of Kalandar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nR4ZvUkVTS8jqvPexeu2LXDsIGZ.jpg</image:loc
+      >
+      <image:caption
+        >Mehmet is a man living with his family in a mountain village in the
+        Black Sea region. He earns his living by breeding a few animals, while
+        passionately looking for a mineral reserve on the mountains, but his
+        pursuit is seen useless by his family. Devastated by vain efforts, his
+        hope is renewed with a competition. Mehmet will attend the bull fight
+        held in Artvin, but he returns from Artvin completely lost, once again.
+        This simple story pictures the naive portrait of a touching life, a life
+        struggle in hardship and the relationship between nature, animals and
+        human beings.</image:caption
+      >
+      <image:title>Cold of Kalandar</image:title>
+    </image:image>
+  </url>
+</urlset>

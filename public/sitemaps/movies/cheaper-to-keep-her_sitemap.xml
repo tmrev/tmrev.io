@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82182-Cheaper to Keep Her</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82182-Cheaper to Keep Her</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jcEJ6Qev6bz2pFECkuOH3yhCxzU.jpg</image:loc
+      >
+      <image:caption
+        >Raymond Mays plans to improve his life by divorcing his wife, but the
+        strategy backfires when a judge awards her every dime of his net worth
+        -- and soon Raymond begins looking for other ways to dump her without
+        relinquishing all of his money.</image:caption
+      >
+      <image:title>Cheaper to Keep Her</image:title>
+    </image:image>
+  </url>
+</urlset>

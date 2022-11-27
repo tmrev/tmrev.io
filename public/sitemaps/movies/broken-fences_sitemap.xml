@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49262-Broken Fences</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49262-Broken Fences</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b6vvd405ccas4BtuUEvEwQ4TUYA.jpg</image:loc
+      >
+      <image:caption
+        >Joe, a rancher in the mountains of Colorado, has his life of solitude
+        interrupted when his luckless son gets paroled from prison and moves
+        back in with him, bringing his ill-fated ways along.</image:caption
+      >
+      <image:title>Broken Fences</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75181-Crazy n' the City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75181-Crazy n' the City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l3r7K14JVPL1rTYvJm5l2Yp2qhw.jpg</image:loc
+      >
+      <image:caption
+        >Tensions arise when Jack Chan, a spineless constable who regards his
+        work as a job but not a career, is partnered with an energetic and
+        conscientious policewoman, Man Liu. When a serial killer emerges in Hong
+        Kong, Man Liu swears to catch him. Jack is impressed by her bravery and
+        decides to secretly protect her.</image:caption
+      >
+      <image:title>Crazy n' the City</image:title>
+    </image:image>
+  </url>
+</urlset>

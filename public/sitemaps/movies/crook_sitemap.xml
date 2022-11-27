@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/225945-Crook</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/225945-Crook</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pXamJ0BbSF6bXlXoYqlgnil0F4K.jpg</image:loc
+      >
+      <image:caption
+        >Bryce has been a crook since he was a kid in the projects. After a
+        violent turn of events he's finally got a shot at the big time. Tony De
+        Luca, one of the biggest crime bosses in the city, is looking to have
+        Bryce get rid of a little problem: a man who can put him and many of his
+        associates away for a long time. Bryce however has problems of his own
+        when his latest dope shipment gets jacked and has to settle the matter,
+        one bullet at a time</image:caption
+      >
+      <image:title>Crook</image:title>
+    </image:image>
+  </url>
+</urlset>

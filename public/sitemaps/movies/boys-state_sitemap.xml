@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/653723-Boys State</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/653723-Boys State</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg</image:loc
+      >
+      <image:caption
+        >In an unusual experiment, a thousand 17-year-old boys from Texas join
+        together to build a representative government from the ground
+        up.</image:caption
+      >
+      <image:title>Boys State</image:title>
+    </image:image>
+  </url>
+</urlset>

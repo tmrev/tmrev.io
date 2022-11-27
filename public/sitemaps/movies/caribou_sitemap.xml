@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/504269-Caribou</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/504269-Caribou</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8EFLoETWOAGY9uUoj04gPh3JDvr.jpg</image:loc
+      >
+      <image:caption
+        >Caribou is an 11 minute science fiction experimental portrait of
+        Saskatchewan. Structurally it is a journey from the forests of northern
+        Saskatchewan to the Badlands in the south. It is the final part in a
+        series of North American landscape films and videos that I have been
+        shooting for the past few years. Caribou is essentially a video about
+        mortality, death, decay, notions of beauty, and a respect for the
+        natural world. It is grounded in the detail of our surroundings, and the
+        beauty that resonates from these hidden places.</image:caption
+      >
+      <image:title>Caribou</image:title>
+    </image:image>
+  </url>
+</urlset>

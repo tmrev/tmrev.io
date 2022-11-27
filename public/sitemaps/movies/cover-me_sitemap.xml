@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/730337-Cover Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/730337-Cover Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oRl9OFdPzyMuus7E7tgno3JdJaZ.jpg</image:loc
+      >
+      <image:caption
+        >Mia Stone is faced with an eerie supernatural opportunity when a
+        strange encounter with an eccentric man gives her a second chance at
+        saving her company, marriage, family, and future.</image:caption
+      >
+      <image:title>Cover Me</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1016431-Crimson Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1016431-Crimson Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sUvg4XxnYGd3qZAPkht9tcU4H5u.jpg</image:loc
+      >
+      <image:caption
+        >After serving 20 years in prison for the murder of his daughter, a
+        crime for which he was wrongly imprisoned, Frank returns to his
+        backwoods hometown. Old wounds and rumors of the past resurface and
+        haunt him as he tries to find out who really killed her.</image:caption
+      >
+      <image:title>Crimson Point</image:title>
+    </image:image>
+  </url>
+</urlset>

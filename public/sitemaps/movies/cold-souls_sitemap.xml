@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30250-Cold Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30250-Cold Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4ejJjTwoEqIKiZJOyPaHlTJh2jL.jpg</image:loc
+      >
+      <image:caption
+        >Paul is agonising over his interpretation of 'Uncle Vanya' and,
+        paralysed by anxiety, stumbles upon a solution via a New Yorker article
+        about a high-tech company promising to alleviate suffering by extracting
+        souls. He enlists their services—only to discover that his soul is the
+        shape and size of a chickpea.</image:caption
+      >
+      <image:title>Cold Souls</image:title>
+    </image:image>
+  </url>
+</urlset>

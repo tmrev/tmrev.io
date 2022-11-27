@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/741845-Colette</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/741845-Colette</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lkMwjLzKBkhivbjH1af1ZRlNydX.jpg</image:loc
+      >
+      <image:caption
+        >World War II. Not all warriors wore uniforms. Not all warriors were
+        men. Meet ninety-year-old Colette Catherine who, as a young girl, fought
+        the Nazis as a member of the French Resistance. Now she’s about to
+        re-open old wounds, re-visting the terrors of that time. Some nightmares
+        are too terrible to remember. But also, too dangerous to
+        forget.</image:caption
+      >
+      <image:title>Colette</image:title>
+    </image:image>
+  </url>
+</urlset>

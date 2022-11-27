@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565515-Camp Twilight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565515-Camp Twilight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uBkoCCX8dYA6moMyxq0F7qucdbf.jpg</image:loc
+      >
+      <image:caption
+        >After discovering they are at risk of failing to graduate, six students
+        agree to a weekend camping trip for extra credit. Lead by their
+        teachers, Ms. Bloom and Mr. Warner, the students arrive at Camp Twilight
+        and discover its past. The park has a dangerous and notorious history
+        and the students soon discover these stories are more than just urban
+        legends. After a series of "accidents," the remaining group discovers
+        they are being hunted and must stick together to survive.</image:caption
+      >
+      <image:title>Camp Twilight</image:title>
+    </image:image>
+  </url>
+</urlset>

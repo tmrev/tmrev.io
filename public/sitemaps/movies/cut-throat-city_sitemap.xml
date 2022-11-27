@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/493065-Cut Throat City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/493065-Cut Throat City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9702nIZf5EVxS3FrzycamQUlSjw.jpg</image:loc
+      >
+      <image:caption
+        >Four boyhood friends return to New Orleans’ Lower Ninth Ward after
+        Hurricane Katrina, to find their home decimated and prospects for work
+        swept away. Turning to a local gangster for employment, the crew is
+        hired to pull off a daring casino heist, right in the heart of the
+        city.</image:caption
+      >
+      <image:title>Cut Throat City</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/506469-Chaos and Cadavers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/506469-Chaos and Cadavers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m4YOiPg9lrKZSlDtxRdYgt10htC.jpg</image:loc
+      >
+      <image:caption
+        >Two young newlyweds, geeky Edward and innocent but alluring Samantha,
+        turn up at a majestic and remote country house hotel for their
+        honeymoon, which has been taken over by the high-spirited members of an
+        Undertakers' Annual Convention. Their attempts at romance are quickly
+        dampened as they become helplessly embroiled in an intriguing whodunit
+        when the Head of the Funeral Directors' Association dies under bizarre
+        circumstances.</image:caption
+      >
+      <image:title>Chaos and Cadavers</image:title>
+    </image:image>
+  </url>
+</urlset>

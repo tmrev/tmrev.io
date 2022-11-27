@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/166792-Burnt Toast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/166792-Burnt Toast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nFNhqpP6tj3BtJlVad3fNETZUym.jpg</image:loc
+      >
+      <image:caption
+        >An irreverent and hilarious spin on opera, domestic drama and the
+        hallowed institutions of love and marriage, Burnt Toast is an hour-long
+        television opera comprised of a series of eight comic operas each
+        depicting a different stage of romantic love. The relationships depicted
+        run the gamut: from the passionate to the fantasized, the bored and of
+        course the dead relationship, each as recognizable as the
+        last.</image:caption
+      >
+      <image:title>Burnt Toast</image:title>
+    </image:image>
+  </url>
+</urlset>

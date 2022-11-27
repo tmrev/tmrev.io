@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45053-Comme ton père</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45053-Comme ton père</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nZfw74xswcjf8xno3GrusRdkAq8.jpg</image:loc
+      >
+      <image:caption
+        >1968. La famille Maïmon : Félix, Mireille et leurs deux enfants, Eric
+        et Michel, débarquent à Marseille. Quelques années plus tard, à peine
+        installé à Belleville, Félix fait la connaissance de Serge, un parrain
+        local avec qui il se lie d'amitié. Serge entraîne Félix sur les chemins
+        du grand banditisme, jusqu'à ce que celui-ci se fasse prendre par la
+        police et décide d'endosser, à la place de Serge, la responsabilité de
+        chef de bande.</image:caption
+      >
+      <image:title>Comme ton père</image:title>
+    </image:image>
+  </url>
+</urlset>

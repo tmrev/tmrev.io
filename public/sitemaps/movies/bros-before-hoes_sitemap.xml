@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365966-Bros Before Hoes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365966-Bros Before Hoes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jNFX88tLvFzvFr1AGq3R9AC5Cpy.jpg</image:loc
+      >
+      <image:caption
+        >Two brothers are having a concert but one of them falls in love with a
+        girl, now it's going to be hard for the two to work
+        together.</image:caption
+      >
+      <image:title>Bros Before Hoes</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309539-Callas Assoluta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309539-Callas Assoluta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vnbUM5d53WeCtLx3z4QEMPqqlqx.jpg</image:loc
+      >
+      <image:caption
+        >This revealing documentary from director Philippe Kohly examines the
+        storied life of renowned soprano Maria Callas, from her troubled
+        childhood in New York City to her scandal-laden but triumphant
+        international career in opera. Featuring archival interviews with Callas
+        herself and footage of contemporaries such as her lover Aristotle
+        Onassis, this celebration of "La Divina" pays tribute to her enduring
+        legacy some three decades after her death.</image:caption
+      >
+      <image:title>Callas Assoluta</image:title>
+    </image:image>
+  </url>
+</urlset>

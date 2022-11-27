@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589176-Concrete Kids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589176-Concrete Kids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ieh2PQw7NXVbvgdem887OepoaYp.jpg</image:loc
+      >
+      <image:caption
+        >Two nine-year-old boys from sunny Venice California set off on a
+        mission to cross Los Angeles on skateboards at night in an attempt to
+        reach the Staples Center by 8am the next morning for a survival
+        contest.</image:caption
+      >
+      <image:title>Concrete Kids</image:title>
+    </image:image>
+  </url>
+</urlset>

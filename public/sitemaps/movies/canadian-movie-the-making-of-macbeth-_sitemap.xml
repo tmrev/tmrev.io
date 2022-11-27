@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/876646-Canadian Movie: The Making of Macbeth
+      3000</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/876646-Canadian Movie: The Making of Macbeth
+      3000</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Behind the scenes documentary about the making of Macbeth 3000: This
+        time, it's personal. The cast and crew share the story of how a group of
+        teenagers from suburban Canada were able to produce a full length
+        action-comedy Shakespeare/James Bond hybrid to life, up to the world
+        premiere in at Toronto's Bloor Cinema in 2005.</image:caption
+      >
+      <image:title>Canadian Movie: The Making of Macbeth 3000</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416154-CarousHELL</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416154-CarousHELL</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aZX6GrG1QccF5cICoPYSZx0U5Vb.jpg</image:loc
+      >
+      <image:caption
+        >Duke hates his job. He has to let kids climb on his back and ride him
+        for hours every single day. But one brat finally pushed him too far.
+        Duke has broken free of his ride and is on a bloody rampage of revenge.
+        He's going to murder that kid and anyone that gets in his
+        way.</image:caption
+      >
+      <image:title>CarousHELL</image:title>
+    </image:image>
+  </url>
+</urlset>

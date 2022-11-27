@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29151-Brief Interviews with Hideous Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29151-Brief Interviews with Hideous Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zCPz6WJLs4WAHcLnwbHfkiO578O.jpg</image:loc
+      >
+      <image:caption
+        >After her boyfriend mysteriously leaves her with little explanation, a
+        doctoral candidate in anthropology at a prestigious East Coast
+        university Sara Quinn is left looking for answers as to what went
+        wrong.</image:caption
+      >
+      <image:title>Brief Interviews with Hideous Men</image:title>
+    </image:image>
+  </url>
+</urlset>

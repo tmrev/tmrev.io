@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160788-Color of the Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160788-Color of the Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4GFfhGTywfnh2NnRYFOQevJYpuV.jpg</image:loc
+      >
+      <image:caption
+        >After years working as a border patrolman, José has developed a salty
+        crust of cynicism about his work, which places him in a position to
+        decide the fates of many. José's weary attitude is put to the test when
+        he encounters Nathalie, a German tourist assisting a boatload of
+        refugees she discovered landing on the Canary shores. One of those
+        people, a Congolese man named Zola, is placed in an internment camp.
+        Much to the objections of her husband Paul, Nathalie tries to help him
+        escape. Yet Zola and his son Mamadou eventually find themselves in yet
+        another precarious situation, in which they are dependent on nefarious
+        smugglers.</image:caption
+      >
+      <image:title>Color of the Ocean</image:title>
+    </image:image>
+  </url>
+</urlset>

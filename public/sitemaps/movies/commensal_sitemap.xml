@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472678-Commensal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472678-Commensal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A two-channel installation utilizing both digital video and 16mm film,
+        Commensal focuses on the controversial figure of Issei Sagawa, who
+        gained notoriety in 1981 when, as a graduate student in Paris, he
+        murdered a fellow student and engaged in acts of cannibalism. After his
+        release from a mental institution, Sagawa returned to Japan, and later
+        appeared in innumerable documentaries and sexploitation films. In
+        contrast to earlier journalistic documentaries on Sagawa, the film
+        suspends moral judgment and explores a realm that eludes classification
+        as either “documentary” or “pure fiction,” to instead chart the
+        ambiguous territory between crime, fantasy, and social realities,
+        between an individual and the economy of his public
+        persona.</image:caption
+      >
+      <image:title>Commensal</image:title>
+    </image:image>
+  </url>
+</urlset>

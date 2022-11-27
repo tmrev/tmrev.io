@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/979905-Chinese Restaurants: Song of the Exile</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/979905-Chinese Restaurants: Song of the Exile</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ijrgzpxeUJ0SK65BnjUTf5B2ixg.jpg</image:loc
+      >
+      <image:caption
+        >Song of the Exile, based on the 15-part documentary series Chinese
+        Restaurants, tells the story of the Chinese diaspora through its most
+        recognizable and enduring icon - the family-run Chinese restaurant.
+        Filmmaker Cheuk Kwan takes us on a tour of restaurants in Israel, South
+        Africa and Turkey, bringing us into the lives of three extraordinary
+        families as they share moving stories of struggle, courage, displacement
+        and belonging, and what it means to be "Chinese" today.</image:caption
+      >
+      <image:title>Chinese Restaurants: Song of the Exile</image:title>
+    </image:image>
+  </url>
+</urlset>

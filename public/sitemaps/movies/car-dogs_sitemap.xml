@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459427-Car Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459427-Car Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iM1BTeTRoR6ZFzLrF8B648gPVD9.jpg</image:loc
+      >
+      <image:caption
+        >Malcolm is a brilliant, callous businessman who is a vicious,
+        overbearing father. Mark is the sales manager at Chamberlain Auto, the
+        dealership that promises to do "Whatever It Takes" to put you in a new
+        car. But on a scorching hot Saturday in the middle of the Phoenix
+        summer, Mark has a chance to get his own dealership - and out from under
+        the thumb of his father. Mark has to sell thirty-five cars by the end of
+        the day. The question: Will Mark do whatever it takes - including
+        betraying his sales team and himself - to get what he
+        wants?</image:caption
+      >
+      <image:title>Car Dogs</image:title>
+    </image:image>
+  </url>
+</urlset>

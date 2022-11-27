@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913692-Cora</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913692-Cora</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nMOeeIfa7MltnlInwlOKzgDQOnr.jpg</image:loc
+      >
+      <image:caption
+        >2064. Cora, a Danish woman, finds an unfinished documentary in which
+        Benjamim, her Brazilian father, attempted - fifty years earlier - to
+        investigate the story of his own parents: Teo, who, afflicted by
+        insanity, died when he was still a child, and Elenir, a mysterious woman
+        he’d barely heard of. In the course of his investigation, Benjamim
+        discovers that both characters are part of a complex family puzzle,
+        filled with traumas and taboos, and starts seeing himself as an
+        important piece in the puzzle. The footage found in Benjamim’s
+        documentary is reorganized by his daughter, Cora, in an attempt to
+        understand her family’s lost past.</image:caption
+      >
+      <image:title>Cora</image:title>
+    </image:image>
+  </url>
+</urlset>

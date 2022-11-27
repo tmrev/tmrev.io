@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36557-Casino Royale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36557-Casino Royale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg</image:loc
+      >
+      <image:caption
+        >Le Chiffre, a banker to the world's terrorists, is scheduled to
+        participate in a high-stakes poker game in Montenegro, where he intends
+        to use his winnings to establish his financial grip on the terrorist
+        market. M sends Bond—on his maiden mission as a 00 Agent—to attend this
+        game and prevent Le Chiffre from winning. With the help of Vesper Lynd
+        and Felix Leiter, Bond enters the most important poker game in his
+        already dangerous career.</image:caption
+      >
+      <image:title>Casino Royale</image:title>
+    </image:image>
+  </url>
+</urlset>

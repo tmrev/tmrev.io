@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25740-Buy the Ticket, Take the Ride</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25740-Buy the Ticket, Take the Ride</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dukyy6xTpX5Kmuq69qDf8cNzdm1.jpg</image:loc
+      >
+      <image:caption
+        >A personal, intimate look at journalist Hunter S. Thompson with a
+        special emphasis on his Hollywood relationships. It captures the legacy
+        and "gonzo" spirit of one of this century's most notorious figures - a
+        man whose life and work regularly intersected with some of the biggest
+        names in the world of film, politics, journalism and
+        sports.</image:caption
+      >
+      <image:title>Buy the Ticket, Take the Ride</image:title>
+    </image:image>
+  </url>
+</urlset>

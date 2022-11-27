@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41785-Cabeza de Vaca</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41785-Cabeza de Vaca</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qFuH7zyH5H5ihSRcUktky8w9pjM.jpg</image:loc
+      >
+      <image:caption
+        >An international award winning saga of old Mexico. In 1528, a Spanish
+        expedition flounders off the coast of Florida with 600 lives lost. One
+        survivor, Alvar Nunez Cabeza de Vaca, roams across the American
+        continent searching for his Spanish comrades. Instead, he discovers the
+        Iguase, an ancient Indian tribe. Over the next eight years, Cabeza de
+        Vaca learns their mystical and mysterious culture, becoming a healer and
+        a leader. But soon this New World collides with the Old World as Spanish
+        conquistadors seek to enslave the Indians, and Cabeza de Vaca must
+        confront his own people and his past.</image:caption
+      >
+      <image:title>Cabeza de Vaca</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35257-Christmas Carol: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35257-Christmas Carol: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/38NCcPC1zJ6hzQYvzPor5uguvDs.jpg</image:loc
+      >
+      <image:caption
+        >Animated version of the classic Charles Dickins story. Warned by the
+        ghost of his old business partner Marley that his sins would lead to
+        punishment in the afterlife, the cruel and greedy Scrooge is visited by
+        the Ghosts of Christmas Past, Present and Future to show him how the
+        course of his life led him to where he is - and where it will lead if he
+        doesn't change his ways.</image:caption
+      >
+      <image:title>Christmas Carol: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

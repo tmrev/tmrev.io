@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/874695-Cheques, Lies and Videotape</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/874695-Cheques, Lies and Videotape</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The documentary follows the development of releasing Doctor Who
+        episodes on VHS, with several people who grew up obtaining VHS and how
+        they all felt about retrieving Doctor Who episodes, including purchasing
+        them for ridiculous prices on the "black market."</image:caption
+      >
+      <image:title>Cheques, Lies and Videotape</image:title>
+    </image:image>
+  </url>
+</urlset>

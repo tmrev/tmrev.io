@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134270-Charge!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134270-Charge!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKAwtjwgpGjulVgOlljpGBWxu9Q.jpg</image:loc
+      >
+      <image:caption
+        >Two friends with very different personalities decide to write a script
+        for a movie. Their discussions and confrontations are constant, but the
+        story slowly takes shape around a poor family that has a small car
+        repair business. Times are hard and will have to fight to prevent a
+        multinational tear down the garage.</image:caption
+      >
+      <image:title>Charge!</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62773-Chelyusti</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62773-Chelyusti</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Частный детектив Иваниди (Cемён Фурман) приглашён на поиски пропавших
+        киноматериалов. Он начинает проводить допросы с пристрастием, используя
+        при этом разные способы давления, чем повергает всех в шок.
+        Расследование заходит в тупик, что не удивительно, ведь "частный
+        детектив" не кто иной, как сбежавший из психиатрической клиники
+        шизофреник.</image:caption
+      >
+      <image:title>Chelyusti</image:title>
+    </image:image>
+  </url>
+</urlset>

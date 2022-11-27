@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/414958-Couch Survivor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/414958-Couch Survivor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wp8NU4ZsLP9pRpIcUm7q3xgcWXd.jpg</image:loc
+      >
+      <image:caption
+        >Seven contestants are brought on to a reality show where their
+        objective is to see who can sit on a couch for the longest time without
+        getting up.</image:caption
+      >
+      <image:title>Couch Survivor</image:title>
+    </image:image>
+  </url>
+</urlset>

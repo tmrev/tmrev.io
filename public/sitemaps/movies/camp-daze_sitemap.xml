@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97622-Camp Daze</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97622-Camp Daze</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g4RrqxO4PxHYrlzGaznUznSUyrO.jpg</image:loc
+      >
+      <image:caption
+        >While searching for a way out of the woods, a group of lost friends
+        stumble upon Camp Hiawatha and take up with the teens who are bunking
+        there. But the party's over when they discover that this camp is
+        literally stuck in a time warp -- 1981, to be exact -- and that they're
+        living the same horrible day over and over. Can they escape the wrath of
+        a killer who's silently stalking the campers and their terrified
+        counselors?</image:caption
+      >
+      <image:title>Camp Daze</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410562-Chennai 600028 II: Second Innings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410562-Chennai 600028 II: Second Innings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vSlBmLzEne3kGNZTPnZZCGZvKBC.jpg</image:loc
+      >
+      <image:caption
+        >The Chennai Sharks XI team goes to Theni for the marriage of their
+        teammate Ragu, and get into a tiff with the local team that becomes a
+        threat to the wedding.</image:caption
+      >
+      <image:title>Chennai 600028 II: Second Innings</image:title>
+    </image:image>
+  </url>
+</urlset>

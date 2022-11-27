@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51857-Cría cuervos…</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51857-Cría cuervos…</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/diJx8NUTPoFOHwbhXEeHOsjVxLL.jpg</image:loc
+      >
+      <image:caption
+        >In Carlos Saura’s exquisite Cría cuervos…, Ana Torrent portrays the
+        disturbed eight-year-old Ana, living in Madrid with her two sisters and
+        mourning the death of her mother, whom she conjures as a ghost (an
+        ethereal Geraldine Chaplin).</image:caption
+      >
+      <image:title>Cría cuervos…</image:title>
+    </image:image>
+  </url>
+</urlset>

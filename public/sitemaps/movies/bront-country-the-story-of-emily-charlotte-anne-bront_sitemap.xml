@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1028337-Brontë Country: The Story of Emily,
+      Charlotte & Anne Brontë</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1028337-Brontë Country: The Story of Emily,
+      Charlotte & Anne Brontë</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hl55ynUP6Scb2WxAEwqaRn2V46j.jpg</image:loc
+      >
+      <image:caption
+        >Travel back to Victorian Britain and wander the cobbled streets of
+        Haworth to the sites that inspired the great Brontë sisters’ classic
+        novels.</image:caption
+      >
+      <image:title
+        >Brontë Country: The Story of Emily, Charlotte & Anne
+        Brontë</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

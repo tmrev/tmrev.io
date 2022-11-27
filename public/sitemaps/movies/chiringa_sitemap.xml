@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416267-Chiringa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416267-Chiringa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story of three children who try to fly a kite, but lose it in a
+        cemetery. There, they encounter Pedro Albizu Campos, who helps them in
+        their quest, while analyzing the situation as a metaphor for the
+        existing political division in the country.</image:caption
+      >
+      <image:title>Chiringa</image:title>
+    </image:image>
+  </url>
+</urlset>

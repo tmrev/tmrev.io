@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607262-Continental Drift</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607262-Continental Drift</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wGkGBBL2KORrz5U2UFFMUM5CPto.jpg</image:loc
+      >
+      <image:caption
+        >A land and sea-scape film drawn from rich sources of imagery: the
+        constantly changing mood of the sea to the distinctly different
+        shorelines of Kent and the Pas de Calais – twenty-one miles of water
+        that define both the “island race” and English hostility towards a wider
+        integration within Europe.</image:caption
+      >
+      <image:title>Continental Drift</image:title>
+    </image:image>
+  </url>
+</urlset>

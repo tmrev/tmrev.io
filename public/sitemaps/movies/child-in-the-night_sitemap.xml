@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136946-Child in the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136946-Child in the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/40IFGw9V2d7UAwdsT5NP4ubp33H.jpg</image:loc
+      >
+      <image:caption
+        >A child psychologist, Hollis who's marriage collapsed after she learned
+        she was barren, bonds with Luke Winfield, who witnessed his father's
+        murder at the hands of rain-slicker wearing killer with a cargo hook.
+        Along the way she befriends Detective Bass as he investigates a series
+        of homicides, each with the same M.O. As Hollis gets closer to Luke she
+        discovers some trouble family secrets ensuring she is next to be
+        slain.</image:caption
+      >
+      <image:title>Child in the Night</image:title>
+    </image:image>
+  </url>
+</urlset>

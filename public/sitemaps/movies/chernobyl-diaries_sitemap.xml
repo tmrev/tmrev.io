@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/93856-Chernobyl Diaries</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/93856-Chernobyl Diaries</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9AKhThGA8IATBy3gR7I4dw9SEc4.jpg</image:loc
+      >
+      <image:caption
+        >A group of six tourists looking to go off the beaten path, hire an
+        'extreme tour guide' who, ignoring warnings, takes them into the city of
+        Pripyat, the former home to the workers of the Chernobyl nuclear
+        reactor, but now a deserted town since the disaster more than 25 years
+        earlier. After a brief exploration of the abandoned city, the group
+        members find themselves stranded, only to discover that they are not
+        alone.</image:caption
+      >
+      <image:title>Chernobyl Diaries</image:title>
+    </image:image>
+  </url>
+</urlset>

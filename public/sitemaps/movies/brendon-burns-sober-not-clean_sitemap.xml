@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57422-Brendon Burns: Sober Not Clean</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57422-Brendon Burns: Sober Not Clean</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nJ6Frur06Fivn084o2VZCIGgqTg.jpg</image:loc
+      >
+      <image:caption
+        >Controversial comedian Brendon Burns performs his critically acclaimed
+        stand-up show SOBER NOT CLEAN.</image:caption
+      >
+      <image:title>Brendon Burns: Sober Not Clean</image:title>
+    </image:image>
+  </url>
+</urlset>

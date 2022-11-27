@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547964-Cardboard Only</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547964-Cardboard Only</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/keOZbbq2OQWRtlrcuh0YZ8y7rdB.jpg</image:loc
+      >
+      <image:caption
+        >A seven-year-old Idaho farm boy struggles to escape boredom while
+        wearing a cardboard box over his head.</image:caption
+      >
+      <image:title>Cardboard Only</image:title>
+    </image:image>
+  </url>
+</urlset>

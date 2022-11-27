@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/718710-Cerro de la cruz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/718710-Cerro de la cruz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4n9YQ0YGo6V8Q7d9Wj4TjG1FMBL.jpg</image:loc
+      >
+      <image:caption
+        >A young revolutionary on the verge of death finds himself trapped in
+        his desires for love. His feelings in the midst of war are clarified
+        when he discovers that he wants to love and be loved by another man.
+        This short film questions the notions of hatred that arise in homophobic
+        coexistence.</image:caption
+      >
+      <image:title>Cerro de la cruz</image:title>
+    </image:image>
+  </url>
+</urlset>

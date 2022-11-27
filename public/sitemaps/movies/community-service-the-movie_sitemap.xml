@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252567-Community Service the Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252567-Community Service the Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Community Service the Movie is about a young boy, Billy, who had a
+        rough childhood and ends up being committed to a psychiatric center.
+        Roughly 20 years later, Billy discovers that one of his old childhood
+        tormentors is now in charge of running community service program, which
+        is taking place at a campground a few miles away from the psychiatric
+        center. When Billy escapes from the institution, eight troubled teens
+        are in for more than just a weekend of Community Service.</image:caption
+      >
+      <image:title>Community Service the Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

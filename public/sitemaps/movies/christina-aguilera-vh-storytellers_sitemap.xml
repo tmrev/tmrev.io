@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/135331-Christina Aguilera: VH1 Storytellers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/135331-Christina Aguilera: VH1 Storytellers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/scp7bmQ5tgZdGIFnFYgXGhCguoi.jpg</image:loc
+      >
+      <image:caption
+        >In this special, VH1 Storytellers featured the one and only Christina
+        Aguilera in which she performed a mini-concert for fans.</image:caption
+      >
+      <image:title>Christina Aguilera: VH1 Storytellers</image:title>
+    </image:image>
+  </url>
+</urlset>

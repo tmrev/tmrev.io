@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/315112-Bright Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/315112-Bright Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/FLfQCIGABrqj0rXKuE9kRlLizD.jpg</image:loc
+      >
+      <image:caption
+        >A drama with a supernatural edge, this genre-crossing gem finds two
+        couples visiting a home from their past, and sexual tension that brings
+        out the worst in each other. Long-buried grudges resurface and it seems
+        unlikely the couples will return intact. Faced with an outcome that will
+        upset their delicate balance of happiness, the world offers them a
+        bizarre opportunity to correct it.</image:caption
+      >
+      <image:title>Bright Night</image:title>
+    </image:image>
+  </url>
+</urlset>

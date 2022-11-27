@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6282-Coyote Ugly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6282-Coyote Ugly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg</image:loc
+      >
+      <image:caption
+        >Graced with a velvet voice, 21-year-old Violet Sanford heads to New
+        York to pursue her dream of becoming a songwriter only to find her
+        aspirations sidelined by the accolades and notoriety she receives at her
+        "day" job as a barmaid at Coyote Ugly. The "Coyotes" as they are
+        affectionately called tantalize customers and the media alike with their
+        outrageous antics, making Coyote Ugly the watering hole for guys on the
+        prowl.</image:caption
+      >
+      <image:title>Coyote Ugly</image:title>
+    </image:image>
+  </url>
+</urlset>

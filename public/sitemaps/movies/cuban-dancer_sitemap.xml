@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/805343-Cuban Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/805343-Cuban Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vvZxAFLeQGkrB3No9YowxbOV0R3.jpg</image:loc
+      >
+      <image:caption
+        >﻿Alexis, a talented and proud student of the National Ballet School of
+        Cuba, spends his life practicing chassé and entrechats with his
+        girlfriend and dance partner Yelenia. However, when his family moves to
+        Florida to be reunited with his sister, he must adjust his expectations
+        and dreams to a radically new environment. Alexis, facing rejection and
+        homesick for his native Cuba, feels lost and alone. He must find his way
+        in the world of American ballet while remaining faithful to his
+        roots.</image:caption
+      >
+      <image:title>Cuban Dancer</image:title>
+    </image:image>
+  </url>
+</urlset>

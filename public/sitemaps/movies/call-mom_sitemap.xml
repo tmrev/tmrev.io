@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637865-Call Mom!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637865-Call Mom!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kC4EZmMi6KQCAySv5Jxh8eKbwse.jpg</image:loc
+      >
+      <image:caption
+        >Parents wait all their lives for their children to say "Thank you!" And
+        the children in turn wait for a "Sorry!". This impossible equation is
+        the starting point in the comedy "Call Mom!" Niki has just turned 35 and
+        has to suddenly grasp all the life choices and relationships she dug
+        for.</image:caption
+      >
+      <image:title>Call Mom!</image:title>
+    </image:image>
+  </url>
+</urlset>

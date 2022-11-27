@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/330424-Chennai Ungalai Anbudan Varaverkiradhu</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/330424-Chennai Ungalai Anbudan Varaverkiradhu</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rbfvnVH9uwK2S9Bv1CCfanTxUtZ.jpg</image:loc
+      >
+      <image:caption
+        >Three bachelors, who have come to Chennai to make a living, realize
+        that life in a metro is fraught with difficulties, both external and
+        self-inflicted.</image:caption
+      >
+      <image:title>Chennai Ungalai Anbudan Varaverkiradhu</image:title>
+    </image:image>
+  </url>
+</urlset>

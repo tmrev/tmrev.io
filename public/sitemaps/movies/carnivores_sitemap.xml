@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467679-Carnivores</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467679-Carnivores</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ts2sEBgMhNRjo6aj6si6j97DOmx.jpg</image:loc
+      >
+      <image:caption
+        >At the dawn of her thirties, Mona tries relentlessly to take off as an
+        actress. Time passes and proposals do not arrive. Short of resources,
+        she is forced to move to Sam, her younger sister.</image:caption
+      >
+      <image:title>Carnivores</image:title>
+    </image:image>
+  </url>
+</urlset>

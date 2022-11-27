@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/381401-Calculating Ada: The Countess of
+      Computing</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/381401-Calculating Ada: The Countess of
+      Computing</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9RecfdBsPqugrvLUgtFUueXzUDl.jpg</image:loc
+      >
+      <image:caption
+        >Ada Lovelace was a most unlikely computer pioneer. In this film, Dr
+        Hannah Fry tells the story of Ada's remarkable life. Born in the early
+        19th century, Ada was a countess of the realm, a scandalous socialite
+        and an 'enchantress of numbers'. The film is an enthralling tale of how
+        a life infused with brilliance, but blighted by illness and gambling
+        addiction, helped give rise to the modern era of
+        computing.</image:caption
+      >
+      <image:title>Calculating Ada: The Countess of Computing</image:title>
+    </image:image>
+  </url>
+</urlset>

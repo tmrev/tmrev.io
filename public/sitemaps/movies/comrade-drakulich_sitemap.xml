@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/619925-Comrade Drakulich</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/619925-Comrade Drakulich</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2mPmrgWpWBjxwdYl0G38Swi21ks.jpg</image:loc
+      >
+      <image:caption
+        >Vampires are among us! But no need to worry: the Hungarian Secret
+        Police are after them, and beyond the usual spy gadgets, they even use
+        garlic to repel the beasts.</image:caption
+      >
+      <image:title>Comrade Drakulich</image:title>
+    </image:image>
+  </url>
+</urlset>

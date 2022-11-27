@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44490-Chuck & Buck</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44490-Chuck & Buck</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1WhN17BjEMc3qfKmJvYypYXE86G.jpg</image:loc
+      >
+      <image:caption
+        >A 27-year-old amateur playwright with the maturity level of an
+        adolescent reconnects with a childhood friend, and then proceeds to
+        follow him back to Los Angeles and stalk him.</image:caption
+      >
+      <image:title>Chuck & Buck</image:title>
+    </image:image>
+  </url>
+</urlset>

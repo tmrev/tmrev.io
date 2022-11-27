@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/874226-Christmas in Tahoe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/874226-Christmas in Tahoe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oTqpT4yqo2uXr7CSYDWHTiIOe6c.jpg</image:loc
+      >
+      <image:caption
+        >To save her family hotel's Christmas show, talent booker Claire must
+        ask for help from her ex-boyfriend Ryan, the lead guitarist of a
+        now-famous band that fired her as their manager years
+        ago.</image:caption
+      >
+      <image:title>Christmas in Tahoe</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/331803-Collapse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/331803-Collapse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Instability and fear in today's society is portrayed by incorporating
+        the directors' personal story in this experimental piece. The film
+        continually questions and reasons through the images and sounds of both
+        the directors' personal accounts as well as actual records of Korean
+        society.</image:caption
+      >
+      <image:title>Collapse</image:title>
+    </image:image>
+  </url>
+</urlset>

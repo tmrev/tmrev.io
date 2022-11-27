@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425980-Brad's Status</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425980-Brad's Status</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uXiNpvig7EMq18VyNBUTlWrmN0q.jpg</image:loc
+      >
+      <image:caption
+        >Although Brad has a satisfying career, a sweet wife and a comfortable
+        life in suburban Sacramento, things aren't quite what he imagined during
+        his college glory days. When he accompanies his musical prodigy son on a
+        university tour, he can't help comparing his life with those of his four
+        best college friends who seemingly have more wealthy and glamorous
+        lives. But when circumstances force him to reconnect with his former
+        friends, Brad begins to question whether he has really failed or if
+        their lives are actually more flawed than they appear.</image:caption
+      >
+      <image:title>Brad's Status</image:title>
+    </image:image>
+  </url>
+</urlset>

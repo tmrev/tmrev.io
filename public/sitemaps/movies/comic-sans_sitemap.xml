@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/506509-Comic Sans</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/506509-Comic Sans</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8FgbqBphTu8QUOBC11o1Xyt9IRv.jpg</image:loc
+      >
+      <image:caption
+        >A young and successful copywriter Alan Despot, after trying in vain to
+        renew a broken relationship with his girlfriend, goes to the island of
+        Vis and finds himself torn between his eccentric father, another
+        ex-girlfriend and her fiancé. New situations and circumstances help Alan
+        to view his own life from a new perspective.</image:caption
+      >
+      <image:title>Comic Sans</image:title>
+    </image:image>
+  </url>
+</urlset>

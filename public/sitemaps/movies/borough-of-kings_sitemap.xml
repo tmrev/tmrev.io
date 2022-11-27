@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160306-Borough of Kings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160306-Borough of Kings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zMOx4vgxAlc9JeAIO61DCs4yTrp.jpg</image:loc
+      >
+      <image:caption
+        >Toil and trouble. Jimmy, an aspiring actor, wants out of South Brooklyn
+        where hoods run the show. Since the death of his firefighter father,
+        Jimmy's family has been the guys at the station house and Tommy, a
+        mobster who owns a gym where Jimmy works. Tommy encourages Jimmy's
+        dreams, and Jimmy gets the part of Banquo in a Joseph Papps production
+        of "Macbeth." He goes to tell Tommy the good news and walks in on a mob
+        hit. Tommy protects him temporarily from Nunzio, a murderous Mamaluc,
+        but soon the cops get word Jimmy knows something. Can Jimmy succeed as
+        an actor, be a stand up guy for Tommy, avoid Nunzio, and get closer to
+        Anna, a woman he falls for at the theater?</image:caption
+      >
+      <image:title>Borough of Kings</image:title>
+    </image:image>
+  </url>
+</urlset>

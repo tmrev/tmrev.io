@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560663-Bowery Dish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560663-Bowery Dish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1i6sLN3qBz53joM3PJbymz0fxQH.jpg</image:loc
+      >
+      <image:caption
+        >Bowery Dish is a one-hour video documentary that illuminates the
+        complex issues surrounding urban renewal/gentrification on the Bowery in
+        a provocative and entertaining fashion. Bowery Dish is a firsthand
+        exploration, told by the people at the forefront of change. Everyone
+        from the homeless to the recent entrepreneurs gets his or her say;
+        conflicting points of view are presented for the viewer to experience
+        all sides. Professionally shot and mastered on Beta, Bowery Dish
+        includes moments that can only be captured through other related media -
+        candid moments in the cramped flophouses are shot digitally while
+        historic footage of the Bowery provides context to the changes taking
+        place.</image:caption
+      >
+      <image:title>Bowery Dish</image:title>
+    </image:image>
+  </url>
+</urlset>

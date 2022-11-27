@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/880993-Coyotaje</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/880993-Coyotaje</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/od9x9S7OLxq1zvbn34Umlftxjzu.jpg</image:loc
+      >
+      <image:caption
+        >Ed Montenez is a Shadow Wolves Tracker and Border Patrol Agent hunting
+        a lone Coyote who carries a mysterious package. Infused into the chase
+        are a pair of rogue militiamen hell-bent on defending the border and a
+        suspicious Federal Agent investigating border killings and corruption.
+        No matter their motives, each one of them becomes indentured to the
+        package once they uncover the nature of its contents.</image:caption
+      >
+      <image:title>Coyotaje</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/596173-Challenge of Five Gauntlets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/596173-Challenge of Five Gauntlets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uq4tSqCJBTO2Qo503nLeIdMYifb.jpg</image:loc
+      >
+      <image:caption
+        >A desperate family has exhausted all avenue's to save their gravely ill
+        young child.....except one. They seek help in the form of a relic
+        historian/adventurer (Kane) to track down "Buddah's Tooth", a relic
+        believed to have supernatural healing powers. However to get to
+        "Buddah's tooth", Kane must not only travel the globe but battle through
+        a gauntlet of warrior gatekeepers who each hold clues to the ancient
+        relic's location.</image:caption
+      >
+      <image:title>Challenge of Five Gauntlets</image:title>
+    </image:image>
+  </url>
+</urlset>

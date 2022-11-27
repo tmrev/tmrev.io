@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586654-Bottled with Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586654-Bottled with Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/33fr9BSvkJ6K5OvGIK2jnraXxlE.jpg</image:loc
+      >
+      <image:caption
+        >After being stood up, Abbey gets inspired to open her heart in a
+        letter, put it in a bottle and toss it out to sea. Months later, a man
+        fishing discovers it and opts to reach out.</image:caption
+      >
+      <image:title>Bottled with Love</image:title>
+    </image:image>
+  </url>
+</urlset>

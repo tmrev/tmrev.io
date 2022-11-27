@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/16213-Christopher Titus: Norman Rockwell is
+      Bleeding</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/16213-Christopher Titus: Norman Rockwell is
+      Bleeding</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9qnq5g5sbIGNHL10h90f4RX852g.jpg</image:loc
+      >
+      <image:caption>A stand-up comic, Chris Titus, special.</image:caption>
+      <image:title>Christopher Titus: Norman Rockwell is Bleeding</image:title>
+    </image:image>
+  </url>
+</urlset>

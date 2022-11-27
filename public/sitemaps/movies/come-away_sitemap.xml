@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527400-Come Away</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527400-Come Away</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vwa0DgR2tHMouIDTJWje2k7Pp30.jpg</image:loc
+      >
+      <image:caption
+        >Before Alice went to Wonderland, and before Peter became Pan, they were
+        brother and sister. When their eldest brother dies in a tragic accident,
+        they each seek to save their parents from their downward spirals of
+        despair until finally they are forced to choose between home and
+        imagination, setting the stage for their iconic journeys into Wonderland
+        and Neverland.</image:caption
+      >
+      <image:title>Come Away</image:title>
+    </image:image>
+  </url>
+</urlset>

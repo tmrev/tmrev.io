@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/411614-Chibi Maruko-chan: The Boy from Italy</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/411614-Chibi Maruko-chan: The Boy from Italy</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r76KIpWZE9hueyvp3Lnup1hqOnS.jpg</image:loc
+      >
+      <image:caption
+        >Students from five different countries arrive in Maruko's town. Maruko
+        and her classmates can barely contain their curiosity, and their new
+        friends are full of surprises. And Maruko's family will house a boy from
+        Italy!</image:caption
+      >
+      <image:title>Chibi Maruko-chan: The Boy from Italy</image:title>
+    </image:image>
+  </url>
+</urlset>

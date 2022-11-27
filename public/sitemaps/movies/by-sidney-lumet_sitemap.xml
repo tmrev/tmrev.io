@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/341105-By Sidney Lumet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/341105-By Sidney Lumet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r65v5TfXoBfMCREEr3XlFEiBDOy.jpg</image:loc
+      >
+      <image:caption
+        >An analysis of director Sidney Lumet's work (12 Angry Men, Dog Day
+        Afternoon, Before The Devil Knows You're Dead) in his own words, based
+        on a five-day interview recorded shortly before his
+        death.</image:caption
+      >
+      <image:title>By Sidney Lumet</image:title>
+    </image:image>
+  </url>
+</urlset>

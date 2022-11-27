@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539145-Cabin of Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539145-Cabin of Horror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pdLCxMVRQ8KsMnTiSchmrqZ6eTk.jpg</image:loc
+      >
+      <image:caption
+        >Jett, an indie filmmaker in search of a bone-chilling thrill, persuades
+        his girlfriend Emma and friends to accompany him in an unauthorized
+        weekend stay at a haunted cabin near Devil's Creek in Michigan. Upon
+        their stay, they are harassed and terrorized by an evil spirit that
+        refuses to let them leave the haunted grounds...ALIVE!</image:caption
+      >
+      <image:title>Cabin of Horror</image:title>
+    </image:image>
+  </url>
+</urlset>

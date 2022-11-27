@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312152-Chuck Norris vs Communism</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312152-Chuck Norris vs Communism</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/56DoKjNArCXzXIgakf98E5J3lwl.jpg</image:loc
+      >
+      <image:caption
+        >In late eighties, in Ceausescu's Romania, a black market VHS bootlegger
+        and a courageous female translator brought the magic of Western films to
+        the Romanian people and sowed the seeds of a revolution.</image:caption
+      >
+      <image:title>Chuck Norris vs Communism</image:title>
+    </image:image>
+  </url>
+</urlset>

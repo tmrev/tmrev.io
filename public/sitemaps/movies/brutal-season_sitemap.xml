@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1016851-Brutal Season</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1016851-Brutal Season</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1YGAHELXJ6PxpEVpXOD9nedN5el.jpg</image:loc
+      >
+      <image:caption
+        >In 1948, the Trouths are facing no income and the hottest summer on
+        record. When their estranged son inexplicably returns, the apartment is
+        full again - but is it big enough for the gambling, trauma, and
+        substantial life insurance policy that comes in his wake?</image:caption
+      >
+      <image:title>Brutal Season</image:title>
+    </image:image>
+  </url>
+</urlset>

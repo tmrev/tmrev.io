@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/860425-Breathless</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/860425-Breathless</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oxNoVgbu2v9ETL93Kri1pw8osYf.jpg</image:loc
+      >
+      <image:caption
+        >In the DR, hardened cop Manolo tries to take down an infamous drug
+        cartel; meanwhile, his daughter has fallen in love with Lorenzo, a
+        construction worker who's unwittingly gotten embroiled in the drug
+        cartel's dealings.</image:caption
+      >
+      <image:title>Breathless</image:title>
+    </image:image>
+  </url>
+</urlset>

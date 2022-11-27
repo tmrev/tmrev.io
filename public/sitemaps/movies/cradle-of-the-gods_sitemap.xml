@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586985-Cradle of the Gods</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586985-Cradle of the Gods</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rS0HLlLZRTQw4oFOsLeAGAowJQ1.jpg</image:loc
+      >
+      <image:caption
+        >Could a recently excavated, 12,000 year old temple have propelled us
+        out of the stone age and into the space age? Archaeologist Dr. Jeff Rose
+        investigates an extraordinary find in Turkey.</image:caption
+      >
+      <image:title>Cradle of the Gods</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/241594-By Jeeves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/241594-By Jeeves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7RmPGUBM6n3swpMVf7pQazaciVs.jpg</image:loc
+      >
+      <image:caption
+        >An adventure of the hapless Bertie Wooster, a young gentleman about
+        town with a penchant for getting himself into personal difficulties,
+        particularly with women. It is inevitable left to his unflappable
+        manservant Jeeves to provide tidy and elegant rescues.</image:caption
+      >
+      <image:title>By Jeeves</image:title>
+    </image:image>
+  </url>
+</urlset>

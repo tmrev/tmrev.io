@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80254-Christmas with a Capital C</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80254-Christmas with a Capital C</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hOosAUuK8VaQ3PQ19ITUPtfdN5T.jpg</image:loc
+      >
+      <image:caption
+        >An attorney returns to his small home town in Alaska and quickly rocks
+        the boat by getting an injunction against the nativity display tradition
+        and attacking Christmas.</image:caption
+      >
+      <image:title>Christmas with a Capital C</image:title>
+    </image:image>
+  </url>
+</urlset>

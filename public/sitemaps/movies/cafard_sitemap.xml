@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360288-Cafard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360288-Cafard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b0qJXhEsUb6Nk64XQWmgvkAAFe9.jpg</image:loc
+      >
+      <image:caption
+        >August 1914. While Jean Mordant is away winning the title of Wrestling
+        Champion of the World in Buenos Aires, his daughter Mimi is raped by
+        German occupiers in Ostend. Jean swears he will avenge this immoral
+        disgrace. With his coach Victor and young nephew Guido, he enrolls in
+        the prestigious ACM (Armored Car Division). But the heavily-built
+        armored vehicles keep getting stuck in the mud of Flanders. The
+        battalion is hastily transferred to the Eastern front. Jean is
+        devastated by frustration for he has just learned that Mimi is pregnant.
+        But war conditions are ruthless and he and his friends embark on a
+        dramatic journey that ultimately will drag them around the
+        world.</image:caption
+      >
+      <image:title>Cafard</image:title>
+    </image:image>
+  </url>
+</urlset>

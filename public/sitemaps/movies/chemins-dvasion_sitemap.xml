@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/604630-Chemins d'évasion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/604630-Chemins d'évasion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Strolling through Paris successively takes us to the Jardin des Plantes
+        where the gardener's mower lets bloom bunches explode; then to the
+        Daumesnil lake in Vincenne's woods which is as always full of strollers
+        and rowers; and finally to the Père Lachaise cemetery where cracks
+        invite beyond improvised ruins and neglected almost-temples as
+        impossible windows and mirrors' backs opened to the unfathomable chasm
+        of parallel worlds...</image:caption
+      >
+      <image:title>Chemins d'évasion</image:title>
+    </image:image>
+  </url>
+</urlset>

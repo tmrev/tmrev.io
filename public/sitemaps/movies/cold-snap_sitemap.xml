@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/221815-Cold Snap</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/221815-Cold Snap</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mwXDHYvazUCH49X5fb3Isvkr0Bv.jpg</image:loc
+      >
+      <image:caption
+        >A boy in a forest, trapping animals for a living. The woman next door,
+        planning a fresh start. As a desolate winter sets in, their lives begin
+        to intertwine.</image:caption
+      >
+      <image:title>Cold Snap</image:title>
+    </image:image>
+  </url>
+</urlset>

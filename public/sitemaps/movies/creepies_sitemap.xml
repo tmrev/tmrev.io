@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123351-Creepies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123351-Creepies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y03kHFxcks7rDXx8Q2YwNp7tou1.jpg</image:loc
+      >
+      <image:caption
+        >Deadly spiders are accidentally unleashed from a top-secret military
+        installation. Army specialists and Tanks are called in to exterminate
+        the deadly predators, but the outbreak is worse than expected. Weapons
+        of mass destruction have little or no effect on the venomous spiders.
+        Civilians are strangled with spider webs and eaten alive. The Military
+        in a desperate effort to eradicate the killer spiders, decide to
+        demolish the entire city.</image:caption
+      >
+      <image:title>Creepies</image:title>
+    </image:image>
+  </url>
+</urlset>

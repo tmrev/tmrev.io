@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/507220-Chimera Strain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/507220-Chimera Strain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ksNuAeuVf5Oxwj0Y6lCwYotD1P.jpg</image:loc
+      >
+      <image:caption
+        >A brilliant but disturbed scientist freezes his children alive, while
+        he races to cure their deadly genetic disease by decoding the DNA of the
+        immortal Turritopsis jellyfish.</image:caption
+      >
+      <image:title>Chimera Strain</image:title>
+    </image:image>
+  </url>
+</urlset>

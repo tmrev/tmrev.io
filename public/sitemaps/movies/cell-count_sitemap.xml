@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/94841-Cell Count</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/94841-Cell Count</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pvPkX22VsI5QUsD4tKWCz6ovRpX.jpg</image:loc
+      >
+      <image:caption
+        >Russell Carpenter reluctantly admits his wife Sadie into an
+        experimental treatment facility for her life threatening disease. While
+        locked in this prison like surrounding they, along with 6 others, are
+        unknowingly subjected to a cure that might just be worse than the
+        disease itself</image:caption
+      >
+      <image:title>Cell Count</image:title>
+    </image:image>
+  </url>
+</urlset>

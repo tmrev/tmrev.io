@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/503755-Brothers' Nest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/503755-Brothers' Nest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7tS0T4VyookM8tDuZhVF3fkEdeq.jpg</image:loc
+      >
+      <image:caption
+        >With their Mother dying of cancer, intent on changing her will to
+        benefit her new husband before she dies, two brothers go to extreme and
+        deadly lengths to protect their inheritance from being signed away
+        before it’s too late.</image:caption
+      >
+      <image:title>Brothers' Nest</image:title>
+    </image:image>
+  </url>
+</urlset>

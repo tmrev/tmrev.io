@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/394755-Chasing Fifty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/394755-Chasing Fifty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8BTVZ37fQwBuHomLf8TPWbsSFst.jpg</image:loc
+      >
+      <image:caption
+        >What happens in the mountains, stay in the mountains. Giant Mountains
+        are truly the spice of local highlanders who live here, whether any
+        season. Skier with one leg, the legendary womanizer adorned with
+        infertility, the bartender with a penchant for divination... And Pavka,
+        the oldest living member of a traditional cross-country Bulán
+        family.</image:caption
+      >
+      <image:title>Chasing Fifty</image:title>
+    </image:image>
+  </url>
+</urlset>

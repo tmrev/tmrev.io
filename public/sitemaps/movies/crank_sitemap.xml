@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1948-Crank</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1948-Crank</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/toaY9CoMAy37QNv8HbbUqWS4X1Q.jpg</image:loc
+      >
+      <image:caption
+        >Chev Chelios, a hit man wanting to go straight, lets his latest target
+        slip away. Then he awakes the next morning to a phone call that informs
+        him he has been poisoned and has only an hour to live unless he keeps
+        adrenaline coursing through his body while he searches for an
+        antidote.</image:caption
+      >
+      <image:title>Crank</image:title>
+    </image:image>
+  </url>
+</urlset>

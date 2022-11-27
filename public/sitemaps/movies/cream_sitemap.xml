@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/739255-Cream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/739255-Cream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pq0kSC9mBmBf4tq3NreSyZ8Li4g.jpg</image:loc
+      >
+      <image:caption
+        >The love of 34-year-old Dora's life, has broken up with her-or worse:
+        he has remarried. Her only joy, the pastry shop she owns, also appears
+        to be lost. She makes up her mind to get both her ex-boyfriend and her
+        pastry shop back, even if it means she has to lie. Along the way, she
+        meets other families, as well as her ex-boyfriend's new wife. These
+        meetings make her realise the love she is clinging onto has no real
+        basis. Dora stops living in a state of romantic self-pity, puts an end
+        to the lying and opens up to the possibility of a new real
+        relationship.</image:caption
+      >
+      <image:title>Cream</image:title>
+    </image:image>
+  </url>
+</urlset>

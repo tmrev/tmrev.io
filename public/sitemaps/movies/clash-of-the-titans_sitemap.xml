@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18823-Clash of the Titans</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18823-Clash of the Titans</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg</image:loc
+      >
+      <image:caption
+        >Born of a god but raised as a man, Perseus is helpless to save his
+        family from Hades, vengeful god of the underworld. With nothing to lose,
+        Perseus volunteers to lead a dangerous mission to defeat Hades before he
+        can seize power from Zeus and unleash hell on earth. Battling unholy
+        demons and fearsome beasts, Perseus and his warriors will only survive
+        if Perseus accepts his power as a god, defies fate and creates his own
+        destiny.</image:caption
+      >
+      <image:title>Clash of the Titans</image:title>
+    </image:image>
+  </url>
+</urlset>

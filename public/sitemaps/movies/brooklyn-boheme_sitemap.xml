@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89870-Brooklyn Boheme</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89870-Brooklyn Boheme</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4XRPRIR4okk7EJJ6exnc1gCe06i.jpg</image:loc
+      >
+      <image:caption
+        >Brooklyn Boheme is a love letter to a vibrant African American artistic
+        community who resided in Fort Greene and Clinton Hill Brooklyn during
+        the 80's and 90's that included the great Spike Lee, Chris Rock,
+        Branford Marsalis, Rosie Perez, Saul Williams, Lorna Simpson, Talib
+        Kweli just to name a few. Narrated and written by Fort Greene resident
+        Nelson George, this feature length documentary celebrates "Brooklyn's
+        equivalent of the Harlem Renaissance" and follows the rise of a new kind
+        of African American artist, the Brooklyn Boheme.</image:caption
+      >
+      <image:title>Brooklyn Boheme</image:title>
+    </image:image>
+  </url>
+</urlset>

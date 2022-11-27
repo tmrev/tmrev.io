@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24148-CKY 4 The Latest & Greatest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24148-CKY 4 The Latest & Greatest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5YhzzMxKen3uyHxCsHMdEuacE6S.jpg</image:loc
+      >
+      <image:caption
+        >Fourth and final entry in the CKY series, directed by Bam Margera,
+        featuring the CKY crew and the Margera family.</image:caption
+      >
+      <image:title>CKY 4 The Latest & Greatest</image:title>
+    </image:image>
+  </url>
+</urlset>

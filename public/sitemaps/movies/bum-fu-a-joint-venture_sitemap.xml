@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/796689-Bum Fu: A Joint Venture</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/796689-Bum Fu: A Joint Venture</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p9XXQq7o7y4O30zLoEs2PTrS6NP.jpg</image:loc
+      >
+      <image:caption>Bums and martial arts with a twist.</image:caption>
+      <image:title>Bum Fu: A Joint Venture</image:title>
+    </image:image>
+  </url>
+</urlset>

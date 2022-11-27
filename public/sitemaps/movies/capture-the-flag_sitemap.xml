@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300602-Capture the Flag</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300602-Capture the Flag</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vHzwrSVDnu6Uza6GL0WYzkeXHS1.jpg</image:loc
+      >
+      <image:caption
+        >When the brave and determined 12-year-old Mike Goldwing discovers that
+        an eccentric billionaire plans to fly to the moon, steal its vast,
+        valuable natural resources, and destroy the American flag planted by the
+        Apollo XI astronauts during man's historic moon landing, the countdown
+        to a spectacular adventure begins! Mike, teamed with his grandfather,
+        best friends Amy and Marty, and a clever chameleon, blasts off on an
+        incredible moon-bound mission, determined to thwart the billionaire's
+        evil plan, capture the flag, and reunite his family.</image:caption
+      >
+      <image:title>Capture the Flag</image:title>
+    </image:image>
+  </url>
+</urlset>

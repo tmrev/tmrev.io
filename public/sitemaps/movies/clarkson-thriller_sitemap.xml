@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19461-Clarkson: Thriller</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19461-Clarkson: Thriller</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2BdcqoLEBFDDgQFf01GVIrfSVLG.jpg</image:loc
+      >
+      <image:caption
+        >Welcome to my all new DVD Thriller, which, as the name suggests, is all
+        about thrills at the wheel. Aston Martin’s gentleman thug, the DBS,
+        takes on its rivals from Italy. The lightweight Lamborghini Superleggera
+        battles it out on the track with Ferrari’s 430 Scuderia and my test of
+        the best takes me to the breathtaking roads of the Swiss Alps, the no
+        limits German autobahn – and, er, Norfolk.</image:caption
+      >
+      <image:title>Clarkson: Thriller</image:title>
+    </image:image>
+  </url>
+</urlset>

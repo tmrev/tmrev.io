@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/256511-Cut!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/256511-Cut!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fhiOhyus53Cpf9hLbSp0itMnNE9.jpg</image:loc
+      >
+      <image:caption
+        >Nothing is as it seems as an ex-con and aspirant filmmaker set out to
+        manufacture a horror film by scaring real people; however, when it goes
+        too far and someone actually dies, the pair decide that killing for real
+        on film is the way to make a truly terrifying movie.</image:caption
+      >
+      <image:title>Cut!</image:title>
+    </image:image>
+  </url>
+</urlset>

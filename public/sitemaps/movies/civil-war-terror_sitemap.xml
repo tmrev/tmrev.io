@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788662-Civil War Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788662-Civil War Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Explore a battle waged by secret agents and spies on both sides of the
+        American Civil War, the disturbing tales of hidden conspiracies of
+        terror that targeted civilian populations, and how the
+        nineteenth-century engineers of chemical weapons, new-fangled
+        explosives, and biological warfare competed with each other to topple
+        their enemies.</image:caption
+      >
+      <image:title>Civil War Terror</image:title>
+    </image:image>
+  </url>
+</urlset>

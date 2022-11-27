@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655568-Capriccio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655568-Capriccio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4YdGhpRit9KDf6NJmHiHggkR0BF.jpg</image:loc
+      >
+      <image:caption
+        >Richard Strauss' last stage work is an opera about opera as an art
+        form, depicting the creation of a music drama in a wise and witty way.
+        Which came first the words or the music? That is the question Strauss
+        and his librettist Clemens Krauss address through the story of a
+        Countess torn between a composer and a poet.</image:caption
+      >
+      <image:title>Capriccio</image:title>
+    </image:image>
+  </url>
+</urlset>

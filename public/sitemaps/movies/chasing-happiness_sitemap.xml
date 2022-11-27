@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/601169-Chasing Happiness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/601169-Chasing Happiness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iqwchBx4MdUoufFE5J5hdMO7fNv.jpg</image:loc
+      >
+      <image:caption
+        >From humble roots as pastor's sons in New Jersey, through their
+        meteoric rise to fame, the Jonas Brothers' bond was unshakeable-until a
+        surprising and painful breakup led Joe, Kevin and Nick down very
+        different paths. With deeply personal interviews, previously unreleased
+        footage and exclusive music, this is the Jonas Brothers as never seen
+        before.</image:caption
+      >
+      <image:title>Chasing Happiness</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396301-Cheer Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396301-Cheer Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sick of losing, the coach of Finland's worst cheerleading team is
+        inspired to push her team to victory after visiting the world champions
+        in Texas, but soon discovers that adolescence has more pressing
+        priorities for her troubled students.</image:caption
+      >
+      <image:title>Cheer Up</image:title>
+    </image:image>
+  </url>
+</urlset>

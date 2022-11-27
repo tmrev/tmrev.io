@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1013666-Carter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1013666-Carter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7fUoqlbTZiwHYpcbu86CmeOKVSW.jpg</image:loc
+      >
+      <image:caption
+        >A lonesome 16-year old investigates his older brother’s ultra-masculine
+        façade and the role it plays within their troubled
+        family.</image:caption
+      >
+      <image:title>Carter</image:title>
+    </image:image>
+  </url>
+</urlset>

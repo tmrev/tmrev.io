@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/922395-Cliff Richard From a Distance: The
+      Event</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/922395-Cliff Richard From a Distance: The
+      Event</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kZWBJN2i1HfWCLrjwpUiDeXfPtt.jpg</image:loc
+      >
+      <image:caption
+        >From a Distance: The Event is a live album by Cliff Richard, released
+        in 1990 by EMI. The album was recorded in June 1989 at Richard's "The
+        Event" concert, held at Wembley Stadium in London.</image:caption
+      >
+      <image:title>Cliff Richard From a Distance: The Event</image:title>
+    </image:image>
+  </url>
+</urlset>

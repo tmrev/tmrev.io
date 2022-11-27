@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/234532-Chotta Mumbai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/234532-Chotta Mumbai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/UoPBPPUUQ14mdikr7rZqsZueZB.jpg</image:loc
+      >
+      <image:caption
+        >The film starts in a street in Fort Kochi where Vasco da Gama, the son
+        of a wrestler named Michael, lives. Vasco and his gang of five —
+        Chandrappan, Susheelan, Sainu, Basheer and cousin Tomichchan are
+        small-time goondas, involved in petty offences and as the movie
+        progresses, these characters turn out to be more endearing than
+        bad.</image:caption
+      >
+      <image:title>Chotta Mumbai</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64566-Cinema Verite</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64566-Cinema Verite</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yyXW04JEfVHBoK6ijeHiBle0odo.jpg</image:loc
+      >
+      <image:caption
+        >In 1973, the Loud family became a television sensation of a new kind.
+        It was long before a metal rock star showed his eccentric family on the
+        small screen and decades before housewives had screaming matches with
+        each other on camera in public. CINEMA VERITE tells the
+        behind-the-scenes story of the groundbreaking documentary "An American
+        Family," which chronicled the lives of the Louds in the early 1970s and
+        catapulted the Santa Barbara family to notoriety while creating a new
+        television genre: the reality TV series.</image:caption
+      >
+      <image:title>Cinema Verite</image:title>
+    </image:image>
+  </url>
+</urlset>

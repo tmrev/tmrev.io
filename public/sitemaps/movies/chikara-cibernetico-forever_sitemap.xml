@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799009-Chikara: Cibernetico Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799009-Chikara: Cibernetico Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lxKOvOECdIKHfvG8pM6CPoKQ9m3.jpg</image:loc
+      >
+      <image:caption
+        >In the annual Torneo Cibernetico, Eddie Kingston and Larry Sweeney
+        captain 8-man squads into elimination action! Two trios are born as
+        Crossbones joins UltraMantis Black and Hydra, then Worker Ant arrives on
+        the scene to join The Colony. Arik Cannon loses
+        everything!</image:caption
+      >
+      <image:title>Chikara: Cibernetico Forever</image:title>
+    </image:image>
+  </url>
+</urlset>

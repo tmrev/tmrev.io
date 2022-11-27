@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/307255-Construcción de una ciudad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/307255-Construcción de una ciudad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oWippcG1ntczfqMS7VGKpo3T5Wp.jpg</image:loc
+      >
+      <image:caption
+        >The story of the rebirth of Federación, Argentina that in 1974 was
+        flooded by the waters of the Uruguay River and subsequently destroyed by
+        the government to be relocated and rebuild, told by its
+        characters.</image:caption
+      >
+      <image:title>Construcción de una ciudad</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332480-Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332480-Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lOPQC6oA9SPCEPQkeNR71Ptgxnw.jpg</image:loc
+      >
+      <image:caption
+        >A camping trip will turn into a nightmare for sisters Akane and Kozue
+        when they become trapped by five men who abuse and torture them. Kozue
+        is brutally murdered but her sister manages to escape. Now, with the
+        help of Misaki, a mysterious female vigilante, Akane is ready for her
+        vengeance. And nothing will stop her until her sister's murderers pay
+        for their crime!</image:caption
+      >
+      <image:title>Camp</image:title>
+    </image:image>
+  </url>
+</urlset>

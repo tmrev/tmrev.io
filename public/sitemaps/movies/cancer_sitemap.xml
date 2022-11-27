@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/404993-Cancer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/404993-Cancer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In Cancer (2004) we see an unknown professor presenting the facts of
+        cancer and stem cell theory in deadpan manner. Suddenly the image
+        distorts, rips at the seams, and his skull disappears, leaving only
+        floating eyeballs as hundreds of pixelated figures pour down the screen
+        in a visual mimesis of the impact of cancer cells within the body. Bone,
+        brain, breast, thyroid, lymphoma, metastases and sarcomas: perhaps
+        cancer in all its stubbornly enduring biological fact is the true
+        villain of the piece.
+        -https://frieze.com/article/bonnie-camplin</image:caption
+      >
+      <image:title>Cancer</image:title>
+    </image:image>
+  </url>
+</urlset>

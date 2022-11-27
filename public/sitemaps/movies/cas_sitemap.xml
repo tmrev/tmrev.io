@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413346-Cas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413346-Cas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sv9tdmq22333rHaqe8KH1tcqPPz.jpg</image:loc
+      >
+      <image:caption
+        >Pepijn and George’s steady, seven-year relationship is shaken up after
+        they allow a young student named Cas to sleep on their couch until he
+        finds a place of his own. Gradually, both men fall head over heels for
+        Cas’ laconic charm and it forces them to reconsider their many long-term
+        plans. Is Cas’ presence endangering their relationship or is he actually
+        a blessing in disguise?</image:caption
+      >
+      <image:title>Cas</image:title>
+    </image:image>
+  </url>
+</urlset>

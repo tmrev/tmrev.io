@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614197-Criminal Audition</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614197-Criminal Audition</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e7e8uSryYTeIH79VVNugonQm6tQ.jpg</image:loc
+      >
+      <image:caption
+        >An ex-lawyer and his team run an underworld service, they seek the most
+        desperate and greedy to become fake criminals to take the fall for the
+        rich and powerful's crimes in a process known as `Criminal
+        Audition'.</image:caption
+      >
+      <image:title>Criminal Audition</image:title>
+    </image:image>
+  </url>
+</urlset>

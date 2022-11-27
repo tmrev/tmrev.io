@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369835-Bruce Lee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369835-Bruce Lee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yrgFpZ0LFCeVOjmo4hqwmIqOgfJ.jpg</image:loc
+      >
+      <image:caption
+        >A cowardly youngster and his friend run for their lives with their
+        lovers as they are being chased by a dreaded don.</image:caption
+      >
+      <image:title>Bruce Lee</image:title>
+    </image:image>
+  </url>
+</urlset>

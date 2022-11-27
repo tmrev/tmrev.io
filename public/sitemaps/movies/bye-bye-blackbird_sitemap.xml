@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60111-Bye Bye Blackbird</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60111-Bye Bye Blackbird</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A period drama set in the early years of the 20th century. Josef, a
+        former construction worker who delighted in dancing on girders high
+        above the city, who now sweeps up at the circus. Once the big top's
+        owner spots the young roustabout defying gravity on the trapeze,
+        however, he endeavors to pair Josef with his aerialist daughter Alice in
+        a perilous sky-high pas de deux. Offers a romantic view of big top life,
+        with a moth-eaten angel in his feathered, tattered
+        costume.</image:caption
+      >
+      <image:title>Bye Bye Blackbird</image:title>
+    </image:image>
+  </url>
+</urlset>

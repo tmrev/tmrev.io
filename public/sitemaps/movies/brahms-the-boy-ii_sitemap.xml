@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/555974-Brahms: The Boy II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/555974-Brahms: The Boy II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg</image:loc
+      >
+      <image:caption
+        >After a family moves into the Heelshire Mansion, their young son soon
+        makes friends with a life-like doll called Brahms.</image:caption
+      >
+      <image:title>Brahms: The Boy II</image:title>
+    </image:image>
+  </url>
+</urlset>

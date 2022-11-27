@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586454-Burning Cane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586454-Burning Cane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9kxkqYm7pX22QPoSaRroiBifwGO.jpg</image:loc
+      >
+      <image:caption
+        >Set among the cane fields of rural Louisiana, Burning Cane follows a
+        deeply religious mother struggling to reconcile her convictions of faith
+        with the love she has for her troubled son.</image:caption
+      >
+      <image:title>Burning Cane</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/918578-Cameron Mackintosh - The First 50
+      Years</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/918578-Cameron Mackintosh - The First 50
+      Years</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nm0f2PhKkCpZxXmJRmEHP9KG5WX.jpg</image:loc
+      >
+      <image:caption
+        >Archival footage provides a glimpse into the life of Cameron
+        Mackintosh; the storied producer famous for Les Misérables, Phantom of
+        the Opera, Cats and many more.</image:caption
+      >
+      <image:title>Cameron Mackintosh - The First 50 Years</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478249-Carving Out Our Name</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478249-Carving Out Our Name</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6zEmItPNlJGHV3v6vJ2ToYuRB1x.jpg</image:loc
+      >
+      <image:caption
+        >A desperate filmmaker with no budget, stars or crew begins to film his
+        aspiring actor roommates and ends up with the only Hollywood success
+        story caught on camera as it really happened.</image:caption
+      >
+      <image:title>Carving Out Our Name</image:title>
+    </image:image>
+  </url>
+</urlset>

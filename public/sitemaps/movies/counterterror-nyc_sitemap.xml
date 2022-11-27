@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/930656-Counterterror NYC</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/930656-Counterterror NYC</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The NYPD's Counterterrorism Bureau is on the front lines in the war on
+        terror. These specialized task forces have one goal: to keep New York
+        City safe. During the busiest season of the year, Hercules teams deploy
+        with 9-mm submachine guns, the TORCH team patrols New York's subway
+        system and the bomb squad sweeps for explosive devices, all to secure
+        the nation's largest city.</image:caption
+      >
+      <image:title>Counterterror NYC</image:title>
+    </image:image>
+  </url>
+</urlset>

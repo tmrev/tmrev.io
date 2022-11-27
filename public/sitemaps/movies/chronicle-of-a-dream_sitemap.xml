@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/855247-Chronicle of a Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/855247-Chronicle of a Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1vhPMomzAfAjqt8nXGpdd6bnyAp.jpg</image:loc
+      >
+      <image:caption
+        >October 2004. Uruguay. After three years away Mariana returns to her
+        country to be reunited with her family and also to vote. After the
+        economic crisis that plunged the country into a terrible depression,
+        Uruguay is on the brink of a real change. We are shown day to day life
+        in Melo, a small provincial city, we are given an intimate insight into
+        a family of militant leftists, and we accompany a Latin American people
+        in the month leading up to a historic political event: the first ever
+        election victory in Uruguay of a party from the political left, the
+        Frente Amplio.</image:caption
+      >
+      <image:title>Chronicle of a Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/537939-Charles I's Treasures Reunited</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/537939-Charles I's Treasures Reunited</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Brenda Emmanus explores the art collection of Charles I, much of which
+        is being reunited for a unique exhibition for the first time since his
+        execution. Brenda hears the stories behind the works of art and learns
+        how the collection was sold off by Parliament following Charles's
+        death.</image:caption
+      >
+      <image:title>Charles I's Treasures Reunited</image:title>
+    </image:image>
+  </url>
+</urlset>

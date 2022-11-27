@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369054-Christmas Land</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369054-Christmas Land</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mSvM4uXrUTRdKg7wYLyg6JTd2Fk.jpg</image:loc
+      >
+      <image:caption
+        >Jules has just inherited a quaint magical Christmas-themed village and
+        Christmas tree farm bequeathed her by her grandmother. She plans to sell
+        it and use the profits to buy her dream home in New York City. But the
+        longer Jules stays on the farm and the more she learns how important
+        Christmas Land has been to so many families, the more Jules starts to
+        question her motives to sell.</image:caption
+      >
+      <image:title>Christmas Land</image:title>
+    </image:image>
+  </url>
+</urlset>

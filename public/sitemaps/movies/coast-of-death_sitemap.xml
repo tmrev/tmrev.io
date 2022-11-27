@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/215637-Coast of Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/215637-Coast of Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Portrait of Costa da Morte (coast region in Galicia, Spain) from an
+        ethnographic and landscape level, exploring also the collective
+        imagination associated with the area. A region marked by strong oceanic
+        feeling dominated by the historical conception of world's end and with
+        tragic shipwrecks. Fragmentary film that approaches to the
+        anthropological from its protagonists: sailors, shellfish, loggers,
+        farmers ... A selection of characters representative of the traditional
+        work carried out in the countryside in the region, allowing us to
+        reflect on the influence of the environment on people.</image:caption
+      >
+      <image:title>Coast of Death</image:title>
+    </image:image>
+  </url>
+</urlset>

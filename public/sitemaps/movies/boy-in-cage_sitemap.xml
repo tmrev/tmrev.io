@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/664417-Boy in Cage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/664417-Boy in Cage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3D9lPg9e4BY5fHQlnFtLYN0hAee.jpg</image:loc
+      >
+      <image:caption
+        >The short Wang Jing made as the graduation project in Beijing Film
+        Academy.</image:caption
+      >
+      <image:title>Boy in Cage</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/768757-Both Sides of the Blade</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/768757-Both Sides of the Blade</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w0jUcrS42AyPNgb1RwjDm0BLaZz.jpg</image:loc
+      >
+      <image:caption
+        >Jean and Sara have been living together for 10 years. When they first
+        met, Sara was living with François, Jean’s best friend and an admirer
+        from back when he played pro rugby. Jean and Sara love each other. One
+        day, Sara sees François in the street. He does not notice her, but she
+        is overtaken by the sensation that her life could suddenly change.
+        François gets back in touch with Jean. For the first time in years. He
+        suggests they start working together again. From here on, things spiral
+        out of control.</image:caption
+      >
+      <image:title>Both Sides of the Blade</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/151708-Colosio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/151708-Colosio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8PmM9Aob2qrOATryDts5nBnMGe2.jpg</image:loc
+      >
+      <image:caption
+        >It's 1994 in Mexico, the nation was witnessing a turbulent year since
+        its beginnings. An indigenous rebellion shakes the country. Three months
+        later, the ruling party's presidential candidate is brutally murdered
+        during a rally in Tijuana. The country is concerned. Nobody knows who's
+        behind this event, it all points to a conspiracy. Andrés Vázquez, an
+        intelligence expert, is commissioned to lead a secret investigation
+        parallel to the official government issued one. But another expert
+        agent, el Seco, has received orders to wipe out all witnesses and get
+        rid of the evidence surrounding the candidate's murder. As Andrés begins
+        putting the pieces of this intricate puzzle together and comes closer to
+        the truth, he realizes he's also putting his life and that of his loved
+        ones in peril.</image:caption
+      >
+      <image:title>Colosio</image:title>
+    </image:image>
+  </url>
+</urlset>

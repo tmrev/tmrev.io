@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408261-Brooks, Meadows and Lovely Faces</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408261-Brooks, Meadows and Lovely Faces</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9QMH0mSPP20J8zNLUo15khWZeoI.jpg</image:loc
+      >
+      <image:caption
+        >Yehia runs a catering business with his sons, Ref’at and Galal; the
+        former is engaged to marry Karima, who actually loves his brother and is
+        trying to find a way to reveal her feelings for him; while he himself is
+        in love with Shadia who just returned from the UAE, but fear the
+        differences between them.</image:caption
+      >
+      <image:title>Brooks, Meadows and Lovely Faces</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/487354-Charles Manson: The Final Words</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/487354-Charles Manson: The Final Words</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dpvkXIjPIid0TRrmX4McCUiCELN.jpg</image:loc
+      >
+      <image:caption
+        >An explosive documentary that changes the conversation about Charles
+        Manson and the notorious "Manson Family" murders.</image:caption
+      >
+      <image:title>Charles Manson: The Final Words</image:title>
+    </image:image>
+  </url>
+</urlset>

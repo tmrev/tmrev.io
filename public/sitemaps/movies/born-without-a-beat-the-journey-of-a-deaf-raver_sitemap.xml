@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/756917-Born Without a Beat: The Journey of a Deaf
+      Raver</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/756917-Born Without a Beat: The Journey of a Deaf
+      Raver</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A deaf party animal who has always felt out of place in hearing clubs
+        travels to Holland to discover an amazing rave where deaf people can
+        enjoy music.</image:caption
+      >
+      <image:title
+        >Born Without a Beat: The Journey of a Deaf Raver</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/378510-Brothers of the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/378510-Brothers of the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mIPk4R7E5GPOsrr0xZlGPVAk9k3.jpg</image:loc
+      >
+      <image:caption
+        >Soft boys by day, kings by night. The film follows a group of young
+        Bulgarian Roma who come to Vienna looking for freedom and a quick buck.
+        They sell their bodies as if that's all they had. What comforts them, so
+        far from home, is the feeling of being together. But the nights are long
+        and unpredictable.</image:caption
+      >
+      <image:title>Brothers of the Night</image:title>
+    </image:image>
+  </url>
+</urlset>

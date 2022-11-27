@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209256-Cuento de verano</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209256-Cuento de verano</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bsvIprbRj1u05ll0csYrf8YwpWb.jpg</image:loc
+      >
+      <image:caption
+        >After four years of living together, Léa dumps Mario. He is going to
+        have to spend the loneliest summer of his life locked up in his Madrid
+        apartment, with multiple broken bones. But this summer promises to be a
+        journey in search of happiness, without leaving the downtown district.
+        This trip will change the life of Mario, Chica, a mysterious young woman
+        who appears on his doorstep, and Olmo the young and sassy neighbor, in
+        love with Mario.</image:caption
+      >
+      <image:title>Cuento de verano</image:title>
+    </image:image>
+  </url>
+</urlset>

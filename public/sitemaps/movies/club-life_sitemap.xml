@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333657-Club Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333657-Club Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yz76bTX1X9n1FCvEbyC57cC8kpm.jpg</image:loc
+      >
+      <image:caption
+        >When Johnny D. is forced to take on his family's financial troubles, he
+        turns to the Manhattan club scene to make some fast cash. As he falls
+        under the wing of a veteran nightlife promoter, Johnny quickly rises
+        through the ranks - but soon finds that not everything behind the red
+        rope is full of glitz and glamour.</image:caption
+      >
+      <image:title>Club Life</image:title>
+    </image:image>
+  </url>
+</urlset>

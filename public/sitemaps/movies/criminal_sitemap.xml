@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1026376-Criminal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1026376-Criminal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tvJTlglsJRSowVNmqF36vAO0sC2.jpg</image:loc
+      >
+      <image:caption
+        >Arjun and Mahi have been married for 4-5 years, but their relationship
+        is not what it used to be. Now they are hellbent on divorcing each
+        other. Their common friends, Gagan, and Jasleen, try to patch things up.
+        While doing it they plan a holiday together which gets cancelled
+        somehow. They come back not realizing that 5 prison escapes are now
+        hiding in their house. In their own home, they become prisoners in
+        hiding.</image:caption
+      >
+      <image:title>Criminal</image:title>
+    </image:image>
+  </url>
+</urlset>

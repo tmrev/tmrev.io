@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/149588-Crossroad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/149588-Crossroad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Xet5UHMeZF0tyfqmaqKGkoRoDb.jpg</image:loc
+      >
+      <image:caption
+        >Fueled by revenge, Michael sets up a meeting with Clef Robie, the man
+        who murdered his wife and child 6 years ago. His plans of killing him
+        come to a standstill when two gunmen rob the diner. Michael takes
+        matters into his own hands when he shoots them and holds the entire
+        diner hostage until he kills his target.</image:caption
+      >
+      <image:title>Crossroad</image:title>
+    </image:image>
+  </url>
+</urlset>

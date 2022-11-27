@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52952-Charlie Brown's All-Stars!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52952-Charlie Brown's All-Stars!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/43yzLBevC6lprNslYejaLrQyydZ.jpg</image:loc
+      >
+      <image:caption
+        >After their humiliating 999th defeat, Charlie Brown's whole baseball
+        team quits on him. All seems lost...until Charlie Brown learns that his
+        team can join the Little League and become an official team with real
+        uniforms! But as the team's enthusiasm sparks, Charlie Brown learns that
+        neither girls nor Snoopy would be allowed to play. Charlie Brown faces
+        the difficult decision of breaking this horrible news to his excited
+        team.</image:caption
+      >
+      <image:title>Charlie Brown's All-Stars!</image:title>
+    </image:image>
+  </url>
+</urlset>

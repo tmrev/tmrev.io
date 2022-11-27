@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/795-City of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/795-City of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iuzxpUjHsbQJXV3kB9ZAdCimM60.jpg</image:loc
+      >
+      <image:caption
+        >When guardian angel Seth - who invisibly watches over the citizens of
+        Los Angeles - becomes captivated by Maggie, a strong-willed heart
+        surgeon, he ponders trading in his pure, otherworldly existence for a
+        mortal life with his beloved. The couple embarks on a tender but
+        forbidden romance spanning heaven and Earth.</image:caption
+      >
+      <image:title>City of Angels</image:title>
+    </image:image>
+  </url>
+</urlset>

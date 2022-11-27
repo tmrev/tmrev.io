@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381214-Bunker of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381214-Bunker of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a1LVK2OhhqTxPEJ31OunxAVA7zh.jpg</image:loc
+      >
+      <image:caption
+        >After Using the instructions found in an old Jewish diary, Markus and
+        Thomas hope to gain access to a WW II underground military base formerly
+        codenamed: Cerusit. It was used by the Nazis as a secret research
+        institute and is shrouded in rumors to this day about the lost gold of
+        the Third Reich. The entrance to the cave system, however, lies right
+        within the restricted area of a U.S. military base.. the first of many
+        problems Markus and Thomas will have to face.</image:caption
+      >
+      <image:title>Bunker of the Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

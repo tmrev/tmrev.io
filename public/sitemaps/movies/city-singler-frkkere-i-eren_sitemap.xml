@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/142332-City singler 2 - Frækkere i 2'eren</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/142332-City singler 2 - Frækkere i 2'eren</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In this sequel, City Singler 2 features the same outspoken quartet:
+        Denmark's funniest women letting loose in this live recording at the
+        Aarhus Concert Hall.</image:caption
+      >
+      <image:title>City singler 2 - Frækkere i 2'eren</image:title>
+    </image:image>
+  </url>
+</urlset>

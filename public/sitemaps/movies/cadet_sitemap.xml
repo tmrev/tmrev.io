@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259057-Cadet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259057-Cadet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A pitch-black tragicomedy of Steve, a 13 year-old athlete who is
+        secretly being doped by his father and coach Patrick to enhance his
+        performance on the track. Steve is faced with the hard choice between
+        his self-esteem and his father's wishes.</image:caption
+      >
+      <image:title>Cadet</image:title>
+    </image:image>
+  </url>
+</urlset>

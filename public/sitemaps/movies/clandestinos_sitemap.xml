@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44320-Clandestinos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44320-Clandestinos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/37nJ2VdeXAZoQH0QSyxd5VAqHuy.jpg</image:loc
+      >
+      <image:caption
+        >Xabi, a troubled boy, meets Iñaki, a member of the terrorist gang ETA
+        who becomes his mentor and ideological inspiration. Some time later,
+        Xabi is arrested for throwing a Molotov cocktail and confined in a
+        juvenile detention center, where he meets Joel, a Mexican, and Driss, a
+        Moroccan, with whom he manages to flee and reach Madrid with the purpose
+        of finding Iñaki and joining the gang.</image:caption
+      >
+      <image:title>Clandestinos</image:title>
+    </image:image>
+  </url>
+</urlset>

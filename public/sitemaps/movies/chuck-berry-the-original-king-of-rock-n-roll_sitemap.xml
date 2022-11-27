@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/593713-Chuck Berry: The Original King of Rock 'n'
+      Roll</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/593713-Chuck Berry: The Original King of Rock 'n'
+      Roll</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lkVR8p5UhDFehV7HFpGJNnCDCUS.jpg</image:loc
+      >
+      <image:caption
+        >Story of Chuck Berry told by his relatives and friends.</image:caption
+      >
+      <image:title>Chuck Berry: The Original King of Rock 'n' Roll</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456621-Bruce Law Stunts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456621-Bruce Law Stunts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/94o5Ls5bZOF1lMQyP6EuzzvEfZo.jpg</image:loc
+      >
+      <image:caption
+        >Bruce Law Stunts is a Hong Kong documentary.</image:caption
+      >
+      <image:title>Bruce Law Stunts</image:title>
+    </image:image>
+  </url>
+</urlset>

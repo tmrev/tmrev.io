@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/911860-Carnal Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/911860-Carnal Monsters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x5mUFXuI51tXfT7O8BPxW4tZrMb.jpg</image:loc
+      >
+      <image:caption
+        >A group of girls come across two people who have been tortured, only to
+        find out they themselves are about to be picked off one by one in the
+        most bizarre ways.</image:caption
+      >
+      <image:title>Carnal Monsters</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/421867-Casitas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/421867-Casitas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yAq4XDyRxRWu735BtwNf01skEN0.jpg</image:loc
+      >
+      <image:caption
+        >Carlos and Marta, both 35 years old, are living the life they have
+        always dreamed of. A house with a yard, a dog, and they are even about
+        to have a child. But there is no such thing as a perfect
+        life.</image:caption
+      >
+      <image:title>Casitas</image:title>
+    </image:image>
+  </url>
+</urlset>

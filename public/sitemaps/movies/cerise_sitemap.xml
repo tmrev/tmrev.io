@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328587-Cerise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328587-Cerise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6HbvuTg1bcV9pyUqLmf5A4lTlMI.jpg</image:loc
+      >
+      <image:caption
+        >Cerise is fourteen years old but she looks twenty. Cerise grew up on
+        the outskirts, but now she's exiled to Ukraine. Cerise wears excessive
+        amounts of makeup, but she still has a little girl's dreams. Cerise
+        doesn't know her father, even though she's going to have to live with
+        him. Cerise has only ever thought about herself and now she finds
+        herself in the middle of a revolution.</image:caption
+      >
+      <image:title>Cerise</image:title>
+    </image:image>
+  </url>
+</urlset>

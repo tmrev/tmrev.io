@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/631409-Christmas in Montana</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/631409-Christmas in Montana</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1HgFtSe6Ti5vHIB8CEjAD9HcYwj.jpg</image:loc
+      >
+      <image:caption
+        >Before the holidays, Sara goes to Montana to help resistant Travis save
+        his ranch. Can time on the ranch help restore her faith in Christmas in
+        time for a miracle?</image:caption
+      >
+      <image:title>Christmas in Montana</image:title>
+    </image:image>
+  </url>
+</urlset>

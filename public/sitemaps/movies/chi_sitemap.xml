@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/188663-Chi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/188663-Chi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/30UKbbzuFSr8FyEPe6TNo9kK6Qt.jpg</image:loc
+      >
+      <image:caption
+        >Director Anne Wheeler joins actress Babz Chula on a trip to India to
+        rid herself of cancer.</image:caption
+      >
+      <image:title>Chi</image:title>
+    </image:image>
+  </url>
+</urlset>

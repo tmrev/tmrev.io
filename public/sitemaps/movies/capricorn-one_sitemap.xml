@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11935-Capricorn One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11935-Capricorn One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg</image:loc
+      >
+      <image:caption
+        >In order to protect the reputation of the American space program, a
+        team of scientists stages a phony Mars landing. Willingly participating
+        in the deception are a trio of well-meaning astronauts, who become
+        liabilities when their space capsule is reported lost on re-entry. Now,
+        with the help of a crusading reporter, they must battle a sinister
+        conspiracy that will stop at nothing to keep the truth.</image:caption
+      >
+      <image:title>Capricorn One</image:title>
+    </image:image>
+  </url>
+</urlset>

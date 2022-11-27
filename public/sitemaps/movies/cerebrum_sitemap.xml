@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1003849-Cerebrum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1003849-Cerebrum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hBc9YbpfM6bGeNP9c2ySrytp6b.jpg</image:loc
+      >
+      <image:caption
+        >After waking up from a year-long coma, an insecure young man must fight
+        his controlling father in order to discover what really happened to his
+        seemingly absent mother, as the true consequences of his past actions
+        unravel before him. Richard is stuck in a limbo of denial and lost in
+        the past, thinking that he can essentially reverse it and bring back the
+        dead – with deadly consequences.</image:caption
+      >
+      <image:title>Cerebrum</image:title>
+    </image:image>
+  </url>
+</urlset>

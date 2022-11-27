@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4808-Charade</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4808-Charade</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/69b2DSbFmtZMfHMSLp4pCC0D8V2.jpg</image:loc
+      >
+      <image:caption
+        >After Regina Lampert falls for the dashing Peter Joshua on a skiing
+        holiday in the French Alps, she discovers upon her return to Paris that
+        her husband has been murdered. Soon, she and Peter are giving chase to
+        three of her late husband's World War II cronies, Tex, Scobie and
+        Gideon, who are after a quarter of a million dollars the quartet stole
+        while behind enemy lines. But why does Peter keep changing his
+        name?</image:caption
+      >
+      <image:title>Charade</image:title>
+    </image:image>
+  </url>
+</urlset>

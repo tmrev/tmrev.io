@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/238566-Bye-Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/238566-Bye-Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When a ten year old boy plays hide-and-seek with friends, he finds
+        something that leads him to a terrible truth: no matter what progress
+        mankind makes, many are forced to travel lunar distances beyond
+        love.</image:caption
+      >
+      <image:title>Bye-Child</image:title>
+    </image:image>
+  </url>
+</urlset>

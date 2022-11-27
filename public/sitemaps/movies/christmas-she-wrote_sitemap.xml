@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/746048-Christmas She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/746048-Christmas She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg</image:loc
+      >
+      <image:caption
+        >When Kayleigh, a romance writer, has her column cancelled right before
+        Christmas, she heads home to reconnect with her family. Kayleigh gets an
+        unexpected visit from the man who cancelled her column who fights not
+        only to bring her back to the publisher but also for her
+        heart.</image:caption
+      >
+      <image:title>Christmas She Wrote</image:title>
+    </image:image>
+  </url>
+</urlset>

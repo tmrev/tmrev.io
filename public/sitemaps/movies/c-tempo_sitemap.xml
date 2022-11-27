@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/580023-C'è tempo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/580023-C'è tempo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a4hkSk19raYPo0WMp0ApsD9jEC4.jpg</image:loc
+      >
+      <image:caption
+        >After the death of his estranged father, professional rainbow-watcher
+        Stefano finds out he has a 13-year-old half-brother, and that he must
+        become his legal guardian to receive the inheritance.</image:caption
+      >
+      <image:title>C'è tempo</image:title>
+    </image:image>
+  </url>
+</urlset>

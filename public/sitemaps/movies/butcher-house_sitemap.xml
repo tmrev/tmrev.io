@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58795-Butcher House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58795-Butcher House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sK6LmDkDZWKtZt4yQUARAI569Ku.jpg</image:loc
+      >
+      <image:caption
+        >In the 1960's at Arthur Kingston's old butcher house blood and guts
+        were routine. That all changed one night when the blood spilled was
+        human. At the hand of a murderous, rampaging butcher, two workers and
+        the owner's son were killed. The factory was shut down. Decades pass.
+        The massacre became a legend, but the abandoned butcher house still held
+        the evil in its halls. As six teenagers explore the old butcher house,
+        they unleash the horror that lies within.</image:caption
+      >
+      <image:title>Butcher House</image:title>
+    </image:image>
+  </url>
+</urlset>

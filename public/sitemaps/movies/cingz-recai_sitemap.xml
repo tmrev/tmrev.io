@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474716-Cingöz Recai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474716-Cingöz Recai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fLn4GYsJSl9jtWz6dOlstq2GRMP.jpg</image:loc
+      >
+      <image:caption
+        >An ex-thief returns for the revange of his father's murder makes an
+        intelligent plan to reach the killer, a godfather named as Ghost. During
+        his robbery operations, he plays with the police chief who is trying to
+        stop him. In his final robbery, he finds something different than what
+        he expects, something bigger.</image:caption
+      >
+      <image:title>Cingöz Recai</image:title>
+    </image:image>
+  </url>
+</urlset>

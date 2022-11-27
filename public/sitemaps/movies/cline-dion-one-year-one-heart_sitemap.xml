@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/994015-Céline Dion: One Year, One Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/994015-Céline Dion: One Year, One Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fDS0juu5IrFqarutgj4t3UnYTpa.jpg</image:loc
+      >
+      <image:caption
+        >A 45-min documentary called One Year - One Heart, included on some
+        editions of A New Day - Live in Las Vegas, containing the recording of
+        "I Drove All Night" and "Have You Ever Been in Love," and the making of
+        "One Heart" music video among other features.</image:caption
+      >
+      <image:title>Céline Dion: One Year, One Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

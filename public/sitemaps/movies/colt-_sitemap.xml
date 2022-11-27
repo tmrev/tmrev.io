@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/285387-Colt 45</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/285387-Colt 45</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5DXgJMsTETLNNO5xSQeMGa8tQCx.jpg</image:loc
+      >
+      <image:caption
+        >Vincent Miles, a gunsmith and shooting instructor at the National
+        Police, is an expert in combat shooting who stubbornly refuses to join a
+        field brigade, a choice which their colleagues do not understand. When
+        he meets Milo Cardena, a mysterious and skilled cop, his life changes in
+        such way that he cannot ignore his true nature anymore.</image:caption
+      >
+      <image:title>Colt 45</image:title>
+    </image:image>
+  </url>
+</urlset>

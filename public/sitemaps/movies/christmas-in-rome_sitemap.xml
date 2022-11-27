@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626315-Christmas in Rome</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626315-Christmas in Rome</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q5QaNyeS5TA7F0v4oTv652XGUUc.jpg</image:loc
+      >
+      <image:caption
+        >An independent-minded American tour guide is fired from her job in Rome
+        just before Christmas. She crosses paths with an American executive
+        named Oliver, who wants to buy a high-end Italian ceramics company.
+        Oliver hires Angela to be his tour guide around the Eternal City, as the
+        owner of the ceramics company won’t sell it to him until he learns “the
+        heart and soul of Rome.” But is there another heart and soul that he may
+        win?</image:caption
+      >
+      <image:title>Christmas in Rome</image:title>
+    </image:image>
+  </url>
+</urlset>

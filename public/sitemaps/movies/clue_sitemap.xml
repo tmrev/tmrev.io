@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15196-Clue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15196-Clue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg</image:loc
+      >
+      <image:caption
+        >Clue finds six colorful dinner guests gathered at the mansion of their
+        host, Mr. Boddy -- who turns up dead after his secret is exposed: He was
+        blackmailing all of them. With the killer among them, the guests and
+        Boddy's chatty butler must suss out the culprit before the body count
+        rises.</image:caption
+      >
+      <image:title>Clue</image:title>
+    </image:image>
+  </url>
+</urlset>

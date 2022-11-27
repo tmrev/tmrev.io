@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/243120-Cinema Six</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/243120-Cinema Six</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jdep4UVB2lOwpCxILPJpn5z0Xtl.jpg</image:loc
+      >
+      <image:caption
+        >Working at a movie theater is fun, and that's why Mason, Dennis, and
+        Gabe have done it for years. But, those years of neglecting the world
+        outside the theater are finally catching up to them. Now, they have to
+        make a decision: start on the long, hard path to maturity or stay at the
+        theater, where they can avoid customers, screw with customers, and eat
+        as much popcorn as they desire.</image:caption
+      >
+      <image:title>Cinema Six</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272292-Clouds Are Not Spheres</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272292-Clouds Are Not Spheres</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Y2REJpap4P2QKsSWpQP53quKyP.jpg</image:loc
+      >
+      <image:caption
+        >Until recently geometry was 'cold', incapable of describing the
+        irregular shape of a cloud, the slope of a mountain or the beauty of the
+        human body. With fractal geometry, Benoit Mandelbrot gave us a language
+        for our natural world. In this captivating documentary, the man himself
+        explains this groundbreaking discovery.</image:caption
+      >
+      <image:title>Clouds Are Not Spheres</image:title>
+    </image:image>
+  </url>
+</urlset>

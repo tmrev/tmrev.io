@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276941-Cezanne in Provence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276941-Cezanne in Provence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Explore the life and art of post-impressionist painter Paul Cézanne in
+        this PBS documentary shot on location in Provence, France, and at
+        Washington, D.C.'s National Gallery of Art. Art critics and historians
+        examine the influence of the French landscape on Cézanne's work. Visit
+        some of the sites depicted in his works, such as Montagne
+        Sainte-Victoire and Atelier des Lauves, and marvel at his masterful use
+        of light, color and perspective. Narrated by Jacqueline
+        Bisset.</image:caption
+      >
+      <image:title>Cezanne in Provence</image:title>
+    </image:image>
+  </url>
+</urlset>

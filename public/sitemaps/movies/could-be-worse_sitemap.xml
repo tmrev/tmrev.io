@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/598154-Could Be Worse!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/598154-Could Be Worse!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g2oE2fqXqLVmPL41fZOAULle8DE.jpg</image:loc
+      >
+      <image:caption
+        >This musical will have you rolling with laughter as director Zack
+        Stratis introduces the audience to his Greek-American family. Exploring
+        his relationships with his siblings and his parents as they plan the
+        celebration of his parents’ fiftieth wedding anniversary, Zack’s
+        recurring question is "What should I say in my film?" Not only is he
+        talking about the intricacies of his family’s "personal" life, but also
+        about being gay in this traditionally closed family.</image:caption
+      >
+      <image:title>Could Be Worse!</image:title>
+    </image:image>
+  </url>
+</urlset>

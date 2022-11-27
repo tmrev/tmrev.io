@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645611-Christmas at Belmont</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645611-Christmas at Belmont</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rS4oQGAjSZFcqgi1UWy3Af2p1tZ.jpg</image:loc
+      >
+      <image:caption
+        >Christmas at Belmont features performances that range from full
+        orchestra and chorus to jazz, percussion, string quartet, bluegrass and
+        musical theater ensembles, performed “in the round,” with musicians and
+        singers as likely to be placed in the balconies and in the aisles as on
+        stage. Hosted by Brenda Lee.</image:caption
+      >
+      <image:title>Christmas at Belmont</image:title>
+    </image:image>
+  </url>
+</urlset>

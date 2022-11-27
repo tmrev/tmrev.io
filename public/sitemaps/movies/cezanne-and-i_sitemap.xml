@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382509-Cezanne and I</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382509-Cezanne and I</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ErrcTPS1xf05ynSN9VmBOf9686.jpg</image:loc
+      >
+      <image:caption
+        >They loved each other with the ardor of thirteen-year-old boys.
+        Rebellion and curiosity, hopes and doubts, girls and dreams of glory –
+        they shared it all. Paul was rich, Emile poor. They went skinny-dipping,
+        drank absinthe, starved, only to overeat. Sketched models by day,
+        caressed them by night... Now, Paul is a painter and Emile a writer.
+        Glory has passed Paul by. But Emile has it all: fame, money, the perfect
+        wife, whom Paul once loved. They judge each other, admire each other,
+        confront each other. They lose touch, meet up again, like a couple who
+        cannot stop loving each other.</image:caption
+      >
+      <image:title>Cezanne and I</image:title>
+    </image:image>
+  </url>
+</urlset>

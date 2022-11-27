@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317952-Cartel Land</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317952-Cartel Land</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg</image:loc
+      >
+      <image:caption
+        >In the Mexican state of Michoacán, Dr. Jose Mireles, a small-town
+        physician known as "El Doctor," shepherds a citizen uprising against the
+        Knights Templar, the violent drug cartel that has wreaked havoc on the
+        region for years. Meanwhile, in Arizona's Altar Valley—a narrow,
+        52-mile-long desert corridor known as Cocaine Alley—Tim "Nailer" Foley,
+        an American veteran, heads a small paramilitary group called Arizona
+        Border Recon, whose goal is to halt Mexico’s drug wars from seeping
+        across our border.</image:caption
+      >
+      <image:title>Cartel Land</image:title>
+    </image:image>
+  </url>
+</urlset>

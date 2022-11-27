@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/471707-Corpus Christi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/471707-Corpus Christi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg</image:loc
+      >
+      <image:caption
+        >A pious 20-year-old juvenile delinquent is sent to work at a sawmill in
+        a small town; on arrival, he dresses up as a priest and accidentally
+        takes over the local parish. The arrival of this young, charismatic
+        preacher is an opportunity for the local community to begin the healing
+        process after a tragedy that happened a year prior.</image:caption
+      >
+      <image:title>Corpus Christi</image:title>
+    </image:image>
+  </url>
+</urlset>

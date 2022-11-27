@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15595-Careless</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15595-Careless</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y44vJtmFrKcQTIAA89aqgcimKlW.jpg</image:loc
+      >
+      <image:caption
+        >Wiley Roth finds a severed human finger in his kitchen one night.
+        Understandably freaked out, in a search across Los Angeles that brings
+        them in contact with psychics, ineffectual police, crooked taxidermists,
+        mysterious neighbors who might be on drugs, and a nine-fingered woman
+        named Cheryl who might, improbably, end up being the girl of his
+        dreams.</image:caption
+      >
+      <image:title>Careless</image:title>
+    </image:image>
+  </url>
+</urlset>

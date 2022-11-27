@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/844297-C.L.A.B.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/844297-C.L.A.B.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/JrIDc1ItANhsgs2QlIxnPmluM5.jpg</image:loc
+      >
+      <image:caption
+        >A man whose girlfriend was murdered takes revenge during the course of
+        a single night. A spiral of shocking violence leaves no room for words.
+        A man, his woman, three criminals and the distorted sounds of a city are
+        the only reference.</image:caption
+      >
+      <image:title>C.L.A.B.</image:title>
+    </image:image>
+  </url>
+</urlset>

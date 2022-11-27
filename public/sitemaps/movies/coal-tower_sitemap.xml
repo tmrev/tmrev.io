@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123364-Coal Tower</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123364-Coal Tower</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3TqTgWvwMSx3xiiqfFPpTXMDmH4.jpg</image:loc
+      >
+      <image:caption
+        >Jakub, a young, small time drug dealer, wakes up to find the police
+        storming the apartment building while his parents are both away on
+        holiday. After flushing all of his "secret stashes" in the toilet, he
+        finds out they are actually there to investigate the death of the girl
+        upstairs, a close childhood friend of his and the family. He slowly
+        retraces the past week that she has been lying dead in her flat and
+        remembers that he asked her to "receive a package" unbeknownst to her
+        from his drug dealer, Pexeso.</image:caption
+      >
+      <image:title>Coal Tower</image:title>
+    </image:image>
+  </url>
+</urlset>

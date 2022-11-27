@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/401011-Cinéast(e)s</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/401011-Cinéast(e)s</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Is there such a thing as strictly feminine cinema? Is it more difficult
+        for a woman than for a man to direct a film? Is gender parity necessary
+        in the industry? Actress and producer Julie GAYET and actor and director
+        Mathieu BUSSON ask these questions to twenty French woman filmmakers,
+        who face a camera together for the first time. After over an hour of
+        lively, informal, spontaneous and funny interviews, it becomes obvious
+        that these issues are still problematic and definitely worthy of a
+        documentary. As Mia HANSEN-LØVE remarks, “In the eyes of the people, a
+        woman’s film is always a woman’s film, while a man’s movie is simply… a
+        movie”.</image:caption
+      >
+      <image:title>Cinéast(e)s</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27134-Boy Eats Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27134-Boy Eats Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kMWuWQeysCuO4L9Ry235VsXAZZ.jpg</image:loc
+      >
+      <image:caption
+        >A boy declares his love for his girlfriend, only to die the same night.
+        He is brought back to life by his mother as a flesh-craving zombie, who
+        sires more teen undead while trying to control his, er, appetite for his
+        beloved.</image:caption
+      >
+      <image:title>Boy Eats Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

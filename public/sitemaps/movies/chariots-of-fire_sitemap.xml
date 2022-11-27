@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9443-Chariots of Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9443-Chariots of Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg</image:loc
+      >
+      <image:caption
+        >In the class-obsessed and religiously divided UK of the early 1920s,
+        two determined young runners train for the 1924 Paris Olympics. Eric
+        Liddell, a devout Christian born to Scottish missionaries in China, sees
+        running as part of his worship of God's glory and refuses to train or
+        compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and
+        class bias, but neglects his beloved sweetheart in his single-minded
+        quest.</image:caption
+      >
+      <image:title>Chariots of Fire</image:title>
+    </image:image>
+  </url>
+</urlset>

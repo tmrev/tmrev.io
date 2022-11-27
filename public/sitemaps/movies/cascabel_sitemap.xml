@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/371918-Cascabel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/371918-Cascabel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/evoMYbnYi5YRJemWDyxxoaDfNWm.jpg</image:loc
+      >
+      <image:caption
+        >Cascabel is the nickname of a 19-year-old girl from a small town who
+        dreams of going to Madrid to try her luck. After the failure of her
+        friend Luz, who has not managed to succeed as a singer in the capital
+        and has to return to town, Cascabel will try to impress a musical
+        representative who is hunting in the vicinity.</image:caption
+      >
+      <image:title>Cascabel</image:title>
+    </image:image>
+  </url>
+</urlset>

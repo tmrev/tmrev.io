@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/132495-Coachella</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/132495-Coachella</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hUQ22hYOauMq90Nmx32hzUkpxJW.jpg</image:loc
+      >
+      <image:caption
+        >Filmmaker Drew Thomas brings California's popular Coachella Valley
+        Music and Arts Festival to the screen with a different kind of musical
+        documentary that not only showcases performances by some of the hottest
+        acts to take the stage, but offers interviews with such musical icons as
+        Beck, Joshua Homme, Mos Def, and Perry Farrell as well. From English
+        icon Morrissey's performance at the inaugural Coachella Festival back in
+        1999 to Canadian indie rockers the Arcade Fire's electric 2005 set, the
+        musical acts featured here run the gamut from hip-hop to alternative and
+        virtually everything in between. Other artists featured include the
+        Pixies, the Flaming Lips, Kool Keith, Radiohead, Saul Williams, and
+        Squarepusher.</image:caption
+      >
+      <image:title>Coachella</image:title>
+    </image:image>
+  </url>
+</urlset>

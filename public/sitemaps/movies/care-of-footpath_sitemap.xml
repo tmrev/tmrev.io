@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/721807-Care of Footpath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/721807-Care of Footpath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/66TF9r6pkXmluUmXhOHw7sCzys9.jpg</image:loc
+      >
+      <image:caption
+        >An orphan slum boy who is adopted by an old lady who finds him on a
+        footpath. She brings him to live with her in the slums. With his
+        friends, he makes a living picking up selling rags. An encounter with
+        some school going students, who call him an uneducated brute, changes
+        the life of this slum boy. He takes up a personal challenge to attend
+        school and get educated. The film depicts how this slum boy faces
+        hardships in getting admission and attending schools and in fulfilling
+        his dream to become educated.</image:caption
+      >
+      <image:title>Care of Footpath</image:title>
+    </image:image>
+  </url>
+</urlset>

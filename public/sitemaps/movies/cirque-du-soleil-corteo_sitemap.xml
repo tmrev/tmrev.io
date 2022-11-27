@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15551-Cirque du Soleil: Corteo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15551-Cirque du Soleil: Corteo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kzDXhg31RFrGJJMl6IcoJr3S0JM.jpg</image:loc
+      >
+      <image:caption
+        >Corteo, which means "cortege" in Italian, is a joyous procession, a
+        festive parade imagined by a clown. The show brings together the passion
+        of the actor with the grace and power of the acrobat to plunge the
+        audience into a theatrical world of fun, comedy and spontaneity situated
+        in a mysterious space between heaven and earth.</image:caption
+      >
+      <image:title>Cirque du Soleil: Corteo</image:title>
+    </image:image>
+  </url>
+</urlset>

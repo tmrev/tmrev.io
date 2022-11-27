@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/432507-Claire's Camera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/432507-Claire's Camera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n12X1HWLOLQXmh781WvG8McLuDI.jpg</image:loc
+      >
+      <image:caption
+        >Claire, a school teacher with a camera is on her first visit to Cannes.
+        She happens upon a film sales assistant, Manhee, recently laid off after
+        a one-night stand with a film director. Together, this unlikely pair
+        become detectives of sorts, as they wander around the seaside resort
+        town, working to better understand the circumstances of Manhee's
+        firing.</image:caption
+      >
+      <image:title>Claire's Camera</image:title>
+    </image:image>
+  </url>
+</urlset>

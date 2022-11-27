@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/491128-Burles King Daw O...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/491128-Burles King Daw O...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hzUAvduZbUd2kVTZU1P44PF54bM.jpg</image:loc
+      >
+      <image:caption
+        >The son of an abusive American father and a Filipina mother, Harry
+        escapes to Manila with vengeance on his mind. After finding work as a
+        Macho Dancer in the city's gay clubs, finally Harry finds the strength
+        to confront the family he left behind.</image:caption
+      >
+      <image:title>Burles King Daw O...</image:title>
+    </image:image>
+  </url>
+</urlset>

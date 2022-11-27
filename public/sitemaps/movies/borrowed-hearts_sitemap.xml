@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70417-Borrowed Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70417-Borrowed Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4zVDQ8F0QVS3BP5fTmguR3RQJxK.jpg</image:loc
+      >
+      <image:caption
+        >Single mom Kathleen Russell (Roma Downey) and her daughter Zoey pretend
+        to be Kathleen's boss's "family" so he can close a major business deal
+        with the mysterious Mexican financier Javier Del Campo.</image:caption
+      >
+      <image:title>Borrowed Hearts</image:title>
+    </image:image>
+  </url>
+</urlset>

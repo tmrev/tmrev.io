@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/388403-Chongqing Hot Pot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/388403-Chongqing Hot Pot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2drSTNudM11yUkOCwqf5xS4JCZ6.jpg</image:loc
+      >
+      <image:caption
+        >When three friends open a hot pot restaurant in a former bomb shelter,
+        they discover it’s linked by a single wall to the bank vault next door.
+        While deciding to take the easy money or go to the police, they find out
+        one of the bank’s employees is a former classmate and look to enlist her
+        in deciding their future.</image:caption
+      >
+      <image:title>Chongqing Hot Pot</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/998839-CTRL-V</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/998839-CTRL-V</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qMRAKWs1AmYUfziHtREt2At7us4.jpg</image:loc
+      >
+      <image:caption
+        >Documentary-research on the global audiovisual industry and its effects
+        on local cultures. Produced with a homemade digital camera in the best
+        do-it-yourself style, without any production apparatus, director
+        Leonardo Brant uses excerpts from films that discuss the hegemonic
+        condition of the cultural industry and promotes dialogue with great
+        thinkers.</image:caption
+      >
+      <image:title>CTRL-V</image:title>
+    </image:image>
+  </url>
+</urlset>

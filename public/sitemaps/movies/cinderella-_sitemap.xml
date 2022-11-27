@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29420-Cinderella 2000</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29420-Cinderella 2000</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kAQjwpyhTuBmXPqbVI0fOdl1eMh.jpg</image:loc
+      >
+      <image:caption
+        >In the year 2047, sex is forbidden and Big Brother uses robots to keep
+        an eye on everyone. One young girl tries to outwit the government so she
+        can be with the man she loves.</image:caption
+      >
+      <image:title>Cinderella 2000</image:title>
+    </image:image>
+  </url>
+</urlset>

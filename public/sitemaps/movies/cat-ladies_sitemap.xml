@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68010-Cat Ladies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68010-Cat Ladies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mywbUEOP0VgOfNnOmRsPDjKgC6d.jpg</image:loc
+      >
+      <image:caption
+        >Cat Ladies unravels the real story behind the oft-ridiculed 'cat lady'
+        - a cultural stereotype and figure of ridicule for women of a certain
+        age with too many furry companions. Through the intimate portrait of
+        four unique 'cat ladies' we create a sensitive and emotionally honest
+        portrait of women whose lives and self-worth have become intractably
+        linked to cats. It's not the number of cats that defines someone as a
+        'cat lady', but rather their attachment, or non-attachment, to human
+        beings. They create a world with their cats in which they are accepted
+        and in control - a world where they ultimately have
+        value.</image:caption
+      >
+      <image:title>Cat Ladies</image:title>
+    </image:image>
+  </url>
+</urlset>

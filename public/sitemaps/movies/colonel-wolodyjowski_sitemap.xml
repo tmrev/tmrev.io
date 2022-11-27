@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126434-Colonel Wolodyjowski</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126434-Colonel Wolodyjowski</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/djmDH5uGGZHe3L6i5v0as5AWzk4.jpg</image:loc
+      >
+      <image:caption
+        >In 1668 Polish colonel Michael Wolodyjowski, who recently retired to a
+        monastery, is recalled to active duty and takes charge of Poland's
+        eastern frontier defenses against invading Tatar hordes and Ottoman
+        armies.</image:caption
+      >
+      <image:title>Colonel Wolodyjowski</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/284818-Coconut Shy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/284818-Coconut Shy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A romantic (silent) musical with a sci-fi twist, Coconut Shy is a sweet
+        &amp; heartbreaking homage to the Hollywood Dance Movies of the 1930's
+        and 1940's.</image:caption
+      >
+      <image:title>Coconut Shy</image:title>
+    </image:image>
+  </url>
+</urlset>

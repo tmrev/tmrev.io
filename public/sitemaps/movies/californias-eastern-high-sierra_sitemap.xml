@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788206-California's Eastern High Sierra</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788206-California's Eastern High Sierra</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >California's Eastern High Sierra is a region of fun and adventure. This
+        DVD is a great way to share your Highway 395 experience as it explores
+        the spectacular places and activities that make this region one of
+        America's favorite vacation playgrounds. From Bodie Ghost Town to
+        Mammoth Lakes and even the top of Mt. Whitney, this is a fun overview of
+        the Eastern High Sierra.</image:caption
+      >
+      <image:title>California's Eastern High Sierra</image:title>
+    </image:image>
+  </url>
+</urlset>

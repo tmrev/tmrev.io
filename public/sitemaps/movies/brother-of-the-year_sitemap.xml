@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/512732-Brother of the Year</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/512732-Brother of the Year</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6cURYN24gNbsBIsb0F0F3OimmQH.jpg</image:loc
+      >
+      <image:caption
+        >Jane lives with her brother Chut with her being the only one doing
+        everything around the house. But Chut will need to learn to take care of
+        himself when Jane becomes involved romantically with a Japanese
+        coworker.</image:caption
+      >
+      <image:title>Brother of the Year</image:title>
+    </image:image>
+  </url>
+</urlset>

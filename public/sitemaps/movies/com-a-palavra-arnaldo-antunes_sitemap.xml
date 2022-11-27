@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/555430-Com a Palavra, Arnaldo Antunes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/555430-Com a Palavra, Arnaldo Antunes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ylHkmOKJwV1g5NKV4JKgfxqsnTB.jpg</image:loc
+      >
+      <image:caption
+        >From his origins as a poet to his success as a singer and composer,
+        Arnaldo Antunes revisits the most remarkable moments of his
+        career.</image:caption
+      >
+      <image:title>Com a Palavra, Arnaldo Antunes</image:title>
+    </image:image>
+  </url>
+</urlset>

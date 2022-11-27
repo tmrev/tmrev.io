@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81123-Can This Be Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81123-Can This Be Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xPMEMEaGAhXBIA71fG5vMmGRT1D.jpg</image:loc
+      >
+      <image:caption
+        >University students Ryan and Daisy probably couldn’t be any more
+        dissimilar, with Ryan splitting his time between his nursing studies and
+        a part-time job and Daisy, a Korean exchange student, doing her best to
+        blend in with an unfamiliar culture. At first, their differences ignite
+        an intense dislike for each other, but eventually, they discover they
+        have more in common than they think perhaps even love.</image:caption
+      >
+      <image:title>Can This Be Love</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/102647-Canned Heat - Live at Montreux 1973</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/102647-Canned Heat - Live at Montreux 1973</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2JxYQ6B4Z8RbuwIcE2b0MEByzOl.jpg</image:loc
+      >
+      <image:caption
+        >Canned Heat was one of the hardest living, and hardest working, bands
+        of the late sixties and all throughout the seventies. Led by the
+        inimitable Bob The Bear Hite, a huge man with a personality to match,
+        they established themselves as one of the greatest white blues bands of
+        all time. This concert from Montreux in 1973, their only appearance at
+        the festival, captures them at their peak, and features a guest
+        appearance from Clarence Gatemouth Brown.</image:caption
+      >
+      <image:title>Canned Heat - Live at Montreux 1973</image:title>
+    </image:image>
+  </url>
+</urlset>

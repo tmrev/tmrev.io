@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456929-Champions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456929-Champions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m5z4Ud6Ya5EY3Eg3OBbVBaDKWK.jpg</image:loc
+      >
+      <image:caption
+        >A disgraced basketball coach is given the chance to coach Los Amigos, a
+        team of players who are intellectually disabled, and soon realizes they
+        just might have what it takes to make it to the national
+        championships.</image:caption
+      >
+      <image:title>Champions</image:title>
+    </image:image>
+  </url>
+</urlset>

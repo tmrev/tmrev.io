@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76692-China: The Panda Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76692-China: The Panda Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/esb4bQGBetD8L043ns5QUjAMs7K.jpg</image:loc
+      >
+      <image:caption
+        >Experience the world of the magnificent and rare Giant Panda as you
+        travel back in time on an exciting expedition through the breathtaking
+        splendor of 1936 China. Inspired by the true-life story of widowed New
+        York socialite Ruth Harkness, a fiercely independent woman who dared to
+        take up her late husband's expedition, journeying deep into the forests
+        of China to study the Giant Panda.</image:caption
+      >
+      <image:title>China: The Panda Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

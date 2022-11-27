@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/223895-Class Enemy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/223895-Class Enemy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3N76HlJc6QtPkMakGyDtVBFoaQe.jpg</image:loc
+      >
+      <image:caption
+        >Relations between the students and the new teacher of German are
+        extremely tense. When one female student commits suicide, her
+        schoolmates blame the teacher for her death. An awareness that things
+        are not quite so black and white comes too late.</image:caption
+      >
+      <image:title>Class Enemy</image:title>
+    </image:image>
+  </url>
+</urlset>

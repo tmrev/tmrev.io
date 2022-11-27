@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8064-Chiko</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8064-Chiko</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7jvu0BUsrsojDVDmar3QddRgCEF.jpg</image:loc
+      >
+      <image:caption
+        >This is the story of Isa, who grows up in a Hamburg suburb. It might be
+        one of the world's richest cities but every beast has its belly and
+        here, in the very underbelly, Chiko lives in a world where violence,
+        staking and keeping a claim, and drug taking are the norm. Where down is
+        not an option, Chiko is determined to rise to the top, whatever and
+        whomever it costs.</image:caption
+      >
+      <image:title>Chiko</image:title>
+    </image:image>
+  </url>
+</urlset>

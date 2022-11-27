@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279961-Boys In Kichute</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279961-Boys In Kichute</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6cFNFGFgLSHuA3dhE49BByIMnU3.jpg</image:loc
+      >
+      <image:caption
+        >A 12 year old boy dreams of becoming a goalkeeper for the national
+        Brazilian soccer team, but first he has to overcome his own fears to
+        convince his team boys club and his father who is against
+        competition.</image:caption
+      >
+      <image:title>Boys In Kichute</image:title>
+    </image:image>
+  </url>
+</urlset>

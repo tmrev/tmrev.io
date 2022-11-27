@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31189-Cairo Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31189-Cairo Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/10zKAyONGXQbtojOWeiZ176o8IQ.jpg</image:loc
+      >
+      <image:caption
+        >In Cairo on her own as she waits for her husband, Juliette finds
+        herself caught in a whirlwind romance with his friend Tareq, a retired
+        cop. As Tareq escorts Juliette around the city, they find themselves in
+        the middle of a brief affair that catches them both
+        unawares.</image:caption
+      >
+      <image:title>Cairo Time</image:title>
+    </image:image>
+  </url>
+</urlset>

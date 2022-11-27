@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104773-Ciegas, sordas y divorciadas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104773-Ciegas, sordas y divorciadas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tbBjai3rgRhIOCbp5NBwkzzALjD.jpg</image:loc
+      >
+      <image:caption
+        >Cuatro amigas de la adolescencia se reúnen en un restaurante, y en ese
+        encuentro descubren que la vida las ha vuelto muy diferentes y tendrán
+        que quitarse esa falsa etiqueta moral que se ponen para protegerse así
+        mismas de la critica y el desapruebo.</image:caption
+      >
+      <image:title>Ciegas, sordas y divorciadas</image:title>
+    </image:image>
+  </url>
+</urlset>

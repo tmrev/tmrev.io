@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321530-Caffeinated</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321530-Caffeinated</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7j5pQQaZIsCm8MxjXqDNINRKa0z.jpg</image:loc
+      >
+      <image:caption
+        >This documentary explores a vivid and unmatched perspective to the
+        existence of coffee in our daily lives. Expanding production to United
+        States, Italy, India, Guatemala, Honduras and Nicaragua, the film takes
+        coffee enthusiasts on a trip that will transcend their knowledge of the
+        beverage and get them close to a human reality they haven't experienced
+        before.</image:caption
+      >
+      <image:title>Caffeinated</image:title>
+    </image:image>
+  </url>
+</urlset>

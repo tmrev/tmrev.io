@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/835433-Confessions of Felix Krull</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/835433-Confessions of Felix Krull</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7AzY6wiiRZiKiVHY78WQu2xGAi3.jpg</image:loc
+      >
+      <image:caption
+        >Literary adaptation: a handsome youth of humble origins rises in
+        society through his connections made as an elevator attendant in a
+        luxury hotel.</image:caption
+      >
+      <image:title>Confessions of Felix Krull</image:title>
+    </image:image>
+  </url>
+</urlset>

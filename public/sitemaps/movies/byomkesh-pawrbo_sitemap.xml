@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/453059-Byomkesh Pawrbo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/453059-Byomkesh Pawrbo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xSFHsC6cgVyc2WoOb3wF3LHZmTB.jpg</image:loc
+      >
+      <image:caption
+        >A detective is hired to find the arms left by the American soldiers
+        after World War II. However, his search makes him discover a bigger
+        conspiracy which he must anyhow solve.</image:caption
+      >
+      <image:title>Byomkesh Pawrbo</image:title>
+    </image:image>
+  </url>
+</urlset>

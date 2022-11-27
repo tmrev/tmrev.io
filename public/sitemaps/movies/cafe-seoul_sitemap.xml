@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/182021-Cafe Seoul</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/182021-Cafe Seoul</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jmu2KhfpnWC2aFkKxT7YI3ob975.jpg</image:loc
+      >
+      <image:caption
+        >Jun, a Japanese freelance reporter, discovers hidden gem of Korean
+        traditional bakery "Moran-dang" by chance in the middle of the city of
+        Seoul, while covering stories of the city. Moran-dang takes him back to
+        his memory of childhood and urges him to stay there for more stories.
+        One day, Moran-dang is vandalized by construction villains in town who
+        maliciously try to take the spot of the bakery and the owner and chef,
+        Sang-Woo gets hands injured. When Moran-dang is in danger of closing,
+        little brother Sang-Hyuk returns home after drifting apart. As Jun
+        inspires Sang-Hyuk to restore his family tie and the secret recipes,
+        Sang-Hyuk and Jun are connected in friendship to save
+        Moran-dang.</image:caption
+      >
+      <image:title>Cafe Seoul</image:title>
+    </image:image>
+  </url>
+</urlset>

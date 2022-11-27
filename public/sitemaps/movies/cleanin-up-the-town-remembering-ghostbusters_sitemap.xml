@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/236426-Cleanin' Up the Town: Remembering
+      Ghostbusters</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/236426-Cleanin' Up the Town: Remembering
+      Ghostbusters</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kcc6qTeofnrBYX84LbvLIeHzIf0.jpg</image:loc
+      >
+      <image:caption
+        >The documentary that tells us the full story from where it all started
+        through to the future of the "Ghostbusters" franchise.</image:caption
+      >
+      <image:title>Cleanin' Up the Town: Remembering Ghostbusters</image:title>
+    </image:image>
+  </url>
+</urlset>

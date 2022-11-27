@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/956527-Crushed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/956527-Crushed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/riGMz5ud88D4bqA4LOD8859DScx.jpg</image:loc
+      >
+      <image:caption
+        >Kate has a huge crush on Jason, her classmate. And as she tries to
+        reunite with him during her senior trip, things get a little
+        messy.</image:caption
+      >
+      <image:title>Crushed</image:title>
+    </image:image>
+  </url>
+</urlset>

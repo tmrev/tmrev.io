@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655379-Copilot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655379-Copilot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xPb5lzEou8CZPy9bV0ssbL146gY.jpg</image:loc
+      >
+      <image:caption
+        >Asli and Saeed fall in love in the mid-1990s. Although Asli’s mother is
+        against their relationship, they secretly get married. Then he
+        disappears. A sensitive love story that recounts how Saeed changes
+        Asli’s life – before the entire world is shaken.</image:caption
+      >
+      <image:title>Copilot</image:title>
+    </image:image>
+  </url>
+</urlset>

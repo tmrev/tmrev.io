@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/195833-Caribe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/195833-Caribe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Vicente and Abigail run a banana plantation in Limon Province, on the
+        Caribbean coast of Costa Rica. Abigail's half-sister Irene, about whom
+        Abigail knew nothing, comes to introduce herself. Banana prices start
+        falling, threatening the plantation's finances. An oil company works
+        with the government to get off-shore drilling rights, over local
+        objection. Vicente is at the center of each cross-current. Will he fall
+        for Irene? Can he save the plantation? Will he sell out to corporate
+        offers?</image:caption
+      >
+      <image:title>Caribe</image:title>
+    </image:image>
+  </url>
+</urlset>

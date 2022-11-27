@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/456274-Chernobyl 30 Years On: Nuclear
+      Heritage</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/456274-Chernobyl 30 Years On: Nuclear
+      Heritage</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hV56dtmFYUO0pJO0ygxGXj6nHDA.jpg</image:loc
+      >
+      <image:caption
+        >Thirty years after the Chernobyl disaster, which occurred on the night
+        of April 26, 1986, its causes and consequences are examined. In
+        addition, a report on efforts to strengthen the structures covering the
+        core of the nuclear plant in order to better protect the population and
+        the environment is offered.</image:caption
+      >
+      <image:title>Chernobyl 30 Years On: Nuclear Heritage</image:title>
+    </image:image>
+  </url>
+</urlset>

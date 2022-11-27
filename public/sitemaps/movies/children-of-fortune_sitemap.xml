@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430465-Children of Fortune</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430465-Children of Fortune</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pZNCcD4N7f36EER7u8WLuZeQngQ.jpg</image:loc
+      >
+      <image:caption
+        >Navy detective Dave Passenger is assigned to investigate the murder of
+        a sailor's girlfriend. Dave follows the trail of evidence to a small
+        Arizona community where polygamy is still being practiced. Along for the
+        ride is Passenger's estranged 15-year-old daughter Erica who has been
+        invited to participate in the investigation by Dave in the hope that he
+        can mend a few family fences while tracking down the
+        culprit.</image:caption
+      >
+      <image:title>Children of Fortune</image:title>
+    </image:image>
+  </url>
+</urlset>

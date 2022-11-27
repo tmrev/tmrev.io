@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/685964-Cabal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/685964-Cabal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pNZ0JCmiWLGkqpMQDMZqQgPORYS.jpg</image:loc
+      >
+      <image:caption
+        >A military assassin is hired to hunt down and eliminate a bloodthirsty
+        serial killer who is committing murders in a forbidden
+        forest.</image:caption
+      >
+      <image:title>Cabal</image:title>
+    </image:image>
+  </url>
+</urlset>

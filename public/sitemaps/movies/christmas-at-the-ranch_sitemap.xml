@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/805973-Christmas at the Ranch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/805973-Christmas at the Ranch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ynYg2kSmXImV0xr6pxDluNB3tQl.jpg</image:loc
+      >
+      <image:caption
+        >When Haley Hollis returns to her family ranch to try and save it from
+        closure, she wasn't banking on spending so much time with ranch hand
+        Kate - or falling for her.</image:caption
+      >
+      <image:title>Christmas at the Ranch</image:title>
+    </image:image>
+  </url>
+</urlset>

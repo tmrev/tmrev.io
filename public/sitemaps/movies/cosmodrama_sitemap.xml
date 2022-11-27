@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/318032-Cosmodrama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/318032-Cosmodrama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oUscBajZNBfEJSCSP5gBkcgi86C.jpg</image:loc
+      >
+      <image:caption
+        >Maybe the 1960s, maybe the future. Seven astronauts wake up in a
+        spaceship, not knowing where they have come from nor where they are
+        heading. As the ship operates by itself, they have ample time to
+        meditate, rather scientifically, on matter, life and the
+        universe.</image:caption
+      >
+      <image:title>Cosmodrama</image:title>
+    </image:image>
+  </url>
+</urlset>

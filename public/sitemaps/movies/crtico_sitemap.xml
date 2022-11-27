@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134754-Crítico</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134754-Crítico</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z1oavqX1H6TVjsz9nr8J9aAlL2F.jpg</image:loc
+      >
+      <image:caption
+        >Seventy critics and filmmakers discuss cinema around the conflict
+        between the artist and the observer, the creator and the critic. Between
+        1998 and 2007, Kléber Mendonça Filho recorded testimonies about this
+        relationship in Brazil, the United States and Europe, based on his
+        experience as a critic.</image:caption
+      >
+      <image:title>Crítico</image:title>
+    </image:image>
+  </url>
+</urlset>

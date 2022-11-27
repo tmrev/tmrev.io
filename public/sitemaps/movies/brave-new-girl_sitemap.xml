@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34099-Brave New Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34099-Brave New Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zM2CFpnSwM8zvC22FFDWjTdJiPQ.jpg</image:loc
+      >
+      <image:caption
+        >Holly has everything it takes to be a star; the voice, the dream and
+        the dedication, but she lacks the means to break away from her humble
+        Texas upbringing. Then she gets the chance to attend an art and music
+        school on the East coast and her future suddenly looks bright. But the
+        road to stardom is a bumpy one.</image:caption
+      >
+      <image:title>Brave New Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

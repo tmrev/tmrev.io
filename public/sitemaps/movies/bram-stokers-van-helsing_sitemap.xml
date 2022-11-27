@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/789413-Bram Stoker's Van Helsing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/789413-Bram Stoker's Van Helsing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lO5m60w5C6xLdg4hA7ecDRjSvO6.jpg</image:loc
+      >
+      <image:caption
+        >England, 1897. Abraham Van Helsing receives a letter from his former
+        student Dr John Seward requesting his urgent assistance in the northern
+        town of Whitby, where his fiancée Lucy is showing all the signs of
+        vampirism. Van Helsing follows the bloody trail to the coffin of Count
+        Dracula himself. Van Helsing is a fresh take on the legend of Dracula
+        through the eyes of his greatest enemy.</image:caption
+      >
+      <image:title>Bram Stoker's Van Helsing</image:title>
+    </image:image>
+  </url>
+</urlset>

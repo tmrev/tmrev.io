@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30780-Cabin by the Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30780-Cabin by the Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dttOEOJ76BHhUR4858e2RBcYdNy.jpg</image:loc
+      >
+      <image:caption
+        >A screenwriter does research for his new script by actually kidnapping
+        and drowning young girls. He then places them in his "garden" of other
+        dead girls coming back daily to check on them. One girl narrowly escapes
+        and the other bodies are found leading to an ingenious plot to try and
+        capture the killer.</image:caption
+      >
+      <image:title>Cabin by the Lake</image:title>
+    </image:image>
+  </url>
+</urlset>

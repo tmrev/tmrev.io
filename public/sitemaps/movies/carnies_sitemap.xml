@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407279-Carnies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407279-Carnies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sawdust in the Blood used to be a Carny compliment...not a description
+        of a crime scene. There are a thousand sideshows playing thousands of
+        small towns in 1936 when the Knuckles Brothers Show rolls into yet
+        another town, ready to delight and dazzle the town folk with amazing
+        acts and puzzling oddities. As they set up their tents they could not
+        know that within days several of them would be dead, ripped savagely
+        apart by a seemingly inhuman force, their souls stolen from their limp
+        and bloody bodies. Step up, step up, ladies and gentlemen, the show is
+        about to begin...</image:caption
+      >
+      <image:title>Carnies</image:title>
+    </image:image>
+  </url>
+</urlset>

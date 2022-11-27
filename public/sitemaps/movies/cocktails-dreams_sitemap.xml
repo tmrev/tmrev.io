@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/703919-Cocktails & Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/703919-Cocktails & Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dcVxXxkNSjjgz04Kt2PswfGEDSv.jpg</image:loc
+      >
+      <image:caption
+        >A comedic version of 1988's "Cocktail" starring Tom Cruise, featuring
+        comedian Chris Fairbanks as a desperate bartender named Chris who tries
+        and fails to start a business with the main characters from the original
+        movie, which leads to fist fights, stalking, and eventually murder. The
+        film features Mike Upchurch's distinct style of film parody, digitally
+        adding actors and props to old footage to create new scenarios and
+        gags.</image:caption
+      >
+      <image:title>Cocktails & Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

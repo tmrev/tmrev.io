@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276186-Bye Bye Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276186-Bye Bye Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vdN6h0qsioL1HshmV2vN94e620H.jpg</image:loc
+      >
+      <image:caption
+        >A Chadian film director who lives and works in France (Haroun) returns
+        home upon the death of his mother. He is shocked at the degraded state
+        of the country and the national cinema. The filmmaker decides to make a
+        film dedicated to his mother.</image:caption
+      >
+      <image:title>Bye Bye Africa</image:title>
+    </image:image>
+  </url>
+</urlset>

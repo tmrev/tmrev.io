@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/687316-Call Center Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/687316-Call Center Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ru4vtlJ7H3NcLTsyEOlClN2K7Ju.jpg</image:loc
+      >
+      <image:caption
+        >A cinematic tale of deportation, migration, displacement and
+        opportunistic capitalism, Call Center Blues follows four characters as
+        they struggle to make sense of their lives in Tijuana. Each with a
+        vastly different story, they are all linked by their displacement and
+        the sole choice of call center work they have in a country that is so
+        unfamiliar and oftentimes frightening, yet other times a ray of hope.
+        Tijuana becomes their home, a place defined by the border but yet
+        defiant towards it, a no man's land where everything and everyone feels
+        transient. These characters paint a picture of love, loss and longing -
+        for home, for an American Dream deferred, and for
+        justice.</image:caption
+      >
+      <image:title>Call Center Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

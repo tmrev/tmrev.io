@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479970-Butterfly Caught</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479970-Butterfly Caught</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/NNOdalu0lHfEJX2dak15v5votR.jpg</image:loc
+      >
+      <image:caption
+        >Three beautiful aspiring actresses embark on a mission to break into
+        the competitive Los Angeles acting scene only to discover the road
+        leading to stardom comes at a price.</image:caption
+      >
+      <image:title>Butterfly Caught</image:title>
+    </image:image>
+  </url>
+</urlset>

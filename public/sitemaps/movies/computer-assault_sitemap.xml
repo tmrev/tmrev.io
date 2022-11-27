@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321016-Computer assault</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321016-Computer assault</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jkjYhuiQuvUk3jAu9pZFDadMqaU.jpg</image:loc
+      >
+      <image:caption
+        >Each of the members of a group of hackers is willing to fight against
+        system. Their messages and attacks are political, socially demmanding
+        but also playful. Each of them have reasons to have moved to that
+        virtual side, where they can be who they can't in real life. However,
+        the sudden implication of authorities (pressed by goverment to be
+        tougher against hackers)and of a wise and dangerous cracker will cause a
+        turn in their crusade. Will they use the enemy's means or their
+        ideological motivations imply a respect for law and human
+        life?</image:caption
+      >
+      <image:title>Computer assault</image:title>
+    </image:image>
+  </url>
+</urlset>

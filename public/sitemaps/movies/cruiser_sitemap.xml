@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/730890-Cruiser</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/730890-Cruiser</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wDezooy1winW4231ysxBA8i9jxt.jpg</image:loc
+      >
+      <image:caption
+        >A mysterious, hulking figure begins a night of carnage and terror in a
+        small Georgia town after murdering a police officer and stealing his
+        patrol car.</image:caption
+      >
+      <image:title>Cruiser</image:title>
+    </image:image>
+  </url>
+</urlset>

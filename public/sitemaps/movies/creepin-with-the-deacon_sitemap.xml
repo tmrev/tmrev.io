@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/598664-Creepin' With The Deacon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/598664-Creepin' With The Deacon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hQG9wvDDafS5DgutZ28VgrB7KDe.jpg</image:loc
+      >
+      <image:caption
+        >A young assistant pastor falls in love with the senior pastor's wife.
+        He must choose between his flesh and his faith. As he struggles to keep
+        his sanity, he discovers a path down a trail that reveals nothing but
+        lies.</image:caption
+      >
+      <image:title>Creepin' With The Deacon</image:title>
+    </image:image>
+  </url>
+</urlset>

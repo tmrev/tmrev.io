@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/758260-Closely Knit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/758260-Closely Knit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7KqPzQ4Gs1WoInB0bIXVTgsoAz1.jpg</image:loc
+      >
+      <image:caption
+        >Northern Germany, winter. It is Tobias' birthday and he is very
+        disappointed by his mother's present: a wool cap. In the meantime, the
+        skinhead Haske decides to leave his group but drives his car into the
+        river. At a bus stop he meets Tobias, who gives him his cap. A car
+        stops. It is Kyalja, who is going to the bank to withdraw some money she
+        needs to pay for her husband's cancer therapy. Haske gives her the
+        cap.</image:caption
+      >
+      <image:title>Closely Knit</image:title>
+    </image:image>
+  </url>
+</urlset>

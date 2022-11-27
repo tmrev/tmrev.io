@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69621-Counterstrike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69621-Counterstrike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kFavjsUrEPm1VzvDhvCW31rdRzb.jpg</image:loc
+      >
+      <image:caption
+        >A Secret Service agent and his brother, a reckless ATF agent, try to
+        stop a group of extreme right-wing U.S. military mercenaries, led by a
+        fanatic Taiwanese vixen, who hijack the Queen Mary 2 ocean liner with
+        the U.S. and Chinese presidents on board with the aim to steal China's
+        nuclear codes to arm China's ICBM missiles to use as bargaining chips
+        for their personal crusade against China.</image:caption
+      >
+      <image:title>Counterstrike</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259246-Chasing the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259246-Chasing the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Un3Qn5OFhmbCdc7m04L3F8viDX.jpg</image:loc
+      >
+      <image:caption
+        >The mysterious suicide of a man's sister prompts him to enlist
+        paranormal investigators to look into her death.</image:caption
+      >
+      <image:title>Chasing the Devil</image:title>
+    </image:image>
+  </url>
+</urlset>

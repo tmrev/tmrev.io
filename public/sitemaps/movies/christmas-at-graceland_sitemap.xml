@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/535808-Christmas at Graceland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/535808-Christmas at Graceland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1KhJ3cxhMbgsIudXpG0coqnftLn.jpg</image:loc
+      >
+      <image:caption
+        >Laurel, a Chicago-based business executive, travels to Memphis to
+        secure one of the city's oldest family-owned banks. While in Memphis,
+        Laurel reunites with old flame Clay, a local music promoter with loftier
+        aspirations. Though Laurel tries to keep her eye on the prize of the
+        business acquisition, Clay is very persuasive reminding her of the days
+        when they were a performing duo on the brink of stardom. Now Laurel's
+        focus turns to the home of the Blues and dreams of making music
+        again.</image:caption
+      >
+      <image:title>Christmas at Graceland</image:title>
+    </image:image>
+  </url>
+</urlset>

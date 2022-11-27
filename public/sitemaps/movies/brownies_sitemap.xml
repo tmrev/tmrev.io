@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/665587-Brownies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/665587-Brownies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tFXS8oj0HDQVHgdCUD9gxU1q5MN.jpg</image:loc
+      >
+      <image:caption
+        >Mel has a successful life. It all changes when her fiancé, Joe, is
+        involved with another woman. She changes drastically and had all her
+        friends worried. They decide to introduce Mel to Are, a book store owner
+        and brownies baker. When Mel and Are fall in love, Joe reappears and
+        tries to reclaim his love for Mel.</image:caption
+      >
+      <image:title>Brownies</image:title>
+    </image:image>
+  </url>
+</urlset>

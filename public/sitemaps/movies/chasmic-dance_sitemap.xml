@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418549-Chasmic Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418549-Chasmic Dance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bjmcBugTYKVamSDXr7Wp2xiN2X7.jpg</image:loc
+      >
+      <image:caption
+        >A visual metaphor for creative process as a sustained state of flux,
+        whereby the deconstruction and reconfiguration of source material
+        manifest themselves as a series of rapid abstract movements. Alluding to
+        the cosmic dance of Shiva, the film is an expression of primal rhythmic
+        energy, moving dialectically but without sublimation. Regeneration
+        ignites destruction, and transformation invites mutation, through
+        clashes of opposing modes such as video/film, surface/depth, and
+        light/darkness.</image:caption
+      >
+      <image:title>Chasmic Dance</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/629985-Christmas Under the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/629985-Christmas Under the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zjNW72nSDBNYduhD1wf0EBWVhNl.jpg</image:loc
+      >
+      <image:caption
+        >When Nick is fired from his high-powered investment firm at
+        Christmastime, he takes a job at a Christmas tree lot. There, he meets
+        Julie, an astronomy teacher who’s always looked to the stars for hope.
+        As the Christmas spirit washes over him—and he begins falling for
+        Julie—the once self-centered Nick discovers the joy of helping
+        others.</image:caption
+      >
+      <image:title>Christmas Under the Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

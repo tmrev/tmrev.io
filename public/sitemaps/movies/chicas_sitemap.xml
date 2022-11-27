@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71350-Chicas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71350-Chicas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nw8BFECiLN4STxq6Yx4iUBhZXnh.jpg</image:loc
+      >
+      <image:caption
+        >Pilar is a Spanish widow who has raised her three daughters in France.
+        In love with Fernand, the manager of the building in which she lives,
+        she organizes a lunch in her home with the intention of introducing him
+        to the rest of the family. The reunion goes wildly wrong and the
+        family's craziness overtakes.</image:caption
+      >
+      <image:title>Chicas</image:title>
+    </image:image>
+  </url>
+</urlset>

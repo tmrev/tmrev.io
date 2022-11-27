@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9602-Coming to America</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9602-Coming to America</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg</image:loc
+      >
+      <image:caption
+        >An African prince decides it’s time for him to find a princess... and
+        his mission leads him and his most loyal friend to Queens, New York. In
+        disguise as an impoverished immigrant, the pampered prince quickly finds
+        himself a new job, new friends, new digs, new enemies and lots of
+        trouble.</image:caption
+      >
+      <image:title>Coming to America</image:title>
+    </image:image>
+  </url>
+</urlset>

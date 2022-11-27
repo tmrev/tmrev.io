@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127431-Charlie the Ox</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127431-Charlie the Ox</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d7wNAZ340E2JdoyPC5t2Zq7vzbe.jpg</image:loc
+      >
+      <image:caption
+        >Clever payback thriller about a weak-willed safecracker who gets
+        double-crossed by a gang of bank robbers.</image:caption
+      >
+      <image:title>Charlie the Ox</image:title>
+    </image:image>
+  </url>
+</urlset>

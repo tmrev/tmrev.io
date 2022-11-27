@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45181-Chile Can Do It</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45181-Chile Can Do It</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/llN5FGKzxdXZVaW1Po9eQ3Cgy17.jpg</image:loc
+      >
+      <image:caption
+        >The businessman who sends the first Chilean astronaut into outer space
+        can't quite come up with the money to bring the adventurer
+        back.</image:caption
+      >
+      <image:title>Chile Can Do It</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/877680-Cosmópolis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/877680-Cosmópolis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The documentary Cosmópolis investigates the hectic life of São Paulo
+        through parallels between the city's history and the universes of 12 of
+        its inhabitants: Arab and Jewish merchants, a Bolivian street vendor,
+        northeastern suddentists, a karaoke champion and others, who translate
+        the way of being of this city of extremes.</image:caption
+      >
+      <image:title>Cosmópolis</image:title>
+    </image:image>
+  </url>
+</urlset>

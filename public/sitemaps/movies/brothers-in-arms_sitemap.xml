@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514166-Brothers in Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514166-Brothers in Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/81sJXQKffSM995iW5eZOlul8JLY.jpg</image:loc
+      >
+      <image:caption
+        >Charlie Sheen narrates, as cast and crew share their personal
+        experiences making the Academy Award winning film, Platoon. This
+        non-union, low budget, independent film was cast almost exclusively with
+        young, unknown actors making their first film. Together they share their
+        first hand accounts of the grueling boot camp, Oliver Stone's "unique"
+        directing style, and the brutal filming conditions that together forged
+        their eternal brotherhood.</image:caption
+      >
+      <image:title>Brothers in Arms</image:title>
+    </image:image>
+  </url>
+</urlset>

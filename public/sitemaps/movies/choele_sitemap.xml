@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/329605-Choele</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/329605-Choele</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hksFLK5DU6AYbE0Rtj3P3sdurxh.jpg</image:loc
+      >
+      <image:caption
+        >A rushing river caresses the life of a small town in southern
+        Argentina: Choele Choel. Coco is an eleven-year-old kid who intensely
+        wishes to be a grown-up, to be a man. A walk along the river with Johana
+        -his new Venezuelan neighbor- initiates Coco in the adult world. But his
+        father and life itself slow him down and make him feel small and
+        insignificant; just a child. When life gets complicated it is probably
+        best to let oneself go with the flow and float down the river like a
+        drifting log.</image:caption
+      >
+      <image:title>Choele</image:title>
+    </image:image>
+  </url>
+</urlset>

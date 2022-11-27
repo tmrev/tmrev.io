@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459982-Clown Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459982-Clown Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNJK9HOCisg9wxuzBm0csvpYSwd.jpg</image:loc
+      >
+      <image:caption
+        >Jenny, an ambitious, feisty but very successful advertising executive
+        has her drink spiked at a fancy dress party, leading to a brutal sexual
+        assault in the pub toilets by a mysterious figure dressed as a clown.
+        Slowly she rebuilds her life, and as she regains confidence in herself,
+        she returns to work after a six month absence.</image:caption
+      >
+      <image:title>Clown Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

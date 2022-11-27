@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/709192-Closed for Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/709192-Closed for Storm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1OKe4jKKld64LRlYuisNBkjJ5vG.jpg</image:loc
+      >
+      <image:caption
+        >Bright Sun Films' Jake Williams makes his feature debut with this
+        documentary about the infamous Six Flags New Orleans, which was
+        devastated by Hurricane Katrina, and has become a holy grail of sorts
+        for urban exploration.</image:caption
+      >
+      <image:title>Closed for Storm</image:title>
+    </image:image>
+  </url>
+</urlset>

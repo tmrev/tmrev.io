@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/231624-Cold Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/231624-Cold Spring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y0hbAE50OtJEqYOWpkAeL3QV6fH.jpg</image:loc
+      >
+      <image:caption
+        >Prompted by an almost fatal car accident, Sara and Roy, a married
+        couple, decide to start a new life and move to the small town of Cold
+        Spring. This incident also serves as a wakeup call for Roy who breaks
+        off an affair he's been having with his sexy mistress, Diane. Just as
+        they begin settling into their new life, Diane shows up in Cold Spring
+        and declares that she cannot live without him and has just bought a
+        house in Cold Spring to be near him.</image:caption
+      >
+      <image:title>Cold Spring</image:title>
+    </image:image>
+  </url>
+</urlset>

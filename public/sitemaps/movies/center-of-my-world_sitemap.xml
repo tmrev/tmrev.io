@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360737-Center of My World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360737-Center of My World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6gXgSBF3baQsHqDuIcuEzWt71Gv.jpg</image:loc
+      >
+      <image:caption
+        >A strange family: 17-year-old Phil lives with his mother and twin
+        sister in an old mansion on the outskirts of town. When he returns from
+        summer camp, the mood in the mansion has soured somehow. Phil doesn’t
+        worry about it, hanging out with his best friend Kat instead. When he
+        starts to feel attracted to a mysterious new student at school, Phil is
+        plunged into emotional turmoil only exacerbated by the trouble at
+        home.</image:caption
+      >
+      <image:title>Center of My World</image:title>
+    </image:image>
+  </url>
+</urlset>

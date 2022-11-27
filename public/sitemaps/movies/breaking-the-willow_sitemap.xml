@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/340272-Breaking the Willow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/340272-Breaking the Willow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5gcDrJO2Ua5iIReKPglgisxUpQM.jpg</image:loc
+      >
+      <image:caption
+        >A documentary on the legacy of China’s traditional kunqu opera,
+        BREAKING THE WILLOW tells the story of two Chinese women of different
+        dynasty and society, and their personal link to a bejeweled Phoenix
+        Tierra. Cui, a woman of humble background dreams her husband to gain her
+        the Phoenix Tierra but when the dream comes true, it turns out to be too
+        late. Hsiao Yu, a beautiful songstress from a royal decent of the past
+        dynasty, meets the First Scholar and falls in love. The day after their
+        wedding, the husband is called for the frontier. The fallen Princess
+        wears the Phoenix Tierra to bid him farewell with poets.</image:caption
+      >
+      <image:title>Breaking the Willow</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/188428-Civil War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/188428-Civil War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pjOyMYk3bvSGtzgrwrUJp3wKMMk.jpg</image:loc
+      >
+      <image:caption
+        >Summer of 1982, a beach in the south of Portugal. Rui and his parents
+        live closed in their worlds, blind to the failure that characterizes
+        them as a family and condemns them to the malaise of survival. Rui will
+        have school exams but he is only interested in music and in the
+        exploration of imaginary worlds that he constantly sketches in drawings.
+        Only Joana seems capable of pulling him out of his autism. The girl's
+        vitality fascinates him.</image:caption
+      >
+      <image:title>Civil War</image:title>
+    </image:image>
+  </url>
+</urlset>

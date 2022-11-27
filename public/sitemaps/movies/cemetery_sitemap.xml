@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/930581-Cemetery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/930581-Cemetery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gY1L68hZMPn5QaC4c41MylRxeo7.jpg</image:loc
+      >
+      <image:caption
+        >After a call announcing the visit of a church delegate to San Luis de
+        Frá, a town as ordinary as it is absurd, Jose María Marín, the parish
+        priest in charge, knows that the time has come to be responsible. He and
+        his old sacristan will have to find a corpse and inaugurate the cemetery
+        at any cost.</image:caption
+      >
+      <image:title>Cemetery</image:title>
+    </image:image>
+  </url>
+</urlset>

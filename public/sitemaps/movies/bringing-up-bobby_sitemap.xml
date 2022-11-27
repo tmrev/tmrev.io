@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/53100-Bringing Up Bobby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/53100-Bringing Up Bobby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1ZAuqI2XyUjycSvlPXTEX0mXKaj.jpg</image:loc
+      >
+      <image:caption
+        >Bringing Up Bobby is the story of a European con-artist and her son
+        Bobby, who find themselves in Oklahoma in an effort to escape her past
+        and build a better future. Olive and Bobby blithely charm their way from
+        one adventure to another until Olive's criminal past catches up with
+        her. Consequently, she must make a choice: continue with a life of crime
+        or leave the person she loves most in an effort to give Bobby a proper
+        chance in life.</image:caption
+      >
+      <image:title>Bringing Up Bobby</image:title>
+    </image:image>
+  </url>
+</urlset>

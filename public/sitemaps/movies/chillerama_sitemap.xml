@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79771-Chillerama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79771-Chillerama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eQsZdgCHvPKjLnK30ABVnt9wJcw.jpg</image:loc
+      >
+      <image:caption
+        >It's the closing night at the last drive-in theater in America and
+        Cecil B. Kaufman has planned the ultimate marathon of lost film prints
+        to unleash upon his faithful cinephile patrons. Four films so rare that
+        they have never been exhibited publicly on American soil until this very
+        night! With titles like Wadzilla, I Was a Teenage Werebear, The Diary of
+        Anne Frankenstein, and Zom-B-Movie, Chillerama not only celebrates the
+        golden age of drive-in B horror shlock but also spans over four decades
+        of cinema with something for every bad taste.</image:caption
+      >
+      <image:title>Chillerama</image:title>
+    </image:image>
+  </url>
+</urlset>

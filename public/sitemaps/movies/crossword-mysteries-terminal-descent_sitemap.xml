@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/783508-Crossword Mysteries: Terminal Descent</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/783508-Crossword Mysteries: Terminal Descent</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7rzE8vEXLMVzBEQA37746GBTc8J.jpg</image:loc
+      >
+      <image:caption
+        >After volunteering to participate in a crossword solving competition
+        with a new supercomputer, crossword puzzle editor Tess Harper finds
+        herself swept into the investigation of the bizarre murder of a tech
+        CEO</image:caption
+      >
+      <image:title>Crossword Mysteries: Terminal Descent</image:title>
+    </image:image>
+  </url>
+</urlset>

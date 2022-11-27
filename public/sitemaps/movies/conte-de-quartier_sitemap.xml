@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/210248-Conte de Quartier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/210248-Conte de Quartier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sQtGtwop8XoED1FPiJxrgnMCEKE.jpg</image:loc
+      >
+      <image:caption
+        >Seven characters, who are not connected with each other, live a
+        restless day in the district in renovation of a busting city. Each one
+        pursues a distinct aim and nobody pays attention to the others. A rag
+        doll passes from the hands of one character to the other's. And their
+        ways criss-cross until they finally meet and unite.</image:caption
+      >
+      <image:title>Conte de Quartier</image:title>
+    </image:image>
+  </url>
+</urlset>

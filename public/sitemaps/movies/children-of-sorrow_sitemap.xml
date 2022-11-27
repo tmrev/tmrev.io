@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/201024-Children of Sorrow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/201024-Children of Sorrow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sMzVNi2zlQvsAxv9dlUN5MIs2sW.jpg</image:loc
+      >
+      <image:caption
+        >Simon Leach is a very, very sick man. Thriving on despair, pain, and
+        panic, he unites a group of broken and desperate people in the middle of
+        the desert. He showers them with the love and affection they’re so
+        desperate for, but Simon has a much greater plan for his
+        followers.</image:caption
+      >
+      <image:title>Children of Sorrow</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/524695-Coyote: The Mike Plant Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/524695-Coyote: The Mike Plant Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6cSBOqb0IeWrdzptEDyxfgoc7Mg.jpg</image:loc
+      >
+      <image:caption
+        >Mike Plant burned his way through life by an unconventional set of
+        rules, leading him to dark corners of the world before finding his
+        passion and the pinnacle of an extreme sport that celebrates individuals
+        who race around the world on a sailboat... a true American adventure
+        story.</image:caption
+      >
+      <image:title>Coyote: The Mike Plant Story</image:title>
+    </image:image>
+  </url>
+</urlset>

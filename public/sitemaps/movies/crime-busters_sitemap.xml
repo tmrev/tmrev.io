@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11689-Crime Busters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11689-Crime Busters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z35E0qY8wkkSPIBT5ptQAyWvr8k.jpg</image:loc
+      >
+      <image:caption
+        >An attempted robbery turns to be an unexpected recruitment when two
+        unemployed men mistakenly break into a police office instead of a
+        store.</image:caption
+      >
+      <image:title>Crime Busters</image:title>
+    </image:image>
+  </url>
+</urlset>

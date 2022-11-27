@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15028-Clockstoppers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15028-Clockstoppers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9OvKOi7sHJMqNAy4PQBx13ix4Zi.jpg</image:loc
+      >
+      <image:caption
+        >Until now, Zak Gibbs' greatest challenge has been to find a way to buy
+        a car. But when he discovers an odd wristwatch amidst his father's
+        various inventions and slips it on -- something very strange happens.
+        The world around him seems to come to a stop, everything and everybody
+        frozen in time. Zak quickly learns how to manipulate the device and he
+        and his quick-witted and beautiful new friend, Francesca, start to have
+        some real fun.</image:caption
+      >
+      <image:title>Clockstoppers</image:title>
+    </image:image>
+  </url>
+</urlset>

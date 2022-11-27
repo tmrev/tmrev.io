@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799011-Chikara: Brick</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799011-Chikara: Brick</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/80a8fBzYz8dOzqmvPd1Odgj4S6a.jpg</image:loc
+      >
+      <image:caption
+        >The first HydraLock Challenge starts things off! Worker Ant makes his
+        official in-ring debut. Incoherence takes on The Order of the Neo Solar
+        Temple! The Kings of Wrestling collide when Chris Hero & Claudio
+        Castagnoli defend los Campeonatos de Parejas against tournament winners,
+        Gran Akuma and Icarus of F.I.S.T.!</image:caption
+      >
+      <image:title>Chikara: Brick</image:title>
+    </image:image>
+  </url>
+</urlset>

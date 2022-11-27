@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510482-Changing Tides</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510482-Changing Tides</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2UPD0vZxOluiagQQvM3YsyoInyr.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about the closure of the only lesbian restaurant in
+        Cologne, about saying goodbye and moving on, about the way lesbians go
+        out and the changes in the LGBT community.</image:caption
+      >
+      <image:title>Changing Tides</image:title>
+    </image:image>
+  </url>
+</urlset>

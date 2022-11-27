@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/354912-Coco</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/354912-Coco</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg</image:loc
+      >
+      <image:caption
+        >Despite his family’s baffling generations-old ban on music, Miguel
+        dreams of becoming an accomplished musician like his idol, Ernesto de la
+        Cruz. Desperate to prove his talent, Miguel finds himself in the
+        stunning and colorful Land of the Dead following a mysterious chain of
+        events. Along the way, he meets charming trickster Hector, and together,
+        they set off on an extraordinary journey to unlock the real story behind
+        Miguel's family history.</image:caption
+      >
+      <image:title>Coco</image:title>
+    </image:image>
+  </url>
+</urlset>

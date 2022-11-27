@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230840-Crespià, the Film not the Village</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230840-Crespià, the Film not the Village</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rUjXLaQ39xzwOirm4cLAdk372T.jpg</image:loc
+      >
+      <image:caption
+        >Loving cult film and idiosyncratic musical portrait of summer
+        festivities in the Catalan village of Crespià, with early performances
+        by the well-known faces from the work of Serra.</image:caption
+      >
+      <image:title>Crespià, the Film not the Village</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49689-Broken Wings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49689-Broken Wings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wgvzlUGVBDvVxMbmFWbgJA0Wtmp.jpg</image:loc
+      >
+      <image:caption
+        >Daphne and her four children try to cope with the abrupt death of
+        husband/father. As the family seems to fall apart, a sudden incident
+        gives them a chance to heal their 'broken wings'.</image:caption
+      >
+      <image:title>Broken Wings</image:title>
+    </image:image>
+  </url>
+</urlset>

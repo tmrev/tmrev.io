@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/860565-CHE and the Digital Cinema Revolution</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/860565-CHE and the Digital Cinema Revolution</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5KjNQjhc9ET4bfTIcY8FcjHyW9K.jpg</image:loc
+      >
+      <image:caption
+        >CHE was the first feature to use the Red camera, which Soderbergh
+        embraced for its versatility and image quality. This short 2009
+        documentary looks at the evolution of the camera during the film’s
+        production and at the many ways it has enhanced and altered the process
+        of modern digital filmmaking.</image:caption
+      >
+      <image:title>CHE and the Digital Cinema Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

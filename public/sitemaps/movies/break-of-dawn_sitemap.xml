@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/950863-Break of Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/950863-Break of Dawn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rUKALfI0euZ1eKAKIW8voxc0ElA.jpg</image:loc
+      >
+      <image:caption
+        >In 2038, Yuuma Sawatari is an elementary school kid who loves
+        everything about space and astronomy. He was initially excited when his
+        parents bought a robot called Nanako, but he was disappointed when he
+        learned that she was basically just a boring housekeeping robot.
+        However, when he does finally try to talk to her about space, something
+        strange happens. Her system crashes and is taken over by what claims to
+        be a marooned alien ship! The alien ship wants Yuuma's help to get back
+        to space!</image:caption
+      >
+      <image:title>Break of Dawn</image:title>
+    </image:image>
+  </url>
+</urlset>

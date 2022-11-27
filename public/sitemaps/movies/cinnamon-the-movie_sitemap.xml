@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/726192-Cinnamon the Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/726192-Cinnamon the Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/waacYbD9rn9C4JusFdbjJ03JAGT.jpg</image:loc
+      >
+      <image:caption
+        >Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in
+        this adventure of a lifetime. Join them in their quest, meeting new
+        friends like Anna (the girl who found Cinnamoroll/Cinnamon) and
+        discovering new places like the Forest of Pastries and Bread and the
+        Coffee Waterfalls.</image:caption
+      >
+      <image:title>Cinnamon the Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

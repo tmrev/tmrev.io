@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37237-Bullet to Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37237-Bullet to Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cDWJQGwbDp5JWfTDMrxH0bWmtvc.jpg</image:loc
+      >
+      <image:caption
+        >When long-time British agent Harry Palmer loses his job because the
+        Cold War is over, he's promptly approached by a Russian bossman, Alex.
+        In St. Petersburg Alex tells Harry of his plan for Russia's future,
+        which is threatened because a deadly biochemical weapon called the Red
+        Death has been stolen from him. He'll pay Harry handsomely to retrieve
+        it. An ex-spy friend tips Harry off that it's being sent to Beijing by
+        train, aboard which we begin to learn whose side everyone's really
+        on.</image:caption
+      >
+      <image:title>Bullet to Beijing</image:title>
+    </image:image>
+  </url>
+</urlset>

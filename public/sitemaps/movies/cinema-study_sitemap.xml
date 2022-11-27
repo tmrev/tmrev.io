@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/887570-Cinema Study</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/887570-Cinema Study</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Cinema Study is a reworking of images and sounds taken from Orson
+        Welles landmark film Citizen Kane. The piece breaks the frame into
+        multiple smaller rectangles, each with short video and audio samples
+        from the original film. Part of the activity of the viewer seems to be
+        the activity of keeping track of the images, which pop around the
+        screen, and how they relate to the sounds. All of the sounds in the
+        piece are in a precise synchronous relationship with the images on the
+        screen. The original narrative film breaks down almost completely, and
+        becomes an almost pure visual and musical experience. Call it Citizen
+        Kane the re-mix.</image:caption
+      >
+      <image:title>Cinema Study</image:title>
+    </image:image>
+  </url>
+</urlset>

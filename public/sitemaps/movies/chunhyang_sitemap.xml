@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/54986-Chunhyang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/54986-Chunhyang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eFrFFk33vPVYdR4VHFqqXQYabK1.jpg</image:loc
+      >
+      <image:caption
+        >Mongryong marries the beautiful Chunhyang without telling his father,
+        the Governor of Namwon.</image:caption
+      >
+      <image:title>Chunhyang</image:title>
+    </image:image>
+  </url>
+</urlset>

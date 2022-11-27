@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/732337-Cured</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/732337-Cured</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zL5H2Ls16m6XbbTMQPinEpPaxpy.jpg</image:loc
+      >
+      <image:caption
+        >Mentally ill. Deviant. Diseased. And in need of a cure. These were
+        among the terms psychiatrists used to describe gay women and men in the
+        1950s, 1960s, and early 1970s. And as long as they were “sick”, progress
+        toward equality was impossible. This documentary chronicles the battle
+        waged by a small group of activists who declared war against a
+        formidable institution – and won a crucial victory in the modern
+        movement for LGBTQIA+ equality.</image:caption
+      >
+      <image:title>Cured</image:title>
+    </image:image>
+  </url>
+</urlset>

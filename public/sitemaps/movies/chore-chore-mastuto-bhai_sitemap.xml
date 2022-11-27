@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/962273-Chore Chore Mastuto Bhai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/962273-Chore Chore Mastuto Bhai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/405Qj0i8nLGYJfCwoAx76XZFfro.jpg</image:loc
+      >
+      <image:caption
+        >John is hired by Nagraj to steal a diamond but ends up betraying him,
+        inviting his ire. Before Nagraj's henchman kills John, he gives the
+        diamond to a taxi driver for safekeeping.</image:caption
+      >
+      <image:title>Chore Chore Mastuto Bhai</image:title>
+    </image:image>
+  </url>
+</urlset>

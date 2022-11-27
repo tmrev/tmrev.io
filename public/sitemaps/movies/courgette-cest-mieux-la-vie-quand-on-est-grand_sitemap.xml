@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1018059-Courgette, C'est mieux la vie quand on est
+      grand</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/1018059-Courgette, C'est mieux la vie quand on est
+      grand</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6Qae7Q61c0Ewl3x2uTNT7ihR4x8.jpg</image:loc
+      >
+      <image:caption
+        >A young boy accidentally kills his alcoholic mother and is sent to live
+        in a foster home.</image:caption
+      >
+      <image:title
+        >Courgette, C'est mieux la vie quand on est grand</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

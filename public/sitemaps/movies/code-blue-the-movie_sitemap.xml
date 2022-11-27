@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/497333-Code Blue: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/497333-Code Blue: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m4FfgO8cU5pZuaKedyYtJ44ouWE.jpg</image:loc
+      >
+      <image:caption
+        >A medical team is dispatched to the patients on a helicopter to provide
+        medical care in the field as soon as possible. One day, four young
+        physicians are assigned to this latest medical system. The doctors
+        experience traumatic medical situations, deal with personal ambitions,
+        witness the fragility of life, and they grow personally and
+        professionally.</image:caption
+      >
+      <image:title>Code Blue: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

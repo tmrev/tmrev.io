@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65347-Cold Fusion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65347-Cold Fusion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j7KilE5raWHR58udQnCacFfr1t7.jpg</image:loc
+      >
+      <image:caption
+        >A UFO is shot down over Russia in the 1970s and the wreckage is taken
+        to a secret research facility. When the Soviet Union collapses, the
+        alien technology falls into the hands of a mysterious terrorist
+        organisation, which uses it to create a devastating doomsday weapon. A
+        team of secret agents is sent to stop the carnage.</image:caption
+      >
+      <image:title>Cold Fusion</image:title>
+    </image:image>
+  </url>
+</urlset>

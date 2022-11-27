@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/230211-Bros Before Hos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/230211-Bros Before Hos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ZGNVpzGEWYLpzE7J9FL8WOLlxc.jpg</image:loc
+      >
+      <image:caption
+        >Because of a bad marriage of their parents, two brothers Jules and Max
+        made a pact never to get into a relationship with a woman. Therefore,
+        they live a party-life in which they sleep with a different girl every
+        day. However this changes when Jules starts to date Anna and Max falls
+        in love with her. Can their bromance overcome this love
+        triangle.</image:caption
+      >
+      <image:title>Bros Before Hos</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/862856-Cop Goes Missing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/862856-Cop Goes Missing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2bJJ05jnCv9PlOzx1gCYtjDzPLx.jpg</image:loc
+      >
+      <image:caption
+        >One morning, a worn-out field cop, nicknamed Ping-Pong by everyone,
+        burns his police ID and disappears. During one night and one day, his
+        colleagues look for him, meet him and lose him in Toulouse and its
+        suburbs. But every hour that passes brings Ping-Pong a little bit closer
+        to his own destiny.</image:caption
+      >
+      <image:title>Cop Goes Missing</image:title>
+    </image:image>
+  </url>
+</urlset>

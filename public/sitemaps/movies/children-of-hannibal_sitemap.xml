@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/239783-Children of Hannibal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/239783-Children of Hannibal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7dm2d4qHNXIMJMDxh2OltjLehGm.jpg</image:loc
+      >
+      <image:caption
+        >Unemployed Domenico decides to rob a bank and escape to Switzerland.
+        Everything goes horribly wrong and he's forced to take a hostage. The
+        man he chooses, Tommaso, can't stand his wife, his business is doing
+        poorly, and he was already planning to run away with his gay cop lover,
+        so this seems to be a good way to disappear and start over again: the
+        kidnapped becomes the kidnapper and the two head South instead, where a
+        boat awaits them. Here, they're reached by Rita, Tommaso's
+        daughter.</image:caption
+      >
+      <image:title>Children of Hannibal</image:title>
+    </image:image>
+  </url>
+</urlset>

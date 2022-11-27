@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508887-Chal Mohan Ranga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508887-Chal Mohan Ranga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qawBFeXKfsUNIfnq4cTJbg1INFK.jpg</image:loc
+      >
+      <image:caption
+        >A young man with dreams of making it big in the USA falls in love with
+        an NRI woman residing there. She breaks up with him for reasons unknown
+        to him but serendipity plays cupid.</image:caption
+      >
+      <image:title>Chal Mohan Ranga</image:title>
+    </image:image>
+  </url>
+</urlset>

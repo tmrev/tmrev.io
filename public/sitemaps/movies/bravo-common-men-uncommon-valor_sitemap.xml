@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034937-Bravo! Common Men, Uncommon Valor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034937-Bravo! Common Men, Uncommon Valor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c4e6bD9B5MRutedLI85RFnkRUAW.jpg</image:loc
+      >
+      <image:caption
+        >Fourteen Marines and one Corpsman relive their journey from enlistment
+        through the epic 77-day Siege of Khe Sanh during the Vietnam War. Just
+        boys in 1968, they recount their ferocious experience in that wet and
+        isolated battleground, fighting fear and the enemy only to return to a
+        nation at odds with this controversial war. Still today, the Khe Sanh
+        experience simmers just beneath their skin.</image:caption
+      >
+      <image:title>Bravo! Common Men, Uncommon Valor</image:title>
+    </image:image>
+  </url>
+</urlset>

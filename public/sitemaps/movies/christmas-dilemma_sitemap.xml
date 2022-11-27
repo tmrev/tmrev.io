@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/768848-Christmas Dilemma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/768848-Christmas Dilemma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wgfXe1e0ebSJGeg94I23hsleFop.jpg</image:loc
+      >
+      <image:caption
+        >Newlywed couple Jay and Monica struggle to decide which set of in-laws
+        they should join for their first Christmas. They eventually decide
+        against picking one family over the other. Little do they know, their
+        decision is made for them when their families show up
+        unannounced.</image:caption
+      >
+      <image:title>Christmas Dilemma</image:title>
+    </image:image>
+  </url>
+</urlset>

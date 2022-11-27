@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/791348-Constantine: The House of Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/791348-Constantine: The House of Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kqYDoEb9PxLXM2ccoHInMMJalti.jpg</image:loc
+      >
+      <image:caption
+        >John Constantine wakes up in the eerie House of Mystery with no
+        recollection of how he got there. Fortunately, Zatanna and his friends
+        are all there. Unfortunately, they have a bad habit of turning into
+        demons and ripping him to shreds, over and over again!</image:caption
+      >
+      <image:title>Constantine: The House of Mystery</image:title>
+    </image:image>
+  </url>
+</urlset>

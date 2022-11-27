@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/99391-Choked</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/99391-Choked</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sIeRQoM9CSo8GsM1OMZ8l4XiP7d.jpg</image:loc
+      >
+      <image:caption
+        >In a recession-battered Seoul, a young man in the dodgy relocation
+        business must deal with loan sharks and aggrieved parties owed large
+        sums by his vanished entrepreneur mother. Director Kim Joong-hyun
+        gradually turns up the heat and watches his characters boil in this
+        intelligent and nuanced feature debut.</image:caption
+      >
+      <image:title>Choked</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12506-Cry Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12506-Cry Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6soMtBXIw1vouwo3r9y5ltUtF1r.jpg</image:loc
+      >
+      <image:caption
+        >A dramatic story, based on actual events, about the friendship between
+        two men struggling against apartheid in South Africa in the 1970s.
+        Donald Woods is a white liberal journalist in South Africa who begins to
+        follow the activities of Stephen Biko, a courageous and outspoken black
+        anti-apartheid activist.</image:caption
+      >
+      <image:title>Cry Freedom</image:title>
+    </image:image>
+  </url>
+</urlset>

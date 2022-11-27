@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/534675-Come Out of the Woods</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/534675-Come Out of the Woods</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6kgZ3v1ZzTjRXtjJMzrm7otfY1s.jpg</image:loc
+      >
+      <image:caption
+        >Three brothers living in rural Scotland struggle for intimacy and
+        stability as they attempt to navigate their survival amongst a corrupt
+        local police officer and the mysterious appearance of a girl's body on
+        their land.</image:caption
+      >
+      <image:title>Come Out of the Woods</image:title>
+    </image:image>
+  </url>
+</urlset>

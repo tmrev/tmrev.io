@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38021-Changing Times</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38021-Changing Times</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A9Xe5b4NPpuTUBuMuf1oJLpSdRm.jpg</image:loc
+      >
+      <image:caption
+        >In Tangiers where he traveled for his work, a man finds the woman he
+        loved, and attempts to revive their romance though it ended some 30
+        years earlier.</image:caption
+      >
+      <image:title>Changing Times</image:title>
+    </image:image>
+  </url>
+</urlset>

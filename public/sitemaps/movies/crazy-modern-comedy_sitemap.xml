@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/395696-Crazy Modern Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/395696-Crazy Modern Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AcGT7KhU1JSUA1EAlNFy5j383L2.jpg</image:loc
+      >
+      <image:caption
+        >Two rookie detectives get caught up in a kooky domestic dispute when
+        they land their first client: the owner of the boarding house where they
+        reside.</image:caption
+      >
+      <image:title>Crazy Modern Comedy</image:title>
+    </image:image>
+  </url>
+</urlset>

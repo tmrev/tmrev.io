@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/111854-Chicks With Sticks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/111854-Chicks With Sticks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Lrt7RPuqp8kqrARzkGRKKIubKg.jpg</image:loc
+      >
+      <image:caption
+        >The story takes the battle of the sexes into the hockey arena, as Paula
+        Taymore - who almost once made the Olympic team - finds herself drawn
+        into a challenge match against an irritating local men's squad. Fresh
+        from a painful divorce, and doubting herself, Paula must make a winner
+        out of an explosive, irreverent crew of women hockey players who flock
+        to her town, Red Deer Alberta, to assemble the team.</image:caption
+      >
+      <image:title>Chicks With Sticks</image:title>
+    </image:image>
+  </url>
+</urlset>

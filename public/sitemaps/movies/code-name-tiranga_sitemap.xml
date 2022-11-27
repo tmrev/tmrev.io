@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1021166-Code Name: Tiranga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1021166-Code Name: Tiranga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g4n0jbLbjWartTSi2Fcp2mwbwc.jpg</image:loc
+      >
+      <image:caption
+        >A story of a spy on a resolute and fearless mission for her nation in a
+        race against time where sacrifice is her only choice.</image:caption
+      >
+      <image:title>Code Name: Tiranga</image:title>
+    </image:image>
+  </url>
+</urlset>

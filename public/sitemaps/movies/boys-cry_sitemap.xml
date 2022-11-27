@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500849-Boys Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500849-Boys Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rZpkx4mEqglDaOEQvJMJ6hBKIUF.jpg</image:loc
+      >
+      <image:caption
+        >Mirko and Manolo are best friends and live in the suburbs of Rome. They
+        both live in poor conditions with their single parents, are still in
+        school and struggle with occasional odd jobs to make ends meet. Together
+        they share dreams of women, of sex and money, of a better life to come.
+        Then, after killing a man in a hit-and-run one night, they get involved
+        with the local mafia and their lives change dramatically.</image:caption
+      >
+      <image:title>Boys Cry</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20993-Brother 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20993-Brother 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r5pffTC8XZsrGUYSU8e23dGmGNK.jpg</image:loc
+      >
+      <image:caption
+        >Arriving in Moscow, Chechen War veteran Danila (Sergei Bodrov Jr) meets
+        Konstantin, an old friend who tells him that his twin brother has been
+        forced into signing a crooked contract with a US ice hockey team. Soon
+        after this meeting, Danila discovers Konstantin dead and he sets out to
+        avenge his death; a journey that leads him to Chicago and a whole new
+        experience.</image:caption
+      >
+      <image:title>Brother 2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39421-Classic Albums - The Doors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39421-Classic Albums - The Doors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dBVvHfbIJrCyjTjtJe8qQ6qzqGm.jpg</image:loc
+      >
+      <image:caption
+        >A future classic was unleashed in January 1967 as the Doors released
+        their eponymously titled debut album. This documentary in the Classic
+        Albums series takes an in-depth look at the album, with commentary from
+        Bruce Botnick, who worked on the album, and the three remaining
+        Doors--guitarist Robbie Krieger, keyboard player Ray Manzarek, and
+        drummer John Densmore. The three band members also play some of their
+        instrumental parts from the album, offering invaluable insight into how
+        the songs were constructed.</image:caption
+      >
+      <image:title>Classic Albums - The Doors</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/713983-Brass on Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/713983-Brass on Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When Henry Ernst toured Romania n 1996, he came across a wedding band
+        who called themselves Fanfare Ciocarlia. This is the story of that
+        meeting, and how Ernst introduced the band to the world.</image:caption
+      >
+      <image:title>Brass on Fire</image:title>
+    </image:image>
+  </url>
+</urlset>

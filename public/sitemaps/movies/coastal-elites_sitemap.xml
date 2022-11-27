@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/728203-Coastal Elites</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/728203-Coastal Elites</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oKe5dPzGHXCgDHqlVoqVcAM3qeN.jpg</image:loc
+      >
+      <image:caption
+        >A socially distanced comedic satire that spotlights five characters
+        breaking down and breaking through as they grapple with politics,
+        culture, and the pandemic.</image:caption
+      >
+      <image:title>Coastal Elites</image:title>
+    </image:image>
+  </url>
+</urlset>

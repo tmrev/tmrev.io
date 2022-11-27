@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13600-City of Ember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13600-City of Ember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jRYNa4tBRI5vpEBT2JRtIVNoDBU.jpg</image:loc
+      >
+      <image:caption
+        >For generations, the people of the City of Ember have flourished in an
+        amazing world of glittering lights. But Ember's once powerful generator
+        is failing and the great lamps that illuminate the city are starting to
+        flicker. Now, two teenagers, in a race against time, must search Ember
+        for clues that will unlock the ancient mystery of the city's existence,
+        before the the lights go out forever.</image:caption
+      >
+      <image:title>City of Ember</image:title>
+    </image:image>
+  </url>
+</urlset>

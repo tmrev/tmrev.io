@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77513-Colors in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77513-Colors in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8u2s0xJNYjdAgQaynVhkjDf0hGk.jpg</image:loc
+      >
+      <image:caption
+        >Anita and Fred have been a couple for 50 years, and happily married for
+        nearly as long. They have two grown children, and their grandchildren
+        are finishing school. Both can look back at a fulfilling past, but their
+        lives are still rich and vibrant. The fact that Fred is terribly ill has
+        been hidden from the family. For the first time in all these years, Fred
+        takes some liberties, which his wife interprets as an affront. Never
+        before has she felt so abandoned. Although she starts to question her
+        relationship, a love like theirs cannot end so easily. Indeed it should
+        never end.</image:caption
+      >
+      <image:title>Colors in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

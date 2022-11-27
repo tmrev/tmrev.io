@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/575244-Brain Damage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/575244-Brain Damage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d9jy6G0MI9nurUr5KVEkcCU05ud.jpg</image:loc
+      >
+      <image:caption
+        >A new film directed by Ira Cohen and produced by BASTET created from
+        never-before-seen original 16mm outtakes, featuring a new soundtrack
+        composed by Will Swofford with the Expanded Instrument
+        System</image:caption
+      >
+      <image:title>Brain Damage</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699780-Cowboys and Idiots</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699780-Cowboys and Idiots</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pgVyvRmAQ7uT7PjQ853RCZPrRzB.jpg</image:loc
+      >
+      <image:caption
+        >When the leader of a bank robbing trio takes the loot for himself, his
+        dim-witted partners, decide to track him down. By the time they finish
+        their quest, the Old West will never be the same again.</image:caption
+      >
+      <image:title>Cowboys and Idiots</image:title>
+    </image:image>
+  </url>
+</urlset>

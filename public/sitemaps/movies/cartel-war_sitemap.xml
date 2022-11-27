@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/142315-Cartel War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/142315-Cartel War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wM6ZKdfPkeH2PqVHGiFbEdtBXRt.jpg</image:loc
+      >
+      <image:caption
+        >Led by a detective hell-bent on revenge, a team of undercover cops in
+        Los Angeles attempt to bring down a powerful drug mob from the inside.
+        Operating outside the law, they put everything on the line to clean up
+        the streets and exact payback on the king pin who devastated their
+        families. Based on the true story of Mexico's most powerful drug lord,
+        Cartel War is an action-packed journey into an all-too-real violent
+        underworld.</image:caption
+      >
+      <image:title>Cartel War</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158476-Brass Band</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158476-Brass Band</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Based on Haruko Kashiwagi's popular comic, the film traces a group of
+        high-school kids as they try to revive the school's shabby brass band,
+        and also attempt to discover the reasons behind one of the members'
+        weird habit: Yuriko Seryu (Beni Arashiro) goes sexually wild whenever
+        she hears good music, and mauls the boys around her.</image:caption
+      >
+      <image:title>Brass Band</image:title>
+    </image:image>
+  </url>
+</urlset>

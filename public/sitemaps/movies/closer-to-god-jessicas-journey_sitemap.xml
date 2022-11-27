@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298569-Closer to God: Jessica's Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298569-Closer to God: Jessica's Journey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j20eQ5RbVHj0BE3050KN8m89NPk.jpg</image:loc
+      >
+      <image:caption
+        >A mother struggles to keep things under control as her daughter dies of
+        cancer, her estranged father suddenly returns, and her faith in God is
+        put to the test.</image:caption
+      >
+      <image:title>Closer to God: Jessica's Journey</image:title>
+    </image:image>
+  </url>
+</urlset>

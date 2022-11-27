@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/339405-Christine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/339405-Christine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/enZy6Yx6sjdOXxcnQVC200RjeKM.jpg</image:loc
+      >
+      <image:caption
+        >In the 1970s, a television reporter Christine Chubbuck struggles with
+        depression and professional frustrations as she tries to advance her
+        career.</image:caption
+      >
+      <image:title>Christine</image:title>
+    </image:image>
+  </url>
+</urlset>

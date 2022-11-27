@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571391-Chicuarotes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571391-Chicuarotes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8qCDtYCeBF7PwV42NDw2VrtNgA0.jpg</image:loc
+      >
+      <image:caption
+        >Cagalera and Moloteco are two teenagers from San Gregorio Atlapulco who
+        are desperate to get out and move up and away from oppressive
+        circumstances. When they hear of an opportunity to buy a spot in the
+        electrician’s union, which could transform their lives, they quickly
+        devolve into the criminal, adult underworld of Mexico City in a bid to
+        buy their freedom.</image:caption
+      >
+      <image:title>Chicuarotes</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276392-China Circus on Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276392-China Circus on Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rhZ5c2cyfLwAJMzXXKX2mgThdaN.jpg</image:loc
+      >
+      <image:caption
+        >For more than a half a century, the Heilongjiang Acrobatic troupe kept
+        audiences on the edge of their seats with a contemporary spin on
+        traditional Chinese acrobatics. Then, the company's artistic director
+        had an idea: Put the act on ice. Follow a group of graduates from the
+        Wuqiao School of Acrobatic Arts as they train for the troupe's upcoming
+        Aurora on Ice tour during the obstacle-filled preparations for their big
+        opening night in Taipei.</image:caption
+      >
+      <image:title>China Circus on Ice</image:title>
+    </image:image>
+  </url>
+</urlset>

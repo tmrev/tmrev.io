@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/869636-Bubblegum Smackers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/869636-Bubblegum Smackers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ZnIOlpEFODbDyi5a6Ya1hoJx3i.jpg</image:loc
+      >
+      <image:caption
+        >Welcome to the world of a child's Imagination. Walter Wilder and his
+        partner Sam Hart are two tough detectives in the city. When a young girl
+        Jessica Rogers comes to them searching for her missing best friend.
+        Walter and Sam not only find themselves in the world of the notorious
+        gangster, Big Pop, but also in discovering secrets of their
+        own.</image:caption
+      >
+      <image:title>Bubblegum Smackers</image:title>
+    </image:image>
+  </url>
+</urlset>

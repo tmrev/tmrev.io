@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44053-Bustin' Down the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44053-Bustin' Down the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5BroMyrqB7JTx6v8BJ7ATZi6tb6.jpg</image:loc
+      >
+      <image:caption
+        >During the winter of 1975 in Hawaii, surfing was shaken to its core. A
+        group of young surfers from Australia and South Africa sacrificed
+        everything and put it all on the line to create a sport, a culture, and
+        an industry that is today worth billions of dollars and has captured the
+        imagination of the world. With a radical new approach and a brash
+        colonial attitude, these surfers crashed headlong into a culture that
+        was not ready for revolution. Surfing was never to be the same
+        again.</image:caption
+      >
+      <image:title>Bustin' Down the Door</image:title>
+    </image:image>
+  </url>
+</urlset>

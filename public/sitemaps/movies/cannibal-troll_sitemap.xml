@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/801557-Cannibal Troll</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/801557-Cannibal Troll</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o1VO6eYoldYkHppaEbp3hYW701N.jpg</image:loc
+      >
+      <image:caption
+        >A group of friends on a camping trip, for the bride to be' s hen do,
+        find themselves hunted down by a man eating cannibal troll in the
+        woodland. They are hunted, captured and locked up in the Trolls torture
+        chamber being forced to undergo a variety of challenges in order to
+        escape their fate.</image:caption
+      >
+      <image:title>Cannibal Troll</image:title>
+    </image:image>
+  </url>
+</urlset>

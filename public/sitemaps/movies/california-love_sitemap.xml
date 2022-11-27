@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/885792-California Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/885792-California Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iG2OG2KheD3JFiZjAzVI7RtBVw.jpg</image:loc
+      >
+      <image:caption
+        >Leon Watkins runs a community helpline in South Central LA, where
+        anyone in need of help is welcome. One of his most frequent visitors is
+        local gang leader, John Wesley Hunter, otherwise known as “Joker” to the
+        streets. After a day of hustling and almost losing his life in a
+        shoot-out, Joker goes to the one place where he knows he can get help.
+        All in a typical day’s work for Leon until an unlikely woman shows up
+        insisting on aiding him in his fight for his community. This unlikely
+        team defies social constructs by working together to actively fight
+        oppression and gain nation-wide recognition for a hidden reality of
+        many. Along their way they experience the deep-seeded hatred that has
+        plagued America, great love, and tragedy as they leave behind a
+        legacy.</image:caption
+      >
+      <image:title>California Love</image:title>
+    </image:image>
+  </url>
+</urlset>

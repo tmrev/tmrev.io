@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/293278-Children of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/293278-Children of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sE0pR4Daav2mZlVUqcYkrmlk3SH.jpg</image:loc
+      >
+      <image:caption
+        >A tale of family and loyalty, love and loss, betrayal and redemption.
+        As the Mob destroys the life of a big family and leaves them on the
+        brink of survival, a powerful, yet secret love, burns between Marko (a
+        gangster) and Angela - two high school sweethearts. Good fortune smiles
+        on the family (a bohemian collective of lovable eccentrics) as they find
+        a long-lost treasure, but Angela betrays them in the name of love by
+        stealing it in order to save Marko's life from the Mob. In the end,
+        everyone reaps what they sow, and their love ends
+        inauspiciously.</image:caption
+      >
+      <image:title>Children of the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

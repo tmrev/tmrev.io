@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645879-Christmas at Baylor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645879-Christmas at Baylor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mgUD6G4i3XjXEnYXenFHhFxDFRw.jpg</image:loc
+      >
+      <image:caption
+        >Christmas At Baylor features the considerable vocal and instrumental
+        talents of students and faculty from Baylor's celebrated School of Music
+        performing during a high point of the holidays at Baylor - the annual
+        choral concert in Jones Concert Hall, as well as other special
+        performances.</image:caption
+      >
+      <image:title>Christmas at Baylor</image:title>
+    </image:image>
+  </url>
+</urlset>

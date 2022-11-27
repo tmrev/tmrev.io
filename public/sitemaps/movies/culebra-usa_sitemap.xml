@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/411056-Culebra USA</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/411056-Culebra USA</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Three shipwreck survivors reach the shores of a deserted island used to
+        carry out military experiments. The issue of military occupation and its
+        consequences on the civilian population is presented in this microcosm,
+        composed by the three characters.</image:caption
+      >
+      <image:title>Culebra USA</image:title>
+    </image:image>
+  </url>
+</urlset>

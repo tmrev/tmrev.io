@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1005254-Cheo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1005254-Cheo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wF0GgQcCxsDbe9INzwTonuxQwOW.jpg</image:loc
+      >
+      <image:caption
+        >Cheo and his girlfriend Blue just graduated from high school with
+        dreams of hitting it big as a disc jockey. Spending his days spinning
+        with his best friend Eli, creative differences hinder their friendship
+        of setting the world of fire.</image:caption
+      >
+      <image:title>Cheo</image:title>
+    </image:image>
+  </url>
+</urlset>

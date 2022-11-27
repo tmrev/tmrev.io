@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589343-Buzzed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589343-Buzzed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mCqClCCuuCFzY97GRaNaQcrk4dK.jpg</image:loc
+      >
+      <image:caption
+        >Dive into the pond for a whole new adventure! All your favorite pond
+        critters are back and this time they're dealing with a robotic toad that
+        threatens to upstage Joe. When Joe gets stuck in a soda can, it's up to
+        his friends to come together to help save him and their pond. Join the
+        inhabitants of Pondemonium as they discover the most important thing in
+        life, is love and friendship.</image:caption
+      >
+      <image:title>Buzzed</image:title>
+    </image:image>
+  </url>
+</urlset>

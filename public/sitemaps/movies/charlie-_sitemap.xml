@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/160295-Charlie 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/160295-Charlie 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Y3wfXLnPb1j5ZOTYNoYnUvIOYH.jpg</image:loc
+      >
+      <image:caption
+        >Felix Bender (Nikita Wokurka) is an eleven-year-old orphan who lives
+        with unloving foster parents. For five years he’s been waiting for his
+        older brother to pick him up, but his hopes fade away with each year’s
+        passing. On his eleventh birthday Felix gets a laptop from the only
+        person who cares about him, his neighbor Rasmus. The man hopes that
+        Felix would be able to get in contact with his brother through the
+        internet, but during the first connection a little accident happens: a
+        mouse runs over the keyboard and accidentally makes the laptop download
+        a program that awakens the old car and gives that car a soul. Soon the
+        boy and his car are being hunted by the owners of the program, who want
+        to get it back and destroy the car.</image:caption
+      >
+      <image:title>Charlie 2</image:title>
+    </image:image>
+  </url>
+</urlset>

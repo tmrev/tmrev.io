@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/844135-Charlotte</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/844135-Charlotte</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hTLFNVxi2P5YeULAd5Mb2XbW9i4.jpg</image:loc
+      >
+      <image:caption
+        >The true story of Charlotte Salomon, a young German-Jewish painter who
+        comes of age in Berlin on the eve of the Second World War. Fiercely
+        imaginative and deeply gifted, she dreams of becoming an artist. Her
+        first love applauds her talent, which emboldens her resolve. When
+        anti-Semitic policies inspire violent mobs, she escapes to the safety of
+        the South of France. There she begins to paint again, and finds new
+        love. But her work is interrupted, this time by a family tragedy that
+        reveals an even darker secret. Believing that only an extraordinary act
+        will save her, she embarks on the monumental adventure of painting her
+        life story.</image:caption
+      >
+      <image:title>Charlotte</image:title>
+    </image:image>
+  </url>
+</urlset>

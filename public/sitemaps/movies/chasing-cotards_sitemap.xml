@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314194-Chasing Cotards</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314194-Chasing Cotards</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Once a successful artist, Hart is now a shadow of his former self, his
+        world torn apart by loss. He is consumed by a haunting portrait of his
+        deceased wife and spends every moment studying her face, unable to
+        forget. Knowing that she was taken away from him too soon, all he wishes
+        is that she would return to breathe life into his world once
+        more.</image:caption
+      >
+      <image:title>Chasing Cotards</image:title>
+    </image:image>
+  </url>
+</urlset>

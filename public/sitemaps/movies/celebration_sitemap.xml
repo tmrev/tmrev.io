@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541021-Celebration</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541021-Celebration</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/whhYtIMhmIDB3XYCXE5tJQrKtic.jpg</image:loc
+      >
+      <image:caption
+        >Blockade Leningrad, December 31. In the country house of the
+        Resurrection, living "in a special situation," six people and a chicken
+        gather, who no one can cook. Previously, the cook was engaged in this,
+        but the Voskresenskys were taken away from her on the eve - hard times
+        came on the outside, and the situation is also difficult inside: the
+        youngest son brought a hungry girl, the eldest daughter of an unknown
+        man for whom she is going to marry. Before the New Year there are few
+        minutes left, and the number of problems grows snowball.</image:caption
+      >
+      <image:title>Celebration</image:title>
+    </image:image>
+  </url>
+</urlset>

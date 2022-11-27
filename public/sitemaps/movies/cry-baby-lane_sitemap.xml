@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72270-Cry Baby Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72270-Cry Baby Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kRU5KkuKrBBpuyST6RDlRGXIFYR.jpg</image:loc
+      >
+      <image:caption
+        >Andrew and his older brother Carl enjoy listening to ghost stories that
+        the local undertaker tells them. One night he tells the tale of a local
+        farmer whose wife gave birth to Siamese twins, one being good natured
+        while the other was clearly evil. The farmer, ashamed of them, kept the
+        twins locked in their room. Eventually the twins got sick and died
+        together, so the farmer sawed them in half and buried the good twin in a
+        cemetery and the bad twin in a shallow grave near the house. Later, Carl
+        and his friends decide to hold a séance in the cemetery where the good
+        twin is buried, but they unintentionally awaken the bad twin instead.
+        Gradually, he possesses nearly everyone in town and it is up to young
+        Andrew to stop him.</image:caption
+      >
+      <image:title>Cry Baby Lane</image:title>
+    </image:image>
+  </url>
+</urlset>

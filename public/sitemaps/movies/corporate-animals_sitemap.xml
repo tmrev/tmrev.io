@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/530076-Corporate Animals</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/530076-Corporate Animals</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ajnBS9iakB3R5RIWedq6BHvmxFq.jpg</image:loc
+      >
+      <image:caption
+        >Disaster strikes when the egotistical CEO of an edible cutlery company
+        leads her long-suffering staff on a corporate team-building trip in New
+        Mexico. Trapped underground, this mismatched and disgruntled group must
+        pull together to survive.</image:caption
+      >
+      <image:title>Corporate Animals</image:title>
+    </image:image>
+  </url>
+</urlset>

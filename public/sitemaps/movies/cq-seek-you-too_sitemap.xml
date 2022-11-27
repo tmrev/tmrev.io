@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158234-CQ2 (Seek You Too)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158234-CQ2 (Seek You Too)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ququGWuu3gnVe5d6Z0FWoBIXufC.jpg</image:loc
+      >
+      <image:caption
+        >CQ2 (seek you too) is the story of an teenager, with an uncertain
+        future, who canalises her lust for life in the study of contemporary
+        dance.</image:caption
+      >
+      <image:title>CQ2 (Seek You Too)</image:title>
+    </image:image>
+  </url>
+</urlset>

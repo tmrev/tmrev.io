@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365457-Crossed Lines</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365457-Crossed Lines</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ufAx3soad80Hru7YuIb6kMfzEBF.jpg</image:loc
+      >
+      <image:caption
+        >Crossed Lines (Chinese: 命运呼叫转移; pinyin: Mìngyùn Hūjiào Zhuǎnyí)
+        is a Chinese comedy anthology film.</image:caption
+      >
+      <image:title>Crossed Lines</image:title>
+    </image:image>
+  </url>
+</urlset>

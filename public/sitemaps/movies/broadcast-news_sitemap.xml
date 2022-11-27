@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12626-Broadcast News</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12626-Broadcast News</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8YhpZz85umXsa4cH5U7a0hJ2Vuu.jpg</image:loc
+      >
+      <image:caption
+        >Basket-case network news producer Jane Craig falls for new reporter Tom
+        Grunnick, a pretty boy who represents the trend towards entertainment
+        news she despises. Aaron Altman, a talented but plain correspondent,
+        carries an unrequited torch for Jane. Sparks fly between the three as
+        the network prepares for big changes, and both the news and Jane must
+        decide between style and substance.</image:caption
+      >
+      <image:title>Broadcast News</image:title>
+    </image:image>
+  </url>
+</urlset>

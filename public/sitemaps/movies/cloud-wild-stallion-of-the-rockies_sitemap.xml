@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/486539-Cloud: Wild Stallion of the Rockies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/486539-Cloud: Wild Stallion of the Rockies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Filmed in the mountains of Montana, this poignant, engrossing chronicle
+        focuses on an extraordinary stallion, whose life has been recorded since
+        his birth in the wild in 1995 by Emmy-winning filmmaker Ginger
+        Kathrens.</image:caption
+      >
+      <image:title>Cloud: Wild Stallion of the Rockies</image:title>
+    </image:image>
+  </url>
+</urlset>

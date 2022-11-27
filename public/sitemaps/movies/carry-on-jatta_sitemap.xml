@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123463-Carry on Jatta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123463-Carry on Jatta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gLurAOoCEAleVT2y9O1VvjTyDdc.jpg</image:loc
+      >
+      <image:caption
+        >Jass falls in love with Mahie who is interested in marrying an orphan.
+        While they both marry each other, Jass hides his marriage from his
+        family.</image:caption
+      >
+      <image:title>Carry on Jatta</image:title>
+    </image:image>
+  </url>
+</urlset>

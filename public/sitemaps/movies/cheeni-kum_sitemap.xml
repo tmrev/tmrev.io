@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16576-Cheeni Kum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16576-Cheeni Kum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Lw8xM5iv2IOLjlMKVjo1F8MPnj.jpg</image:loc
+      >
+      <image:caption
+        >Buddhadev Gupta, a 64-year-old chef, falls in love with a 34-year-old
+        software engineer, Nina. However, their future becomes uncertain when he
+        discovers that her father is six years his junior.</image:caption
+      >
+      <image:title>Cheeni Kum</image:title>
+    </image:image>
+  </url>
+</urlset>

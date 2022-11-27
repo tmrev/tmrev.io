@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/258296-Crime and Punishment</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/258296-Crime and Punishment</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wDuFh9vwoEUy5LwDEco9jPXe83G.jpg</image:loc
+      >
+      <image:caption
+        >John Simm stars in this adaptation of Dostoyevsky's tragic masterpiece
+        - a profound drama of redemption and a thrilling detective story of the
+        soul.</image:caption
+      >
+      <image:title>Crime and Punishment</image:title>
+    </image:image>
+  </url>
+</urlset>
