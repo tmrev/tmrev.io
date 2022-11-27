@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298967-Die Die Delta Pi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298967-Die Die Delta Pi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yLF2SDUkWkqCFM5B23rZHDgN3S8.jpg</image:loc
+      >
+      <image:caption
+        >In late 1980s, when times were fun, technology was changing, clothes
+        were Rad and girls were Bad; there was one thing that didn't change,
+        traditions. Delta Pi, a long-lasting sorority institution in the heart
+        of Tampa, Florida, keeps that tradition "alive"...until late 1986 Spring
+        Break when a serial killer was just coming to light.</image:caption
+      >
+      <image:title>Die Die Delta Pi</image:title>
+    </image:image>
+  </url>
+</urlset>

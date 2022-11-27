@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/670328-Dino Dana: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/670328-Dino Dana: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ovrVAIXOuES7ZM90uFhrM9xoRW4.jpg</image:loc
+      >
+      <image:caption
+        >Finds 10-year-old Dana, who sees dinosaurs in the real world, solving
+        dino experiment #901 - where are all the kid dinosaurs? But while
+        working on the solution, her new neighbor Mateo is dino-napped by a
+        Tyrannosaurus Rex, and it's up to Dana, her sister Saara, and Mateo's
+        brother Jadiel to finish the experiment.</image:caption
+      >
+      <image:title>Dino Dana: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

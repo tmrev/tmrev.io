@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/492713-Drowning Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/492713-Drowning Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2NzA5cgmWY2f6dlGNALVLUEdgaQ.jpg</image:loc
+      >
+      <image:caption
+        >During a visit to friends, Sara begins having visions and is attacked
+        by an unearthly creature in her friend’s swimming pool; she soon
+        discovers that anyone who comes into contact with the water is in danger
+        and she is driven to confront the mystical and malevolent creature
+        lurking in the depths</image:caption
+      >
+      <image:title>Drowning Echo</image:title>
+    </image:image>
+  </url>
+</urlset>

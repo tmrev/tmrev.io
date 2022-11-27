@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662143-Dov'è Sisifo?!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662143-Dov'è Sisifo?!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i9VcVbbZjJvmsBXFXM7RwpCeXjW.jpg</image:loc
+      >
+      <image:caption
+        >Three stories revolving around 3 elements: the painting, the sofa and
+        the comet. The 3 chapters that compose it are also linked together by
+        these elements that give the entire film a circular structure, just like
+        the sad fate of Sisyphus who was condemned to push a huge stone to the
+        top of a hill.</image:caption
+      >
+      <image:title>Dov'è Sisifo?!</image:title>
+    </image:image>
+  </url>
+</urlset>

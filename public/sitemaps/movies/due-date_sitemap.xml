@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41733-Due Date</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41733-Due Date</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4dzo4uWmkgp20uwm0jpiduRtvju.jpg</image:loc
+      >
+      <image:caption
+        >Peter Highman must scramble across the US in five days to be present
+        for the birth of his first child. He gets off to a bad start when his
+        wallet and luggage are stolen, and put on the 'no-fly' list. Peter
+        embarks on a terrifying journey when he accepts a ride from an
+        actor.</image:caption
+      >
+      <image:title>Due Date</image:title>
+    </image:image>
+  </url>
+</urlset>

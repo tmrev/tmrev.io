@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78827-Deewangee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78827-Deewangee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7FQeWpBJKAhdMRDbD2DSaR8B2lm.jpg</image:loc
+      >
+      <image:caption
+        >Hired by a singer to defend her friend, who has been accused of murder,
+        a formidable lawyer learns that the man he represents may not be
+        innocent.</image:caption
+      >
+      <image:title>Deewangee</image:title>
+    </image:image>
+  </url>
+</urlset>

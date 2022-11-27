@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78302-Echap</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78302-Echap</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sNlt7EoYhQFkDUn0ae2KSOaAIKT.jpg</image:loc
+      >
+      <image:caption
+        >Un lendemain de fête excessivement arrosée, 5 copines parties en
+        week-end d’enterrement de vie de jeune fille se lancent dans une séance
+        de spriritisme. En tombant sur un ancien camarade de classe aussi décédé
+        que collant, les jeunes femmes vont vite s’apercevoir que dans le monde
+        du cyber-spiritisme, on ne bloque pas un esprit aussi facilement qu’un
+        contact MSN. Dans certains cas, la touche Echap ne sert plus à
+        rien..</image:caption
+      >
+      <image:title>Echap</image:title>
+    </image:image>
+  </url>
+</urlset>

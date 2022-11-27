@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593395-Diabolik</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593395-Diabolik</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9bOwV2V9r6LikmKHMDgmu9jcE92.jpg</image:loc
+      >
+      <image:caption
+        >1960s, the city of Clerville. The forthcoming visit of heiress Eva
+        Kant, who'll be bringing a famous pink diamond with her, catches the
+        attention of Diabolik, the infallible and elusive thief whose real
+        identity is unknown: while trying to steal the jewel, he finds himself
+        bewitched by Eva's charm, a feeling she may be reciprocating. But the
+        police, led by Inspector Ginko, is rapidly closing in on
+        him...</image:caption
+      >
+      <image:title>Diabolik</image:title>
+    </image:image>
+  </url>
+</urlset>

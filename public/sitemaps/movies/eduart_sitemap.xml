@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41424-Eduart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41424-Eduart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5kXh9nfPpUG88MSLPCVU5P7Y1Z2.jpg</image:loc
+      >
+      <image:caption
+        >Based on true events, a young man raised in a cruel and oppressive
+        family environment, leaves Albania with the dream of becoming a rock
+        star and living a better life. His reckless character and his youth
+        passions lead him to commit a murder in Athens. Chased by everyone, even
+        by his own self, he is imprisoned under the harshest conditions. With
+        the help of a German doctor, he learns to feel sympathy for others and
+        guilt for his crime. His deep remorse will lead him from darkness to
+        light.</image:caption
+      >
+      <image:title>Eduart</image:title>
+    </image:image>
+  </url>
+</urlset>

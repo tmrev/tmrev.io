@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312040-Daniel K. Inouye: An American Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312040-Daniel K. Inouye: An American Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Track the life of Japanese American Daniel K. Inouye from his days as a
+        World War II soldier to his tenure as a U.S. Senator from Hawaii. In
+        addition to sharing Inouye's many triumphs, this documentary also
+        explores his home state's modern history. Featuring interviews with
+        Inouye and other prominent politicians, this powerful story of courage,
+        dedication and patriotism aims to inspire and illustrates the diversity
+        of the American experience.</image:caption
+      >
+      <image:title>Daniel K. Inouye: An American Story</image:title>
+    </image:image>
+  </url>
+</urlset>

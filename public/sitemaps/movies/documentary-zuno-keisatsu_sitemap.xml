@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/766410-Documentary Zuno Keisatsu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/766410-Documentary Zuno Keisatsu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sFOAWR3alaiLEdEQNhsGIPd4Q5o.jpg</image:loc
+      >
+      <image:caption
+        >In December 1969, the band Zuno Keisatsu (The Brain Police) was formed,
+        with Panta and Toshi as its core members. The camera follows them for
+        three years leading up to the band’s reunion in 2008.</image:caption
+      >
+      <image:title>Documentary Zuno Keisatsu</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/704018-Domaren</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/704018-Domaren</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Boris Malinowski is the legendary judge in boxing and equal notorious
+        judge within the criminal the world in Russia and Estonia. The Director
+        Fredrik Undevik has followed Boris life on a four year journey thru a
+        life in the criminal the world in Estonia.</image:caption
+      >
+      <image:title>Domaren</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12920-Dreamer: Inspired By a True Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12920-Dreamer: Inspired By a True Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Z5FuLTrP5myJ2Dl9VzDRa6q0CG.jpg</image:loc
+      >
+      <image:caption
+        >Ben Crane believes that a severely injured racehorse deserves another
+        chance. He and his daughter Cale adopt the mare and save it from being
+        sacrificed by the owner.</image:caption
+      >
+      <image:title>Dreamer: Inspired By a True Story</image:title>
+    </image:image>
+  </url>
+</urlset>

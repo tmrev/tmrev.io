@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/195834-Defenders of Riga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/195834-Defenders of Riga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iHXjxW1pCcU52F6TAm0WyKRkaKB.jpg</image:loc
+      >
+      <image:caption
+        >The film dramatizes November 11, 1919- a crucial date in the battle for
+        Latvian independence. A year after the end of the official hostilities
+        of WWI, a renegade German general and troops remain outside the Latvian
+        capital. Latvian riflemen, most of them inexperienced volunteers,
+        somehow managed to defeat a larger, better-armed force of German and
+        Russian mercenaries.</image:caption
+      >
+      <image:title>Defenders of Riga</image:title>
+    </image:image>
+  </url>
+</urlset>

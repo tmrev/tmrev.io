@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/458032-Dobaara: See Your Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/458032-Dobaara: See Your Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4JvfdMMoVcIBlZvff59K7o39nxG.jpg</image:loc
+      >
+      <image:caption
+        >An official adaptation of the cult horror film Oculus. The film
+        revolves around a haunted mirror. It shows the emotional journey of
+        siblings Natasha Merchant played by Huma Qureshi and Kabeer Merchant
+        played by Saqib Saleem dealing with the death of their
+        parents.</image:caption
+      >
+      <image:title>Dobaara: See Your Evil</image:title>
+    </image:image>
+  </url>
+</urlset>

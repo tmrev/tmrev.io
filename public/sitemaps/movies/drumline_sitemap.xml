@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13497-Drumline</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13497-Drumline</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zl7gdxYqKdFCioPT3DAkZR5DDUP.jpg</image:loc
+      >
+      <image:caption
+        >A fish-out-of-water comedy about a talented street drummer from Harlem
+        who enrolls in a Southern university, expecting to lead its marching
+        band's drumline to victory. He initially flounders in his new world,
+        before realizing that it takes more than talent to reach the
+        top.</image:caption
+      >
+      <image:title>Drumline</image:title>
+    </image:image>
+  </url>
+</urlset>

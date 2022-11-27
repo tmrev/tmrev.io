@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/117058-Desamuduru</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/117058-Desamuduru</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gI2d5UVU5vySqM5LA0TrpGTFrB9.jpg</image:loc
+      >
+      <image:caption
+        >After Bala, who works for a TV channel, gets into trouble with a goon,
+        he is sent away for an out-of-town assignment. There he meets and falls
+        in love with a girl who gets kidnapped by a gangster.</image:caption
+      >
+      <image:title>Desamuduru</image:title>
+    </image:image>
+  </url>
+</urlset>

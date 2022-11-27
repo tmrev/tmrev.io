@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254644-Dangerous Toys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254644-Dangerous Toys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mc3yB2e5wDuwUYzWPmDqAKAzZpP.jpg</image:loc
+      >
+      <image:caption
+        >Adam Savage and Jamie Hyneman get the idea to play "War" from a group
+        of kids. Adam builds and attempts to defend a 24-foot tall couch fort
+        while Jamie tries to knock it down.</image:caption
+      >
+      <image:title>Dangerous Toys</image:title>
+    </image:image>
+  </url>
+</urlset>

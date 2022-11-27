@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440232-Ein Mensch wie Dieter - Golzower</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440232-Ein Mensch wie Dieter - Golzower</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/JVjNudT89qupNPjeQxOK8lTvjC.jpg</image:loc
+      >
+      <image:caption
+        >The portrait of someone who came into the class as a dropout and, as
+        far as travel is concerned, later went the farthest of all. The career
+        of a carpenter, enterprising go-getter and incorrigible optimist who
+        always made the best of the changing situations in his
+        life.</image:caption
+      >
+      <image:title>Ein Mensch wie Dieter - Golzower</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/610259-Diari Romeo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/610259-Diari Romeo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/powZmdX4m1A4WAa8ckSHNNzmMrz.jpg</image:loc
+      >
+      <image:caption
+        >Dani is naive and sweet, but overall, he is pretty much a geek. His
+        life is one big struggle to transform from a nerd into a stud. His
+        attempts at finding a girlfriend in his new boarding school proves
+        unsuccessful. His father, Jay, is just like his son - timid and
+        completely controlled by his wife, Munah and lives in fear of her
+        wrath...</image:caption
+      >
+      <image:title>Diari Romeo</image:title>
+    </image:image>
+  </url>
+</urlset>

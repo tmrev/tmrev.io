@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/308021-Discover China - A Peking Duck's Tale</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/308021-Discover China - A Peking Duck's Tale</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Savor the history and learn what goes into the preparation of Beijing's
+        renowned delicacy, Peking duck, with this delicious documentary. Famous
+        for its incredibly tasty crispy skin, the dish has been a popular treat
+        for centuries. A trip to several prominent duck farms in Beijing gives
+        viewers an inside look at duck selection, then Peking duck chefs discuss
+        their art. Finally, take a seat at the table and experience a famous
+        roast duck banquet.</image:caption
+      >
+      <image:title>Discover China - A Peking Duck's Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/287523-Death House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/287523-Death House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/piTubymqkO6QEuURTSccIV6d5PL.jpg</image:loc
+      >
+      <image:caption
+        >During an exclusive tour, a power breakdown inside a secret prison
+        known as the Death House sends two agents fighting through a labyrinth
+        of horrors while being pursued by a ruthless army of roaming inmates. As
+        they fight to escape, the agents push toward the lowest depths of the
+        facility where they learn a supernatural group of evil beings is their
+        only chance for survival.</image:caption
+      >
+      <image:title>Death House</image:title>
+    </image:image>
+  </url>
+</urlset>

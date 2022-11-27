@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382996-Death in the Desert</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382996-Death in the Desert</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nHAZvlvM8Z8L0YSv8xHK28yLQQE.jpg</image:loc
+      >
+      <image:caption
+        >The life of Kim Davis, the young live-in girlfriend of legendary casino
+        owner Ray Easler, is thrown upside down when she falls for Matt Duvall,
+        the man Ray hires to bury his $20 million fortune of silver on the floor
+        of the Nevada desert.</image:caption
+      >
+      <image:title>Death in the Desert</image:title>
+    </image:image>
+  </url>
+</urlset>

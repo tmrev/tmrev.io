@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1022683-Desertum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1022683-Desertum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >To be there is not to be here, is to be nowhere. Time, physical
+        locations and distance. The foreigner is absent from himself. The author
+        is the foreigner of foreigners. "I'm looking for a man I don't know,
+        who's never been more myself since I started looking for him." Edmond
+        Jabes</image:caption
+      >
+      <image:title>Desertum</image:title>
+    </image:image>
+  </url>
+</urlset>

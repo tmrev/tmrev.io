@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/782546-Ecki´s World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/782546-Ecki´s World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/du5dP7nyt7Q9InzVc1j9efbgE0I.jpg</image:loc
+      >
+      <image:caption
+        >The documentary is a portrait of of the oldest video library in the
+        world and his owner. Eckhard "Ecki" Baum opened the „Video Film-Shop“ in
+        Kassel (Germany) in the summer of 1975. It all began in „Wolfsanger“
+        with the sale and exchange of Super8 films, that soon lured to a bigger
+        shop and some daring methods.</image:caption
+      >
+      <image:title>Ecki´s World</image:title>
+    </image:image>
+  </url>
+</urlset>

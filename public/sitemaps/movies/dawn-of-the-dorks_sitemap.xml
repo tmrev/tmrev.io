@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029162-Dawn of the Dorks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029162-Dawn of the Dorks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tkSz404UzzRNlGWeCzyEj3EC1bc.jpg</image:loc
+      >
+      <image:caption
+        >During the Football World Cup 2006, people turn into football loving
+        zombies. A satirical hommage to Dawn of the Dead and other horror
+        movies.</image:caption
+      >
+      <image:title>Dawn of the Dorks</image:title>
+    </image:image>
+  </url>
+</urlset>

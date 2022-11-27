@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/66850-Double Dribble</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/66850-Double Dribble</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uGO5ZsLS4RQApdjG2qAcUDn8cOG.jpg</image:loc
+      >
+      <image:caption
+        >A basketball game of Goofs (P.U. vs. U.U.) in which the players play
+        furiously, often breaking the rules of the game. All of the players are
+        named after Disney artists.</image:caption
+      >
+      <image:title>Double Dribble</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/656685-Eerie Fairy Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/656685-Eerie Fairy Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3rjVh9N4D9cKd4b7dOaut5dGFXE.jpg</image:loc
+      >
+      <image:caption
+        >An anthology of bizarre, fantastic and spooky tales from the past,
+        present and future, dealing with curses, witches, perfect crime and
+        science experiments.</image:caption
+      >
+      <image:title>Eerie Fairy Tales</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490488-#Roxy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490488-#Roxy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/S8hlezAkxxQHLd1EBdho9EfxL7.jpg</image:loc
+      >
+      <image:caption
+        >Cyrus Nollen, Bergerac High's resident big-nosed hacker, uses social
+        media to help a handsome star athlete win the heart of his best friend
+        Roxy, despite the fact that he is deeply in love with her
+        himself.</image:caption
+      >
+      <image:title>#Roxy</image:title>
+    </image:image>
+  </url>
+</urlset>

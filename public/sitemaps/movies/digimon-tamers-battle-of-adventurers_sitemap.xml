@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/36200-Digimon Tamers: Battle of Adventurers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/36200-Digimon Tamers: Battle of Adventurers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zZwRkkmhoGiMsrrCtxIuS9I7uvG.jpg</image:loc
+      >
+      <image:caption
+        >Omnimon confronts Mephistomon (who was formed from Apocalymon's data)
+        in a dark corner of the Digital World over Mephistomon's attempt to
+        destroy both the Digital World and the Real World and incorporate the
+        data in order to become truly invincible. They fight, but then
+        Mephistomon sees a chance and slips into the Real World.</image:caption
+      >
+      <image:title>Digimon Tamers: Battle of Adventurers</image:title>
+    </image:image>
+  </url>
+</urlset>

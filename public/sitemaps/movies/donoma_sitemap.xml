@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/131413-Donoma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/131413-Donoma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xeCKrBkDJDrG72JXu2riYIC4pMs.jpg</image:loc
+      >
+      <image:caption
+        >A female teacher begins an ambiguous relationship with a student, an
+        agnostic teenager is « called » by God, a photographer offers herself to
+        a stranger : do we choose to love, do we choose to be loved
+        ?</image:caption
+      >
+      <image:title>Donoma</image:title>
+    </image:image>
+  </url>
+</urlset>

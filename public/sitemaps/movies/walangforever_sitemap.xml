@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373784-#WalangForever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373784-#WalangForever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5yUR5cSUL6htDAs6B4cz8PLAAtA.jpg</image:loc
+      >
+      <image:caption
+        >Mia, a celebrated writer of romantic-comedy films, is at a turning
+        point in her life which makes it difficult for her to believe that love
+        could last. Everything comes to a head when Ethan returns, only for her
+        to find out that he has become a cynic of lasting love because she broke
+        his heart.</image:caption
+      >
+      <image:title>#WalangForever</image:title>
+    </image:image>
+  </url>
+</urlset>

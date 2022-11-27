@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/404711-Dhilluku Dhuddu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/404711-Dhilluku Dhuddu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zI5C4xUnvZuGirocFYjVQKpBaQm.jpg</image:loc
+      >
+      <image:caption
+        >A rich man decides to do away with the middle-class guy whom his
+        daughter loves by inviting the guy's family to a palatial house on the
+        pretence of marriage. What he doesn't know is that the place is haunted
+        by a fearsome ghost.</image:caption
+      >
+      <image:title>Dhilluku Dhuddu</image:title>
+    </image:image>
+  </url>
+</urlset>

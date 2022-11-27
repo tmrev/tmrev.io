@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197391-Dornröschen erwacht</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197391-Dornröschen erwacht</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pL2O2jvbvH9nVevwBhE0dAJU0pY.jpg</image:loc
+      >
+      <image:caption
+        >After three years in a coma, Juliane Maybach suddenly wakes up, but
+        doesn't remember the last months before the accident that caused her
+        critical condition. The estrangement from her husband Stefan and their
+        daughter Antonia weighs heavily upon her mind and makes her mistrusting
+        everyone. Little by little, Juliane tries to reveal the secrets in her
+        past.</image:caption
+      >
+      <image:title>Dornröschen erwacht</image:title>
+    </image:image>
+  </url>
+</urlset>

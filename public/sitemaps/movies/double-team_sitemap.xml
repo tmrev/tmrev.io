@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9405-Double Team</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9405-Double Team</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg</image:loc
+      >
+      <image:caption
+        >A CIA agent is interned for failing to kill an international terrorist.
+        Escaping from his island exile, he teams up with a flamboyant arms
+        dealer and sets out to find the terrorist and rescue the agent's family.
+        Together they're a two-man arsenal... with enough voltage to rock the
+        free world.</image:caption
+      >
+      <image:title>Double Team</image:title>
+    </image:image>
+  </url>
+</urlset>

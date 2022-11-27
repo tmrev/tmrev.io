@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/723111-Dracula XXI</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/723111-Dracula XXI</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e55D254rGPZOVotDmo6BxWCkJAj.jpg</image:loc
+      >
+      <image:caption
+        >Dracula XXI is newcomer Paul Raila's hilarious version of a "straight"
+        young vampire who learns from a newly "out" God that he's been hanging
+        around the wrong coffins. With the help of a few friends a long they
+        way, he struggles through coping with the idea of being
+        gay.</image:caption
+      >
+      <image:title>Dracula XXI</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408044-Earth Crying</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408044-Earth Crying</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Set in Isaan, this is the story of a mother who struggles to lead her
+        needy family through seemingly endless hardships and pressures. To help
+        the family survive, the father endures greedy capitalists who
+        heartlessly take advantage of him and his family, forcing him to slave
+        at the harvest of an infertile field. That is until he loses both his
+        arms. Then all the burdens fall on the mother: bread-winning, taking
+        care of her crippled husband and raising the kids, all amid external
+        pressures from drought to vile businessmen.</image:caption
+      >
+      <image:title>Earth Crying</image:title>
+    </image:image>
+  </url>
+</urlset>

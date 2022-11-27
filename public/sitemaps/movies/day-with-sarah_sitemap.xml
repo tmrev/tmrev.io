@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400945-Day 73 with Sarah</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400945-Day 73 with Sarah</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Day 73 With Sarah tells the story of a little girl, who with the help
+        of her dead father hatches a plan to save herself and her mother from
+        her abusive stepfather, but the plan has unexpected
+        consequences.</image:caption
+      >
+      <image:title>Day 73 with Sarah</image:title>
+    </image:image>
+  </url>
+</urlset>

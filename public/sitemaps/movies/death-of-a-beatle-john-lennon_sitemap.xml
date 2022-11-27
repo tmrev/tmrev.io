@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369316-Death of a Beatle: John Lennon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369316-Death of a Beatle: John Lennon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Death of a Beatle, an extraordinary documentary film featuring
+        respected journalist and biographer Jack Jones, celebrates the
+        remarkable life of the 20th century icon while investigating the
+        motivations, forensic evidence and tragic final actions that forever
+        linked John Lennon to Mark David Chapman; the deranged man who shot and
+        killed Lennon on December 8, 1980 outside his home in New York
+        City</image:caption
+      >
+      <image:title>Death of a Beatle: John Lennon</image:title>
+    </image:image>
+  </url>
+</urlset>

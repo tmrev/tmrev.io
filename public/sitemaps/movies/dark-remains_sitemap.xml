@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17482-Dark Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17482-Dark Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sllVbXEe7U1tAzSL6JxqbO0oxSO.jpg</image:loc
+      >
+      <image:caption
+        >After their daughter is brutally murdered in their home, a grieving
+        young couple, Allena and Julie Pkye; escape the city to find solace in
+        the mountains. Julie photographs an abandoned prison she finds in the
+        woods. Upon developing the prints, she becomes convinced her dead
+        daughter is contacting her through the photographs.</image:caption
+      >
+      <image:title>Dark Remains</image:title>
+    </image:image>
+  </url>
+</urlset>

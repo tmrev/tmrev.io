@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/990515-Disc</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/990515-Disc</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cV4WLhKP2VkgstHhXcqrJuMPOog.jpg</image:loc
+      >
+      <image:caption
+        >When they are framed for an act of vandalism in their church, Traz and
+        his altar boy pals are plunged head first into a summer full of
+        church-cleaning, repent, uncertainty... and ULTIMATE FRISBEE! Forced to
+        work as a team with a nerd, a fat kid, a lonely goth, a foreigner, and
+        the ever-miffed Jason, Traz faces the ULTIMATE challenge of bringing
+        together this rag-tag group of wacky characters to overcome their
+        rivals, the evil Yacht Club team. Hilarity and hijinks await in this
+        ULTIMATE sendup to the classic 80's sports movie!</image:caption
+      >
+      <image:title>Disc</image:title>
+    </image:image>
+  </url>
+</urlset>

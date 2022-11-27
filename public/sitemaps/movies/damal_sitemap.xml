@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/906147-Damal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/906147-Damal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l0pNbodcAuION9cFXiPczBC3pBc.jpg</image:loc
+      >
+      <image:caption
+        >The film will contrast the story of the legendary "Shadhin Bangla
+        Football Team" with another from this era. The "Shadhin Bangla Football
+        Team" was formed in 1971. They played matches around the country to
+        donate money in the liberation war fund to help the freedom
+        fighters.</image:caption
+      >
+      <image:title>Damal</image:title>
+    </image:image>
+  </url>
+</urlset>

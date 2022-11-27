@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50495-7lives</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50495-7lives</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oJlI9pvErl78N9tbROHSmoQWKt5.jpg</image:loc
+      >
+      <image:caption
+        >A disgruntled married man called Tom believes that there is a better
+        life for him out there somewhere. On his way home one night he gets
+        attacked and falls into a parallel world where he lives 6 other lives
+        including a Rock-Star, A homeless person and the 'hoody' that attacked
+        him. These lives help him to re-evaluate his priorities and values but
+        in order to get home he must face some of his deepest fears and desires.
+        Will he make it home or is the grass greener on the other
+        side?</image:caption
+      >
+      <image:title>7lives</image:title>
+    </image:image>
+  </url>
+</urlset>

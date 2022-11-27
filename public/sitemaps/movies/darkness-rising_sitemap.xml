@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459068-Darkness Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459068-Darkness Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jPUJ0kRIVDiY9E10r9AEcqKtqmC.jpg</image:loc
+      >
+      <image:caption
+        >Nearly murdered as a child by her mother, a woman (Katrina Law) returns
+        to the house where her mom went mad.</image:caption
+      >
+      <image:title>Darkness Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

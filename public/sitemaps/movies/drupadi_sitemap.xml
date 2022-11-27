@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360766-Drupadi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360766-Drupadi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lUbtX9XXrvNgGAAfcjv4PD6B1Fm.jpg</image:loc
+      >
+      <image:caption
+        >Adapted from the ancient Indian epic Mahabharata, this movie depicts
+        the story of Drupadi, the wife of five brothers known as the
+        Pandawas.</image:caption
+      >
+      <image:title>Drupadi</image:title>
+    </image:image>
+  </url>
+</urlset>

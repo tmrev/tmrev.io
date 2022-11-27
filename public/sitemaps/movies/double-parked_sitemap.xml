@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/203820-Double Parked</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/203820-Double Parked</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l4JRaO0TgLgGM4aZGkPdQ5pqf85.jpg</image:loc
+      >
+      <image:caption
+        >A resourceful and high-spirited woman deals with financial distress and
+        her asthmatic thirteen-year-old son when his life is gravely complicated
+        by a new friendship with the son of her former drunken and abusive
+        husband.</image:caption
+      >
+      <image:title>Double Parked</image:title>
+    </image:image>
+  </url>
+</urlset>

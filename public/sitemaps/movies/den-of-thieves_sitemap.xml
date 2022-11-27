@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/449443-Den of Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/449443-Den of Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AfybH6GbGFw1F9bcETe2yu25mIE.jpg</image:loc
+      >
+      <image:caption
+        >A gritty crime saga which follows the lives of an elite unit of the LA
+        County Sheriff's Dept. and the state's most successful bank robbery crew
+        as the outlaws plan a seemingly impossible heist on the Federal Reserve
+        Bank.</image:caption
+      >
+      <image:title>Den of Thieves</image:title>
+    </image:image>
+  </url>
+</urlset>

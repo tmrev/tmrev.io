@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1020641-Déjà Vu: Surveillance Window</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1020641-Déjà Vu: Surveillance Window</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Divided into 10 segments we hear from cast and crew. We learn about
+        filming the opening ferry explosion, Washington's character and
+        performance, makeup and costumes, the Time Lab and technological issues,
+        the car chase, shooting in New Orleans, the Washington/Bruckheimer/Scott
+        collaboration, physical sequences, and the concluding ferry
+        scene.</image:caption
+      >
+      <image:title>Déjà Vu: Surveillance Window</image:title>
+    </image:image>
+  </url>
+</urlset>

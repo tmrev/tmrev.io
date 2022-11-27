@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274608-Durga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274608-Durga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >College student Durga (J D Chakravarthy) lives with his grandfather and
+        shuns all violence. He also loves Gayathri, a fellow student whom he
+        plans to marry, but her father is against the match. When a local don
+        learns that Durga persists in pursuing the relationship against the
+        wishes of Gayathri's father, he sends his henchmen to kill him --
+        unleashing a storm of terror on Gayathri and her family.</image:caption
+      >
+      <image:title>Durga</image:title>
+    </image:image>
+  </url>
+</urlset>

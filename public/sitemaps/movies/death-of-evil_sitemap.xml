@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56021-Death of Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56021-Death of Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >David Thunder (Damian Chapa) is a young Native American man whose
+        dreams have been haunted by evil since childhood, and when Julietta
+        Asher (Natasha Blasick) enters his life, it seems as though that evil is
+        about to manifest in the everyday world. Now, David must use the lessons
+        passed down by his grandmother to combat the darkness and save not only
+        his own life, but possibly that of Julietta -- and their unborn
+        child.</image:caption
+      >
+      <image:title>Death of Evil</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/526583-Design Canada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/526583-Design Canada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nwUjpxu8FbquslYoAf5GW7dHDHR.jpg</image:loc
+      >
+      <image:caption
+        >Through the lens of graphic design, “Design Canada” follows the
+        transformation of a nation from a colonial outpost to a vibrant and
+        multicultural society. What defines a national identity, is it an
+        anthem? A flag? Is it a logo or icon? How do these elements shape who we
+        are? In the 1960s and 1970s, these questions were answered by an
+        innovative group of Canadian designers, who used design to unify the
+        nation.</image:caption
+      >
+      <image:title>Design Canada</image:title>
+    </image:image>
+  </url>
+</urlset>

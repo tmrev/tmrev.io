@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/897043-Double Agent: The Eddie Chapman Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/897043-Double Agent: The Eddie Chapman Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8JlNBc9SpLG7J6h4lzuIKCWRWgp.jpg</image:loc
+      >
+      <image:caption
+        >The gripping story of Britain's most extraordinary double agent; Eddie
+        Chapman. Chapman duped the Germans so successfully he was awarded their
+        highest honour, the Iron Cross, the only UK citizen ever to have
+        received one.</image:caption
+      >
+      <image:title>Double Agent: The Eddie Chapman Story</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/622934-(Nie)znajomi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/622934-(Nie)znajomi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/brMKERs9JMTPYr6IOnN4T04VFZ1.jpg</image:loc
+      >
+      <image:caption
+        >A group of seven friends come together for dinner. What starts out as a
+        normal evening, evolves into something else when they decide to play a
+        game and read all text messages aloud and answer all phone calls on
+        speakerphone...</image:caption
+      >
+      <image:title>(Nie)znajomi</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784270-Double Portrait of a Coin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784270-Double Portrait of a Coin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AmEJM3Pv7CWTV91xMpDJeIJkYyW.jpg</image:loc
+      >
+      <image:caption
+        >Using previously unpublished footage shot by amateurs in the era of 8
+        mm cameras, the film is about the simple human life of those who lived
+        in the Soviet Latvia from 1940 until 1991, a time when a double-moral
+        reigned in society.</image:caption
+      >
+      <image:title>Double Portrait of a Coin</image:title>
+    </image:image>
+  </url>
+</urlset>

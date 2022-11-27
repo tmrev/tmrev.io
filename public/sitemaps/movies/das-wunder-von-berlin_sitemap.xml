@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/86170-Das Wunder von Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/86170-Das Wunder von Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wUwo0m16G5AznYSA00D8xUe5qjf.jpg</image:loc
+      >
+      <image:caption
+        >East Germany, 1988: working as a state security service agent, Jürgen
+        Kaiser is loyal to the party line, but worried about his son Marco, a
+        punk. As he is arrested after a concert, Marco is forced to join the
+        army, where he surprisingly identifies with socialism and believes he
+        has to defend his country against the capitalist enemy. While Jürgen is
+        astonished, his wife Hanna and Marco's girlfriend Anja, supporting the
+        civil rights movement, don't like his new attitude...</image:caption
+      >
+      <image:title>Das Wunder von Berlin</image:title>
+    </image:image>
+  </url>
+</urlset>

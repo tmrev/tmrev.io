@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396011-Deadly Intent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396011-Deadly Intent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cVxIRM6Sh9cCw7xjDvkXpdjPSMu.jpg</image:loc
+      >
+      <image:caption
+        >After the tragic death of her husband, a soldier posted to Afghanistan,
+        Bryony tries to build a new life for herself and her young son, James.
+        Struggling with her own grief she fails to notice that James has become
+        secretive and withdrawn, spending hours alone playing out death scenes
+        with his toys. When things start to go missing and furniture is smashed
+        Bryony blames James but when she confronts him she finds herself facing
+        a reality more terrifying than any nightmare. As her world crashes
+        around her Bryony realises that unless she can find a way to reconnect
+        with her son she and James will be separated for ever.</image:caption
+      >
+      <image:title>Deadly Intent</image:title>
+    </image:image>
+  </url>
+</urlset>

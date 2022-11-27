@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76420-DC Showcase: Catwoman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76420-DC Showcase: Catwoman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uork4S9bSxVOdGrBxGfsAqC0Ylv.jpg</image:loc
+      >
+      <image:caption
+        >Catwoman attempts to track down a mysterious cargo shipment that is
+        linked to a Gotham City crime boss called Rough Cut.</image:caption
+      >
+      <image:title>DC Showcase: Catwoman</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/273142-Dora the Explorer: Dora's Rescue in Mermaid
+      Kingdom</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/273142-Dora the Explorer: Dora's Rescue in Mermaid
+      Kingdom</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cLq7qVNEYqhoxRUc1GQVKrz2FRw.jpg</image:loc
+      >
+      <image:caption
+        >Join Dora as she returns to Mermaid Kingdom for an awesome undersea
+        adventure! Plus rescue Benny from Coconut Island and journey through a
+        moonlit storybook world!</image:caption
+      >
+      <image:title
+        >Dora the Explorer: Dora's Rescue in Mermaid Kingdom</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

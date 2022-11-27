@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/700427-Eine Klasse für sich</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/700427-Eine Klasse für sich</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vTmLzTgJVjqZ6bfJb9zTOBYz0pg.jpg</image:loc
+      >
+      <image:caption
+        >Suddenly going back to school, who hasn't woken up from this nightmare?
+        For the teacher Fabian Sorge it becomes reality. Shortly before he
+        became a civil servant, it came out that he forged his high school
+        diploma as a young man.</image:caption
+      >
+      <image:title>Eine Klasse für sich</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9551-Dieter - Der Film</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9551-Dieter - Der Film</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hKuF50MPc6GKuqiCCiW37Rvr7NU.jpg</image:loc
+      >
+      <image:caption
+        >Dieters grandma knew it from the start. This guy will be special one.
+        She should be right. Even as a child Dieter shows an enormous power when
+        it is necessary to enforce his will. He quickly learn that you can not
+        only impress the girls, but also make a lot of money as a musician. He
+        understands that the success is mainly a question of the postage costs
+        and a healthy liver. That you may not always tell the truth, but you
+        should always have something lying on the high edge.</image:caption
+      >
+      <image:title>Dieter - Der Film</image:title>
+    </image:image>
+  </url>
+</urlset>

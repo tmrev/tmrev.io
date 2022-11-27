@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50604-Dark Woods</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50604-Dark Woods</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5KjHJKWsfwssN1YCPo7u4Tl4l2x.jpg</image:loc
+      >
+      <image:caption
+        >A young married couple moves to a secluded area to cope with the wife's
+        terminal illness. As the wife's condition gets worse, the husband's
+        growing detachment from her forces him into a tumultuous relationship
+        with a local teenage girl whom he rescues from a sexual
+        assault.</image:caption
+      >
+      <image:title>Dark Woods</image:title>
+    </image:image>
+  </url>
+</urlset>

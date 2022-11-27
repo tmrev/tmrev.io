@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666105-Drum Room</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666105-Drum Room</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AtGxuTKwkjZ9Ky10hTtAoim0Uix.jpg</image:loc
+      >
+      <image:caption
+        >The empty spaces of an ambiguous building open-up to reveal a group of
+        aspiring musicians as they play together, alone. Drum Room reflects on
+        relationships between individual and group, as young musicians express
+        their collective and individual identities within the ordered
+        conventions of the institution they inhabit.</image:caption
+      >
+      <image:title>Drum Room</image:title>
+    </image:image>
+  </url>
+</urlset>

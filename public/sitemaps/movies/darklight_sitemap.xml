@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22080-Darklight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22080-Darklight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ydqnbZmv6Nk8K1j87Zlaf3Kpd18.jpg</image:loc
+      >
+      <image:caption
+        >Captured by a secret society known as the Faith and mentally controlled
+        with a powerful spell, ancient demoness Lilith now lives as a young
+        woman with no memory of her agless past. However, the terrifying plague
+        unleashed by a rampaging monster, the Demonicos, forces one human to
+        recruit her mystical power known as the Darklight to fight this
+        terrifying beast...</image:caption
+      >
+      <image:title>Darklight</image:title>
+    </image:image>
+  </url>
+</urlset>

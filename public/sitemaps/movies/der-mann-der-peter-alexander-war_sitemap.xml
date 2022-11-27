@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/220702-Der Mann, der Peter Alexander war</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/220702-Der Mann, der Peter Alexander war</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A documentary about entertainer/actor Peter Alexander by Birgit
+        Kienzle. Peter Alexander doesn't appear in this film, but he was well at
+        the time of the shooting.</image:caption
+      >
+      <image:title>Der Mann, der Peter Alexander war</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/179431-Dani and Alice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/179431-Dani and Alice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Dani and Alice are coming to the end of a tumultuous relationship. As
+        they prepare to leave their favourite girl bar, the ramifications of
+        Alice's actions earlier in the night are brought up in a heated
+        conversation behind the wheel of Dani’s car, with tragic end results.
+        Winner, Best Drama, Planet Out International Film
+        Festival</image:caption
+      >
+      <image:title>Dani and Alice</image:title>
+    </image:image>
+  </url>
+</urlset>

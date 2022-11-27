@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63248-Deep Purple: Heavy Metal Pioneers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63248-Deep Purple: Heavy Metal Pioneers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fmd1dLcegfydLa5OHQKRdlkVxro.jpg</image:loc
+      >
+      <image:caption
+        >Witness the history of the legendary band, their friends, and their
+        fans in an hour long program of live archival performances, in-depth
+        interviews and behind the scenes footage.</image:caption
+      >
+      <image:title>Deep Purple: Heavy Metal Pioneers</image:title>
+    </image:image>
+  </url>
+</urlset>

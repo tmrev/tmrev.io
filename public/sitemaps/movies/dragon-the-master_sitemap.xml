@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/786392-Dragon the Master</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/786392-Dragon the Master</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4fCE5ctaqXTAUzBl029b47gOgt5.jpg</image:loc
+      >
+      <image:caption
+        >Shelly Wong creates a high concept video game that has big market
+        potential, A Triad boss get s wind of it and hires a posse of ninjas to
+        steal it.</image:caption
+      >
+      <image:title>Dragon the Master</image:title>
+    </image:image>
+  </url>
+</urlset>

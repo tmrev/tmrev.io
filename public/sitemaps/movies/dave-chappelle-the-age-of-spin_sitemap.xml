@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444705-Dave Chappelle: The Age of Spin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444705-Dave Chappelle: The Age of Spin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg</image:loc
+      >
+      <image:caption
+        >Comedy icon Dave Chappelle makes his triumphant return to the screen
+        with a pair of blistering, fresh stand-up specials. Filmed at The
+        Palladium in Los Angeles, California, in March 2016.</image:caption
+      >
+      <image:title>Dave Chappelle: The Age of Spin</image:title>
+    </image:image>
+  </url>
+</urlset>

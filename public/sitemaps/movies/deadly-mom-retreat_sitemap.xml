@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/814828-Deadly Mom Retreat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/814828-Deadly Mom Retreat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8i97MbjqaXlfaFeKZeiYIAqKesX.jpg</image:loc
+      >
+      <image:caption
+        >A woman tries to move on past her divorce, she goes to a singles
+        retreat, but begins to see that things aren't what they
+        seem.</image:caption
+      >
+      <image:title>Deadly Mom Retreat</image:title>
+    </image:image>
+  </url>
+</urlset>

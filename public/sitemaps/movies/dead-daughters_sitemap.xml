@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97797-Dead Daughters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97797-Dead Daughters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n2vhOrSsrqZL5trWUTdku0cPPk0.jpg</image:loc
+      >
+      <image:caption
+        >In present-day Moscow ghosts of three little girls killed by their
+        insane mother randomly pick a person to watch over for a three days. If
+        during this "probation period" person's moral standards appear not to be
+        high enough The Daughters then kill him using
+        telekinesis.</image:caption
+      >
+      <image:title>Dead Daughters</image:title>
+    </image:image>
+  </url>
+</urlset>

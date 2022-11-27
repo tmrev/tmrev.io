@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10023-Dragnet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10023-Dragnet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2AqQGyY5yM8PCOGxWsMNlegTnDp.jpg</image:loc
+      >
+      <image:caption
+        >LAPD Sgt. Joe Friday -- the equally straight-laced nephew of the famous
+        police sergeant of the same name -- is paired up with a young,
+        freewheeling detective named Pep Streebeck. After investigating some
+        strange robberies at the local zoo and the theft of a stockpile of
+        pornographic magazines, they uncover cult activity in the heart of the
+        city and are hot on the case to figure out who's behind it
+        all.</image:caption
+      >
+      <image:title>Dragnet</image:title>
+    </image:image>
+  </url>
+</urlset>

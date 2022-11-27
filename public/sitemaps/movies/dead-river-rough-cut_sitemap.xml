@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/220361-Dead River Rough Cut</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/220361-Dead River Rough Cut</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Bob Wagg and Walter Lane live in a tarpaper shack, hunting, fishing,
+        trapping and logging with oxen. They prefer the sounds of the birds to
+        the roar of highway traffic, and scorn the money-chasing of city life.
+        Covering a period of four seasons in the remote backwoods of Maine, Dead
+        River Rough Cut presents a revealing look at an individual way of life.
+        Wagg and Lane earn a living and accept their isolation for the
+        independence it allows them. But not everyone would want to draw water
+        from a hole in the ice. They share their reflections about women,
+        politics, taxes, the lone life and death.</image:caption
+      >
+      <image:title>Dead River Rough Cut</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24033-Darwin's Darkest Hour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24033-Darwin's Darkest Hour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aDWz2dmuLRSurZG62AaF9o8NDD8.jpg</image:loc
+      >
+      <image:caption
+        >In 1858 Charles Darwin struggles to publish one of the most
+        controversial scientific theories ever conceived, while he and his wife
+        Emma confront family tragedy.</image:caption
+      >
+      <image:title>Darwin's Darkest Hour</image:title>
+    </image:image>
+  </url>
+</urlset>

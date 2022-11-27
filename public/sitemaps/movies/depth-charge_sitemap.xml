@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38044-Depth Charge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38044-Depth Charge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/omkJfYslpEa04O8LxeoQXJ9ICo7.jpg</image:loc
+      >
+      <image:caption
+        >Jason Gedrick and Eric Roberts lead the cast of this thriller about a
+        submarine captain who attempts to hold Washington, D.C. hostage for a
+        billion dollars, and the heroic doctor who struggles to thwart the plan
+        before the situation escalates.</image:caption
+      >
+      <image:title>Depth Charge</image:title>
+    </image:image>
+  </url>
+</urlset>

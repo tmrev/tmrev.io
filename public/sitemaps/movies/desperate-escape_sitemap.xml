@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252575-Desperate Escape</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252575-Desperate Escape</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNDNBrlHAKekBbT59WN1nQLadS6.jpg</image:loc
+      >
+      <image:caption
+        >After having suffered serious head trauma, Brooke tries to regain her
+        normal life despite having lost all memory. Her wealthy fiancé helps her
+        back to recovery in their beautiful country home. Little by little, as
+        her memory comes back, she realizes that her fiancé is not who he says
+        he is. The fortune is hers.</image:caption
+      >
+      <image:title>Desperate Escape</image:title>
+    </image:image>
+  </url>
+</urlset>

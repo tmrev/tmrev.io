@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/432920-Dogumentary: England Is Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/432920-Dogumentary: England Is Mine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Documentary about football fans following England in the 2002 World
+        Cup. The film is a product of the Hvidovre studios in Denmark,
+        headquarters of Lars von Trier's Dogma 95 movement, which applies rigid
+        rules to its film making. Every cut, for instance, has to be clearly
+        signalled by a fade to black, all shooting is done on location, lighting
+        is natural, and there is no additional soundtrack other than that
+        recorded on site. The "victim" is allowed a two-minute right of reply at
+        the end.</image:caption
+      >
+      <image:title>Dogumentary: England Is Mine</image:title>
+    </image:image>
+  </url>
+</urlset>

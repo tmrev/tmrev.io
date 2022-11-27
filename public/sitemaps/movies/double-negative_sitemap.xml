@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/678413-Double Negative</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/678413-Double Negative</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Double Negative offers a reflexive take on the rather spurious effect
+        of 'video negative'. The piece was made by re-videoing the live output
+        from the camera as it was displayed on a monitor, creating feedback. In
+        using the negative video effect, a flicker of alternating positive and
+        negative imagery is produced and various fluctuating microtonal elements
+        in the picture plane are revealed.</image:caption
+      >
+      <image:title>Double Negative</image:title>
+    </image:image>
+  </url>
+</urlset>

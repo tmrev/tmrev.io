@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43085-Dead and Deader</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43085-Dead and Deader</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bZpdTgpd1teT2J3H9b5SXKuMjFk.jpg</image:loc
+      >
+      <image:caption
+        >Lt. Bobby Quinn is a Special Forces commando killed during a recon
+        mission in the Cambodian jungle. But when Quinn interrupts his own
+        stateside autopsy, he discovers that the rest of his dead squad has been
+        resurrected with a ravenous apetite for human flesh. Now with the help
+        of a wisecracking cook and a sexy film geek, the part-zombie Quinn must
+        stop the plague before it can infect the entire nation. Who holds the
+        shocking secret behind this blood-crazed carnage? And what happens when
+        Quinn stops gnawing on raw steak and starts chomping on the hot
+        chick?</image:caption
+      >
+      <image:title>Dead and Deader</image:title>
+    </image:image>
+  </url>
+</urlset>

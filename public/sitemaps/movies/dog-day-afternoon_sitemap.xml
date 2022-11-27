@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/968-Dog Day Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/968-Dog Day Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg</image:loc
+      >
+      <image:caption
+        >Based on the true story of would-be Brooklyn bank robbers John
+        Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist
+        which quickly turns sour and escalates into a hostage situation and
+        stand-off with the police. As Sonny's motives for the robbery are slowly
+        revealed and things become more complicated, the heist turns into a
+        media circus.</image:caption
+      >
+      <image:title>Dog Day Afternoon</image:title>
+    </image:image>
+  </url>
+</urlset>

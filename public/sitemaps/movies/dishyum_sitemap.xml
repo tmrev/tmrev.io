@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69555-Dishyum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69555-Dishyum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jsJuDVdsSFcva23M9HunersGQfi.jpg</image:loc
+      >
+      <image:caption
+        >Bhaskar, a stuntman, is smitten with Cinthya, a college student.
+        However, his heart is broken when he learns that she doesn't love him
+        back but he still to tries persuade her.</image:caption
+      >
+      <image:title>Dishyum</image:title>
+    </image:image>
+  </url>
+</urlset>

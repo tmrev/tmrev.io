@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348509-Death in Bloom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348509-Death in Bloom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j88MNlIVqdin3WadeLAeeTQJ3QW.jpg</image:loc
+      >
+      <image:caption
+        >Death In Bloom is a dark comedy about a Door-to-Door 'Death' Salesman,
+        who struggles to close a deal with a fabulously difficult
+        customer.</image:caption
+      >
+      <image:title>Death in Bloom</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26138-Duelist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26138-Duelist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9AV1o7PKrzFkfYchXrpWUwdIoaq.jpg</image:loc
+      >
+      <image:caption
+        >Detective Nam-soon goes undercover with her partner Detective Ahn to
+        investigate the counterfeit money. She discovers that one loyal
+        henchman, Sad Eyes, a beautiful swordsman with a pale, blank face, is
+        related to the truth. Nam-soon and Sad Eyes confront each other in a
+        series of duels and become confused between love and obligation to
+        duty.</image:caption
+      >
+      <image:title>Duelist</image:title>
+    </image:image>
+  </url>
+</urlset>

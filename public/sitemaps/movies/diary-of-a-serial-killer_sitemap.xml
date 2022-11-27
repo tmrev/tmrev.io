@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46117-Diary of a Serial Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46117-Diary of a Serial Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s0dviNEHYWrrnlOnQSCM6QEfSyc.jpg</image:loc
+      >
+      <image:caption
+        >Tormented by the serial killer who took her Mother’s life, Journalist
+        Laura Nelson investigates the only clue he ever leaves behind at his
+        crime scenes; his diary pages. References in the blood soaked pages to
+        Richard Ramirez, Jeffrey Dahmer and Ed Gein lead Laura to learn more
+        than she ever wanted to know about the sick minds of these
+        monsters.</image:caption
+      >
+      <image:title>Diary of a Serial Killer</image:title>
+    </image:image>
+  </url>
+</urlset>

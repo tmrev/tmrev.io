@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69930-Dog Gone Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69930-Dog Gone Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x91LB3r6n3S2NLDL4Lxa31v7vyD.jpg</image:loc
+      >
+      <image:caption
+        >A romantic comedy about a man, a woman, and their dogs. Steven Merritt,
+        a research obsessed writer is mistaken for being gay by Rebecca, a young
+        veterinarian assistant. He decides to play along in order to do research
+        for his floundering novel. Steven's outlandish plan inevitably
+        backfires, and hilarity ensues as they fall for each other but are
+        unable to express their true feelings.</image:caption
+      >
+      <image:title>Dog Gone Love</image:title>
+    </image:image>
+  </url>
+</urlset>

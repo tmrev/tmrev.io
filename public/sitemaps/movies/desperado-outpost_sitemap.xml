@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125250-Desperado Outpost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125250-Desperado Outpost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oNvqR7OXoxqtbWTP4jHq4GLTvA3.jpg</image:loc
+      >
+      <image:caption
+        >When Sergeant Okubo's brother is murdered at a Japanese outpost in
+        Northern China during the Second World War, Okubo poses as a war
+        correspondent and seeks out his brother's killer.</image:caption
+      >
+      <image:title>Desperado Outpost</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373450-Dark Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373450-Dark Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pwymt8MarrCIdsT4YlSJMzbuTgf.jpg</image:loc
+      >
+      <image:caption
+        >Dark Night enigmatically unfolds over the course of a lazy summer day,
+        as it traces the events leading up to a mass shooting in a suburban
+        multiplex. Abandoning the narrative confines of the true crime genre,
+        the story is told through fragmented moments from the lives of several
+        characters, whose fates are tragically intertwined. As the sky grows
+        darker, the placid surface of daily life becomes disturbed by a lurking
+        and inevitable horror.</image:caption
+      >
+      <image:title>Dark Night</image:title>
+    </image:image>
+  </url>
+</urlset>

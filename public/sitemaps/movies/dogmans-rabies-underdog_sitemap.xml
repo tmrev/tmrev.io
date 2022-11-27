@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/528769-Dogman's Rabies: Underdog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/528769-Dogman's Rabies: Underdog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zduAS00UrlGmx4O51edtMHQxUdX.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by one of the most savage and violent crimes committed in Rome
+        in the 1980s, "Rabbia Furiosa" is the story of Fabio, a small-time
+        neighborhood crook, known as “Er Canaro” (the Dog Man) who suffers years
+        of abuse and mistreatment from Claudio, a local boss of the criminal
+        underworld. When he is driven to desperation and the brink of madness,
+        he will carry out a terrible and bloody act of
+        vengeance...</image:caption
+      >
+      <image:title>Dogman's Rabies: Underdog</image:title>
+    </image:image>
+  </url>
+</urlset>

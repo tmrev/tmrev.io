@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199328-Decoding Die Hard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199328-Decoding Die Hard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cENR2qVSAc8XfTka3B0OF3bpi1C.jpg</image:loc
+      >
+      <image:caption
+        >A one hour and forty-seven minute retrospective documentary about the
+        franchise, consisting of seven previously released featurettes (Origins
+        - Reinventing the Genre, John McClane - Modern Day Hero, Villains - Bad
+        to the Bone, Sidekicks - Along For the Ride, Fight Sequences - Punishing
+        Blows, Action - Explosive Effects and The Legacy - The Right Hero For
+        the Right Time).</image:caption
+      >
+      <image:title>Decoding Die Hard</image:title>
+    </image:image>
+  </url>
+</urlset>

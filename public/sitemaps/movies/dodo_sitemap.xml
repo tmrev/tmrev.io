@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/927774-Dodo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/927774-Dodo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zzaJOBj4JgEEHrQzyGtnTidRHfe.jpg</image:loc
+      >
+      <image:caption
+        >A dodo, a bird that disappeared 3000 years ago, makes its appearance in
+        Athens in the luxurious residence of a family on the verge of ruin for
+        which the countdown has begun: the 38 crucial and saving hours that
+        separate them from the marriage of their daughter with a rich heir. The
+        boundaries between reason and madness will be tested and the situation
+        will soon be out of control.</image:caption
+      >
+      <image:title>Dodo</image:title>
+    </image:image>
+  </url>
+</urlset>

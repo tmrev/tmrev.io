@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/854521-Django & Django: Sergio Corbucci
+      Unchained</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/854521-Django & Django: Sergio Corbucci
+      Unchained</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1RuRzAZARvh7PZTlEeBMZdwjKdU.jpg</image:loc
+      >
+      <image:caption
+        >An homage to Italian director Sergio Corbucci of the 1960s and
+        contemporary director Quentin Tarantino, recounting a memorable period
+        in Italian cinema with the sensibility of today.</image:caption
+      >
+      <image:title>Django & Django: Sergio Corbucci Unchained</image:title>
+    </image:image>
+  </url>
+</urlset>

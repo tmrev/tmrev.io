@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/836315-Devil’s Fuji</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/836315-Devil’s Fuji</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b7IUGMQlqaeg2eJjQ3Bk66r3rPY.jpg</image:loc
+      >
+      <image:caption
+        >Mount Fuji in Japan is occupied by a Latvian Devil. He forces Latvian
+        culture upon Japanese villages, thus trying to form a territory of a
+        non-existent country. When the inhabitants of one of the villages are
+        all turned into Rainis – the all-time greatest Latvian poet and
+        playwright – an ambitious Samurai is sent to fight for
+        Japan.</image:caption
+      >
+      <image:title>Devil’s Fuji</image:title>
+    </image:image>
+  </url>
+</urlset>

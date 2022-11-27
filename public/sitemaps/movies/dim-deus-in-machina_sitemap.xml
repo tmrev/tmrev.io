@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/255579-D-I-M, Deus in Machina</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/255579-D-I-M, Deus in Machina</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A world, as spotless, bleak and cold as its uniform design is not a
+        good place for a dreamer like Lutz. With as much courage as desperation,
+        relying only on his skills and imagination, he faces a terrible fate and
+        fights for his personal happy end.</image:caption
+      >
+      <image:title>D-I-M, Deus in Machina</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/576075-DC Noir</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/576075-DC Noir</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9CC5llqKKLRjcixcmdFTkPou6mp.jpg</image:loc
+      >
+      <image:caption
+        >A crime anthology film based on George Pelecanos' book of the same
+        title.</image:caption
+      >
+      <image:title>DC Noir</image:title>
+    </image:image>
+  </url>
+</urlset>

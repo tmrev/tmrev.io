@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/744008-Doctor Who: Shada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/744008-Doctor Who: Shada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6Bpgk9QaFL8hPLBMDfAmqLwWjkk.jpg</image:loc
+      >
+      <image:caption
+        >Where the Fourth Doctor left off, the Eighth Doctor comes to finish the
+        job. With Romana and K9 by his side, they have to stop the evil Skagra.
+        This was a remounted version of the abandoned Fourth Doctor serial. It
+        was rewritten to feature the Eighth Doctor and fit in with the Big
+        Finish audio drama continuity.</image:caption
+      >
+      <image:title>Doctor Who: Shada</image:title>
+    </image:image>
+  </url>
+</urlset>

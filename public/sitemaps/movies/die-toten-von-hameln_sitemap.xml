@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/270923-Die Toten von Hameln</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/270923-Die Toten von Hameln</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4KAEcSGLXsaSUG7Jd8JQehVCUHi.jpg</image:loc
+      >
+      <image:caption
+        >Choir director Johanna Bischoff and her girls choir go to a concert in
+        their hometown Hameln. Shortly before the scheduled performance
+        disappear four of the girls and the organist David.Sie were on a hike in
+        a cave of the Ith - the fabled mountain, in which 700 years ago the Pied
+        Piper is said to have led the children. Seeking help, Johanna turns to
+        her ex-boyfriend Jan Faber, head of the police station in
+        Hameln.</image:caption
+      >
+      <image:title>Die Toten von Hameln</image:title>
+    </image:image>
+  </url>
+</urlset>

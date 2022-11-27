@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6146-Einmal Dieb, immer Dieb</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6146-Einmal Dieb, immer Dieb</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wQEmo6l4Lyasx3d2DfOWNgCuS5x.jpg</image:loc
+      >
+      <image:caption
+        >Jean Berlinger is a gentleman and master thief. With playful ease he
+        breaks into well-secured museums and steals their most valuable
+        exhibits. The police are always in the wrong. With the money he receives
+        for the precious loot, he supports retirement homes and homeless
+        shelters. In preparation for his next coup, Berlinger meets the
+        beautiful educator Julia. She runs a kindergarten next to the Egyptian
+        Museum, from which Berlinger wants to steal the world-famous
+        Nefertiti.</image:caption
+      >
+      <image:title>Einmal Dieb, immer Dieb</image:title>
+    </image:image>
+  </url>
+</urlset>

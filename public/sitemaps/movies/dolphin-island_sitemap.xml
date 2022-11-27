@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/800993-Dolphin Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/800993-Dolphin Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7e6s81zXN6YiM7AeFlZChITH4dc.jpg</image:loc
+      >
+      <image:caption
+        >After losing her parents, 14-year-old Annabel lives with her fisherman
+        grandfather on an island paradise. She is surrounded by an extended
+        family of loving but quirky neighbors and her best friend – a dolphin
+        named Mitzy. Everything changes when her maternal grandparents arrive
+        with a shifty lawyer to bring her back to New York. It’s up to Annabel
+        and her friends to figure out how to save the day and prove that love
+        conquers all!</image:caption
+      >
+      <image:title>Dolphin Island</image:title>
+    </image:image>
+  </url>
+</urlset>

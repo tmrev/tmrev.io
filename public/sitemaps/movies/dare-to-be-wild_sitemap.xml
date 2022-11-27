@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348896-Dare to Be Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348896-Dare to Be Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b2gFRKs4ZDIhT2xDFURm6DgSp1R.jpg</image:loc
+      >
+      <image:caption
+        >Irishwoman Mary Reynold's journey from rank outsider to winner of a
+        Gold Medal at the Chelsea Flower Show.</image:caption
+      >
+      <image:title>Dare to Be Wild</image:title>
+    </image:image>
+  </url>
+</urlset>

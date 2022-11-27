@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79990-Desi Boyz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79990-Desi Boyz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Tga4SJQTKSENOISM5CRIb240LR.jpg</image:loc
+      >
+      <image:caption
+        >Two friends lose their jobs, then part bitterly after they get exposed
+        as male strippers.</image:caption
+      >
+      <image:title>Desi Boyz</image:title>
+    </image:image>
+  </url>
+</urlset>

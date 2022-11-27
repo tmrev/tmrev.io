@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/964434-DECAMPMENT</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/964434-DECAMPMENT</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >38 minute silent horror film. written, scored and directed by Nicola
+        Kuperus and Adam Lee Miller (also known as the band ADULT. from
+        Detroit). At this time, this film can not be purchased on DVD. It can
+        only be experienced in person with ADULT. performing the soundtrack live
+        to the film.</image:caption
+      >
+      <image:title>DECAMPMENT</image:title>
+    </image:image>
+  </url>
+</urlset>

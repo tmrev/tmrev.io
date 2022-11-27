@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/318254-Discover China: Bodacious Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/318254-Discover China: Bodacious Beijing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Take a trip to the amazing Chinese capital without leaving your own
+        home. Not content with a tourist-only view of Beijing, this documentary
+        hangs with the locals in roadside food stalls and antique flea markets.
+        But the big landmarks -- such as the Great Wall and the Forbidden City
+        -- are showcased amply as well. Like any good vacation, this whirlwind
+        of culture, history, shopping and food will leave you satisfied and
+        reluctant to return home.</image:caption
+      >
+      <image:title>Discover China: Bodacious Beijing</image:title>
+    </image:image>
+  </url>
+</urlset>

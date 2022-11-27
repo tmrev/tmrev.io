@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/465972-Dance of Ganesha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/465972-Dance of Ganesha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2VSfrYIdlBBvvy5fRB1TEYdqMiv.jpg</image:loc
+      >
+      <image:caption
+        >An Indian folk dancer is caught in his daily struggle of survival in an
+        automobile factory. The burden to earn a living for his family and
+        preserve his family tradition of ritual Ganesha dancing is humongous.
+        His two roles - the sole bread winner of the family and the magnificent
+        elephant god Ganesha, are so diverse that his journey from factory to
+        village looks like time travel and his existence schizophrenic! Ganesha,
+        the dancer lives in the fear of the day when he will have to choose
+        between livelihood and art/tradition.</image:caption
+      >
+      <image:title>Dance of Ganesha</image:title>
+    </image:image>
+  </url>
+</urlset>

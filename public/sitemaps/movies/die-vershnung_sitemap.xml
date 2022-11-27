@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/289512-Die Versöhnung</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/289512-Die Versöhnung</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vbnYJcpZHdT8yMnVfhPHqSrywFx.jpg</image:loc
+      >
+      <image:caption
+        >Ten years have passed since Benedikt Stirner left his home in Bavaria
+        after the fatal accident of his brother. Now he returns - the father is
+        dying. But the strict family patriarch reacts dismissively, as does
+        Benedict's brother, Anton. He is now betrothed to Benedict's great love
+        Johanna and fears that his brother could take Johanna away from him. In
+        fact, the two fall in love again. As a result, Benedict draws to Anton's
+        open hatred. He does not suspect that Anton is the only one who knows
+        the whole truth about the accidental death of his youngest
+        brother.</image:caption
+      >
+      <image:title>Die Versöhnung</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/296131-Do You Hear She Sings?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/296131-Do You Hear She Sings?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lwcWyXU6dfp0eXEq5czJej0fLvC.jpg</image:loc
+      >
+      <image:caption
+        >A Story about the differences of the perspectives between a protagonist
+        girl's eyes and the other people's eyes.</image:caption
+      >
+      <image:title>Do You Hear She Sings?</image:title>
+    </image:image>
+  </url>
+</urlset>

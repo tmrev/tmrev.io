@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/248223-Dark World: Equilibrium</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/248223-Dark World: Equilibrium</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cMfiB5jXToV8mSHVQqJz4Y0j0KZ.jpg</image:loc
+      >
+      <image:caption
+        >Every day, they steal your strength, your emotions, your love. We call
+        them the Shadow. Work like us - to deliver them back to the Dark World.
+        Impending disaster, and humanity can be at the mercy of darkness ... And
+        only we can keep the balance</image:caption
+      >
+      <image:title>Dark World: Equilibrium</image:title>
+    </image:image>
+  </url>
+</urlset>

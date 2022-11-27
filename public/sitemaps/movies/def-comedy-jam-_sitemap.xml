@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478054-Def Comedy Jam 25</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478054-Def Comedy Jam 25</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n4NtEw3QcdKAwYGeastBjyTNy9b.jpg</image:loc
+      >
+      <image:caption
+        >In this special live event, giants of stand-up come together to
+        commemorate the 25th anniversary of Russell Simmons's groundbreaking
+        "Def Comedy Jam."</image:caption
+      >
+      <image:title>Def Comedy Jam 25</image:title>
+    </image:image>
+  </url>
+</urlset>

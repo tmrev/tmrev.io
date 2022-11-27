@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134076-Egypt's Golden Empire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134076-Egypt's Golden Empire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bi40uzdflpix58fGglsoU3DMVZ9.jpg</image:loc
+      >
+      <image:caption
+        >In 1570 B.C., Rome was a marsh, the Acropolis an empty rock, but Egypt
+        was 1,000 years old. The pyramid-builders were gone, yet Egypt still
+        awaited its New Kingdom, an empire forged by conquest and remembered for
+        eons. EGYPT'S GOLDEN EMPIRE comes to life through letters and records
+        evoking the passion and riches of a time when Egypt was the center of
+        the known world, its Pharaohs called gods, and great cities, temples and
+        tombs built.</image:caption
+      >
+      <image:title>Egypt's Golden Empire</image:title>
+    </image:image>
+  </url>
+</urlset>

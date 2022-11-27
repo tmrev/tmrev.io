@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52039-Don't Let Me Drown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52039-Don't Let Me Drown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pd8OOHspMWdmy7FUalASebJjib3.jpg</image:loc
+      >
+      <image:caption
+        >In a post-September 11th world overflowing with fear and hate, two
+        Latino teens discover that sometimes the only thing that can keep them
+        from drowning is love.</image:caption
+      >
+      <image:title>Don't Let Me Drown</image:title>
+    </image:image>
+  </url>
+</urlset>

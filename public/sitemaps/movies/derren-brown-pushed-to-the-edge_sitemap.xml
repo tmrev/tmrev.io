@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/377319-Derren Brown: Pushed to the Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/377319-Derren Brown: Pushed to the Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hL31qRjjhVynNnBCkTLGKbbA956.jpg</image:loc
+      >
+      <image:caption
+        >Derren Brown investigates the power of social compliance by persuading
+        an unwitting member of the public into believing that they have pushed
+        someone to their death.</image:caption
+      >
+      <image:title>Derren Brown: Pushed to the Edge</image:title>
+    </image:image>
+  </url>
+</urlset>

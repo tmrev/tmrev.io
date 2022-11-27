@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295871-Do You Know What My Name Is?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295871-Do You Know What My Name Is?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rIuNwmkcse4495Utc27GoK4F5tj.jpg</image:loc
+      >
+      <image:caption
+        >Spotlighting a nonpharmaceutical therapy for dementia patients
+        developed by neuroscientist Ryuta Kawashima, this upbeat documentary
+        chronicles the startling results produced through "brain exercises"
+        conducted during a study at a Cleveland clinic.</image:caption
+      >
+      <image:title>Do You Know What My Name Is?</image:title>
+    </image:image>
+  </url>
+</urlset>

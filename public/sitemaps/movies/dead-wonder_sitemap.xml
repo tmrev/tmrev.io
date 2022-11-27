@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/701991-Dead Wonder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/701991-Dead Wonder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qw0R82NNcesHPIqnApR6qVLiF44.jpg</image:loc
+      >
+      <image:caption
+        >The telling of two simultaneous stories that revolve around two
+        actresses in Hollywood at completely different time
+        periods.</image:caption
+      >
+      <image:title>Dead Wonder</image:title>
+    </image:image>
+  </url>
+</urlset>

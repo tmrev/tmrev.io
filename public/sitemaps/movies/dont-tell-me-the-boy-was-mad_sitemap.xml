@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/337110-Don't Tell Me the Boy Was Mad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/337110-Don't Tell Me the Boy Was Mad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3xY8ODViuh0i5CWlKGW8x0WNCPS.jpg</image:loc
+      >
+      <image:caption
+        >Aram, a young man from Marseille of Armenian origin, blows up the
+        Turkish ambassador's car in Paris. Gilles, a young cyclist who was
+        passing at that precise moment, is seriously injured. Aram's mother
+        feels guilty and feels the need to visit Gilles at the hospital and beg
+        for his forgiveness, something that Gilles does not understand. Against
+        the advice of his comrades in Beirut, Aram decides to go meet his
+        victim.</image:caption
+      >
+      <image:title>Don't Tell Me the Boy Was Mad</image:title>
+    </image:image>
+  </url>
+</urlset>

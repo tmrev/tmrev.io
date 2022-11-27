@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121186-Die fremde Familie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121186-Die fremde Familie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When her 80-year-old father Robert needs a caregiver after an accident,
+        Ira wants to take care of him at home - despite her difficult
+        relationship with him. He had left her and her mother to start a second
+        family. But now she sees the opportunity to approach him. However, given
+        the high cost of care, she knows how to help but hire the Eastern
+        European caregiver Elisaveta, who works for her black - much to the
+        displeasure of her husband Marquard, who has ambitions as a local
+        politician in addition to his work as a career counselor and never
+        before understood with Robert.</image:caption
+      >
+      <image:title>Die fremde Familie</image:title>
+    </image:image>
+  </url>
+</urlset>

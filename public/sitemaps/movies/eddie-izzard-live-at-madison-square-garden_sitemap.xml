@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/57941-Eddie Izzard: Live at Madison Square
+      Garden</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/57941-Eddie Izzard: Live at Madison Square
+      Garden</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7LTBlVAMtifziV2oufxdy07rPa1.jpg</image:loc
+      >
+      <image:caption
+        >EDDIE IZZARD: Live at Madison Square Garden is the live recording of
+        Eddie Izzard's sold out show at Madison Square Garden in New York
+        City.</image:caption
+      >
+      <image:title>Eddie Izzard: Live at Madison Square Garden</image:title>
+    </image:image>
+  </url>
+</urlset>

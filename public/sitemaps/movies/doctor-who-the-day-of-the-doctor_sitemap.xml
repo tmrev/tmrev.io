@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/313106-Doctor Who: The Day of the Doctor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/313106-Doctor Who: The Day of the Doctor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qkhP3bhxQQjs1bGEWNts64DOUkK.jpg</image:loc
+      >
+      <image:caption
+        >In 2013, something terrible is awakening in London's National Gallery;
+        in 1562, a murderous plot is afoot in Elizabethan England; and somewhere
+        in space an ancient battle reaches its devastating conclusion. All of
+        reality is at stake as the Doctor's own dangerous past comes back to
+        haunt him.</image:caption
+      >
+      <image:title>Doctor Who: The Day of the Doctor</image:title>
+    </image:image>
+  </url>
+</urlset>

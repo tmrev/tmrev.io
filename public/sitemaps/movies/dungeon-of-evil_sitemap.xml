@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/702905-Dungeon of Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/702905-Dungeon of Evil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lFBjPfixrCPEujtMUnjXGkbGKhB.jpg</image:loc
+      >
+      <image:caption
+        >During a joy ride through a huge forest two friends, Larry (Ramon
+        Kaltenbach) and Frank (Erik Dittmer) lost their orientation and the
+        massive loss of gasoline results in a horror scenario. Right before the
+        tank was completely empty the friends found a rotten hut in the middle
+        of this enormous forest and decide to discover their chance to find some
+        help inside the hut. But what they found was the pure
+        horror.</image:caption
+      >
+      <image:title>Dungeon of Evil</image:title>
+    </image:image>
+  </url>
+</urlset>

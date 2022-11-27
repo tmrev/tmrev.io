@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/900887-Diego, The Last Goodbye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/900887-Diego, The Last Goodbye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hUmpWqixNRe9EfsmbzccJQV0gt.jpg</image:loc
+      >
+      <image:caption
+        >The last year in the life of Diego Maradona told by friends, family and
+        former companions reveals his deep humanity. In the midst of the Covid
+        19 pandemic, a Maradonian funeral sends him away amid tears, songs and
+        tear gas.</image:caption
+      >
+      <image:title>Diego, The Last Goodbye</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171893-Days of Jesse James</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171893-Days of Jesse James</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rWGRP4BoJhyIxu0FQxVOxTihYn6.jpg</image:loc
+      >
+      <image:caption
+        >Days of Jesse James is a 1939 American film directed by Joseph Kane and
+        starring Roy Rogers. Bank robbery pulled off by the bank officials, not
+        the usual James gang.</image:caption
+      >
+      <image:title>Days of Jesse James</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36334-Deadline - U.S.A.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36334-Deadline - U.S.A.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2UOR4eOWOO8QSYGcO165n5bLv8k.jpg</image:loc
+      >
+      <image:caption
+        >With three days before his paper folds, a crusading editor tries to
+        expose a vicious gangster.</image:caption
+      >
+      <image:title>Deadline - U.S.A.</image:title>
+    </image:image>
+  </url>
+</urlset>

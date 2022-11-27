@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788903-De Costas Pro Rio</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788903-De Costas Pro Rio</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/beEapHxyaQmJg3wYEpWKQzIZInR.jpg</image:loc
+      >
+      <image:caption
+        >After the contact of a spirit from the forest, Pietro returns to Manaus
+        to save her. He must prevent the city from being destroyed by a Big
+        Snake that sleeps in the region's underground.</image:caption
+      >
+      <image:title>De Costas Pro Rio</image:title>
+    </image:image>
+  </url>
+</urlset>

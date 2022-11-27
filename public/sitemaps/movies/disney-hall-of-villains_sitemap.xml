@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/650410-Disney Hall of Villains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/650410-Disney Hall of Villains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ukaMxajfgGnxBWUqUaAsH8MOFN.jpg</image:loc
+      >
+      <image:caption
+        >Superstar host Meg Donnelly takes you on a journey down a haunted
+        hallway where behind every door awaits a villain-tastic
+        surprise!</image:caption
+      >
+      <image:title>Disney Hall of Villains</image:title>
+    </image:image>
+  </url>
+</urlset>

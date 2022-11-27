@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/96592-Defcon 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/96592-Defcon 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dr58SmiUHXg9R7532Pr55DVf5k.jpg</image:loc
+      >
+      <image:caption
+        >On October 30, 2009 an independent filmmaker and his cast and crew are
+        reported missing a month before the release of their controversial film
+        predicting the end of the world. Authorities have reason to believe the
+        film's 2012 doomsday scenario may have something to do with their
+        disappearance. An agent for CEA (Central Extraterrestrial Agency)
+        discovers the footage to the film and watches the film on September 10,
+        2012, three months before the world is to come to an end.</image:caption
+      >
+      <image:title>Defcon 2012</image:title>
+    </image:image>
+  </url>
+</urlset>

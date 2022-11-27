@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/419627-#SCREAMERS</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/419627-#SCREAMERS</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c9aHXAKJtoNMJ3LsWPjL5y9bEEo.jpg</image:loc
+      >
+      <image:caption
+        >When an internet company decides to investigate a series of 'Screamer'
+        videos, they are confronted with havoc and hell they could never
+        expect.</image:caption
+      >
+      <image:title>#SCREAMERS</image:title>
+    </image:image>
+  </url>
+</urlset>

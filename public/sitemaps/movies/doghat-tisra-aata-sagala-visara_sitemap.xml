@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/493994-Doghat Tisra Aata Sagala Visara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/493994-Doghat Tisra Aata Sagala Visara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/diJkIWQZSNsSSqQhPoKEk1177NB.jpg</image:loc
+      >
+      <image:caption
+        >A newly married couples' lives are turned upside down when a childhood
+        friend visits them unexpectedly.</image:caption
+      >
+      <image:title>Doghat Tisra Aata Sagala Visara</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/114427-Domestic Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/114427-Domestic Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gwI8OItBLUMW9K18NgR2v9hZxDS.jpg</image:loc
+      >
+      <image:caption
+        >DOMESTIC VIOLENCE shows the Tampa, Florida police responding to
+        domestic violence calls and the work of The Spring, the principal
+        shelter in Tampa for women and children. Sequences with the police
+        include police response, intervention, and attempted resolution of
+        domestic violence calls. Sequences at the shelter include intake
+        interviews, individual counseling sessions, anger management training,
+        group therapy, staff meetings, conversations among clients and between
+        clients and staff, and school activities, therapy and counseling for
+        children at the shelter.</image:caption
+      >
+      <image:title>Domestic Violence</image:title>
+    </image:image>
+  </url>
+</urlset>

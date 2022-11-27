@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1025325-Dear Kin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1025325-Dear Kin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7krsOZUS3crL0nyXpl84JRp0G4h.jpg</image:loc
+      >
+      <image:caption
+        >A letter to past, present, and future Indigenous queer relatives. It
+        highlights individuals from the Alaska Native Two-Spirit and LGBTQI+
+        community.</image:caption
+      >
+      <image:title>Dear Kin</image:title>
+    </image:image>
+  </url>
+</urlset>

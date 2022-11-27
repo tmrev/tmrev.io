@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51273-Dark World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51273-Dark World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bGQ7SEhsM9DQ4uk6gUr1JgVWqkB.jpg</image:loc
+      >
+      <image:caption
+        >On a college trip to remote Northern forests, one of the students -
+        Marina - encounters a burial site of an ancient witch, and is possessed
+        by the spirits of the past. Now Marina and her companions must take part
+        in the millennia old fight between good and evil, involving lake
+        witches, sorcerers, and ancient forces from the myths.</image:caption
+      >
+      <image:title>Dark World</image:title>
+    </image:image>
+  </url>
+</urlset>

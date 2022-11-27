@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/766060-Deathwell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/766060-Deathwell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/96op1T4SA4csoa7NbHFzJNDBMXN.jpg</image:loc
+      >
+      <image:caption
+        >Unsuspecting citizens become enemies of the state in this
+        pre-apocalyptic noir.</image:caption
+      >
+      <image:title>Deathwell</image:title>
+    </image:image>
+  </url>
+</urlset>

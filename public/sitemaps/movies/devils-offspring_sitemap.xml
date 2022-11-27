@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/296483-Devil's Offspring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/296483-Devil's Offspring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3SCVCr6RVXhV97E360fTYFNmiyw.jpg</image:loc
+      >
+      <image:caption
+        >At a Hong Kong dormitory, the cook's little granddaughter is brutally
+        murdered. The next day, a mysterious new student, Connie, moves into the
+        dorm. As it is summer vacation, only four students are still living
+        there. Mysterious, disastrous things seem to accompany the new girl
+        everywhere she goes, and this school is no exception.</image:caption
+      >
+      <image:title>Devil's Offspring</image:title>
+    </image:image>
+  </url>
+</urlset>

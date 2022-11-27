@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/220489-Dogwoman: Dead Dog Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/220489-Dogwoman: Dead Dog Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Margaret O'Halloran is a dog trainer with a unique talent and a nose
+        for a mystery. Now an old lady has been savaged to death, her faithful
+        dog is the prime suspect. But Margaret smells a murderer of the two
+        legged variety.</image:caption
+      >
+      <image:title>Dogwoman: Dead Dog Walking</image:title>
+    </image:image>
+  </url>
+</urlset>

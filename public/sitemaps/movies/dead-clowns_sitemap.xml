@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28108-Dead Clowns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28108-Dead Clowns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/luMLqIbE4soGv4ApnwtmDN0su40.jpg</image:loc
+      >
+      <image:caption
+        >The residents of Port Emmett prepare for a hurricane that will churn up
+        a 50-year-old secret, awakening an army of zombie clowns. Left to die
+        after a circus train accident, the clowns rise from their muddy graves
+        to get revenge. The guilty can run, but they can't hide from the truth
+        -- or the undead.</image:caption
+      >
+      <image:title>Dead Clowns</image:title>
+    </image:image>
+  </url>
+</urlset>

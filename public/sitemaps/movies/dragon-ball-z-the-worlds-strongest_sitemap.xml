@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39100-Dragon Ball Z: The World's Strongest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39100-Dragon Ball Z: The World's Strongest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5elbm3iLgGQ6nA5vqUmi9vIojbF.jpg</image:loc
+      >
+      <image:caption
+        >The evil Dr. Kochin uses the dragon balls to resurrect his mentor, Dr.
+        Wheelo, in an effort to take over the world. Dr. Wheelo, his body having
+        been destroyed by the avalanche that killed him fifty years before,
+        desires the body of the strongest fighter in the world as his new
+        vessel. Believing Roshi to be the world's strongest warrior, Dr. Kochin
+        abducts Bulma and forces Roshi to surrender himself to save her. When
+        Goku hears of their abduction, he goes to their rescue.</image:caption
+      >
+      <image:title>Dragon Ball Z: The World's Strongest</image:title>
+    </image:image>
+  </url>
+</urlset>

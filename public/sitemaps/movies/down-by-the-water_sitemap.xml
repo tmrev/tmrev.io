@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/635434-Down by the Water</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/635434-Down by the Water</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l7dlEzVWnUXfEXNk1s7F3tH9YyP.jpg</image:loc
+      >
+      <image:caption
+        >In a forest river, hunters find the body of a young singer named Yanka
+        Diaghilev. From that moment on, a confusing chronicle of the last day in
+        the girl's life begins, during which she will travel a long way - from
+        the city to the dacha, and then into the thicket to the river. On this
+        day, Yanka will have time to see and talk with many people, real and
+        imaginary, even with those who are no longer alive. It seems that
+        Yankee's next step is about to shed light on the circumstances of her
+        mysterious death: hopeless love, arguments with loved ones,
+        disagreements with herself, strange meetings with strangers in the
+        forest.</image:caption
+      >
+      <image:title>Down by the Water</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9265-Die dunkle Seite</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9265-Die dunkle Seite</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9JiCQgOjQwM55rBCKJYJnCnVxVR.jpg</image:loc
+      >
+      <image:caption
+        >After greengrocer Mehmet Üsker is murdered, police detective Inspector
+        Menemenci is put on the case. At the same time, detective Vera Gemini is
+        on the lookout for a former foreign legionnaire who, however, has been
+        presumed dead for years. It soon turns out that there must be a
+        connection between the two cases.</image:caption
+      >
+      <image:title>Die dunkle Seite</image:title>
+    </image:image>
+  </url>
+</urlset>

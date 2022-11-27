@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172482-Do You Remember Laurie Zimmer?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172482-Do You Remember Laurie Zimmer?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bqLzinYm37vvV9nxaR5dHdPX7F1.jpg</image:loc
+      >
+      <image:caption
+        >Whatever happened to this promising young actress from Hollywood? A
+        search for "the woman in the car" through the never-ending suburbia of
+        Los Angeles, where the myth of cinema reigns. A sort of thriller without
+        a corpse.</image:caption
+      >
+      <image:title>Do You Remember Laurie Zimmer?</image:title>
+    </image:image>
+  </url>
+</urlset>

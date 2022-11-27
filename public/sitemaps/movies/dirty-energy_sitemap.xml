@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271562-Dirty Energy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271562-Dirty Energy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jMiC4XjhXwg71nCErRUWsG7WTs7.jpg</image:loc
+      >
+      <image:caption
+        >This documentary tells the personal story of those directly affected by
+        the Deepwater Horizon spill of 2010, who are now struggling to rebuild
+        their lives amidst the economic devastation and long-term health
+        risks.</image:caption
+      >
+      <image:title>Dirty Energy</image:title>
+    </image:image>
+  </url>
+</urlset>

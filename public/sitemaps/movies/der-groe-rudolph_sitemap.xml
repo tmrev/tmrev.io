@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/549377-Der große Rudolph</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/549377-Der große Rudolph</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bYOIY7uFf3s8fBEmG9xyArKxbAK.jpg</image:loc
+      >
+      <image:caption
+        >The fact that Rudolph Moshammer is a dazzling figure and the most
+        prominent fashion designer in Munich is no longer enough for his silent
+        partners and financiers. So it happens that he is looking for a
+        seductive woman to sell and - to the horror of his mother - brings on
+        the young pedicurist Evi from Augsburg, of all places. With Evi's help,
+        Mosahmmer wins the hearts and purses of the truly rich - if it weren't
+        for his mother, who is scheming in the background. A fictional story
+        that tells of beauty and money, but also of the friendship of two
+        outsiders in Munich in 1983.</image:caption
+      >
+      <image:title>Der große Rudolph</image:title>
+    </image:image>
+  </url>
+</urlset>

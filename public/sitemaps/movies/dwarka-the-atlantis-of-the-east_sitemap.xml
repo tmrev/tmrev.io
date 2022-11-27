@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/282966-Dwarka: The Atlantis of the East</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/282966-Dwarka: The Atlantis of the East</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Ancient Explorer, Amish Shah travels to the west coast of India in
+        search of an ancient submerged city. With a passion for the truth, he
+        stumbles into a cover up and in this film, he goes public with what he
+        found.</image:caption
+      >
+      <image:title>Dwarka: The Atlantis of the East</image:title>
+    </image:image>
+  </url>
+</urlset>

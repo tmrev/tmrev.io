@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931260-Drifting Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931260-Drifting Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q2Z2h3gKlbGIRbbq7XlEP09Fypz.jpg</image:loc
+      >
+      <image:caption
+        >"This narrative begins in an extraordinarily simple way. A camera, some
+        friends, a whole day..." A film about memory, love, the nouvelle vague
+        and making movies with friends.</image:caption
+      >
+      <image:title>Drifting Clouds</image:title>
+    </image:image>
+  </url>
+</urlset>

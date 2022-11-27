@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029318-Déluge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029318-Déluge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eHyAY0y9bsCOk4ctxzXlSS7E1bZ.jpg</image:loc
+      >
+      <image:caption
+        >I am there. I say nothing. In the lounge, the boxes still opened from
+        our moving in. My father. My mother. Come to comfort me. Her father. Her
+        mother. Incapable to say the words. To put into words what has happened.
+        And outside, the rain. Diluvian. Improbable.</image:caption
+      >
+      <image:title>Déluge</image:title>
+    </image:image>
+  </url>
+</urlset>

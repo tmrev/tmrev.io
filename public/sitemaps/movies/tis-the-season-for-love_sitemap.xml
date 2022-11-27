@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362886-'Tis the Season for Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362886-'Tis the Season for Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aoZA4rQxRpyqsmT7eNCswdOWqN2.jpg</image:loc
+      >
+      <image:caption
+        >An out-of-work New York City actress returns home to the quaint small
+        town she escaped 10 years before and finds a place far different than
+        the hamlet she left. She suddenly finds performing possibilities and
+        even romance that kind of blow her away.</image:caption
+      >
+      <image:title>'Tis the Season for Love</image:title>
+    </image:image>
+  </url>
+</urlset>

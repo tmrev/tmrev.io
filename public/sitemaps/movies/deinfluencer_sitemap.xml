@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/969160-Deinfluencer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/969160-Deinfluencer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gLnrBoSENk32SKjHDiZv7E4zwzK.jpg</image:loc
+      >
+      <image:caption
+        >An influential cheerleader finds herself held captive by a masked
+        psychopath with a God complex. She must complete a series of sadistic
+        social media challenges to save her life and the lives of her fellow
+        captives. However, the masked kidnapper has a secret agenda for his most
+        recent victim.</image:caption
+      >
+      <image:title>Deinfluencer</image:title>
+    </image:image>
+  </url>
+</urlset>

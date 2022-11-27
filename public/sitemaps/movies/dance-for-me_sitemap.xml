@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209120-Dance for Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209120-Dance for Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >14-year-old Mie is an elite dancer. When her partner stops dancing, her
+        family decides to search for a new partner abroad. Russian Egor finds
+        out that his mother has set up a try out for him, and if this turns out
+        well, Egor will travel to Denmark. Since May 2011, he has lived with Mie
+        and her parents in Denmark, where everything indicates that they are the
+        perfect match on the dance floor. In Mie's home, however, problems are
+        piling up. The family has suddenly gained a new member, and had it not
+        been for the growing success, Egor would probably have been put on a
+        plane back to his mum by now.</image:caption
+      >
+      <image:title>Dance for Me</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510338-Dry Martina</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510338-Dry Martina</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gA6nTGlDtFdRtGEYHSEBzSJ1Xzy.jpg</image:loc
+      >
+      <image:caption
+        >Martina was a famous singer in Argentina during the late 90s, who's
+        become completely frigid and disenchanted with love. The arrival of a
+        so-called sister, alongside her attractive boyfriend, compel Martina to
+        go to Chile with one objective in mind: getting back her
+        libido.</image:caption
+      >
+      <image:title>Dry Martina</image:title>
+    </image:image>
+  </url>
+</urlset>

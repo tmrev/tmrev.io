@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49748-Easter Bunny Kill! Kill!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49748-Easter Bunny Kill! Kill!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Aam4UOd4Je90m4fxSIm9d8RXaEC.jpg</image:loc
+      >
+      <image:caption
+        >Remington, a murderous grifter cons his way into a mother's heart,
+        putting on a fatherly facade to her cherished son, Nicholas. But the
+        second she leaves for work, a torrent of abuse rains upon the gentle
+        boy... Source IMDB</image:caption
+      >
+      <image:title>Easter Bunny Kill! Kill!</image:title>
+    </image:image>
+  </url>
+</urlset>

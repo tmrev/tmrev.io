@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26496-Effi Briest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26496-Effi Briest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/88TlG6nRUA17Sz52AFpQyyVZkQC.jpg</image:loc
+      >
+      <image:caption
+        >Following her parents' wishes, spirited seventeen-year-old Effi Briest
+        marries Baron von Innstetten – a former admirer of her mother – who is
+        twenty years Effi's senior. This marriage of prudence heralds the
+        beginning of a humdrum life, far from home, for Effi. Innstetten devotes
+        himself entirely to his political career, and the sleepy small town of
+        Kessin has very little to offer in terms of variety. But then, one day,
+        Innstetten's old regimental comrade, Major Crampas – a charming
+        womanizer – arrives on the scene.</image:caption
+      >
+      <image:title>Effi Briest</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332278-Devil's Backbone, Texas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332278-Devil's Backbone, Texas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In January, 1996 Unsolved Mysteries featured a story on landowner Bert
+        Wall's 'real-life' interactions with the spirits that roamed the Devil's
+        Backbone. Nearly twenty years later, Wall passed away...leaving behind
+        only fragmented tales of an inexplicable terror to those that knew him
+        best.</image:caption
+      >
+      <image:title>Devil's Backbone, Texas</image:title>
+    </image:image>
+  </url>
+</urlset>

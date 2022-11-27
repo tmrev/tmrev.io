@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/175614-Dil Hai Tumhaara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/175614-Dil Hai Tumhaara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6DkO7aZTZtXNESGcSq3R1wmrb06.jpg</image:loc
+      >
+      <image:caption
+        >Some twenty years ago Sarita promised to raise her husband's love child
+        (Shalu) together with their own daughter (Nimmi). The girls grow up as
+        the best of friends but Sarita has never been able to forgive Shalu her
+        background. It doesn't make it better when she sees Shalu getting close
+        to the man Nimmi is also in love with.</image:caption
+      >
+      <image:title>Dil Hai Tumhaara</image:title>
+    </image:image>
+  </url>
+</urlset>

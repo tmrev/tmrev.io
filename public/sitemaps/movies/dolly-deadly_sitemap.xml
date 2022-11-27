@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403599-Dolly Deadly</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403599-Dolly Deadly</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9D1sUAuiLjhvOZT1HCqZasS34wt.jpg</image:loc
+      >
+      <image:caption
+        >A young boy from the trailer park can't take another moment of ridicule
+        from his family and peers. With support from his beloved dollies, he
+        sets out for blood.</image:caption
+      >
+      <image:title>Dolly Deadly</image:title>
+    </image:image>
+  </url>
+</urlset>

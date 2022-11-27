@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274603-Dragon in Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274603-Dragon in Fury</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/srzIhw9nziiEx7zLzlB9WDeFMEX.jpg</image:loc
+      >
+      <image:caption
+        >When Chen Jun (Dragon Shek) returns home to Shanghai to find his former
+        kung fu master (Gordon Liu) dead, he can't shake the hunch that a rival
+        martial arts school is to blame. Readying himself for a full-fledged
+        rampage of revenge, Chen first launches an investigation and then takes
+        on the entire school, putting his years of martial arts training to the
+        test.</image:caption
+      >
+      <image:title>Dragon in Fury</image:title>
+    </image:image>
+  </url>
+</urlset>

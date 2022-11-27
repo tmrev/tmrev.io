@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490817-Delivering Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490817-Delivering Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9aO8sBT9xyE41HeaQawn1mgBEiG.jpg</image:loc
+      >
+      <image:caption
+        >When a young girl tries to write a letter to Santa, she confesses to
+        the mailman that she can't think of what to ask for after her Grandma
+        passed away and her mother has been really sad. Without family to spend
+        the holiday with, the mailman decides that for the next twelve days, he
+        will deliver surprise gifts to the mom to remind her of the Twelve Days
+        of Christmas.</image:caption
+      >
+      <image:title>Delivering Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

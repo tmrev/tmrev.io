@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375784-Delibal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375784-Delibal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rUsENXfyBu6uE8YmWXuSbsWNzjc.jpg</image:loc
+      >
+      <image:caption
+        >A love story following two young people battling with their emotions
+        and dreams, the pressures of career, family and not knowing what the
+        future holds. Füsun is a brilliant student, destined for a successful
+        career but can't help from falling for Baris, a musician who struggles
+        with a psychological disorder. As the two grow closer they start to
+        adopt each other's traits, but becoming increasingly dependent on one
+        another proves damaging for their relationship.</image:caption
+      >
+      <image:title>Delibal</image:title>
+    </image:image>
+  </url>
+</urlset>

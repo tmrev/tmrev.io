@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8583-Dangerous Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8583-Dangerous Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hex4XP7pkTCs5sLAV7q1HWfVDHl.jpg</image:loc
+      >
+      <image:caption
+        >Veronica is brilliant, gifted and beautiful, but the handsome
+        aristocrat she loves, Marco Venier, cannot marry her because she is
+        penniless and of questionable family. So Veronica's mother, Paola,
+        teaches her to become a courtesan, one of the exotic companions favored
+        by the richest and most powerful Venetian men. Veronica courageously
+        uses her charms to change destiny -- and to give herself a chance at
+        true love.</image:caption
+      >
+      <image:title>Dangerous Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

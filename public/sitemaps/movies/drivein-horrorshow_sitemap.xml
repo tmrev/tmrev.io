@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73408-Drive-In Horrorshow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73408-Drive-In Horrorshow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/18Wb1sWpjnRM5WUIyNvplR5jcDm.jpg</image:loc
+      >
+      <image:caption
+        >A low-budget horror anthology made of 5 short films, each belonging to
+        a different horror sub-genre. These segments are introduced by a
+        ghoulish host of the sort that used to present late-night horror movies
+        on TV. The five films are Pig, The Closet, Fall Apart, Meat Man, and
+        Watcher.</image:caption
+      >
+      <image:title>Drive-In Horrorshow</image:title>
+    </image:image>
+  </url>
+</urlset>

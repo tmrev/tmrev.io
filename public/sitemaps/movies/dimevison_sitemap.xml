@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49902-Dimevison</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49902-Dimevison</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >DimeVision is a forthcoming series of videos that document "Dimebag"
+        Darrell Abbott career as a musician. The series' first installment,
+        entitled Dimevision Vol. One - "That's The Fun I Have...", was released
+        on May 2, 2006, containing video clips of him during his stints with
+        Pantera and Damageplan, as well as earlier material. The series was
+        produced by Abbott's brother, Vinnie Paul Abbott. A sequel is stated to
+        be released in 2010.</image:caption
+      >
+      <image:title>Dimevison</image:title>
+    </image:image>
+  </url>
+</urlset>

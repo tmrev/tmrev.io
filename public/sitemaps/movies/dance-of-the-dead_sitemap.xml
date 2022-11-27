@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13094-Dance of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13094-Dance of the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bQuGNO5TwgGHENhVLahKcofkZe1.jpg</image:loc
+      >
+      <image:caption
+        >With Prom only hours away, the usual suspects of Cosa High
+        (Cheerleaders, geeks, bad boys and the happy-go-lucky student council
+        alike) are preoccupied with the annual rituals of teendom. On the night
+        of the big dance when the dead unexpectedly rise to eat the living,
+        polar opposite groups will be forced to unite in their final chance to
+        save the town from the zombies.</image:caption
+      >
+      <image:title>Dance of the Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/639698-Diablo Rojo PTY</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/639698-Diablo Rojo PTY</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kYgq77bQd1pe8y7GxUtQvuFidYd.jpg</image:loc
+      >
+      <image:caption
+        >A "Diablo Rojo" bus driver, his helper, a priest, and two policemen
+        fall victim to a mysterious spell and end up lost somewhere in the
+        Chiriqui jungle, where they will have to survive the creatures that
+        inhabit the roads, with the old bus as their only refuge.</image:caption
+      >
+      <image:title>Diablo Rojo PTY</image:title>
+    </image:image>
+  </url>
+</urlset>

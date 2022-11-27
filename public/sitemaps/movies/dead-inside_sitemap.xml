@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/149148-Dead Inside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/149148-Dead Inside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sarah, a mentally-disturbed teen, has a jarring premonition of her
+        friends' impending deaths one night at a sleepover. As her house guests
+        begin to turn murderously against each other, Sarah must determine
+        whether her visions represent the preventable or the inevitable... or
+        something entirely more sinister.</image:caption
+      >
+      <image:title>Dead Inside</image:title>
+    </image:image>
+  </url>
+</urlset>

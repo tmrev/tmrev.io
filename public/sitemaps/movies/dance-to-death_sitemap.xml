@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/428356-Dance to Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/428356-Dance to Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vqIkXPLgt9rvHnzIbzlkw6dUJ4p.jpg</image:loc
+      >
+      <image:caption
+        >Deadly dance tournament is carried out in the city survived after
+        nuclear apocalypse. Energy is extracted from the loser for the city to
+        survive. A young guy from the street is forced to take part in the
+        tournament and falls in love with girl who volunteered to participate in
+        the battle. Will they survive or the arena will take their
+        lives?</image:caption
+      >
+      <image:title>Dance to Death</image:title>
+    </image:image>
+  </url>
+</urlset>

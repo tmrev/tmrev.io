@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/118920-Dangerous Knowledge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/118920-Dangerous Knowledge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/51atqubFZx08k6ycVgoAOxz7fW9.jpg</image:loc
+      >
+      <image:caption
+        >In this one-off documentary, David Malone looks at four brilliant
+        mathematicians – Georg Cantor, Ludwig Boltzmann, Kurt Gödel and Alan
+        Turing – whose genius has profoundly affected us, but which tragically
+        drove them insane and eventually led to them all committing suicide. The
+        film also talks to the latest in the line of thinkers who have continued
+        to pursue the question of whether there are things that mathematics and
+        the human mind cannot know. Dangerous Knowledge tackles some of the
+        profound questions about the true nature of reality that mathematical
+        thinkers are still trying to answer today.</image:caption
+      >
+      <image:title>Dangerous Knowledge</image:title>
+    </image:image>
+  </url>
+</urlset>

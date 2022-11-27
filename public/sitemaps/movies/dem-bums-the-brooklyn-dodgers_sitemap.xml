@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/275487-Dem Bums: The Brooklyn Dodgers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/275487-Dem Bums: The Brooklyn Dodgers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The beloved "Boys of Summer" are back in this landmark film --
+        Robinson, Reese, Campanella, Hodges and Snider. Live the history of the
+        legendary "Bums" from Brooklyn from their beginnings in the 1880s
+        through to the sad day they left Brooklyn forever in
+        1957.</image:caption
+      >
+      <image:title>Dem Bums: The Brooklyn Dodgers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392939-Eedo Rakam Aado Rakam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392939-Eedo Rakam Aado Rakam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8l0hNJbls04F8w6CRzRLEUlN5fI.jpg</image:loc
+      >
+      <image:caption
+        >What happens when the lives of two friends take an unexpected turn? A
+        whole lot of confusion follows! Will they be able to get out of the
+        mess? That forms the crux of the story.</image:caption
+      >
+      <image:title>Eedo Rakam Aado Rakam</image:title>
+    </image:image>
+  </url>
+</urlset>

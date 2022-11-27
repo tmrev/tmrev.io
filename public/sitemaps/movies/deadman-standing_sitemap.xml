@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547116-Deadman Standing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547116-Deadman Standing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qHrXTNc4pzJ79VZ2JSw46HzAmwJ.jpg</image:loc
+      >
+      <image:caption
+        >The true story of a recently widowered lawman who befriends a boy dying
+        of tuberculosis and a madam of the local brothel while their town is
+        being politically and violently overtaken by a gang of reckless
+        cattlemen from Texas.</image:caption
+      >
+      <image:title>Deadman Standing</image:title>
+    </image:image>
+  </url>
+</urlset>

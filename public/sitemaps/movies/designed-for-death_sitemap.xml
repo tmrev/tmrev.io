@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/923111-Designed for Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/923111-Designed for Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/td4OF5gQzf5mQkota0qpyilEOap.jpg</image:loc
+      >
+      <image:caption
+        >After re-vamping a home, beautiful interior decorator Ava becomes madly
+        obsessed with the handsome owner. She sets out to eliminate his family
+        and live in the house she created with the man she loves.</image:caption
+      >
+      <image:title>Designed for Death</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373488-Das Romeo-Prinzip</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373488-Das Romeo-Prinzip</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jqgYI40edjxzXiIQPyof1Vu6a18.jpg</image:loc
+      >
+      <image:caption
+        >Tom does not have it easy. At the student theater, his friend Jan and
+        his beloved Annelie play the leading roles; the inconspicuous Tom, on
+        the other hand, makes the prop. When he realizes that he must finally
+        take his life, and especially love, into his own hands, he turns to his
+        janitor, Mr Müller. What Tom does not know: Müller was once a
+        psychologist of the Stasi! In the so-called "Romeo" program, he prepared
+        male agents to address women in Germany and make them available as a
+        source.</image:caption
+      >
+      <image:title>Das Romeo-Prinzip</image:title>
+    </image:image>
+  </url>
+</urlset>

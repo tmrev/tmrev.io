@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75308-Derren Brown: The System</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75308-Derren Brown: The System</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3OTMelC4oXV3JqFX6aKBka8e7o3.jpg</image:loc
+      >
+      <image:caption
+        >‘The System’ was based around the idea that a system could be developed
+        to 'guarantee a winner' of horse races. Cameras followed a member of the
+        public, Khadisha, as Brown anonymously sent her correct predictions of
+        five races in a row, before encouraging her to place as much money as
+        she could on the sixth race.</image:caption
+      >
+      <image:title>Derren Brown: The System</image:title>
+    </image:image>
+  </url>
+</urlset>

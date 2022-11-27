@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/723975-Disney Channel Summer Sing-Along</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/723975-Disney Channel Summer Sing-Along</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/er2sbtjYpXUZP2CYbTIOERT7ukA.jpg</image:loc
+      >
+      <image:caption
+        >Harnessing the unifying power of music, Disney Channel is presenting a
+        night of entertainment for kids and families with two music specials
+        featuring a bevy of fan-favorite Disney Channel stars, past and present,
+        along with celebrity guests and popular artists.</image:caption
+      >
+      <image:title>Disney Channel Summer Sing-Along</image:title>
+    </image:image>
+  </url>
+</urlset>

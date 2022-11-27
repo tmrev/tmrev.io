@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/119900-D'Artagnan and the Three Musketeers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/119900-D'Artagnan and the Three Musketeers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t6v17zpq6OQsvJv2RqdnQIAGmnT.jpg</image:loc
+      >
+      <image:caption
+        >Exile and possibly death are in the cards for the Queen of France in
+        this edgy cloak-and-dagger adventure based on Alexandre Dumas' unrivaled
+        tale of THE THREE MUSKETEERS and their reckless romantic friend
+        D'Artagnan. Supernatural powers and dark mystical forces add an exciting
+        twist to this classic tale.</image:caption
+      >
+      <image:title>D'Artagnan and the Three Musketeers</image:title>
+    </image:image>
+  </url>
+</urlset>

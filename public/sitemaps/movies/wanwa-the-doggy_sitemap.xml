@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029142-"Wanwa" The Doggy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029142-"Wanwa" The Doggy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ynFde9YyG7Udam6FaVao82z5PPI.jpg</image:loc
+      >
+      <image:caption
+        >A child dreams about his mother's pregnancy, creating a crayon-like
+        world of fears, hopes, and joy.</image:caption
+      >
+      <image:title>"Wanwa" The Doggy</image:title>
+    </image:image>
+  </url>
+</urlset>

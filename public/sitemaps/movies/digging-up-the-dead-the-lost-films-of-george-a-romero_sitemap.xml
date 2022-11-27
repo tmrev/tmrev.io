@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/547754-Digging Up the Dead: The Lost Films of
+      George A. Romero</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/547754-Digging Up the Dead: The Lost Films of
+      George A. Romero</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wx5Qk6mEkaeDOWW7OYiyH9tsx2r.jpg</image:loc
+      >
+      <image:caption
+        >An interview of George A. Romero discussing his two "lost" films,
+        There's Always Vanilla and Season of the Witch.</image:caption
+      >
+      <image:title
+        >Digging Up the Dead: The Lost Films of George A. Romero</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

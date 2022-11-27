@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/863478-Drew Lynch: Concussed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/863478-Drew Lynch: Concussed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mzSdqindHRh7E9luSiIB8OAyIh1.jpg</image:loc
+      >
+      <image:caption
+        >In Drew's first ever comedy special, nothing is safe: politics, police
+        brutality, mass shootings, depression, trans, sexual assault, and more
+        topics he's unqualified to talk about.</image:caption
+      >
+      <image:title>Drew Lynch: Concussed</image:title>
+    </image:image>
+  </url>
+</urlset>

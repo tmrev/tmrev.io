@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24448-7G Rainbow Colony</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24448-7G Rainbow Colony</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3cHWJXV59dhY1t8Ls0kw3TTBjVl.jpg</image:loc
+      >
+      <image:caption
+        >Kathir, a jobless youngster, relentlessly pursues Anitha with his love.
+        Anitha's feelings slowly change from contempt to love, but she does not
+        want to reveal it until Kathir discovers his true self.</image:caption
+      >
+      <image:title>7G Rainbow Colony</image:title>
+    </image:image>
+  </url>
+</urlset>

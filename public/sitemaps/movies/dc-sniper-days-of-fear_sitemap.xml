@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10108-D.C. Sniper: 23 Days of Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10108-D.C. Sniper: 23 Days of Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wt9e6zLJ0mxIPoqG5rQbPCXoyd.jpg</image:loc
+      >
+      <image:caption
+        >Based on the known events that shook the United States for 23 days in
+        2002. Within 24 hours six people were killed by a sniper in Maryland
+        County. A man and his son get overlooked in all settings where shootings
+        occur. The police, in cooperation with the FBI follows the wrong track
+        of a white van, while the murderers act with impunity and panic seizes
+        the population</image:caption
+      >
+      <image:title>D.C. Sniper: 23 Days of Fear</image:title>
+    </image:image>
+  </url>
+</urlset>

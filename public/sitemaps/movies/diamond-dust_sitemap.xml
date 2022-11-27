@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515224-Diamond Dust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515224-Diamond Dust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2R7XkEk15ZYrS4uaP8zYm4RZfsE.jpg</image:loc
+      >
+      <image:caption
+        >Taha works as a pharmacist and lives a normal life with his disabled
+        father. When a mysterious murder occurs, Taha's world changes forever.
+        He starts tracking down many secrets that leads him to unlocks a whole
+        melancholic world of crime!</image:caption
+      >
+      <image:title>Diamond Dust</image:title>
+    </image:image>
+  </url>
+</urlset>

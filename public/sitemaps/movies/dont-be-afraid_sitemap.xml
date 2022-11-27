@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73738-Don't Be Afraid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73738-Don't Be Afraid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vdfMOxxbNtKkOr7DcTfJCOUyaNk.jpg</image:loc
+      >
+      <image:caption
+        >Silvia is a young girl marked by a dark childhood. When she is barely
+        twenty-five, she decides to start over and to face the people, feelings
+        and emotions that keep her bound to the past. In her fight against
+        adversity and against herself, she will learn to control her fears and
+        become an adult, responsible for her own actions.</image:caption
+      >
+      <image:title>Don't Be Afraid</image:title>
+    </image:image>
+  </url>
+</urlset>

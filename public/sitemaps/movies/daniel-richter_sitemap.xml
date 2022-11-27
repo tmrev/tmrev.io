@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1043343-Daniel Richter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1043343-Daniel Richter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wQrjRHqHt7LLuMCIfIu5CUpVeeU.jpg</image:loc
+      >
+      <image:caption
+        >Few artist portraits give us the privilege of getting as close to the
+        painter as if we had free access to his studio. Over a period of three
+        years, Pepe Danquart got to accompany the painter Daniel Richter,
+        watching him paint, negotiate with his gallerist, talk to his publisher
+        and joke with fellow artist Jonathan Meese. Danquart interviews
+        collectors, attends auctions and even visits record
+        shops.</image:caption
+      >
+      <image:title>Daniel Richter</image:title>
+    </image:image>
+  </url>
+</urlset>

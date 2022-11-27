@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75571-Digimon Adventure: Our War Game</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75571-Digimon Adventure: Our War Game</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rY7XzmfQgwMYJXAZSIChU5FLP7y.jpg</image:loc
+      >
+      <image:caption
+        >A year after the events of the first season, a virus Digimon called
+        Diaboromon appears and starts attacking the Internet. The children and
+        their Digimon unite once more in order to prevent him from destroying
+        every communications network on the planet.</image:caption
+      >
+      <image:title>Digimon Adventure: Our War Game</image:title>
+    </image:image>
+  </url>
+</urlset>

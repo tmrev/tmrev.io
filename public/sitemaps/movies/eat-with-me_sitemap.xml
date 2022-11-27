@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308418-Eat With Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308418-Eat With Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nbG2sWh1RKcjhcTmC7OAfAVIIDp.jpg</image:loc
+      >
+      <image:caption
+        >When Emma moves in with her estranged, gay son, the pair must learn to
+        reconnect through food where words fail, and face the foreclosure of the
+        family’s Chinese restaurant and a stubborn fear of
+        intimacy.</image:caption
+      >
+      <image:title>Eat With Me</image:title>
+    </image:image>
+  </url>
+</urlset>

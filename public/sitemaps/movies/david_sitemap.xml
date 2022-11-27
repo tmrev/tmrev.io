@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/725228-David</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/725228-David</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vwDgNb9ozhzilaymu9R6aysR4z5.jpg</image:loc
+      >
+      <image:caption
+        >David needs help. So does David. A severely depressed man reaches out
+        for an emergency therapy session. He’s not the only one who needs
+        help.</image:caption
+      >
+      <image:title>David</image:title>
+    </image:image>
+  </url>
+</urlset>

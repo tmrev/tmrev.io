@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637861-E.M.P. 333 Days</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637861-E.M.P. 333 Days</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bN8j5zAeHr2Xs3weBhd22A7KT6f.jpg</image:loc
+      >
+      <image:caption
+        >After an E.M.P. (Electro Magnetic Pulse) weapon is deployed, North
+        America is forced to live in pre industrial conditions. Anything
+        electrical is useless, sending the country into anarchy. An introverted
+        11 year old girl must fend and fight for herself while trying to find
+        her father.</image:caption
+      >
+      <image:title>E.M.P. 333 Days</image:title>
+    </image:image>
+  </url>
+</urlset>

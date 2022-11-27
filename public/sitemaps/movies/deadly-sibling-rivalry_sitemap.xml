@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112016-Deadly Sibling Rivalry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112016-Deadly Sibling Rivalry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dqmODksHHRyHNZZdUuUCF9ATzXW.jpg</image:loc
+      >
+      <image:caption
+        >Two twins lead separate lives since one of them blamed the other for
+        the accidental death of his father. Years later, one carries a
+        conventional family life while the other has a life of excess. When the
+        first has an accident and is in a coma, the other does not scruple to
+        take over her identity and steal her life.</image:caption
+      >
+      <image:title>Deadly Sibling Rivalry</image:title>
+    </image:image>
+  </url>
+</urlset>

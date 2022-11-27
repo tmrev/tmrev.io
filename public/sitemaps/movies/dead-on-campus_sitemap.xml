@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/302042-Dead on Campus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/302042-Dead on Campus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/97L0aiVbc2SOJbbiPYY8vZzTVzA.jpg</image:loc
+      >
+      <image:caption
+        >A freshman on campus discovers that the only way to be admitted into
+        the sorority of her dreams is to seduce a nerdy introverted guy and film
+        it. When the sorority "prank" goes viral, the boy is discovered dead
+        from apparent suicide, but his sister does not buy it. She goes under
+        cover to expose the sororities' hidden secrets.</image:caption
+      >
+      <image:title>Dead on Campus</image:title>
+    </image:image>
+  </url>
+</urlset>

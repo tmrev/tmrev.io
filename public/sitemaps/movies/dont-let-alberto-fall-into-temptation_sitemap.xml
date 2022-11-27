@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/264633-Don't Let Alberto Fall Into Temptation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/264633-Don't Let Alberto Fall Into Temptation</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i6rX9ufFEjMJ3UGdv8XkQND7qL5.jpg</image:loc
+      >
+      <image:caption
+        >Albert marries the woman of his dreams, but he's about to lose her
+        trying to discover the answer to why men cheat that will make him
+        famous.</image:caption
+      >
+      <image:title>Don't Let Alberto Fall Into Temptation</image:title>
+    </image:image>
+  </url>
+</urlset>

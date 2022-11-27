@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189138-Egypt's Ten Greatest Discoveries</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189138-Egypt's Ten Greatest Discoveries</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cKiU3pdcgz32q2rzZmnAya5vEcU.jpg</image:loc
+      >
+      <image:caption
+        >Dr. Zahi Hawass and a team of archaeologists use Egypt's 10 most
+        important discoveries to paint a picture of Ancient Egyptian
+        civilization and reveal the people who developed many of the disciplines
+        that rule the world today.</image:caption
+      >
+      <image:title>Egypt's Ten Greatest Discoveries</image:title>
+    </image:image>
+  </url>
+</urlset>

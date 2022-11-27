@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/423144-Delusion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/423144-Delusion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yIU8XDnf5ObvpZoAzv85V55jzhG.jpg</image:loc
+      >
+      <image:caption
+        >Three years after the death of Frank's wife a mysterious woman appears.
+        As their attraction grows Frank struggles with reality and his loss. He
+        tries to start over not knowing his choices could lead him to his own
+        downfall.</image:caption
+      >
+      <image:title>Delusion</image:title>
+    </image:image>
+  </url>
+</urlset>

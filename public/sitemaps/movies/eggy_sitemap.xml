@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/961694-Eggy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/961694-Eggy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9zWwKgaLTS7B3Wfnhv30uD2jUmg.jpg</image:loc
+      >
+      <image:caption
+        >The Eggy Robot project aims to synthesize a robot of which artistic
+        appearance and emergent behaviours make us feel and imagine the
+        emergence of primeval organisms. Of all the computer animators that
+        pursued the goal of wild, virtual exotica, none could equal the
+        overwhelming, needlepoint visual intensity of Kawaguchi’s work. One of
+        the world’s leading researchers into 'blobby organic modelling, he
+        depicted a world composed of molten, shape-shifting organs without a
+        body.</image:caption
+      >
+      <image:title>Eggy</image:title>
+    </image:image>
+  </url>
+</urlset>

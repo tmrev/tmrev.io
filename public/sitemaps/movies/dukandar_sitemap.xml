@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/978849-Dukandar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/978849-Dukandar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >On the day of the big India-Pakistan cricket match, a mischievous boy
+        from the slums is forced to work at his father's tea shop. But when he
+        abandons his post to watch the match, the shop gets looted. He learns
+        that there is more to life than cricket.</image:caption
+      >
+      <image:title>Dukandar</image:title>
+    </image:image>
+  </url>
+</urlset>

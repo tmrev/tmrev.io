@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/756307-Delia's Gone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/756307-Delia's Gone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kmiH1ixna3TZXkwrZYbBkZcsQnD.jpg</image:loc
+      >
+      <image:caption
+        >Living with an intellectual disability, Louis is wrongfully accused of
+        the murder of his sister Delia and sentenced to 5 years in prison. Upon
+        release, he is visited by one of the last men to see her alive who
+        implies there is more to her killing than meets the eye. Armed with this
+        new information, Louis embarks on a personal mission to find who is
+        responsible for Delia's mysterious death.</image:caption
+      >
+      <image:title>Delia's Gone</image:title>
+    </image:image>
+  </url>
+</urlset>

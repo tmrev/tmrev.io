@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76186-Die Verzauberung</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76186-Die Verzauberung</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r5AZIGmpUhXafoCfbzT7yH0Ivay.jpg</image:loc
+      >
+      <image:caption
+        >Two couples on vacation in the Austrian alps is a recipe for adultery?
+        Dr. Helmut Baer falls on the first day there and twists his leg. The
+        lady next door is a masseuse. She stays behind while their spouses go
+        with the children on an overnight hike in the mountains. Both couples
+        become tempted by each other, but only one acts upon it. Adultery is in
+        the air!</image:caption
+      >
+      <image:title>Die Verzauberung</image:title>
+    </image:image>
+  </url>
+</urlset>

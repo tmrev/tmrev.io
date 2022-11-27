@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/164268-Directed by Alan Smithee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/164268-Directed by Alan Smithee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jYO995OMK6WnO80NWdiRkqrGQOF.jpg</image:loc
+      >
+      <image:caption
+        >This documentary on the elusive director Alan Smithee was first shown
+        on the American Movie Classics (AMC) cable channel. We learn where the
+        name came from and why the Directors Guild of America (DGA) first
+        allowed his name to be used on Richard Widmark's western Death of a
+        Gunfighter. The film follows the numerous problems that director Tony
+        Kaye had during the production and post-production of the film American
+        History X and why the DGA refused to allow Alan Smithee to be credited
+        for that film.</image:caption
+      >
+      <image:title>Directed by Alan Smithee</image:title>
+    </image:image>
+  </url>
+</urlset>

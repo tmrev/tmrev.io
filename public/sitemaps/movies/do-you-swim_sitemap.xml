@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/532907-Do You Swim?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/532907-Do You Swim?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uzIbSdNgr2yIN8i1YVWaOwTb980.jpg</image:loc
+      >
+      <image:caption
+        >A unfulfilled man tries to find something to ling to, traveling from
+        town to town, in one of them he'll find enough reason to
+        stay.</image:caption
+      >
+      <image:title>Do You Swim?</image:title>
+    </image:image>
+  </url>
+</urlset>

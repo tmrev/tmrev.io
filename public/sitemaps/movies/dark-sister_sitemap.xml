@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259888-Dark Sister</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259888-Dark Sister</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vnnN57aV1FAk2caS1Eh1n6BrvVo.jpg</image:loc
+      >
+      <image:caption
+        >Troubled artist Cassie suffers with reoccurring visions of murder,
+        which she copes with by committing the violent acts to canvas. But when
+        her visions begin to manifest in real life, her friends and family begin
+        to turn up dead. Realizing her visions actually provide a direct link to
+        the killer, Cassie must now confront her own past in order to stop the
+        murders and save herself.</image:caption
+      >
+      <image:title>Dark Sister</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387787-Diving with the Coelacanth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387787-Diving with the Coelacanth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7KFyISCQVKwlX6myW7vbTnsF9wo.jpg</image:loc
+      >
+      <image:caption
+        >120 metres down off the wild coast of South Africa lives an animal once
+        thought to have been extinct for 65 million years - the coelacanth,
+        locally known as Gombessa. A dinosaur fish, a living fossil, that
+        remains the only link connecting fish to terrestrial tetrapods: its fins
+        contain the beginning of reptile and mammal leg bones! And what about
+        the vestigial lung found at the back of its huge mouth?… A team of
+        underwater explorers will film these legendary fish like never
+        before.</image:caption
+      >
+      <image:title>Diving with the Coelacanth</image:title>
+    </image:image>
+  </url>
+</urlset>

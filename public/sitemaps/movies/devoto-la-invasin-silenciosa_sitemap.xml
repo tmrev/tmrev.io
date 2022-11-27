@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/700995-Devoto, la invasión silenciosa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/700995-Devoto, la invasión silenciosa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ppqef9A3tg3PJiIA82gTiA7n9Fi.jpg</image:loc
+      >
+      <image:caption
+        >Five strangers wake up locked in a strange building. They don't know
+        who took them there or for what purpose. Throughout a night they will
+        discover with surprise that an invasion is taking place outside that
+        complex. And this motley group of strangers, for a reason they will have
+        to figure out, are the ones chosen to try to stop it.</image:caption
+      >
+      <image:title>Devoto, la invasión silenciosa</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/827-Diabolique</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/827-Diabolique</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pNcwhz3Eyfn3KQ2XykTozbARMpr.jpg</image:loc
+      >
+      <image:caption
+        >The cruel and abusive headmaster of a boarding school, Michel
+        Delassalle, is murdered by an unlikely duo -- his meek wife and the
+        mistress he brazenly flaunts. The women become increasingly unhinged by
+        a series of odd occurrences after Delassalle's corpse mysteriously
+        disappears.</image:caption
+      >
+      <image:title>Diabolique</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/842546-Disasters Hanging Out</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/842546-Disasters Hanging Out</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4JpxqM4TmhxZ8LBN6jsqnvGn6cZ.jpg</image:loc
+      >
+      <image:caption
+        >A movie about 3 friends who have been documenting and recording all
+        their adventures from 2004 till now... This is only the
+        beginning.</image:caption
+      >
+      <image:title>Disasters Hanging Out</image:title>
+    </image:image>
+  </url>
+</urlset>

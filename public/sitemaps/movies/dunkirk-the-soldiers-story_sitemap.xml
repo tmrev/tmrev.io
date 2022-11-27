@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/944015-Dunkirk: The Soldier's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/944015-Dunkirk: The Soldier's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jP7hnWRYeG6frXIUiI44ApBXdaJ.jpg</image:loc
+      >
+      <image:caption
+        >Veterans of World War II describe their experiences of the retreat to
+        Dunkirk in 1940 and the evacuation. On 10 May, the German Army invaded
+        Holland and Belgium. The Blitzkrieg had begun, an entirely new way of
+        fighting war. For the young men aged 18 and 19 who joined up to 'do
+        their bit', it was a terrifying baptism of fire, and for the British
+        Army a shattering blow. Within three weeks, it was a crushing defeat,
+        leading to the largest military evacuation in history. This film is the
+        story, told in their own words, of a group of young men, now veterans,
+        and their first experience of modern mechanised warfare.</image:caption
+      >
+      <image:title>Dunkirk: The Soldier's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

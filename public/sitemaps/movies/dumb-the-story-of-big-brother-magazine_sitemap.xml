@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/453053-Dumb: The Story of Big Brother
+      Magazine</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/453053-Dumb: The Story of Big Brother
+      Magazine</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9GZlYXKWs5o1YPKNPETOT9xg2zW.jpg</image:loc
+      >
+      <image:caption
+        >A look at the rise and fall of the subversive skateboarding magazine
+        Big Brother, which rose to prominence in the mid-1990s and had a
+        profound effect on the skating subculture with its unfiltered
+        approach.</image:caption
+      >
+      <image:title>Dumb: The Story of Big Brother Magazine</image:title>
+    </image:image>
+  </url>
+</urlset>

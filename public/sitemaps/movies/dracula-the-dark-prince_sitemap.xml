@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/218266-Dracula: The Dark Prince</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/218266-Dracula: The Dark Prince</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/99t35MuDHmgLMpVSHdlKBu26jqj.jpg</image:loc
+      >
+      <image:caption
+        >In his search for the Lightbringer, Dracula crosses paths with a
+        beautiful crusader named Alina who bears a remarkable resemblance to his
+        murdered bride. One look at her and Dracula is immediately smitten.
+        Could Alina be the reincarnation of his long-dead love? Dracula has
+        Alina kidnapped and brought to his castle where the Beast must now try
+        to win his Beauty's heart.</image:caption
+      >
+      <image:title>Dracula: The Dark Prince</image:title>
+    </image:image>
+  </url>
+</urlset>

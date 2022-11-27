@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384514-Die letzte Reise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384514-Die letzte Reise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2awfXRwzfkHgSwvSCL6Ve5VqWA8.jpg</image:loc
+      >
+      <image:caption
+        >The family of Katharina Krohn is shocked when they learn that she is a
+        member of a Swiss organization that helps people who have decided to
+        leave this life, even though she has no life-threatening disease like
+        many of the other members, but because she has lost the will to face
+        life after the death of her husband.</image:caption
+      >
+      <image:title>Die letzte Reise</image:title>
+    </image:image>
+  </url>
+</urlset>

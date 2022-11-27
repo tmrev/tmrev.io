@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/496313-DiwanjiMoola Grand Prix</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/496313-DiwanjiMoola Grand Prix</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/az0uGMtkFQnRUMNVVi0ixe9IqeD.jpg</image:loc
+      >
+      <image:caption
+        >As the long forgotten race is re-opened it brings a family, old-time
+        friends and an entire colony of the downtrodden back together and the
+        search for a new champion begins.</image:caption
+      >
+      <image:title>DiwanjiMoola Grand Prix</image:title>
+    </image:image>
+  </url>
+</urlset>

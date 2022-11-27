@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34714-Diamond Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34714-Diamond Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v1BlkCqb2wtA5dJrae4pzpRfoHQ.jpg</image:loc
+      >
+      <image:caption
+        >After 30 years on the road, a veteran jewellery salesman is forced to
+        show his young replacement the tricks of the trade. But when the kid
+        introduces him to the ladies of the "Altoona Riding Club," the old dog
+        is introduced to a whole new set of "tricks."</image:caption
+      >
+      <image:title>Diamond Men</image:title>
+    </image:image>
+  </url>
+</urlset>

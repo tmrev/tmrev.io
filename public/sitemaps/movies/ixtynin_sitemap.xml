@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33253-6ixtynin9</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33253-6ixtynin9</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q9hHVuHQX3yTDDUtuIezDz3YC34.jpg</image:loc
+      >
+      <image:caption
+        >A woman, fired from a financial corporation during the Asia crisis,
+        returns home with no money. However, she finds a box with a fortune in
+        front of her door, and decides to keep it. However, the people that left
+        it there soon want it back.</image:caption
+      >
+      <image:title>6ixtynin9</image:title>
+    </image:image>
+  </url>
+</urlset>

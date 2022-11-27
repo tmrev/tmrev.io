@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/576055-Dying for a Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/576055-Dying for a Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fthi7pS9bwA1EiQRvS4v1r1LjDU.jpg</image:loc
+      >
+      <image:caption
+        >Amber and Kyle are ready to move on after a car accident two years ago.
+        But their world turns upside down when Jessica, the other driver who
+        lost her unborn baby in the accident, moves in next door and gets a job
+        with Amber's doctor -- all in a plan to seek a cold form of
+        revenge.</image:caption
+      >
+      <image:title>Dying for a Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

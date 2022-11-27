@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136568-Dragon Wasps</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136568-Dragon Wasps</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xYW9kuRPpkumbyOK3znajiKNEQu.jpg</image:loc
+      >
+      <image:caption
+        >A scientist enlists the help of the US army to investigate the
+        mysterious disappearance of her father, deep in the Belizean jungle.
+        Caught in the crossfire between a brutal guerrilla army controlled by a
+        mystical warlord, they are also confronted by an even bigger terror
+        giant mutated wasps that are, for some reason, thirsty for
+        blood.</image:caption
+      >
+      <image:title>Dragon Wasps</image:title>
+    </image:image>
+  </url>
+</urlset>

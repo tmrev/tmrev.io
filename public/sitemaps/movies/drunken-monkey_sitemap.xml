@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39751-Drunken Monkey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39751-Drunken Monkey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fOpCVCE016vcOre0muJzEbD12JB.jpg</image:loc
+      >
+      <image:caption
+        >China, the early 1930's: martial arts master Wen Biao discovers that
+        his brother has been using their security company for illegal
+        activities. A confrontation between the brothers leaves Web Biao missing
+        and presumed dead.</image:caption
+      >
+      <image:title>Drunken Monkey</image:title>
+    </image:image>
+  </url>
+</urlset>

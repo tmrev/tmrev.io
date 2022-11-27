@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/584835-Deep in Vogue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/584835-Deep in Vogue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/96A94XE8aW77Vapn4Z3VfYfUCBz.jpg</image:loc
+      >
+      <image:caption
+        >Explore the power of dance in an intoxicating portrait of a club scene
+        in the heart of Manchester. (BFI Flare 2019)</image:caption
+      >
+      <image:title>Deep in Vogue</image:title>
+    </image:image>
+  </url>
+</urlset>

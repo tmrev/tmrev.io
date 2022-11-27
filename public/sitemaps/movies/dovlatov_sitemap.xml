@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/493655-Dovlatov</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/493655-Dovlatov</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gYLev9O4YoK5vwByYcWwAdG15Xa.jpg</image:loc
+      >
+      <image:caption
+        >Dovlatov charts six days in the life of a brilliant, ironic writer who
+        saw far beyond the rigid limits of 70s Soviet Russia. Sergei Dovlatov
+        fought to preserve his own talent and decency with poet and writer
+        Joseph Brodsky, while watching his artist friends got crushed by the
+        iron-willed state machinery.</image:caption
+      >
+      <image:title>Dovlatov</image:title>
+    </image:image>
+  </url>
+</urlset>

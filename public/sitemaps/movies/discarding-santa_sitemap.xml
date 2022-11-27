@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560009-Discarding Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560009-Discarding Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/syn5XQXZBfyxga51GOVU9vtDC0Z.jpg</image:loc
+      >
+      <image:caption
+        >In 2010, the city of Leitchfield, Kentucky decided to outlaw any and
+        all references to Santa Claus for Christmas, in an attempt to
+        de-commercialize the holiday. The events that happened leading up to
+        Christmas are still under investigation. The evidence, discovered in
+        2017, has been pieced together with news footage, security footage,
+        police footage and City Counsel footage</image:caption
+      >
+      <image:title>Discarding Santa</image:title>
+    </image:image>
+  </url>
+</urlset>

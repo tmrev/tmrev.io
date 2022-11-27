@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425298-Darkland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425298-Darkland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bn7d8LvRuLID5DIQL3EwO28BjMT.jpg</image:loc
+      >
+      <image:caption
+        >Zaid is a successful heart surgeon with an expensive apartment and
+        pregnant girlfriend. One night he gets a visit from his brother Yasin,
+        who is desperate for money, but he refuses. Soon after, Yasin is found
+        beaten to death and Zaid is overcome with guilt. As guilt gives way to
+        anger, Zaid becomes a masked avenger and takes on Copenhagen's criminal
+        underworld in his quest for justice.</image:caption
+      >
+      <image:title>Darkland</image:title>
+    </image:image>
+  </url>
+</urlset>

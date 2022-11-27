@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198645-Dear Louise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198645-Dear Louise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tGddRdi3Obr3giogyrpV53nlskt.jpg</image:loc
+      >
+      <image:caption
+        >Louise lives alone and seems to like it that way. She has been through
+        a divorce and the recent death of her mother. Recently, she has moved to
+        Annecy, a moderate-sized city, to take work as a schoolteacher. She
+        encounters a much younger man, Luigi, an Italian who is down on his
+        luck. Though he moved to France to find work, he was robbed of his money
+        and papers and is stranded. When he helps her bury her dogs, which her
+        neighbour has poisoned for barking, their relationship grows to a new
+        level.</image:caption
+      >
+      <image:title>Dear Louise</image:title>
+    </image:image>
+  </url>
+</urlset>

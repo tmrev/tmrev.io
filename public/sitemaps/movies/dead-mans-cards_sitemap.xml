@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13718-Dead Man's Cards</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13718-Dead Man's Cards</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/imHbKF8kHi490ukpUqB9V3qpSEG.jpg</image:loc
+      >
+      <image:caption
+        >Ex Boxer Tom is on the ropes, when a chance encounter at the gym leads
+        to the offer of work as a doorman at a run down nightclub. The volatile
+        head doorman Paul, is a battle hardened veteran from the old school.
+        Recognising Tom for the fighter that he once was, Paul takes him under
+        his wing, and guides him through the ins and outs of life as a club land
+        "peacekeeper."</image:caption
+      >
+      <image:title>Dead Man's Cards</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/535172-Disco Raja</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/535172-Disco Raja</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2yWmWOPIq7NjkpD5Wv3aaumPptO.jpg</image:loc
+      >
+      <image:caption
+        >Found frozen and brain-dead in Ladakh, Vasu is brought back to life but
+        with no memories of who he was, until he starts to regain his past and
+        piece it together to find the people responsible for his
+        murder.</image:caption
+      >
+      <image:title>Disco Raja</image:title>
+    </image:image>
+  </url>
+</urlset>

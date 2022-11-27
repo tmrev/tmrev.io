@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/120721-Desechos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/120721-Desechos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rdfkp1e3wtyTDboOEq6s9p4MwFi.jpg</image:loc
+      >
+      <image:caption
+        >In economic crisis, Kiko (Eric French) and Marcelo (Adrià Collado)
+        believe finding a solution to their economic problems re-letting a room
+        in his house in Ibiza ... As the floor in the living only two fit the
+        closet of the housing as if it were a small room. After several
+        unsuccessful visits appears Soto (Fernando Tejero), a strange character
+        who not only accepts live in the small "bedroom" but also offers the
+        ultimate solution to your all their woes ...</image:caption
+      >
+      <image:title>Desechos</image:title>
+    </image:image>
+  </url>
+</urlset>

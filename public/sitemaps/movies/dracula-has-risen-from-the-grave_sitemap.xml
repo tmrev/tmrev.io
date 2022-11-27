@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29778-Dracula Has Risen from the Grave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29778-Dracula Has Risen from the Grave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/okuE1qWmBcmTAHdOI5OtEPgx2Sv.jpg</image:loc
+      >
+      <image:caption
+        >In the shadow of Castle Dracula, the Prince of Darkness is revived by
+        blood trickling from the head-wound of an unconscious priest attempting
+        exorcism. And once more fear and terror strikes Transylvania as the
+        undead Prince of Darkness stalks the village of Keineneburg to ensnare
+        victims and satisfy his evil thirst.</image:caption
+      >
+      <image:title>Dracula Has Risen from the Grave</image:title>
+    </image:image>
+  </url>
+</urlset>

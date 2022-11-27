@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/367759-Dream Team</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/367759-Dream Team</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gqIkuArz0zfjJIQ0HFBHHUAcEqN.jpg</image:loc
+      >
+      <image:caption
+        >Soccer coach Byrd is persuaded by teacher Noo Lek to help coach ten of
+        the school's kindergarteners students for a tug-of-war tournament being
+        staged as part of the 18th National Kindergarten Sports Competition.
+        Problems arise upon learning the rules clearly state that only 9 players
+        are allowed on each tug of war team. Thus the 10-kid "Dream Team" must
+        bench one member during the competition. Coach Byrd is forced to deal
+        with a bunch of interfering parents who want to make sure their kid is
+        featured on the school team.</image:caption
+      >
+      <image:title>Dream Team</image:title>
+    </image:image>
+  </url>
+</urlset>

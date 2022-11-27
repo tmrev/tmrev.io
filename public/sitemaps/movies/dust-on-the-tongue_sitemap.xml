@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260680-Dust on the Tongue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260680-Dust on the Tongue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5oCFqWq14NioY9q0RlRKBXXzO58.jpg</image:loc
+      >
+      <image:caption
+        >A grandfather, in the final stage of his existence, asks two of his
+        grandchildren to kill him because he wants to die by the hand of someone
+        who bears his own blood. However, the young children discover a truth
+        that will make them take the opposite decision, keep him alive,
+        agonizing as punishment for his past actions.</image:caption
+      >
+      <image:title>Dust on the Tongue</image:title>
+    </image:image>
+  </url>
+</urlset>

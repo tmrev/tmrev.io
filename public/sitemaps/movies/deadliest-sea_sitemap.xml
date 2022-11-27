@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30332-Deadliest Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30332-Deadliest Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wGIC05M5lKtkznZegItMKW37MMV.jpg</image:loc
+      >
+      <image:caption
+        >Based on the book Working on the Edge by Spike Walker, Deadliest Sea
+        tells the story of a young man who joins the crew of a King Crab trawler
+        in Alaska seeking to make some real money. The captain of the vessel
+        plays a hunch about where to set traps in the Bering Sea, but the boat
+        and crew are soon victims of a powerful and relentless
+        storm.</image:caption
+      >
+      <image:title>Deadliest Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

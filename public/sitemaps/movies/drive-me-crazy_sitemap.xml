@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14429-Drive Me Crazy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14429-Drive Me Crazy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qq2jbAOw5yWTaSPJIRHxvTf0bND.jpg</image:loc
+      >
+      <image:caption
+        >Nicole and Chase live next door to each other but are worlds apart.
+        However, they plot a scheme to date each other in order to attract the
+        interest and jealousy of their respective romantic prey. But in the mist
+        of planning a gala centennial celebration, Nicole and Chase find that
+        the one they always wanted was closer than they ever
+        thought.</image:caption
+      >
+      <image:title>Drive Me Crazy</image:title>
+    </image:image>
+  </url>
+</urlset>

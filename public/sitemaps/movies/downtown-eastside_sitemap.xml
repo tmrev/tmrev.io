@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/847609-Downtown Eastside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/847609-Downtown Eastside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rpgNJDfvXzS9xSwOZvCKmexVSuh.jpg</image:loc
+      >
+      <image:caption
+        >The artist records everyday activities in the streets and alleys around
+        the Main and Hasting Street intersection. On the right, the view is from
+        a fixed camera positioned on top of a dashboard in a moving car. On the
+        left, he walks with a handheld camera with a wide angle lens. Along the
+        way he encounters a street artist, engages with two women in Pigeon
+        Park, crack users, dealers and homeless people.</image:caption
+      >
+      <image:title>Downtown Eastside</image:title>
+    </image:image>
+  </url>
+</urlset>

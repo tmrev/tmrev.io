@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62079-Dubai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62079-Dubai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bjJaU5ZOvCEqP7H8wNy8u172lPK.jpg</image:loc
+      >
+      <image:caption
+        >Summoning his younger brother Andrew to the city of Dubai, the
+        financially stable Raffy a Filipino citizen who's spent several years
+        overseas hopes his sibling can find work so that they can finally move
+        to Canada. Unfortunately, Raffy doesn't expect Andrew to go falling in
+        love with his ex-girlfriend, Faye a woman Raffy, in fact, still cares
+        for very much.</image:caption
+      >
+      <image:title>Dubai</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/520948-Diamond Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/520948-Diamond Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/doLor1tyuNFSDjehYK868wPzZkF.jpg</image:loc
+      >
+      <image:caption
+        >A stage three cancer diagnosis leaves deaf and mute Johnny with little
+        to lose, when he is lured into a deadly underground social experiment.
+        Funded by the uber-rich, it pits fighters against one another in a test
+        of animalistic aggression and adrenaline. Johnny’s fight to the top is
+        brutal, fueled by the sole desire to exact revenge on the man who caged
+        him in.</image:caption
+      >
+      <image:title>Diamond Dogs</image:title>
+    </image:image>
+  </url>
+</urlset>

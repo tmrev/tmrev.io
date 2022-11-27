@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/845990-Deranged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/845990-Deranged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3ZHqTZ9bN7akqWITMc9z3jFmOIu.jpg</image:loc
+      >
+      <image:caption
+        >A substitute teacher and an obsessive student begin an illicit affair
+        that endangers everyone involved and blurs the line between predator and
+        prey.</image:caption
+      >
+      <image:title>Deranged</image:title>
+    </image:image>
+  </url>
+</urlset>

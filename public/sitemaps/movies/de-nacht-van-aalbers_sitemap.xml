@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/94605-De nacht van Aalbers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/94605-De nacht van Aalbers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nzHDdg9Bf0sD5QFEEsK2v2tfcfx.jpg</image:loc
+      >
+      <image:caption
+        >A political thriller about PvdA-frontman Frits Aalbers who gets
+        involved with a mysterious murder in a hotel. To make sure his political
+        career will not be damaged - an important coalition is at stake - the
+        master politician tries to hide the truth no matter the cost. The
+        ambitious young journalist Barbara van Dalen is trying to get a scoop on
+        the impeding coalition, but accidentally stumbles upon the trail of the
+        murder.</image:caption
+      >
+      <image:title>De nacht van Aalbers</image:title>
+    </image:image>
+  </url>
+</urlset>

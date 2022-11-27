@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/367434-Egypt's Lost Queens</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/367434-Egypt's Lost Queens</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uBpKBv2MY74DQbzhAgKRDjO6mnv.jpg</image:loc
+      >
+      <image:caption
+        >Professor Joann Fletcher explores what it was like to be a woman of
+        power in ancient Egypt. Through a wealth of spectacular buildings,
+        personal artefacts and amazing tombs, Joann brings to life four of
+        ancient Egypt's most powerful female rulers and discovers the remarkable
+        influence wielded by women, whose power and freedom was unique in the
+        ancient world. Throughout Egypt's history, women held the title of
+        pharaoh no fewer than 15 times, and many other women played key roles in
+        running the state and shaping every aspect of life. Joann Fletcher puts
+        these influential women back at the heart of our understanding,
+        revealing the other half of ancient Egypt.</image:caption
+      >
+      <image:title>Egypt's Lost Queens</image:title>
+    </image:image>
+  </url>
+</urlset>

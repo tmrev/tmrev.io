@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/227215-Dinosaur Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/227215-Dinosaur Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2n0xp3AlSD2Ans3Rx4Iu25n1RZh.jpg</image:loc
+      >
+      <image:caption
+        >Dinosaur Revolution is a four-part nature documentary miniseries that
+        utilizes computer-generated imagery to portray dinosaurs and other
+        animals from the Mesozoic era. It was praised for its educational
+        content and general energy. Used and unused footage was later made into
+        a feature film titled Dinotasia.</image:caption
+      >
+      <image:title>Dinosaur Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/903128-Death Jesus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/903128-Death Jesus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Chilean science fiction low-budget film about a death metal band trio
+        who steal a crucifix from a church in order to make their album's cover.
+        Christ's figure not only is brought to life but also joins the band as a
+        singer, provoking Satan's himself anger.</image:caption
+      >
+      <image:title>Death Jesus</image:title>
+    </image:image>
+  </url>
+</urlset>

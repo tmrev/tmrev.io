@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362180-Don't Grow Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362180-Don't Grow Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kFMcTFDYjOdBpDfdFocLm40epDA.jpg</image:loc
+      >
+      <image:caption
+        >The story about a group of youths who can't face the thought of growing
+        up because anyone who does becomes a rampaging zombie.</image:caption
+      >
+      <image:title>Don't Grow Up</image:title>
+    </image:image>
+  </url>
+</urlset>

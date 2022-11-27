@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/166067-Die Quereinsteigerinnen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/166067-Die Quereinsteigerinnen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m1zqMAqIp2W9y7nwepw5kmZ74Z3.jpg</image:loc
+      >
+      <image:caption
+        >Two young women kidnap the manager of the German telephone provider and
+        start making strange demands while getting to know their captive a
+        little better</image:caption
+      >
+      <image:title>Die Quereinsteigerinnen</image:title>
+    </image:image>
+  </url>
+</urlset>

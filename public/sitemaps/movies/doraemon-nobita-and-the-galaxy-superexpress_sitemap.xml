@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/106164-Doraemon: Nobita and the Galaxy
+      Super-express</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/106164-Doraemon: Nobita and the Galaxy
+      Super-express</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hRIyZ1Gi9CpXioiOKhpk4U9M6Me.jpg</image:loc
+      >
+      <image:caption
+        >Doraemon went missing for 3 days. But it turns out later that he went
+        to the 22nd century to buy a mystery galactic express train ticket whose
+        destination is a secret until the passengers arrive there and see for
+        themselves.</image:caption
+      >
+      <image:title>Doraemon: Nobita and the Galaxy Super-express</image:title>
+    </image:image>
+  </url>
+</urlset>

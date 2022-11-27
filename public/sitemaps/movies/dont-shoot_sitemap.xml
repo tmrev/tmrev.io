@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550244-Don't Shoot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550244-Don't Shoot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lMjqg9QFEFvcfJXlDgw09jIZmTt.jpg</image:loc
+      >
+      <image:caption
+        >In one fell swoop, nine-year old David Van de Steen lost his mother,
+        his father and his sister in an attack by the Brabant Killers in Aalst.
+        His grandfather, Albert, has the well-nigh impossible task of giving
+        David a new perspective on life, a future.</image:caption
+      >
+      <image:title>Don't Shoot</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/844532-Doutor Gama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/844532-Doutor Gama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rnQZz5SAHMB6DSEhM9bSZ6DdSw6.jpg</image:loc
+      >
+      <image:caption
+        >Based on the biography of Luiz Gama, one of the most important
+        characters in Brazilian history, a black man who used the laws and
+        courts to free more than 500 slaves. Born of a free womb, Gama was sold
+        into slavery at the age of 10 to pay off his father's gambling debts.
+        Even as a slave, he became literate, studied and earned his own freedom,
+        becoming one of the most respected lawyers of his time. An abolitionist
+        and republican who inspired an entire country.</image:caption
+      >
+      <image:title>Doutor Gama</image:title>
+    </image:image>
+  </url>
+</urlset>

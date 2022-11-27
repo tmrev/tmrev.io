@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/194083-Ee Parakkum Thalika</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/194083-Ee Parakkum Thalika</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dZzM4eaB60Ogz31NqomsHEdar45.jpg</image:loc
+      >
+      <image:caption
+        >Unnikrishnan owns an old bus, received as a compensation for his
+        father's road accident and he is facing lots of consequences due to the
+        pathetic condition of the bus. The plot took a turn when a girl named
+        Basanthi entered the bus as a nomad</image:caption
+      >
+      <image:title>Ee Parakkum Thalika</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1018851-Eight Ladies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1018851-Eight Ladies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gGc1FVaGcPy0vvqSCb1acweyaQE.jpg</image:loc
+      >
+      <image:caption
+        >The eight ladies in this film come from Alyawarr Country in the
+        Sandover River region in central Australia, about 250km north of Alice
+        Springs. The filmmakers joined them on a five-day journey into the bush
+        to hunt echidna and gather bush foods such as the bush potato. As they
+        hunt and gather, and as they sit around their campfire at night
+        preparing the food, they talk about the old days and how life has
+        changed.</image:caption
+      >
+      <image:title>Eight Ladies</image:title>
+    </image:image>
+  </url>
+</urlset>

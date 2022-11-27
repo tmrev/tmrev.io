@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392812-Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392812-Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Aw1Mblqim460svfDxcCzXkFeFL8.jpg</image:loc
+      >
+      <image:caption
+        >Roman returns to the land near the Ukrainian border he has just
+        inherited from his grandfather. Fully decided to sell this vast but
+        desolate property, he is warned by the local cop that his grandfather
+        was a local crime lord and his men will not let go of the land - and
+        their smuggling business - without a fight.</image:caption
+      >
+      <image:title>Dogs</image:title>
+    </image:image>
+  </url>
+</urlset>

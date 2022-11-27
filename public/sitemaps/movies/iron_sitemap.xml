@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1280-3-Iron</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1280-3-Iron</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hr8ghKbdo3UGUROYafpN38Sohfe.jpg</image:loc
+      >
+      <image:caption
+        >A young man, whose only possession is a motorcycle, spends his time
+        riding around the city looking for empty apartments. After finding one,
+        he hangs out for a while, fixing himself something to eat, washing
+        laundry or making small repairs in return. He always tries to leave
+        before the owners get back but in one ostensibly empty mansion he meets
+        the abused wife of a rich man and she escapes with him...</image:caption
+      >
+      <image:title>3-Iron</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39101-Dragon Ball Z: The Tree of Might</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39101-Dragon Ball Z: The Tree of Might</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg</image:loc
+      >
+      <image:caption
+        >Goku and friends must stop a band of space pirates from consuming fruit
+        from the Tree of Might before it's destructive powers drain Earth's
+        energy.</image:caption
+      >
+      <image:title>Dragon Ball Z: The Tree of Might</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51183-15MALAYSIA</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51183-15MALAYSIA</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Fifteen short films with socio-economic subject matter by 15 directors
+        of Malaysia's "New Wave" and "No Wave." 15Malaysia is a short film
+        project. It consists of 15 short films made by 15 Malaysian filmmakers.
+        These films not only deal with socio-political issues in Malaysia, they
+        also feature some of the best-known faces in the country, including
+        actors, musicians and top political leaders. You may think of them as
+        funky little films made by 15 Malaysian voices for the people of
+        Malaysia.</image:caption
+      >
+      <image:title>15MALAYSIA</image:title>
+    </image:image>
+  </url>
+</urlset>

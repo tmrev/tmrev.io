@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550836-Cut-Out Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550836-Cut-Out Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vUKhPkdXIMwNyJmfIgpqFCuSnpo.jpg</image:loc
+      >
+      <image:caption
+        >Kevin and Mike are young men trying to get ahead in the competitive
+        world of tennis. When one of them discovers a dangerous key that can
+        unlock their potential, things get out of hand. Their worlds become
+        intertwined and spiral out of control. A small series of seemingly
+        insignificant moments weave together with devastating
+        consequences.</image:caption
+      >
+      <image:title>Cut-Out Girls</image:title>
+    </image:image>
+  </url>
+</urlset>

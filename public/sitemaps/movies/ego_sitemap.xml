@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/163431-Ego</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/163431-Ego</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9BQtADzFx5SWdVjBjdWCrRxZ0v.jpg</image:loc
+      >
+      <image:caption
+        >For Sebastian Silverberg life is all about his appearance, partying and
+        his enormous ego. Things are going smoothly when an accident leaves him
+        blind, forcing him to re-evaluate his life and to seek meaning beyond
+        appearances.</image:caption
+      >
+      <image:title>Ego</image:title>
+    </image:image>
+  </url>
+</urlset>

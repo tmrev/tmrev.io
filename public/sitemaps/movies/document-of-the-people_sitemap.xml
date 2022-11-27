@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514588-Document of the People</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514588-Document of the People</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A composite of four excerpts from an original, now unavailable
+        open-reel tape shot by the German art collective Telewissen in 1972 as
+        part of their exhibition "Documenta 5." The recordings depict candid
+        conversations of the "Documenta" audience, recordings of whom are latter
+        incorporated into the live piece, presented on a video monitor mounted
+        in the back of a van</image:caption
+      >
+      <image:title>Document of the People</image:title>
+    </image:image>
+  </url>
+</urlset>

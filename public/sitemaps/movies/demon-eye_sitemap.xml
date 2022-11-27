@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/597722-Demon Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/597722-Demon Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fwgtB7UwV1AjCKi0A6CzF9znkdN.jpg</image:loc
+      >
+      <image:caption
+        >A young woman returns to her father's country house in the moors
+        following his mysterious death and finds a cursed amulet, connected to
+        local witchcraft. She unlocks two deadly demons, who haunt
+        her.</image:caption
+      >
+      <image:title>Demon Eye</image:title>
+    </image:image>
+  </url>
+</urlset>

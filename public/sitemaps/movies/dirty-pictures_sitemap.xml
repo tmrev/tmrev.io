@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73852-Dirty Pictures</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73852-Dirty Pictures</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8j1axCgXBpSjx3QYr9m3o2uyoVn.jpg</image:loc
+      >
+      <image:caption
+        >Alexander 'Sasha' Shulgin is the scientist behind more than 200
+        psychedelic compounds including MDMA, more commonly known as Esctasy.
+        Considered to be one of the the greatest chemists of the twentieth
+        century, Sasha's vast array of discoveries have had a profound impact in
+        the field of psychedelic research. 'Dirty Pictures' delves into the
+        lifework of Dr. Shulgin and scientists alike, explores the world of
+        these scientists; their findings and motivations, their ideas, and their
+        beliefs as to how research in this particular field can aid in unlocking
+        the complexities of the mind.</image:caption
+      >
+      <image:title>Dirty Pictures</image:title>
+    </image:image>
+  </url>
+</urlset>

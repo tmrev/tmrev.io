@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/562229-Dead Ringer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/562229-Dead Ringer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3m6ZnEN9Yur6B9AWhWmEaBNhH9W.jpg</image:loc
+      >
+      <image:caption
+        >A modern day version of The Prince And The Pauper where one man from a
+        poor background ends up taking over another mans life from the entirely
+        opposite end of the spectrum. Jamie Poulton - lead singer of tribute act
+        'Dive' - gets the opportunity to replace the iconic Donny Martin from
+        the boy band group D5 with ever gripping twists and turns. This British
+        film asks the question could one man live in another mans shoes and
+        actually get away with it!?</image:caption
+      >
+      <image:title>Dead Ringer</image:title>
+    </image:image>
+  </url>
+</urlset>

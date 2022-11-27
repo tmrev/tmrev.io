@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784585-Diana: The Inquest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784585-Diana: The Inquest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/42784kxZjhcS60XR5Ib42WDnlAT.jpg</image:loc
+      >
+      <image:caption
+        >The death of Diana, Princess of Wales in August 1997 shocked the world,
+        and left behind a series of mysterious and sinister conspiracy theories.
+        Explore the search for truth in this documentary.</image:caption
+      >
+      <image:title>Diana: The Inquest</image:title>
+    </image:image>
+  </url>
+</urlset>

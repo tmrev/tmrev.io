@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76946-Eight Days to Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76946-Eight Days to Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5JBs9BXUlXv7gDscsPXkTwDjWDP.jpg</image:loc
+      >
+      <image:caption
+        >A mother searches for her lost son, who after four days still has not
+        returned from a party at a friend's house a day's drive
+        away.</image:caption
+      >
+      <image:title>Eight Days to Live</image:title>
+    </image:image>
+  </url>
+</urlset>

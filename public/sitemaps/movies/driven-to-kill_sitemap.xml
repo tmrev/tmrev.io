@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18472-Driven to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18472-Driven to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dprXvycJtj8OGxPWDXDTIl0y5LK.jpg</image:loc
+      >
+      <image:caption
+        >A former Russian mobster named Ruslan, who is now a crime novelist,
+        returns home and discovers his daughter is marrying his arch nemesis.
+        His past also comes back to haunt him when his family is threatened.
+        Hungry for justice, Ruslan returns to the life he once knew...with a
+        vengeance.</image:caption
+      >
+      <image:title>Driven to Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

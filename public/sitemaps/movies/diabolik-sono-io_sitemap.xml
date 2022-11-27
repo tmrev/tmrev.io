@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/581887-Diabolik sono io</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/581887-Diabolik sono io</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/orY9G1ZylaVnqPPjQ1M6cEArA6U.jpg</image:loc
+      >
+      <image:caption
+        >Docudrama about elusive comic book artist Zarcone, who disappeared
+        without a trace after illustrating issue #1 of Diabolik (November 1,
+        1962).</image:caption
+      >
+      <image:title>Diabolik sono io</image:title>
+    </image:image>
+  </url>
+</urlset>

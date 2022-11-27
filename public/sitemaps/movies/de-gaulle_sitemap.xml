@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/661804-De Gaulle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/661804-De Gaulle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/riglPR73CUgNdnNqZ47LWKmad7r.jpg</image:loc
+      >
+      <image:caption
+        >Paris, June 1940. The de Gaulle couple is confronted with the military
+        and political collapse of France. Charles de Gaulle joins London while
+        Yvonne, his wife, finds herself with her three children on the road of
+        the exodus.</image:caption
+      >
+      <image:title>De Gaulle</image:title>
+    </image:image>
+  </url>
+</urlset>

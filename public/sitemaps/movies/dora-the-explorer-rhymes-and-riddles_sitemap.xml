@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/394730-Dora the Explorer: Rhymes and Riddles</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/394730-Dora the Explorer: Rhymes and Riddles</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nibgMzC16CbKwRThxbgN96aFBQS.jpg</image:loc
+      >
+      <image:caption>Dora the Explorer: Rhymes and Riddles</image:caption>
+      <image:title>Dora the Explorer: Rhymes and Riddles</image:title>
+    </image:image>
+  </url>
+</urlset>

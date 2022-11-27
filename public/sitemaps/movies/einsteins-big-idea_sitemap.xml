@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57609-Einstein's Big Idea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57609-Einstein's Big Idea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/legVjO5fAdqMfVpaWCY2otyNFbj.jpg</image:loc
+      >
+      <image:caption
+        >Over 100 years ago, Albert Einstein grappled with the implications of
+        his revolutionary special theory of relativity and came to a startling
+        conclusion: mass and energy are one, related by the formula E = mc2. In
+        "Einstein's Big Idea," NOVA dramatizes the remarkable story behind this
+        equation. E = mc2 was just one of several extraordinary breakthroughs
+        that Einstein made in 1905, including the completion of his special
+        theory of relativity, his identification of proof that atoms exist, and
+        his explanation of the nature of light, which would win him the Nobel
+        Prize in Physics. Among Einstein's ideas, E = mc2 is by far the most
+        famous. Yet how many people know what it really means? In a
+        thought-provoking and engrossing docudrama, NOVA illuminates this
+        deceptively simple formula by unraveling the story of how it came to
+        be.</image:caption
+      >
+      <image:title>Einstein's Big Idea</image:title>
+    </image:image>
+  </url>
+</urlset>

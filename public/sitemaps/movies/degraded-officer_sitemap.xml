@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/419742-Degraded Officer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/419742-Degraded Officer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aYqjqRd4fUlPjE3C7068nuloFX0.jpg</image:loc
+      >
+      <image:caption
+        >During 1943 a young platoon commander refuses to follow an order of
+        frontal attack; he doesn't want to send his soldiers against the enemy
+        machine-guns and get them killed. A battalion commander rips off his
+        shoulder straps and sends him to the military tribunal. But the war is
+        everywhere and the demoted officer and his escorts have to start an
+        unequal fight with the enemy.</image:caption
+      >
+      <image:title>Degraded Officer</image:title>
+    </image:image>
+  </url>
+</urlset>

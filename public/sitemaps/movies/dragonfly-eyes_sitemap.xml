@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467257-Dragonfly Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467257-Dragonfly Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/roLs75aAAUkaDpk1EgXFGwof3gv.jpg</image:loc
+      >
+      <image:caption
+        >A young woman's life takes a series of unexpected turns after she
+        leaves the Buddhist temple where she has lived most of her adult
+        life.</image:caption
+      >
+      <image:title>Dragonfly Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

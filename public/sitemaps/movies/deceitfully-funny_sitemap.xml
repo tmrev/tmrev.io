@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/873230-Deceitfully Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/873230-Deceitfully Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lOv7kftSQTauQuWXnuXSx2a0la1.jpg</image:loc
+      >
+      <image:caption
+        >"Deceitfully Funny" gives us a bird's eye view of the battles between a
+        duty bound daughter and her mother when it comes to love, romance and
+        the prearranging of marriage made worse by the clashing of traditional
+        values with the openness of modern America and a young woman's search
+        for true love.</image:caption
+      >
+      <image:title>Deceitfully Funny</image:title>
+    </image:image>
+  </url>
+</urlset>

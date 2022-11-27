@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14145-Dark Floors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14145-Dark Floors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/63jHgFpvNgP15HWlKN0ZG2uXDsY.jpg</image:loc
+      >
+      <image:caption
+        >A man emerges with his autistic daughter and three others from a
+        hospital elevator to find themselves trapped in the building with
+        devilish monsters.</image:caption
+      >
+      <image:title>Dark Floors</image:title>
+    </image:image>
+  </url>
+</urlset>

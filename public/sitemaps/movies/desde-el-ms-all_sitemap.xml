@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268687-Desde el más allá</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268687-Desde el más allá</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oKZhG8W0XFHLG1CJq6XDx4k6Jcn.jpg</image:loc
+      >
+      <image:caption
+        >A group of ambitious new filmmakers wants to sell a broadcaster a
+        television program involving ghosts and paranormal events. They have
+        lots of special effects, but special effects aren't necesary when
+        something from beyond is lurking.</image:caption
+      >
+      <image:title>Desde el más allá</image:title>
+    </image:image>
+  </url>
+</urlset>

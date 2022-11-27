@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67336-Don Quixote</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67336-Don Quixote</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1kNj99kz10WuORKwW7BuUZauIZ6.jpg</image:loc
+      >
+      <image:caption
+        >Don Quixote is a 2010 Chinese and Hong Kong film directed by Ah Gan
+        based on Miguel de Cervantes' 17th-century novel.</image:caption
+      >
+      <image:title>Don Quixote</image:title>
+    </image:image>
+  </url>
+</urlset>

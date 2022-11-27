@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65096-EMR</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65096-EMR</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dJLdqgIB0EObZ6I0abYFRpyAOT7.jpg</image:loc
+      >
+      <image:caption
+        >Englishman Adam regains full consciousness after a seizure - tens of
+        thousands of miles from home - only to discover that someone has
+        surgically extracted one of his kidneys. All roads lead to a shady drug
+        company called Phenal, which Adam believes is plotting against him,
+        systematically. As Adam's paranoia builds, he realizes that no one
+        around him can be fully trusted.</image:caption
+      >
+      <image:title>EMR</image:title>
+    </image:image>
+  </url>
+</urlset>

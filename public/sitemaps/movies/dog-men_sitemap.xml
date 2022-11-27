@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/352998-Dog Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/352998-Dog Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In a not-too-distant future only a few homo sapiens are left.
+        Struggling for survival they are forced to live from hunting the last
+        remaining animals in the peripheral ruins of an advanced human
+        civilization. But they are unaware of being stalked themselves by a
+        mysterious scanner. A science-fiction story about hunting and being
+        hunted, about extinction and survival, about dogs – and
+        men.</image:caption
+      >
+      <image:title>Dog Men</image:title>
+    </image:image>
+  </url>
+</urlset>

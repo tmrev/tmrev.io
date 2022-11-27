@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335026-Day One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335026-Day One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t6Sznf9V1J6sxUa0Ugd6WvDJh1v.jpg</image:loc
+      >
+      <image:caption
+        >On her first day in Afghanistan, an interpreter for the US Army is
+        forced to deliver the child of an enemy bomb-maker.</image:caption
+      >
+      <image:title>Day One</image:title>
+    </image:image>
+  </url>
+</urlset>

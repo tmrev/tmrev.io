@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/277441-Diamond Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/277441-Diamond Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A daft doctor concocts an offbeat scheme to make millions after he
+        happens upon a method of turning cremated human remains into diamonds.
+        But when the sawbones hires a pair of hapless thieves to collect the raw
+        material, a string of calamities ensues in their insane efforts to
+        pilfer the ashes of prominent and historic figures. Tippi Hedren,
+        Bronson Pinchot, Richard Moll and Joan Van Ark head the cast in this
+        inky morality yarn.</image:caption
+      >
+      <image:title>Diamond Zero</image:title>
+    </image:image>
+  </url>
+</urlset>

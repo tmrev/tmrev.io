@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/585956-Dancing Worm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/585956-Dancing Worm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kRsDSEY9Xem0fEMqXmw439hTAY.jpg</image:loc
+      >
+      <image:caption
+        >An opera singer, who is a substitute for the primo uomo, has to spend
+        the time of a performance routinely behind the scenes. He has yet no
+        knowing that it will be his turn on that particular day to appear on the
+        stage and replace an Italian singer who had fallen ill.</image:caption
+      >
+      <image:title>Dancing Worm</image:title>
+    </image:image>
+  </url>
+</urlset>

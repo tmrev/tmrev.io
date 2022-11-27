@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/646473-Dear Zoe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/646473-Dear Zoe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rqAhYRbOjgPSVzxKYXV9t6gm5fi.jpg</image:loc
+      >
+      <image:caption
+        >Tess enlists her biological father - a lovable slacker from the wrong
+        side of the tracks - and the charming juvenile delinquent next door to
+        help her come to grips with the death of her little
+        sister.</image:caption
+      >
+      <image:title>Dear Zoe</image:title>
+    </image:image>
+  </url>
+</urlset>

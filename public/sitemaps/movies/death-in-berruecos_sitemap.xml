@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645783-Death in Berruecos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645783-Death in Berruecos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hyq2rnNkGjHhvh5w0iDWG27IKTA.jpg</image:loc
+      >
+      <image:caption
+        >Ten years after General Antonio José de Sucre - Grand Marshal of
+        Ayacucho- was murdered in the Berruecos jungle, Colombia. The inquiry
+        into his death is reopened, Captain Alejandro Godoy take charge as
+        prosecutor. Several political motives mean that the case must
+        definitively be drawn to a close. Godoy discovers that a large part of
+        the documentation produced during the original inquiry has been
+        destroyed. With his own life in danger, Godoy discovers a highly
+        intricate plot that put an end to Sucre's life.</image:caption
+      >
+      <image:title>Death in Berruecos</image:title>
+    </image:image>
+  </url>
+</urlset>

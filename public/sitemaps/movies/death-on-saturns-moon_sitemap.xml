@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321049-Death on Saturn's Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321049-Death on Saturn's Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6LCIitxvkVdjIZpCjggsPpisZW2.jpg</image:loc
+      >
+      <image:caption
+        >Set in the year 2057, the science fiction film Ascension stars Paul
+        Nolan as an agent investigating a suicide on Titan, Saturn’s largest
+        moon. When severe weather keeps him stranded on the moon longer than
+        expected, he begins to see that a greater evil may be present at the
+        space station.</image:caption
+      >
+      <image:title>Death on Saturn's Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

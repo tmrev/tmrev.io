@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/968739-Dangerous Liaisons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/968739-Dangerous Liaisons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/opTwqTgREzvP67ERVrqt0ApXbeV.jpg</image:loc
+      >
+      <image:caption
+        >The innocent Célène might be falling in love with popular surfer
+        Tristan at her new school. But she has no idea that, in actuality, she’s
+        the object of a cruel bet between Tristan and Instagram influencer
+        Vanessa.</image:caption
+      >
+      <image:title>Dangerous Liaisons</image:title>
+    </image:image>
+  </url>
+</urlset>

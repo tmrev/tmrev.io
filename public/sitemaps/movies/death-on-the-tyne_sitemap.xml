@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/562775-Death on the Tyne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/562775-Death on the Tyne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A1d0DcxUkAF8VOJQZMJor8cSXBQ.jpg</image:loc
+      >
+      <image:caption
+        >Draper's Tours are taking Mildred and her care home friends on an
+        overnight ferry trip from North Shields to Amsterdam, where things will
+        quickly turn turbulent as the passengers and crew begin to get bumped
+        off one-by-one. Throughout it all, Terry is still desperate to pop the
+        question to Gemma, even if the circumstances are less than
+        romantic.</image:caption
+      >
+      <image:title>Death on the Tyne</image:title>
+    </image:image>
+  </url>
+</urlset>

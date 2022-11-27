@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636669-Devolvidos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636669-Devolvidos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A document about the memory and life of men and women who lived in a
+        Portuguese-American community and were once repatriated. Tony, Dulce,
+        António, Manuel and Mário have one thing in common: they have been
+        convicted in a harsh justice that repatriated them after many years of
+        imprisonment. Within the Portuguese-American community to which they
+        belonged, everyone worked regularly when the US authorities decided to
+        reopen their court proceedings.</image:caption
+      >
+      <image:title>Devolvidos</image:title>
+    </image:image>
+  </url>
+</urlset>

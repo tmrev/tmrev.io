@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859236-Death She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859236-Death She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/unTrhqUwJSywPo9qbK9ssHQxS3x.jpg</image:loc
+      >
+      <image:caption
+        >A famous author hires a personal assistant to work out of her home but
+        doesn't realize that the woman is actually a deranged fan who plans on
+        taking over her whole life.</image:caption
+      >
+      <image:title>Death She Wrote</image:title>
+    </image:image>
+  </url>
+</urlset>

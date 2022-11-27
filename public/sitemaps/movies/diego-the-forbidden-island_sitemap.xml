@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/998644-Diego, The Forbidden Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/998644-Diego, The Forbidden Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j6iHjqSWJ0tkrrZUpfzZgGMTLIW.jpg</image:loc
+      >
+      <image:caption
+        >This documentary tells of how the Chagossians were torn from their
+        islands in the northern Indian Ocean. In 1965, the Colonial British
+        authorities declared the isle separate from Mauritius in exchange of its
+        independence. Then, the United States rented Diego Garcia, the largest
+        of the isles, to install a military base and the population was sent to
+        Mauritius. The Chagossians have spent the past 36 years living in
+        extreme poverty in Mauritius, dreaming of one day going
+        home.</image:caption
+      >
+      <image:title>Diego, The Forbidden Island</image:title>
+    </image:image>
+  </url>
+</urlset>

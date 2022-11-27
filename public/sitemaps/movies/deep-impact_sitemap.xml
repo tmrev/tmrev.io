@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8656-Deep Impact</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8656-Deep Impact</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg</image:loc
+      >
+      <image:caption
+        >A seven-mile-wide space rock is hurtling toward Earth, threatening to
+        obliterate the planet. Now, it's up to the president of the United
+        States to save the world. He appoints a tough-as-nails veteran astronaut
+        to lead a joint American-Russian crew into space to destroy the comet
+        before impact. Meanwhile, an enterprising reporter uses her smarts to
+        uncover the scoop of the century.</image:caption
+      >
+      <image:title>Deep Impact</image:title>
+    </image:image>
+  </url>
+</urlset>

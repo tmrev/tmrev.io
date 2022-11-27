@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/731116-Dust Bowl Ha! Ha!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/731116-Dust Bowl Ha! Ha!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aR3Rb6dTYtQbQzemhj2TFwRBEoE.jpg</image:loc
+      >
+      <image:caption
+        >A man in the Saguenay–Lac-Saint-Jean region has just lost his job after
+        the closure of his employer, and he goes about his first day without the
+        stable and predictable structure of a normal work day</image:caption
+      >
+      <image:title>Dust Bowl Ha! Ha!</image:title>
+    </image:image>
+  </url>
+</urlset>

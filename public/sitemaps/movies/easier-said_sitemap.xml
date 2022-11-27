@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/743348-Easier Said</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/743348-Easier Said</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jack gets fed up with his publishing job in New York and his girlfriend
+        and moves to Colorado, where he plans to write a novel. There he takes
+        over his uncle's lodge and cafe, but runs into unusual problems with the
+        oddball locals.</image:caption
+      >
+      <image:title>Easier Said</image:title>
+    </image:image>
+  </url>
+</urlset>

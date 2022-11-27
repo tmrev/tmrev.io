@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436245-Daphne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436245-Daphne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Z5hfRmasEUeypPczBjW92GzMgb.jpg</image:loc
+      >
+      <image:caption
+        >Daphne is a young woman negotiating the tricky business of modern life.
+        Caught in the daily rush of her restaurant job and a nightlife
+        kaleidoscope of new faces, she is witty, funny, the life of the party.
+        Too busy to realise that deep down she is not happy. When she saves the
+        life of a shopkeeper stabbed in a failed robbery, the impenetrable
+        armour she wears to protect herself begins to crack, and Daphne is
+        forced to confront the inevitability of a much-needed change in her
+        life.</image:caption
+      >
+      <image:title>Daphne</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52459-Dr. Seuss on the Loose</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52459-Dr. Seuss on the Loose</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rdaJoNNtDVlPCVLvM9IeFj1hHyO.jpg</image:loc
+      >
+      <image:caption
+        >The pressure to conform, the inevitability of change, and the
+        resistance to trying something new form the basis for the usual madcap
+        adventures associated with the creative mind of Dr. Seuss. "Dr. Seuss on
+        the Loose" builds upon three short stories - "The Sneetches," "The Zax"
+        and "Green Eggs and Ham" - to create a thematic trio that explores the
+        often fickle and flexible world of attitudes.</image:caption
+      >
+      <image:title>Dr. Seuss on the Loose</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1025048-12th Warrior</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1025048-12th Warrior</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jnsKPXw3cDKEuZGueMMJsqZ0N5H.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that tries to explain the reason for the passion of the
+        Mexican football fandom.</image:caption
+      >
+      <image:title>12th Warrior</image:title>
+    </image:image>
+  </url>
+</urlset>

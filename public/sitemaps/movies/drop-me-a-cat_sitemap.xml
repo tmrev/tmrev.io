@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/263398-Drop Me a Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/263398-Drop Me a Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/thEERevONmpvCnjiXzckGUxzk71.jpg</image:loc
+      >
+      <image:caption
+        >It's the year 1999, Hei-shu, a long-term unemployed man, finally gets a
+        job in a local musical band, performing at funerals and weddings. One
+        day, Hei-shu's cat is missing. He later suspects that the cat has turned
+        into a woman.</image:caption
+      >
+      <image:title>Drop Me a Cat</image:title>
+    </image:image>
+  </url>
+</urlset>

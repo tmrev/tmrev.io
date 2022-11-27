@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655174-Death of Nintendo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655174-Death of Nintendo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8JiL2L6uaXABTNhO92HmnTGHUx7.jpg</image:loc
+      >
+      <image:caption
+        >The story takes us into the colorful pop-culture world of these four
+        13-year old friends, back in the days when video games were still a
+        novelty. Mimaw and her friends Paolo, Kachi and Gilligan go on a journey
+        of self-discovery together as they play games and wrestle with new
+        dilemmas – puppy love, circumcision and other horror
+        stories.</image:caption
+      >
+      <image:title>Death of Nintendo</image:title>
+    </image:image>
+  </url>
+</urlset>

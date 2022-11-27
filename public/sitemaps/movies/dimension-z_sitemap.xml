@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574742-Dimension Z</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574742-Dimension Z</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ujxisgnTqT1CYpXupa89RvjATu1.jpg</image:loc
+      >
+      <image:caption
+        >When the zombie apocalypse arrives, groups of survivors band together
+        to defend themselves at any cost. Unfortunately for the remaining few,
+        zombies have evolved into different species altogether and exist not
+        just in this dimension but in a dimension of their own. With little
+        hope, the humans gather strength for one last chance at saving their
+        world in this intensely twisted anthology.</image:caption
+      >
+      <image:title>Dimension Z</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298115-Dragons: Dawn Of The Dragon Racers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298115-Dragons: Dawn Of The Dragon Racers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jANMdMbDseETDtqhMMelGaY0zza.jpg</image:loc
+      >
+      <image:caption
+        >A hunt for a lost sheep turns into a competition between Hiccup and
+        friends as they compete to become the first Dragon Racing champion of
+        Berk.</image:caption
+      >
+      <image:title>Dragons: Dawn Of The Dragon Racers</image:title>
+    </image:image>
+  </url>
+</urlset>

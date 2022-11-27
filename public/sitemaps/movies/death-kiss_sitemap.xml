@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515237-Death Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515237-Death Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gmfw3H6C4h5Dxr0Y6sIgjGJUiQx.jpg</image:loc
+      >
+      <image:caption
+        >A vigilante with a mysterious past becomes a one-man army in a
+        crime-infested town as he takes the law into his own hands, at the same
+        time protecting a young mother and her daughter. He sets his sights on a
+        local kingpin, setting up an action-packed and fateful
+        confrontation.</image:caption
+      >
+      <image:title>Death Kiss</image:title>
+    </image:image>
+  </url>
+</urlset>

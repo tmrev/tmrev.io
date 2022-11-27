@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/618350-DC Showcase: Adam Strange</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/618350-DC Showcase: Adam Strange</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xVmusMB5CWiPk1SSmxSMwAFcSpg.jpg</image:loc
+      >
+      <image:caption
+        >On a rugged asteroid mining colony, few of the toiling workers are
+        aware that their town drunk was ever anything but an interplanetary
+        derelict. But when the miners open a fissure into the home of a horde of
+        deadly alien insects, his true identity is exposed. He is space
+        adventurer Adam Strange, whose heroic backstory is played out in
+        flashbacks as he struggles to save the very people who have scorned him
+        for so long.</image:caption
+      >
+      <image:title>DC Showcase: Adam Strange</image:title>
+    </image:image>
+  </url>
+</urlset>

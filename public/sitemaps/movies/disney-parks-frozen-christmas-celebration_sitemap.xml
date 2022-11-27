@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/314622-Disney Parks Frozen Christmas
+      Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/314622-Disney Parks Frozen Christmas
+      Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mt3kEjZBhQhNuXeG2O3hMe9zmyW.jpg</image:loc
+      >
+      <image:caption
+        >Disney puts a “Frozen” twist on its 31st annual Christmas Day
+        television special. More than a parade, the joyous occasion includes
+        festive musical performances, and the reunion of three groups of
+        families and friends who have been apart or separated for the
+        holidays.</image:caption
+      >
+      <image:title>Disney Parks Frozen Christmas Celebration</image:title>
+    </image:image>
+  </url>
+</urlset>

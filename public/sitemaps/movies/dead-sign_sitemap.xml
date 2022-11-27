@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/243997-Dead Sign</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/243997-Dead Sign</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hCZCeIOUJwyCopaPVtxf1CSftUz.jpg</image:loc
+      >
+      <image:caption
+        >When art student Kangsheng returns to his remote hometown village with
+        his classmates to search of ancient murals, they are witness to a fatal
+        car accident. Kangsheng's girlfriend Wangzhi unintentionally interrupts
+        the local witchcraft ritual for the deceased. Horrified, the group flee
+        the scene and settle at the inn owned by Kangsheng's mother. The
+        following day, out searching for murals, the group find instead a
+        mysterious hand-painted sign in a cave. The surprises are only
+        beginning.</image:caption
+      >
+      <image:title>Dead Sign</image:title>
+    </image:image>
+  </url>
+</urlset>

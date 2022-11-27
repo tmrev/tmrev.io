@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/868599-DC Super Hero Girls: Sweet Justice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/868599-DC Super Hero Girls: Sweet Justice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yRSOqSN9UHo9z188Bwxmv9NktJS.jpg</image:loc
+      >
+      <image:caption
+        >Life for teenage versions of Wonder Woman, Supergirl and Batgirl is
+        complicated as they try to balance their schoolwork with secret
+        identities and fighting crime.</image:caption
+      >
+      <image:title>DC Super Hero Girls: Sweet Justice</image:title>
+    </image:image>
+  </url>
+</urlset>

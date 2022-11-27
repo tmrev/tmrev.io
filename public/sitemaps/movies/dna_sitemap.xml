@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/664177-DNA</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/664177-DNA</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eBuEbgoED3rko7EfgO29a4OqFK9.jpg</image:loc
+      >
+      <image:caption
+        >DNA revolves around a woman with close ties to a beloved Algerian
+        grandfather who protected her from a toxic home life as a child. When he
+        dies, it triggers a deep identity crisis as tensions between her
+        extended family members escalate revealing new depths of resentment and
+        bitterness.</image:caption
+      >
+      <image:title>DNA</image:title>
+    </image:image>
+  </url>
+</urlset>

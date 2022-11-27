@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381466-Der Sonnenhof</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381466-Der Sonnenhof</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9wUTsIfGOayMjlL52NmtvGW840E.jpg</image:loc
+      >
+      <image:caption
+        >Financial Officer Katharina Kamp has to collect tax debts from the stud
+        owner Carl von Balkhausen. She arranges a local appointment, but the
+        grumpy squire ignores her. When Katharina unexpectedly loses her brother
+        and his wife in an accident, she initially has very different worries.
+        She lovingly takes care of her niece Lara, who survived the accident and
+        now sits in a wheelchair indefinitely. By chance, Carls and Katharina's
+        paths intersect again. He and his horses work wonders for Lara and
+        Katharina.</image:caption
+      >
+      <image:title>Der Sonnenhof</image:title>
+    </image:image>
+  </url>
+</urlset>

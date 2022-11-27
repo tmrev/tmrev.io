@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/698354-Delicious Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/698354-Delicious Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/giPRJA8EnvCW9xMrHPWbfvxNnri.jpg</image:loc
+      >
+      <image:caption
+        >Hyun-ji and Jin-hee are university friends. One day, Jin-hee gets a
+        call from her aunt in the suburbs saying that her son and Jin-hee’s
+        cousin Seug-taek is going to stay with Jin-hee while he attends academy.
+        When they and their friends see each other, they are drawn
+        together.</image:caption
+      >
+      <image:title>Delicious Sisters</image:title>
+    </image:image>
+  </url>
+</urlset>

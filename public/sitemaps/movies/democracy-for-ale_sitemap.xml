@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/759296-Democracy for $ale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/759296-Democracy for $ale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tnaxD8SXI0zjaB0VMNBz0T6RN0o.jpg</image:loc
+      >
+      <image:caption
+        >In the United States of America, lobbyists, corporations and
+        billionaires invest millions of dollars to ensure that a suitable
+        candidate, one inclined to support their personal ambitions and economic
+        projects, wins an election, which inevitably affects everything, from
+        the selection of local officials to presidential elections, creates
+        countless conflicts of interest and undermines what supposedly used to
+        be a model democracy.</image:caption
+      >
+      <image:title>Democracy for $ale</image:title>
+    </image:image>
+  </url>
+</urlset>

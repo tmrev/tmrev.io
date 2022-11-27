@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189021-Denis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189021-Denis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/23WbmUaEr6qRNH5KcZHuXdk0Zmo.jpg</image:loc
+      >
+      <image:caption
+        >Twice Vincent thinks he has found the woman of his life. Twice his
+        ideal woman left him for the same man: Denis. Now Vincent is pursuing a
+        happy love affair with Anna, but he fears that history is about to
+        repeat itself. He tries to understand his adversary. Just what is it
+        about him that makes him so irresistible to the opposite sex - his taste
+        in gaudy shirts or the fact that he teaches wrestling as if it were a
+        philosophy?</image:caption
+      >
+      <image:title>Denis</image:title>
+    </image:image>
+  </url>
+</urlset>

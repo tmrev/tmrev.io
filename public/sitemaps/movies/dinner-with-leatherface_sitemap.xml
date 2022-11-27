@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637312-Dinner with Leatherface</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637312-Dinner with Leatherface</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/okgrTxL6TLsC5rpzRD7S5MQCGgx.jpg</image:loc
+      >
+      <image:caption
+        >A look at poet, author, filmmaker, actor and horror icon, Gunnar
+        Hansen, the original Leatherface in the first Texas Chainsaw Massacre,
+        from friends, colleagues, filmmakers, actors and anyone who knew one of
+        the nicest people affiliated with the horror genre.</image:caption
+      >
+      <image:title>Dinner with Leatherface</image:title>
+    </image:image>
+  </url>
+</urlset>

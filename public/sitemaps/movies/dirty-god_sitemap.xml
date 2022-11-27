@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/553030-Dirty God</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/553030-Dirty God</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jmbCoaki8csu4cfH9Pa8FuFQGmp.jpg</image:loc
+      >
+      <image:caption
+        >Jade is a young mother in the prime of her life when an acid attack
+        leaves her severely burned. While her face has been reconstructed, her
+        beauty is lost beneath the scars. Descending a self-destructive path
+        with relationships crumbling, Jade must take drastic action to reclaim
+        her life.</image:caption
+      >
+      <image:title>Dirty God</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/566965-Dancing Man the Documentary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/566965-Dancing Man the Documentary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >One man was bullied for dancing on the internet, and a group of women
+        started a Twitter campaign to fly him to LA for a dance party.
+        Overnight, a viral movement began and the world was inspired to dance
+        freely in their own skin.</image:caption
+      >
+      <image:title>Dancing Man the Documentary</image:title>
+    </image:image>
+  </url>
+</urlset>

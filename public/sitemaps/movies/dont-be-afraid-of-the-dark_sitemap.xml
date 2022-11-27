@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46261-Don't Be Afraid of the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46261-Don't Be Afraid of the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pGVVei8KbztCiultm2w1wI609qR.jpg</image:loc
+      >
+      <image:caption
+        >A young girl sent to live with her father and his new girlfriend
+        discovers creatures in her new home who want to claim her as one of
+        their own.</image:caption
+      >
+      <image:title>Don't Be Afraid of the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

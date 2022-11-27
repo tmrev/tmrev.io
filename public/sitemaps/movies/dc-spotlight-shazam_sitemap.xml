@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/748258-DC Spotlight: SHAZAM!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/748258-DC Spotlight: SHAZAM!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yyoQYKwHAEbQ5PWncyIg4ELC76x.jpg</image:loc
+      >
+      <image:caption
+        >He’s one of the world’s most iconic superheroes, his influence can be
+        seen across the entire comic book industry, and he is the embodiment of
+        total wish fulfillment. Over the years, he has been known by many names
+        but today he is simply known as.... SHAZAM!</image:caption
+      >
+      <image:title>DC Spotlight: SHAZAM!</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/863158-Eagle Talon THE MOVIE 3
+      ~http://takanotsume.jp Forever~</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/863158-Eagle Talon THE MOVIE 3
+      ~http://takanotsume.jp Forever~</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7OrdTIGCippdmaBA9T0kBAauYAs.jpg</image:loc
+      >
+      <image:caption
+        >Returning from vacation, the members of Eagle Talon discover their
+        secret lair destroyed. The only clue may lie with the missing Professor
+        Leonardo.</image:caption
+      >
+      <image:title
+        >Eagle Talon THE MOVIE 3 ~http://takanotsume.jp Forever~</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46547-Down to the Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46547-Down to the Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/307SlbUlcegJG1PG9X35kunP0R.jpg</image:loc
+      >
+      <image:caption
+        >Thirty-year-old Keith Kavanagh (Joel Thomas Hynes) ekes his way through
+        life in a small town. A hard-drinking hooligan, he keeps his ragged
+        collection of poetry a closely guarded secret... as secret as his regret
+        for the shattered relationship with his father. When Keith meets the
+        darkly exotic Natasha (Mylène Savoie), his life is changed
+        forever.</image:caption
+      >
+      <image:title>Down to the Dirt</image:title>
+    </image:image>
+  </url>
+</urlset>

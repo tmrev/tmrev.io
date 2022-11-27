@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/425921-Egypt's Lost Cities</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/425921-Egypt's Lost Cities</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wG7tR5CtYZfMzXSadX6Zssg4eNx.jpg</image:loc
+      >
+      <image:caption
+        >It is possible that only one per cent of the wonders of ancient Egypt
+        have been discovered, but now, thanks to a pioneering approach to
+        archaeology, that is about to change. Dr Sarah Parcak uses satellites to
+        probe beneath the sands, where she has found cities, temples and
+        pyramids. Now, with Dallas Campbell and Liz Bonnin, she heads to Egypt
+        to discover if these magnificent buildings are really
+        there.</image:caption
+      >
+      <image:title>Egypt's Lost Cities</image:title>
+    </image:image>
+  </url>
+</urlset>

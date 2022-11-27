@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476-Drugstore Cowboy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476-Drugstore Cowboy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2bQXK39axyedUL6DE1pzdMYgAw1.jpg</image:loc
+      >
+      <image:caption
+        >Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a
+        peculiar quartet, formed by his wife, Dianne, and another couple, Rick
+        and Nadine, who skillfully steal from drugstores and hospital medicine
+        cabinets in order to appease their insatiable need for drugs. But
+        neither fun nor luck last forever.</image:caption
+      >
+      <image:title>Drugstore Cowboy</image:title>
+    </image:image>
+  </url>
+</urlset>

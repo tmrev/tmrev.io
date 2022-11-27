@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42567-David and Bathsheba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42567-David and Bathsheba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gOYwjVzXami9Nko7pfw7qyt3odu.jpg</image:loc
+      >
+      <image:caption
+        >King David enters into an adulterous affair with the beautiful
+        Bathsheba, which has tragic consequences for his family and
+        Israel.</image:caption
+      >
+      <image:title>David and Bathsheba</image:title>
+    </image:image>
+  </url>
+</urlset>

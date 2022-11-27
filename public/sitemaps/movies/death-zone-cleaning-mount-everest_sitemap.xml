@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/549536-Death Zone: Cleaning Mount Everest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/549536-Death Zone: Cleaning Mount Everest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uPJqxKhkUyiJoNCN2jd6oHxRZRl.jpg</image:loc
+      >
+      <image:caption
+        >A team of 20 elite Nepali climbers venture into the Death Zone of Mount
+        Everest to restore their sacred mountain and the contaminated water
+        source of 1.3 billion people. They ascend the highest point on the
+        planet to the 150 bodies of deceased climbers and 100,000 pounds of
+        rubbish that remain on the high slopes of Everest. This is the
+        self-documented story of their life-threatening journey.</image:caption
+      >
+      <image:title>Death Zone: Cleaning Mount Everest</image:title>
+    </image:image>
+  </url>
+</urlset>

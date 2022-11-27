@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/344641-Day Out of Days</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/344641-Day Out of Days</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hFTrhEiSwgtUAop0tQWBCdafvrG.jpg</image:loc
+      >
+      <image:caption
+        >In Los Angeles, a 40-year-old actress works to make it in the cutthroat
+        business of Hollywood while contending with ever-youthful
+        competition.</image:caption
+      >
+      <image:title>Day Out of Days</image:title>
+    </image:image>
+  </url>
+</urlset>

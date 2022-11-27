@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228933-Drones</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228933-Drones</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ucLmihl3unqzsvynSVnzNdQYgh0.jpg</image:loc
+      >
+      <image:caption
+        >Drones begins in the Nevada desert, where new girl Sue Lawson joins
+        airman Jack in a hot, windowless bunker from which they manoeuvre
+        unmanned drones across the plains of Afghanistan. Their first day at
+        work is awkward but polite, with Jack all too aware of Sue’s privileged
+        status as daughter of a well-respected general. This, however, will be
+        no ordinary mission: as they train their sights on an unarmed terrorist
+        suspect, a power struggle erupts between the smart, sophisticated Sue
+        and the dogged, blue-collar Jack.</image:caption
+      >
+      <image:title>Drones</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42637-Diary of a Lost Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42637-Diary of a Lost Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uDR1Tt2pFR0M3gUFCJ1w2oiVYlM.jpg</image:loc
+      >
+      <image:caption
+        >Thymian Henning, an innocent young girl, is raped by the clerk of her
+        father's pharmacy. She becomes pregnant, is rejected by her family, and
+        must fend for herself in a harsh, cruel world.</image:caption
+      >
+      <image:title>Diary of a Lost Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

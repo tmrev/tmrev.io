@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/347660-Death of a Fisherman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/347660-Death of a Fisherman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r5qi9j97u3HMIalOVezFfgwHUbL.jpg</image:loc
+      >
+      <image:caption
+        >One morning, the body of a sailor is found lying on the beach, washed
+        in by the tide.. With no witnesses or any sign of the dead man’s boat,
+        Inspector Leo Caldas begins immersing himself in the town’s seafaring
+        atmosphere as he endeavours to shed light on the crime. He finds himself
+        among men and women who prefer not to reveal their suspicions to him.
+        But a sudden discovery sets him off in an unexpected
+        direction.</image:caption
+      >
+      <image:title>Death of a Fisherman</image:title>
+    </image:image>
+  </url>
+</urlset>

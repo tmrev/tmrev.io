@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/691734-Easter Holocaust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/691734-Easter Holocaust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2JVkmhEsmkmZKSO8Im72K2q7BJV.jpg</image:loc
+      >
+      <image:caption
+        >In a small town, a demonic form of the Easter Bunny murders everyone in
+        its path. The residents realize that they must destroy the creature
+        before it completes its 'Easter Holocaust' and brings about the
+        apocalypse.</image:caption
+      >
+      <image:title>Easter Holocaust</image:title>
+    </image:image>
+  </url>
+</urlset>

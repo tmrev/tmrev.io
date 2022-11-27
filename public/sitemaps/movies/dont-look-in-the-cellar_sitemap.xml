@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46398-Don't Look In The Cellar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46398-Don't Look In The Cellar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jTf9ft7QfqabOPHwhUJMTskQsQz.jpg</image:loc
+      >
+      <image:caption
+        >A group of college students regret their decision to sneak into the
+        cellar of a haunted asylum on Halloween. One by one they encounter
+        Smiley, the last of a flawed bloodline.</image:caption
+      >
+      <image:title>Don't Look In The Cellar</image:title>
+    </image:image>
+  </url>
+</urlset>

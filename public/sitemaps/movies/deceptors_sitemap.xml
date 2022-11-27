@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/457765-Deceptors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/457765-Deceptors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/egbMluNHsznyBWqHgXBvUbO8FXp.jpg</image:loc
+      >
+      <image:caption
+        >A Ghostbusters knock-off where a group of con-artists create bogus
+        monsters to scare up some cash. They run for their lives when real
+        spooks attack.</image:caption
+      >
+      <image:title>Deceptors</image:title>
+    </image:image>
+  </url>
+</urlset>

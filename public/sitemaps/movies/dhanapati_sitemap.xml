@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466256-Dhanapati</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466256-Dhanapati</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7VF3WWOTW1OqbDMZtJOfatXShC0.jpg</image:loc
+      >
+      <image:caption
+        >Dhanapati wants to earn more money to get his daughter to a good
+        school.</image:caption
+      >
+      <image:title>Dhanapati</image:title>
+    </image:image>
+  </url>
+</urlset>

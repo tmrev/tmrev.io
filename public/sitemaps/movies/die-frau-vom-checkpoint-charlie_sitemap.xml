@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11776-Die Frau vom Checkpoint Charlie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11776-Die Frau vom Checkpoint Charlie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xK6FBAiWBnkBksQkOqW0nstJ7lU.jpg</image:loc
+      >
+      <image:caption
+        >Based on a true story, Miguel Alexandre's two-part drama focuses on an
+        East German woman and the fight for her children. Spring 1982: Sara
+        Bender, living with her daughters Silvia and Sabine in the East German
+        town of Erfurt, wants to marry her colleague Peter, but shortly before
+        the wedding, her father is killed in a road accident. As the funeral
+        takes place in West Germany, she isn't allowed to got there, so she
+        starts planning to leave her communist home country forever. Trying to
+        flee via Romania, she is caught by the secret service. After years in
+        jail, Sara is ransomed by the West German government, but without her
+        daughters. To draw the world's attention on her desperate situation, she
+        starts demonstrating at the Berlin border crossing Checkpoint
+        Charlie</image:caption
+      >
+      <image:title>Die Frau vom Checkpoint Charlie</image:title>
+    </image:image>
+  </url>
+</urlset>

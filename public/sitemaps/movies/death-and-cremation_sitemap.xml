@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39453-Death and Cremation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39453-Death and Cremation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bgnEmjJc7PCxSwWP7nSKXKrsKkF.jpg</image:loc
+      >
+      <image:caption
+        >In a typical American suburb filled with middle class morals, a lonely
+        59-year-old, Stan, contributes to society by offering cremation services
+        from his basement. In fact, Stan murders neighbors he perceives to be
+        social bullies. Jarod, a fatherless 17-year-old high school outcast,
+        lands an after-school job in Stan's cremation house and the two develop
+        an unusual working relationship that quickly evolves into a partnership.
+        As detective Matt Fairchild puts together clues from local
+        disappearances, Stan must decide if protecting his newfound trainee is
+        worth killing for.</image:caption
+      >
+      <image:title>Death and Cremation</image:title>
+    </image:image>
+  </url>
+</urlset>

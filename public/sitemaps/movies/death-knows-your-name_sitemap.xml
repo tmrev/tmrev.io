@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104184-Death Knows Your Name</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104184-Death Knows Your Name</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jwt5Nimxe10lncbis7OAVOm4b6.jpg</image:loc
+      >
+      <image:caption
+        >Bruce Taylor works as a doctor at a mental hospital with a dark
+        mysterious history. When the nightmares of a patient start to affect
+        Bruce's sleep, he thinks he might be going crazy himself. Worse still,
+        the discovery of an old human skull threatens everyone with disease.
+        Bruce must call upon his father Anthony for help to figure out the truth
+        behind the skull and stop the spread of the disease.</image:caption
+      >
+      <image:title>Death Knows Your Name</image:title>
+    </image:image>
+  </url>
+</urlset>

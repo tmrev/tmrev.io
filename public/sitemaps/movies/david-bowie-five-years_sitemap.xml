@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197393-David Bowie: Five Years</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197393-David Bowie: Five Years</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dFIa89v7Tk1AsJImbxnpk8OwNwX.jpg</image:loc
+      >
+      <image:caption
+        >Featuring a wealth of previously unseen archive, this film looks at how
+        Bowie continually evolved: from Ziggy Stardust to the Soul Star of Young
+        Americans, to the ‘Thin White Duke’. It explores his regeneration in
+        Berlin with the critically acclaimed album Heroes, his triumph with
+        Scary Monsters and his global success with Let’s Dance. With interviews
+        with all his closest collaborators, David Bowie - Five Years presents a
+        unique account of why Bowie has become an ‘icon of our
+        times’.</image:caption
+      >
+      <image:title>David Bowie: Five Years</image:title>
+    </image:image>
+  </url>
+</urlset>

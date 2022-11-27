@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/688906-Das Spiel der Hoffnung</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/688906-Das Spiel der Hoffnung</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6jOMVTqPlDEsyiMBvhd4ew9RiS6.jpg</image:loc
+      >
+      <image:caption
+        >Follows the central character from infant innocence to an ageless
+        teenage persona, we witness the tussle between a 'family' descending
+        into delirium as the special relationship between an aunt and her
+        teenage nephew is upset by the arrival of two mysterious guests.
+        Spanning four mealtimes, the film dips in and out of horror clichés,
+        whilst exploring gender roles, wildlife, cooperation and individual
+        expression.</image:caption
+      >
+      <image:title>Das Spiel der Hoffnung</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567125-Decoding Alan Turing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567125-Decoding Alan Turing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d2k3jLed4qDq3d2pznYeMNcCDgg.jpg</image:loc
+      >
+      <image:caption
+        >Alan Turing, the father of modern computing, worked at Bletchley Park
+        to crack Germany's Enigma encryption device. He later fell victim to
+        persecution in his own country for being a homosexual. He finally died
+        of poisoning under mysterious circumstances.</image:caption
+      >
+      <image:title>Decoding Alan Turing</image:title>
+    </image:image>
+  </url>
+</urlset>

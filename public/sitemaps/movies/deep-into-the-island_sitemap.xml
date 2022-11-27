@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1033299-Deep Into the Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1033299-Deep Into the Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >If you take a stroll about the Russian lands on Google Maps, you will
+        at some point find yourself on a string of islands lost in the Pacific
+        waters. The largest of them is Bering Island. A small settlement,
+        Nikolskoye, is perched on its edge. Protagonist Arkasha [hypocoristic
+        for Arkadiy] is 17. He’s been living his whole life on the island but
+        this summer he graduates from school and prepares to leave home. He
+        likes making cakes, which is why he decided to pursue further education
+        as a food technologist in Smolensk. With only a few days left until
+        Arkasha takes off, his best friend breaks both arms quite badly, while
+        the Island becomes overcast with thunder clouds.</image:caption
+      >
+      <image:title>Deep Into the Island</image:title>
+    </image:image>
+  </url>
+</urlset>

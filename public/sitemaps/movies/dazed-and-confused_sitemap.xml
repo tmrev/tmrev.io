@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9571-Dazed and Confused</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9571-Dazed and Confused</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lR8dzfCIdfaaSWagHHiFcJ6B4PI.jpg</image:loc
+      >
+      <image:caption
+        >The adventures of a group of Texas teens on their last day of school in
+        1976, centering on student Randall Floyd, who moves easily among
+        stoners, jocks and geeks. Floyd is a star athlete, but he also likes
+        smoking weed, which presents a conundrum when his football coach demands
+        he sign a "no drugs" pledge.</image:caption
+      >
+      <image:title>Dazed and Confused</image:title>
+    </image:image>
+  </url>
+</urlset>

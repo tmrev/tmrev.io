@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473511-Death of a Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473511-Death of a Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5JCMlGHkwYoNZFLL9xJYQIfiXGM.jpg</image:loc
+      >
+      <image:caption
+        >How does one live with the unbearable? When the worst has happened and
+        the one to blame is yourself? Death of a Child is an exploration of the
+        lives of parents who have caused their own children's
+        deaths.</image:caption
+      >
+      <image:title>Death of a Child</image:title>
+    </image:image>
+  </url>
+</urlset>

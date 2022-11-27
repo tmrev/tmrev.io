@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589376-Drag Kids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589376-Drag Kids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8qdC0nbRT8q0UJcVZqbDnZtLFZb.jpg</image:loc
+      >
+      <image:caption
+        >Four precocious preteens perfect their lip-synching and runway walks in
+        anticipation of the biggest drag performance of their lives at Montreal
+        Pride, in this fierce and joyous celebration of acceptance and
+        self-discovery.</image:caption
+      >
+      <image:title>Drag Kids</image:title>
+    </image:image>
+  </url>
+</urlset>

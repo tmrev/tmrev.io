@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489705-Dead on Arrival</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489705-Dead on Arrival</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vZMn84gTMCXngo80o05GHcnH7cm.jpg</image:loc
+      >
+      <image:caption
+        >A pharmaceutical sales rep visits a small town in Louisiana on
+        business. He finds himself in a dark world of corruption and murder with
+        24 hours to live, running from the police, the mob and a sheriff that
+        wants him dead.</image:caption
+      >
+      <image:title>Dead on Arrival</image:title>
+    </image:image>
+  </url>
+</urlset>

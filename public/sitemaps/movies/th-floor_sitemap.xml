@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214761-7th Floor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214761-7th Floor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dwKuHpAukH0ahVOdL5XgLIXf41d.jpg</image:loc
+      >
+      <image:caption
+        >Buenos Aires, Argentina. Sebastián, a successful lawyer, leaves his
+        ex-wife's condo, located on the seventh floor of an apartment building,
+        to take his two children to school. While they run down the stairs, he
+        uses the elevator. Once on the ground floor, Sebastián awaits the
+        arrival of the children…</image:caption
+      >
+      <image:title>7th Floor</image:title>
+    </image:image>
+  </url>
+</urlset>

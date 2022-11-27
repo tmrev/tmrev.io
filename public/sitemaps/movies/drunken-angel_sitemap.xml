@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25858-Drunken Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25858-Drunken Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wjMwAY50qB3Vc56O6fQf9QIFCJB.jpg</image:loc
+      >
+      <image:caption
+        >Doctor Sanada treats gangster Matsunaga after he is wounded in a
+        gunfight, and discovers that he is suffering from tuberculosis. Sanada
+        tries to convince Matsunaga to stay for treatment, which would
+        drastically change his lifestyle. They form an uneasy friendship until
+        Matsunaga's old boss Okada returns from prison.</image:caption
+      >
+      <image:title>Drunken Angel</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/341184-Death Camp Treblinka: Survivor Stories</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/341184-Death Camp Treblinka: Survivor Stories</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7wGvjr3dxfmI8FGov1A8NUrmYNJ.jpg</image:loc
+      >
+      <image:caption
+        >The only two survivors of the Treblinka concentration camp recount the
+        horrors they experienced and tell how their lives were after escaping
+        during a revolt in 1943.</image:caption
+      >
+      <image:title>Death Camp Treblinka: Survivor Stories</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/53994-Dragon Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/53994-Dragon Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y07jMH4lzqyduzxkPdXaOytLfnx.jpg</image:loc
+      >
+      <image:caption
+        >The movie begins in Southern England in the Middle Ages and then six
+        knights are seen riding in horses towards a destroyed town. They see the
+        remains of burned buildings and dead people until they come upon a
+        mother and her dead baby. She quickly dies and then a rhino-sized dragon
+        flies overhead, the knights follow right behind, vowing to kill the
+        creature.</image:caption
+      >
+      <image:title>Dragon Fighter</image:title>
+    </image:image>
+  </url>
+</urlset>

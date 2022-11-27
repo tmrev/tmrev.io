@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654682-Depuis que je me souviens</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654682-Depuis que je me souviens</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >One of my earliest memories is the view of the mountain opposite, where
+        my mother was born in during the war while the family was in hiding.
+        She's buried down in the valley. I can't see it, but I'm very aware of
+        it. I observe how this view changes with the hours of the
+        day...</image:caption
+      >
+      <image:title>Depuis que je me souviens</image:title>
+    </image:image>
+  </url>
+</urlset>

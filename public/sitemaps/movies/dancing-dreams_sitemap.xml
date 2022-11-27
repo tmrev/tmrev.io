@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57399-Dancing Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57399-Dancing Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bHiCN8Ea29CoH9ZH7lwtiLtSLod.jpg</image:loc
+      >
+      <image:caption
+        >The dance performance “Kontakthof” bears the unmistakable signature of
+        Pina Bausch: it deals with forms of human contact, encounters between
+        the sexes, and the search for love and tenderness, with all its
+        attendant anxieties, yearnings and doubts. It is a dance about feelings,
+        which always pose a big challenge – particularly for young people.
+        Teenagers from more than eleven schools in Wuppertal went on an
+        emotional journey that lasted almost a year. Every Saturday, forty
+        students aged between fourteen and eighteen years of age took part in
+        rehearsals that were led by Bausch-dancers Jo-Ann Endicott and Bénédicte
+        Billiet and intensely supervised by Pina Bausch herself.</image:caption
+      >
+      <image:title>Dancing Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

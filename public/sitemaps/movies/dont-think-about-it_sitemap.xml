@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8951-Don't Think About It</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8951-Don't Think About It</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tUMEZ6uNgx3RHQVIr4F4JCm51Ma.jpg</image:loc
+      >
+      <image:caption
+        >Having faced the reality of his failed career as a punk rock musician,
+        36-year-old Stefano Nardini returns home to his family in the small-town
+        North.</image:caption
+      >
+      <image:title>Don't Think About It</image:title>
+    </image:image>
+  </url>
+</urlset>

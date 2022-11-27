@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/483075-Dis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/483075-Dis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l51Fs6Ne4ubTF9FSrRiy3myR6dK.jpg</image:loc
+      >
+      <image:caption
+        >An ex-soldier with a criminal past takes refuge in the woods. A demonic
+        figure seeks the seed of killers and the blood of the damned to feed his
+        mandrake garden. DIS is an infernal descent into the root of the
+        mandrake legend and a man who wanders too close to that legend and the
+        unnamable terror behind it. What you sow you will reap.</image:caption
+      >
+      <image:title>Dis</image:title>
+    </image:image>
+  </url>
+</urlset>

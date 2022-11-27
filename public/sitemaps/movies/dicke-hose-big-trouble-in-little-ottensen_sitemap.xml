@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/719719-Dicke Hose - Big Trouble in Little
+      Ottensen</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/719719-Dicke Hose - Big Trouble in Little
+      Ottensen</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/juV9w3wCJiDH5lQzM8COnmI4025.jpg</image:loc
+      >
+      <image:caption
+        >A guy from Altona starts a career as a music manager with seed capital
+        of just 300 Euro.</image:caption
+      >
+      <image:title>Dicke Hose - Big Trouble in Little Ottensen</image:title>
+    </image:image>
+  </url>
+</urlset>

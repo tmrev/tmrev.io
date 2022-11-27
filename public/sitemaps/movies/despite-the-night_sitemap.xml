@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330385-Despite the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330385-Despite the Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wbFmySiUqVcIE3wWG3xAaczZ22N.jpg</image:loc
+      >
+      <image:caption
+        >We enter the film like into a dream. Paris. Lenz looks for Madeleine
+        who has mysteriously disappeared. He encounters Hélène, a young woman
+        bewitched by her self-destructive impulses. A crazy love develops
+        between them. Louis and Léna, devoured by their jealousy, lead Lenz to
+        follow, against his better wishes, Hélène into the subterranean world of
+        a dark sexual exploitation network. Although lost, lost from the first,
+        love is what saves us.</image:caption
+      >
+      <image:title>Despite the Night</image:title>
+    </image:image>
+  </url>
+</urlset>

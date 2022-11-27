@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/314146-Documentary of AKB48 The Time Has Come</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/314146-Documentary of AKB48 The Time Has Come</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vmrnVCowgVscAgcl9dxvORQ0xVd.jpg</image:loc
+      >
+      <image:caption
+        >The movie feature various moments of 2013 and 2014, such as Shinoda
+        Mariko, Itano Tomomi and Oshima Yuko's graduation, the AKB48 Group
+        Daisokaku Matsuri, the AKB48 Group Draft Kaigi 2013, Sashihara Rino
+        winning the 5th Senbatsu Election, Watanabe Mayu winning the 6th
+        Senbatsu Election and the AKB48 National Olympic Stadium
+        Concert.</image:caption
+      >
+      <image:title>Documentary of AKB48 The Time Has Come</image:title>
+    </image:image>
+  </url>
+</urlset>

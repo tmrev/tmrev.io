@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273147-Dora the Explorer: Undercover Dora</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273147-Dora the Explorer: Undercover Dora</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1QK9D6szyDd183hl9WRUVnD147x.jpg</image:loc
+      >
+      <image:caption
+        >Go on a supersleuth adventure with Dora! In a two-part episode, Dora
+        and Boots are Super Spies on a top-secret mission: they have to stop
+        Swiper from swiping cupcakes and birthday presents</image:caption
+      >
+      <image:title>Dora the Explorer: Undercover Dora</image:title>
+    </image:image>
+  </url>
+</urlset>

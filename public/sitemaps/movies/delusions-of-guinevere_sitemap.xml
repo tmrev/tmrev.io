@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298422-Delusions of Guinevere</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298422-Delusions of Guinevere</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oSKokr8WwoIIALBET6ql53k5Unh.jpg</image:loc
+      >
+      <image:caption
+        >Former child star, Guinevere James, is 29, overweight and washed up.
+        She spends night after lonely night on social media sites like Facebook,
+        in a vain attempt to make her life bigger than it seems. She also spends
+        time “FaceStalking” her former co-star, Cadence Stone, who has blossomed
+        into a modelesque A-lister at the top of the game. When Guinevere
+        receives an invitation to a 20th-anniversary special for her signature
+        Gelee commercials, she heads to the event ready for her big comeback
+        only to have her hopes dashed when no one shows up.</image:caption
+      >
+      <image:title>Delusions of Guinevere</image:title>
+    </image:image>
+  </url>
+</urlset>

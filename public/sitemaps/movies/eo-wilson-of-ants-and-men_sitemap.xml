@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/362460-E.O. Wilson – Of Ants and Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/362460-E.O. Wilson – Of Ants and Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hLVBCQOjlP2jDE32pJpnfBLXkUs.jpg</image:loc
+      >
+      <image:caption
+        >An exploration of the remarkable life and groundbreaking ideas of
+        biologist E.O Wilson, founder of the discipline of sociobiology, world
+        authority on insects and Pulitzer-prize winning writer on the subject of
+        human nature. In Wilson, we see an endearing personality who is one of
+        the great scientists and thinkers of our time.</image:caption
+      >
+      <image:title>E.O. Wilson – Of Ants and Men</image:title>
+    </image:image>
+  </url>
+</urlset>

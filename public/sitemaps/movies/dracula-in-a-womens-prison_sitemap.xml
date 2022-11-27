@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489108-Dracula in a Women's Prison</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489108-Dracula in a Women's Prison</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9t5xAtsrk6zMEphJOSdFK31nW41.jpg</image:loc
+      >
+      <image:caption
+        >Ten years after the horrific events of Werewolf in a Women's Prison,
+        the penitentiary has a new warden with a thirst for blood. Young
+        American Liz travels to the the third world country of Campuna to gather
+        her sisters remains, who mysteriously passed in jail. However, anyone
+        who dies in Campuna State Prison comes back to life under warden Drago
+        better known as Count Dracula.</image:caption
+      >
+      <image:title>Dracula in a Women's Prison</image:title>
+    </image:image>
+  </url>
+</urlset>

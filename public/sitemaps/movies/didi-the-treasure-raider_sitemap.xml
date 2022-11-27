@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/243463-Didi, the Treasure Raider</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/243463-Didi, the Treasure Raider</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rIB9ArTIaEgYUF8YUDCAjkoGCPw.jpg</image:loc
+      >
+      <image:caption
+        >Didi works as a butler at Pedro's father's house. While browsing an old
+        photograph album, he and 10-year-old Pedro find an ancient map with the
+        route to a treasure. They decide to search for it. But the treasure
+        carries a curse cast by the three thieves who had stolen it first,
+        during WW2.</image:caption
+      >
+      <image:title>Didi, the Treasure Raider</image:title>
+    </image:image>
+  </url>
+</urlset>

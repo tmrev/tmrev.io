@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/173929-Dream Project</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/173929-Dream Project</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Rob Yard hasn't got any money, nor apartment, nor girlfriend. He's
+        living in his brothers house. But Rob's got a special skill: he can
+        control his dreams almost always. One day he realizes, he can do
+        anything that he dreamt of before. That power can change a man very
+        easily, and Rob isn't a strong person...</image:caption
+      >
+      <image:title>Dream Project</image:title>
+    </image:image>
+  </url>
+</urlset>

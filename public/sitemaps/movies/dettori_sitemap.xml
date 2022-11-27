@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/887281-Dettori</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/887281-Dettori</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p1KfTFmIcCe0DJwbHagosjyQtc5.jpg</image:loc
+      >
+      <image:caption
+        >Dettori is the exhilarating, tub-thumping celebration of inspirational
+        jockey Frankie Dettori, the rock star of racing and one of the most
+        decorated sportsmen of all time, named Longines World's Best Jockey for
+        the last three years.</image:caption
+      >
+      <image:title>Dettori</image:title>
+    </image:image>
+  </url>
+</urlset>

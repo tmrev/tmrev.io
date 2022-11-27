@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55710-Deal of a Lifetime</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55710-Deal of a Lifetime</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hnj3jg8cUXpzUfHra9Sba0rWycx.jpg</image:loc
+      >
+      <image:caption
+        >The agent for the Devil takes the soul of a high school sophomore in
+        exchange for a date with the most popular girl on campus.</image:caption
+      >
+      <image:title>Deal of a Lifetime</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/204894-Diary of Lust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/204894-Diary of Lust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nm07h3IcFjcGHYXtw1E6lkjMoDW.jpg</image:loc
+      >
+      <image:caption
+        >An esteemed sex researcher discovers a very old diary, with a number of
+        strange and erotic secrets within. A Gothic-erotic tale of
+        obsession.</image:caption
+      >
+      <image:title>Diary of Lust</image:title>
+    </image:image>
+  </url>
+</urlset>

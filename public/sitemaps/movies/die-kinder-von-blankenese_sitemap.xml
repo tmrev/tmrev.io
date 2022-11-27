@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87040-Die Kinder von Blankenese</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87040-Die Kinder von Blankenese</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Yrg6UHhdTH6vrm8a39U2Ic0pME.jpg</image:loc
+      >
+      <image:caption
+        >Tamar, Josef, Bracha and Wolfgang survived the persecution and the
+        camps. May 1945. The children do not know where their parents are. In
+        the former Bergen-Belsen concentration camp, they now live next to
+        English soldiers and broken concentration camp inmates. They find
+        shelter in the villa of the Jewish Warburg family in Hamburg-Blankenese.
+        From Hell to Paradise. Anti-Semitism in post-war Germany is catching up
+        with children and educators - hostility in the zoo, disregard in the
+        local hospital. The children are waiting impatiently for the long
+        journey to their new home in Palestine.</image:caption
+      >
+      <image:title>Die Kinder von Blankenese</image:title>
+    </image:image>
+  </url>
+</urlset>

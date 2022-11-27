@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321178-Ein Sommer in Amalfi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321178-Ein Sommer in Amalfi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/32BR0PlqbLf03NrAKb3R32mpJhK.jpg</image:loc
+      >
+      <image:caption
+        >German travel guide researcher Kai, a gay player, breaks a leg on
+        mission in Amalfi, once more paying too much gay attention to Italian
+        stallions. This forces his editor Claudia Wesskampe, who hates the
+        Mediterranean on account of her absent Italian stepfather, to join Kai
+        to finish the field work, as he's already dangerously close to her
+        deadline. Friendly locals like padre Leo Muti and his flirtatious cousin
+        Luca soon convert her to appreciate the country, its people and even her
+        unraveled family history.</image:caption
+      >
+      <image:title>Ein Sommer in Amalfi</image:title>
+    </image:image>
+  </url>
+</urlset>

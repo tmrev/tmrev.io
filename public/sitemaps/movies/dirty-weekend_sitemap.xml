@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333344-Dirty Weekend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333344-Dirty Weekend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xFaJh6KaoYz0IsS7TqCtsmBVsaK.jpg</image:loc
+      >
+      <image:caption
+        >During a layover in Albuquerque, work colleagues Les and Natalie
+        discover more about each other than they ever thought possible. Anxious
+        and irritable, Les is drawn back into the city by past experiences he
+        can’t forget (even if he doesn't really remember the particulars of his
+        previous drunken adventure). Natalie, refusing to leave his side,
+        follows along as her own secrets are slowly revealed, leaving her
+        feeling both vulnerable and unbound.</image:caption
+      >
+      <image:title>Dirty Weekend</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/291211-De Onde Eu Te Vejo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/291211-De Onde Eu Te Vejo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3dbErPyvo8D1NSsoQVpvja8sC0l.jpg</image:loc
+      >
+      <image:caption
+        >After 20 years of marriage, Ana Lúcia and her husband Fábio decide to
+        get a divorce. Fábio, however, decides to move to an apartment across
+        the street, in front of the window of his former apartment - where Lúcia
+        still lives. Both will have to learn how to deal with job crisis,
+        problems with their daughter and this whole new
+        situation.</image:caption
+      >
+      <image:title>De Onde Eu Te Vejo</image:title>
+    </image:image>
+  </url>
+</urlset>

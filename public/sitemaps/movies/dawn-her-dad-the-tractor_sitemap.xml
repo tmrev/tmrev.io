@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/825773-Dawn, her Dad & the Tractor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/825773-Dawn, her Dad & the Tractor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9giYWXnYJ3WK9cr0OYykLlVFUsx.jpg</image:loc
+      >
+      <image:caption
+        >Dawn returns home to Nova Scotia to mourn the death of her mother and
+        repair the estrangement with her father, John Andrew. An ancient tractor
+        becomes the focus for the mechanically-minded Dawn, but her father’s
+        long-simmering resentments heighten tensions. Watching his daughter work
+        to restore the tractor, he realises that reclaiming this relationship
+        depends on his own coming out: supporting Dawn publicly and fighting
+        malicious small-town transphobia.</image:caption
+      >
+      <image:title>Dawn, her Dad & the Tractor</image:title>
+    </image:image>
+  </url>
+</urlset>

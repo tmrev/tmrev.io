@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1033008-Dabee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1033008-Dabee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zzCFA0V8gG9wQ0KFwLQHwYTaUGR.jpg</image:loc
+      >
+      <image:caption
+        >A man leaves his wife after she gives birth to three daughters in
+        succession and remarries another woman in hopes of a male child.
+        However, things take a turn when he meets with an
+        accident.</image:caption
+      >
+      <image:title>Dabee</image:title>
+    </image:image>
+  </url>
+</urlset>

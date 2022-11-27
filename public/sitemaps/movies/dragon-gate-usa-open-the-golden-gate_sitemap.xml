@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/779149-Dragon Gate USA Open The Golden Gate</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/779149-Dragon Gate USA Open The Golden Gate</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jDv0jRX0b4BPRiyevGNyJNSPAcO.jpg</image:loc
+      >
+      <image:caption
+        >2012 in DGUSA begins with “Open the Golden Gate 2012” in Los Angeles at
+        the Westin Airport Hotel on January 27, 2012.</image:caption
+      >
+      <image:title>Dragon Gate USA Open The Golden Gate</image:title>
+    </image:image>
+  </url>
+</urlset>

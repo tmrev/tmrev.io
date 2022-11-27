@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330362-Early Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330362-Early Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b6OqogwG3sgJf9ry91P3Dj4aopj.jpg</image:loc
+      >
+      <image:caption
+        >The life of a security guard in a retirement home spirals out of
+        control when he catches his wife with a lover, pushing him to the brink
+        of insanity.</image:caption
+      >
+      <image:title>Early Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8914-Deep Blue Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8914-Deep Blue Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg</image:loc
+      >
+      <image:caption
+        >Researchers on the undersea lab Aquatica have genetically altered the
+        brains of captive sharks to develop a cure for Alzheimer's disease. But
+        there's an unexpected side effect: the sharks got smarter, faster, and
+        more dangerous. After a big storm damages their remote research
+        facility, they must fight for their lives.</image:caption
+      >
+      <image:title>Deep Blue Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12911-Druids</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12911-Druids</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rKifUSwif4iUTZ66y45jgqpHQjs.jpg</image:loc
+      >
+      <image:caption
+        >In the year 60 B.C. a group of Druids, including the arch-druid
+        Guttuart (Max von Sydow), witness the passing of a comet and interpret
+        it as the sign of the coming of a king for their country Gaul, which has
+        not had a king for a long time. Guttuart goes to Gergovia, the capital
+        of the Arvenes tribe, to attend a meeting of Gallic tribal chieftains.
+        The young boy Vercingetorix, along with his friend the young girl
+        Eponia, sneak into a large cavern where Celtill, Vercingetorix's father
+        and chieftain of the Arvenes, hosts the meeting of chieftains with the
+        intention of proclaiming himself king of all Gauls. When Celtill shows
+        off the crown once worn by the old kings of Gaul, an arrow from two
+        Roman spies (dressed as Gauls) hits Celtill in the back.</image:caption
+      >
+      <image:title>Druids</image:title>
+    </image:image>
+  </url>
+</urlset>

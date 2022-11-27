@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45415-Dry Wood, Fierce Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45415-Dry Wood, Fierce Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bxsn8bQZe6rujtArdpfL1XWc4wc.jpg</image:loc
+      >
+      <image:caption
+        >A Chinese doctor/herbalist has the uncanny ability to discern a problem
+        with just a superficial touch on the pulse and look at the tongue. This
+        little romantic comedy about such a person could benefit from such an
+        exam.</image:caption
+      >
+      <image:title>Dry Wood, Fierce Fire</image:title>
+    </image:image>
+  </url>
+</urlset>

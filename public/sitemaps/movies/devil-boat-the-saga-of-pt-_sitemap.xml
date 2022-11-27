@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/668812-Devil Boat: The Saga of PT 658</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/668812-Devil Boat: The Saga of PT 658</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aXDt92dmSAxkwzbifApjZNP22Ki.jpg</image:loc
+      >
+      <image:caption
+        >Sixty-years after setting sail on the PT 658, a group of World War II
+        veterans reminisce about their extraordinary experiences on the boat
+        while attempting to restore it to it's original condition in a
+        documentary that has a little something for war buffs and amateur
+        historians alike.</image:caption
+      >
+      <image:title>Devil Boat: The Saga of PT 658</image:title>
+    </image:image>
+  </url>
+</urlset>

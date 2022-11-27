@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55463-Dark Metropolis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55463-Dark Metropolis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iO8lX0I6YHbiIvcmyIIJWS63R6e.jpg</image:loc
+      >
+      <image:caption
+        >Mankind has lost a 300-year war against a genetically enhanced race
+        that man created, abused, and tortured. The descendants of that race,
+        called the 'Ghen', control planet Earth. An entire new universe has
+        risen inside the remnants of our world. Humans work the surface as
+        factory slaves in the New World Order, with pockets of resistance
+        carrying on the freedom fight. As rising Ghen politician Crecilius Pryme
+        takes power he urges his people to annihilate the remaining human
+        population unleashing a shocking secret that will change the world
+        forever.</image:caption
+      >
+      <image:title>Dark Metropolis</image:title>
+    </image:image>
+  </url>
+</urlset>

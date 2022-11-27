@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33007-E-Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33007-E-Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uBdCe3eAhI61bsqyiqf8Z4yusF9.jpg</image:loc
+      >
+      <image:caption
+        >They were handed $280 million dollars at age 28. They were on top of
+        the world with a revolutionary idea to change our daily lives. And then
+        it all came crashing down! This is the unbelievable story following the
+        ups and downs of Joseph Park and Yong Kang, the founders of Kozmo.com.
+        It's about the madness of chasing wealth, the lure of excess and the
+        struggle for the American Dream</image:caption
+      >
+      <image:title>E-Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

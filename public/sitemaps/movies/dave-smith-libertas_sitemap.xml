@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475241-Dave Smith: Libertas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475241-Dave Smith: Libertas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8bJvxcoHgAD0ehIdBnQ9jyRZYbG.jpg</image:loc
+      >
+      <image:caption
+        >Stand up comedian and political commentator Dave Smith's first hour
+        special with the GaS Digital Network. Dave's stand up explores the
+        underbelly of the American political infrastructure and shines a light
+        on our own hypocrisy when it comes to social issues such as racism and
+        sexism. Dave has a fresh approach to political comedy. He doesn't simply
+        align blindly with one side of the political spectrum like many of his
+        contemporaries but would rather call bullsh*t on both
+        sides.</image:caption
+      >
+      <image:title>Dave Smith: Libertas</image:title>
+    </image:image>
+  </url>
+</urlset>

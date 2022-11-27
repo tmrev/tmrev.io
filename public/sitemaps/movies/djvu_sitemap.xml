@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/390560-Déjà-Vu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/390560-Déjà-Vu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A cinematic experience by Douglas Gordon - in which the film D.O.A. is
+        screened simultaneously on three screens beside one another, but at
+        slightly different speeds. The films quickly fall out of synch with one
+        another. Déjà-vu uses footage from D.O.A. 1949-50, a Hollywood thriller
+        directed by Rudolph Mateé. The film has been transferred to video and is
+        projected simultaneously on three parallel screens at normal speed as
+        well as slightly faster and slightly slower - 25, 24 and 23 frames per
+        second (left to right). This has the effect of making the three
+        identical narratives diverge increasingly over time, and inducing in the
+        viewer an experience similar to déjà-vu.</image:caption
+      >
+      <image:title>Déjà-Vu</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/411201-Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/411201-Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wuGSxw3SxwjU4YbkUaSyWCFVJ0g.jpg</image:loc
+      >
+      <image:caption
+        >Sergei Polunin is a breathtaking ballet talent who questions his
+        existence and his commitment to dance just as he is about to become a
+        legend.</image:caption
+      >
+      <image:title>Dancer</image:title>
+    </image:image>
+  </url>
+</urlset>

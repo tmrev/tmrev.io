@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/774551-Dam Busters Declassified</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/774551-Dam Busters Declassified</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iV3nt5UhJ1TjhZ6OSBwxMfUTX7G.jpg</image:loc
+      >
+      <image:caption
+        >Martin Shaw takes a fresh look at one of the most famous war stories of
+        them all. The actor, himself a pilot, takes to the skies to retrace the
+        route of the 1943 raid by 617 Squadron which used bouncing bombs to
+        destroy German dams. He sheds new light on the story as he separates the
+        fact from the myth behind this tale of courage and ingenuity. Using the
+        1955 movie The Dam Busters as a vehicle to deconstruct the raid, he
+        tries to piece together a picture of perhaps the most daring attack in
+        the history of aviation warfare.</image:caption
+      >
+      <image:title>Dam Busters Declassified</image:title>
+    </image:image>
+  </url>
+</urlset>

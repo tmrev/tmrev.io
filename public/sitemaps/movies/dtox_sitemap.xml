@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10375-D-Tox</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10375-D-Tox</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AdLg3zOxCcyWQYKSK86q20dibq.jpg</image:loc
+      >
+      <image:caption
+        >A disgraced FBI agent with a drinking problem joins nine other troubled
+        law enforcement officers at an isolated detox clinic in the wilds of
+        Wyoming. But the therapeutic sanctuary becomes a nightmarish hellhole
+        when a major snowstorm cuts off the clinic from the outside world and
+        enables a killer on the inside to get busy.</image:caption
+      >
+      <image:title>D-Tox</image:title>
+    </image:image>
+  </url>
+</urlset>

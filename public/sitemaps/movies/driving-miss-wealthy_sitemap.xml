@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/131148-Driving Miss Wealthy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/131148-Driving Miss Wealthy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sCTtBxx9gFLcgMcLxsEkZRtFPiG.jpg</image:loc
+      >
+      <image:caption
+        >Leung plays Jennifer, the spoiled-rotten daughter of a millionaire.
+        When Jennifer's father realizes that she's spending way too much money,
+        he hires Kit (Lau) to pretend to be a Filipino chauffeur and chaperone
+        her. Then, Jennifer's father decides that he's going to teach her the
+        value of money and hard-work, so he pretends to be ill, leaving all the
+        money to Pamela, his business partner. Pamela kicks Jennifer out into
+        the street to live with Kit/Mario. The two learn to live together and
+        work hard to get back on top.</image:caption
+      >
+      <image:title>Driving Miss Wealthy</image:title>
+    </image:image>
+  </url>
+</urlset>

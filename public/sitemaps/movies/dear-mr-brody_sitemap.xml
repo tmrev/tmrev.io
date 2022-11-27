@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/698494-Dear Mr. Brody</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/698494-Dear Mr. Brody</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1nvCTgD99uDdbJTpnPMhWd32rK3.jpg</image:loc
+      >
+      <image:caption
+        >A documentary about Michael Brody Jr., a 21-year-old hippie millionaire
+        who in 1970 promised to give away his $25M inheritance in an effort to
+        usher in a new era of world peace.</image:caption
+      >
+      <image:title>Dear Mr. Brody</image:title>
+    </image:image>
+  </url>
+</urlset>

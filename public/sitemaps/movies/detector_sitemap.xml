@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64114-Detector</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64114-Detector</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dp3dSBGBpNWSFzIBKiEVK0wXnZv.jpg</image:loc
+      >
+      <image:caption
+        >Daniel Jul is a 28 year old psychiatrist, still living with his mom. He
+        and his friend Ronny have one thing in common, they like searching for
+        metallic objects in the ground. One day they find a jewel with the name
+        "Janne" imprinted. This is the beginning of something big for Daniel.
+        His life will never be the same. He's about to discover a lot of hidden
+        secrets, about himself and others.</image:caption
+      >
+      <image:title>Detector</image:title>
+    </image:image>
+  </url>
+</urlset>

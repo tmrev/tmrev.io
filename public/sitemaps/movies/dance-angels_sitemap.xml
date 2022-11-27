@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/657346-Dance Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/657346-Dance Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iSKN7L5zYF8QYXUZyRnieyPnKiu.jpg</image:loc
+      >
+      <image:caption
+        >DANCE ANGELS is a feel-good dance musical filmed in stunning locations
+        around the picturesque coastal city of Alicante,Spain. The story is
+        centered around two young angels and their friends who take on a 48 hour
+        dance challenge to save the yacht of a local much loved Captain. The
+        story is full of humor with colorful and quirky characters, accompanied
+        by great dance scenes and the best of music soundtracks by leading
+        American composers/writers</image:caption
+      >
+      <image:title>Dance Angels</image:title>
+    </image:image>
+  </url>
+</urlset>

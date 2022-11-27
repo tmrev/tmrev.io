@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/204965-Drei Stunden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/204965-Drei Stunden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/veKd60gPjiGJ89B1PZP91xmeozb.jpg</image:loc
+      >
+      <image:caption
+        >For years, Martin has been working on his great play about cloud
+        castles, flying pirates and a feisty princess. His secret role model for
+        the leading character is his good friend Isabel, a cheeky young woman
+        who is waging war on genetically modified seeds around the world. And
+        she is leaving tomorrow to go to the middle of Africa for the next three
+        years.</image:caption
+      >
+      <image:title>Drei Stunden</image:title>
+    </image:image>
+  </url>
+</urlset>

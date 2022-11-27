@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/819108-Dark Continent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/819108-Dark Continent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/irgOfpXg3FEE6mnNGee3pz6jzjN.jpg</image:loc
+      >
+      <image:caption
+        >« A black, metaphysical hole around the face of Mary Magdalene which
+        shifts Freudian psychoanalytical discourse towards the artist’s
+        investigative practice, dualistic between the tenebrous and the
+        (ultimate) radiance of light between the humanity in the filmed face and
+        the eternal divinity of sculpture. » (Matthieu Orléan)</image:caption
+      >
+      <image:title>Dark Continent</image:title>
+    </image:image>
+  </url>
+</urlset>

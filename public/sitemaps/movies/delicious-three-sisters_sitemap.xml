@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/569715-Delicious Three Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/569715-Delicious Three Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q85VR4nlUUu9tERLUvPFyq2WB8c.jpg</image:loc
+      >
+      <image:caption
+        >The gentle gesture of the three sisters surrounding the male
+        housekeeper begins. The three sisters are not the food of the housemaid
+        but the housekeeper's body.</image:caption
+      >
+      <image:title>Delicious Three Sisters</image:title>
+    </image:image>
+  </url>
+</urlset>

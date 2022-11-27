@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478470-Earth from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478470-Earth from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rbgrjcFApIbZIu0jBqOgu8IJ1ZY.jpg</image:loc
+      >
+      <image:caption
+        >Yann Arthus-Bertrand has flown over hundreds of countries to create an
+        extraordinary aerial portrait of our planet as never seen before. This
+        DVD from the Panoramica Motion Gallery is 'Ambient' in concept, there is
+        no storytelling, no narratives, just a constant stream of compelling
+        beauty.</image:caption
+      >
+      <image:title>Earth from Above</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/501170-Doctor Sleep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/501170-Doctor Sleep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p69QzIBbN06aTYqRRiCOY1emNBh.jpg</image:loc
+      >
+      <image:caption
+        >Still irrevocably scarred by the trauma he endured as a child at the
+        Overlook, Dan Torrance has fought to find some semblance of peace. But
+        that peace is shattered when he encounters Abra, a courageous teenager
+        with her own powerful extrasensory gift, known as the 'shine'.
+        Instinctively recognising that Dan shares her power, Abra has sought him
+        out, desperate for his help against the merciless Rose the Hat and her
+        followers.</image:caption
+      >
+      <image:title>Doctor Sleep</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45902-Day Break</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45902-Day Break</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8R0sqdFYGCeK12b7KCtoDs6DJqc.jpg</image:loc
+      >
+      <image:caption
+        >Since the Islamic Revolution in Iran, capital punishment is carried out
+        according to Islamic law, which gives the family of the victim ownership
+        of the offender's life. Day Break - based on a compilation of true
+        stories and shot inside Tehran's century-old prison - revolves around
+        the imminent execution of Mansour, a man found guilty of murder. When
+        the family of the victim repeatedly fails to show up on the appointed
+        day, Mansour's execution is postponed again and again. Stuck inside the
+        purgatory of his own mind, he waits as time passes on without him,
+        caught between life and death, retribution and
+        forgiveness.</image:caption
+      >
+      <image:title>Day Break</image:title>
+    </image:image>
+  </url>
+</urlset>

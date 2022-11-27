@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73450-Daffy Duck for President</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73450-Daffy Duck for President</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iqmwS9KjEv0ZtPsSNeh4Lyc7XPe.jpg</image:loc
+      >
+      <image:caption
+        >Daffy Duck tries to go into the government to make a law stating that
+        Rabbit Season shall be a minimum of 12 months, while Bugs tries to stop
+        him by means of the U.S. constitution.</image:caption
+      >
+      <image:title>Daffy Duck for President</image:title>
+    </image:image>
+  </url>
+</urlset>

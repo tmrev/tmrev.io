@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407162-Dancing with Voladores</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407162-Dancing with Voladores</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aw2ozKjzqg5iDL5YSEMejf4AAz1.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that takes us to the depths of mysticism and the value of
+        ancient ritual which wraps us in their magical culture.</image:caption
+      >
+      <image:title>Dancing with Voladores</image:title>
+    </image:image>
+  </url>
+</urlset>

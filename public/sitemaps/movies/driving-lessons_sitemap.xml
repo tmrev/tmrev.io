@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637164-Driving Lessons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637164-Driving Lessons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cCRzvTdFW9hbnmNYfyZBtSygIPx.jpg</image:loc
+      >
+      <image:caption
+        >In John Carpenter's 1978 classic HALLOWEEN, Michael Myers was suddenly
+        able to drive a car after having sat in a sanitarium staring at the wall
+        since childhood. While the filmmakers addressed this slight plot hole
+        briefly in the original movie with a throw away line by Donald Pleasance
+        ("Maybe someone around here gave him lessons"), ArieScope Pictures was
+        fortunate enough to track down a never-before-seen deleted scene that
+        thoroughly explains what really happened.</image:caption
+      >
+      <image:title>Driving Lessons</image:title>
+    </image:image>
+  </url>
+</urlset>

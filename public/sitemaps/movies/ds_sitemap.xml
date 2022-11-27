@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97359-Dís</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97359-Dís</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1r4OoefaZI0U8jDDUkOmEfaVE8l.jpg</image:loc
+      >
+      <image:caption
+        >Dís, 23, is still to decide what to do with her life. Obsessed by the
+        thought of being "abnormally normal", a mere photocopy of long lost
+        original, she wanders from one odd job to another and tries out various
+        cources at the University. A guiding light comes her way from an
+        unexpected direction.</image:caption
+      >
+      <image:title>Dís</image:title>
+    </image:image>
+  </url>
+</urlset>

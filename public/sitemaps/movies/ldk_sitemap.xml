@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24092-2LDK</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24092-2LDK</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/irLrVmf1mDDrL32Dr1ke0fUgzjN.jpg</image:loc
+      >
+      <image:caption
+        >Nozomi and Lana share an apartment in Tokyo. They have both auditioned
+        for the same role in a movie, and know that the shortlist has been cut
+        down to just the two of them. As they wait the night before finding out
+        who will get the role, their personality clashes erupt into an all-out
+        battle.</image:caption
+      >
+      <image:title>2LDK</image:title>
+    </image:image>
+  </url>
+</urlset>

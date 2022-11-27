@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/839440-Dinosaur Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/839440-Dinosaur Hotel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qISzj26R3LnsChQcXQKnuyxQQhK.jpg</image:loc
+      >
+      <image:caption
+        >Sienna is desperate to win a large cash prize in a secret underground
+        game show. However, Dinosaur's begin to hunt her down for the
+        entertainment of the rich and wealthy. Can she be the last to survive
+        the horrific night to win the prize?</image:caption
+      >
+      <image:title>Dinosaur Hotel</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788920-Dealer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788920-Dealer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rumD0ZxYnosJ0VxWbFUz8rUynMo.jpg</image:loc
+      >
+      <image:caption
+        >Fourteen-year-old drug dealer Johnny is in a home for young people.
+        When he learns that he cannot go home at weekends any longer, he asks
+        one of his customers, famous successful actor Antony, to be his weekend
+        guardian.</image:caption
+      >
+      <image:title>Dealer</image:title>
+    </image:image>
+  </url>
+</urlset>

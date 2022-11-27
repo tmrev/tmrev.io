@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369145-Doctor Who: The Snowmen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369145-Doctor Who: The Snowmen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6JEGsCbGcNiF0WUyoqL0ACmAjFi.jpg</image:loc
+      >
+      <image:caption
+        >The Doctor has retired to 1892 London. Despite the protests of his
+        allies, he is determined to keep out of mankind's affairs. However, a
+        governess named Clara has stumbled upon a plot which only the Doctor can
+        unravel, involving the death of her predecessor in ice and the sinister
+        Dr. Simeon, who controls monsters made of sentient snow. And there is
+        another mystery afoot: Clara is the spitting image of Oswin Oswald, whom
+        the Doctor saw die in the Dalek asylum...</image:caption
+      >
+      <image:title>Doctor Who: The Snowmen</image:title>
+    </image:image>
+  </url>
+</urlset>

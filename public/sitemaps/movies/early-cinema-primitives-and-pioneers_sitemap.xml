@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/508184-Early Cinema: Primitives and Pioneers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/508184-Early Cinema: Primitives and Pioneers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e42t4tP34CaWpGVYA1F8jsZHBUa.jpg</image:loc
+      >
+      <image:caption
+        >The BFI's fascinating collection of 60 short films all made before 1911
+        aims to give wider access to some of the extraordinary film material
+        held in the BFI National Archive, much of which has been restored.
+        Although most films made at this time were actualities and newsreels,
+        this collection contains mostly fiction films, ranging from the dramatic
+        to the comic and the fantastical.</image:caption
+      >
+      <image:title>Early Cinema: Primitives and Pioneers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/621758-Desert One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/621758-Desert One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6yHyPrDvJeGsMrO1K77w1uSgf39.jpg</image:loc
+      >
+      <image:caption
+        >The true story behind one the of most daring rescues in modern US
+        history: a secret mission to free hostages captured during the 1979
+        Iranian revolution.</image:caption
+      >
+      <image:title>Desert One</image:title>
+    </image:image>
+  </url>
+</urlset>

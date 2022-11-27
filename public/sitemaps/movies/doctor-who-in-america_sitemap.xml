@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/962454-Doctor Who in America</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/962454-Doctor Who in America</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zioVan5Ba2XPuAbnFlMmuCD8x9z.jpg</image:loc
+      >
+      <image:caption
+        >With all of the universe to explore, what keeps bringing the Doctor
+        back to America? We uncover the Doctor's special relationship with the
+        US, from Daleks on the streets of New York to robot gunslingers in the
+        Wild West. The special includes behind-the-scenes reports from the
+        Doctor's visits to the US and looks back at the references to the 50
+        States in Doctor Who.</image:caption
+      >
+      <image:title>Doctor Who in America</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627992-Det nya livet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627992-Det nya livet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6TDyVsSYUmDg9gnf9t44KPh2ksn.jpg</image:loc
+      >
+      <image:caption
+        >It has been three years since Tom Alandh made the film "Det svåra
+        livet" about homeless drug addict Pia. This film shows what has happened
+        to her since.</image:caption
+      >
+      <image:title>Det nya livet</image:title>
+    </image:image>
+  </url>
+</urlset>

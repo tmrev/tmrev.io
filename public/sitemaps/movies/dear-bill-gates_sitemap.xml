@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/598206-Dear Bill Gates</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/598206-Dear Bill Gates</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qvikLETZdChyDiBuM0FrvFlXf9O.jpg</image:loc
+      >
+      <image:caption
+        >A simple correspondence evolves into a poetic visual essay exploring
+        the ownership of our visual history and culture. Combining original and
+        archival film, video and images from the internet, Dear Bill Gates draws
+        unexpected connections among mining, memory and Microsoft. Original
+        music by Adam Granduciel.</image:caption
+      >
+      <image:title>Dear Bill Gates</image:title>
+    </image:image>
+  </url>
+</urlset>

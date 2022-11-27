@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32678-Dead Man Running</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32678-Dead Man Running</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kgP6YevcqMzWKFR7FokqtFoO7ZD.jpg</image:loc
+      >
+      <image:caption
+        >A loan shark gives ex-con Nick a period of 24 hours in order to pay
+        back the money he owes. Up against it, Nick involves his best mate on a
+        multi-part mission in order to raise the cash before it's too late for
+        them both</image:caption
+      >
+      <image:title>Dead Man Running</image:title>
+    </image:image>
+  </url>
+</urlset>

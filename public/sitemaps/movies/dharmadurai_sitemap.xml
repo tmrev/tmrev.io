@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373587-Dharmadurai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373587-Dharmadurai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yas8Ah6xrPWdnfDFv726vm5D9pZ.jpg</image:loc
+      >
+      <image:caption
+        >A doctor turns into an alcoholic, and becomes an embarrassment for his
+        brothers. What caused this descent, and can he redeem
+        himself?</image:caption
+      >
+      <image:title>Dharmadurai</image:title>
+    </image:image>
+  </url>
+</urlset>

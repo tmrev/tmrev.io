@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/999245-Doppelganger II: Wheels of Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/999245-Doppelganger II: Wheels of Steel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In the second instalment of the "Doppelganger" series, the dance
+        hustler duo make their way, unfettered, through the subways stations of
+        midday Toronto.</image:caption
+      >
+      <image:title>Doppelganger II: Wheels of Steel</image:title>
+    </image:image>
+  </url>
+</urlset>

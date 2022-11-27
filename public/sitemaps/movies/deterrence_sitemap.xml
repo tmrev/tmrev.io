@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25212-Deterrence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25212-Deterrence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qAkbSZ3RY7E6jVYi5FNvc27o019.jpg</image:loc
+      >
+      <image:caption
+        >The President of the United States must deal with an international
+        military crisis while confined to a Colorado diner during a freak
+        snowstorm.</image:caption
+      >
+      <image:title>Deterrence</image:title>
+    </image:image>
+  </url>
+</urlset>

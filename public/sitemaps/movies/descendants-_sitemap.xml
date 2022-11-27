@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/506574-Descendants 3</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/506574-Descendants 3</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg</image:loc
+      >
+      <image:caption
+        >The teenagers of Disney's most infamous villains return to the Isle of
+        the Lost to recruit a new batch of villainous offspring to join them at
+        Auradon Prep.</image:caption
+      >
+      <image:title>Descendants 3</image:title>
+    </image:image>
+  </url>
+</urlset>

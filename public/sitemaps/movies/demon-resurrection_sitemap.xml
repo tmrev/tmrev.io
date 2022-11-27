@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/294289-Demon Resurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/294289-Demon Resurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iOmPNOQwepEgLc4P4w1znt3PFbd.jpg</image:loc
+      >
+      <image:caption
+        >In an isolated house, a group of friends battle supernatural forces as
+        they try to protect a young woman from an evil cult in this low-budget
+        shocker that pays homage to 70s horror and exploitation
+        classics.</image:caption
+      >
+      <image:title>Demon Resurrection</image:title>
+    </image:image>
+  </url>
+</urlset>

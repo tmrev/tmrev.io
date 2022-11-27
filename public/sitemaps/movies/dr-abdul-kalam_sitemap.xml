@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/512131-Dr. Abdul Kalam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/512131-Dr. Abdul Kalam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4LOxo78YPBd9XSRvtIvJwCJbKsF.jpg</image:loc
+      >
+      <image:caption
+        >The movie chronicles the life of Dr. Abdul Kalam, right from his
+        childhood to his career as one of the most acclaimed scientists of the
+        world. The movie will also showcase an entire sequence on India's
+        Pokhran Nuclear tests and how Kalam safeguarded India's nuclear
+        secrets</image:caption
+      >
+      <image:title>Dr. Abdul Kalam</image:title>
+    </image:image>
+  </url>
+</urlset>

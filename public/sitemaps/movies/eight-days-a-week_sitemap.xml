@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15209-Eight Days a Week</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15209-Eight Days a Week</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hWnrWWBcoq2urObQ4wZ6aX3YYpU.jpg</image:loc
+      >
+      <image:caption
+        >Peter loves his next door neighbour Erica and, on the advice of his
+        grandfather, decides to camp out on her front lawn for the entire
+        summer, or until she agrees to go out with him. His father is none too
+        happy about the idea and refuses to let his son back in the house, even
+        to get a change of clothes.</image:caption
+      >
+      <image:title>Eight Days a Week</image:title>
+    </image:image>
+  </url>
+</urlset>

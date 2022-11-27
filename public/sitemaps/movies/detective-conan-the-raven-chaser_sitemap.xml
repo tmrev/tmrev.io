@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28764-Detective Conan: The Raven Chaser</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28764-Detective Conan: The Raven Chaser</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rqrypnOq4cuwzobGW9gQgarkSr.jpg</image:loc
+      >
+      <image:caption
+        >A new member from the Black Organization that shrunk Shinichi's body
+        manages to find out about Shinichi's transformation into Conan. This
+        discovery starts to put those around him in danger as Gin and the other
+        Black Organization members start to take action.</image:caption
+      >
+      <image:title>Detective Conan: The Raven Chaser</image:title>
+    </image:image>
+  </url>
+</urlset>

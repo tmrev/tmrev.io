@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1572-Die Hard: With a Vengeance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1572-Die Hard: With a Vengeance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sOqB9iMEcbGhAgH70dbs8U58UW5.jpg</image:loc
+      >
+      <image:caption
+        >New York detective John McClane is back and kicking bad-guy butt in the
+        third installment of this action-packed series, which finds him teaming
+        with civilian Zeus Carver to prevent the loss of innocent lives. McClane
+        thought he'd seen it all, until a genius named Simon engages McClane,
+        his new "partner" -- and his beloved city -- in a deadly game that
+        demands their concentration.</image:caption
+      >
+      <image:title>Die Hard: With a Vengeance</image:title>
+    </image:image>
+  </url>
+</urlset>

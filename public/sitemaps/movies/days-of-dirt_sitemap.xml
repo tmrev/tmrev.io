@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43955-Days Of Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43955-Days Of Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Days of Dirt DVD is the fifth feature release from Allout Productions,
+        'Days of Dirt' offers up a buttery blend of downhill &amp; freestyle
+        action. From the hills of Oakland to Crankworx, the film showcases
+        America's finest riders gettin down n dirty doing what they do
+        best.</image:caption
+      >
+      <image:title>Days Of Dirt</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18158-Earth vs. the Flying Saucers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18158-Earth vs. the Flying Saucers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qCOLglZvQgQAyWMCZodBo3wmgqp.jpg</image:loc
+      >
+      <image:caption
+        >Test space rockets exploding at liftoff and increased reporting of UFO
+        sightings culminate in a direct attempt by alien survivors of a dead,
+        extra-galactic civilization to invade Earth from impervious flying
+        saucers, using ray-weapons of mass destruction.</image:caption
+      >
+      <image:title>Earth vs. the Flying Saucers</image:title>
+    </image:image>
+  </url>
+</urlset>

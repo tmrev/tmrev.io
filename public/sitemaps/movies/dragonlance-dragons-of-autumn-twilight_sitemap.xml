@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/17031-Dragonlance: Dragons Of Autumn Twilight</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/17031-Dragonlance: Dragons Of Autumn Twilight</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j2XmVyJOWrIqFcIT2AtWGoPbzoa.jpg</image:loc
+      >
+      <image:caption
+        >After five years apart, searching the world of Krynn for proof of the
+        existence of the true gods, a group of adventurers reach their goal in
+        the form of a barbarian woman carrying a miraculous blue crystal staff.
+        Soon they are thrust into war as an army of dragons overtakes their
+        homeland.</image:caption
+      >
+      <image:title>Dragonlance: Dragons Of Autumn Twilight</image:title>
+    </image:image>
+  </url>
+</urlset>

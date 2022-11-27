@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321941-Dead Frequency</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321941-Dead Frequency</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/52F5FLbGTXUkJetVYjVXGpMXgQ5.jpg</image:loc
+      >
+      <image:caption
+        >Night radio host Sam is in love with Emily. Afraid of showing his
+        feelings he rejects her advances - to a point. Plagued by alcohol
+        addiction and depression, he also has a less worldly problem: He (and
+        the others) are vampires who are keen to hide this from the new station
+        manager. All is explained in this black comedy.</image:caption
+      >
+      <image:title>Dead Frequency</image:title>
+    </image:image>
+  </url>
+</urlset>

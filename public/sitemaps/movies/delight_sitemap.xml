@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199290-Delight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199290-Delight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Echo goes looking for her one-time lover and comrade-in-arms, only to
+        fall into a passionate relationship with his son. But sexual abandon
+        triggers the unravelling of a trauma she has long buried for the sake of
+        her children, which now threatens to tear their lives apart. Can eros
+        bring a healing of trauma, or merely its repetition?</image:caption
+      >
+      <image:title>Delight</image:title>
+    </image:image>
+  </url>
+</urlset>

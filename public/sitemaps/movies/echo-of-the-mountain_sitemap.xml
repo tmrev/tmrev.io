@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268693-Echo of the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268693-Echo of the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iJzHS0LXCeOUZu02o8nNjwpgcHo.jpg</image:loc
+      >
+      <image:caption
+        >Echo of the Mountain takes a look at the life and work of Santos de la
+        Torre, a great Huichol artist who, like his people, lives in oblivion.
+        Despite having made a great mural for the metro station Palais Royal –
+        Musée du Louvre, Santos lives isolated and ignored in his country. This
+        documentary follows his pilgrimage to Wirikuta, where he asks gods for
+        permission to make a new mural; his journey across 385 miles of the
+        Peyote Route, and Santos's creative process during the making of a new
+        mural which aims to illustrate the history, mythology and religious
+        traditions of the Huichol people.</image:caption
+      >
+      <image:title>Echo of the Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

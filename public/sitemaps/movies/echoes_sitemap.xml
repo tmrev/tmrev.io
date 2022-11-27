@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1016712-Echoes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1016712-Echoes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lBV1pKXnbbkUcLtCGjBmYBepu09.jpg</image:loc
+      >
+      <image:caption
+        >With mankind wiped from the face of the earth, God retires to a cabin
+        in the woods to start the Adam-and-Eve experiment over again. As the
+        decades go by and the familiar patterns - and setbacks - continue, this
+        version of the first family will be faced with an unimaginable
+        choice.</image:caption
+      >
+      <image:title>Echoes</image:title>
+    </image:image>
+  </url>
+</urlset>

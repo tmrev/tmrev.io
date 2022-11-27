@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47285-Doomed Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47285-Doomed Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h2LT44lGKzryaMH87ftliy7iBKO.jpg</image:loc
+      >
+      <image:caption
+        >A loner, narcissistic and suicidal teenager attracts most of the people
+        he meets like a fatal aura, a black light. He falls deeply in love with
+        Teresa but does she exist or is she a mere figment, an image, a
+        reflection? Teresa is an apparition. A pretext for an amoral violent
+        uprising, for doomed love.</image:caption
+      >
+      <image:title>Doomed Love</image:title>
+    </image:image>
+  </url>
+</urlset>

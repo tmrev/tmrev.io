@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716354-Earth to Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716354-Earth to Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b7vYtadXun8J241BOm36nVZMTE6.jpg</image:loc
+      >
+      <image:caption
+        >Filmed at the Wing Fong Farm in Ontario, this documentary follows the
+        tilling, planting and harvesting of Asian vegetables destined for
+        Chinese markets and restaurants. On 80 acres of land, Lau King-Fai, her
+        son and a half-dozen migrant Mexican workers care for the plants. For
+        Yeung Kwan, her son, the farm represents personal and financial
+        independence. For his mother, it is an oasis of peace. For the Mexican
+        workers, it provides jobs that help support their children back
+        home.</image:caption
+      >
+      <image:title>Earth to Mouth</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/827905-Detective Club</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/827905-Detective Club</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xbTkaMuBDKRmTczyTBww3xAQcbW.jpg</image:loc
+      >
+      <image:caption
+        >This is based on a collection of short stories by Keigo Higashino. A
+        membership-based investigation agency dedicated to VIP will usually lead
+        the case to a quick and calm resolution. Members are only VIPs in the
+        political and business world. Tow people are in charge of it, a man in
+        his mid-30s who has a deeply carved face away from the Japanese and a
+        beautiful woman who seems to be in his late 20s. She works as an
+        assistant to the man, and has extraordinary memory. Their group is
+        nicknamed the Detective Club by the owners who are VIP
+        members.</image:caption
+      >
+      <image:title>Detective Club</image:title>
+    </image:image>
+  </url>
+</urlset>

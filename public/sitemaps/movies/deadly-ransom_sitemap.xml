@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97125-Deadly Ransom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97125-Deadly Ransom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rm4XLRkp1mIZ3p9KpK6ihN7WgSW.jpg</image:loc
+      >
+      <image:caption
+        >A wealthy banker and his daughter are kidnapped by a gang of thugs. The
+        girl's boyfriend, who serves in the special units of the US Navy, is in
+        possession of particular psychic powers. It will be thanks to these
+        powers he will discover the place where the two abducted were
+        locked.</image:caption
+      >
+      <image:title>Deadly Ransom</image:title>
+    </image:image>
+  </url>
+</urlset>

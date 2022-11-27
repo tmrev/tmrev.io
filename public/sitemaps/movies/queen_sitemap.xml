@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514976-93Queen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514976-93Queen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dFWJ6uXNm9chh6G0NLpplbkvEY2.jpg</image:loc
+      >
+      <image:caption
+        >Set in the Hasidic enclave of Borough Park, Brooklyn, "93Queen" follows
+        a group of tenacious Hasidic women who are smashing the patriarchy in
+        their community by creating the first all-female volunteer ambulance
+        corps in New York City. With unprecedented-and insider-access, "93Queen"
+        offers up a unique portrayal of a group of religious women who are
+        taking matters into their own hands to change their own community from
+        within.</image:caption
+      >
+      <image:title>93Queen</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30669-Devil's Pond</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30669-Devil's Pond</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oyc5fDw1tBaE0d258sBNc9674WM.jpg</image:loc
+      >
+      <image:caption
+        >After a brief courtship, Julianne marries her handsome boyfriend,
+        Mitch. To celebrate their honeymoon, the couple travel to a remote cabin
+        on a small island. When they arrive, however, Mitch becomes aggressive
+        and physically abusive, and Julianne soon realizes he's not the ideal
+        husband she once thought he was. Knowing that Mitch doesn't plan on ever
+        letting her leave the island, Julianne, who is afraid of water, must
+        find a way to escape.</image:caption
+      >
+      <image:title>Devil's Pond</image:title>
+    </image:image>
+  </url>
+</urlset>

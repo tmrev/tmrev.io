@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/301103-Don't Ask, Don't Tell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/301103-Don't Ask, Don't Tell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7dqv5eCRni4ekqzq9R3YeTovElP.jpg</image:loc
+      >
+      <image:caption
+        >Dozens of personal stories of military personnel and civilians once
+        silenced by the federal government's "Don't ask, Don't Tell" policy are
+        finally given a voice in this adaptation of the acclaimed one-man show.
+        Adapted from hundreds of hours of interviews collected over three years,
+        the stories collectively paint a compelling and deeply humanistic
+        portrait of this highly politicized issue.</image:caption
+      >
+      <image:title>Don't Ask, Don't Tell</image:title>
+    </image:image>
+  </url>
+</urlset>

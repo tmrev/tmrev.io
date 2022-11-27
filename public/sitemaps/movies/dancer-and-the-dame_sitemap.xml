@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327385-Dancer and the Dame</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327385-Dancer and the Dame</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4uBlyNfaFrDh1EWCn3wPEQO5s2D.jpg</image:loc
+      >
+      <image:caption
+        >Down-and-out Detective Dancer, who struggling with a personal conflict,
+        gives up on life and his job. But that all ends when he is paired up
+        with a police dog who is also dealing with post-traumatic stress. The
+        dog helps Dancer make a life-changing turn around. And in response,
+        Dancer does the same for his partner, the Dame.</image:caption
+      >
+      <image:title>Dancer and the Dame</image:title>
+    </image:image>
+  </url>
+</urlset>

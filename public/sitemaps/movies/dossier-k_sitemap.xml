@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44751-Dossier K.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44751-Dossier K.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aYpr0Hxrw3Rn6gAeyqLD3fhJi1p.jpg</image:loc
+      >
+      <image:caption
+        >Vincke and Verstuyft are detectives of the Antwerp police department.
+        This time they have to deal with the Albanian mob and some problems in
+        their own police division.</image:caption
+      >
+      <image:title>Dossier K.</image:title>
+    </image:image>
+  </url>
+</urlset>

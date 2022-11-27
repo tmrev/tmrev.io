@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/695049-David Hockney: Double Portrait</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/695049-David Hockney: Double Portrait</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j4ASbXD0FMns6piy1bbBgIFiVUe.jpg</image:loc
+      >
+      <image:caption
+        >The film charts David Hockney's return to the theme of the double
+        portrait, using interviews with his family and closest friends to
+        explore the personal and private nature of his art. It creates an
+        intimate psychological portrait of the artist as he paints the
+        relationships in his own life.</image:caption
+      >
+      <image:title>David Hockney: Double Portrait</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539928-Double Meaning: Chain Reaction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539928-Double Meaning: Chain Reaction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iabakeclxiAGysDtKeUOgNq79HN.jpg</image:loc
+      >
+      <image:caption
+        >Akira Mochizuki survived a kidnapping as a child. Now, she's a
+        detective, and there are signs that the kidnapper may be back again
+        after 20 years.</image:caption
+      >
+      <image:title>Double Meaning: Chain Reaction</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/108019-Dancing at the Harvest Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/108019-Dancing at the Harvest Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vX8iOkxCjv1L9wqjIsGzMNNgC3a.jpg</image:loc
+      >
+      <image:caption
+        >A betrayed wife, whose husband leaves her after 25 years, returns to
+        the lake where she first fell in love and begins an affair with the son
+        of her first love.</image:caption
+      >
+      <image:title>Dancing at the Harvest Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607707-Easter in Art</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607707-Easter in Art</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/87GKvw40zbkUvXPNBjjWNFpooxh.jpg</image:loc
+      >
+      <image:caption
+        >The story of Christ’s death and resurrection has dominated western
+        culture for the past 2000 years. It is perhaps the most significant
+        historical event of all time, as recounted by the gospels but, equally,
+        as depicted by the greatest artists in history. From the triumphant to
+        the savage, the ethereal to the tactile, some of western civilization’s
+        greatest artworks focus on this pivotal moment. This beautifully crafted
+        film explores the Easter story as depicted in art, from the time of the
+        early Christians to the present day. Shot on location in Jerusalem,
+        United States and throughout Europe, the film explores the different
+        ways artists have depicted the Easter story through the ages and thus
+        depicts the history of us all.</image:caption
+      >
+      <image:title>Easter in Art</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/372931-Cypress Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/372931-Cypress Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mSkacpW50w1gM4qlmhpMLVcu5N1.jpg</image:loc
+      >
+      <image:caption
+        >Reeling from the news of his sister's suicide, Beau McCammon returns
+        home to his family after a long absence. His father, who has just barely
+        won another term as senator, doesn't take things well when Beau
+        approaches him with the sinking suspicion that the suicide may have
+        actually been a murder. Determined to solve the mystery, Beau uncovers a
+        plethora of family secrets, deception, and implications of unspeakable
+        political wrongdoings.</image:caption
+      >
+      <image:title>Cypress Edge</image:title>
+    </image:image>
+  </url>
+</urlset>

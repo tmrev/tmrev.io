@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80358-Das Mädchen auf dem Meeresgrund</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80358-Das Mädchen auf dem Meeresgrund</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jv4IjuxqLjmKbP3nVFb4BTMEFFl.jpg</image:loc
+      >
+      <image:caption
+        >When Hans Hass seeks a secretary for his Viennese office in the summer
+        of 1947, Lotte Baierl applies for the job. She has just graduated from
+        high school and is a big fan of Hass. Lotte is learning how to handle
+        diving equipment and underwater cameras, as she wants to participate in
+        the next expedition. Hass, who is initially against the participation of
+        a woman, changes his mind. The TV movie tells the story of the two
+        diving pioneers.</image:caption
+      >
+      <image:title>Das Mädchen auf dem Meeresgrund</image:title>
+    </image:image>
+  </url>
+</urlset>

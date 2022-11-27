@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/528748-Echoes in the Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/528748-Echoes in the Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cuR09k12tlkWLx6Bs8hC2vfbwLG.jpg</image:loc
+      >
+      <image:caption
+        >Four men explore an abandoned research facility. Within the station
+        unsettling signs of disorder are revealed, and in the lowest level of
+        the facility, a chilling discovery is made.</image:caption
+      >
+      <image:title>Echoes in the Ice</image:title>
+    </image:image>
+  </url>
+</urlset>

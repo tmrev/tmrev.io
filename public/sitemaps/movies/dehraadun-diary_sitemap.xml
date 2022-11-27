@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/162086-Dehraadun Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/162086-Dehraadun Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aun7v46MMgUWTXF9kYjxGiZyK0y.jpg</image:loc
+      >
+      <image:caption
+        >In the era of large scale corruption, where everyone seated on a chair
+        that holds power is neck deep in corruption, exist unlikely
+        heroes</image:caption
+      >
+      <image:title>Dehraadun Diary</image:title>
+    </image:image>
+  </url>
+</urlset>

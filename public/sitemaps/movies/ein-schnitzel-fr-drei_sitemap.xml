@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/202183-Ein Schnitzel für drei</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/202183-Ein Schnitzel für drei</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l7xi1BZVA7NvbHMUfwdA9woRvyZ.jpg</image:loc
+      >
+      <image:caption
+        >The unemployed salesman Wolfgang practices optimism, his friend Günther
+        realism: The situation is shitty! But then zookeeper Günther finds a few
+        hundred thousand Euros from his demented neighbor. The mates take the
+        money but also the care for the old man.</image:caption
+      >
+      <image:title>Ein Schnitzel für drei</image:title>
+    </image:image>
+  </url>
+</urlset>

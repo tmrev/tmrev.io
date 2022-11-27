@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/892452-Decrypted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/892452-Decrypted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b4fRjhvSU3hr7B5nYq34O2lW7kq.jpg</image:loc
+      >
+      <image:caption
+        >An outrageous and provocative dark comedy about a mismatched NSA team
+        who kidnap the creator of Bitcoin - Satoshi Nakamoto - and attempt to
+        torture him for the information they need to destroy
+        cryptocurrencies.</image:caption
+      >
+      <image:title>Decrypted</image:title>
+    </image:image>
+  </url>
+</urlset>

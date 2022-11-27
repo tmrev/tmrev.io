@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582798-#EATPRETTY</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582798-#EATPRETTY</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2dCtXbpbr5N9gSmITD1yk1NA5Nw.jpg</image:loc
+      >
+      <image:caption
+        >Anna is a successful product photographer, striving for a life filled
+        with perfect moments, inspired by a constant stream of social media
+        feeds, sponsored blogs and fairytales playing on her
+        computer.</image:caption
+      >
+      <image:title>#EATPRETTY</image:title>
+    </image:image>
+  </url>
+</urlset>

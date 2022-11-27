@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/742065-Drawn Back Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/742065-Drawn Back Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2f9sHGPU6VGHtk4PLWaEJsje1zP.jpg</image:loc
+      >
+      <image:caption
+        >The awkward reacquaintance of two men, former best friends separated by
+        different life choices who try to find their way back home, gives way to
+        a depth of feeling they both must navigate to resolve issues of the past
+        while dealing with uncertainties of the future.</image:caption
+      >
+      <image:title>Drawn Back Home</image:title>
+    </image:image>
+  </url>
+</urlset>

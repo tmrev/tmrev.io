@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27306-Cyber Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27306-Cyber Wars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m3Vyc2oRmrItN53fmiGOIsdLZ6u.jpg</image:loc
+      >
+      <image:caption
+        >In the near future in the Asian city-state Sintawan, everyone's
+        identity is recorded in the vast CyberLink. The only way around this is
+        using illegal simulated identity implants (sims). A young bounty hunter
+        who makes her living tracking sims, finds herself the unlikely ally of a
+        police detective who suspects the CyberLink is being perverted for an
+        insidious and deadly purpose</image:caption
+      >
+      <image:title>Cyber Wars</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/543504-Detective vs. Sleuths</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/543504-Detective vs. Sleuths</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/edDI8tSYAYOx8sShjiFFyAnbL7v.jpg</image:loc
+      >
+      <image:caption
+        >When Hong Kong is rocked by multiple gruesome murders, the police forms
+        a task force to investigate. Jun, once a brilliant detective who
+        suffered a mental breakdown, begins his own investigation. Eventually,
+        the police learn that the murder victims are all suspects of cold cases
+        being rubbed out by a figure known as "The Sleuth". Now, Jun and a
+        detective from the task force are on a race against time to beat the
+        brutal killer at its own game.</image:caption
+      >
+      <image:title>Detective vs. Sleuths</image:title>
+    </image:image>
+  </url>
+</urlset>

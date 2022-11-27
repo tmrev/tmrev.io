@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/724774-Devil Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/724774-Devil Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fJS3Wdpir6JjQ2BH6kY7Rj3QeiA.jpg</image:loc
+      >
+      <image:caption
+        >A toy panda and a damaged toy kitty's relationship turns from sweet to
+        terrifying.</image:caption
+      >
+      <image:title>Devil Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

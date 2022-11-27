@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539990-Dear Ambassador</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539990-Dear Ambassador</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hRbxEPqEMEHPMrjsmYQtntDf7Es.jpg</image:loc
+      >
+      <image:caption
+        >The extraordinary story of Luiz Martins de Souza Dantas, who served as
+        Brazilian Ambassador to Paris during WWII. A largely unsung hero, he
+        defied his own government’s orders by granting hundreds of unauthorised
+        visas to Jews and others facing imminent capture and
+        death.</image:caption
+      >
+      <image:title>Dear Ambassador</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/578802-Cyclone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/578802-Cyclone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/67X1UGBsWD9IjzUO8652hkmU56t.jpg</image:loc
+      >
+      <image:caption
+        >Growing up on the tough streets of New York City can be hard on a young
+        teenager. Miguel is on of those kids. Given one last chance at
+        redemption, he tries to rise above his surroundings. When a heat wave
+        hits the city, Coney Island is the only place for Miguel and his friends
+        to cool off, but will a love at first sight send him over the edge and
+        strait to jail?</image:caption
+      >
+      <image:title>Cyclone</image:title>
+    </image:image>
+  </url>
+</urlset>

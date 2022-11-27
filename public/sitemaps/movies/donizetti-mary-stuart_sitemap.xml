@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/960441-Donizetti : Mary Stuart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/960441-Donizetti : Mary Stuart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/icWt0eh5AkenkK276RG3Duh6X8f.jpg</image:loc
+      >
+      <image:caption
+        >David Rendall, John Tomlinson, Janet Baker, Peter Butler, Rosalind
+        Plowright, Angela Bostock, Glenn McKeown, Giuseppe Bardari, Tom Hammond,
+        Alan Opie, Leigh Maurice</image:caption
+      >
+      <image:title>Donizetti : Mary Stuart</image:title>
+    </image:image>
+  </url>
+</urlset>

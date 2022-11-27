@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567616-Darci Lynne: My Hometown Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567616-Darci Lynne: My Hometown Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rfBwc1s9lIgUgE4ZkEjiP5pz9RL.jpg</image:loc
+      >
+      <image:caption
+        >Darci Lynne Farmer and her puppet friends Petunia, Oscar, Katie and
+        Edna perform with special musical guests, and visit Farmer's
+        hometown.</image:caption
+      >
+      <image:title>Darci Lynne: My Hometown Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

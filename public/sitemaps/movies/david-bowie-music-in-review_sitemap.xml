@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/828450-David Bowie - Music in Review</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/828450-David Bowie - Music in Review</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dDSKKLUtC5iVOFnKq6E6w4pt05Z.jpg</image:loc
+      >
+      <image:caption
+        >Retrospective of the music of David Bowie and the Spiders From Mars
+        during the breakthrough period from the late 1960s to the mid 1970s,
+        when Bowie rose from obscurity to superstardom. Features highlights from
+        tracks including 'Starman', 'Rebel Rebel', 'Jean Genie', 'Space Oddity',
+        'Hang on to Yourself', 'Ziggy Stardust', 'Suffragette City' and 'Rock
+        and Roll Suicide'.</image:caption
+      >
+      <image:title>David Bowie - Music in Review</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/633737-"Painting" Sites</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/633737-"Painting" Sites</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The first in a series of videos investigating the use of digital
+        effects on appropriated imagery, "Painting" Sites compiles pictures
+        arbitrarily yielded by an Internet search for the word "Painting," and
+        peppers the resulting series of images with digital graffiti, courtesy
+        of editing software. When Price began the piece, in 2000, automated
+        image-search tools did not yet exist online; instead, the artist used
+        text-based searches, taking arbitrary screenshots of each and every page
+        that was returned and then cropping out all but the image, an approach
+        that occasionally yielded visual hallmarks like improperly loaded data
+        or the appearance of the cursor.</image:caption
+      >
+      <image:title>"Painting" Sites</image:title>
+    </image:image>
+  </url>
+</urlset>

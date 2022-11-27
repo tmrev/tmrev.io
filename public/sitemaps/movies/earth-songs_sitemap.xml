@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105926-Earth Songs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105926-Earth Songs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >For over two years, filmmaker Brian Luke Seaward traveled to many of
+        the world's most pristine locations - Patagonia(Chile), the Caribbean,
+        Iceland, the Canadian Rockies, Hawaii, Greenland, Alaska, Peru, and New
+        Zealand - capturing the Earth's beauty in ways that are rarely seen.
+        Inspired by decades of National Geographic specials, and the BBC's
+        Planet Earth series, Earth Songs takes the viewer on a journey of this
+        planet we call home.</image:caption
+      >
+      <image:title>Earth Songs</image:title>
+    </image:image>
+  </url>
+</urlset>

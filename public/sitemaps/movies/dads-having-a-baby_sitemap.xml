@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/884002-Dad's Having a Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/884002-Dad's Having a Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/emYDSyEvOYWlrgJQYR4Pm0RInzV.jpg</image:loc
+      >
+      <image:caption
+        >Tom and Scott each came from traditional families. Now gay men, they
+        met and fell in love. Scott became known worldwide as the pregnant man
+        when he gave birth to his first biological son in 2010. This film
+        follows him and his husband Tom along with their two adopted sons over
+        Thanksgiving, as they face the trials of living in bible belt
+        America.</image:caption
+      >
+      <image:title>Dad's Having a Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

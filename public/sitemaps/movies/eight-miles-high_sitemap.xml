@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1244-Eight Miles High</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1244-Eight Miles High</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b2GT0in1R0GU3a34CN4YFztJh4X.jpg</image:loc
+      >
+      <image:caption
+        >Achim Bornhak's movie focuses on the restless life of Uschi Obermaier,
+        the icon of the 1968 movement in Germany and groupie. At the age of 16,
+        Uschi is bored by her job in a photo lab, but soon becomes the "it girl"
+        of Munich's club scene. When she gets to know Rainer Langhans, they move
+        to Berlin and live in "Kommune 1", the first politically-motivated
+        commune in Germany. While the other occupants claim she isn't political
+        enough, Uschi just wants to have fun, works as fashion model and leads
+        international music stars in temptation.</image:caption
+      >
+      <image:title>Eight Miles High</image:title>
+    </image:image>
+  </url>
+</urlset>

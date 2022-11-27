@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/313055-Discount</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/313055-Discount</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nyW0n8sVeS93u3UnesjgUxPbUt9.jpg</image:loc
+      >
+      <image:caption
+        >To fight against the introduction of automatic checkouts that threaten
+        their jobs, staff members at Hard Discounts secretly create their own
+        "Alternative Discount" outlet by salvaging products that would otherwise
+        have been wasted.</image:caption
+      >
+      <image:title>Discount</image:title>
+    </image:image>
+  </url>
+</urlset>

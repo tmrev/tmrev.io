@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22084-Dadnapped</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22084-Dadnapped</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eoXXvbtVznGJlwIsgH2WUGmjNyz.jpg</image:loc
+      >
+      <image:caption
+        >Melissa has a bad case of sibling rivalry, only her competition is a
+        fictional character in her father's best-selling novel about a teenage
+        super spy. When her father is "dadnapped" by a group of overzealous
+        fans, it's up to Melissa to help him by tapping her inner
+        superhero.</image:caption
+      >
+      <image:title>Dadnapped</image:title>
+    </image:image>
+  </url>
+</urlset>

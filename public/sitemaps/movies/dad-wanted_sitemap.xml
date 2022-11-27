@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/737802-Dad Wanted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/737802-Dad Wanted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/otBb0AKc5ncGovRjlLNeCrzIMmf.jpg</image:loc
+      >
+      <image:caption
+        >What does a thrill-seeker tween girl do when her mom forbids her to
+        enter a BMX race? Cast an actor with nothing to lose to play her
+        approving dad.</image:caption
+      >
+      <image:title>Dad Wanted</image:title>
+    </image:image>
+  </url>
+</urlset>

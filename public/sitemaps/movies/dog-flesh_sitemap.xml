@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/135871-Dog Flesh</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/135871-Dog Flesh</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sk4ltlfLTPdnnG6OqkgaIKGqCKg.jpg</image:loc
+      >
+      <image:caption
+        >Alejandro, a solitary, fragile and unpredictable man is crushed by the
+        hostility of his mysterious past.</image:caption
+      >
+      <image:title>Dog Flesh</image:title>
+    </image:image>
+  </url>
+</urlset>

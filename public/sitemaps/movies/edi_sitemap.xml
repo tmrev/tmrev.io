@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29828-Edi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29828-Edi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wkAEvWfagbUPI6FdZjbEqrXTTr7.jpg</image:loc
+      >
+      <image:caption
+        >The film tells a story of two scrap pickers - the title hero Edi and
+        his friend Jureczek. Edi is wrongly accused of having raped the girl
+        whose brothers have got the control over one of the city areas. Edi is
+        severely punished for that but he accepts his fate taking care of the
+        girl's child.</image:caption
+      >
+      <image:title>Edi</image:title>
+    </image:image>
+  </url>
+</urlset>

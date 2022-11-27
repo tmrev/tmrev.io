@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/969569-Don't Erase My History</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/969569-Don't Erase My History</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lmQKsqiKNjeG7z8GOFloq6TnL5b.jpg</image:loc
+      >
+      <image:caption
+        >A cross-section of Bay Area youth take viewers on a quest for the very
+        history that has no name in their schools. Together, they open archival
+        closets and talk with LGBTQ artists, activists, and pioneers. In a world
+        where their queer history is still regularly erased, what will they
+        discover?</image:caption
+      >
+      <image:title>Don't Erase My History</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/669258-Diffidence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/669258-Diffidence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2YROJiBsqi08uB3GwhPBURtuJDE.jpg</image:loc
+      >
+      <image:caption
+        >A gay, closet screenwriter, Darrel, is forced to collaborate on a
+        project with another writer, Ryan. As the partnership grinds on, Darrel
+        is forced to confront and accept himself for who he is deep down
+        inside.</image:caption
+      >
+      <image:title>Diffidence</image:title>
+    </image:image>
+  </url>
+</urlset>

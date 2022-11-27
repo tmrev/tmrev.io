@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467330-Death Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467330-Death Fighter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3G2nPaI93RurE7wOEy5hCg0v3X5.jpg</image:loc
+      >
+      <image:caption
+        >When an American cop witnesses his mentor's murder in a trade deal gone
+        wrong, he finds himself on the wrong side of the law in Thailand. But
+        despite the bounty on his head and pressure to leave the country, he
+        teams up with an ex-military mercenary out to settle a score of his own
+        to bring the killers to justice. Their quest for vengeance brings them
+        face-to-face with a band of notorious</image:caption
+      >
+      <image:title>Death Fighter</image:title>
+    </image:image>
+  </url>
+</urlset>

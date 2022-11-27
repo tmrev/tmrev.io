@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/499701-Dora and the Lost City of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/499701-Dora and the Lost City of Gold</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg</image:loc
+      >
+      <image:caption
+        >Dora, a girl who has spent most of her life exploring the jungle with
+        her parents, now must navigate her most dangerous adventure yet: high
+        school. Always the explorer, Dora quickly finds herself leading Boots
+        (her best friend, a monkey), Diego, and a rag tag group of teens on an
+        adventure to save her parents and solve the impossible mystery behind a
+        lost Inca civilization.</image:caption
+      >
+      <image:title>Dora and the Lost City of Gold</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/246891-Depression: Out of the Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/246891-Depression: Out of the Shadows</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dfr7ns55VqKgyb0VSwHWe6zUgnv.jpg</image:loc
+      >
+      <image:caption
+        >This PBS documentary explores depression, a debilitating disease that
+        affects millions of Americans. Touching the lives of people from diverse
+        backgrounds, depression still carries a stigma that causes some
+        sufferers to go without treatment. Real people with depression talk
+        about their experiences, and scientists offer commentary to shed light
+        on the disease, including its diagnosis, treatment and current
+        research.</image:caption
+      >
+      <image:title>Depression: Out of the Shadows</image:title>
+    </image:image>
+  </url>
+</urlset>

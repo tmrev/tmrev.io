@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/808080-Dreznica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/808080-Dreznica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AkziaBgm4uIlTsug3tPmCgjHmTS.jpg</image:loc
+      >
+      <image:caption
+        >A short documentary film built with Super 8 images. A lyric journey
+        through the images and sensations revealed by the memories and dreams of
+        blind people.</image:caption
+      >
+      <image:title>Dreznica</image:title>
+    </image:image>
+  </url>
+</urlset>

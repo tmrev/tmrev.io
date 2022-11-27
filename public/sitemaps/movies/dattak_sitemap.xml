@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311480-Dattak</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311480-Dattak</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ugnbVCoXrWiaLIYepj4RaAIX2U.jpg</image:loc
+      >
+      <image:caption
+        >When the Indian-born Sunil (Rajit Kapoor) stops getting letters from
+        his father back home, he takes a break from his lucrative corporate gig
+        in the States and pays dad a visit. But once in Calcutta, Sunil learns
+        that his father moved away a few years earlier, prompting Sunil to go
+        searching for him. As he follows the scant trail, Sunil starts to
+        understand that his selfish lifestyle bore grave consequences for his
+        father.</image:caption
+      >
+      <image:title>Dattak</image:title>
+    </image:image>
+  </url>
+</urlset>

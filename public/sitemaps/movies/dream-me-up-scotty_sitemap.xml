@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/859170-Dream Me Up Scotty!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/859170-Dream Me Up Scotty!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Lwj1Zn2lLbAopcMCQFchr7kjqG.jpg</image:loc
+      >
+      <image:caption
+        >Alex Norton discovers how showbusiness has handled the portrayal of the
+        Scottish accent. For over 100 years audiences have struggled to
+        understand our braw brogue: silent Harry Lauder films attempted an
+        accent in the captions, and in Hollywood's golden era , everyone wanted
+        to paint their tonsils tartan- but as examples from Katharine Hepburn,
+        Orson Welles and Richard Chamberlain show, they couldnae. Then Disney
+        made Brave and proved that it disnae have to be all bad!</image:caption
+      >
+      <image:title>Dream Me Up Scotty!</image:title>
+    </image:image>
+  </url>
+</urlset>

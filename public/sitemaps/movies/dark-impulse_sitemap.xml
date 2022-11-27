@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/88060-Dark Impulse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/88060-Dark Impulse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/btYL9z7q2a2u1DTjvlh5V6Hh64R.jpg</image:loc
+      >
+      <image:caption
+        >Eva, an honest and rigorous examining magistrate, investigates the
+        murder of a young stripper in which a powerful businessman is apparently
+        involved, but she is unable to find enough evidence to implicate him…
+        until a mysterious witness appears who makes her an offer she can't
+        refuse.</image:caption
+      >
+      <image:title>Dark Impulse</image:title>
+    </image:image>
+  </url>
+</urlset>

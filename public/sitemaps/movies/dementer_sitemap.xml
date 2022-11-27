@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637084-Dementer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637084-Dementer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vA4s0CbacqaRDT5M4ododRYbNdY.jpg</image:loc
+      >
+      <image:caption
+        >After fleeing a backwoods cult, a woman tries to turn her life around
+        by taking a job in a home for special needs adults only to discover that
+        she must face her dark past to save a down syndrome girl.</image:caption
+      >
+      <image:title>Dementer</image:title>
+    </image:image>
+  </url>
+</urlset>

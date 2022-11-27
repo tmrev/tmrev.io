@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21838-Dead & Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21838-Dead & Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A10Ce0fJ4RvVvTGm2mbvG08Nc7N.jpg</image:loc
+      >
+      <image:caption
+        >Six friends on a road trip stop for the night at a bed and breakfast in
+        the sleepy town of Lovelock. After a night that leaves both the inn's
+        owner and chef dead, the gang finds themselves under suspicion by the
+        local sheriff. But that's only the beginning as nearly all of the town's
+        quirky residents become possessed by an evil spirit and pin down the
+        friends inside the B&B.</image:caption
+      >
+      <image:title>Dead & Breakfast</image:title>
+    </image:image>
+  </url>
+</urlset>

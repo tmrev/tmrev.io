@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/984-Dirty Harry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/984-Dirty Harry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg</image:loc
+      >
+      <image:caption
+        >When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed
+        cop, Harry Callahan – famous for his take-no-prisoners approach to law
+        enforcement – is tasked with hunting down the psychopath. Harry
+        eventually collars Scorpio in the process of rescuing a kidnap victim,
+        only to see him walk on technicalities. Now, the maverick detective is
+        determined to nail the maniac himself.</image:caption
+      >
+      <image:title>Dirty Harry</image:title>
+    </image:image>
+  </url>
+</urlset>

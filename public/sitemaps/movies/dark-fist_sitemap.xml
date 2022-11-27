@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268234-Dark Fist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268234-Dark Fist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Dark Fist tells the story of Eddie (Andy Warski), a desperate,
+        depressed man who's down on his luck. When he loses his job, he plans to
+        rob a convenience store, instead he gets himself tangled with an
+        underground crime syndicate. He becomes the crime fighter known as Dark
+        Fist.</image:caption
+      >
+      <image:title>Dark Fist</image:title>
+    </image:image>
+  </url>
+</urlset>

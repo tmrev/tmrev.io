@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39175-Dr. Petiot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39175-Dr. Petiot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f8450OiHQa2pD8YzyIpVyyy252h.jpg</image:loc
+      >
+      <image:caption
+        >A true story shot in a German Impressionistic style. In France during
+        the Nazi occupation, Dr. Petiot (Michel Serrault) offered to help Jews
+        escape the Nazis. They would come to his house, and he would kindly give
+        them lethal "vaccinations" for their anticipated travel to Argentina.
+        Then he would steal everything the brought with them (in addition to
+        their up-front payment to him) and burn their bodies in his home-made
+        crematorium.</image:caption
+      >
+      <image:title>Dr. Petiot</image:title>
+    </image:image>
+  </url>
+</urlset>

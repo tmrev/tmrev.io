@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/457307-Don't Call Him "Dimon"</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/457307-Don't Call Him "Dimon"</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Sd8ALunb5y3GOqX760Jd2rFPN7.jpg</image:loc
+      >
+      <image:caption
+        >A 2017 Russian documentary film about alleged corruption by Prime
+        Minister of Russia Dmitry Medvedev. The film claims that Dmitry Medvedev
+        has embezzled an estimated $1.2 billion.</image:caption
+      >
+      <image:title>Don't Call Him "Dimon"</image:title>
+    </image:image>
+  </url>
+</urlset>

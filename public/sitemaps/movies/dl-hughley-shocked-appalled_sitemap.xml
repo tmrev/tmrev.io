@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/944718-D.L. Hughley: Shocked & Appalled</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/944718-D.L. Hughley: Shocked & Appalled</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Highly outspoken comic D.L. Hughley takes on race, politics, marriage,
+        and the whole "Soul Plane" thing.</image:caption
+      >
+      <image:title>D.L. Hughley: Shocked & Appalled</image:title>
+    </image:image>
+  </url>
+</urlset>

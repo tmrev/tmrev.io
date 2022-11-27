@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76053-Der Mann mit dem Fagott</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76053-Der Mann mit dem Fagott</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9oWxWuDWpELkouGEpjG0ZE9SBaq.jpg</image:loc
+      >
+      <image:caption
+        >Bremen, 1891. Udo Jürgens' grandfather Heinrich strolls thoughtfully
+        about the Christmas market. For days, the young man has suffered a
+        momentous decision: should he emigrate to America or seek his fortune in
+        Moscow? The touching performance of a street musician playing a Russian
+        song on his bassoon gives him an unexpected decision-making aid. Henry
+        sets off for Russia - and thus begins a fateful story that spans three
+        generations and two world wars.</image:caption
+      >
+      <image:title>Der Mann mit dem Fagott</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/299145-Dawn Patrol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/299145-Dawn Patrol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5WIhVKLDJhEnEaI7qbIuIWMHetl.jpg</image:loc
+      >
+      <image:caption
+        >After the brutal murder of his beloved brother, a small-town surfer
+        seeks revenge against the gang of merciless thugs he holds responsible.
+        However, when another tragedy brings him face to face with the
+        consequences of his actions, he must seek forgiveness from the very
+        people he despises most.</image:caption
+      >
+      <image:title>Dawn Patrol</image:title>
+    </image:image>
+  </url>
+</urlset>

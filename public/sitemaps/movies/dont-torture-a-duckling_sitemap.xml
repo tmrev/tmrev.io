@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49361-Don't Torture a Duckling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49361-Don't Torture a Duckling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cDSvs1JofUshFpRvZ3swCfUInur.jpg</image:loc
+      >
+      <image:caption
+        >A reporter and a promiscuous young woman try to solve a series of child
+        killings in a remote southern Italian town rife with superstition and a
+        distrust of outsiders.</image:caption
+      >
+      <image:title>Don't Torture a Duckling</image:title>
+    </image:image>
+  </url>
+</urlset>

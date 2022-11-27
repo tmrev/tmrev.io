@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400176-Drakkar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400176-Drakkar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nhoUJuXEJ5opz6KXdoThUhNDMJ2.jpg</image:loc
+      >
+      <image:caption
+        >A girl and a boy live apart men, with just dogs ans internet for
+        company. In their isolation, they try to live their love as freely as
+        possible.</image:caption
+      >
+      <image:title>Drakkar</image:title>
+    </image:image>
+  </url>
+</urlset>

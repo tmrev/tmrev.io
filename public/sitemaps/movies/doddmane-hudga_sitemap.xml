@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459403-Doddmane Hudga</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459403-Doddmane Hudga</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9YH5ZO37uWdCLglObYeYc5gqUrT.jpg</image:loc
+      >
+      <image:caption
+        >Surya, a boy belonging to a big family of the town, moves out of the
+        house when ignored by his father Rajivappa. However, after a few years,
+        he comes back to rescue his land against Babu, an evil
+        man.</image:caption
+      >
+      <image:title>Doddmane Hudga</image:title>
+    </image:image>
+  </url>
+</urlset>

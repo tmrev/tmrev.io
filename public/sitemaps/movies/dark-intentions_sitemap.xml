@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/377184-Dark Intentions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/377184-Dark Intentions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t941F5xmpHTQo1MV3mwLG3uUjXh.jpg</image:loc
+      >
+      <image:caption
+        >Molly is struggling with being a new mom, but after meeting Beth,
+        things temporarily improve only to turn sinister as Beth's dark
+        intentions are brought to light.</image:caption
+      >
+      <image:title>Dark Intentions</image:title>
+    </image:image>
+  </url>
+</urlset>

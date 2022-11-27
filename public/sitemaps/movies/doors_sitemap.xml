@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/798141-Doors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/798141-Doors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg</image:loc
+      >
+      <image:caption
+        >Without warning, millions of mysterious alien “doors” suddenly appear
+        around the globe. In a rush to determine the reason for their arrival,
+        mankind must work together to understand the purpose of these cosmic
+        anomalies.</image:caption
+      >
+      <image:title>Doors</image:title>
+    </image:image>
+  </url>
+</urlset>

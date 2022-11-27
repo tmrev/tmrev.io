@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418378-Die Beautiful</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418378-Die Beautiful</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKsONTEt8vI4XOntWLm0gyrZ9h4.jpg</image:loc
+      >
+      <image:caption
+        >Trisha, a Filipino transgender woman, suddenly dies while being crowned
+        in a beauty pageant. Her last wish was to be presented as a different
+        celebrity on each night of her wake, but her conservative father wants
+        to bury her as a man.</image:caption
+      >
+      <image:title>Die Beautiful</image:title>
+    </image:image>
+  </url>
+</urlset>

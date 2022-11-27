@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304251-Eine Mutter für Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304251-Eine Mutter für Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ezmP9zlJZWZrftcGarpAGmnVL70.jpg</image:loc
+      >
+      <image:caption
+        >Klaus Berger is a committed journalist who reports to the local
+        department of the Erfurt daily newspaper. Since the death of his wife,
+        Klaus alone is taking care of his eleven-year-old daughter Anna, so that
+        he has his hands full with his job and child care. He does not have
+        enough time for Anna. A woman who could take something away from him is
+        missing in his life. But when Klaus falls in love with the attractive
+        lawyer Judith Wagner, there is a not small problem: Anna can not stand
+        the self-confident lawyer. The tide turns when the two "women" come
+        closer thanks to their shared passion for sailing.</image:caption
+      >
+      <image:title>Eine Mutter für Anna</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6528-Der Novembermann</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6528-Der Novembermann</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n1AqdtMvtZzkjLNIhP8ENcGjGdM.jpg</image:loc
+      >
+      <image:caption
+        >For ten years Lena Drömer has been traveling to Tuscany alone for four
+        weeks every November - at least that's what her husband, the Protestant
+        pastor Hermann, and her daughter believe. But this time it will be a
+        journey without return. Shortly after her departure Lena is killed in a
+        bus accident near Bremen. Her death gives up Hermann Rätsel. Why did she
+        die in the north, when she wanted to go to the south? When, as every
+        year in November, a postcard from Lena arrives from Italy, Hermann sets
+        off in search of the truth.</image:caption
+      >
+      <image:title>Der Novembermann</image:title>
+    </image:image>
+  </url>
+</urlset>

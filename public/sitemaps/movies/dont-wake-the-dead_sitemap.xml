@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28852-Don't Wake the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28852-Don't Wake the Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rDfuD6nLhtugXWE5kUxzVBl8R9s.jpg</image:loc
+      >
+      <image:caption
+        >A group of women, hired to assist with an impromptu concert, spend the
+        evening at an ancient German castle. Unbeknownst to them, they've chosen
+        the worst night on Earth to visit, as every sixty-six years, the
+        long-dead bodies of Templar Knights buried there have the chance to wake
+        and feast upon the living...</image:caption
+      >
+      <image:title>Don't Wake the Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

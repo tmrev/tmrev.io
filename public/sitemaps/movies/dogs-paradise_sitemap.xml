@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/341151-Dog's Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/341151-Dog's Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vni7iluJnwxvM3qheLGcVDR8Wsg.jpg</image:loc
+      >
+      <image:caption
+        >Moscow, summer of 1953. Tanya, an eleven-year old girl, meets a boy,
+        Mitya. Mitya and his family have just returned from exile in the Russian
+        Far East. Tanya learns that Mitya had to leave behind his best friend, a
+        dog called Hector. Mitya is eager for Hector to join him in Moscow, but
+        the adults declare it impossible - a large city is no place for a dog.
+        In an attempt to prove the adults wrong and convince them to bring over
+        Hector, Mitya and Tanya decide to create the perfect home for him - a
+        dog's paradise in an empty sealed room they find in the
+        building...</image:caption
+      >
+      <image:title>Dog's Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

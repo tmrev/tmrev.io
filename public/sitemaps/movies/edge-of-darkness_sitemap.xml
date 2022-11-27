@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468788-Edge of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468788-Edge of Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ajw6P5C9WgAIsd5gNecreajhxcm.jpg</image:loc
+      >
+      <image:caption
+        >The film features amazing scenes of places never before seen gathered
+        by key space missions that culminated with groundbreaking discoveries in
+        2015. It features a spectacular flight though the great cliffs on comet
+        67P, a close look at the fascinating bright "lights" on Ceres, and the
+        first ever close ups of dwarf binary planet Pluto/Charon and its
+        moons.</image:caption
+      >
+      <image:title>Edge of Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

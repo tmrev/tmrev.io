@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172593-Derby Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172593-Derby Dogs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yyi1MTv0CHCjYPZeCoSZHbx1lil.jpg</image:loc
+      >
+      <image:caption
+        >When 12 year old Ben sets out to win the local trolly derby in memory
+        of his father, he learns what matters in life when he is forced to
+        battle cheating opponents, the school loan sharks and a mother who has
+        banned him from the race.</image:caption
+      >
+      <image:title>Derby Dogs</image:title>
+    </image:image>
+  </url>
+</urlset>

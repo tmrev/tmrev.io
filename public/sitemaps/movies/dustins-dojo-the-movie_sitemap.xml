@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/669233-Dustins Dojo: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/669233-Dustins Dojo: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/chL06QaKVW3s3Uin0Iom26xtEyP.jpg</image:loc
+      >
+      <image:caption
+        >Dustins Dojo and his silent sidekick Terry fight off attackers to save
+        Fountain County Indiana and from Destruction!</image:caption
+      >
+      <image:title>Dustins Dojo: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

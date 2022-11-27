@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/988253-Day Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/988253-Day Zero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iZvpg9ewzyi3qF2PVBcwky4A4XJ.jpg</image:loc
+      >
+      <image:caption
+        >When society breaks down due to a violent outbreak that turns victims
+        into undead monsters, a former elite soldier breaks out of jail to find
+        his family. Against the odds, he fights against hordes of undead, hoping
+        to finally reunite with his wife and daughter. But he also discovers
+        that in a world of hunger, uncertainty, and desperation, the living can
+        be just as dangerous as the undead.</image:caption
+      >
+      <image:title>Day Zero</image:title>
+    </image:image>
+  </url>
+</urlset>

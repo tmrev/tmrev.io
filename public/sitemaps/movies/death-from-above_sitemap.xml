@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181160-Death from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181160-Death from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wSbcytAetUIwFHJpkPivDz2XFtQ.jpg</image:loc
+      >
+      <image:caption
+        >Thule finds an ancient amulet, and gets possessed by an underworld
+        demon that needs 3 additional amulets, acquiring of which will allow him
+        to take control over the world.</image:caption
+      >
+      <image:title>Death from Above</image:title>
+    </image:image>
+  </url>
+</urlset>

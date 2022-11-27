@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35834-Eddie Macon's Run</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35834-Eddie Macon's Run</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zbUX1AktQHOQkiUmBllX9KwLcP2.jpg</image:loc
+      >
+      <image:caption
+        >Eddie Macon is running from a nightmare... running to a dream...
+        running for his life and his time is running out. He's escaped a Texas
+        prison for the second time (risking life imprisonment if caught) to make
+        it back to his wife and son. Relentlessly pursued by ruthless truant
+        officer, Carl Marzack, who feels he must prove he can still 'get his
+        man' by returning Macon to jail at any cost.</image:caption
+      >
+      <image:title>Eddie Macon's Run</image:title>
+    </image:image>
+  </url>
+</urlset>

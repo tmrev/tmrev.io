@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/406478-Día de los muertos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/406478-Día de los muertos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mODXm37pqmMYmGRzHlssBY6WYxc.jpg</image:loc
+      >
+      <image:caption
+        >A little girl gets taken to the land of the dead, where she learns the
+        true meaning of the Mexican holiday, Dia de los Muertos</image:caption
+      >
+      <image:title>Día de los muertos</image:title>
+    </image:image>
+  </url>
+</urlset>

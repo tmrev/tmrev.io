@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418927-Discreet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418927-Discreet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u64zo6uaxexc0gaQcS3nwDQar7L.jpg</image:loc
+      >
+      <image:caption
+        >After years in hiding and struggling to control his demons, an
+        eccentric drifter returns home and discovers that his childhood abuser,
+        the center of his pain, is still alive.</image:caption
+      >
+      <image:title>Discreet</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/753937-8ight After</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/753937-8ight After</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nwrcxcYgXPYHLgqqmNfDxzM6y2I.jpg</image:loc
+      >
+      <image:caption
+        >After discovering a secret box in the wall of her house, a demonic
+        presence begins terrorizing a YouTuber, at 8 after 1:00am every
+        night.</image:caption
+      >
+      <image:title>8ight After</image:title>
+    </image:image>
+  </url>
+</urlset>

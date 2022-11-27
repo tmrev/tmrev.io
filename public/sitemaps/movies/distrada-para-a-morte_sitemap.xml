@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/714830-Distraída para a Morte</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/714830-Distraída para a Morte</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7MIcEvZJcPgKDtfJTwOSvoWVGtb.jpg</image:loc
+      >
+      <image:caption
+        >Three black teenagers walk around town. The two boys laugh at their own
+        racist jokes while the girl watches them in silence.</image:caption
+      >
+      <image:title>Distraída para a Morte</image:title>
+    </image:image>
+  </url>
+</urlset>

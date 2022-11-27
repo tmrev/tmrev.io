@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/331946-Dead in the Room</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/331946-Dead in the Room</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >At a screenwriters' pitch event, a vengeful writer turns the tables on
+        an arrogant studio executive, ordering him at gunpoint to pitch a good
+        story or die. As the clock ticks down, the exec gets a lesson in
+        truthfulness and storytelling, but will he learn in time to save
+        himself?</image:caption
+      >
+      <image:title>Dead in the Room</image:title>
+    </image:image>
+  </url>
+</urlset>

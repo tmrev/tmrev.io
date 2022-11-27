@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35963-Dragon Trap</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35963-Dragon Trap</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kPTc2z6heTf6HPYLksz3jRPjOoj.jpg</image:loc
+      >
+      <image:caption
+        >When a serial killer goes after former convicted pedophiles, it is up
+        to Police Commissioner Abbas and his Chief Celal to stop the
+        killings.</image:caption
+      >
+      <image:title>Dragon Trap</image:title>
+    </image:image>
+  </url>
+</urlset>

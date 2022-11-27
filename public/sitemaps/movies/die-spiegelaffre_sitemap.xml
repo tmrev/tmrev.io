@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/267198-Die Spiegel-Affäre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/267198-Die Spiegel-Affäre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vvcP9RrhXrNo3zUCW0R32hyppyH.jpg</image:loc
+      >
+      <image:caption
+        >Under the slogan of the arms race of the superpowers, which escalates
+        in the Cuban Missile Crisis in 1962 and brings the world to the brink of
+        nuclear war, two exemplary post-war male figures challenge an almost
+        archaic feud: Defense Minister Franz Josef Strauss and journalist Rudolf
+        Augstein.</image:caption
+      >
+      <image:title>Die Spiegel-Affäre</image:title>
+    </image:image>
+  </url>
+</urlset>

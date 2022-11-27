@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/315832-Dirtbags</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/315832-Dirtbags</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3GgIBFl0jcF4uuEY67tT9LdUkMW.jpg</image:loc
+      >
+      <image:caption
+        >Testing the boundaries of political-incorrectness, the story focuses on
+        characters who never have attained anything through honorable means.
+        They prefer to use lying, cheating, stealing, or brute force. Take, for
+        instance, the pharmacy student who uses his skils to make date-rape
+        drugs, and he sells these concoctions in order to pay tuition. While
+        each "dirtbag" has his own plotline, all become obstacles to the main
+        character - a dirtbag who is at the crossroads of change. Will he find
+        redemption or destruction?</image:caption
+      >
+      <image:title>Dirtbags</image:title>
+    </image:image>
+  </url>
+</urlset>

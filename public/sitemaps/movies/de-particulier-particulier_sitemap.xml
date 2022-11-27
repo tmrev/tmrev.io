@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80326-De particulier à particulier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80326-De particulier à particulier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vU7Rqjb5UWSSOwIHRrIitSC9zVJ.jpg</image:loc
+      >
+      <image:caption
+        >After 10 years and two children together, Philippe and Marion, finally
+        decide to take a honeymoon Holiday in Venice. At the train station, a
+        abandoned bag filled with money will bring them to a different journey.
+        A journey of doubt where reality never quite lies where it seems,
+        leading from separation to reconciliation.</image:caption
+      >
+      <image:title>De particulier à particulier</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/329160-Drawers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/329160-Drawers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9bOD5u2bCVa7LaTtJxuUJwQUoGN.jpg</image:loc
+      >
+      <image:caption
+        >Deniz ends up in hospital and has to face the ghosts of past. She
+        manages to discover herself and the hidden secrets in her family
+        drawers.</image:caption
+      >
+      <image:title>Drawers</image:title>
+    </image:image>
+  </url>
+</urlset>

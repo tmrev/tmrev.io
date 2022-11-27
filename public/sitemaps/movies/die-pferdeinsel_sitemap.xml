@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/66463-Die Pferdeinsel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/66463-Die Pferdeinsel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pOp2ByTkCk091q7vNLANvhLOSFs.jpg</image:loc
+      >
+      <image:caption
+        >Katja Steinfurth tries hard to reconcile her love relationship with her
+        married boss and her obligations as a single mother - not always with
+        success. When Tibor, the favorite horse of her son Lukas, behaves
+        strangely aggressive after an accident and is to be euthanized, the
+        horse whisperer Nils Peterson seems to be the last salvation. So Katja
+        sets off with Lukas and Tibor on the way to the "horse island". And in
+        the seclusion of the small picturesque island, the young woman gradually
+        realizes that something has to change in her life.</image:caption
+      >
+      <image:title>Die Pferdeinsel</image:title>
+    </image:image>
+  </url>
+</urlset>

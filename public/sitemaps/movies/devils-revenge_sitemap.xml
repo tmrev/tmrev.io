@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/635737-Devil's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/635737-Devil's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/40ILf3yIPAl0JeVHA3iIOtlDTEu.jpg</image:loc
+      >
+      <image:caption
+        >John Brock is a down-on-his-luck archaeologist who returns from an
+        expedition to the caves of rural Kentucky after unsuccessfully trying to
+        locate a mysterious relic that his family has sought for generations.
+        Upon his return, John starts to see dream-like visions of a ferocious
+        bird-like creature from ancient folklore. John soon learns that the cave
+        he came into contact with on his last expedition was indeed the cave
+        that contains the relic and also a portal to Hell and a place of worship
+        for the Occult. John discovers that the only way to stop the
+        increasingly realistic visions is to go back to the cave with his
+        family, find the relic once and for all, and destroy it.</image:caption
+      >
+      <image:title>Devil's Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/737058-5th Borough</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/737058-5th Borough</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mJEi7JytOpsMn9d6RQVx97uOer1.jpg</image:loc
+      >
+      <image:caption
+        >When a cash-strapped man learns his daughter has a brain tumor, he
+        turns to his old Staten Island buddies to get back into their “family
+        business.”</image:caption
+      >
+      <image:title>5th Borough</image:title>
+    </image:image>
+  </url>
+</urlset>

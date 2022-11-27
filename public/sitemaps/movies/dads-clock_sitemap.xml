@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/731264-Dad's Clock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/731264-Dad's Clock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A moving ode to his dying father, Dik Jarman seeks and finds resolution
+        to the strained relationship they shared by examining his father's love
+        of clocks—overcoming in the end the specter of his long-lost
+        brother.</image:caption
+      >
+      <image:title>Dad's Clock</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567590-Diner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567590-Diner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l6q01LCdUQApKZjfdJANBAEjfLl.jpg</image:loc
+      >
+      <image:caption
+        >A former murderer and genius chef along with a waitress come together
+        with a group of fantastical assassins in a diner. A girl with a
+        hollowness in her heart, who believes that she belongs nowhere, is
+        thrust into a series of attacks where she must struggle to find her will
+        to live.</image:caption
+      >
+      <image:title>Diner</image:title>
+    </image:image>
+  </url>
+</urlset>

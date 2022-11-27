@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/319203-Dream Cruise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/319203-Dream Cruise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kdNPspTH55BBWx43m7KnccZ6Wsj.jpg</image:loc
+      >
+      <image:caption
+        >Absolutely terrified of the sea, an American lawyer reluctantly goes on
+        an ocean cruise to be near the wife of a client, with no idea of the
+        grim situation that awaits them all.</image:caption
+      >
+      <image:title>Dream Cruise</image:title>
+    </image:image>
+  </url>
+</urlset>

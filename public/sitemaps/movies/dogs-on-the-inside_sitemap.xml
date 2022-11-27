@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320447-Dogs on the Inside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320447-Dogs on the Inside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v21AsA75eo4HLW123Bll2nZw30A.jpg</image:loc
+      >
+      <image:caption
+        >Dogs on the Inside follows the relationships between abused stray dogs
+        and prison inmates working towards a second chance at a better life. In
+        an attempt to re-build their confidence and prepare for a new life
+        outside, these prisoners must first learn to handle and care for a group
+        of neglected strays. This heart-warming story reconfirms the timeless
+        connection between man and dog and shows the resiliency of a dogs' trust
+        and the generosity of the human spirit in the unlikeliest of
+        places.</image:caption
+      >
+      <image:title>Dogs on the Inside</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/552836-Dark, Deadly & Dreadful</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/552836-Dark, Deadly & Dreadful</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c242rw5Oi1DNLaugnrtTUaMywpT.jpg</image:loc
+      >
+      <image:caption
+        >Fun Size Horror Presents "Dark, Deadly & Dreadful", an anthology of
+        short films from Fun Size Horror's community of filmmakers. Each film
+        explores different themes in the horror genre all from the unique
+        perspective of its creator. Featuring work from a diverse group of
+        filmmakers, shorts include submissions to Fun Size Horror, world
+        premiers, and festival winners.</image:caption
+      >
+      <image:title>Dark, Deadly & Dreadful</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82533-Damsels in Distress</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82533-Damsels in Distress</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jlfQBSZCzNRXlslQtaWW93NtCwq.jpg</image:loc
+      >
+      <image:caption
+        >A trio of beautiful girls set out to revolutionize life at a grungy
+        American university: the dynamic leader Violet Wister, principled Rose
+        and sexy Heather. They welcome transfer student Lily into their group
+        which seeks to help severely depressed students with a program of good
+        hygiene and musical dance numbers.</image:caption
+      >
+      <image:title>Damsels in Distress</image:title>
+    </image:image>
+  </url>
+</urlset>

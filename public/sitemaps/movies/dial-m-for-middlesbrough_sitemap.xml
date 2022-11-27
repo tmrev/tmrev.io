@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/655366-Dial M for Middlesbrough</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/655366-Dial M for Middlesbrough</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ATUBaAK9c6YBqruLnf8ycodYGz.jpg</image:loc
+      >
+      <image:caption
+        >Terry and Gemma are forced to take refuge in a sinister and dilapidated
+        caravan park after their coach breaks down. During the unplanned stay,
+        visitors and residents begin to be bumped off one by one under grizzly
+        circumstances.</image:caption
+      >
+      <image:title>Dial M for Middlesbrough</image:title>
+    </image:image>
+  </url>
+</urlset>

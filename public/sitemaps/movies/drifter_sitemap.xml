@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/423246-Drifter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/423246-Drifter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qs7qNuWBmsyaJD0eP1MHZA3G9hq.jpg</image:loc
+      >
+      <image:caption
+        >A pair of outlaw brothers seek temporary refuge in a desolate town
+        inhabited by a small family of psychotic cannibalistic
+        lunatics</image:caption
+      >
+      <image:title>Drifter</image:title>
+    </image:image>
+  </url>
+</urlset>

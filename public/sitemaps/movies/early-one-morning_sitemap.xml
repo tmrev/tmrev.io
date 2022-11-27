@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89705-Early One Morning</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89705-Early One Morning</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cv448bkJZmcMP07K9WcgX4Ujr9Q.jpg</image:loc
+      >
+      <image:caption
+        >Monday morning. Paul Wertret, 50, heads off to his job as a manager at
+        the International Credit and Trade Bank. He arrives at 8 o'clock on the
+        dot, as usual. He enters a meeting room, takes out a gun and kills two
+        of his bosses. Then he locks himself in his office. As he waits for the
+        inevitable police assault, this ordinary man looks back over his life
+        and the events that led him to commit such an act.</image:caption
+      >
+      <image:title>Early One Morning</image:title>
+    </image:image>
+  </url>
+</urlset>

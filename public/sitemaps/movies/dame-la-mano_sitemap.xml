@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/630352-Dame la mano</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/630352-Dame la mano</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x2Fs9tXddRSx6sOEI64rpqwFeuv.jpg</image:loc
+      >
+      <image:caption
+        >Every Sunday night, a small New York restaurant turns into a piece of
+        Cuba. The tables are set aside to give way to a dance floor, which
+        welcomes the immense fervor of Cuban exiles through the
+        rumba.</image:caption
+      >
+      <image:title>Dame la mano</image:title>
+    </image:image>
+  </url>
+</urlset>

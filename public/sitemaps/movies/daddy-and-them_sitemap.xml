@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33557-Daddy and Them</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33557-Daddy and Them</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/geAYH9ptv0CDEn4hQhJonsE6Iuc.jpg</image:loc
+      >
+      <image:caption
+        >Ruby and her husband Claude are a working-class couple who live in
+        suburban Arkansas. As crazy as they are for each other, their
+        relationship is far from harmonious. (The lack of money doesn't help
+        matters, either.) In fact, their whole family is fraught with unresolved
+        conflicts. Then Claude's uncle is arrested on a felony charge, and
+        everyone rallies round. Ruby's mother Jewel and flirtatious sister Rose
+        (Claude's ex-girlfriend) even fly in from Tennessee; but, far from being
+        a source of support, Jewel seems only to want to break up Ruby and
+        Claude.</image:caption
+      >
+      <image:title>Daddy and Them</image:title>
+    </image:image>
+  </url>
+</urlset>

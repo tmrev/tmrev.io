@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190246-Dead Man's Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190246-Dead Man's Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Born from a passion for the golden age of slasher films, "Dead Man's
+        Lake" is a story drawn from the brain of Bloody creator Ben Franklin,
+        who takes Directing duties for the first time. Armed with a script from
+        Joel Morgan, the team set about creating an 80's period horror that
+        would capture the spirit of that era whilst giving it a unique Bloody
+        Cuts killer twist.</image:caption
+      >
+      <image:title>Dead Man's Lake</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68637-Ducoboo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68637-Ducoboo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y3oAeNkThiarXvICtl5A3FGQN3N.jpg</image:loc
+      >
+      <image:caption
+        >Ducoboo is a very inventive dunce and joker, he is very resourceful at
+        finding new ways to copy from his neighbor, to cheat or to defy the
+        teacher's authority.</image:caption
+      >
+      <image:title>Ducoboo</image:title>
+    </image:image>
+  </url>
+</urlset>

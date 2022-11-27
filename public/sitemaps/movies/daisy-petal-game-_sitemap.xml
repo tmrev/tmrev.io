@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1020828-Daisy Petal Game 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1020828-Daisy Petal Game 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vWxaAOlSf8RFU9MsRSYVXTV4Lg0.jpg</image:loc
+      >
+      <image:caption
+        >A three-film cassette, "Daisy Petal Game 2" looks at three different
+        lifetimes where a person is forced to make decisions that will affect
+        the rest of their lives. Such moments come as suddenly and dramatically
+        as the first falling in love. How to deal with these crises in youth,
+        early middle age and golden years?</image:caption
+      >
+      <image:title>Daisy Petal Game 2</image:title>
+    </image:image>
+  </url>
+</urlset>

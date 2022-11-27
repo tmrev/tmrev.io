@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/820080-Days in the Mountains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/820080-Days in the Mountains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ok5a3WNvwp7A9S1NjL0NOeaTvLF.jpg</image:loc
+      >
+      <image:caption
+        >Deng and his family live in a remote village deep in the Daba mountains
+        of China’s Sichuan province. From 1968 to 1999, Luo visited this village
+        to meet Deng and his friends, and was welcomed by the whole village. We
+        see scenes of roadwork undertaken by the whole village, a traditional
+        marriage ceremony and the innocent, smiling faces of the local children.
+        This film evokes Luo’s paintings while often gently describing the
+        villagers’ daily lives as they unfold against the backdrop of the four
+        seasons.</image:caption
+      >
+      <image:title>Days in the Mountains</image:title>
+    </image:image>
+  </url>
+</urlset>

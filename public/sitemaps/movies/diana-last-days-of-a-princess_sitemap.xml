@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/170206-Diana: Last Days of a Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/170206-Diana: Last Days of a Princess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n1rKhijj4JNDHdQYguFtrbSqcb6.jpg</image:loc
+      >
+      <image:caption
+        >A film about the last weeks of the life of one of the most famous women
+        of the twentieth century - Diana, Princess of Wales. The sudden and
+        tragic death of Diana in August 1997 shocked the world as much as the
+        assassination of President Kennedy. The tragedy, which occurred August
+        31, 1997 from the beginning was surrounded by many conflicting rumors
+        and the most improbable assumptions.</image:caption
+      >
+      <image:title>Diana: Last Days of a Princess</image:title>
+    </image:image>
+  </url>
+</urlset>

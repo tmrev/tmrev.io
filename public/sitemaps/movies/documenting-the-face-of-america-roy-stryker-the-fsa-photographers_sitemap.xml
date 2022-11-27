@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/549340-Documenting the Face of America: Roy
+      Stryker & the FSA Photographers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/549340-Documenting the Face of America: Roy
+      Stryker & the FSA Photographers</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vJKEgoPRWUp7ldX7mcx4btyZpds.jpg</image:loc
+      >
+      <image:caption
+        >A short television documentary detailing Roy Stryker and his group of
+        photographers who created a portfolio of iconic images of the Great
+        Depression</image:caption
+      >
+      <image:title
+        >Documenting the Face of America: Roy Stryker & the FSA
+        Photographers</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

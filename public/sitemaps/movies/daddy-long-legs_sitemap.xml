@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33218-Daddy Long Legs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33218-Daddy Long Legs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Tt12RPDJP4KnepYsJ4hrEQS7El.jpg</image:loc
+      >
+      <image:caption
+        >Wealthy American, Jervis Pendleton has a chance encounter at a French
+        orphanage with a cheerful 18-year-old residen, and anonymously pays for
+        her education at a New England college. She writes letters to her
+        mysterious benefactor regularly, but he never writes back. Several years
+        later, he visits her at school, while still concealing his identity,
+        and—despite their large age difference—they soon fall in
+        love.</image:caption
+      >
+      <image:title>Daddy Long Legs</image:title>
+    </image:image>
+  </url>
+</urlset>

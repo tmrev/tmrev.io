@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474627-Drácula Barcelona</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474627-Drácula Barcelona</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sQRHbxI5jJaAZwdaveV3vNWRoKb.jpg</image:loc
+      >
+      <image:caption
+        >In 1969, Jesús Franco and Christopher Lee shot Count Dracula in
+        Barcelona. At the same time, Pere Portabella became aware of this
+        filming, vampirizing it in Cuadecuc, Vampir. Genre and Art-house films
+        had never been so close. Drácula Barcelona tells the story of these two
+        movies.</image:caption
+      >
+      <image:title>Drácula Barcelona</image:title>
+    </image:image>
+  </url>
+</urlset>

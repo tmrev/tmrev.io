@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/135858-Dungeons & Dragons: The Book of Vile
+      Darkness</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/135858-Dungeons & Dragons: The Book of Vile
+      Darkness</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yzbtaa8rNZ7p6IJH0Co4xW98MC1.jpg</image:loc
+      >
+      <image:caption
+        >A noble warrior must battle dragons and demons while upholding his
+        moral code as he covertly joins a group of villains to rescue his
+        kidnapped father from Shathrax, the Mind Flayer, who threatens to
+        destroy the world.</image:caption
+      >
+      <image:title>Dungeons & Dragons: The Book of Vile Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

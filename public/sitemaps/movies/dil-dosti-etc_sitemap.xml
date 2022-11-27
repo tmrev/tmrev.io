@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20454-Dil Dosti Etc</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20454-Dil Dosti Etc</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/di3iuiLqI65bASCGROm3khgc0Ui.jpg</image:loc
+      >
+      <image:caption
+        >Two college boys from diverse backgrounds believe that since time is on
+        their side, anything is possible. Consequently, their arrogance leads
+        them to challenge each other to prove their efficiencies.</image:caption
+      >
+      <image:title>Dil Dosti Etc</image:title>
+    </image:image>
+  </url>
+</urlset>

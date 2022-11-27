@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/114155-Effie Gray</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/114155-Effie Gray</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg</image:loc
+      >
+      <image:caption
+        >A look at the mysterious relationship between Victorian art critic John
+        Ruskin and his teenage bride Effie Gray.</image:caption
+      >
+      <image:title>Effie Gray</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370638-Daniel in the Lions' Den</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370638-Daniel in the Lions' Den</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wbA2QqOz9lv3YtTRUcPkmKOCtmK.jpg</image:loc
+      >
+      <image:caption
+        >Obstinate Daniel’s grumpiness is evident. He really doesn’t want to
+        accompany his mother to an oncology conference. However, an unexpected
+        meeting makes it an interesting weekend after all. Shot on grainy film
+        stock, with camera work as uncompromising as Daniel is.</image:caption
+      >
+      <image:title>Daniel in the Lions' Den</image:title>
+    </image:image>
+  </url>
+</urlset>

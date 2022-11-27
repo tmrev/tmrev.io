@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80802-Devadasu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80802-Devadasu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rP357SY1HMZhrBwm3Kdjt7goq6.jpg</image:loc
+      >
+      <image:caption
+        >Devadas (Ram) is the typical poor student, while Bhanumati (Ileana) is
+        a rich NRI girl whose father is the senator of New York. They fall in
+        love when the girl comes to India to learn classical Carnatic music.
+        Coming to know about their love, Bhanu’s father Katamraju (Sayaji
+        Shinde) hatches a plan to separate them. He promises to get them married
+        but he takes her daughter, and her grand mother back to the USA. The
+        rest of the story is how the street-smart lover boy makes it to the USA
+        and succeeds in attaining his girl.</image:caption
+      >
+      <image:title>Devadasu</image:title>
+    </image:image>
+  </url>
+</urlset>

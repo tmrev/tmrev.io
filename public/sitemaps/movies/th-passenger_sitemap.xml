@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/352548-5th Passenger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/352548-5th Passenger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f8hfZCD2fSsz6LE6FA5uk5mMv11.jpg</image:loc
+      >
+      <image:caption
+        >Set in the aftermath of an oppressive class war, a pregnant officer
+        aboard an escape pod must struggle to survive with her remaining crew
+        when a mysterious and vicious life form attacks, determined to become
+        the dominant species.</image:caption
+      >
+      <image:title>5th Passenger</image:title>
+    </image:image>
+  </url>
+</urlset>

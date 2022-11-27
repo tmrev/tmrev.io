@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43124-Ecstasy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43124-Ecstasy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nwCNnXnw0iYsMdWqp4qyGrzHTh0.jpg</image:loc
+      >
+      <image:caption
+        >Eva has just gotten married to an older gentleman, but discovers that
+        he is obsessed with order in his life and doesn't have much room for
+        passion. She becomes despondent and leaves him, returning to her
+        father's house. One day while bathing in the lake, she meets a young man
+        and they fall in love. The husband has become grief stricken at the loss
+        of his young bride, and fate brings him together with the young lover
+        that has taken Eva from him.</image:caption
+      >
+      <image:title>Ecstasy</image:title>
+    </image:image>
+  </url>
+</urlset>

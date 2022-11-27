@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/548612-Dors mon lapin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/548612-Dors mon lapin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6tATB0Dl7KfxV0a0RMGvhc7mbtR.jpg</image:loc
+      >
+      <image:caption
+        >It's the story of a young married man name Lionel who is swamped by
+        colossal debts and whose wife is soon to give birth. At his wits' end,
+        he decides one day to commit an irreparable act and kidnaps his
+        millionnaire neighbors' 1-year-old baby. He demands a small ransom of
+        €60,000. But Lionel is no criminal and all his attempts at exchanging
+        his hostage for money fail. Meanwhile, he becomes increasingly attached
+        to the baby. When he at last manages to get the money, he must come to
+        terms with releasing his hostage.</image:caption
+      >
+      <image:title>Dors mon lapin</image:title>
+    </image:image>
+  </url>
+</urlset>

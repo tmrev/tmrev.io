@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/391302-Devil's Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/391302-Devil's Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2XZU1J9mYEGoxVGf4s1ISm6pUzg.jpg</image:loc
+      >
+      <image:caption
+        >A surgeon from Buenos Aires, wearied by personal problems and the
+        endless cycle of work, leaves for a week's skiing vacation in the south.
+        Instead, on impulse, he follows a young hitchhiker to a small fishing
+        village, Devil's Point, in the north, on the coast of Uruguay. He makes
+        fleeting acquaintance with some of the villagers, and learns that "the
+        only thing to do in winter is to wait for summer".</image:caption
+      >
+      <image:title>Devil's Point</image:title>
+    </image:image>
+  </url>
+</urlset>

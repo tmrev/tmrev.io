@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309798-Das Haus ihres Vaters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309798-Das Haus ihres Vaters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8wc9lDZf9DNbSaPiwAQs2J85Fbm.jpg</image:loc
+      >
+      <image:caption
+        >The happily married judge Susanne has been carrying a secret with her
+        for many years. As a 17-year-old, she released her baby for adoption.
+        But a letter now confronts them with the past: Paolo, the Italian father
+        of her girl, has died and has inherited his house in Tuscany to the
+        unknown daughter. Despite better knowledge, Susanne sets out in search
+        of her lost daughter - endangering the happiness of two
+        families.</image:caption
+      >
+      <image:title>Das Haus ihres Vaters</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382261-Double Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382261-Double Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9xTUSLHgvbdKzCJ4HhAgQX8mfVm.jpg</image:loc
+      >
+      <image:caption
+        >Tama is a graduate student. She lives with her boyfriend Takuya. She
+        becomes influenced by lectures about French writer Sophie Calle and
+        begins to follow her neighbor Ishizaka. Tama soon discovers that her
+        neighbor Ishizaka is having an affair. She becomes excited about
+        discovering his secret. Her relationship with her boyfriend Takuya and
+        her professor Shinohara changes.</image:caption
+      >
+      <image:title>Double Life</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/739556-Daughters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/739556-Daughters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hGpxJMkXl8PxA5HTYhJkqLnxNQb.jpg</image:loc
+      >
+      <image:caption
+        >Two women are flat-mates and friends in Tokyo. One is an event manager
+        and the other works in the world of fashion marketing. The result shows
+        that one is pregnant one day. The woman decides to give birth out of
+        wedlock. It is a major decision, which is the harbinger of not just a
+        change in their lives, but also their relationship.</image:caption
+      >
+      <image:title>Daughters</image:title>
+    </image:image>
+  </url>
+</urlset>

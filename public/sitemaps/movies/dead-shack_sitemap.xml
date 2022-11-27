@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/449535-Dead Shack</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/449535-Dead Shack</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rKqYBB6ysJW4DQqUwM1DaCIxDM5.jpg</image:loc
+      >
+      <image:caption
+        >On a weekend getaway at a rundown cabin in the woods, Jason, a cautious
+        teen, his crude best friend Colin and his fearless older sister Summer
+        are forced to work together, grow up and save their hard-partying
+        parents from their predatory neighbor intent on feeding them all to her
+        undead family.</image:caption
+      >
+      <image:title>Dead Shack</image:title>
+    </image:image>
+  </url>
+</urlset>

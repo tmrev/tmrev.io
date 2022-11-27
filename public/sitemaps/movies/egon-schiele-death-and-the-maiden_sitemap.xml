@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416574-Egon Schiele: Death and the Maiden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416574-Egon Schiele: Death and the Maiden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lRG0Y9im6hblgJrnwup6SY3r1Pr.jpg</image:loc
+      >
+      <image:caption
+        >Vienna, Austria, 1910. The young painter Egon Schiele is a rising
+        artist, provocative and free, whose work, characterized by eroticism,
+        shocks as much as it fascinates art lovers.</image:caption
+      >
+      <image:title>Egon Schiele: Death and the Maiden</image:title>
+    </image:image>
+  </url>
+</urlset>

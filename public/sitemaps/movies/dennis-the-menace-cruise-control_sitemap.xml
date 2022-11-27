@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/138015-Dennis the Menace: Cruise Control</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/138015-Dennis the Menace: Cruise Control</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ylHTi1MNLf5V8nUHQFRt7rQLene.jpg</image:loc
+      >
+      <image:caption
+        >While on the cruise ship Dennis, Joey, Margaret, and Ruff find a
+        princess who is being hypnotized, meanwhile two crooks are after the
+        ring the princess wears.</image:caption
+      >
+      <image:title>Dennis the Menace: Cruise Control</image:title>
+    </image:image>
+  </url>
+</urlset>

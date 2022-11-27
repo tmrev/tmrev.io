@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/999653-Dumpster</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/999653-Dumpster</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tGWCR7khSkvAqKIJRfM0arDKDhz.jpg</image:loc
+      >
+      <image:caption
+        >Dumpster tells the story of what happens when Jim, a janitor on the
+        campus of an elite university, discovers Francis, a wealthy frat boy,
+        hiding in a mobile garbage bin. Jim wrestles with adult responsibilities
+        at home with his girlfriend and her child, while Francis struggles to
+        overcome his roommate's suicide, getting 'dumped' by his girlfriend, and
+        outgrowing the fraternity scene. Their late-night meetings at the
+        Dumpster allow them to shed their labels and uniforms and find out how
+        the other half lives, while discovering some good stuff in the
+        dumpster.</image:caption
+      >
+      <image:title>Dumpster</image:title>
+    </image:image>
+  </url>
+</urlset>

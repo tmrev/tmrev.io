@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83420-Do You See Seoul?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83420-Do You See Seoul?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5fd4Vx8GEcSnbIXdeLcM0Xh8GjV.jpg</image:loc
+      >
+      <image:caption
+        >In 1976 on a remote island, schoolteacher Eun-young wants to take her
+        students on a field trip to a cookie factory in Seoul. Even though the
+        parents don't like the idea, Eun-young succeeds in taking them. But once
+        they arrive in the complicated city, students become fascinated with
+        high-tech bicycles and get lost.</image:caption
+      >
+      <image:title>Do You See Seoul?</image:title>
+    </image:image>
+  </url>
+</urlset>

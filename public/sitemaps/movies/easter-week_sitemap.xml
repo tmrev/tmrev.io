@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/967322-Easter Week</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/967322-Easter Week</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fyh4XWJMSRr5KhUpd6I6jfdWJyV.jpg</image:loc
+      >
+      <image:caption
+        >"A video work that stands between conceptual art and documentary. My
+        grandmother tells the story of my father’s death, 25 years ago, while my
+        hands become the lens that holds my mother’s life today." - Juana
+        Awad</image:caption
+      >
+      <image:title>Easter Week</image:title>
+    </image:image>
+  </url>
+</urlset>

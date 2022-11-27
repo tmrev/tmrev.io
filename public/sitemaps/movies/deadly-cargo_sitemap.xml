@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35942-Deadly Cargo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35942-Deadly Cargo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ovZ6TJFILGe1mC2TFFpn8PG96oQ.jpg</image:loc
+      >
+      <image:caption
+        >Journalist Sara joins timid Victor and pregnant wife Thais, instructors
+        Ivan and Edgar, and local kid Drui in Senegal for some underwater
+        exploration. When their craft blows up following a misfired bullet, they
+        float around in the water for a while before seeing a ship. Their
+        initial relief turns to horror as they see a man being tipped into the
+        water from it but the ship is the group's only option. Hiding on board,
+        things start to unravel for them in a horrific way.</image:caption
+      >
+      <image:title>Deadly Cargo</image:title>
+    </image:image>
+  </url>
+</urlset>

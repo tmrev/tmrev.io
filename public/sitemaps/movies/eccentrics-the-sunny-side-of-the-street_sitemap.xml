@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/391835-Eccentrics, the Sunny Side of the
+      Street</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/391835-Eccentrics, the Sunny Side of the
+      Street</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/stBDWN5g9I4IAHXEoflqsY0yt4d.jpg</image:loc
+      >
+      <image:caption></image:caption>
+      <image:title>Eccentrics, the Sunny Side of the Street</image:title>
+    </image:image>
+  </url>
+</urlset>

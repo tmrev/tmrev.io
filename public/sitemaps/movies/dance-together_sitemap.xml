@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/663013-Dance Together</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/663013-Dance Together</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iqj5q7nBEq5fciYqD1lkTC7y3BE.jpg</image:loc
+      >
+      <image:caption
+        >Dance Together follows two teen girls brought together by a passionate
+        need to express themselves. Holly, an injured dancer, and Alex, a shy
+        girl who is Deaf, have a chance meeting that sparks a creative
+        partnership. Alex introduces Holly to American Sign Language poetry and
+        helps her gain the confidence to stand up to her bullies, while Holly
+        helps Alex add a dancer's flair to her poetry routine that just might
+        put her group over the top. Dance Together features original and
+        licensed songs along with stunning choreography.</image:caption
+      >
+      <image:title>Dance Together</image:title>
+    </image:image>
+  </url>
+</urlset>

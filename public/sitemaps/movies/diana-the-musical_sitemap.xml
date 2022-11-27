@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/732305-Diana: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/732305-Diana: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kpMTlCDyDJptBQg935Q9LzaB9j8.jpg</image:loc
+      >
+      <image:caption
+        >A princess is thrust onto the world stage. The tabloid media is
+        captivated by her beauty and vulnerability. The globe's most celebrated
+        monarchy is disrupted. This is the story of the most princess woman of
+        the modern age as she struggles to endure a spotlight brighter than any
+        the world had ever known.</image:caption
+      >
+      <image:title>Diana: The Musical</image:title>
+    </image:image>
+  </url>
+</urlset>

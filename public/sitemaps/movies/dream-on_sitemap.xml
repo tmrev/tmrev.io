@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/203310-Dream On</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/203310-Dream On</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v6ANZNfop5GyTCNv0CpdHjCzlJU.jpg</image:loc
+      >
+      <image:caption
+        >The course of true love does not run smoothly for two young lads at
+        Norman's Cozy campsite on the Welsh coast in the mid 80s. Two English
+        holiday-makers, Paul, an innocent northerner from Rochdale, and George,
+        a jack the lad, nervy young man from London meet up. Paul has come on
+        holiday with his domineering mum Denise and her attempts to control him,
+        though comic, throw him further into thrall with George. Both teenagers
+        dream of escape but their dreams go through many ups and downs in the
+        course of 'Dream On'. Based on the play by Lloyd
+        Eyre-Morgan.</image:caption
+      >
+      <image:title>Dream On</image:title>
+    </image:image>
+  </url>
+</urlset>

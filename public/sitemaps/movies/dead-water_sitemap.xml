@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/618433-Dead Water</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/618433-Dead Water</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/333UycccGJRndunuFXRhQnkIyij.jpg</image:loc
+      >
+      <image:caption
+        >When a relaxing getaway turns deadly, a former Marine must risk his
+        life once again to save his wife and best friend from a modern day
+        pirate; all the while trying to hold himself together as he faces the
+        ghosts of the war he left behind.</image:caption
+      >
+      <image:title>Dead Water</image:title>
+    </image:image>
+  </url>
+</urlset>

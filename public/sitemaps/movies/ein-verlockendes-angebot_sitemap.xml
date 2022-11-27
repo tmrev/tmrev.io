@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/170235-Ein verlockendes Angebot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/170235-Ein verlockendes Angebot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hUwR4pro0b3V2XdB41EzljHda6E.jpg</image:loc
+      >
+      <image:caption
+        >Tim Trageser's TV drama focuses on a couple whose love passes through a
+        crisis when they start a weekend relationship. Jan and Maria are a young
+        and happy couple, living in the country with their little daughter. When
+        Maria gets the tempting offer to work as chef in a refined Berlin
+        restaurant, Jan confirms her intention to accept. However, they estrange
+        more and more from each other after a short while... Written by
+        fippi2000</image:caption
+      >
+      <image:title>Ein verlockendes Angebot</image:title>
+    </image:image>
+  </url>
+</urlset>

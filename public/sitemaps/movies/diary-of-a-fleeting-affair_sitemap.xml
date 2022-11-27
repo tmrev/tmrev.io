@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/794842-Diary of a Fleeting Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/794842-Diary of a Fleeting Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/88uAoJXhS6iqFBjVxhJXl5ZjyAD.jpg</image:loc
+      >
+      <image:caption
+        >A single mother and a married man enter into an affair with the
+        understanding that their relationship is purely sexual. Though they
+        agree the relationship has no future, they find themselves increasingly
+        drawn into each other's company.</image:caption
+      >
+      <image:title>Diary of a Fleeting Affair</image:title>
+    </image:image>
+  </url>
+</urlset>

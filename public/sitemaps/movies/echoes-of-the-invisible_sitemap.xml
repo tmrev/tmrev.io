@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/682742-Echoes of the Invisible</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/682742-Echoes of the Invisible</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8QLCRfxR4RLpgLLa9xEwmYtAxKq.jpg</image:loc
+      >
+      <image:caption
+        >Echoes of the Invisible interweaves a mosaic of profound quests: a
+        blind man running alone from the lowest point in the western hemisphere
+        to the highest mountain peak in the U.S.; artist Rachel Sussman’s
+        struggles to photograph the oldest continuously living things on Earth;
+        journalist Paul Salopek’s 21,000-mile walk retracing the migration route
+        through which our ancestors first discovered the planet; astronomers and
+        physicists attempting to see into the furthest depths of time; and monks
+        probing the most extreme environment of all - the human heart. They
+        discover, in their own way, something that transcends all that divides
+        us in a world lost in the speed and noise of the digital
+        age.</image:caption
+      >
+      <image:title>Echoes of the Invisible</image:title>
+    </image:image>
+  </url>
+</urlset>

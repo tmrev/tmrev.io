@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/513865-Don't Call Me Spinster</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/513865-Don't Call Me Spinster</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vPXfVqa27Y2eVGHponsGmGiXjH1.jpg</image:loc
+      >
+      <image:caption
+        >After an unexpected breakup throws 35-year-old Patricia for a loop,
+        it's up to her gal pals to show her single life is not all doom and
+        gloom.</image:caption
+      >
+      <image:title>Don't Call Me Spinster</image:title>
+    </image:image>
+  </url>
+</urlset>

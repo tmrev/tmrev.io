@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320003-Diary of a Chambermaid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320003-Diary of a Chambermaid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/imQp5gncyqgwWygmD4lWDmBrBIw.jpg</image:loc
+      >
+      <image:caption
+        >France, around 1900. Coming from the vibrancy of Paris, pert Célestine
+        is procured as a chambermaid in Normandy. In the Lanlaire's villa she
+        encounters the lecherous man of the house and his asexual, tyrannical
+        and jealous wife. Célestine is determined to avoid the fate suffered by
+        the cook Marianne who has already secretly killed one child born out of
+        wedlock and now despairingly realises she is pregnant again. The lively
+        maid is intrigued by what the mysterious manservant Joseph is up to: he
+        distributes anti-Semitic leaflets and suggests that she could work for
+        him as a prostitute in Cherbourg…</image:caption
+      >
+      <image:title>Diary of a Chambermaid</image:title>
+    </image:image>
+  </url>
+</urlset>

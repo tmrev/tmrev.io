@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/630904-Easter Island Unsolved</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/630904-Easter Island Unsolved</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fysk9TmLuHVmX39nu7oIa17g65o.jpg</image:loc
+      >
+      <image:caption
+        >Easter Island is one of the most isolated inhabited islands on Earth,
+        and a riddle. What happened to the Rapa Nui who populated this ancient
+        Eden? They carved giant statues, the moai, and created a culture of
+        cooperation. Then something failed. Modern explorers investigate
+        labyrinthine cave systems, finding grim clues. Now another sad fate may
+        be in the island’s future – total disappearance.</image:caption
+      >
+      <image:title>Easter Island Unsolved</image:title>
+    </image:image>
+  </url>
+</urlset>

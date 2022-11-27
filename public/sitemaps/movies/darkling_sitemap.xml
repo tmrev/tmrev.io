@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/734081-Darkling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/734081-Darkling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hunQPPCIuzc7SuoMQIM2g2GwTlo.jpg</image:loc
+      >
+      <image:caption
+        >The film deals with the metaphor of fear, but hidden everyday formless
+        news about the life of the Serbian population in Kosovo. The film is
+        inspired by a letter from a girl from Kosovo, dedicated to her missing
+        father, read at the United Nations, in which she publicly addresses the
+        difficult life of Serbs, especially Serb children in the
+        enclaves.</image:caption
+      >
+      <image:title>Darkling</image:title>
+    </image:image>
+  </url>
+</urlset>

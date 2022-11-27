@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298872-Dollah Superstar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298872-Dollah Superstar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fcd7PbbLZ3ImgXEZWPIP98onwSO.jpg</image:loc
+      >
+      <image:caption
+        >A veteran gangster, Dollah who always dreamt of becoming an actor gets
+        the chance of a lifetime when a popular actor asks him to become his
+        mentor for an action movie. A gangster at a shooting set, Dollah surely
+        causes all sorts of chaos.</image:caption
+      >
+      <image:title>Dollah Superstar</image:title>
+    </image:image>
+  </url>
+</urlset>

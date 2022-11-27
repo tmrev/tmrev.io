@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268871-Echoes in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268871-Echoes in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ecIdypbXspz7jqP9Xeb1WKSjMe6.jpg</image:loc
+      >
+      <image:caption
+        >A young woman in the middle of an economical crisis, a little girl who
+        is facing a new environment and a loyal dog that will work as a link
+        between both, will have to spend two nights in an old big house that is
+        falling into pieces. Sounds at night and shadows accompanied with
+        threatening echoes emerging from darkness are constant in the house.
+        Will they be able to undergo the situation and solve the enigma that
+        surrounds the presence that still rounds the house?</image:caption
+      >
+      <image:title>Echoes in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

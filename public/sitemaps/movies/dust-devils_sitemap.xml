@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37589-Dust Devils</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37589-Dust Devils</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A beautifully done video of Burning Man 2001, 2002 &amp; 2003. Lots of
+        people interviews, Center Cafe activity and extensive coverage of artist
+        David Best and the Temple construction and burn. This documentary
+        captures the swirling columns of dust that were created during the
+        intense heat of the 2002 Temple burn.</image:caption
+      >
+      <image:title>Dust Devils</image:title>
+    </image:image>
+  </url>
+</urlset>

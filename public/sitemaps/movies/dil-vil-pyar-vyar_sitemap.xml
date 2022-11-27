@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214066-Dil Vil Pyar Vyar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214066-Dil Vil Pyar Vyar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ILAz8MMSpFAaHH94u7hEWQgaNj.jpg</image:loc
+      >
+      <image:caption
+        >Three friends, who have known each other for a long time, decide to
+        enter a singing and musical competition. The events that lead to this
+        competition, and their personal lives, including their romantic ties, is
+        the theme of this movie. Included are popular Burman Movie songs, a
+        delight to hear any time.</image:caption
+      >
+      <image:title>Dil Vil Pyar Vyar</image:title>
+    </image:image>
+  </url>
+</urlset>

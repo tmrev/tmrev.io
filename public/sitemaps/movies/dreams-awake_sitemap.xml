@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80898-Dreams Awake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80898-Dreams Awake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >While on vacation a disconnected family gets stranded near mystical Mt.
+        Shasta and gets more than they could have ever bargained for. A family
+        drama grows into a spiritual mystery, and finally becomes a mystical
+        adventure. A glimpse into the subtle but intense possibilities of the
+        human spirit, this story delves into that magical lore between reality
+        and illusions, dreams and awake, and life and
+        immortality.</image:caption
+      >
+      <image:title>Dreams Awake</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484936-Cyborgs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484936-Cyborgs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xa0xgL5ykFThoJRVE91W2EYWKoa.jpg</image:loc
+      >
+      <image:caption
+        >‘The Cyborgs’ is re-telling the recent history of Ukraine – the
+        legendary fight for Donetsk Airport in 2014 during Russian invasion. The
+        freedom fighters from various divisions of Ukrainian army and volunteer
+        battalions took a 242-days stand against the Russian backed militants
+        until the complete destruction of the airport’s terminal.</image:caption
+      >
+      <image:title>Cyborgs</image:title>
+    </image:image>
+  </url>
+</urlset>

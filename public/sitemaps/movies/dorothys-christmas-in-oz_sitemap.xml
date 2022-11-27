@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/658188-Dorothy's Christmas in Oz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/658188-Dorothy's Christmas in Oz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lzxKYLh4yzhkhH7FqqdrPBc3rmM.jpg</image:loc
+      >
+      <image:caption
+        >Dorothy introduces Oz to Christmas and of course Oz adds a few
+        traditions of it's own. Santa comes to deliver holiday cheer and
+        presents to all. The Wicked Witch has kidnapped Santa in an attempt to
+        steal his magic.</image:caption
+      >
+      <image:title>Dorothy's Christmas in Oz</image:title>
+    </image:image>
+  </url>
+</urlset>

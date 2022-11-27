@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/629679-Details</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/629679-Details</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c6Fwt6WpU4eDdeYdJsUvzMrdsDZ.jpg</image:loc
+      >
+      <image:caption
+        >Amelia falls in love with Dan, but she is fighting to escape a past
+        that threatens to repeat itself. Can Amelia’s new relationship survive
+        the hidden details?</image:caption
+      >
+      <image:title>Details</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/178408-Dark Feed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/178408-Dark Feed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cB40BIccWbCHTMlmX3st6XanOFJ.jpg</image:loc
+      >
+      <image:caption
+        >When a film crew moves into an abandoned psychiatric hospital with a
+        shadowy past to shoot a low budget horror film, they get more than they
+        bargained for. The late nights and lack of sleep begin to take a toll,
+        and the longer this crew works, the more the leaky, wet building seems
+        to be coming back to life, feeding off its new inhabitants. As the shoot
+        wears on, members of the crew exhibit increasingly strange behavior
+        leaving those still sane realizing they need to get out of this place
+        before they too succumb to the building's infectious hold, the only
+        problem, the old hospital is not ready to let them go.</image:caption
+      >
+      <image:title>Dark Feed</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/27100-Eban and Charley</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/27100-Eban and Charley</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4jvVDWA0wHudVA6TH4rmnfigCnN.jpg</image:loc
+      >
+      <image:caption
+        >29-year-old Eban has retreated home to his parent's house in Seaside
+        Oregon after the dissolution of his teaching job in Seattle. There he
+        courts 15-year-old Charlie and eventually the two start a sexual
+        relationship. As the age of consent in Oregon is 18 years and given the
+        age difference, the adults in this drama take a dim view of this
+        development.</image:caption
+      >
+      <image:title>Eban and Charley</image:title>
+    </image:image>
+  </url>
+</urlset>

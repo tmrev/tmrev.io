@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159064-Drawing First Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159064-Drawing First Blood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j3Ibkc4gycBEW2xFkiM1GJw1zm0.jpg</image:loc
+      >
+      <image:caption
+        >Twenty years later, the cast and crew of 'First Blood' look back on the
+        making of the first Rambo film.</image:caption
+      >
+      <image:title>Drawing First Blood</image:title>
+    </image:image>
+  </url>
+</urlset>

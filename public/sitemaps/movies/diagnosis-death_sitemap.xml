@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21187-Diagnosis: Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21187-Diagnosis: Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/729vzfGusiO6PPUwVDX7QeuktBl.jpg</image:loc
+      >
+      <image:caption
+        >Two people meet as guinea pigs in a weekend drug trial. They soon
+        discover their lives are in more danger than they imagined. The staff
+        are peculiar. The drugs cause hallucinations. Or is the clinic really
+        haunted? Struggling with their senses, they must team up to unravel a
+        spooky mystery.</image:caption
+      >
+      <image:title>Diagnosis: Death</image:title>
+    </image:image>
+  </url>
+</urlset>

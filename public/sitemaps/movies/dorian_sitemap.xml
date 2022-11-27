@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60490-Dorian</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60490-Dorian</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3EbR5gXWkdxTRwezJGnQlDnHciZ.jpg</image:loc
+      >
+      <image:caption
+        >While temporarily working in a photographic studio with the famous
+        photographer Bae, the simple and handsome worker Louis meets her manager
+        Henry, who is impressed with his beauty. He invites Louis for taking
+        some pictures, gives the artistic name of Dorian to him as a homage to
+        "Dorian Gray" and a framed picture of him. Louis wishes to have the same
+        fate of Dorian Gray, and from this moment on, he becomes very successful
+        in the career of model. As years go by, he notes that only his picture
+        ages, and he has the same face of years ago.</image:caption
+      >
+      <image:title>Dorian</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/986838-Dreams of a Clown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/986838-Dreams of a Clown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9EnOiHrEIabj5o0P2f5XUlzwTXH.jpg</image:loc
+      >
+      <image:caption
+        >Rolling between villages and towns in rural Ireland for nine months of
+        the year, Circus GERBOLA becomes a place outside the ordinary
+        world.</image:caption
+      >
+      <image:title>Dreams of a Clown</image:title>
+    </image:image>
+  </url>
+</urlset>

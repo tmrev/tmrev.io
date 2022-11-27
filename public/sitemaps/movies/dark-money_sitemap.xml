@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490780-Dark Money</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490780-Dark Money</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tXXq3iBWIs9X1LWSCGLoDGbYNHO.jpg</image:loc
+      >
+      <image:caption
+        >'Dark money' contributions, made possible by the U.S. Supreme Court's
+        Citizens United ruling, flood modern American elections — but Montana is
+        showing Washington D.C. how to solve the problem of unlimited anonymous
+        money in politics.</image:caption
+      >
+      <image:title>Dark Money</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/217761-Didda & the dead cat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/217761-Didda & the dead cat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ePvF7LTxgAXGS62tc9mImIUhZx.jpg</image:loc
+      >
+      <image:caption
+        >Through a series of mishaps Didda loses her need for glasses, and gains
+        the power of superhuman vision. A power that comes to good use when
+        Didda starts trying to find the men who kidnapped her brother and his
+        friend.</image:caption
+      >
+      <image:title>Didda & the dead cat</image:title>
+    </image:image>
+  </url>
+</urlset>

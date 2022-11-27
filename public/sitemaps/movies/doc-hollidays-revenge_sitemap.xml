@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272724-Doc Holliday's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272724-Doc Holliday's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lFN8h6gO3jMZikAErVVuPBcBrcu.jpg</image:loc
+      >
+      <image:caption
+        >In 1882, Joseph and Elizabeth Cooley head West to reunite with family
+        she never knew. But when she, Joseph, and her older brother, Millard,
+        are stranded in a logging camp just outside Tucson a wounded Indian
+        stumbles into their camp and they must defend him against Doc Holliday,
+        his would-be killer. Elizabeth considers Doc a stone-cold killer -- but
+        may find, during the course of their tense stand-off, that this courtly,
+        ailing man has a surprisingly well-honed sense of justice,
+        frontier-style...</image:caption
+      >
+      <image:title>Doc Holliday's Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

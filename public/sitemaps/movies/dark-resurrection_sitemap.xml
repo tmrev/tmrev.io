@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24551-Dark Resurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24551-Dark Resurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/voyuEfN4KRUF5s7pX3b1AK6Qmfc.jpg</image:loc
+      >
+      <image:caption
+        >An ancient prophesy convinces the powerful Master Sorran to commence an
+        obsessive search for Eron, a mythical place capable of giving the Chosen
+        One infinite knowledge.</image:caption
+      >
+      <image:title>Dark Resurrection</image:title>
+    </image:image>
+  </url>
+</urlset>

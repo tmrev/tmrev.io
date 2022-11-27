@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17323-Didine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17323-Didine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yU40xRFslRB8bBQEo6nJMKVxlUv.jpg</image:loc
+      >
+      <image:caption
+        >Alexandrine, 35, who everyone nicknames Didine, peacefully goes with
+        the flow, the opposite of her best friend Muriel. In this way, she one
+        day crosses the threshold of a elderly person caregivers’ agency where,
+        faced with an extrovert teenager, a charming man, and a cruel, elderly
+        woman, she takes hold of her existence and encounters
+        love.</image:caption
+      >
+      <image:title>Didine</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35827-Dinosaurs Alive</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35827-Dinosaurs Alive</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m9Kd6n8psJYY078ZwLDYTZDndNN.jpg</image:loc
+      >
+      <image:caption
+        >See the earliest creatures of the Triassic Period to the monsters of
+        the Cretaceous in a ‘life-sized’ IMAX ® presentation. Join renowned
+        paleontologists as they discover new fossils and uncover evidence that
+        dinosaur descendants are still among us. Realistic and
+        scientifically-accurate computer generated animation brings dinosaurs
+        back to life…in a big way!</image:caption
+      >
+      <image:title>Dinosaurs Alive</image:title>
+    </image:image>
+  </url>
+</urlset>

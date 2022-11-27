@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/358311-Dark Stories 3: Tales from the Grave</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/358311-Dark Stories 3: Tales from the Grave</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Compilation of six short films from New Zealand: Dream Makers I'm So
+        Lonesome I Could Cry Dirty Creature Time Is a Spider Lovelock A Woman's
+        Heart</image:caption
+      >
+      <image:title>Dark Stories 3: Tales from the Grave</image:title>
+    </image:image>
+  </url>
+</urlset>

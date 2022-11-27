@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29922-13th Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29922-13th Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zxz59McXHqdqjqlyvky6DTtpJDn.jpg</image:loc
+      >
+      <image:caption
+        >People are being killed by someone or something using superhuman
+        strength. A clever DA Assistant is sent to investigate. Is this just a
+        way to commit the perfect murder or will the legend of the Jersey Devil
+        prove to be true?</image:caption
+      >
+      <image:title>13th Child</image:title>
+    </image:image>
+  </url>
+</urlset>

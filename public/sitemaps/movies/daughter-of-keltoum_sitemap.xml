@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50957-Daughter of Keltoum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50957-Daughter of Keltoum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tMC6aoGYwbc2kUJtITUQYmWbcGt.jpg</image:loc
+      >
+      <image:caption
+        >A 19 year-old Swiss woman travels to her birthplace—an isolated, barren
+        Berber settlement in the mountainous desert landscape of Algeria—to find
+        her biological mother, whom she has never met. The perilous journey
+        immerses her in a world virtually untouched by contemporary society, one
+        that still clings to tribal mores and strict religious codes of
+        conduct.</image:caption
+      >
+      <image:title>Daughter of Keltoum</image:title>
+    </image:image>
+  </url>
+</urlset>

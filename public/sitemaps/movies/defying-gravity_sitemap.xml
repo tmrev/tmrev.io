@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/176247-Defying Gravity</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/176247-Defying Gravity</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Cassandra, a mute runaway girl, takes refuge in the cemetery in which
+        her mother is laid to rest. She is watched over by Jorge, the cemetery
+        caretaker, an illegal alien who is committed to the restoration of a
+        classic '60 cadillac hearse. Shore is a dynamic, handsome, and brilliant
+        young man who also happens to be homeless. After almost hitting
+        Cassandra in his dilapidated VW bus, he becomes fascinated by the gothic
+        cemetery waif and attempts to befriend her. A sequence of events results
+        in Cass getting lost. Jorge and Shore flee the cemetery in a stolen
+        hearse to find Cassandra before her abusive step-father does. All paths
+        lead to Yermo - the site of a roadside diner and a feisty but
+        compassionate transvestite waitress named Lola.</image:caption
+      >
+      <image:title>Defying Gravity</image:title>
+    </image:image>
+  </url>
+</urlset>

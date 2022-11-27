@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/797987-Diversions</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/797987-Diversions</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uG5BZaVQSFsM4qMto7jFw6cQMOu.jpg</image:loc
+      >
+      <image:caption
+        >The 20th Century begins. Carefree people roam from one attraction to
+        another, laughing, renting boats and carriages, betting, smoking,
+        playing with sand, changing clothes, flirting. As they circle around
+        seashores, parks and streets, they look for more diversions. They are
+        seeking for the ways to distract themselves from the fact that the war
+        is about to start, that the summer is coming to an end, that they are
+        long dead.</image:caption
+      >
+      <image:title>Diversions</image:title>
+    </image:image>
+  </url>
+</urlset>

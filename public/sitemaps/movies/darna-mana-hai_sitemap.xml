@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/74481-Darna Mana Hai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/74481-Darna Mana Hai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aoI022wesHyrQJJKu4mH0bcXuCD.jpg</image:loc
+      >
+      <image:caption
+        >Stranded in an abandoned building, six friends relate scary stories
+        while a crazed killer lurks in the forest.</image:caption
+      >
+      <image:title>Darna Mana Hai</image:title>
+    </image:image>
+  </url>
+</urlset>

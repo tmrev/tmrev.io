@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97788-Dust of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97788-Dust of Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Since 1975 millions of Vietnamese boat people have fled for freedom. By
+        1993 more than half who survived the exodus resided in California. The
+        film portrays the coming of age story of abandoned kids growing up in
+        the new Vietnamese enclave of Orange County, California in the early
+        1990s, based on true events.</image:caption
+      >
+      <image:title>Dust of Life</image:title>
+    </image:image>
+  </url>
+</urlset>

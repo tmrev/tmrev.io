@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/320295-Detective Byomkesh Bakshy!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/320295-Detective Byomkesh Bakshy!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg</image:loc
+      >
+      <image:caption
+        >Byomkesh, fresh out of college, agrees to investigate the disappearance
+        of Bhuvan, a chemist. Assisted by Bhuvan's son Ajit, Byomkesh links the
+        case to a larger conspiracy that will unsettle Calcutta.</image:caption
+      >
+      <image:title>Detective Byomkesh Bakshy!</image:title>
+    </image:image>
+  </url>
+</urlset>

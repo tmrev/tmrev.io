@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/115692-Ee Adutha Kaalathu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/115692-Ee Adutha Kaalathu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yOF7UKy6o9YU5yozKDQgvupXjsE.jpg</image:loc
+      >
+      <image:caption
+        >The movie features the lives of six different persons from different
+        strata of the social life of the city, interconnected due to unexpected
+        events beyond their control. The narrative is patterned like a Rubik's
+        Cube; it's a brainy entertainer that mixes various
+        genres.</image:caption
+      >
+      <image:title>Ee Adutha Kaalathu</image:title>
+    </image:image>
+  </url>
+</urlset>

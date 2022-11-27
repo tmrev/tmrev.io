@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/232157-Dorothy and the Wizard of Oz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/232157-Dorothy and the Wizard of Oz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iz6x1ZZgPd2McChzvuXaqCBYX2V.jpg</image:loc
+      >
+      <image:caption
+        >Orphaned from an early age and taken in by her aunt Em, Dorothy suffers
+        from the absence of her parents. One morning, a cyclone hits his village
+        and Dorothy has no time to take refuge in the family shelter. The
+        cyclone takes it with the house to a faraway land, an unreal world
+        populated by extraordinary characters. As soon as she arrives, she has
+        only one idea in mind, to go home to find her aunt. How do I do that? No
+        one has the power to help her get home. No one except perhaps a strange
+        and fantastic character who has lived for years in the Emerald City, the
+        Wizard of Oz.</image:caption
+      >
+      <image:title>Dorothy and the Wizard of Oz</image:title>
+    </image:image>
+  </url>
+</urlset>

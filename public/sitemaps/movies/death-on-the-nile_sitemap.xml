@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505026-Death on the Nile</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505026-Death on the Nile</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg</image:loc
+      >
+      <image:caption
+        >Belgian sleuth Hercule Poirot boards a glamorous river steamer with
+        enough champagne to fill the Nile. But his Egyptian vacation turns into
+        a thrilling search for a murderer when a picture-perfect couple’s
+        idyllic honeymoon is tragically cut short.</image:caption
+      >
+      <image:title>Death on the Nile</image:title>
+    </image:image>
+  </url>
+</urlset>

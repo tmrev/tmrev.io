@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/672128-Dia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/672128-Dia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n038AswpNaZgIWfMEr5cxVAqcsB.jpg</image:loc
+      >
+      <image:caption
+        >Dia tells the story of a young, introvert girl whose routine life
+        brightens up when she falls for Rohith, one of her fellow college mates.
+        Being an introvert girl and trying to express her love becomes the
+        biggest challenge of her life. This romantic drama will make you lose
+        yourself in the emotional journey of a girl falling in
+        love.</image:caption
+      >
+      <image:title>Dia</image:title>
+    </image:image>
+  </url>
+</urlset>

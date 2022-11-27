@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330993-Disciples</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330993-Disciples</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3VWvGcdFIF3Ycowxf0NW8pr4de2.jpg</image:loc
+      >
+      <image:caption
+        >A dark twisted apocalyptic shocker about a group of humans and demons
+        who must band together to fight for the fate of humanity. When an
+        ancient prophecy unleashes an evil spirit, hell is brought upon the
+        world.</image:caption
+      >
+      <image:title>Disciples</image:title>
+    </image:image>
+  </url>
+</urlset>

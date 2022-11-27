@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913822-Descendant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913822-Descendant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sHd1OBpWLxSN5UPSJrjwYeT4PPZ.jpg</image:loc
+      >
+      <image:caption
+        >History exists beyond what is written. The Africatown residents in
+        Mobile, Alabama, have shared stories about their origins for
+        generations. Their community was founded by enslaved ancestors who were
+        transported in 1860 aboard the last known and illegal slave ship,
+        Clotilda. Though the ship was intentionally destroyed upon arrival, its
+        memory and legacy weren’t. Now, the long-awaited discovery of the
+        Clotilda’s remains offers this community a tangible link to their
+        ancestors and validation of a history so many tried to
+        bury.</image:caption
+      >
+      <image:title>Descendant</image:title>
+    </image:image>
+  </url>
+</urlset>

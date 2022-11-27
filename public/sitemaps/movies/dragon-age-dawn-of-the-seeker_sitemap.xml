@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/103173-Dragon Age: Dawn of the Seeker</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/103173-Dragon Age: Dawn of the Seeker</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6R4gnQZp8MSaljsR8dl9R4ARByo.jpg</image:loc
+      >
+      <image:caption
+        >In the land of Orlais, a brash young Seeker—Cassandra—fights to stop a
+        blood-soaked conspiracy. Hidden hands seek to tear apart the realm's
+        most powerful religious order, and as the sinister plot unfolds,
+        Cassandra is accused of treason and murder. Hunted by friend and foe
+        alike, the impulsive beauty must clear her name while clashing with
+        corrupt templars and rogue blood mages. Should she fail, the
+        executioner’s blade awaits. Should she overcome her rage and expose the
+        unseen forces threatening the rule of the Divine, Cassandra will take
+        her place in legend.</image:caption
+      >
+      <image:title>Dragon Age: Dawn of the Seeker</image:title>
+    </image:image>
+  </url>
+</urlset>

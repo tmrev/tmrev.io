@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278551-Dancing Karate Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278551-Dancing Karate Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lvCIswpip51ghccZyBjdOJMti9E.jpg</image:loc
+      >
+      <image:caption
+        >In pursuit of his love of extreme dance, Ken (Joey Beni) wanders the
+        globe and makes his to Okinawa, Japan. There, Ken meets Iwao Shinjo
+        (Masahiro Aragaki) who is a master of the Ryukyu Classical Dance. Ken
+        learns the steps for Ryukyu Classical Dance, which itself secretly holds
+        the techniques for Ryukyu Karate.</image:caption
+      >
+      <image:title>Dancing Karate Kid</image:title>
+    </image:image>
+  </url>
+</urlset>

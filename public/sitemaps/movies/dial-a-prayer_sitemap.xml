@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328448-Dial a Prayer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328448-Dial a Prayer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/33f4s4gVTwo4dSlXOXlkJELTOqy.jpg</image:loc
+      >
+      <image:caption
+        >A troubled young woman working at a prayer call center makes a
+        difference in other people's lives, forcing her to reconcile with her
+        troubled past with the faith she brings out in others.</image:caption
+      >
+      <image:title>Dial a Prayer</image:title>
+    </image:image>
+  </url>
+</urlset>

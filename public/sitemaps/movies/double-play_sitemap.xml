@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429003-Double Play</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429003-Double Play</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7RMfyhYv0EQbH5xd9KIyAtW3UHt.jpg</image:loc
+      >
+      <image:caption
+        >Double Play is about anolder man named Ostrik who returns to Curaçao
+        and his childhood after many years abroad. Ostrik reminisces about 1973
+        and the events surrounding a game his father played which had major
+        consequences for Ostrik’s youth. The dramatic poverty and colourful
+        landscapes provide the background for the leads who represent Curaçao’s
+        melting pot: a story of pride and humiliation, money and love, ambition
+        and hope.</image:caption
+      >
+      <image:title>Double Play</image:title>
+    </image:image>
+  </url>
+</urlset>

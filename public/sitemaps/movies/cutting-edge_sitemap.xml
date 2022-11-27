@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444541-Cutting Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444541-Cutting Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This one-hour verité documentary shows a day in the life of a
+        successful barbershop on Harlem's 125th Street. The film shows the vital
+        role community barbershops play as a forum for black men to discuss any
+        topic, whether controversial or banal, sacred or profane, political or
+        personal, in an environment of heated debate and/or male fellowship.
+        Topics discussed in the film include HIV/AIDS, infidelity, gay marriage,
+        greedy preachers, Bill Clinton, the world's sexiest actresses, and more.
+        Though in some ways this is a quintessential black barbershop, where
+        macho attitudes often prevail, women do play a role in the shop's
+        conversations, and with the increasing gentrification of the area, a
+        number of diverse clients (including a white gay man) occasionally enter
+        the mix.</image:caption
+      >
+      <image:title>Cutting Edge</image:title>
+    </image:image>
+  </url>
+</urlset>

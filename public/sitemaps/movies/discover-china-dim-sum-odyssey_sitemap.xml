@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308025-Discover China - Dim Sum Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308025-Discover China - Dim Sum Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Learn about the history and preparation of China's renowned dish, dim
+        sum, with this delicious documentary. Consisting of a variety of tasty
+        morsels, dim sum typically includes mixtures of meat, seafood and
+        vegetables or of sweets and fruit. A gourmet trip through Hong Kong
+        samples more than 600 types of dim sum and explores the origin and
+        creation of prawn dumplings, spring rolls, barbeque pork buns and other
+        treats.</image:caption
+      >
+      <image:title>Discover China - Dim Sum Odyssey</image:title>
+    </image:image>
+  </url>
+</urlset>

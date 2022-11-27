@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60035-Dreams on Spec</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60035-Dreams on Spec</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/johlrpc4sFzTWGLt2jdgIm8h3UA.jpg</image:loc
+      >
+      <image:caption
+        >"Dreams on Spec" takes an intimate look at how far people will go - and
+        how much they will sacrifice - for the chance to pursue their dreams.
+        This feature-length documentary delves into the lives of three aspiring
+        Hollywood screenwriters as they pour their hearts into their spec
+        scripts, pitch their ideas to anyone who will listen, go to meetings,
+        hold table reads, and work at low-level day-jobs - all in the hopes of
+        one day seeing one of their beloved creations made into a movie. These
+        poignant portraits are intercut with wisdom from a "Greek Chorus" of
+        superstar Hollywood creative-types like James L. Brooks, Nora Ephron,
+        Gary Ross, and Carrie Fisher to forge a funny and compelling look at
+        inspiration, creativity, and solitude in the movie
+        industry.</image:caption
+      >
+      <image:title>Dreams on Spec</image:title>
+    </image:image>
+  </url>
+</urlset>

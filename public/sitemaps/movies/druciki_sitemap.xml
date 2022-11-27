@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/957959-Druciki</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/957959-Druciki</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Two friends spend a lot of time together, walking and talking. One of
+        them - Magda - meets aliens, can stop or speed up time, is extremely
+        irritating and annoys outsiders. In her free time, she looks for a job
+        at MPK, looks after her grandmother, helps her mother and experiences
+        adventures with strange individuals.</image:caption
+      >
+      <image:title>Druciki</image:title>
+    </image:image>
+  </url>
+</urlset>

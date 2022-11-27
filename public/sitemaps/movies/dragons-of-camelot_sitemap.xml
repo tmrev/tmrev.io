@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/303141-Dragons of Camelot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/303141-Dragons of Camelot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4BZiPsbRaRx4bS2mfQexKySzPC3.jpg</image:loc
+      >
+      <image:caption
+        >The Kingdom of Camelot is plunged into darkness after the death of
+        noble King Arthur, as the reign of his cruel sorceress sister, Morgan Le
+        Fay, begins. Commanding three deadly dragons with her dark magic, she
+        hunts the remaining Knights of the Round Table to the ends of the
+        Earth.</image:caption
+      >
+      <image:title>Dragons of Camelot</image:title>
+    </image:image>
+  </url>
+</urlset>

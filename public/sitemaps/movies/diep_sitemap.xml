@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65109-Diep</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65109-Diep</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bXJtxY85oW2AErfqIs986RMNzVZ.jpg</image:loc
+      >
+      <image:caption
+        >A story about the 14 year old Heleen who makes the transition of child
+        to adult with pain and effort in the wild 70s. While her parents going
+        to divorce she is exploring the world of sex, drugs and love on her
+        own.</image:caption
+      >
+      <image:title>Diep</image:title>
+    </image:image>
+  </url>
+</urlset>

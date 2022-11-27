@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37652-Didier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37652-Didier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aS8gMAIjuxCroSd8ldl9NN0NioK.jpg</image:loc
+      >
+      <image:caption
+        >Jean-Pierre Costa is a football manager upon whom fate appears not to
+        be smiling. First, a friend, Annabelle, dumps a pet Labrador named
+        Didier on him whilst she goes off to make a report in Los Angeles. Next,
+        one of his star players is injured, leaving him one player short for a
+        crucial match. As if things could not get any worse, Costa wakes up one
+        morning to find that that Didier has been transformed into a
+        man...</image:caption
+      >
+      <image:title>Didier</image:title>
+    </image:image>
+  </url>
+</urlset>

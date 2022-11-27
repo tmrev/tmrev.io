@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/339745-Ebar Shabor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/339745-Ebar Shabor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zdcVIudf64Ws2EQzwaS18HMjxmz.jpg</image:loc
+      >
+      <image:caption
+        >Kolkata police detective Shabor Dasgupta sets out to solve the murder
+        case of Mitali Ghosh, a woman with a messy past. Her ex-husband Mithu
+        Mitra, ex-boyfriend Pantu and friend Samiran are the prime suspects and
+        so is her cousin Joyeeta. His investigation reveals a complex web of
+        relationships gone sour that gives almost everyone a good
+        motive.</image:caption
+      >
+      <image:title>Ebar Shabor</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39107-Dragon Ball Z: Fusion Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39107-Dragon Ball Z: Fusion Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg</image:loc
+      >
+      <image:caption
+        >Not paying attention to his job, a young demon allows the evil
+        cleansing machine to overflow and explode, turning the young demon into
+        the infamous monster Janemba. Goku and Vegeta make solo attempts to
+        defeat the monster, but realize their only option is
+        fusion.</image:caption
+      >
+      <image:title>Dragon Ball Z: Fusion Reborn</image:title>
+    </image:image>
+  </url>
+</urlset>

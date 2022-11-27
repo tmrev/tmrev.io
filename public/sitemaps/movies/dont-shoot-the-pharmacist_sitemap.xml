@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273683-Don't Shoot the Pharmacist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273683-Don't Shoot the Pharmacist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Zack Wright, a pharmacist who works the graveyard shift in Brooklyn,
+        alongside Ty Jackman, a blunt, wise-cracking pharmacy tech, would rather
+        be stuck in Vegas as a roulette dealer rather than dreaming his nights
+        away at Goodyear Pharmacy on Coney Island Avenue. Several customers
+        patronize the store, varying from idiotic to obnoxious, from beautiful
+        to dangerous, as Zack and Ty go through the motions of another bizarre
+        night.</image:caption
+      >
+      <image:title>Don't Shoot the Pharmacist</image:title>
+    </image:image>
+  </url>
+</urlset>

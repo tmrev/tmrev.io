@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466526-Delete Beach</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466526-Delete Beach</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y3spQy3xLTYgfnaAc2YoeFNC3Pd.jpg</image:loc
+      >
+      <image:caption
+        >Delete Beach is a futuristic tale set in the near future, in which a
+        schoolgirl joins an anti-capitalist resistance group in a society in
+        which carbon-based energy is illegal. Made in collaboration with Studio
+        4°C, one of Japan’s leading animation studios.</image:caption
+      >
+      <image:title>Delete Beach</image:title>
+    </image:image>
+  </url>
+</urlset>

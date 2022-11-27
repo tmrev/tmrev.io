@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/570055-Devils Are Dreaming</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/570055-Devils Are Dreaming</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Joseph Avedon is a thirty-something loser who dreams of being a great
+        artist, but he has no talent. When forced to confront his failures in
+        art and love, hallucinations and self delusion begin tear apart his
+        wannabe life.</image:caption
+      >
+      <image:title>Devils Are Dreaming</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/405882-Don't Kill It</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/405882-Don't Kill It</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iQey3UeqU4uQzr82GQJ1pZMwe40.jpg</image:loc
+      >
+      <image:caption
+        >Demon hunter, Jebediah Huntley teams up with an FBI agent to battle a
+        supernatural force in the southern state of Mississippi.</image:caption
+      >
+      <image:title>Don't Kill It</image:title>
+    </image:image>
+  </url>
+</urlset>

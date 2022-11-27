@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29297-Destination Inner Space</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29297-Destination Inner Space</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zPsRnJ98ouFhmsBiAWbiWfqgJVC.jpg</image:loc
+      >
+      <image:caption
+        >A futuristic underwater sea-lab is having problems with a UFO that's
+        parked between them and a nearby deep ocean trench. As they investigate,
+        they attract the unwanted attention of a dangerous creature who puts the
+        scientists and crew in danger.</image:caption
+      >
+      <image:title>Destination Inner Space</image:title>
+    </image:image>
+  </url>
+</urlset>

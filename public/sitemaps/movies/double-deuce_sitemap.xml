@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311903-Double Deuce</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311903-Double Deuce</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1WV10w4Lp7AiA8L5K4F02ZVJjUv.jpg</image:loc
+      >
+      <image:caption
+        >Jalen James Acosta and Glenn Argenti star in this gritty crime thriller
+        as a pair of unlucky gang members who land in hot water after robbing a
+        pawnshop that they later learn belongs to the mob. Now they've got the
+        police and the Mafia on their tail.</image:caption
+      >
+      <image:title>Double Deuce</image:title>
+    </image:image>
+  </url>
+</urlset>

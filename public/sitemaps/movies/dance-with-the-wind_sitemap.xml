@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353552-Dance with the Wind</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353552-Dance with the Wind</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wKuTDI6Imf1JfvKaNus1TSe8Y0l.jpg</image:loc
+      >
+      <image:caption
+        >In a hospital parking lot, Officer Song Yeon-hwa is briefed about Park
+        Pung-shik, an alleged gigolo who preys on rich housewives. One of his
+        latest victims is the police chief's wife, who refuses to testify
+        against him, despite giving him $30,000. Song is told to go undercover
+        as a hospital patient in order to secure evidence leading to his arrest.
+        In the hospital, she finds the mild-mannered Park and talks to him over
+        coffee, where he mentions that he ballroom dances for a living. Song
+        asks him why he came to become a dancer and he starts his
+        story.</image:caption
+      >
+      <image:title>Dance with the Wind</image:title>
+    </image:image>
+  </url>
+</urlset>

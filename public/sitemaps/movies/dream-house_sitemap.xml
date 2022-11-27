@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69668-Dream House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69668-Dream House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uQFbnBEYguc6EWYKG0Hgq4LVdc2.jpg</image:loc
+      >
+      <image:caption
+        >Publisher Will Atenton quits a lucrative job in New York to relocate
+        his wife, Libby, and their daughters to a quaint town in New England.
+        However, as they settle into their home the Atentons discover that a
+        woman and her children were murdered there, and the surviving husband is
+        the town's prime suspect. With help from a neighbor who was close to the
+        murdered family, Will pieces together a horrifying chain of
+        events.</image:caption
+      >
+      <image:title>Dream House</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/701369-Edge of Extinction</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/701369-Edge of Extinction</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nPQwTtppe0nzbFLSAMaqMnL8e4c.jpg</image:loc
+      >
+      <image:caption
+        >15 years after a global apocalypse, mankind is on the verge of
+        extinction. Civilisation no longer exists, food is scarce and most eke
+        out a living by stealing and killing. One boy clings onto life in the
+        desolate British countryside, where staying away from others has been
+        key to his survival. But this self-imposed isolation comes to an abrupt
+        end when he crosses paths with another group of survivors and faces an
+        enemy far more savage than any of them could imagine.</image:caption
+      >
+      <image:title>Edge of Extinction</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/683850-Ed Wood: The Theremin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/683850-Ed Wood: The Theremin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fZx2y8p7XeUggruJATO7uXSNIqf.jpg</image:loc
+      >
+      <image:caption
+        >A conversation with Howard Shore about the music in the film, and how
+        they recorded the Theremin track. There is also demonstration and
+        explanation of how a Theremin works and is played.</image:caption
+      >
+      <image:title>Ed Wood: The Theremin</image:title>
+    </image:image>
+  </url>
+</urlset>

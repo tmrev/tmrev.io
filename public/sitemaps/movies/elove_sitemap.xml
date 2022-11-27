@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/148851-E-love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/148851-E-love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lQ6hw8XF27kjgAmc8mcgx4cKqJv.jpg</image:loc
+      >
+      <image:caption
+        >Paule is pushing 50, as she repeatedly observes in her voice-over
+        commentary. When she – a philosophy lecturer with a 10-year marriage and
+        a 15-year-old daughter – learns that her husband is having an affair
+        with a 28-year-old, this number takes on a special weight. The Internet
+        site “L’âme-sœur” is supposed to help Paule get through her burgeoning
+        midlife crisis...</image:caption
+      >
+      <image:title>E-love</image:title>
+    </image:image>
+  </url>
+</urlset>

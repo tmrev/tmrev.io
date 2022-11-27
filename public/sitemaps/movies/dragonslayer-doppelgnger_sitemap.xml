@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1016854-Dragonslayer Doppelgänger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1016854-Dragonslayer Doppelgänger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o4MUn2Zoj8MMrE4EEF4XM2nsTfD.jpg</image:loc
+      >
+      <image:caption
+        >A man is forced to overcome his inner demons following the loss of his
+        wife at childbirth while trapped in his house during a vicious
+        snowstorm.</image:caption
+      >
+      <image:title>Dragonslayer Doppelgänger</image:title>
+    </image:image>
+  </url>
+</urlset>

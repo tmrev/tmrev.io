@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/544001-5th Wheel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/544001-5th Wheel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mMdFwtN3nP3yWx0J11Lss3vTe1x.jpg</image:loc
+      >
+      <image:caption
+        >On his 62nd birthday, confirmed lazybones Herbopolus grabs his nest egg
+        and buys himself a new trailer, a fine 5th Wheel. Now all he has to do
+        is sit back and wait for the Social Security checks to start rolling in.
+        In the meantime, his insane brother Bananas Foster escapes from the
+        Catalina Mental Institution and, looking for a place to hole up, gets
+        Herbopolus to let him stay in his swanky new digs. So does their dad, a
+        sex change octogenarian who's lesbian lover has kicked him out of the
+        house. When the government fails to come through, they resort to
+        collecting and recycling aluminum cans to make ends meet.</image:caption
+      >
+      <image:title>5th Wheel</image:title>
+    </image:image>
+  </url>
+</urlset>

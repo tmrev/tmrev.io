@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/572401-Deuxième quinzaine de juillet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/572401-Deuxième quinzaine de juillet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c8y0u7FdCpvLqHNQVEtmBP5ehi7.jpg</image:loc
+      >
+      <image:caption
+        >Felix lives with Monique, an authoritarian woman. He decides his wife
+        to exchange their Blois pavilion for what seems to be paradise: a villa
+        in the south of the Drome. Unfortunately the house stands in the middle
+        of a campsite.</image:caption
+      >
+      <image:title>Deuxième quinzaine de juillet</image:title>
+    </image:image>
+  </url>
+</urlset>

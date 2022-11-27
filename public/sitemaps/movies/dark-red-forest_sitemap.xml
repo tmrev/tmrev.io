@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/819299-Dark Red Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/819299-Dark Red Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nmrwkulTLaazA8VdKr6sBRXvTDG.jpg</image:loc
+      >
+      <image:caption
+        >20.000 Buddhist nuns live in a monastery on a snowy plateau in Tibet,
+        China. Surrounded by harsh nature and secluded from the outside world,
+        these women offer us a glimpse into their religious exploration of
+        life’s biggest questions.</image:caption
+      >
+      <image:title>Dark Red Forest</image:title>
+    </image:image>
+  </url>
+</urlset>

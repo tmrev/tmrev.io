@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/322463-Ein Endspiel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/322463-Ein Endspiel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yrP9swX0GRvxjszhmQnpFhGA73R.jpg</image:loc
+      >
+      <image:caption
+        >For 14 years Johanna and Boris live as a couple. Looking for her
+        purpose in life, Johanna visits a seminar of the alternative community
+        "Center for Inner and Outer Peace". Although she's still in love with
+        her boyfriend, Johanna decides to change her life completely, moving to
+        Switzerland to live in this community. Boris however is not amused.
+        During the world-cup soccer finale, the couple experience its own
+        crucial struggle.</image:caption
+      >
+      <image:title>Ein Endspiel</image:title>
+    </image:image>
+  </url>
+</urlset>

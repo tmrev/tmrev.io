@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/53284-Do Dooni Chaar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/53284-Do Dooni Chaar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/LeCB4YVGeabEEs0iuI4OapKrrX.jpg</image:loc
+      >
+      <image:caption
+        >A middle-class father in India struggles through a series of unexpected
+        events for upholding respect and smiles.</image:caption
+      >
+      <image:title>Do Dooni Chaar</image:title>
+    </image:image>
+  </url>
+</urlset>

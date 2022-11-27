@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/672781-Dream of the Empty City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/672781-Dream of the Empty City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8flKPkWdbIx9JUq8atJpjH5Fs8X.jpg</image:loc
+      >
+      <image:caption
+        >An old man in hospice care tells his life story from beginning to end,
+        of Peking Opera and singer Ma Lianliang, and of the humiliation and
+        desperation of old age. Soon, the border between dreams and memories,
+        reality and mental confusion become indistinct; the old man is slipping
+        away, falling into the depths of his soul. Is it the shadow of death
+        that disturbs his rest? Who is he? What kind of life did he
+        lead?</image:caption
+      >
+      <image:title>Dream of the Empty City</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373541-Dark Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373541-Dark Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5Apiwzd7Q21y4qni3aVfCZ0MxvL.jpg</image:loc
+      >
+      <image:caption
+        >On the heels of a devastating courtroom defeat, James moves his wife
+        and son back to his hometown to begin a new life. From the very first
+        day in their new home, the family experiences strange paranormal events.
+        They seek help from a priest, who discovers that James is hiding the
+        darkest secret of all.</image:caption
+      >
+      <image:title>Dark Awakening</image:title>
+    </image:image>
+  </url>
+</urlset>

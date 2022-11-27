@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76343-Dirty Oil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76343-Dirty Oil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e0l3gPYdLoS9jI7uR2etRhJkVtU.jpg</image:loc
+      >
+      <image:caption
+        >Deep behind-the-scenes into the strip-mined world of Alberta, Canada,
+        where the vast and toxic Tar Sands deposit supplies the U.S. with the
+        majority of its oil. Through the eyes of scientists, 'big oil'
+        officials, politicians, doctors, environmentalists, and aboriginal
+        citizens directly impacted by 'the largest industrial project on the
+        planet today,' the filmmakers journey to both sides of the border to see
+        the emotional and irreversible toll this 'black gold rush' fueled by
+        America's addiction to oil is taking on our planet.</image:caption
+      >
+      <image:title>Dirty Oil</image:title>
+    </image:image>
+  </url>
+</urlset>

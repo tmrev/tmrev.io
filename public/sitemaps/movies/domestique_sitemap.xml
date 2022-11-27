@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/533919-Domestique</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/533919-Domestique</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uEt66FObPKaxm7AYMeRJkRxtt28.jpg</image:loc
+      >
+      <image:caption
+        >Roman is a top level cyclist recovering from an injury through hard
+        work and strict regimen. To improve his performance, he even sleeps in
+        an oxygen tent installed in his bedroom. That is a bitter pill to
+        swallow for his wife, Šarlota, whose long-time wish is to conceive a
+        child. And so they both brim with determination, get lost in their
+        obsessions, and improve their bodies to a point where they might even
+        frighten themselves.</image:caption
+      >
+      <image:title>Domestique</image:title>
+    </image:image>
+  </url>
+</urlset>

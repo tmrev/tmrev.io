@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189817-Dragon Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189817-Dragon Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t0RXkqLUG7wscIhUQmVYu1NYBmq.jpg</image:loc
+      >
+      <image:caption
+        >The documentary film Dragon Girls tells the story of three young
+        Chinese girls training to become Kung Fu fighters, far away from their
+        families, at the largest Kung Fu school in China. These girls, in a
+        crowd of 26,000 children, are under constant pressure to conform to the
+        norms and structures. They are turned into fighting robots and yet, if
+        you look behind the curtain, you see children with dreams and
+        aspirations. It show the controversial world of selection of the fittest
+        in a totalitarian system.</image:caption
+      >
+      <image:title>Dragon Girls</image:title>
+    </image:image>
+  </url>
+</urlset>

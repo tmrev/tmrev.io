@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459056-Dying for Everest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459056-Dying for Everest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1i7IoOPtCJhBeYe4dkYmgfdkhmY.jpg</image:loc
+      >
+      <image:caption
+        >On 15 May, 2006, double amputee Mark Inglis reached the summit of Mt
+        Everest. It was a remarkable achievement and Inglis was feted by press
+        and public alike. But only a few days later he was plunged into a storm
+        of controversy when it was learned that he had passed an incapacitated
+        climber, Englishman David Sharp, leaving him to a lonely end high in the
+        Death Zone.</image:caption
+      >
+      <image:title>Dying for Everest</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49395-Death Kappa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49395-Death Kappa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1N0XIm84Dmi9CXhgJbyxF4DibHr.jpg</image:loc
+      >
+      <image:caption
+        >When military experiments go haywire and trigger an atomic bomb, the
+        consequences are of epic proportions. A monster arrives in the midst of
+        the nuclear fallout, and Japan's defenses are helpless against it.
+        Mankind's only savior is an irradiated water goblin from Japanese
+        folklore called the "Death Kappa." The two rival monsters must go
+        head-to-head in the ultimate battle between good and
+        evil!</image:caption
+      >
+      <image:title>Death Kappa</image:title>
+    </image:image>
+  </url>
+</urlset>

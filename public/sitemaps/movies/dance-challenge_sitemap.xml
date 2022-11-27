@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/163000-Dance Challenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/163000-Dance Challenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/su3De6aEwl4T205MIrgJDOMHT1V.jpg</image:loc
+      >
+      <image:caption
+        >A musical comedy set to a hip-hop beat, the feature debut from
+        actress-turned-director Blanca Li finds a dedicated young breakdancer
+        abandoning his comfortable life in a bid for fame in the U.S.A. Dropping
+        out of school and leaving home to escape his overbearing mother,
+        18-year-old David dedicates all of his time to perfecting his moves with
+        his dance team, the Urban Cycle Breakers. As David and his team begin
+        gearing-up to face-off against a rival group of intimidating dancers,
+        his dreams of finding romance with Samia and making it to the world
+        dance finals in New York finally seem to be coming into
+        focus.</image:caption
+      >
+      <image:title>Dance Challenge</image:title>
+    </image:image>
+  </url>
+</urlset>

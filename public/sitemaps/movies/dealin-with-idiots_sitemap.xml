@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/203534-Dealin' with Idiots</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/203534-Dealin' with Idiots</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2yV3GRdoKDDIaFgHzf6ZOIpBdtB.jpg</image:loc
+      >
+      <image:caption
+        >Faced with the absurd competitiveness surrounding his son's youth
+        league baseball team, Max Morris, a famous comedian, decides to get to
+        know the colorful parents and coaches of the team better in an attempt
+        to find the inspiration for his next movie.</image:caption
+      >
+      <image:title>Dealin' with Idiots</image:title>
+    </image:image>
+  </url>
+</urlset>

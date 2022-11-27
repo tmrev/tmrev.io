@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/569889-Dark Highlands</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/569889-Dark Highlands</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3WXQxkiY5HkxNMbVpyf6XAQ0E3i.jpg</image:loc
+      >
+      <image:caption
+        >A Japanese artist visits the Highlands of Scotland to paint, but
+        becomes the target of a sadistic killer. Alone, suffering from exposure
+        and hunted, he must find a way to survive.</image:caption
+      >
+      <image:title>Dark Highlands</image:title>
+    </image:image>
+  </url>
+</urlset>

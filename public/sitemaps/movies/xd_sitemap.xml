@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/196327-3x3D</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/196327-3x3D</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f82yYeL2Cif5ipMSRjejfQHhyKD.jpg</image:loc
+      >
+      <image:caption
+        >A triptych of short stereoscopic films by Peter Greenaway, Jean-Luc
+        Godard and Edgar Pêra. Includes "The Three Disasters" by Godard,
+        "Cinesapiens" by Pêra and "Just in Time" by Greenaway.</image:caption
+      >
+      <image:title>3x3D</image:title>
+    </image:image>
+  </url>
+</urlset>

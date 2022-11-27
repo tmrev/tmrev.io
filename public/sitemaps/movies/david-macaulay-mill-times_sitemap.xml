@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/562732-David Macaulay: Mill Times</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/562732-David Macaulay: Mill Times</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p2bHD1mvgljpHuLJnI5r6iydOHC.jpg</image:loc
+      >
+      <image:caption
+        >Travel back to late 18th century Lowell, MA, now infamous for its
+        textile mills and its "Lowell Girls," the poor, barely-educated waifs
+        who helped turn those mills into sweatshops.</image:caption
+      >
+      <image:title>David Macaulay: Mill Times</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/310488-Egypt Light of the World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/310488-Egypt Light of the World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Determine for yourself whether the mysteries of ancient Egypt have
+        influenced modern culture in this thought-provoking program, which
+        posits that many elements of the Judeo-Christian belief system were
+        actually derived from Egyptian lore. Was 19th-century researcher Gerald
+        Massey on to something with his theories about Egyptology and
+        Christianity? And how can the similarities between the Egyptian Book of
+        the Dead and the Bible be explained?</image:caption
+      >
+      <image:title>Egypt Light of the World</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/759675-Daddy, Picasso and I</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/759675-Daddy, Picasso and I</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4lmyWc7ZpSxz61exjXMRqaKi6oq.jpg</image:loc
+      >
+      <image:caption
+        >Pablo looks up to his daddy, but when daddy's idol Picasso dies a
+        summers day in 1973, daddy's grief and anger is directed towards the
+        family and Pablo's mum. One day Pablo sees bruises on his mum's arm...
+        but how easy is it to stand up against daddy when you are only 8 years
+        old?</image:caption
+      >
+      <image:title>Daddy, Picasso and I</image:title>
+    </image:image>
+  </url>
+</urlset>

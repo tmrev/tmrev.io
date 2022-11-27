@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/531489-Cutterhead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/531489-Cutterhead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iXNnROR2XrE8ujIv2j27D6MmUKg.jpg</image:loc
+      >
+      <image:caption
+        >Rie is a PR-coordinator visiting a tunnel boring machine to portray the
+        well-oiled European cooperation in the Metro construction when an
+        accident suddenly occurs. Unable to escape, she takes refuge in an
+        airlock with Croatian miner Ivo and Bharan, a worker from
+        Eritrea.</image:caption
+      >
+      <image:title>Cutterhead</image:title>
+    </image:image>
+  </url>
+</urlset>

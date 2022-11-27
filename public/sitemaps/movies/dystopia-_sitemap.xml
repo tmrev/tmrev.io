@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260622-Dystopia: 2013</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260622-Dystopia: 2013</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tHOVrvXqqy6s4cqtgOlKOgVGA0V.jpg</image:loc
+      >
+      <image:caption
+        >A film about the mythical and mysterious cataclysm which befalls
+        mankind on December 21st, 2012 and what happens next. Centered around 4
+        characters, each with a back story of what their life was like before it
+        all came crashing down, the film depicts life for these characters as
+        they struggle for survival and strive to discover the cause of the end
+        of civilization as we presently know it.</image:caption
+      >
+      <image:title>Dystopia: 2013</image:title>
+    </image:image>
+  </url>
+</urlset>

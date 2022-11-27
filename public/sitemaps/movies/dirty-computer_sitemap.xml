@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/517582-Dirty Computer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/517582-Dirty Computer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s0DmUmSXuQmlHq83OsX0g13blaK.jpg</image:loc
+      >
+      <image:caption
+        >The story of a young woman named Jane 57821, who is living in a
+        totalitarian near-future society where citizens are referred to as
+        'computers.' 'Dirty Computer' explores humanity and what truly happens
+        to life, liberty and the pursuit of happiness when mind and machines
+        merge, and when the government chooses fear over freedom.</image:caption
+      >
+      <image:title>Dirty Computer</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/715186-Egg and Bomb</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/715186-Egg and Bomb</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gGjm46X9l52aNW6UFVUD7lA4xSh.jpg</image:loc
+      >
+      <image:caption
+        >Henry Waghorn and his father Henry Waghorn Senior run a circus of
+        performing chickens, however the chickens’ real value may be more to do
+        with taste than performance. An offer from Theo Theodolite to join him
+        in a fried chicken outlet has little attraction for the Waghorn family.
+        However Thoe’s daughter Wilga sees a different side to Henry and his
+        training skills and their relationship might have flourished if Henry
+        Senior hadn’t had an unfortunate accident. Finally the truth of the
+        accident is discovered and the explosive finale sheds new light on the
+        need for better-trained chickens.</image:caption
+      >
+      <image:title>Egg and Bomb</image:title>
+    </image:image>
+  </url>
+</urlset>

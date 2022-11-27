@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33278-Deadly Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33278-Deadly Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h2lmu6tNqL1LxWFJ73N9WZW7Uba.jpg</image:loc
+      >
+      <image:caption
+        >After his friend is killed by her abusive father, the new kid in town
+        attempts to save her by implanting a robotic microchip into her
+        brain.</image:caption
+      >
+      <image:title>Deadly Friend</image:title>
+    </image:image>
+  </url>
+</urlset>

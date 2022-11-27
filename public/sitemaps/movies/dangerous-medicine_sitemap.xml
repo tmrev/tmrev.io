@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/797488-Dangerous Medicine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/797488-Dangerous Medicine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sy3Ac0RwYBDXHeZcGwfJmvYNXB.jpg</image:loc
+      >
+      <image:caption
+        >After losing the use of his legs in a car crash, Tony is helped to walk
+        again by Daphne his physical therapist. But Daphne's loving care soon
+        morphs into a sick attempt to possess Tony forever.</image:caption
+      >
+      <image:title>Dangerous Medicine</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/593924-Dead Hands</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/593924-Dead Hands</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iSLJjTH5wwCoFBymrTOJ7RBa0aO.jpg</image:loc
+      >
+      <image:caption
+        >Ben has been at war and he's killed. He can't snap out of shock and
+        doesn't sleep anymore. Now, Ben is on leave and is due to meet Sophie,
+        his girlfriend from home. He hasn't seen her in ages, not since he was
+        innocent. Ben arrives at the airport hotel exhausted and hallucinating,
+        child-like and dangerous. He doesn't want to hurt Sophie but he may not
+        be able to help it. Ben could well be damned, but Sophie will prove he
+        isn't and Ben will be innocent again. At least that's one side to the
+        story.</image:caption
+      >
+      <image:title>Dead Hands</image:title>
+    </image:image>
+  </url>
+</urlset>

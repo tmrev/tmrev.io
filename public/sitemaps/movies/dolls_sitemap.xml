@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/612592-Dolls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/612592-Dolls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uUZKAcyYLdjjpo0yfWdYaShEbor.jpg</image:loc
+      >
+      <image:caption
+        >A struggling children's book author and his rebellious teenage daughter
+        move into a house they've inherited and find mysterious dolls in the
+        attic. The father and daughter soon learn that the dolls have a sinister
+        - and deadly - past.</image:caption
+      >
+      <image:title>Dolls</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/212032-Doo Wop 50</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/212032-Doo Wop 50</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yHpBVHM8fNL1em0EXCDaBTyDtMM.jpg</image:loc
+      >
+      <image:caption
+        >Join host Jerry Butler and some of history's greatest doo-wop
+        performers from the '50's and '60's as they celebrate five decades of
+        vocal magic. Recorded live May 11 and 12, 1999 at The Benedum Center for
+        the Performing Arts in downtown Pittsburgh, PA.</image:caption
+      >
+      <image:title>Doo Wop 50</image:title>
+    </image:image>
+  </url>
+</urlset>

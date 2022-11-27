@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159457-Death to the Tinman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159457-Death to the Tinman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A series of unfortunate events leads to Bill getting tin replacements
+        for his arms, legs, and eventually the rest of his body, but he still
+        has his heart. Bill's new appearance scares away his love, Jane, who
+        falls for his reincarnated heartless body. Will the rebuilt tinman Bill
+        ever win back his true love?</image:caption
+      >
+      <image:title>Death to the Tinman</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/578302-D-Day in Colour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/578302-D-Day in Colour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tmUMHKIK1LGBtvpZjiBZImdKS2h.jpg</image:loc
+      >
+      <image:caption
+        >An in-depth look at the events and experiences of the greatest seaborne
+        invasion in history, focusing on the personal stories of those involved.
+        Narrated by John Hurt, it re-lives the events of those decisive, yet
+        perilous days and reflects on the private triumphs and personal
+        tragedies that proved crucial to the outcome of the Second World
+        War.</image:caption
+      >
+      <image:title>D-Day in Colour</image:title>
+    </image:image>
+  </url>
+</urlset>

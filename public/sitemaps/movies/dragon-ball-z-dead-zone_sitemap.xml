@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28609-Dragon Ball Z: Dead Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28609-Dragon Ball Z: Dead Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ywtyEDTM2YO7qod7USNNwhrAfvA.jpg</image:loc
+      >
+      <image:caption
+        >In order to wish for immortality and avenge his father, Garlic Jr.
+        collects the dragon balls, kidnapping Goku's son Gohan in the process.
+        Goku, Kami, Piccolo, and Krillin unite to rescue Gohan and save the
+        world from being sucked into a dead zone.</image:caption
+      >
+      <image:title>Dragon Ball Z: Dead Zone</image:title>
+    </image:image>
+  </url>
+</urlset>

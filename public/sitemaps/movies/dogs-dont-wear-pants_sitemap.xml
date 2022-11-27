@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/524780-Dogs Don't Wear Pants</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/524780-Dogs Don't Wear Pants</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/47zWqPdURGd5ZfEvjSJIo7R2Esi.jpg</image:loc
+      >
+      <image:caption
+        >Juha has lost his wife in an accident. Years after, he still feels numb
+        and unable to connect with people. Meeting Mona, a dominatrix, changes
+        everything.</image:caption
+      >
+      <image:title>Dogs Don't Wear Pants</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/115721-Die Rückkehr des schwarzen Buddha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/115721-Die Rückkehr des schwarzen Buddha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >According to legend, the Black Buddha is a figure that brings death to
+        those who steal it and wisdom to those who return it. Nick is an
+        adventurer who has stolen the figure and is little concerned about the
+        legends ... until this legend begins to come true.</image:caption
+      >
+      <image:title>Die Rückkehr des schwarzen Buddha</image:title>
+    </image:image>
+  </url>
+</urlset>

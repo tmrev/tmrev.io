@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/428690-Delicate Balance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/428690-Delicate Balance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6zBdFOpwhussPwxhtrbtOBvx2Yq.jpg</image:loc
+      >
+      <image:caption
+        >A Japanese salaryman in Tokyo, a sub-Saharan community trying to cross
+        the borders into Europe, a family evicted from their own home in Spain.
+        Three stories intertwined on three different continents. This film is a
+        reflection on the path that the human race is taking, on its habits and
+        its relationship with the world. It is a proposal for change, from the
+        particular to the general. We will take this journey with the words of
+        José Mujica, former President of the Oriental Republic of
+        Uruguay.</image:caption
+      >
+      <image:title>Delicate Balance</image:title>
+    </image:image>
+  </url>
+</urlset>

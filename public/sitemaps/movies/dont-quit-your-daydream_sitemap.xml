@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/98235-Don't Quit Your Daydream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/98235-Don't Quit Your Daydream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This is the story of two life-long musicians, and sometimes friends,
+        who road trip through the heart of America recording their third album.
+        Along the way they collaborate with an offbeat cast of strangers who
+        force them to reconsider what it means to live a life dedicated to the
+        art of music.</image:caption
+      >
+      <image:title>Don't Quit Your Daydream</image:title>
+    </image:image>
+  </url>
+</urlset>

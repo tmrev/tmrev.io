@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/828419-David Bowie's Ziggy Stardust</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/828419-David Bowie's Ziggy Stardust</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r4nupf8wtZbmt6geaIPB6tXpYQj.jpg</image:loc
+      >
+      <image:caption
+        >Part of the Rock Milestones features of artists albums, this one on
+        David Bowie's critically acclaimed Ziggy Stardust & the Spiders from
+        Mars album. A cheap affair dvd.</image:caption
+      >
+      <image:title>David Bowie's Ziggy Stardust</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582254-Date Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582254-Date Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8pzcJTzjBojQIYzkTWqpMBLa972.jpg</image:loc
+      >
+      <image:caption
+        >When three fidelity phobic misfits find themselves in the same cafe,
+        their love and hate for all things romance related make them far more
+        similar than they think.</image:caption
+      >
+      <image:title>Date Night</image:title>
+    </image:image>
+  </url>
+</urlset>

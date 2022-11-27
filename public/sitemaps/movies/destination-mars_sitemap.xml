@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87146-Destination Mars!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87146-Destination Mars!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ppvBkCfwLno4DBDZFkdBLrHqagz.jpg</image:loc
+      >
+      <image:caption
+        >Martian women from Mars have sent an army of killer robots to take over
+        planet Earth, and the only hope for mankind may be a Doomsday weapon
+        built by a mysterious inventor in this throwback sci-fi entry with a
+        double shot of 1950s retro kitch. As killer robots descend from the sky,
+        a hapless police officer is abducted by a UFO and a young couple finds
+        their romantic picnic rudely interrupted by the shiny metallic invaders.
+        Though a doomsday weapon of unimaginable power may be mankind's only
+        defense against the powerful invaders, it could also spell the end for
+        the human race as we know it.</image:caption
+      >
+      <image:title>Destination Mars!</image:title>
+    </image:image>
+  </url>
+</urlset>

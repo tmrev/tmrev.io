@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32914-Duct Tape Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32914-Duct Tape Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nG6DigbcqNThoQGjWTzQI30MpAQ.jpg</image:loc
+      >
+      <image:caption
+        >When an evil land baron's limo falls into a sinkhole outside Possum
+        Lodge, lodge leader Red Green is ordered to pay the baron $10,000 or
+        lose his beloved lodge forever. Red considers various money-making
+        schemes concocted by his buddies, but it's his nerdy nephew Harold who
+        hits on an idea that just might save their wood-smoked bacon: a
+        duct-tape sculpture contest in Minneapolis that offers a $10,000
+        third-place prize.</image:caption
+      >
+      <image:title>Duct Tape Forever</image:title>
+    </image:image>
+  </url>
+</urlset>

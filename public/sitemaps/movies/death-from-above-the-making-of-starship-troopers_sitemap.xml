@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/506912-Death from Above: The Making of 'Starship
+      Troopers'</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/506912-Death from Above: The Making of 'Starship
+      Troopers'</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4BERDrQ3S7A0JExYzKQqnwqaIYO.jpg</image:loc
+      >
+      <image:caption
+        >A behind-the-scenes look at director Paul Verhoeven's imaginative
+        re-telling of Robert Heinlein's classic science fiction
+        novel.</image:caption
+      >
+      <image:title
+        >Death from Above: The Making of 'Starship Troopers'</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

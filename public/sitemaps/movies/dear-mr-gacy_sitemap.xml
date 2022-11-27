@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51512-Dear Mr. Gacy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51512-Dear Mr. Gacy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zftYdcc60ixcsQu6a5ndWCUJIQ4.jpg</image:loc
+      >
+      <image:caption
+        >A chronicle of the interaction between college student Jason Moss and
+        the object of his obsession, serial killer John Wayne
+        Gacy.</image:caption
+      >
+      <image:title>Dear Mr. Gacy</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467849-Dungoona</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467849-Dungoona</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >It centers around Mr Berlin, a brilliant teacher in a rough-as-guts
+        Australian school and his best and worst student: foul-mouthed, pregnant
+        fifteen-year-old Gemma. Mr Berlin challenges the kids of Dungoona to
+        shape up and rise out of the cycle of poverty they find themselves
+        in.</image:caption
+      >
+      <image:title>Dungoona</image:title>
+    </image:image>
+  </url>
+</urlset>

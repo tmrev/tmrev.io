@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666730-Devil's Trade</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666730-Devil's Trade</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Three teenagers incur the wrath of a deadly curse when one of them
+        purchases a presumably harmless wooden cross at DevilsTrade.com. After a
+        series of ominous events, they set off on a race to return the cross to
+        its rightful owner and avoid their own morbid fates.</image:caption
+      >
+      <image:title>Devil's Trade</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/153399-Das Himmler Projekt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/153399-Das Himmler Projekt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gKgRooQCzvKikz4ZS4l5XkDM5ju.jpg</image:loc
+      >
+      <image:caption
+        >Romuald Karmakar directs the actor Manfred Zapatka in performing the
+        three-and-a-half hour speech originally declaimed before ninety-two SS
+        generals by Heinrich Himmler on the 4th of October, 1943 in the Golden
+        Hall of the Posen Palace.</image:caption
+      >
+      <image:title>Das Himmler Projekt</image:title>
+    </image:image>
+  </url>
+</urlset>

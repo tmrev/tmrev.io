@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19273-Dr. Dolittle: Million Dollar Mutts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19273-Dr. Dolittle: Million Dollar Mutts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5MttL2NNQzUeR7MnGd5JHjkcNrk.jpg</image:loc
+      >
+      <image:caption
+        >Maya Dolittle can talk to animals. She gets discovered and Tiffany
+        Monaco, a Hollywood star, brings her to L.A. to help her little puppy,
+        who turns out to be a boy.</image:caption
+      >
+      <image:title>Dr. Dolittle: Million Dollar Mutts</image:title>
+    </image:image>
+  </url>
+</urlset>

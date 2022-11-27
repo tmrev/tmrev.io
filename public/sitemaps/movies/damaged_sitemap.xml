@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375745-Damaged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375745-Damaged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6JYdVTXBQIJ4wN8e4AiTPKhpLY4.jpg</image:loc
+      >
+      <image:caption
+        >Rainer Dulsky, a professor of psychiatry from Switzerland, comes to
+        Melania, the granddaughter of Mrs. Dulska. He feels he’s got something
+        in common with the tenement house in which the Dulski family live...
+        Melania, a film director, intrigued by her family history joins Rainer
+        in his research. Their discoveries will take them back to the past full
+        of secrets that were meant to stay hidden forever. The Dulski family
+        have much on their conscience...</image:caption
+      >
+      <image:title>Damaged</image:title>
+    </image:image>
+  </url>
+</urlset>

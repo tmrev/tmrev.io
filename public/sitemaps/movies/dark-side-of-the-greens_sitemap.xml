@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/391468-DARK SIDE of the GREENS</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/391468-DARK SIDE of the GREENS</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Documentary investigating how developers, often working with local
+        officials, are using golf as a smokescreen to build massive luxury
+        resorts with negative effects on the local environment. However, people
+        are fighting back. The programme features appearances from Hollywood
+        actor Alec Baldwin, environmentalist Robert Kennedy Jr and real estate
+        developer Donald Trump. TV follow-up to You've Been Trumped, about the
+        continued opposition to Donald Trump's plan to build a colossal golf
+        course on Aberdeenshire coastal wilderness. Baxter now looks at other
+        global beauty spots threatened by luxury resorts.</image:caption
+      >
+      <image:title>DARK SIDE of the GREENS</image:title>
+    </image:image>
+  </url>
+</urlset>

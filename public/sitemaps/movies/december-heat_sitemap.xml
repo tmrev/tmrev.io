@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46856-December Heat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46856-December Heat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wFErxfai3niJtgJBOAHJinJH0Uf.jpg</image:loc
+      >
+      <image:caption
+        >The young country of Estonia is dancing to the jazzy tune of the 1920's
+        when on December 1, 1924, the capital Tallinn is overrun by members of
+        the Comintern in an attempt to stage a Communist coup. The film follows
+        the fates of a young soldier called Tanel and his wife, a telephone
+        operator named Anna, amidst the ensuing chaos which determines whether
+        the country remains independent or becomes a minor province in the
+        Communist Empire.</image:caption
+      >
+      <image:title>December Heat</image:title>
+    </image:image>
+  </url>
+</urlset>

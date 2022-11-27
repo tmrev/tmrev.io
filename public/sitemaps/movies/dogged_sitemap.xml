@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/452405-Dogged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/452405-Dogged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9dgObe3WoiSFYjTMLwEZdMnQUDg.jpg</image:loc
+      >
+      <image:caption
+        >When Sam returns home to the tidal island where he grew up to attend a
+        funeral, he soon discovers that the seedy underbelly of this small
+        community harbours more than just a few secrets.</image:caption
+      >
+      <image:title>Dogged</image:title>
+    </image:image>
+  </url>
+</urlset>

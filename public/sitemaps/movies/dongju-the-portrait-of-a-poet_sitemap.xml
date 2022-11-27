@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382336-Dongju: The Portrait of a Poet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382336-Dongju: The Portrait of a Poet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rK9VFrmRgGLN7CWTlBqLrlG8FUS.jpg</image:loc
+      >
+      <image:caption
+        >Based on the life and work of Korea’s renowned poet, Yun Dong Ju. Dong
+        Ju, while studying literature in Japan, was charged and detained for
+        having participated in the Korean Independence Movement. Known to have
+        created hundreds of poems during his time in jail where he spent the
+        last two years of his life, Dong Ju passed away at the young age of 27.
+        Although it has not been proven, some believe he died due to medical
+        experiments that were performed on his living body.</image:caption
+      >
+      <image:title>Dongju: The Portrait of a Poet</image:title>
+    </image:image>
+  </url>
+</urlset>

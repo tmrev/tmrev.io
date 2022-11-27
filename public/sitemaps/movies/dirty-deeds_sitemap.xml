@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15022-Dirty Deeds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15022-Dirty Deeds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fw9FRxhBftqehUVBCvsXwNQnPsw.jpg</image:loc
+      >
+      <image:caption
+        >According to a high school's lore, the "Dirty Deeds" are a daunting
+        list of dares almost no student has ever completed. To win the student
+        body's respect and get noticed by his crush, senior Zach is determined
+        to finish the list in the allotted 24-hour time period. As the school's
+        bullying jocks try to thwart him at every turn, Zach embarks on a wild
+        journey, highlighted by beer swilling, grand theft auto and the snagging
+        of an ex-homecoming queen's bra.</image:caption
+      >
+      <image:title>Dirty Deeds</image:title>
+    </image:image>
+  </url>
+</urlset>

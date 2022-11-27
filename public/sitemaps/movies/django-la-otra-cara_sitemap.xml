@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336876-Django: La otra cara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336876-Django: La otra cara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg</image:loc
+      >
+      <image:caption
+        >Based on true events, this crime drama chronicles the wanderings of the
+        thief Orlando González -alias Django- during his brief years of glory.
+        After spending a time in the province, Django returns to Lima with his
+        family, trying to escape the criminal circuit. But the appearance of the
+        woman of a dead partner will unleash Django's ambition, and his
+        libido.</image:caption
+      >
+      <image:title>Django: La otra cara</image:title>
+    </image:image>
+  </url>
+</urlset>

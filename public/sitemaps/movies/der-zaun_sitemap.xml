@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/802797-Der Zaun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/802797-Der Zaun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPDyaNUgYE93LWlplsySPXcHG6n.jpg</image:loc
+      >
+      <image:caption
+        >"I have the safest fried potatoes" quipped a snack bar operator in the
+        summer of 2007 in Heiligendamm. On the occasion of the G8 summit the
+        sleepy seaside town mutated into high security zone. For lush 12.3
+        million euros a steel fence was erected, the heads of state before the
+        summit demonstrated that opponents should be separated. Andreas Horn and
+        Armin Marewski show in their impressive documentary people on both sides
+        of the fence to speak: residents, tourists, press representatives,
+        police, advocates and Protestants apparently their own personal views on
+        the 13 km long steel fence structure.</image:caption
+      >
+      <image:title>Der Zaun</image:title>
+    </image:image>
+  </url>
+</urlset>

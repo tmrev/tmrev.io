@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21173-Death of a President</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21173-Death of a President</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wX7DyNdbQ5B0IxykO0Phtxdun9p.jpg</image:loc
+      >
+      <image:caption
+        >A fictional investigative documentary looks back on the "assassination"
+        of George W. Bush and attempts to answer the question of who committed
+        the murder. Perhaps less morbid and disturbing to watch now than during
+        Bush's presidency, the film doesn't address Bush's policies at all,
+        instead focusing on the way a nation assigns blame in a time of
+        crisis.</image:caption
+      >
+      <image:title>Death of a President</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784402-Don Quixote in Jerusalem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784402-Don Quixote in Jerusalem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uo7RX2jdY8OnKlAADm6Phsav0zD.jpg</image:loc
+      >
+      <image:caption
+        >Don Quixote and Sancho Pancha arrive in Israel in the year 2005. They
+        reach a hill on the Jerusalem by-pass road overlooking the wall, which
+        divides Israel and the Palestinian Authority. They inspect their target.
+        The two men are already in their 70's. Quixote is having difficulties
+        mounting his horse and Sancho struggles with his tools. But Don Quixote
+        is determined to attack.</image:caption
+      >
+      <image:title>Don Quixote in Jerusalem</image:title>
+    </image:image>
+  </url>
+</urlset>

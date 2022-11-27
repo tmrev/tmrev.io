@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/653574-Dick Johnson Is Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/653574-Dick Johnson Is Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2h8bkpyGK0U5cVCH79Hzw1LT5qn.jpg</image:loc
+      >
+      <image:caption
+        >With this inventive portrait, director Kirsten Johnson seeks a way to
+        keep her 86-year-old father alive forever. Utilizing moviemaking magic
+        and her family’s dark humor, she celebrates Dr. Dick Johnson’s last
+        years by staging fantasies of death and beyond. Together, dad and
+        daughter confront the great inevitability awaiting us
+        all.</image:caption
+      >
+      <image:title>Dick Johnson Is Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

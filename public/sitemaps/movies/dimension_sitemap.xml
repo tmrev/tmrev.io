@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/211284-Dimension</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/211284-Dimension</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3BZvUmxV4EdiHYnig9xgMS56pGb.jpg</image:loc
+      >
+      <image:caption
+        >Dimension is a short film written and directed by Lars von Trier,
+        released in 2010. The film was shot in three-minute segments over
+        several years. The original intention was to continue production for a
+        period of 30 years for a final release in 2024. However, von Trier lost
+        interest in the project and it was shelved in the late 1990s. The short
+        film consists of the completed footage at the time the film was
+        abandoned.</image:caption
+      >
+      <image:title>Dimension</image:title>
+    </image:image>
+  </url>
+</urlset>

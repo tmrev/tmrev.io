@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/691546-Dark Side of the Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/691546-Dark Side of the Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vuifNcBOaWWitejr5lI0jICqLh2.jpg</image:loc
+      >
+      <image:caption
+        >Bill Hopkins hosts a TV show called Truth Files, which deals with such
+        topics of UFOs and government conspiracies. He is also haunted by
+        reoccurring nightmarish dreams of UFOs and alien beings, in which he
+        can't piece together. He later receives a mysterious package which
+        contains a mini audio recorder with a message from a man, who claims to
+        have been part of top secret Black Ops mission to the far side of the
+        moon. Bill meets with the mysterious man, who claims that the moon is
+        occupied by alien intelligence that have been monitoring us for
+        thousands of years with an agenda for humanity.</image:caption
+      >
+      <image:title>Dark Side of the Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

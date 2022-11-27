@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/6619-Death in Venice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/6619-Death in Venice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s81SuFBSqY8T5Lrn5R8ucX8LKxi.jpg</image:loc
+      >
+      <image:caption
+        >Composer Gustav von Aschenbach travels to Venice for health reasons.
+        There, he becomes obsessed with the stunning beauty of an adolescent
+        Polish boy named Tadzio who is staying with his family at the same Grand
+        Hôtel des Bains on the Lido as Aschenbach.</image:caption
+      >
+      <image:title>Death in Venice</image:title>
+    </image:image>
+  </url>
+</urlset>

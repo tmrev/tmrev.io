@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365499-Days of Wine and Roses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365499-Days of Wine and Roses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vvDOs1b0sHVC7VpJlv6QvRPcMQ6.jpg</image:loc
+      >
+      <image:caption
+        >An alcoholic falls in love with and gets married to a young woman whom
+        he systematically addicts to booze so they can share his "passion"
+        together.</image:caption
+      >
+      <image:title>Days of Wine and Roses</image:title>
+    </image:image>
+  </url>
+</urlset>

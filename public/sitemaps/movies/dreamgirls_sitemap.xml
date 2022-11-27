@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/315588-Dreamgirls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/315588-Dreamgirls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jji0voa3xDORDgWXezKC5jdx3Q3.jpg</image:loc
+      >
+      <image:caption
+        >Parallel love stories of three young women in Berlin: Hannah - an
+        unhappy attorney who sexually demeans herself in order to get at least
+        some love and romance, Leni who runs a coffee shop and has just been
+        ditched by her long term boyfriend, and Vivienne who ends up falling in
+        love with a puppy-eyed pasta designer with 21 dogs.</image:caption
+      >
+      <image:title>Dreamgirls</image:title>
+    </image:image>
+  </url>
+</urlset>

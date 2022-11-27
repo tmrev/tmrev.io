@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/364801-Dead Air</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/364801-Dead Air</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >On the last broadcast of punk rock radio show "Dead Baby Syrup," DJ Eve
+        St. Tilly invites her fans to visit the station. When one convinces her
+        to play his band's record, all hell breaks loose.</image:caption
+      >
+      <image:title>Dead Air</image:title>
+    </image:image>
+  </url>
+</urlset>

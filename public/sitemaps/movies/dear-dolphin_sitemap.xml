@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/193709-Dear Dolphin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/193709-Dear Dolphin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iJ6iLN7VOCus5uzVLiV9Ra14kPo.jpg</image:loc
+      >
+      <image:caption
+        >A man hasn’t got over his girl’s death. While a close friend of her
+        approaches to him, a hallucination of his dead girlfriend haunts him. As
+        he blurs line between reality and fantasy, suspense rises, rushing to
+        explosion.</image:caption
+      >
+      <image:title>Dear Dolphin</image:title>
+    </image:image>
+  </url>
+</urlset>

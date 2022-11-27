@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82256-Double Shift</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82256-Double Shift</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/92RK5xoRrw3DYodb1fvZFZbUWsJ.jpg</image:loc
+      >
+      <image:caption
+        >Jonas has promised to take time off work to take care of his baby
+        daughter so that his fiancé can go back to work. The problem is that his
+        company, a taxi service, needs serious attention so Jonas tries to work
+        nights and be a good father in the daytime.</image:caption
+      >
+      <image:title>Double Shift</image:title>
+    </image:image>
+  </url>
+</urlset>

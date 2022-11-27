@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134640-Death in Charge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134640-Death in Charge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t8cN51ORL2iqx07JiqK1cFr5qM3.jpg</image:loc
+      >
+      <image:caption
+        >In the tradition of E.C. Horror Comics, this cautionary tale examines
+        life through the eyes of Death who gets derailed when an impatient
+        single Mom carelessly mistakes the scythe-carrying cloaked one for her
+        tardy babysitter and leaves Death to care for her precocious 9-year-old
+        daughter.</image:caption
+      >
+      <image:title>Death in Charge</image:title>
+    </image:image>
+  </url>
+</urlset>

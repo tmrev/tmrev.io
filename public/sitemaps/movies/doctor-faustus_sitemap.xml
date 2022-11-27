@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/462002-Doctor Faustus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/462002-Doctor Faustus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6pbiDmuRoWfAatym1GhLXVLgrFf.jpg</image:loc
+      >
+      <image:caption
+        >The Tragical History of Doctor Faustus, to give it its full title, by
+        Christopher Marlowe, was first published in 1604, at least twelve years
+        after its first performance, although the basic story of the play is
+        much older. Having decided he has accumulated all he can of conventional
+        knowledge, Doctor Faustus turns to magic in a quest for greater truths.
+        Before long, he ends up selling his soul to the devil – the famous
+        “Faustian pact” that has entered everyday language. Dr Faustus gradually
+        realizes his terrible mistake. He apparently repents, but finally dies,
+        the devil coming to collect his soul, and his friends the dismembered
+        body.</image:caption
+      >
+      <image:title>Doctor Faustus</image:title>
+    </image:image>
+  </url>
+</urlset>

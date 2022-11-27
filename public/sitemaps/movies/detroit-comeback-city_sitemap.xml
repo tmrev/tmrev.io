@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/533144-Detroit: Comeback City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/533144-Detroit: Comeback City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1VYjfeENHWOHCsE6O7TgxAiJ9tf.jpg</image:loc
+      >
+      <image:caption
+        >The story of how Detroit went from the engine of American capitalism,
+        to a city of ruins that is now on the cusp of an exciting rebirth told
+        by real Detroiters who recount the stories of their relatives who helped
+        build the city and the country.</image:caption
+      >
+      <image:title>Detroit: Comeback City</image:title>
+    </image:image>
+  </url>
+</urlset>

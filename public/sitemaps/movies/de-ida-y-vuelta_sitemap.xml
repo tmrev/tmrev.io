@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276473-De ida y vuelta</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276473-De ida y vuelta</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bT11I4hCnZvGKuV2IPTBbmwjMvq.jpg</image:loc
+      >
+      <image:caption
+        >After working for three years in the USA, Filiberto returns to his home
+        town in Mexico. A proud man, he is searching for the recognition that
+        will give him a new position in life. However, he finds that things have
+        changed. His mother is dead, and Luis, his best friend, is married to
+        his ex-girlfriend. Filiberto gets involved in the town’s disputes over a
+        water spring.</image:caption
+      >
+      <image:title>De ida y vuelta</image:title>
+    </image:image>
+  </url>
+</urlset>

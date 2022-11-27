@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/102390-Devil's Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/102390-Devil's Bridge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eqBoYubdRPW7vBv02lmQ4lGrA3k.jpg</image:loc
+      >
+      <image:caption
+        >Sean takes his two friends into the rural wilds of Wales in search of
+        an underworld specialist who can illegally revive his failing business.
+        Deep in alien, isolated territory, they accidentally cross William
+        Parry, a broken and desperate farmer dangerously hateful and paranoid of
+        all around him. The situation spins rapidly out of control, spiraling
+        into a horrific Heart Of Darkness spree of pointless violence and
+        revenge as Parry hunts the three friends across the stark and
+        unforgiving terrain.</image:caption
+      >
+      <image:title>Devil's Bridge</image:title>
+    </image:image>
+  </url>
+</urlset>

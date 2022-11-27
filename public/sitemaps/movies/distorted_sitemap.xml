@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459258-Distorted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459258-Distorted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e26QQxiD9glX34qU9Lfj98nMCTA.jpg</image:loc
+      >
+      <image:caption
+        >A married couple suspect that the 'smart apartments' in their high tech
+        residence are being used by its owner for sinister
+        reasons.</image:caption
+      >
+      <image:title>Distorted</image:title>
+    </image:image>
+  </url>
+</urlset>

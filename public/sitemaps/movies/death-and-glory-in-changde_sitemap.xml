@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50319-Death and Glory in Changde</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50319-Death and Glory in Changde</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xBz4qtEV7B7fWCZc0Dq1Hi2UYwS.jpg</image:loc
+      >
+      <image:caption
+        >Directed by Shen Dong and starring Ray Lui, An Yixuan and Yuan Wenkang,
+        Death and Glory in Changde recalls one of the most cruel and
+        controversial battles during China's War of Resistance Against Japanese
+        Aggression (1937-45), Changde Battle, in November 1943.</image:caption
+      >
+      <image:title>Death and Glory in Changde</image:title>
+    </image:image>
+  </url>
+</urlset>

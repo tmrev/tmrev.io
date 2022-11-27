@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/925793-Diggers and Dumpers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/925793-Diggers and Dumpers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q8faytZDigFwnYAHifwYJ05fnQh.jpg</image:loc
+      >
+      <image:caption
+        >This educational video uses a blend of live action footage and catchy
+        tunes to teach children basic skills such as counting and learning how
+        things move. Songs included are: 'Diggers, Dumpers and Trucks'; 'Mass
+        Excavator'; 'The Roller'; 'I Went to Visit a Site One Day'; 'Ten Hard
+        Hats'; 'The Tall Crane Song'; 'The Concrete Mixer'; 'The Building Site';
+        and 'Crash Bang Smash'.</image:caption
+      >
+      <image:title>Diggers and Dumpers</image:title>
+    </image:image>
+  </url>
+</urlset>

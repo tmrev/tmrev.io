@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/364011-Earthrise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/364011-Earthrise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9HLQ93NLAhmjjGNXyGeGM7p4OQU.jpg</image:loc
+      >
+      <image:caption
+        >99% of the human race has colonized on Mars. The remaining few work to
+        rehabilitate our dying planet. Each year a small number are selected to
+        return home to aid in the process. For those few, it will be their first
+        glimpse of Earth. We follow them on their journey in this sci-fi
+        psychological thriller. Go home. For the first time.</image:caption
+      >
+      <image:title>Earthrise</image:title>
+    </image:image>
+  </url>
+</urlset>

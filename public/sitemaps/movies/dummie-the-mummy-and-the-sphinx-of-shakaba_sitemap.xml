@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/348325-Dummie the Mummy and the Sphinx of
+      Shakaba</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/348325-Dummie the Mummy and the Sphinx of
+      Shakaba</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1PGxQpNMvq09xHhdvrgvADcYRj1.jpg</image:loc
+      >
+      <image:caption
+        >Dummie realizes that he is not as famous as his father, an ancient
+        pharaoh, so he decides to rely more on himself and enters a special
+        contest with the help of his best friend.</image:caption
+      >
+      <image:title>Dummie the Mummy and the Sphinx of Shakaba</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/463907-Dangerous Curves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/463907-Dangerous Curves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qDkLOe5BaCLAXSgUEyOumwv90Cy.jpg</image:loc
+      >
+      <image:caption
+        >What is confidence, really? On stage, online and in everyday life,
+        plus-sized pole dancer Roslyn Mays navigates newfound media attention
+        and various types of public exposure.</image:caption
+      >
+      <image:title>Dangerous Curves</image:title>
+    </image:image>
+  </url>
+</urlset>

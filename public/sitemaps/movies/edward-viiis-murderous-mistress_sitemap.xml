@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/285520-Edward VIII's Murderous Mistress</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/285520-Edward VIII's Murderous Mistress</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The extraordinary story of Edward VIII's first love affair, involving a
+        murder trial, a secret cache of vanished letters, and a cover-up to save
+        the reputation of the future King.</image:caption
+      >
+      <image:title>Edward VIII's Murderous Mistress</image:title>
+    </image:image>
+  </url>
+</urlset>

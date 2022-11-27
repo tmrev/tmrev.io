@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/509063-Dergi and Roza in the Kingdom of the
+      Marmot</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/509063-Dergi and Roza in the Kingdom of the
+      Marmot</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/G8uCp3kJ2gxl4jNs7o2kunRfu1.jpg</image:loc
+      >
+      <image:caption
+        >Two men, a radio consultant and social worker, take refuge in the
+        kingdom of the marmot - an alpine hut, which becomes their small
+        business.</image:caption
+      >
+      <image:title>Dergi and Roza in the Kingdom of the Marmot</image:title>
+    </image:image>
+  </url>
+</urlset>

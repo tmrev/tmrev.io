@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/139010-Dale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/139010-Dale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xvtnJHGhuqbn9dv4iqDlgd8qhHG.jpg</image:loc
+      >
+      <image:caption
+        >Archival race footage, outtakes, home videos and interviews Dale
+        Earnhardt's friends, family, and competitors are used in this
+        documentary on the racing legend who won seven NASCAR championships
+        before his death in 2001 at the Daytona 500.</image:caption
+      >
+      <image:title>Dale</image:title>
+    </image:image>
+  </url>
+</urlset>

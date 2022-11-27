@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/151876-Daivanamathil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/151876-Daivanamathil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1TxYBgNeIw49mUAhdskb5EgaTaZ.jpg</image:loc
+      >
+      <image:caption
+        >After the demolition of the Babri Masjid, Anwar, a student of Aligarh
+        Muslim University, becomes a fundamentalist and ends up in prison. His
+        wife Sameera yearns for him be the soft and loving husband that he once
+        was. But what happens when he is out of jail?</image:caption
+      >
+      <image:title>Daivanamathil</image:title>
+    </image:image>
+  </url>
+</urlset>

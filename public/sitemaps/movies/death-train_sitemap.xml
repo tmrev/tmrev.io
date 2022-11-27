@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252416-Death Train</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252416-Death Train</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y8VGElpobdLLfXc3lgkdQ86Ljxd.jpg</image:loc
+      >
+      <image:caption
+        >A man is supposed to guard a shipment of diamonds being sent by rail.
+        But a man robs the train and kills the men guarding the diamonds. The
+        robbers derail the train and hope to get away with their crime. The
+        robbers get caught in Mexico and are sent to prison by rail. The robbers
+        take over the prison train they are on. Will these robbers get away with
+        their crime or will the bodyguard kill all of the robbers and reclaim
+        the train?</image:caption
+      >
+      <image:title>Death Train</image:title>
+    </image:image>
+  </url>
+</urlset>

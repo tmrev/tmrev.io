@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/477736-Donaire Y Esplendor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/477736-Donaire Y Esplendor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bn6XVspFYBwef9KiqvATdmLJOdn.jpg</image:loc
+      >
+      <image:caption
+        >In the traditional carnival of the small town called Las Tablas, there
+        are two rival streets: Up Street and Down Street. A young couple, after
+        an unexpected encounter at the airport, fall hopelessly in
+        love.</image:caption
+      >
+      <image:title>Donaire Y Esplendor</image:title>
+    </image:image>
+  </url>
+</urlset>

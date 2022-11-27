@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392806-Ein Sommer im Burgenland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392806-Ein Sommer im Burgenland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uD8h2zYqudhMeia7wP3fB5thyn.jpg</image:loc
+      >
+      <image:caption
+        >While Berlin-based businessman Paul Graf is in Shanghai, his nosy
+        busybody mother Maria, who was only to mind his apartment, opens his
+        mail, finds a letter notifying he's to become father and without
+        consulting him travels to see the expectant mother, Nina, at her home,
+        uncle Harald Brandl's farm and stork home. Maria falls in love with
+        Harald but also finds the key to the Graf family's past, fled from
+        Hungary during the Soviet-crushed rebellion. Paul arrives and finds Nina
+        impossible to deal with, yet wants a bond with his unborn
+        son.</image:caption
+      >
+      <image:title>Ein Sommer im Burgenland</image:title>
+    </image:image>
+  </url>
+</urlset>

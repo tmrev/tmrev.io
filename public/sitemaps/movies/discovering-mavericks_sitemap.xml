@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/681809-Discovering Mavericks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/681809-Discovering Mavericks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aTVQVSdY5vPEUblDdr2UhnIf4Er.jpg</image:loc
+      >
+      <image:caption
+        >Winner of the Newport Beach Film Festival 2013 Audience Award,
+        Discovering Mavericks is an epic film that reveals the true story of
+        this famous and deadly wave, from the decade it was surfed solely by
+        lone surfing pioneer Jeff Clark to the events that followed - leading it
+        to become one of the most famous big wave surfing spots in the
+        world.</image:caption
+      >
+      <image:title>Discovering Mavericks</image:title>
+    </image:image>
+  </url>
+</urlset>

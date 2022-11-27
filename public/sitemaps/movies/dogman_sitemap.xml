@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/483184-Dogman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/483184-Dogman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eaZq1G8sJHv9f9a5IzioQlS3REX.jpg</image:loc
+      >
+      <image:caption
+        >Marcello, a small and gentle dog groomer, finds himself involved in a
+        dangerous relationship of subjugation with Simone, a former violent
+        boxer who terrorizes the entire neighborhood. In an effort to reaffirm
+        his dignity, Marcello will submit to an unexpected act of
+        vengeance.</image:caption
+      >
+      <image:title>Dogman</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314402-Dheepan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314402-Dheepan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNMjRNrIzvljInNLf3aLYZI3Ih4.jpg</image:loc
+      >
+      <image:caption
+        >Three people who have lost everything, a soldier tired of fighting, a
+        young woman and a little girl, pose as a family to escape the civil war
+        in Sri Lanka. They emigrate to France and settle in a chaotic
+        neighborhood on the outskirts of Paris, where apparently the law no
+        longer exists; but they, who barely know each other, struggle to survive
+        there, even when the ghosts of war begin to haunt them
+        again.</image:caption
+      >
+      <image:title>Dheepan</image:title>
+    </image:image>
+  </url>
+</urlset>

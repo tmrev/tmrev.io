@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49397-Death Rides a Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49397-Death Rides a Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zWWcypURN2b2Hpy3grwhxKbbawK.jpg</image:loc
+      >
+      <image:caption
+        >Bill Meceita, a boy whose family was murdered in front of him by a
+        gang, sets out 15 years later to exact revenge. On his journey, he finds
+        himself continually sparring and occasionally cooperating with Ryan, a
+        gunfighter on his own quest for vengeance, who knows more than he says
+        about Bill's tragedy.</image:caption
+      >
+      <image:title>Death Rides a Horse</image:title>
+    </image:image>
+  </url>
+</urlset>

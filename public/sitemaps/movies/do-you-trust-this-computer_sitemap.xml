@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/516503-Do You Trust this Computer?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/516503-Do You Trust this Computer?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vWBS27xddEmGfraEykRAVxAWhqZ.jpg</image:loc
+      >
+      <image:caption
+        >Science fiction has long anticipated the rise of machine intelligence,
+        and today a new generation of self-learning computers has begun to
+        reshape every aspect of our lives. Will A.I. usher in an age of
+        unprecedented potential, or prove to be our final
+        invention?</image:caption
+      >
+      <image:title>Do You Trust this Computer?</image:title>
+    </image:image>
+  </url>
+</urlset>

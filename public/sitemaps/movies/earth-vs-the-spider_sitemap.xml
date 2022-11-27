@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31013-Earth vs. the Spider</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31013-Earth vs. the Spider</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/izESNdGC14yhvI4mcYQCB7ryJ5f.jpg</image:loc
+      >
+      <image:caption
+        >A shy comic book fan is injected with an experimental serum and starts
+        turning into a spider. When web covered bodies start appearing a
+        policeman starts to investigate the strange case.</image:caption
+      >
+      <image:title>Earth vs. the Spider</image:title>
+    </image:image>
+  </url>
+</urlset>

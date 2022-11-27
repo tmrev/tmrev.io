@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/415222-Dreaming Purple Neon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/415222-Dreaming Purple Neon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kN8wbzV1cGmm2mTM1qoSa1qPxzM.jpg</image:loc
+      >
+      <image:caption
+        >Dallas returns home after years away to try to reconnect with his ex
+        Denise. Cat steals her boss Ray Ray's stash of "Purple Neon" and goes to
+        meet Denise at her boss's office. Ray Ray and Tyrone follow her there,
+        looking for his drugs while a demonic cult is operating out of the
+        basement trying to raise demons by using the drug to bridge the gap
+        between the land of the living and Hell.</image:caption
+      >
+      <image:title>Dreaming Purple Neon</image:title>
+    </image:image>
+  </url>
+</urlset>

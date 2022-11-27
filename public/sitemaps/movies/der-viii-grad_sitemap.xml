@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/852104-Der VIII. Grad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/852104-Der VIII. Grad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In an art studio in Hamburg, a young woman's body is found hanging up.
+        A man from a homicide squad has developed new electronic equipment that
+        allows him to analyze exactly who the perpetrator was. He moves into the
+        studio for a few days to better research and investigate. Completely
+        isolated and together with a corpse, he becomes addicted to drugs and
+        seems to gradually go insane. And because things have to get even
+        harder, he has to deal with the loss of his girlfriend, to whom he was a
+        stranger shortly before. The end leads to morbid
+        self-knowledge.</image:caption
+      >
+      <image:title>Der VIII. Grad</image:title>
+    </image:image>
+  </url>
+</urlset>

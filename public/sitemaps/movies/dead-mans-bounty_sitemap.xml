@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51051-Dead Man's Bounty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51051-Dead Man's Bounty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jKbwQIEwzyqQdwDbzYCu6jkOyNB.jpg</image:loc
+      >
+      <image:caption
+        >A mysterious loner (Karel Roden) rides into a small town carrying the
+        body of a sought-after outlaw (Val Kilmer is the corpse). But after he
+        gambles his bounty away in a card game with the sheriff (Boguslaw
+        Linda), he must devise a scheme to reclaim the dead man. Katarzyna
+        Figura co-stars as a tough barmaid in Polish writer-director Piotr
+        Uklanski's inventive and bloody Western, which both spoofs and pays
+        tribute to the spaghetti Western genre.</image:caption
+      >
+      <image:title>Dead Man's Bounty</image:title>
+    </image:image>
+  </url>
+</urlset>

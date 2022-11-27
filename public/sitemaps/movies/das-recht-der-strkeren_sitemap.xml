@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1042239-Das Recht der Stärkeren</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1042239-Das Recht der Stärkeren</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wPVoajUVofFmWItTVr6HeIul2g0.jpg</image:loc
+      >
+      <image:caption
+        >A car bomb explodes in front of a Berlin cinema as an Israeli film
+        celebrates its premiere there. The trail leads to the video blog of
+        18-year-old Jana. What might have made her do it? Jana herself can no
+        longer give any information about it, because she was killed in the
+        attack. So all that remains is her blog on the social
+        networks.</image:caption
+      >
+      <image:title>Das Recht der Stärkeren</image:title>
+    </image:image>
+  </url>
+</urlset>

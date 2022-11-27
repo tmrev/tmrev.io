@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/929495-Die Silbermaske</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/929495-Die Silbermaske</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fF32lVvV0cl70XGXur5b4K1zQCT.jpg</image:loc
+      >
+      <image:caption
+        >Sabine is able to transform into a silver superhero through the power
+        of the Ring of Nibelungen. She travels to Japan where she searches for
+        her father and battles the forces of Dr. Caligari.</image:caption
+      >
+      <image:title>Die Silbermaske</image:title>
+    </image:image>
+  </url>
+</urlset>

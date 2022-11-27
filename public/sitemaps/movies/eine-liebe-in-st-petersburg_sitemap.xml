@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34149-Eine Liebe in St. Petersburg</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34149-Eine Liebe in St. Petersburg</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zTjsdqLC95GzfExlnx7Fff31Edd.jpg</image:loc
+      >
+      <image:caption
+        >The young Berlin anesthesiologist Nora is facing exciting times: her
+        partner Eric makes her a marriage proposal and she has the opportunity
+        to give her first important speech at an international congress in St.
+        Petersburg. Nora goes to Russia, where she gets a frosty reception. The
+        Russian pediatrician Andrej, who has been assigned to her as a personal
+        companion, is not very enthusiastic about this task. So he puts Nora in
+        a taxi soon. But then Nora is attacked and Andrej plagues his guilty
+        conscience. Soon, the people are coming closer to the
+        fight.</image:caption
+      >
+      <image:title>Eine Liebe in St. Petersburg</image:title>
+    </image:image>
+  </url>
+</urlset>

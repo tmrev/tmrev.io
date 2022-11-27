@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332223-Don Melcho, amigo o enemigo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332223-Don Melcho, amigo o enemigo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Don Melcho peddles his political influence in his town and take
+        advantage of his impoverished neighbors. An ambiguous character who may
+        or may not expand his power.</image:caption
+      >
+      <image:title>Don Melcho, amigo o enemigo</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/469285-Dad's Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/469285-Dad's Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ub1hDcAf5uRQuC5hwMkOT2povBC.jpg</image:loc
+      >
+      <image:caption
+        >28-year-old Sasano Seiko (Sonim) has returned home to celebrate her
+        widower father's (Itao Itsuji) remarriage. However, the
+        marrige-partner-to-be is the double-divorcee-with-children close friend
+        of Seiko's older brother. Her father says he will be the "mother" to
+        everyone. Will Seiko be able to accept her father's
+        marriage?</image:caption
+      >
+      <image:title>Dad's Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158710-Der geheimnisvolle Schwiegersohn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158710-Der geheimnisvolle Schwiegersohn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The daughter of a famous writer believes her mother is responsible for
+        her father's death. Since then the relationship between them is cooled
+        increasingly, to the point that she did not invite her mother when she
+        marries. The husband, far from promoting good relations between them,
+        takes them away even more, which sees the mother and begins to suspect
+        him when he receives a note threatening to kill his
+        daughter.</image:caption
+      >
+      <image:title>Der geheimnisvolle Schwiegersohn</image:title>
+    </image:image>
+  </url>
+</urlset>

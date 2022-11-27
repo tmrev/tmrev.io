@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565718-David Crosby: Remember My Name</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565718-David Crosby: Remember My Name</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7JQVQcP82yNHhZjZ5P5aQumrVsm.jpg</image:loc
+      >
+      <image:caption
+        >You thought you knew him. Meet David Crosby now in this portrait of a
+        man with everything but an easy retirement on his mind. With unflinching
+        honesty, self-examination, regret, fear, exuberance and an unshakable
+        belief in family and the transformative nature of music, Crosby shares
+        his often challenging journey.</image:caption
+      >
+      <image:title>David Crosby: Remember My Name</image:title>
+    </image:image>
+  </url>
+</urlset>

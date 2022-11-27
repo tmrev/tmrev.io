@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/752665-David Gilmour: Live From Abbey Road</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/752665-David Gilmour: Live From Abbey Road</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hmwSjr9EDiYF01K557dhoLS3tuG.jpg</image:loc
+      >
+      <image:caption
+        >David Gilmour plays old pink floyd songs and new song from his album:
+        From an Island.</image:caption
+      >
+      <image:title>David Gilmour: Live From Abbey Road</image:title>
+    </image:image>
+  </url>
+</urlset>

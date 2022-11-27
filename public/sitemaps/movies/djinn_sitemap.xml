@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/229138-Djinn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/229138-Djinn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/woW3UhIRYb6xJjv0sbS2dKtDo8Y.jpg</image:loc
+      >
+      <image:caption
+        >Desperate to put the traumatic loss of their infant child behind them,
+        newlywed couple Khalid and Salama return to their home in the United
+        Arab Emirates. Unknown to the couple, their new luxury apartment block,
+        Al Hamra, was built on the site of an old abandoned fishing village of
+        the same name. Legend has it the village was abandoned after manevolant
+        beings haunted its inhabitants. Unsettled by her new surroundings and
+        the eerie hallways of Al Hamra, Khalid worries his wife is failing to
+        battle her personal demons – but could it be something far more
+        sinister?</image:caption
+      >
+      <image:title>Djinn</image:title>
+    </image:image>
+  </url>
+</urlset>

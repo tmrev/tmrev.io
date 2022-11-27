@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84646-Deaden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84646-Deaden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Ex-undercover cop turned biker Rane, witnesses the brutal murder of his
+        pregnant wife by his crew who have learned about his old policemen days.
+        Upon his exit from the hospital, he arms himself to the teeth and goes
+        on an substance fueled, psychotic rampage, in the name of
+        retribution</image:caption
+      >
+      <image:title>Deaden</image:title>
+    </image:image>
+  </url>
+</urlset>

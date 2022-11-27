@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/337285-Earth Wind & Fire: Shining Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/337285-Earth Wind & Fire: Shining Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jhPxTd4uPANSUzmMrGYqUrCCKIE.jpg</image:loc
+      >
+      <image:caption
+        >This is their story. This is their music...There is nowhere else you
+        can go to see and hear the amazing stories and songs that form the
+        history of Earth Wind &amp; Fire. The Earth Wind &amp; Fire story is
+        told by the people who created it, lived it and made it
+        happen.</image:caption
+      >
+      <image:title>Earth Wind & Fire: Shining Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

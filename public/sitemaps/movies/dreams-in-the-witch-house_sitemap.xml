@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/319326-Dreams in the Witch House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/319326-Dreams in the Witch House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qtAetliXedqQZDWpXlLaIOz9Ps3.jpg</image:loc
+      >
+      <image:caption
+        >A college student renting an old room in a boarding house discovers a
+        plot by sinister, otherworldly forces to sacrifice his neighbor's
+        infant. Based on the short story by H. P. Lovecraft</image:caption
+      >
+      <image:title>Dreams in the Witch House</image:title>
+    </image:image>
+  </url>
+</urlset>

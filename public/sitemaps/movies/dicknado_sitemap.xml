@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/464054-Dicknado</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/464054-Dicknado</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hggXShCyvCCTaAJvA8EYwwNrNcW.jpg</image:loc
+      >
+      <image:caption
+        >A bizarre weather phenomenon destroys parts of Clifton, New Jersey.
+        Residents are advised to flee, but a few remain to test Fate. The storm
+        is a symbol for change. Those who face the unknown can get swept up in
+        the frightening current, but those who let Life make changes for them
+        (accepting changes passively) become destroyed. This is beyond horror or
+        science fiction. It is a movie that was written in the manner of an
+        ancient Greek play. The dialogue is everything.</image:caption
+      >
+      <image:title>Dicknado</image:title>
+    </image:image>
+  </url>
+</urlset>

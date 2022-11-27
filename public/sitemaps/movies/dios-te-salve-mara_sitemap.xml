@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1038659-Dios te salve, María</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1038659-Dios te salve, María</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s82kE4IDkOdyrn04glRNAUNIZuG.jpg</image:loc
+      >
+      <image:caption
+        >Alicante, year 1939. In the last moments of the Civil War, the Air Raid
+        Shelters became the safest place to save the lives of thousands of
+        people during the bombings. They sheltered fear, but also the story of
+        many people like Maria, a young dreamer, eager to show the world that
+        love can overcome anything. That it doesn't matter if a thousand bombs
+        fall, as long as love exists, there is hope. A hope that she imagines
+        with Carmen, a young woman from the Santa Cruz neighborhood, daughter of
+        fishermen, with whom she maintains a close relationship. A secret
+        relationship, full of clandestine meetings in the
+        shelters.</image:caption
+      >
+      <image:title>Dios te salve, María</image:title>
+    </image:image>
+  </url>
+</urlset>

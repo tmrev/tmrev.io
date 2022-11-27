@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480441-DUCKMEN of Middle Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480441-DUCKMEN of Middle Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wwsouSZIhgEsPSaZH1S3W257RkI.jpg</image:loc
+      >
+      <image:caption
+        >The Adventures of Phil Robertson, The Duck Commander, continues as he
+        travels across the hunters' paradise of New Zealand. Join Phil and his
+        mates for up close, heart pumping duck action and the breathtaking
+        beauty of New Zealand's countryside. bonus features include deer hunting
+        from the sky to the ground New Zealand style.</image:caption
+      >
+      <image:title>DUCKMEN of Middle Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

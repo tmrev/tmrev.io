@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/266102-Desert Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/266102-Desert Dancer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uV1GYM2gdit0SnNWAweG321evbg.jpg</image:loc
+      >
+      <image:caption
+        >Inspirational true story of Iranian dancer Afshin Ghaffarian, who
+        risked his life for his dream to become a dancer despite a nationwide
+        dancing ban.</image:caption
+      >
+      <image:title>Desert Dancer</image:title>
+    </image:image>
+  </url>
+</urlset>

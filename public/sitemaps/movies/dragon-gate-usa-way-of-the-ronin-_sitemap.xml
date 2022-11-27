@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/779141-Dragon Gate USA Way of the Ronin 2014</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/779141-Dragon Gate USA Way of the Ronin 2014</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >DGUSA presented its second show of the weekend, Way of the Ronin 2014,
+        on WWNLive featuring defenses of both the DGUSA Open The Freedom Gate
+        Title and the EVOLVE Championship.</image:caption
+      >
+      <image:title>Dragon Gate USA Way of the Ronin 2014</image:title>
+    </image:image>
+  </url>
+</urlset>

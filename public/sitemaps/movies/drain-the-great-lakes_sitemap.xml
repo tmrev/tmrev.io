@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/215147-Drain The Great Lakes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/215147-Drain The Great Lakes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jLDNrcekOVPnqu1pR0Mt2eMBvbl.jpg</image:loc
+      >
+      <image:caption
+        >North Americas Great Lakes are the largest system of free fresh water
+        on earth, wielding huge influence on the continent. Over 34 million
+        people live by their shores in some of greatest cities in the world.
+        This groundbreaking television program pulls a virtual plug on the huge
+        lakes, using computer-generated imagery to reveal hidden secrets of
+        their human history and changing geological past.</image:caption
+      >
+      <image:title>Drain The Great Lakes</image:title>
+    </image:image>
+  </url>
+</urlset>

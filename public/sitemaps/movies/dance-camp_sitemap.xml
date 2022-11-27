@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382400-Dance Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382400-Dance Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lq2AYWuzy7W7t2mQqBXyzGdgKNJ.jpg</image:loc
+      >
+      <image:caption
+        >When Hunter gets sent to a dorky summer dance camp, he thinks he's
+        about to have the worst summer of his life. But the quirky charm of the
+        camp grows on him when he meets the passionate Cheyenne and joins her
+        dance troupe to challenge the arrogant champion Lance in the camp’s
+        Legends of Dance competition.</image:caption
+      >
+      <image:title>Dance Camp</image:title>
+    </image:image>
+  </url>
+</urlset>

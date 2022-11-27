@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/854868-Destination Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/854868-Destination Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vzxWBodVADBvbUXuzY5vnZGIHO1.jpg</image:loc
+      >
+      <image:caption
+        >Madison has the chance to pursue her love of event management when her
+        two best friends announce their engagement. Finding a pre-planned
+        wedding package on a remote island vineyard in New Zealand, Madison
+        teams up with David, the handsome vineyard owner, to re-imagine the
+        event for her friends.</image:caption
+      >
+      <image:title>Destination Love</image:title>
+    </image:image>
+  </url>
+</urlset>

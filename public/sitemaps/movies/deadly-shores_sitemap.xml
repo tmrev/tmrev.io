@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/547265-Deadly Shores</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/547265-Deadly Shores</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h8xrBBlhZhohSNn6pTNfauNXyUW.jpg</image:loc
+      >
+      <image:caption
+        >This gripping thriller follows Anna who moves to a remote island as the
+        new bride of a famous mystery writer. Once there, she uncovers secrets
+        about her new husband's dead former wife and fears she may be the next
+        victim.</image:caption
+      >
+      <image:title>Deadly Shores</image:title>
+    </image:image>
+  </url>
+</urlset>

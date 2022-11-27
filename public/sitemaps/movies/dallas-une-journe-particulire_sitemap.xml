@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/237772-Dallas, une journée particulière</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/237772-Dallas, une journée particulière</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/syeFlXqUtg2o8MjYVHUny4skHH7.jpg</image:loc
+      >
+      <image:caption
+        >November 22, 1963, John Fitzgerald Kennedy was assassinated in Dallas.
+        Through the perspective of various stakeholders, Patrick Jeudy attempts
+        to trace step by step the progress of this black day in American
+        History.</image:caption
+      >
+      <image:title>Dallas, une journée particulière</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71116-DotCom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71116-DotCom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fr6y2Rbbuk1uY5bbgKohZRhg3CB.jpg</image:loc
+      >
+      <image:caption
+        >A small village in Portugal, Águas-Altas, is being sued by a Spanish
+        multinational corporation because the village hosts a website that uses
+        the same name as an international brand of mineral water. A judicial
+        battle for website begins, that quickly turned in to a media circus.
+        Thus the residents of this small village, who are not even sure what the
+        internet is, are forced defend their website and their villages
+        honour.</image:caption
+      >
+      <image:title>DotCom</image:title>
+    </image:image>
+  </url>
+</urlset>

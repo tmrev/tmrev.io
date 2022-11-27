@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13581-Dead of Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13581-Dead of Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oVAlugIkLCkyyXufNDhtr5kl3yB.jpg</image:loc
+      >
+      <image:caption
+        >Architect Walter Craig, seeking the possibility of some work at a
+        country farmhouse, soon finds himself once again stuck in his recurring
+        nightmare. Dreading the end of the dream that he knows is coming, he
+        must first listen to all the assembled guests' own bizarre
+        tales.</image:caption
+      >
+      <image:title>Dead of Night</image:title>
+    </image:image>
+  </url>
+</urlset>

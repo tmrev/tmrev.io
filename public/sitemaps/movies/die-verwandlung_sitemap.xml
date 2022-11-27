@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/474367-Die Verwandlung</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/474367-Die Verwandlung</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g6fskVjRJPFyei15OvHFgNhM8Qt.jpg</image:loc
+      >
+      <image:caption
+        >This short follows Gregor Samsa from Franz Kafka's "The Metamorphosis".
+        It is set in the modern world and shows the events leading up to Kafka's
+        metamorphosis. Gregor is a young man working for a textile company, who
+        breaks down mentally after his job becomes overwhelming. He slowly loses
+        his sanity and touch with reality.</image:caption
+      >
+      <image:title>Die Verwandlung</image:title>
+    </image:image>
+  </url>
+</urlset>

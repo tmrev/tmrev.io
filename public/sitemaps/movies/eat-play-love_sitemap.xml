@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/471608-Eat, Play, Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/471608-Eat, Play, Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kdDlx7ACjdvjOgM5mDyy7C2yBEH.jpg</image:loc
+      >
+      <image:caption
+        >Veterinarian Dr. Carly Monroe makes it a habit to stop by the local dog
+        shelter as often as possible because she loves dogs and secretly loves
+        the shelter’s owner, Dan. Unfortunately, he has agreed to marry his
+        glamorous TV personality girlfriend and move to the Big Apple. With
+        Dan’s big move looming, his sister decides to take matters into her own
+        hands.</image:caption
+      >
+      <image:title>Eat, Play, Love</image:title>
+    </image:image>
+  </url>
+</urlset>

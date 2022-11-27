@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/813049-Debt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/813049-Debt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qVP7Rbp5d4V95hZ0KTXpAdrEPn4.jpg</image:loc
+      >
+      <image:caption
+        >DEBT stars Ashley Killips as "Gina," a tough, smart-talking debt
+        collector for a shady criminal organization. She lives dangerously in
+        her work, while attempting to keep up the facade of a normal life. Her
+        latest job, however, threatens to destroy the life and relationships
+        she's built for herself when she's confronted by her
+        past.</image:caption
+      >
+      <image:title>Debt</image:title>
+    </image:image>
+  </url>
+</urlset>

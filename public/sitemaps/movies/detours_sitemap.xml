@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365359-Detours</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365359-Detours</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yv6AzQb0ccqZvT7PdfU3ZXm5xFs.jpg</image:loc
+      >
+      <image:caption
+        >A newly single New Yorker must re-locate to Florida for her dream job.
+        She drives south with her widowed dad, her mom's ashes in a coffee can,
+        and a GPS with a mind of its own.</image:caption
+      >
+      <image:title>Detours</image:title>
+    </image:image>
+  </url>
+</urlset>

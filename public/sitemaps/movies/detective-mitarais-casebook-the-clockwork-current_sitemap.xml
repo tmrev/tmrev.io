@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/435723-Detective Mitarai's Casebook: The Clockwork
+      Current</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/435723-Detective Mitarai's Casebook: The Clockwork
+      Current</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gqKHMgY9hROEnUuS8xjla3DxQ9I.jpg</image:loc
+      >
+      <image:caption
+        >Private Detective Kiyoshi Mitarai and Miyuki Ogawa arrive in Fukuyama,
+        Hiroshima Prefecture. They are interested in a case which involves
+        discovered bodies. The bodies were found drifting in the Seto Inland
+        Sea, where the currents repeat every 6 hours.</image:caption
+      >
+      <image:title
+        >Detective Mitarai's Casebook: The Clockwork Current</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

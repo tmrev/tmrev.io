@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/575492-Devastación</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/575492-Devastación</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/75Shv6Rin7BUEdnzz9IdzNakcip.jpg</image:loc
+      >
+      <image:caption
+        >In a city devastated by an infection of reanimated dead who spread this
+        condition by biting the living, the city has been walled off and
+        isolated from the rest of the world until a survivor presumably immune
+        to the infection will try to escape the dangers of this society post
+        apocalyptic that coexists with these monsters in very peculiar
+        ways.</image:caption
+      >
+      <image:title>Devastación</image:title>
+    </image:image>
+  </url>
+</urlset>

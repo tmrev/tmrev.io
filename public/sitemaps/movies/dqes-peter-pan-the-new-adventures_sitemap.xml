@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/363871-DQE's Peter Pan: The New Adventures</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/363871-DQE's Peter Pan: The New Adventures</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7IJwKzVKGhfjZLnWhPwIZ5EYGFS.jpg</image:loc
+      >
+      <image:caption
+        >Neverland, is in great danger! Captain Hook has hatched a twisted plan
+        to capture Peter and his friends. In order to keep Neverland safe from
+        Hook, the young heroes must fly head-on into adventure and protect their
+        right to never grow up!</image:caption
+      >
+      <image:title>DQE's Peter Pan: The New Adventures</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/716336-Denise Ho: Becoming the Song</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/716336-Denise Ho: Becoming the Song</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yGphFTF1mugBnXNWYMQgpxP8ZN7.jpg</image:loc
+      >
+      <image:caption
+        >This timely documentary explores the singer's remarkable journey from
+        Cantopop superstar to outspoken political activist, putting her life and
+        career on the line in support of Hong Konger's struggle to maintain
+        their political freedom.</image:caption
+      >
+      <image:title>Denise Ho: Becoming the Song</image:title>
+    </image:image>
+  </url>
+</urlset>

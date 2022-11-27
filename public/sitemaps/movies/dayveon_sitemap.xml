@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/422052-Dayveon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/422052-Dayveon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/csCskEeh8mQxsJsuL48U8WWTCqD.jpg</image:loc
+      >
+      <image:caption
+        >In the wake of his big brother’s violent death, 13-year-old Dayveon
+        struggles to find his way in an economically depressed Arkansas town.
+        With no parents and few role models around, Dayveon is soon torn between
+        the lure of a local gang and the friendship of his sister’s
+        boyfriend.</image:caption
+      >
+      <image:title>Dayveon</image:title>
+    </image:image>
+  </url>
+</urlset>

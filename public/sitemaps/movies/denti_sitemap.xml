@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43592-Denti</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43592-Denti</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rDM6mQaExlYkNyMwTEnLmvq7XDA.jpg</image:loc
+      >
+      <image:caption
+        >Antonio is a man born with unusually large incisors; his freakishly
+        huge teeth made him an outcast as a child and as man he has become
+        obsessive and controlling in his relationships with women. Convinced
+        that his girlfriend cheated on him (with her dentist, ça va sans dire),
+        Antonio insults her in a fit of anger and in the fight she breaks off
+        one of his teeth. Antonio now must travel across the country, going from
+        dentist to dentist in search of someone who can make a crown that will
+        suit his extra-large smile.</image:caption
+      >
+      <image:title>Denti</image:title>
+    </image:image>
+  </url>
+</urlset>

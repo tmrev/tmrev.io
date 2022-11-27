@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607153-Dream Theater: The Score So Far...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607153-Dream Theater: The Score So Far...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eUzMunC8lz26yv1Rot4OHa48qKt.jpg</image:loc
+      >
+      <image:caption
+        >Full length documentary chronicling 20 years of the legendary American
+        prog metal band Dream Theater.</image:caption
+      >
+      <image:title>Dream Theater: The Score So Far...</image:title>
+    </image:image>
+  </url>
+</urlset>

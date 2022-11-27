@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121077-Eat The Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121077-Eat The Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Mason is a modern day "sungazer" and subject of Peter Sorcher’s
+        award-winning and suspenseful documentary film that follows Mason on an
+        unbelievable and often hilarious cross-country tour into the little
+        known world of sungazing; an ancient practice of looking directly at the
+        sun for a range of physical and spiritual benefits. Throughout his
+        journey, Mason is riddled with uncertainty. Will he damage his eyes? Is
+        the man who inspires thousands lying? Will Mason succeed in his quest to
+        uncover the truth? This captivating documentary will challenge your
+        deepest held beliefs.</image:caption
+      >
+      <image:title>Eat The Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

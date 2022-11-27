@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/294299-Degenerate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/294299-Degenerate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3C9yVM9EmNQ0YYArSehh6SbNs2h.jpg</image:loc
+      >
+      <image:caption
+        >Haunted by the images of his own traumatic past, Blair O'Leary (Bobby
+        Field) unknowingly leads his friends down a dark path of destruction.
+        Being a good friend, Marcus (David Yost) lends a helping hand getting
+        Blair, Ralphie (Claude Duhammel), and Kayton (William Lamar) situated in
+        a safe house in the middle of the Arizona desert... but there's a catch.
+        They must pull off a job in order to pay their way. In tight situations
+        friendships can only stretch so far, and what comes around goes around
+        in this twisted tale.</image:caption
+      >
+      <image:title>Degenerate</image:title>
+    </image:image>
+  </url>
+</urlset>

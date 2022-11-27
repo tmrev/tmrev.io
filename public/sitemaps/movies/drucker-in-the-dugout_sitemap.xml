@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/363149-Drucker in the Dug-Out</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/363149-Drucker in the Dug-Out</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8BZ33wyaakinYhvFh0jzk59cAkR.jpg</image:loc
+      >
+      <image:caption
+        >The movie is about Minami Kawashima, a high school girl who becomes the
+        manager of her school's baseball team in place of her hospitalized
+        friend, Yuki Miyata. She tries to lead the team to the National High
+        School Baseball Championship by learning strategies from the business
+        book Management: Tasks, Responsibilities, Practices by Peter Drucker,
+        which she mistakenly bought.</image:caption
+      >
+      <image:title>Drucker in the Dug-Out</image:title>
+    </image:image>
+  </url>
+</urlset>

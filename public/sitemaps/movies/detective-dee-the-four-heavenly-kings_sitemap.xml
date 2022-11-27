@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/506763-Detective Dee: The Four Heavenly Kings</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/506763-Detective Dee: The Four Heavenly Kings</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nZ3XTA5ZlGOj92jRBSYglW8r9QY.jpg</image:loc
+      >
+      <image:caption
+        >Dee, the detective serving Chinese empress Wu Zetian, is called upon to
+        investigate a series of strange events in Loyang, including the
+        appearance of mysterious warriors wearing Chiyou ghost masks, foxes that
+        speak human language and the pillar sculptures in the palace coming
+        alive.</image:caption
+      >
+      <image:title>Detective Dee: The Four Heavenly Kings</image:title>
+    </image:image>
+  </url>
+</urlset>

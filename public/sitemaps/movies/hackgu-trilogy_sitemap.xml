@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26595-.hack//G.U. Trilogy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26595-.hack//G.U. Trilogy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zged85q5jE6qD0kbcasdhUXQinq.jpg</image:loc
+      >
+      <image:caption
+        >Join Haseo on his quest to track down Tri-Edge, the devious PK
+        responsible for leaving one of his closest friends in a coma. Along the
+        way he meets Atolli, a gentle girl who takes an interest in him despite
+        his chilly demeanor. Together, Haseo and Atolli will attempt to survive
+        long enough to decipher the riddle of the entities known as AIDAs—and
+        save their fellow gamers from permanent sleep.</image:caption
+      >
+      <image:title>.hack//G.U. Trilogy</image:title>
+    </image:image>
+  </url>
+</urlset>

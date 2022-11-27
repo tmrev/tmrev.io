@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799518-Dead Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799518-Dead Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2T2WMg6en6afkeWD1VNVfFES4Z6.jpg</image:loc
+      >
+      <image:caption
+        >Even after ten years, Lieutenant Morteza Rashed still has nightmares of
+        corpses and dolls floating around after the fall of the Airbus plane by
+        those who served aboard USS Vincennes at 1988. He has been holding a
+        grudge towards them ever since they attacked this plane, and is always
+        looking for an opportunity to take revenge...</image:caption
+      >
+      <image:title>Dead Wave</image:title>
+    </image:image>
+  </url>
+</urlset>

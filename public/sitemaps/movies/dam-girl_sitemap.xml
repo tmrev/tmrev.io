@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/929403-Dam Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/929403-Dam Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hZsGpjW0RxFRdO7CMZ8MMZmNm9x.jpg</image:loc
+      >
+      <image:caption
+        >This drama depicts the loneliness and love of a daughter whose father
+        and home village have been submerged by a dam development, while also
+        incorporating Japan's unique eroticism.</image:caption
+      >
+      <image:title>Dam Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

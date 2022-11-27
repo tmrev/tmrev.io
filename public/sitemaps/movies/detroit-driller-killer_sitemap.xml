@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/689478-Detroit Driller Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/689478-Detroit Driller Killer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rqRUl2ouw0K1k6u0sQvoU7SeZvF.jpg</image:loc
+      >
+      <image:caption
+        >A struggling screenwriter is driven to violence by the noise and decay
+        of the city around him. He lashes out with an electric power
+        drill.</image:caption
+      >
+      <image:title>Detroit Driller Killer</image:title>
+    </image:image>
+  </url>
+</urlset>

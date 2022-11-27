@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/613053-Dance of the Wind</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/613053-Dance of the Wind</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bInP6Kopplc9JtEAPEoU4nrU5N5.jpg</image:loc
+      >
+      <image:caption
+        >Youssef, a director in his fifties, is preparing a film and goes
+        scouting in the south of Tunisia. He travels the region, records images,
+        meets a beautiful shepherdess during his stay in a mysterious village,
+        before getting lost in the night.</image:caption
+      >
+      <image:title>Dance of the Wind</image:title>
+    </image:image>
+  </url>
+</urlset>

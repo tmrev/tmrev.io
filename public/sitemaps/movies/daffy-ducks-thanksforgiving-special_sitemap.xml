@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/480856-Daffy Duck's Thanks-for-Giving Special</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/480856-Daffy Duck's Thanks-for-Giving Special</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8qKErxJKIyeqJVhGKEXm95He7kX.jpg</image:loc
+      >
+      <image:caption
+        >A 1980 Looney Tunes Thanksgiving special, starring Daffy Duck. Cartoons
+        featured "The Scarlet Pumpernickel" "Robin Hood Daffy" "Drip-Along
+        Daffy" "His Bitter Half"</image:caption
+      >
+      <image:title>Daffy Duck's Thanks-for-Giving Special</image:title>
+    </image:image>
+  </url>
+</urlset>

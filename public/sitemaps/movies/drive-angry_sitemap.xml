@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47327-Drive Angry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47327-Drive Angry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/88jM4h9Jd9NRjgq72kmJZ2jXyzN.jpg</image:loc
+      >
+      <image:caption
+        >Milton is a hardened felon who has broken out of Hell, intent on
+        finding the vicious cult who brutally murdered his daughter and
+        kidnapped her baby. He joins forces with a sexy, tough-as-nails
+        waitress, who's also seeking redemption of her own. Caught in a deadly
+        race against time, Milton has three days to avoid capture, avenge his
+        daughter's death, and save her baby before she's mercilessly sacrificed
+        by the cult.</image:caption
+      >
+      <image:title>Drive Angry</image:title>
+    </image:image>
+  </url>
+</urlset>

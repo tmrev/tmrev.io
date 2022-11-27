@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140359-Dominator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140359-Dominator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xPwmNtKehHUwZoWzkD5PIGKIiYa.jpg</image:loc
+      >
+      <image:caption
+        >After a civil war in Hell, Lucifer has been defeated and the Key to
+        Hell is in Lord Desecrater's grasp. However, the rebellious Dominator
+        has his own thoughts and keeps the Key to Hell away from Lord Desecrater
+        and is forced to fight off his forces including three other demons -
+        Decimator, Extricator and Lady Violator.</image:caption
+      >
+      <image:title>Dominator</image:title>
+    </image:image>
+  </url>
+</urlset>

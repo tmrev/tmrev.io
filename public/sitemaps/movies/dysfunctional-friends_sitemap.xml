@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/98557-Dysfunctional Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/98557-Dysfunctional Friends</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oq9UGUeaGzLNR0nAcQZuYLIpuBg.jpg</image:loc
+      >
+      <image:caption
+        >A group of college friends are reunited after the death of their very
+        successful friend. The will dictates that each person will receive a
+        large sum of money if they can all successfully stay in his mansion for
+        a week. If one person leaves, everyone forfeits the
+        money.</image:caption
+      >
+      <image:title>Dysfunctional Friends</image:title>
+    </image:image>
+  </url>
+</urlset>

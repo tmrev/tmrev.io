@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/393729-Divines</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/393729-Divines</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6P12dmdR0XFXXOPx1HsI8kT6yMX.jpg</image:loc
+      >
+      <image:caption
+        >In a ghetto where religion and drug trafficking rub shoulders, Dounia
+        has a lust for power and success. Supported by Maimouna, her best
+        friend, she decides to follow in the footsteps of Rebecca, a respected
+        dealer. But her encounter with Djigui, a young, disturbingly sensual
+        dancer, throws her off course.</image:caption
+      >
+      <image:title>Divines</image:title>
+    </image:image>
+  </url>
+</urlset>

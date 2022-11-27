@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273773-Don't Let the Riverbeast Get You!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273773-Don't Let the Riverbeast Get You!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gd16qmX08rbZU4MPIAEsQhnpjru.jpg</image:loc
+      >
+      <image:caption
+        >In this campy throwback to 1950s monster films, a vicious monster, the
+        Riverbeast, has arisen from its watery lair to terrorize a peaceful New
+        England town. Local tutor Neil Stuart has seen the beast before, but
+        nobody believed his story, making him the town laughingstock. Neil sets
+        out to not only prove that the Riverbeast exists, but also, with the
+        help of his beautiful pupil, scrappy tutor buddies, and a former
+        professional athlete, to vanquish the aquatic menace!</image:caption
+      >
+      <image:title>Don't Let the Riverbeast Get You!</image:title>
+    </image:image>
+  </url>
+</urlset>

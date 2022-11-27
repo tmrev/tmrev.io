@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/282420-Disney: Through the Looking Glass</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/282420-Disney: Through the Looking Glass</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gwtZoVZd5JYgD93WH9VgfwhnSlc.jpg</image:loc
+      >
+      <image:caption
+        >Tito del Amo, a passionate 72-year-old researcher, takes the final step
+        to unravel the enigma about the alleged Spanish origin of the American
+        cartoonist Walt Disney, making the same journey that his supposed mother
+        made to give him up for adoption in Chicago. A journey that begins in
+        Mojácar, Almería, Spain, and ends in New York. An exciting adventure,
+        like Alicia's through the looking glass, to discover what is truth and
+        what is not, with an unexpected result.</image:caption
+      >
+      <image:title>Disney: Through the Looking Glass</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123823-Don't Stop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123823-Don't Stop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iym3jIfFjiGLWMHSJ4QqYtrSNrO.jpg</image:loc
+      >
+      <image:caption
+        >Prague, 1983. The communist regime, in a suffocating atmosphere ruled
+        over by the secret police, imposes "normalization". Miki and David need
+        some kind of motivation to carry on in the communist wasteland. They
+        discover The Clash's album 'London Calling' and, of course, decide to
+        set up a punk band. But playing punk during normalization in
+        Czechoslovakia isn't the best idea, an opinion shared not only by their
+        horrified parents. Many decisions made under the influence of cheap
+        alcohol and compulsive music could be more fatal than they initially
+        seemed. A story about the revolt of some 18-year-olds against authority,
+        against social norms, against adult duties and responsibility. It is
+        about the search for one's own models and values. Although based on
+        personal experiences from the early 1980s, it could have taken place at
+        any time and anywhere, and is more than likely taking place somewhere
+        right now.</image:caption
+      >
+      <image:title>Don't Stop</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/496183-Desert Mirage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/496183-Desert Mirage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6lu1VZl08ByxBtXGjPPHAwo1jEV.jpg</image:loc
+      >
+      <image:caption
+        >Aspiring cartoonist and middle-aged gumbuster Cliff Morelli (Jeremy
+        Koerner, Black Cat Whiskey, New York Lately) spends his days at the
+        Santa Cruz Beach Boardwalk performing minimum wage janitorial duties.
+        When he is put on suspension after harassing a teenager and his parents
+        threaten to throw him out of the house, Cliff decides to actively pursue
+        his lifelong animation dreams by reconnecting with his rich brother
+        Jack. After a failed attempt and a string of bad luck, Cliff finds
+        himself at the mercy of the animated characters he has created, and
+        together, they form a devilish plan to exact revenge on all those that
+        have wronged him.</image:caption
+      >
+      <image:title>Desert Mirage</image:title>
+    </image:image>
+  </url>
+</urlset>

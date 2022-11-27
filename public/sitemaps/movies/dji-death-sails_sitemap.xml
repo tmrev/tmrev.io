@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369855-Dji. Death Sails</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369855-Dji. Death Sails</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kbfZNVtXKoF0FCyEWufQMsZHfhh.jpg</image:loc
+      >
+      <image:caption
+        >Bad days at work may happen in anyone's life, even if you are a Grim
+        Reaper.</image:caption
+      >
+      <image:title>Dji. Death Sails</image:title>
+    </image:image>
+  </url>
+</urlset>

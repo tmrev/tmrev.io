@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/646883-Duvarlar-Mauern-Walls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/646883-Duvarlar-Mauern-Walls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nGpFJm6ijpuxmWWpB1zG8GQdICq.jpg</image:loc
+      >
+      <image:caption
+        >In 1991, both two years after the fall of the Berlin Wall and the 30th
+        anniversary of the guest worker agreement, Turkish filmmaker Can Candan
+        interviewed members of Berlin's Turkish community about their
+        experiences around German reunification and the racist violence that
+        came along with it at the beginning of the 90s.</image:caption
+      >
+      <image:title>Duvarlar-Mauern-Walls</image:title>
+    </image:image>
+  </url>
+</urlset>

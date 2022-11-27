@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36166-Devilman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36166-Devilman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qRvH8FsUUNd9buirqnHNk3CCF1f.jpg</image:loc
+      >
+      <image:caption
+        >A scientific exploration in search of a new energy source unleashes a
+        group of powerful demons who begin possessing human bodies and
+        destroying civilization. Close friends Akira and Ryo wind up on
+        different sides of this epic struggle. Akira’s inner strength allows him
+        to maintain his identity and fight for good, but the weaker Ryo is
+        completely overtaken by Satan himself.</image:caption
+      >
+      <image:title>Devilman</image:title>
+    </image:image>
+  </url>
+</urlset>

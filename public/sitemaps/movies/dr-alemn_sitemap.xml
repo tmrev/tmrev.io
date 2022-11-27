@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12083-Dr. Alemán</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12083-Dr. Alemán</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fpep3Zf7WeXCdoXHk24CW3Lbhk0.jpg</image:loc
+      >
+      <image:caption
+        >Marc, an unexperienced medical doctor from Germany arrives at the
+        Hospital Universitario del Valle in Cali, Colombia for his internship
+        and soon finds himself in-between a raging gang war in Siloé, a Cali
+        barrio. In the hospital he has to care mostly for shotgun wounds, while
+        in the streets he falls in love with a stall-holder who cares for some
+        of the children involved in drug trafficking and criminal violence.
+        Alienating his colleagues and his host family while befriending the
+        kids, he soon finds himself trapped in the center of the violent
+        conflict between the gangs and has to come to a decision.</image:caption
+      >
+      <image:title>Dr. Alemán</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104392-Dead Girl Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104392-Dead Girl Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/WgB1qqGJaFyfOFi7rpq9WYWXCI.jpg</image:loc
+      >
+      <image:caption
+        >Sayuru is an ordinary teenage girl. But one day everything changes when
+        she learns that she apparently died. Even though she is dead, she is
+        still in the mind and wandering around at home on days like a ghost. But
+        her family is ready to do anything to get rid of the
+        ghost.</image:caption
+      >
+      <image:title>Dead Girl Walking</image:title>
+    </image:image>
+  </url>
+</urlset>

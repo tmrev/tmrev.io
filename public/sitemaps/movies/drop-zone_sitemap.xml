@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4954-Drop Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4954-Drop Zone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bbveyfmq6pGrzKL0l4waeA2WHHp.jpg</image:loc
+      >
+      <image:caption
+        >A team of skydiving crooks led by rogue DEA agent Ty Moncrief
+        specialize in landing on police roofs and breaking in so they can steal
+        undercover agents' files and sell them to drug lords. Federal Marshal
+        Pete Nessip lost a brother to this crew and learns skydiving with the
+        help of the tough instructor Jessie Crossmann so he can track them
+        down.</image:caption
+      >
+      <image:title>Drop Zone</image:title>
+    </image:image>
+  </url>
+</urlset>

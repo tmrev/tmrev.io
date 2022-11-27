@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1040587-Desperté con un Sueño</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1040587-Desperté con un Sueño</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wDmniKQZKGxoyJmwNOX42GLxnLH.jpg</image:loc
+      >
+      <image:caption
+        >Felipe is a teenager from La Paloma who attends an acting workshop
+        behind the back of his mother, who opposes him becoming an actor. When
+        the opportunity arises to attend a casting in Montevideo, Felipe escapes
+        by bus for the day, but when he succeeds and finds it necessary to
+        extend his stay, his lie gets out of hand.</image:caption
+      >
+      <image:title>Desperté con un Sueño</image:title>
+    </image:image>
+  </url>
+</urlset>

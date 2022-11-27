@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/246206-Dæmos Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/246206-Dæmos Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j3AG9hzUl0EExCe2Vu19b28tyrL.jpg</image:loc
+      >
+      <image:caption
+        >Trapped in an isolated cottage, Captain Cavendish thinks he is seeing
+        ghosts. The only person who might understand and help is Kate
+        Lethbridge-Stewart ... but when she arrives, she realises that Cavendish
+        is key in a plot to summon the Daemons back to the Earth. With time
+        running out, Kate discovers that sometimes even the familiar can turn
+        out to be your worst nightmare.</image:caption
+      >
+      <image:title>Dæmos Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

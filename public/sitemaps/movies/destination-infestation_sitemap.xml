@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100192-Destination: Infestation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100192-Destination: Infestation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aykFOoLZTPdSHDJbuZj3cOoypcq.jpg</image:loc
+      >
+      <image:caption
+        >While on a flight home from Colombia, the plane that Dr. Carrie Ross
+        and her daughter are on is attacked by bullet ants whose sting is the
+        most painful and deadliest on the planet. Joining forces with air
+        marshal Ethan Hart, Dr. Ross, an entomologist, tries desperately to save
+        the flight from disaster. In the end, their struggle brings them closer
+        together and offers the couple hope for the future.</image:caption
+      >
+      <image:title>Destination: Infestation</image:title>
+    </image:image>
+  </url>
+</urlset>

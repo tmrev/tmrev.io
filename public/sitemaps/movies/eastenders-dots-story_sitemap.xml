@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/628253-EastEnders: Dot’s Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/628253-EastEnders: Dot’s Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7XmbG0XEKoQLyXPBpsotbUWWgLO.jpg</image:loc
+      >
+      <image:caption
+        >Dot travels to Wales to visit the now very ill woman who she stayed
+        with during World War II.</image:caption
+      >
+      <image:title>EastEnders: Dot’s Story</image:title>
+    </image:image>
+  </url>
+</urlset>

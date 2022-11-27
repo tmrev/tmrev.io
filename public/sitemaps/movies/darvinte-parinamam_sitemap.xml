@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387566-Darvinte Parinamam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387566-Darvinte Parinamam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f69O0iBhXWwowdv4ySEQ992XBuu.jpg</image:loc
+      >
+      <image:caption
+        >The film revolves around the life of an ordinary man and a local goon
+        and how their lives get changed due to some unfortunate
+        events.</image:caption
+      >
+      <image:title>Darvinte Parinamam</image:title>
+    </image:image>
+  </url>
+</urlset>

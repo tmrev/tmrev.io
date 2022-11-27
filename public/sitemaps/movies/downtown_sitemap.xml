@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/621439-Downtown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/621439-Downtown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o400PE60xmCTy21CTf5caaoCuBl.jpg</image:loc
+      >
+      <image:caption
+        >A commuter's disapointment in missing the bus turns into a colorful and
+        unexpected joyride when the surrounding street art bursts to life
+        revealing the heart of the city from an entirely new
+        perspective.</image:caption
+      >
+      <image:title>Downtown</image:title>
+    </image:image>
+  </url>
+</urlset>

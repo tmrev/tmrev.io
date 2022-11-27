@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/131938-Delivery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/131938-Delivery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yq0Brf7BxJqYfb6y8gLnklplhgg.jpg</image:loc
+      >
+      <image:caption
+        >Disturbed loner Montgomery Goth struggles to maintain his sanity while
+        working a thankless job as a pizza delivery man. Montgomery's miserable
+        life perks up after he meets the girl of his dreams in the form of the
+        sweet Bibi. However, things go awry and Montgomery's inner demons push
+        him to go off the murderous deep end.</image:caption
+      >
+      <image:title>Delivery</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/438111-Death in the Garden of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/438111-Death in the Garden of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Death in the Garden of Paradise is an intensely personal meditation on
+        the murder of the filmmaker's father and sister in Lahore by an unknown
+        intruder. The disassociation caused by traumatic loss and the
+        impossibility of knowing the identity of the killer flow seamlessly into
+        the film's aesthetics so that familiar sights become strange,
+        shopkeepers and passing pedestrians become suspects, and sound is
+        fragmented and distorted. Architecture and haunted spaces, deserted
+        gardens, photographs and paintings are both metaphors and physical
+        locations in this elegant elegy to mortality</image:caption
+      >
+      <image:title>Death in the Garden of Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

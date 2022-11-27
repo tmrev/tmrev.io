@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/316682-Do Me Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/316682-Do Me Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cwGCWI7y2LytX2u9GCB76HCh7bn.jpg</image:loc
+      >
+      <image:caption
+        >A married man in his fifties who has lost all interest in his wife
+        suddenly meets Juliette, a young woman. She reignites love in his life
+        but triggers violent arguments with his wife. Their indifference soon
+        turns into chaos. (French with English subtitles)</image:caption
+      >
+      <image:title>Do Me Love</image:title>
+    </image:image>
+  </url>
+</urlset>

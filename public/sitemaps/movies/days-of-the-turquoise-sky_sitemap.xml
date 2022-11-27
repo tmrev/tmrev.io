@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/795168-Days of the Turquoise Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/795168-Days of the Turquoise Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hrAHO1mkXrIveYHSrQv5sv0012n.jpg</image:loc
+      >
+      <image:caption
+        >Follows the everyday life of Ali, a 15-year-old boy who has to come to
+        terms with growing up with a single father and a nosey neighbour,
+        seemingly eyeing for his affection. With the arrival of a new teacher,
+        Miss Liew, Ali finds himself developing a crush on her. At the same
+        time, he and his best friend, Hassan experience the awkward stage of
+        being a teenager, spending their day fishing and getting bullied, and
+        learning to deal with that.</image:caption
+      >
+      <image:title>Days of the Turquoise Sky</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39807-Doc West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39807-Doc West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nUDT6nsVprQ3z4svFg7qdfQuV59.jpg</image:loc
+      >
+      <image:caption
+        >After bandits steal his poker winnings this American legend makes his
+        way to the next town in search of them. Seeking out his revenge during a
+        poker game gone bad Doc West finds himself in the local town jail. When
+        his past is exposed and a battle amongst the town breaks out in gunfire
+        he will have to choose sides, between the outlaws or the law-abiding
+        citizens.</image:caption
+      >
+      <image:title>Doc West</image:title>
+    </image:image>
+  </url>
+</urlset>

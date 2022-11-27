@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/947310-Detective Zura</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/947310-Detective Zura</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lTvQXjeCbF98aWhS5g487qO6acF.jpg</image:loc
+      >
+      <image:caption
+        >A nonsense criminal action presented by a combination of Shuntaro Kanai
+        and Minoru Kawasaki, who are familiar with "The Calamari Wrestler" and
+        "Koala Kacho". With Fuyuki Moto as the lead, he depicts the activities
+        of a unique detective who uses a wig as a weapon to kill the
+        criminals.</image:caption
+      >
+      <image:title>Detective Zura</image:title>
+    </image:image>
+  </url>
+</urlset>

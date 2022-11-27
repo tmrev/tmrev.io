@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/675484-Dope Is Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/675484-Dope Is Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7hYR9Z8UIgobmXFC4jkoUs0VNvF.jpg</image:loc
+      >
+      <image:caption
+        >The story of how Dr. Mutulu Shakur, stepfather of Tupac Shakur, along
+        with the Black Panthers and the Young Lords, combined community health
+        with radical politics to create the first acupuncture detoxification
+        program in America in 1973 — a visionary project eventually deemed too
+        dangerous to exist in America.</image:caption
+      >
+      <image:title>Dope Is Death</image:title>
+    </image:image>
+  </url>
+</urlset>

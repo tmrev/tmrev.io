@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/573859-Dearest Anita</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/573859-Dearest Anita</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pe4FaWJiTmXWWmJQ7yLSbLY2Dl1.jpg</image:loc
+      >
+      <image:caption
+        >In the wake of her passing, fans of the late Hong Kong icon Anita Mui
+        strive to save and return a collection of fan-given gifts that are
+        destined for the landfill. As the items find they way back to the
+        original senders, personal stories of friendship and fandom with the
+        superstar begin to emerge.</image:caption
+      >
+      <image:title>Dearest Anita</image:title>
+    </image:image>
+  </url>
+</urlset>

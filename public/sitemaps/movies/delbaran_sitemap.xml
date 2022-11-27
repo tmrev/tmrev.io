@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43765-Delbaran</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43765-Delbaran</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d7MGMcW2foIzA0csOmHCCu91N5d.jpg</image:loc
+      >
+      <image:caption
+        >Acclaimed director Abolfazl Jalili offers a compassionate story of the
+        young Afghan refugee who lives illegally in Iran. 14-year-old Kaim
+        drifts to the Delbaran crossing on the Afghan-Iran border, where he
+        finds work at a coffee shop frequented by truck drivers. He feels at
+        home in this small oasis of friendliness, though the sounds of war can
+        be heard in the background, violent bandits prowl the roads, and opium
+        is everywhere. As we watch Kaim run from one task to another day after
+        day, we soon realize that we are watching a boy who is being cheated out
+        of his childhood.</image:caption
+      >
+      <image:title>Delbaran</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365005-Dino Death Match</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365005-Dino Death Match</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nKB2kT1V9NRHSYxq0TKiiEx6fEB.jpg</image:loc
+      >
+      <image:caption
+        >A fossil discovered in 2006 contains two nearly complete dinosaurs
+        locked in battle: a triceratops and a carnivore.</image:caption
+      >
+      <image:title>Dino Death Match</image:title>
+    </image:image>
+  </url>
+</urlset>

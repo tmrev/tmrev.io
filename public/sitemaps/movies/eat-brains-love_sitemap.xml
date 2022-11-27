@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614200-Eat Brains Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614200-Eat Brains Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bpN7nQJD6W4LmJXYVcaurA5ej1.jpg</image:loc
+      >
+      <image:caption
+        >When Jake and his dream girl, Amanda, contract a mysterious zombie
+        virus, they end up on the run from Cass, a teen psychic sent by the
+        government's top-secret Necrotic Control Division to track them down as
+        they search for a cure.</image:caption
+      >
+      <image:title>Eat Brains Love</image:title>
+    </image:image>
+  </url>
+</urlset>

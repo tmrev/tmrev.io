@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/487362-Dead Horse Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/487362-Dead Horse Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9Oi7BJMzbOWiNMuMPgJI1b2mrKR.jpg</image:loc
+      >
+      <image:caption
+        >Dead Horse Point is a film that expresses my feelings of ambivalence
+        for the western genre, and America as a nation. It is the fourth part in
+        a series of North American landscape films that I have been shooting
+        since 2003. It essentially deals with the notion of "the old west," "the
+        frontier," the blurred line between historical fact and myth, the role
+        of Hollywood in the historical process, the importance of celebrity in
+        America, and finally the influence that the western landscape has had in
+        defining the mythology of "the old west." Jason Britski</image:caption
+      >
+      <image:title>Dead Horse Point</image:title>
+    </image:image>
+  </url>
+</urlset>

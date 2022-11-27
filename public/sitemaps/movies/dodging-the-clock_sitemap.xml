@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44791-Dodging the Clock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44791-Dodging the Clock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yLdu59IJEFZCeogc5YBoiKigQ44.jpg</image:loc
+      >
+      <image:caption
+        >The passage of time is probably the only concrete proof we have that
+        justice exists in this cruel world. Some people would like to stop time
+        in its tracks, while others choose to follow its path. In this story,
+        three men in their early thirties have reached that age when it's time
+        to start thinking about "getting a life", perhaps starting a family. But
+        how do you handle the fact that your friendships are changing? That,
+        slowly, your new family is becoming the center of your ever-shrinking
+        world? What do you do when you realize your youth is a thing of the
+        past?</image:caption
+      >
+      <image:title>Dodging the Clock</image:title>
+    </image:image>
+  </url>
+</urlset>

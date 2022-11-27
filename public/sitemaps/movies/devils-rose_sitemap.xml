@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/729626-Devil's Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/729626-Devil's Rose</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In a dismal town, Daniel, a lonely bicycle deliveryman with a scarred
+        face, says nothing to the beautiful Rose, unaware that they share the
+        same longing to bury a troubled past and flee the small town life. When
+        a dark rain falls on the town, a devilish gentleman proposes to make
+        Daniel attractive so he may satisfy his needs. Daniel agrees to the
+        accord and gives the stranger freewill to decide his fate and ultimately
+        collect his soul.</image:caption
+      >
+      <image:title>Devil's Rose</image:title>
+    </image:image>
+  </url>
+</urlset>

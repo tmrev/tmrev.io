@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/820518-Dinosaur Train: Adventure Island</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/820518-Dinosaur Train: Adventure Island</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cZCZJ9WkcFJtLfGaGaptrJec77u.jpg</image:loc
+      >
+      <image:caption
+        >The Pteranodon family takes the Dinosaur Train to Adventure Island, a
+        new theme park on a volcanic island! The Conductor's archrival Thurston
+        is in charge: he proudly shows off the park's amazing robot dinosaurs!
+        When an earthquake causes the pressure to get too high, the
+        malfunctioning robots go rogue. It's up to Buddy and his siblings to
+        navigate across the island and reunite with their
+        parents.</image:caption
+      >
+      <image:title>Dinosaur Train: Adventure Island</image:title>
+    </image:image>
+  </url>
+</urlset>

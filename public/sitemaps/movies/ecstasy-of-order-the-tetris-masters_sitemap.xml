@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/91921-Ecstasy of Order: The Tetris Masters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/91921-Ecstasy of Order: The Tetris Masters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/orm6oS0RD6mlE5fMVmz62YAEyDR.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that captures the greatest world record Tetris players as
+        they prepare for the Classic Tetris World Championship. From the days of
+        Thor Aackerlund and his historic victory at the 1990 Nintendo World
+        Championships, right up to the present and Harry Hong's perfect
+        "Max-Out" score, this documentary expertly chronicles over two decades
+        of Tetris Mastery.</image:caption
+      >
+      <image:title>Ecstasy of Order: The Tetris Masters</image:title>
+    </image:image>
+  </url>
+</urlset>

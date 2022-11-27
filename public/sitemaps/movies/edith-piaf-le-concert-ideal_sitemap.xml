@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/710912-Edith Piaf - Le Concert Ideal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/710912-Edith Piaf - Le Concert Ideal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/32RhNcIDXgnXORBE9iTEyXsg5i4.jpg</image:loc
+      >
+      <image:caption
+        >Two-volume programme featuring the woman widely regarded as France's
+        greatest ever popular singer. An hour long documentary on Piaf's life
+        and career is accompanied by live performances of her most popular
+        songs, including 'La Vie en Rose' and 'Non, Je Ne Regrette Rien'. A
+        compilation of 17 of her songs, all recorded live in various concerts,
+        is edited together to produce 'The Perfect Concert'.</image:caption
+      >
+      <image:title>Edith Piaf - Le Concert Ideal</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308350-Destruction Derby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308350-Destruction Derby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Destruction Derby is a high energy look at the All-American tradition
+        of the demolition derby. This documentary will take you behind the
+        scenes exploring the refitted autos, the fanatical fans, the 'Mad Dog'
+        drivers and the annual championship 'World Series of Demolition Derby'
+        known as the Tournament of Destruction. Watch as slo-mo, computer
+        animation and in-auto sensors take you as close to the action as most
+        people would dare to get.</image:caption
+      >
+      <image:title>Destruction Derby</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444296-Deadly Lessons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444296-Deadly Lessons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/avaEwdO8SOu2lKnzWdxvYGvRC2I.jpg</image:loc
+      >
+      <image:caption
+        >Romanced by a charismatic professor, a college girl quits school to run
+        away with and marry him. While her mother tries to convince her to come
+        home, she slowly learns that he is a controlling husband with a shady
+        past... and soon realizes that if she were to leave him he would kill
+        her.</image:caption
+      >
+      <image:title>Deadly Lessons</image:title>
+    </image:image>
+  </url>
+</urlset>

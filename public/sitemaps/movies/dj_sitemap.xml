@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/798457-Déjà</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/798457-Déjà</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ii6UrmJzpMduS6xgO3m3HvhWygX.jpg</image:loc
+      >
+      <image:caption
+        >Based on a series of events over the course of one day, Oscar learns
+        that he doesn’t have very long to live. Time has passed without him
+        having noticed or, rather, accepted this fact. Following this brutal
+        realisation and moments filled with doubt and loneliness, Oscar notices
+        that he isn’t really alone.</image:caption
+      >
+      <image:title>Déjà</image:title>
+    </image:image>
+  </url>
+</urlset>

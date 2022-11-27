@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/791264-DeLorean: Back from the Future</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/791264-DeLorean: Back from the Future</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mAsgMCWgiZEtmwVKGsSBfz4EuBa.jpg</image:loc
+      >
+      <image:caption
+        >John Z DeLorean’s extraordinary and doomed attempt to build the sports
+        car of the future in 1980s Northern Ireland is the stuff of legend. A
+        buccaneering American entrepreneur, DeLorean had film star looks, a
+        famous fashion model as a wife, and an enormous ego that drove him to
+        rival the giants of the US car industry.</image:caption
+      >
+      <image:title>DeLorean: Back from the Future</image:title>
+    </image:image>
+  </url>
+</urlset>

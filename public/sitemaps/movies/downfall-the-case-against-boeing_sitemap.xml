@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913862-Downfall: The Case Against Boeing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913862-Downfall: The Case Against Boeing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/LRPi6b6gpDyKuveut38S8R38NI.jpg</image:loc
+      >
+      <image:caption
+        >Investigators reveal how Boeing’s alleged priority of profit over
+        safety could have contributed to two catastrophic crashes within months
+        of each other.</image:caption
+      >
+      <image:title>Downfall: The Case Against Boeing</image:title>
+    </image:image>
+  </url>
+</urlset>

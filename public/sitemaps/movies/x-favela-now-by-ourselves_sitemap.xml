@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45534-5x Favela, Now by Ourselves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45534-5x Favela, Now by Ourselves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bdIUKj7j9Dnjf9WDCj2AUpLBeww.jpg</image:loc
+      >
+      <image:caption
+        >The project '5 x slum, now by ourselves' gathered over 80 young people
+        from Rio's favelas (slums), selected through workshops, script and
+        filmmaking techniques to create a feature film consisting of five
+        stories that reflect different facets of the daily lives of residents of
+        these communities - with the promise of escape stereotypical
+        representations.</image:caption
+      >
+      <image:title>5x Favela, Now by Ourselves</image:title>
+    </image:image>
+  </url>
+</urlset>

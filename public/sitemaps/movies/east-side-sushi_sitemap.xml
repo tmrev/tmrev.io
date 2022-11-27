@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/257245-East Side Sushi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/257245-East Side Sushi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hyDJxhPooTZQ3F889qxHyAUzBfO.jpg</image:loc
+      >
+      <image:caption
+        >Years of working in the food industry have made Juana, a working-class
+        Latina, a chef of speed and skill. Searching for financial stability,
+        she stumbles into a high-energy, male-dominated Japanese cuisine
+        kitchen. The new atmosphere re-ignites her passions for food and life
+        and makes her hungry to get mixed up in the flavors of this new
+        world.</image:caption
+      >
+      <image:title>East Side Sushi</image:title>
+    </image:image>
+  </url>
+</urlset>

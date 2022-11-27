@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527360-Desolation Center</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527360-Desolation Center</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/efB9Ion2q96e9jWEzjbXxMmaM5U.jpg</image:loc
+      >
+      <image:caption
+        >The untold story of a series of Reagan-era guerrilla punk and
+        industrial desert happenings in Southern California that are now
+        recognized as the inspiration for Burning Man, Lollapalooza, and
+        Coachella. Interviews and rare performance footage of Sonic Youth,
+        Minutemen, Meat Puppets, Redd Kross, Einstürzende Neubauten, Survival
+        Research Laboratories, Savage Republic, Swans and more.</image:caption
+      >
+      <image:title>Desolation Center</image:title>
+    </image:image>
+  </url>
+</urlset>

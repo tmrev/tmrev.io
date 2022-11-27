@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79015-Dr. Knock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79015-Dr. Knock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tWDYV3ixNiAr3wkNIlLDvDgvjGm.jpg</image:loc
+      >
+      <image:caption
+        >Saint-Maurice, an ordinary peaceful village, lived healthily so much so
+        that the local doctor's practice was scant. But that was before Dr.
+        Parpalaid retired and was replaced by a charlatan by the name of Knock.
+        A real genius this one, for he soon managed to persuade everyone that
+        they were ill. And not only didn't they resent him but they even loved
+        their physician, who made a fortune and brought prosperity to the
+        village by turning it into a big hospital.</image:caption
+      >
+      <image:title>Dr. Knock</image:title>
+    </image:image>
+  </url>
+</urlset>

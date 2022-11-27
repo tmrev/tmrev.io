@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/552178-Dark Waters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/552178-Dark Waters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg</image:loc
+      >
+      <image:caption
+        >A tenacious attorney uncovers a dark secret that connects a growing
+        number of unexplained deaths to one of the world's largest corporations.
+        In the process, he risks everything — his future, his family, and his
+        own life — to expose the truth.</image:caption
+      >
+      <image:title>Dark Waters</image:title>
+    </image:image>
+  </url>
+</urlset>

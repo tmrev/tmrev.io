@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693843-DAU. Conformists</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693843-DAU. Conformists</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fWj8UMmodyksidzwch1ErTq6W31.jpg</image:loc
+      >
+      <image:caption
+        >Two scientists grow old and weary together in a secret Soviet
+        Institute, their unconventional friendship the only consistency in a
+        lifetime of personal and professional disappointments.</image:caption
+      >
+      <image:title>DAU. Conformists</image:title>
+    </image:image>
+  </url>
+</urlset>

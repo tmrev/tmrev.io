@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1010711-Destined at Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1010711-Destined at Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tFkFZCtrSZg30DgqCvXSqM8Wqtb.jpg</image:loc
+      >
+      <image:caption
+        >Kim and Theo meet in the midst of Black Friday shopping madness but
+        there's a definite spark between them. When a power outage causes some
+        panic at a store, the couple gets separated. With Christmas coming,
+        there should be plenty of distractions but neither Kim nor Theo can
+        forget the other. Both yearn to find each other but how with so little
+        information to go on?</image:caption
+      >
+      <image:title>Destined at Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

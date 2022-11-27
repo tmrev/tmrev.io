@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400545-Dawning</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400545-Dawning</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When Chris and Aurora Benton travel north to visit their father and
+        step-mother, they expect a normal weekend of boredom and small talk.
+        What the siblings don't know is that a creature has been wreaking havoc
+        on the local wildlife and farm animals, creating a volatile situation
+        for all parties involved. When their parents do not come home after
+        their first night in the cabin, Chris and Aurora's minds begin to break
+        down and tension builds. As the night draws nearer and unseen
+        responsibilities mount, hope becomes harder and harder to come by...if
+        only they can hold out until the dawn. Shot in the style of an
+        observational documentary, slowly morphs into a gritty, stylized
+        suspense picture.</image:caption
+      >
+      <image:title>Dawning</image:title>
+    </image:image>
+  </url>
+</urlset>

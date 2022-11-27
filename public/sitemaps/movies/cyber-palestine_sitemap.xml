@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333905-Cyber Palestine</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333905-Cyber Palestine</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mloWb2olb5cQp1n7kOtIselxl2g.jpg</image:loc
+      >
+      <image:caption
+        >Cyber ​​Palestine is a parable about a modern-day Mary and Joseph, two
+        Palestinian returnees living in Gaza, and their tribulations with the
+        Israeli occupation. Cyber ​​Palestine was commissioned by the
+        Palestinian National Authority's Bethlehem 2000 Project as part of the
+        millennium commemorations in Bethlehem.</image:caption
+      >
+      <image:title>Cyber Palestine</image:title>
+    </image:image>
+  </url>
+</urlset>

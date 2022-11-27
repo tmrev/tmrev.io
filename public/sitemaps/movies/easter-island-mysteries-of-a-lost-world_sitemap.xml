@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/357893-Easter Island: Mysteries of a Lost
+      World</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/357893-Easter Island: Mysteries of a Lost
+      World</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vSgVdIhHNJFcrB10AJ7cytDw3ao.jpg</image:loc
+      >
+      <image:caption
+        >The contrast between the majestic statues of Easter Island and the
+        desolation of their surroundings is stark. For decades Easter Island, or
+        Rapa Nui as the islanders call it, has been seen as a warning from
+        history for the planet as a whole - willfully expend natural resources
+        and the collapse of civilization is inevitable.</image:caption
+      >
+      <image:title>Easter Island: Mysteries of a Lost World</image:title>
+    </image:image>
+  </url>
+</urlset>

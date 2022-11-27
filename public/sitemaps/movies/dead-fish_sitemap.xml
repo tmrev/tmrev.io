@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19059-Dead Fish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19059-Dead Fish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w0CV2soSYdDU4h9k2liEKYxXGRq.jpg</image:loc
+      >
+      <image:caption
+        >Gary Oldman is Lynch, a strangely charming hit man in this explosively
+        funny dark comedy in the tradition of Snatch and Lock, Stock and Two
+        Smoking Barrels. With an all-star cast including Terence Stamp, Elena
+        Anaya, Robert Carlyle and Billy Zane, Dead Fish is a chaotic tale of
+        criminals looking for love, money and revenge that will have you falling
+        out of your chair laughing!</image:caption
+      >
+      <image:title>Dead Fish</image:title>
+    </image:image>
+  </url>
+</urlset>

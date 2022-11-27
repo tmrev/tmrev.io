@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654387-Eftihia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654387-Eftihia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ij5qH1EDViEGwSvc4dZLVPaKGLg.jpg</image:loc
+      >
+      <image:caption
+        >A biographical film about the life of the greatest songwriter in Greece
+        , Eftyhia Papagianopoulou (1893-1972)</image:caption
+      >
+      <image:title>Eftihia</image:title>
+    </image:image>
+  </url>
+</urlset>

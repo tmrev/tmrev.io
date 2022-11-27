@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654490-Donald And Luba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654490-Donald And Luba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Intimate documentary portrait which chronicles the lives of Donald and
+        Luba Boyd, the parents of the director and the grandparents of his 22
+        year old daughter and co-cinematographer Kate who accompanies him on his
+        personal quest through the countries that Donald and Luba had lived out
+        their failed marriage.</image:caption
+      >
+      <image:title>Donald And Luba</image:title>
+    </image:image>
+  </url>
+</urlset>

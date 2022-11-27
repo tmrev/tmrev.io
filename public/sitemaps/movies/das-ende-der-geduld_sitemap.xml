@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304640-Das Ende der Geduld</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304640-Das Ende der Geduld</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qSORRh5Lo9xcrcYHgn8mQZjylUy.jpg</image:loc
+      >
+      <image:caption
+        >Corinna Kleist is a juvenile court judge who, after a leave of absence
+        following the suicide of a convicted teenager, is appointed to a
+        'problem area' in Berlin. She now tries harder than ever to change the
+        system in order to prevent troubled kids from being turned into vicious
+        criminals.</image:caption
+      >
+      <image:title>Das Ende der Geduld</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/170110-E io non pago - L'Italia dei furbetti</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/170110-E io non pago - L'Italia dei furbetti</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tYZeUSUbchUs31GRGqEfmZdDXfy.jpg</image:loc
+      >
+      <image:caption
+        >Two customs officers undercover, Marshal Remo Signorelli and Brigadier
+        Riccardo Riva, try to stop Massimiliano Grilli, a master of evasion. On
+        one occasion, Remo meets his old friend Fulvio who suspected he had an
+        affair with his then girlfriend and now wife.</image:caption
+      >
+      <image:title>E io non pago - L'Italia dei furbetti</image:title>
+    </image:image>
+  </url>
+</urlset>

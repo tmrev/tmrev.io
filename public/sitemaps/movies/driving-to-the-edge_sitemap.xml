@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/130255-Driving to the Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/130255-Driving to the Edge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/siGET9qNBiTJFH1iLk4WOo2pFVq.jpg</image:loc
+      >
+      <image:caption
+        >Between 2007 and 2011, 725 Quebecers aged 16 to 24 were killed in car
+        accidents. Excessive speed and alcohol were involved in half of these
+        deaths. To try to understand what is going on in these young drivers'
+        heads when they get behind the wheel, host and documentary filmmaker
+        Paul Arcand met with some of them. On one hand, he gives a voice to
+        these young people who love driving fast. On the other hand, he provides
+        a forum for two accident victims who were injured both physically and
+        psychologically. Finally, the director meets the mother of little Bianca
+        Leduc, who was killed by a drunk driver while she was in the care of her
+        babysitter, and the parents of Michael Borduas, 23, who is severely
+        disabled from an accident.</image:caption
+      >
+      <image:title>Driving to the Edge</image:title>
+    </image:image>
+  </url>
+</urlset>

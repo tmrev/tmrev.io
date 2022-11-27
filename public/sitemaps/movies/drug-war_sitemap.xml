@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/110410-Drug War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/110410-Drug War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ndg350jismgWwag7RrDHb6zGo4.jpg</image:loc
+      >
+      <image:caption
+        >A drug cartel boss who is arrested in a raid is coerced into betraying
+        his former accomplices as part of an undercover
+        operation.</image:caption
+      >
+      <image:title>Drug War</image:title>
+    </image:image>
+  </url>
+</urlset>

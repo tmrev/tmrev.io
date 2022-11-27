@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/345271-Disa flytter til Japan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/345271-Disa flytter til Japan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Disa is a tough little 4 year old girl. We follow her when she has to
+        leave Norway to live on the other side of the planet-to Japan. Here she
+        meets a new world, totally different from the one she has come
+        from.</image:caption
+      >
+      <image:title>Disa flytter til Japan</image:title>
+    </image:image>
+  </url>
+</urlset>

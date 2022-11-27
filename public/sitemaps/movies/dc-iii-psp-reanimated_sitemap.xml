@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582105-D.C. I&II P.S.P. Re-Animated</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582105-D.C. I&II P.S.P. Re-Animated</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lCnfsu7qbkGvuv7MUhkzwXGsfLh.jpg</image:loc
+      >
+      <image:caption
+        >An OVA bundled with a PSP game Da Capo: D.C. I & II P.S.P. It features
+        animated confession scenes for the four main heroines of the two games,
+        Nemu, Kotori, Yume, and Otome.</image:caption
+      >
+      <image:title>D.C. I&II P.S.P. Re-Animated</image:title>
+    </image:image>
+  </url>
+</urlset>

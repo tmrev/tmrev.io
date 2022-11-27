@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/729685-De Bende van Vier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/729685-De Bende van Vier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pLloqt3Fe8iO2MYuMd93RArSmBA.jpg</image:loc
+      >
+      <image:caption
+        >The Dutch musical comedians Theo Nijland, Maarten van Roozendaal,
+        Jeroen van Merwijk and Kees Torn sing and play a selection of their
+        songs to promote the Dutch theater song.</image:caption
+      >
+      <image:title>De Bende van Vier</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57687-Die Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57687-Die Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a4bLEJkgLXAWkEhdOjWVBOjDY1D.jpg</image:loc
+      >
+      <image:caption
+        >Die Beauty is a surreal thriller in a feverish fairytale world. A story
+        about friendship and alienation, family ties and kindred blood.A group
+        of girls want something to happen. Something that will make everything
+        change. A dead body floating down the river would be exciting. And if
+        you wish for something hard enough...</image:caption
+      >
+      <image:title>Die Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

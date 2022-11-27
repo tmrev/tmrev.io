@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/651448-Darkslide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/651448-Darkslide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tBrm4WCJu2Pybdw63qi2hoQtBSl.jpg</image:loc
+      >
+      <image:caption
+        >High in the Sierra Nevada Mountains of California, a local sheriff
+        finds world skateboard champion Paul McGuiness’ abandoned hearse parked
+        at a remote alpine lake. Stricken with guilt and shame, Bruce
+        McGuiness—Paul's brother and manager—sets out on an epic road trip with
+        four of Paul’s best friends to restore his missing brother’s honor and
+        skateboard legacy. What begins as an adventure of a lifetime to make
+        skateboard history quickly turns into an ominous battle for
+        survival.</image:caption
+      >
+      <image:title>Darkslide</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550864-Devadas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550864-Devadas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gKXUai8TVBIwkMCNIXSF6f7K6WG.jpg</image:loc
+      >
+      <image:caption
+        >A sincere doctor Das works at a private clinic, where he meets the
+        dreaded don Deva who arrives injured. After the treatment, Das and Deva
+        form a deep friendship until Deva's mafia background and gruesome
+        history causes a rift in their bond.</image:caption
+      >
+      <image:title>Devadas</image:title>
+    </image:image>
+  </url>
+</urlset>

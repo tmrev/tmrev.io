@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/564403-Descansos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/564403-Descansos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wF3nQmkiMeF0cEe4gDFOLHod6Z1.jpg</image:loc
+      >
+      <image:caption
+        >A highly controversial film about a man who tears down roadside
+        memorials in his quest to bury a dark secret from his
+        past</image:caption
+      >
+      <image:title>Descansos</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/366762-Deflated</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/366762-Deflated</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b8LnQ9IaEt8A7mjv1G7MmohBxaZ.jpg</image:loc
+      >
+      <image:caption
+        >Chris has come to the store with his dad to spend his allowance. His
+        heart is set on getting a bouncy ball, but all of the balls in the ball
+        cage are bright pink…except for one deflated green ball. Ultimately
+        Chris must make a choice: is it okay for boys to play with the bright
+        pink balls or will he take home the deflated green one?</image:caption
+      >
+      <image:title>Deflated</image:title>
+    </image:image>
+  </url>
+</urlset>

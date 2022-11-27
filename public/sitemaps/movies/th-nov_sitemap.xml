@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/677675-7th Nov.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/677675-7th Nov.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tAfndBb7Y4qp3zqf6cKkKBwwaSm.jpg</image:loc
+      >
+      <image:caption
+        >The title refers to the day McQueen's cousin Marcus accidentally shot
+        his brother. On the soundtrack, Marcus tells a story while a single
+        backlit photographic slide shows him lying on his back, the top of his
+        head dominating the frame. The contrast between the still image and the
+        momentum of the narrative emphasises the intimate exchange that takes
+        place when a tale is shared. The scar on Marcus's head, Mc Queen says,
+        'is another story'.</image:caption
+      >
+      <image:title>7th Nov.</image:title>
+    </image:image>
+  </url>
+</urlset>

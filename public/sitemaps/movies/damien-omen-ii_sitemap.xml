@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10766-Damien: Omen II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10766-Damien: Omen II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ocsi8SlODWkVX6O4E8Ncfgnretw.jpg</image:loc
+      >
+      <image:caption
+        >Since the sudden and highly suspicious death of his parents,
+        12-year-old Damien has been in the charge of his wealthy aunt and uncle.
+        Widely feared to be the Antichrist, Damien relentlessly plots to seize
+        control of his uncle's business empire—and the world. Anyone attempting
+        to unravel the secrets of Damien's sinister past or fiendish future
+        meets with a swift and cruel demise.</image:caption
+      >
+      <image:title>Damien: Omen II</image:title>
+    </image:image>
+  </url>
+</urlset>

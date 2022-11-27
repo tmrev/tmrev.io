@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25646-Death Warrior</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25646-Death Warrior</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/svBOnBJWrn74PZZNhdEupKfjx7D.jpg</image:loc
+      >
+      <image:caption
+        >A gritty MMA fighter is forced into a twisted, underground gambling
+        ring in which he must fight to the death with other MMA fighters in
+        order to save his wife from certain death at the hands of a maniacal
+        crime boss. In a desperate race against time, he is forced into a series
+        of increasingly violent life and death matches while simultaneously
+        piecing together the puzzle which leads him to uncover</image:caption
+      >
+      <image:title>Death Warrior</image:title>
+    </image:image>
+  </url>
+</urlset>

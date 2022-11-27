@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276909-Deepsea Challenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276909-Deepsea Challenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uX0mbL2qtZ6b04s8leGjealE9fS.jpg</image:loc
+      >
+      <image:caption
+        >Described as being a film about determination, danger and the ocean’s
+        greatest depths, James Cameron's "Deepsea Challenge 3D" tells the story
+        of Cameron’s journey to fulfill his boyhood dream of becoming an
+        explorer. The movie offers a unique insight into Cameron's world as he
+        makes that dream reality – and makes history – by becoming the first
+        person to travel solo to the deepest point on the planet.</image:caption
+      >
+      <image:title>Deepsea Challenge</image:title>
+    </image:image>
+  </url>
+</urlset>

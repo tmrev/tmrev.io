@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/148828-Duet for Cannibals</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/148828-Duet for Cannibals</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9JnJlmzIYiEbxeY3Fdxhu4LttYT.jpg</image:loc
+      >
+      <image:caption
+        >Arthur, a university professor, and former political activist, lives in
+        France with Francesca. They decide to hire a young man in order to help
+        the teacher organize his notes. The employee leaves his girlfriend
+        Ingrid and moves in with the couple.</image:caption
+      >
+      <image:title>Duet for Cannibals</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/972244-Darkness of Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/972244-Darkness of Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cG9nNDJ4vGsogIr5Xmkw8LVL3QG.jpg</image:loc
+      >
+      <image:caption
+        >Draven Noir is a vampire with a gift. One day out of the year he gets
+        to walk in the sunlight. The only catch is that to do it again the next
+        year he must save the life of a vision he sees before the next day. If
+        he fails then he is doomed to the darkness forever. This year he must
+        use his fast gun and quick tongue to figure out how to save the life of
+        someone who is already dead.</image:caption
+      >
+      <image:title>Darkness of Day</image:title>
+    </image:image>
+  </url>
+</urlset>

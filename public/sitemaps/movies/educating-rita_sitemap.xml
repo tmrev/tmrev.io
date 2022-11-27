@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38291-Educating Rita</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38291-Educating Rita</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xwxgiRzw2zxzWNIYp98faJ0rUy5.jpg</image:loc
+      >
+      <image:caption
+        >Rita, a witty 26-year-old hairdresser, wants to 'discover' herself, so
+        she joins the Open University where she meets the disillusioned
+        professor of literature, Dr. Frank Bryant. His marriage has failed, his
+        new girlfriend is having an affair with his best friend and he can't get
+        through the day without downing a bottle or two of whisky. What Frank
+        needs is a challenge... and along comes Rita.</image:caption
+      >
+      <image:title>Educating Rita</image:title>
+    </image:image>
+  </url>
+</urlset>

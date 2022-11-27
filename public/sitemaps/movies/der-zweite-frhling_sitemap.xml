@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300643-Der zweite Frühling</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300643-Der zweite Frühling</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6IHSHQZSwzo89AvGWzS7efq1N4d.jpg</image:loc
+      >
+      <image:caption
+        >Hanne and Barbara, girlfriends in their prime, go to Bad Elster for a
+        cure, where they really let it crack - much to the delight of
+        entrepreneur Edzard and globetrotter Georg. But the way to the second
+        spring is not without thorns: The strict head nurse displeases the
+        behavior of Hanne and Barbara very much. In addition, the two
+        girlfriends dizzy their new admirers to secure their chances in the
+        opposite sex. Unfortunately, these lies have short legs and the new love
+        luck has to pass so much more than a test.</image:caption
+      >
+      <image:title>Der zweite Frühling</image:title>
+    </image:image>
+  </url>
+</urlset>

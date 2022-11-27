@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/141938-Diamond Necklace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/141938-Diamond Necklace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iYfZMu4z7nROu3tYfwsNyj34wBY.jpg</image:loc
+      >
+      <image:caption
+        >Arun is an oncologist based in Dubai who lives life king size without
+        worrying about the future. But he is in trouble when creditors start
+        pestering him and he is restricted within the country.</image:caption
+      >
+      <image:title>Diamond Necklace</image:title>
+    </image:image>
+  </url>
+</urlset>

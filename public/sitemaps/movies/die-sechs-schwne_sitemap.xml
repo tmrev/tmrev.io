@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181559-Die sechs Schwäne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181559-Die sechs Schwäne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xJp4zDZvbM92bNGiwxR8bMbDddo.jpg</image:loc
+      >
+      <image:caption
+        >On her 18th birthday, Constanze encounters a highly guarded secret. She
+        discovers in amazement that she has six brothers, who have been
+        transformed into snow-white swans by a careless word from their father
+        on the day of Constanze's birth. Constanze is stunned when suddenly the
+        six swans appear. They explain to her sister that only she alone can
+        curse the curse: for six years Constanze could not speak a single word
+        and has to sew shirts made of stinging nettles. The shirts will be able
+        to turn the swans back into people.</image:caption
+      >
+      <image:title>Die sechs Schwäne</image:title>
+    </image:image>
+  </url>
+</urlset>

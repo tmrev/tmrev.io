@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25007-Death of a Dynasty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25007-Death of a Dynasty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gNoDAvNp99t6owJ8gHIfmgmC5t.jpg</image:loc
+      >
+      <image:caption
+        >A story which centers around Dave Katz, a journalist at a hip-hop
+        magazine who is sent on assignment to uncover the often comedic
+        underworld of Roc-a-Fella Records run by Damon Dash and
+        Jay-Z.</image:caption
+      >
+      <image:title>Death of a Dynasty</image:title>
+    </image:image>
+  </url>
+</urlset>

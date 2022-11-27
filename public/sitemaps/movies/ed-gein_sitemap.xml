@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55888-Ed Gein</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55888-Ed Gein</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kmgR0RmsFei4Ev3a6GiRojuZwHx.jpg</image:loc
+      >
+      <image:caption
+        >The true story of Edward Gein, the farmer whose horrific crimes
+        inspired Psycho, The Texas Chainsaw Massacre and The Silence of the
+        Lambs. This is the first film to Gein's tormented upbringing, his adored
+        but domineering mother, and the 1957 arrest uncovered the most bizarre
+        series of murders America has ever seen</image:caption
+      >
+      <image:title>Ed Gein</image:title>
+    </image:image>
+  </url>
+</urlset>

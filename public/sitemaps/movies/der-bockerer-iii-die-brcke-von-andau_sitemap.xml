@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/83218-Der Bockerer III - Die Brücke von Andau</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/83218-Der Bockerer III - Die Brücke von Andau</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tbNub7NyrjKPHHpQZtUlrqLMWYI.jpg</image:loc
+      >
+      <image:caption
+        >Vienna, 1956. Viennese butcher Karl Bockerer goes to Hungary to buy
+        meat. Along with his foster son and grandchild, he is caught up in the
+        turmoil of the Hungarian revolt against the Soviet occupiers. With some
+        luck and a great deal of cunning, Bockerer and his family manage to
+        escape, but the Austrian border is closed - except for the bridge to
+        Andau...</image:caption
+      >
+      <image:title>Der Bockerer III - Die Brücke von Andau</image:title>
+    </image:image>
+  </url>
+</urlset>

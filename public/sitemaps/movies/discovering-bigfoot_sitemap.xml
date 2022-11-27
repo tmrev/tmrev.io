@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/483755-Discovering Bigfoot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/483755-Discovering Bigfoot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4FsxEdnoYNWq1sNsT7qSogaYT49.jpg</image:loc
+      >
+      <image:caption
+        >Reality Entertainment and The Sylvanic Cooperation presents
+        "Discovering Bigfoot." Discovering Bigfoot is the first feature film
+        documentary with real live interaction between a Bigfoot creature,
+        wilderness experts, PhD's and other world renowned experts and
+        researchers of the Bigfoot enigma.</image:caption
+      >
+      <image:title>Discovering Bigfoot</image:title>
+    </image:image>
+  </url>
+</urlset>

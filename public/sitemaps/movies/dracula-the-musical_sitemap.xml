@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/299762-Dracula: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/299762-Dracula: The Musical</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ejFfEgziMUE3Q0uvsWZ0635Ndd3.jpg</image:loc
+      >
+      <image:caption
+        >Dracula, the Musical is a musical based on the original Victorian novel
+        by Bram Stoker. The score is by Frank Wildhorn, with lyrics and book by
+        Don Black and Christopher Hampton.</image:caption
+      >
+      <image:title>Dracula: The Musical</image:title>
+    </image:image>
+  </url>
+</urlset>

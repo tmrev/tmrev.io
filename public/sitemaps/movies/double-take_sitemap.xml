@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56271-Double Take</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56271-Double Take</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/au2rn9Syy5iJEfsFakxv1GOwfCj.jpg</image:loc
+      >
+      <image:caption
+        >Director Johan Grimonprez casts Alfred Hitchcock as a paranoid history
+        professor, unwittingly caught up in a double take on the cold war
+        period. Subverting a meticulous array of TV footage and using 'The
+        Birds' as an essential metaphor, DOUBLE TAKE traces catastrophe
+        culture's relentless assault on the home, from moving images' inception
+        to the present day.</image:caption
+      >
+      <image:title>Double Take</image:title>
+    </image:image>
+  </url>
+</urlset>

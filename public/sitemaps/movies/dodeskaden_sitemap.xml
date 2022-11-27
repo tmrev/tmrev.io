@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33205-Dodes'ka-den</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33205-Dodes'ka-den</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bMKCKzd2VNyV3zZx7nmLvIlvl4W.jpg</image:loc
+      >
+      <image:caption
+        >This film follows the daily lives of a group of people barely scraping
+        by in a slum on the outskirts of Tokyo. Yet as desperate as their
+        circumstances are, each of them—the homeless father and son envisioning
+        their dream house; the young woman abused by her uncle; the boy who
+        imagines himself a trolley conductor—finds reasons to carry
+        on.</image:caption
+      >
+      <image:title>Dodes'ka-den</image:title>
+    </image:image>
+  </url>
+</urlset>

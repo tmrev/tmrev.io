@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/129966-David et Madame Hansen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/129966-David et Madame Hansen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A1grWAHywmtLh8peMZzRICFFzRV.jpg</image:loc
+      >
+      <image:caption
+        >David is an occupational therapist who has recently arrived at a clinic
+        for wealthy patients. One morning, he is entrusted with Madame
+        Hansen-Bergmann, a wealthy woman suffering from transient amnesia and
+        post-traumatic stress , with the mission of taking her to the nearby
+        village to buy a new pair of shoes. Against his will, he embarks with
+        her on a breathtaking chase during which he discovers the past life of
+        his patient and the origins of the illness from which she
+        suffers.</image:caption
+      >
+      <image:title>David et Madame Hansen</image:title>
+    </image:image>
+  </url>
+</urlset>

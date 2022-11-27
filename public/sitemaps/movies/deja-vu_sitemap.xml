@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527215-Deja Vu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527215-Deja Vu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tetvwfnEkTJZ0t2efc808NmxuFN.jpg</image:loc
+      >
+      <image:caption
+        >Jimin has killed a girl in a car accident when she was driving with her
+        fiance Woojin. From that night, she experiences terrifying hallucination
+        seeing the dead girl. Unable to bear it, she finally goes to the police
+        to report the truth, only to find that she didn’t actually have a car
+        accident.</image:caption
+      >
+      <image:title>Deja Vu</image:title>
+    </image:image>
+  </url>
+</urlset>

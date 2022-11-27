@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/873260-Dada Cinema 1921-1926</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/873260-Dada Cinema 1921-1926</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2xIoymRpnxWHkmJlJh1MDW3T64O.jpg</image:loc
+      >
+      <image:caption
+        >The most important cinematographic anthology of Dada ever produced for
+        film-goers and lovers of experimental cinema! These films are really to
+        be seen and seen in order to get a very precise idea of the beginnings
+        of cinema. SYNOPSIS: Re-voir and the Pompidou Center present the edition
+        of eight dada films</image:caption
+      >
+      <image:title>Dada Cinema 1921-1926</image:title>
+    </image:image>
+  </url>
+</urlset>

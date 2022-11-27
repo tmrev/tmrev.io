@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/633238-Ebba & Torgny and Love's Wondrous Ways</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/633238-Ebba & Torgny and Love's Wondrous Ways</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iaXCuQHjo8WeL9GGHe0ZGJt6ouC.jpg</image:loc
+      >
+      <image:caption
+        >Torgny proposed to Ebba when they were 20. Her father put a stop to it.
+        60 years later they meet again.</image:caption
+      >
+      <image:title>Ebba & Torgny and Love's Wondrous Ways</image:title>
+    </image:image>
+  </url>
+</urlset>

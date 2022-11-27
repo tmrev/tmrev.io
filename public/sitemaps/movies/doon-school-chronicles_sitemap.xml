@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/618812-Doon School Chronicles</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/618812-Doon School Chronicles</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9t1XuMtN1aaSZ8l77JZ6gXJSog8.jpg</image:loc
+      >
+      <image:caption
+        >An extraordinarily insightful and intimate exploration of the social
+        and cultural landscape of India's most elite boys' boarding school. In
+        following the boys' daily routines and dramas, the film also affords us
+        a rare glimpse at processes of postcolonial Indian identity
+        formation.</image:caption
+      >
+      <image:title>Doon School Chronicles</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334489-Dear Mister Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334489-Dear Mister Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q7y4mAx7vJXQ6mYrzQFqO52Waxt.jpg</image:loc
+      >
+      <image:caption
+        >When two half-sisters, thirteen-year-old white-haired Sigrid and
+        seven-year-old black-blooded Saara meet for the first time, it turns out
+        that their common grandmother has been taken to a nursing home. The
+        girls come up with the idea to steal him from there and hide him in the
+        attic where they can be with her undisturbed. Everything goes well
+        beyond expectations until drunkards, thugs and extortionists intervene
+        and the girls have to act decisively to escape from them.</image:caption
+      >
+      <image:title>Dear Mister Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

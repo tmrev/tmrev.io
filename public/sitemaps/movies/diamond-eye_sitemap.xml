@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/218735-Diamond Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/218735-Diamond Eye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zT9gENalK330fGuolrntZtP4qUP.jpg</image:loc
+      >
+      <image:caption
+        >A band of artifact hunters are in search of the lucrative Diamond Eye
+        magic jewel. Their intentions are less than pure and in order save the
+        world from this evil; a band of Thai martial arts experts are called
+        upon to intervene.</image:caption
+      >
+      <image:title>Diamond Eye</image:title>
+    </image:image>
+  </url>
+</urlset>

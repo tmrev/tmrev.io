@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/807963-Dark Glass</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/807963-Dark Glass</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yyqczBr5UweUVzKUjmZUf96MiNK.jpg</image:loc
+      >
+      <image:caption
+        >A psychological micro-drama that moves from the sanctuary of a domestic
+        garden to the half-remembered shadows of a house, Clio Barnard’s Dark
+        Glass peers back into a semi-veiled interior world of fraught,
+        ambivalent memories. Shot on a mobile phone camera to accentuate a
+        feeling of intimacy and immediacy, the flickering nature of the footage
+        also emphasises the film’s uncanny, otherworldly quality.</image:caption
+      >
+      <image:title>Dark Glass</image:title>
+    </image:image>
+  </url>
+</urlset>

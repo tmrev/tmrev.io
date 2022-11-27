@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78674-Dosage II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78674-Dosage II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Z8wWVzY4c8kwsViBlixMhaqE63.jpg</image:loc
+      >
+      <image:caption
+        >Dosage Volume 2 features eight high powered doses of strength climbing
+        action. Watch Austrian strongman Klem Loskot deepwater soloing in
+        Mallorca, Spain and American psycho-climber Dave Graham on the
+        sportclimbs of Rumney, NH and the boulders of Fountainebleau, France.
+        With historic first ascents and profiles of rising stars, you won't want
+        to miss this exploration of the places and people that shape the
+        sport.</image:caption
+      >
+      <image:title>Dosage II</image:title>
+    </image:image>
+  </url>
+</urlset>

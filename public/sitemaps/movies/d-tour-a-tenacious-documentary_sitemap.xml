@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127655-D Tour: A Tenacious Documentary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127655-D Tour: A Tenacious Documentary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kc3mRv6zDRBDr6l7hVOx7tP4L39.jpg</image:loc
+      >
+      <image:caption
+        >A documentary focusing on Tenacious D's world tour in support of their
+        film and soundtrack to 'Tenacious D in The Pick of
+        Destiny'.</image:caption
+      >
+      <image:title>D Tour: A Tenacious Documentary</image:title>
+    </image:image>
+  </url>
+</urlset>

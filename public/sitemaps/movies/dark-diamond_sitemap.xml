@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/384212-Dark Diamond</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/384212-Dark Diamond</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f4nmiPqdJNWDEU9jLdLGEu2jHK2.jpg</image:loc
+      >
+      <image:caption
+        >Pier Ulmann lives from hand-to-mouth in Paris, between construction
+        work and petty theft that he commits on behalf of Rachid, his only
+        “family”. But life catches up with him the day his father is found dead
+        in the street after a long decline. The black sheep of a rich Antwerp
+        family who deals in diamonds, he has left his son nothing, apart from
+        the story of his banishment from the Ulmann family and a thirst for
+        revenge.</image:caption
+      >
+      <image:title>Dark Diamond</image:title>
+    </image:image>
+  </url>
+</urlset>

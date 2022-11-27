@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589261-Deadly Assistant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589261-Deadly Assistant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xa1q03ZWiIhGncx72BMEE6FODU.jpg</image:loc
+      >
+      <image:caption
+        >Amanda Birch, after years of estrangement, returns to reconnect with
+        her sister Lauren. Things only get worse when her sister mysteriously
+        dies days later. The entire family is suspected in a murder
+        investigation as it becomes clear that Lauren’s death was no
+        accident.</image:caption
+      >
+      <image:title>Deadly Assistant</image:title>
+    </image:image>
+  </url>
+</urlset>

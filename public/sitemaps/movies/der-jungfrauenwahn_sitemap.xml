@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/394037-Der Jungfrauenwahn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/394037-Der Jungfrauenwahn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AgHYCycqrMQzqPdojP4cso0tY4i.jpg</image:loc
+      >
+      <image:caption
+        >For young Muslims who live in a free society, how is the culture of
+        origin of the parents compatible with their own wishes? What
+        significance does the commandment of virginity have?</image:caption
+      >
+      <image:title>Der Jungfrauenwahn</image:title>
+    </image:image>
+  </url>
+</urlset>

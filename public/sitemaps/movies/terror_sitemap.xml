@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/318972-(T)ERROR</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/318972-(T)ERROR</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cQ7kWpSagnExircpQltp1Wnuqr6.jpg</image:loc
+      >
+      <image:caption
+        >This real-life look at FBI counterterrorism operations features access
+        to both sides of a sting: the government informant and the radicalized
+        target.</image:caption
+      >
+      <image:title>(T)ERROR</image:title>
+    </image:image>
+  </url>
+</urlset>

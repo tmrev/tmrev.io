@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336884-Dark Woods II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336884-Dark Woods II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tlFDrOk3Zpo9rDVhrBBbnfuFAJ4.jpg</image:loc
+      >
+      <image:caption
+        >An old sanatorium is deteriorating in an isolated forest in the
+        mountains. Five contract workers have taken on the task of tracking the
+        huge building for hazardous waste before it's demolished. They realize
+        that the job is more than a search for asbestos and mercury when they
+        encounter the building's frightening past. You can demolish a building,
+        but never remove the past.</image:caption
+      >
+      <image:title>Dark Woods II</image:title>
+    </image:image>
+  </url>
+</urlset>

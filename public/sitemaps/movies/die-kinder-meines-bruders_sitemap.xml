@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/379277-Die Kinder meines Bruders</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/379277-Die Kinder meines Bruders</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s0oqHkYvO8C9fUhxGODnGwT0zxS.jpg</image:loc
+      >
+      <image:caption
+        >Eric leads a carefree life in Berlin. He loves his girlfriend Verena,
+        but family, attachment and responsibility are foreign words for him.
+        When he learns of the death of his brother, who lived as a dairy farmer
+        in Saxony-Anhalt, Eric wants to wind up the insolvent farm as quickly as
+        possible and deport Christoph's children to foster parents. When he
+        realizes that the price dumping of the milk cartels drove his brother to
+        his death he tells the big dairies to fight.</image:caption
+      >
+      <image:title>Die Kinder meines Bruders</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/41712-Door to Door</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/41712-Door to Door</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cXrWdI2rUVqhy6E7w6025ldpFxd.jpg</image:loc
+      >
+      <image:caption
+        >Sometimes the true heroes in our lives are those people who inspire us
+        not with their superhuman accomplishments but simply by their refusal to
+        give up in the face of seemingly insurmountable odds and the dignity in
+        which they go about their lives. Bill Porter is one of those heroes.
+        Born with cerebral palsy, he was told for many years that he was
+        unemployable. But with the unwavering support of a dedicated mother and
+        an indomitable spirit that has become his trademark, Porter did support
+        himself as a door-to-door salesman in Portland, Ore.</image:caption
+      >
+      <image:title>Door to Door</image:title>
+    </image:image>
+  </url>
+</urlset>

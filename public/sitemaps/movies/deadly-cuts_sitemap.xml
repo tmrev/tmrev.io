@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793511-Deadly Cuts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793511-Deadly Cuts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ywnFVEWYVcdwe7NaF6F4ZBCqCw.jpg</image:loc
+      >
+      <image:caption
+        >A black comedy set in a working-class Dublin hair salon where the
+        stylists become accidental vigilantes and community heroes as they take
+        on the gang members and gentrifiers threatening their
+        community.</image:caption
+      >
+      <image:title>Deadly Cuts</image:title>
+    </image:image>
+  </url>
+</urlset>

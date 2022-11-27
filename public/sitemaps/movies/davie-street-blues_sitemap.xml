@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/819431-Davie Street Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/819431-Davie Street Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qcBOG486cI3b87XNS3K1dz1RXdk.jpg</image:loc
+      >
+      <image:caption
+        >After his boyfriend leaves, a young man is lost in nostalgia and
+        depression, until a mute street kid tries to distract him from his
+        melancholy. A moody and romantic story that pays homage to the film noir
+        of Hong Kong director Wong Kar-Wai.</image:caption
+      >
+      <image:title>Davie Street Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

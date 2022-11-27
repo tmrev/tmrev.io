@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/255266-Dry Spell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/255266-Dry Spell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u9oGJbBEFoyiHQ1rE3dRFOcyfqD.jpg</image:loc
+      >
+      <image:caption
+        >Sasha tries to get her soon-to-be ex husband Kyle laid so she can move
+        on with her sex life guilt-free.</image:caption
+      >
+      <image:title>Dry Spell</image:title>
+    </image:image>
+  </url>
+</urlset>

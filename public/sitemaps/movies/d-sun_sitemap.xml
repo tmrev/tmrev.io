@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/630650-3D Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/630650-3D Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/csWMHNXlyWrpPLwIHCUKcUajSoB.jpg</image:loc
+      >
+      <image:caption
+        >From Earth we cannot look at the Sun with our human eyes. This 3D Sun
+        odyssey gives audiences a chance to see the Sun up close in startling
+        3D; stand above the arctic circle and witness the most brilliant auroras
+        on Earth; take a ride on a solar blast from Sun's surface to Earth's
+        magnetosphere and come to a deeper understanding of what this vast sea
+        of fire means to life here on Earth.</image:caption
+      >
+      <image:title>3D Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

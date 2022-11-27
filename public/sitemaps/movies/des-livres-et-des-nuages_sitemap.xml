@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/615331-Des livres et des nuages</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/615331-Des livres et des nuages</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oNst4g1AZk4D4A5wqoxkp5JhHc0.jpg</image:loc
+      >
+      <image:caption
+        >In a lost village in the Peruvian Andes a young girl is waiting for the
+        new books to arrive. They are carried in a rucksack by a librarian,
+        walking in the mountains, between the sky and the clouds. Rural
+        libraries in Peru are made up of a few dozen books that, once read, are
+        exchanged for others between communities. Books walk as people
+        walk.</image:caption
+      >
+      <image:title>Des livres et des nuages</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274668-13th Grade</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274668-13th Grade</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kIoKzPTpWu2OReOlUXjjx1st57C.jpg</image:loc
+      >
+      <image:caption
+        >Just as he's about to graduate, senior classman David Easter gets the
+        shock of his young life when a new teacher invents 13th grade in this
+        comedy. Their longed-for freedom threatened, David and his friends set
+        out to make sure they graduate in the expected four years. Meanwhile, a
+        Hollywood star who missed out on high school arrives on campus and
+        develops a strange relationship with the school's 21-year-old
+        principal.</image:caption
+      >
+      <image:title>13th Grade</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/433941-Dave Made a Maze</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/433941-Dave Made a Maze</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Z5sEOC8Y7bdrg7FmIfNGkNniyX.jpg</image:loc
+      >
+      <image:caption
+        >Dave, an artist who has yet to complete anything significant in his
+        career, builds a fort in his living room out of pure frustration, only
+        to wind up trapped by the fantastical pitfalls, booby traps, and
+        critters of his own creation. Ignoring his warnings, Dave’s girlfriend
+        Annie leads a band of oddball explorers on a rescue mission. Once
+        inside, they find themselves trapped in an ever-changing supernatural
+        world, threatened by booby traps and pursued by a bloodthirsty
+        Minotaur.</image:caption
+      >
+      <image:title>Dave Made a Maze</image:title>
+    </image:image>
+  </url>
+</urlset>

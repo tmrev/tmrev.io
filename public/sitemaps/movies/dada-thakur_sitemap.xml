@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/717911-Dada Thakur</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/717911-Dada Thakur</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tlG604ThQpIS9zs0LW3a4aSTluE.jpg</image:loc
+      >
+      <image:caption
+        >Gita tries to reunite with her father while he awaits the return of his
+        younger daughter, from America. Will everyone reunite?</image:caption
+      >
+      <image:title>Dada Thakur</image:title>
+    </image:image>
+  </url>
+</urlset>

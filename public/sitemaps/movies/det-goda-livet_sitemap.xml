@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500338-Det goda livet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500338-Det goda livet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ce10xSezHFbTD6icjao9vokSLqC.jpg</image:loc
+      >
+      <image:caption
+        >"The good life" is a documentary about Alf, a broker who sells
+        expensive apartments in Stockholm. Alf lives the good life. But even the
+        good life has several sides.</image:caption
+      >
+      <image:title>Det goda livet</image:title>
+    </image:image>
+  </url>
+</urlset>

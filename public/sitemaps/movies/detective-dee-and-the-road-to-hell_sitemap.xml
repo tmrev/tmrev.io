@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/552475-Detective Dee and the Road to Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/552475-Detective Dee and the Road to Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tPkPlaY34JruYWMJe77jfiiS0Wy.jpg</image:loc
+      >
+      <image:caption
+        >Detective Dee is pardoned of prison by the empress with the condition
+        that he solve a complicated case in 7 days, that of ghost soldiers who
+        have ended the life of officers of her majesty.</image:caption
+      >
+      <image:title>Detective Dee and the Road to Hell</image:title>
+    </image:image>
+  </url>
+</urlset>

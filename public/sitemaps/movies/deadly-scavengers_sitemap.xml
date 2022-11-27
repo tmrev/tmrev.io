@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317030-Deadly Scavengers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317030-Deadly Scavengers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kxIFrV0VXIXOzHJA3zTO5Q0qs9B.jpg</image:loc
+      >
+      <image:caption
+        >A mercenary team is assembled to steal the genetically modified food
+        research of Dr. Fielding. His daughter fed a cockroach some of the food
+        mutating it into something terrifying and dangerous.</image:caption
+      >
+      <image:title>Deadly Scavengers</image:title>
+    </image:image>
+  </url>
+</urlset>

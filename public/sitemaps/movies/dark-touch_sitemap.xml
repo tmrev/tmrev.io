@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/174671-Dark Touch</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/174671-Dark Touch</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uwcBBgIdgEYJyQYYEtbKVKUpjU1.jpg</image:loc
+      >
+      <image:caption
+        >Niamh is the lone survivor of a mysterious massacre in which the
+        furniture and objects in her family’s isolated house took on a monstrous
+        life of their own. The police ignore her wild stories, and the
+        neighbours and social worker who take her into their care try to
+        introduce her to a new life. But Niamh is unable to leave her violent
+        past behind her, endangering everyone who crosses her
+        path.</image:caption
+      >
+      <image:title>Dark Touch</image:title>
+    </image:image>
+  </url>
+</urlset>

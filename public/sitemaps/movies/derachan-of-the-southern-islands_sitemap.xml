@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699025-Dera-chan of the Southern Islands</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699025-Dera-chan of the Southern Islands</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ntmI5c7PeMKxHbgpCOf2zuSJUDL.jpg</image:loc
+      >
+      <image:caption
+        >The story follows Dera after he returns to the southern islands from
+        the Usagiyama Shopping District, and depicts his gentle slapstick daily
+        life with the Prince and Choi.</image:caption
+      >
+      <image:title>Dera-chan of the Southern Islands</image:title>
+    </image:image>
+  </url>
+</urlset>

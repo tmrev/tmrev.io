@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/92125-Ein Sack voll Geld</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/92125-Ein Sack voll Geld</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vFFcScUE212UOjYwtRYmKZvUZYc.jpg</image:loc
+      >
+      <image:caption
+        >Nice gift: Shortly before Christmas loses parcel delivery Wolfgang
+        Paschke the debit card, the driver's license and his job. Famously, he
+        also stumbles on a money bag, but a little later he is gone again. Great
+        excitement before the festival!</image:caption
+      >
+      <image:title>Ein Sack voll Geld</image:title>
+    </image:image>
+  </url>
+</urlset>

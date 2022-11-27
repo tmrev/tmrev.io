@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/568773-Devil Between the Legs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/568773-Devil Between the Legs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/koRh0bSoJjCggfPl0dN2NhsSdyJ.jpg</image:loc
+      >
+      <image:caption
+        >Mexico City. Every day, Beatriz is insulted and humiliated by her
+        jealous husband, but she does not flee his side because they have
+        created a codependency and, at least for her, she would not conceive of
+        her life any other way: by dint of feeling humiliated, she feels desired
+        and desirable.</image:caption
+      >
+      <image:title>Devil Between the Legs</image:title>
+    </image:image>
+  </url>
+</urlset>

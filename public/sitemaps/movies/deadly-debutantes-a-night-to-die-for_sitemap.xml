@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/878120-Deadly Debutantes: A Night to Die For</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/878120-Deadly Debutantes: A Night to Die For</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8V5DAPFXwkhti64koB7Y9wvtyMv.jpg</image:loc
+      >
+      <image:caption
+        >A group of popular private school girls enter a most regal and
+        respected Debutante pageant for a chance to win the coveted crown.
+        Competition turns sinister when things go too far in this thriller,
+        Deadly Debutantes.</image:caption
+      >
+      <image:title>Deadly Debutantes: A Night to Die For</image:title>
+    </image:image>
+  </url>
+</urlset>

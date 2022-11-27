@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360028-Decadencia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360028-Decadencia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/68aiHQF3wl8XdqnCcYXM3h25pKz.jpg</image:loc
+      >
+      <image:caption
+        >Anabel Bolio is a beautiful and young workingwoman; Oskar Pratz is a
+        brilliant and handsome entrepreneur. A spark of mutual attraction is
+        inevitable and a torrid romance ensues. But what seams to be the prefect
+        love story quickly decay and spiral downward into dangerous sexual games
+        that lead to tragedy.</image:caption
+      >
+      <image:title>Decadencia</image:title>
+    </image:image>
+  </url>
+</urlset>

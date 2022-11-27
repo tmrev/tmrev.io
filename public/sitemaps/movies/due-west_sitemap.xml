@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/664730-Due West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/664730-Due West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3oVUG21Jg8i2oxWO5dO7H5ro4IM.jpg</image:loc
+      >
+      <image:caption
+        >Mathilde, aged 9, enjoys her last day of summer holidays at the seaside
+        with her group of friends. Her father falsely interprets one of their
+        games.</image:caption
+      >
+      <image:title>Due West</image:title>
+    </image:image>
+  </url>
+</urlset>

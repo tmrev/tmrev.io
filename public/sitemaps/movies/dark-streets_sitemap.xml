@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19392-Dark Streets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19392-Dark Streets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vBiXdqTRBiM93EiYSFVKH763IYk.jpg</image:loc
+      >
+      <image:caption
+        >Chaz Davenport is a dashing bachelor who owns what promises to become
+        the hottest new nightclub in town--if only the lights would stay on.
+        Surrounded by the sumptuous blues music he adores, and with his pick of
+        the gorgeous women who perform their sensual dance numbers onstage every
+        night, Chaz is the envy of every man.</image:caption
+      >
+      <image:title>Dark Streets</image:title>
+    </image:image>
+  </url>
+</urlset>

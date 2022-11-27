@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2210-Earth Girls Are Easy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2210-Earth Girls Are Easy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pO9Edq8mgp9kD3N6EkCGYLnIVaA.jpg</image:loc
+      >
+      <image:caption
+        >In this musical comedy, Valerie is dealing with her philandering
+        fiancé, Ted, when she finds that a trio of aliens have crashed their
+        spaceship into her swimming pool. Once the furry beings are shaved at
+        her girlfriend's salon, the women discover three handsome men
+        underneath. After absorbing the native culture via television, the
+        spacemen are ready to hit the dating scene in 1980s Los
+        Angeles.</image:caption
+      >
+      <image:title>Earth Girls Are Easy</image:title>
+    </image:image>
+  </url>
+</urlset>

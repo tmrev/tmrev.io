@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/524054-Double Coupons: Muzak And You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/524054-Double Coupons: Muzak And You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rdgYgWUn491sVbYA2nfNqu7bfzD.jpg</image:loc
+      >
+      <image:caption
+        >A student film about the history and influence of Muzak.</image:caption
+      >
+      <image:title>Double Coupons: Muzak And You</image:title>
+    </image:image>
+  </url>
+</urlset>

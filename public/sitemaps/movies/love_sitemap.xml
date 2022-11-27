@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/290829-40-Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/290829-40-Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pgMwhLcMUpJ11StVGglhZbg9nml.jpg</image:loc
+      >
+      <image:caption
+        >Jérôme, a senior executive, has just left his company. Determined to
+        never work for nobody else ever again, he attempts to set up his own
+        company, come what may, even ignoring the reluctance of his wife Laura.
+        Ugo, their 11-year-old son, is a tennis player and a promising champion.
+        To reach his goal, he must make it into the Roland Garros national
+        training centre. Just like his dad, he’s willing to do whatever it takes
+        to make it. Together, Ugo and Jérôme will realize that not all rules can
+        be bent in the quest for success.</image:caption
+      >
+      <image:title>40-Love</image:title>
+    </image:image>
+  </url>
+</urlset>

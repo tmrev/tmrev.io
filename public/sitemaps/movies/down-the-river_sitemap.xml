@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/203345-Down the River</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/203345-Down the River</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9RtBOWofBB2zrPSkRA0ziuTdzT9.jpg</image:loc
+      >
+      <image:caption
+        >Krit is openly gay, but his closest friend, Win, is questioning. As
+        they grow older, their love is tested when the two finally explore their
+        passion. Down the River is a daring exploration of friendship and
+        intimacy.</image:caption
+      >
+      <image:title>Down the River</image:title>
+    </image:image>
+  </url>
+</urlset>

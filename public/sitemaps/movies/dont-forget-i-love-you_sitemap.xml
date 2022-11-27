@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/936379-Don't Forget I Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/936379-Don't Forget I Love You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aXcApeQNUMy6H6QDIn5R20Vp05T.jpg</image:loc
+      >
+      <image:caption
+        >Music composer Yao is at the peak of his career when a brain tumour
+        surgery leaves him with anterograde amnesia. As such, his memory
+        `resets` everyday, that he can only recall past information but not new
+        events. Unable to perform the simplest day-to-day tasks on his own, Yao
+        hits rock bottom until meeting his psychotherapist,
+        Xingyue.</image:caption
+      >
+      <image:title>Don't Forget I Love You</image:title>
+    </image:image>
+  </url>
+</urlset>

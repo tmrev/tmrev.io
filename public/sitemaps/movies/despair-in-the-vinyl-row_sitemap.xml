@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041053-Despair in the Vinyl Row</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041053-Despair in the Vinyl Row</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eJ2VU1Uk3ceRLb8WVf1Ts7M2sfw.jpg</image:loc
+      >
+      <image:caption
+        >Two friends debate the condition of the modern music scene, while
+        searching for a prized bootleg vinyl record. While searching for it, Joe
+        laments his anger with the "posers" that pollute his once gate-kept
+        community. Shane quickly attempts to bring him back down to
+        Earth.</image:caption
+      >
+      <image:title>Despair in the Vinyl Row</image:title>
+    </image:image>
+  </url>
+</urlset>

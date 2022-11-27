@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/803898-Dinosaurs: Return to Life?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/803898-Dinosaurs: Return to Life?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jby3lHYNuaxC1NPh2xOs45RYrLa.jpg</image:loc
+      >
+      <image:caption
+        >Scientists discuss the possibility of reverse-engineering the DNA of
+        modern birds to recreate dinosaur species, instead of cloning fragments
+        of dinosaur DNA extracted from amber and other ancient
+        fossils.</image:caption
+      >
+      <image:title>Dinosaurs: Return to Life?</image:title>
+    </image:image>
+  </url>
+</urlset>

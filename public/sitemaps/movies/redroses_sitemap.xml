@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/108302-65_RedRoses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/108302-65_RedRoses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >65_Redroses is a 2009 documentary film about Eva Markvoort, a young
+        woman from New Westminster, British Columbia, who suffered from cystic
+        fibrosis. The film follows Markvoort as she lives her life undaunted by
+        her disease, waiting for a lung transplant while blogging about her
+        experiences.</image:caption
+      >
+      <image:title>65_RedRoses</image:title>
+    </image:image>
+  </url>
+</urlset>

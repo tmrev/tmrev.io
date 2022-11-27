@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/224244-Discopath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/224244-Discopath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jOlDmKUAYnvZCDh4SsVYTdZEcWe.jpg</image:loc
+      >
+      <image:caption
+        >The mid-70's: A timid young New Yorker leads an uneventful life until
+        he is fatefully exposed to the pulsating rhythms of a brand-new genre of
+        music....disco. Unable to control his murderous impulses that stem from
+        a traumatic childhood experience, Duane Lewis transforms into a
+        dangerous serial killer exiled to Montreal.</image:caption
+      >
+      <image:title>Discopath</image:title>
+    </image:image>
+  </url>
+</urlset>

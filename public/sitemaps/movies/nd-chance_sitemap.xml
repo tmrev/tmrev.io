@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/901511-2nd Chance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/901511-2nd Chance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1s04UKd4yxRSLVvbVXnWscxJoMP.jpg</image:loc
+      >
+      <image:caption
+        >In 1969, bankrupt pizzeria owner Richard Davis invented the modern-day
+        bulletproof vest. To prove that it worked, he shot himself — point-blank
+        — 192 times.</image:caption
+      >
+      <image:title>2nd Chance</image:title>
+    </image:image>
+  </url>
+</urlset>

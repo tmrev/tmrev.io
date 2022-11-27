@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/747349-Dolly Parton's Christmas on the Square</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/747349-Dolly Parton's Christmas on the Square</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/MC9LPbREA585J5s3LLNIvY45hP.jpg</image:loc
+      >
+      <image:caption
+        >A rich and nasty woman returns to her hometown to evict everyone but
+        discovers the true meaning of Christmas thanks to the local townsfolk –
+        and an actual angel. Features 14 original songs with music and lyrics by
+        Dolly Parton!</image:caption
+      >
+      <image:title>Dolly Parton's Christmas on the Square</image:title>
+    </image:image>
+  </url>
+</urlset>

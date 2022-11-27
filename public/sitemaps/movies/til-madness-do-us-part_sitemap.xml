@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214775-'Til Madness Do Us Part</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214775-'Til Madness Do Us Part</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/issu6sWXAXAuST1rM8BIV8RybOK.jpg</image:loc
+      >
+      <image:caption
+        >Director Wang Bing casts an understanding and non-judgmental eye on the
+        inmates of a decrepit Chinese mental hospital in this eloquent and
+        emotionally impactful documentary.</image:caption
+      >
+      <image:title>'Til Madness Do Us Part</image:title>
+    </image:image>
+  </url>
+</urlset>

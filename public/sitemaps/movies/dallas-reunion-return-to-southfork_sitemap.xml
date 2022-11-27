@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/861940-Dallas Reunion: Return to Southfork</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/861940-Dallas Reunion: Return to Southfork</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The original cast of Dallas reunites at Southfork Ranch to remember the
+        popular 1980's drama nighttime serial that became notorious for its 1980
+        cliffhanger "Who Shot J.R.?"</image:caption
+      >
+      <image:title>Dallas Reunion: Return to Southfork</image:title>
+    </image:image>
+  </url>
+</urlset>

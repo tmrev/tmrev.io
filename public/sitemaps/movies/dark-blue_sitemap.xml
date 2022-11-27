@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4911-Dark Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4911-Dark Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9RTiJx3oD1s3RAMtjSo7ThZmcxw.jpg</image:loc
+      >
+      <image:caption
+        >Set during the Rodney King riots, a robbery homicide investigation
+        triggers a series of events that will cause a corrupt LAPD officer to
+        question his tactics.</image:caption
+      >
+      <image:title>Dark Blue</image:title>
+    </image:image>
+  </url>
+</urlset>

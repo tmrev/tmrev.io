@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/216529-Doomed! The Untold Story of Roger Corman's
+      The Fantastic Four</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/216529-Doomed! The Untold Story of Roger Corman's
+      The Fantastic Four</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eVWltbQgLbEvzfMyONWN4bU1jYW.jpg</image:loc
+      >
+      <image:caption
+        >A history of the ill-fated 1994 production of “The Fantastic Four” that
+        was executive produced by Roger Corman.</image:caption
+      >
+      <image:title
+        >Doomed! The Untold Story of Roger Corman's The Fantastic
+        Four</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

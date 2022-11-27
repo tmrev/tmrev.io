@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97614-Deadfall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97614-Deadfall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg</image:loc
+      >
+      <image:caption
+        >A thriller that follows two siblings who decide to fend for themselves
+        in the wake of a botched casino heist, and their unlikely reunion during
+        another family's Thanksgiving celebration.</image:caption
+      >
+      <image:title>Deadfall</image:title>
+    </image:image>
+  </url>
+</urlset>

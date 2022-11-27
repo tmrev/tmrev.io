@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17925-Disengagement</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17925-Disengagement</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7zXQY7klMf1tCY65DkBq9CbPLOv.jpg</image:loc
+      >
+      <image:caption
+        >A political drama centered around Israel's pullout from the occupied
+        Gaza strip, in which a French woman of Israeli origin comes to the Gaza
+        Strip to find her long ago abandoned daughter.</image:caption
+      >
+      <image:title>Disengagement</image:title>
+    </image:image>
+  </url>
+</urlset>

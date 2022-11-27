@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489291-Dangsan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489291-Dangsan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >There is a 530-year-old ginkgo tree in Dangsan. This place is named as
+        Dangsan because there is a shrine on top of a mountain called Dansan. I
+        came back to Dangsan, where I lived for 20 years. The thundering noises
+        and the sound of something crumbling break the scenery of Dangsan.
+        Dangsan has been changed a lot.</image:caption
+      >
+      <image:title>Dangsan</image:title>
+    </image:image>
+  </url>
+</urlset>

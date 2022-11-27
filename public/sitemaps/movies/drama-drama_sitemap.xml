@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/507783-Drama Drama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/507783-Drama Drama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2QzZdg76vqaEsCb2m6LuhqZQZfh.jpg</image:loc
+      >
+      <image:caption
+        >The most unlikely pairing of teen-age girls end up bonding to form the
+        pop group Drama Drama, and make a stand against bullying in their high
+        school.</image:caption
+      >
+      <image:title>Drama Drama</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444775-Diary of a Political Tourist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444775-Diary of a Political Tourist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Following the 2002 HBO documentary "Journeys with George," Pelosi's
+        irreverent account of George W. Bush on the campaign trail, she set out
+        on the road again with a handful of distinguished men competing to see
+        who could eat the most pies, raise the most money and get the most votes
+        to become the Democratic Party nominee.</image:caption
+      >
+      <image:title>Diary of a Political Tourist</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79952-Ein Ferienhaus in Schottland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79952-Ein Ferienhaus in Schottland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b0GzU49Oni9LZoF9Ex98DLQZ3bX.jpg</image:loc
+      >
+      <image:caption
+        >Stefanie and Felix are engaged to be married so they're going to
+        celebrate their wedding in a Scottish castle. That castle is the place
+        where Stefanie passed her summer holidays as a child with her family and
+        where she fell in love for the first time. One fateful event could
+        change her plans forever, affecting all her family
+        members.</image:caption
+      >
+      <image:title>Ein Ferienhaus in Schottland</image:title>
+    </image:image>
+  </url>
+</urlset>

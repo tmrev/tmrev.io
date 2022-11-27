@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/943053-December 23</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/943053-December 23</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vurD6ykTFHIqRPPvDCWk0JEHUak.jpg</image:loc
+      >
+      <image:caption
+        >The choral film tells the intertwined destinies of several characters
+        that we will follow in the frenzy of the day before
+        Christmas.</image:caption
+      >
+      <image:title>December 23</image:title>
+    </image:image>
+  </url>
+</urlset>

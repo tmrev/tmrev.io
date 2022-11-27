@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508394-Dirty Martini and the New Burlesque</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508394-Dirty Martini and the New Burlesque</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4uIcjKKOEHFeIXFbDbz1d0z86sL.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that explores the tantalizing world of the performers who
+        helped create the new burlesque scene in New York City. The new
+        burlesque is the new punk rock and it is exploding in New York as well
+        as most US cities thanks to Dirty and her friends the world is catching
+        on.</image:caption
+      >
+      <image:title>Dirty Martini and the New Burlesque</image:title>
+    </image:image>
+  </url>
+</urlset>

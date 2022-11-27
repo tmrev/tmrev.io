@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/483774-Don't Look Away</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/483774-Don't Look Away</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p0iH2bukFQ6GeUGPiMYjjm79rV6.jpg</image:loc
+      >
+      <image:caption
+        >When a teenage girl tells her father about a mysterious figure staring
+        at her, all her father can say is: "DON'T LOOK AWAY".</image:caption
+      >
+      <image:title>Don't Look Away</image:title>
+    </image:image>
+  </url>
+</urlset>

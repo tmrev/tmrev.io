@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/233574-Different Drummers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/233574-Different Drummers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9nFB7HmkFK46ejD9THhP9CXPhbG.jpg</image:loc
+      >
+      <image:caption
+        >When David accurately foretells the death of their teacher and says God
+        told him, Lyle devises a plan to find out if God really
+        exists.</image:caption
+      >
+      <image:title>Different Drummers</image:title>
+    </image:image>
+  </url>
+</urlset>

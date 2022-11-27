@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81330-Desperately Seeking Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81330-Desperately Seeking Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8TEdwCxgtPUq3VLvvjmaGlwaHL6.jpg</image:loc
+      >
+      <image:caption
+        >Jennifer, a young, ambitious executive running promotions at a failing
+        Boston mall comes up with a genius promotional gimmick to save her
+        workplace and position herself for advancement: hold a "Hunky Santa"
+        contest to replace the old Mall Santa. David, a local man trying to save
+        his family's pizzeria, ultimately wins the contest and sparks fly
+        between him and Jennifer. However, complications ensue when it comes to
+        light that the company Jennifer works for is the same one trying to run
+        David's family out of business.</image:caption
+      >
+      <image:title>Desperately Seeking Santa</image:title>
+    </image:image>
+  </url>
+</urlset>

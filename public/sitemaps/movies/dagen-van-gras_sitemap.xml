@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/237839-Dagen van gras</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/237839-Dagen van gras</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jPfCeB06ntnEX9R78hNpe4YQvkg.jpg</image:loc
+      >
+      <image:caption
+        >When isolated teenager Ben becomes friends with the charismatic Tom,
+        they experience a summer full of music, alcohol and
+        drugs.</image:caption
+      >
+      <image:title>Dagen van gras</image:title>
+    </image:image>
+  </url>
+</urlset>

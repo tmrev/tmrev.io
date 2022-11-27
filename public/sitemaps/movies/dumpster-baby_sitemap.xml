@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140689-Dumpster Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140689-Dumpster Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eyCljumOtJGmpbN7gwpdDjZPAV1.jpg</image:loc
+      >
+      <image:caption
+        >A premature crack baby abandoned in an inner city dumpster embarks on a
+        surreal journey through a landscape of urban decay in directors James
+        Bickert and Randy Hills. Left for dead and doomed to die, the helpless
+        child's chances for survival fade with each passing minute. The young
+        infant's will to survive is strong though, and in the following days the
+        struggling child encounters a series of bizarre characters ranging from
+        an adulterous surgeon to a malevolent street pimp and a crack-smoking
+        hooker whose motherly instincts offer a shimmering ray of hope in the
+        child's bleak future.</image:caption
+      >
+      <image:title>Dumpster Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

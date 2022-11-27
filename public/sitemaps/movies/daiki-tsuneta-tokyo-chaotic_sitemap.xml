@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/921559-Daiki Tsuneta: Tokyo Chaotic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/921559-Daiki Tsuneta: Tokyo Chaotic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gOeO5bp7ZtqGjqBrvK1UZITpgcd.jpg</image:loc
+      >
+      <image:caption
+        >This documentary follows King Gnu frontman Daiki Tsuneta as he works
+        with his musical collective millennium parade on their genre melding
+        track "2992".</image:caption
+      >
+      <image:title>Daiki Tsuneta: Tokyo Chaotic</image:title>
+    </image:image>
+  </url>
+</urlset>

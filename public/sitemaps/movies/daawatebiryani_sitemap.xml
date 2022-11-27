@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636424-Daawat-e-Biryani</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636424-Daawat-e-Biryani</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oO2prVWE5QhN4DOx7bW8X8YvvYk.jpg</image:loc
+      >
+      <image:caption
+        >Panchali travels from Kolkata to Lucknow and discovers her
+        grandmother's secret biryani recipe. During this journey, she also
+        discovers interesting aspects of her grandmother's life.</image:caption
+      >
+      <image:title>Daawat-e-Biryani</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/313281-Die Erntehelferin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/313281-Die Erntehelferin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2jaeFO9dFW3QChZoURkO151PMCh.jpg</image:loc
+      >
+      <image:caption
+        >After escaping from the Sudeten German Marienbad, Clara, together with
+        her widowed brother-in-law Johann and his four children, is quartered in
+        a small Franconian village in 1946. In addition to hunger and poverty
+        Clara burdens the tuberculosis of her six-year-old niece Heidi. To raise
+        money for life-saving medicines, she works as a harvest helper at Gut
+        Braunfels. Here she meets the estate manager Martin again, her great
+        love she had to leave because of the children. Immediately it sparkles
+        again between the two, but also the power-conscious squire has kept an
+        eye on Clara.</image:caption
+      >
+      <image:title>Die Erntehelferin</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/596634-Dance begins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/596634-Dance begins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/faQIAAdISZcvQOoEdlkrIUsQpca.jpg</image:loc
+      >
+      <image:caption
+        >Kyoung-sook, who runs a cigarette shop, is secretly learning to dance.
+        Dancing is prohibited and people are arrested. She barely escapes with
+        the help of a man's voice.</image:caption
+      >
+      <image:title>Dance begins</image:title>
+    </image:image>
+  </url>
+</urlset>

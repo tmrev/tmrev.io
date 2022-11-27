@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/401471-Den of Tigers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/401471-Den of Tigers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r3jfsMp3pC5m03pQIDsaGnv1JDx.jpg</image:loc
+      >
+      <image:caption
+        >Den of Tigers (2002), by Jonathan Schwartz, lyrically examined the
+        subtle textures of daily life in West Bengal, India. There you could see
+        ankles lifting up and back down into a flooded street, a small ancient
+        woman pushing on the arm of a water pump, and the hypnotic swinging of a
+        young tightrope walkers hips, the image as taut as the narrow rope
+        pressed to her feet. – Genevieve Yue</image:caption
+      >
+      <image:title>Den of Tigers</image:title>
+    </image:image>
+  </url>
+</urlset>

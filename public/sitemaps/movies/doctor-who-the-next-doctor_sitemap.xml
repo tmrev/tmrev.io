@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317190-Doctor Who: The Next Doctor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317190-Doctor Who: The Next Doctor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kDqIMVtDx9UuexVJVNXUxUrHfJl.jpg</image:loc
+      >
+      <image:caption
+        >The Doctor arrives in Victorian London. It's Christmas, but snow isn't
+        the only thing descending on the tranquil and jubilant civilization, as
+        familiar silver giants from an alternate reality are amassing in
+        numbers. The Cybermen are on the move again, and the only beings who can
+        stop them are the Doctor and... another Doctor?</image:caption
+      >
+      <image:title>Doctor Who: The Next Doctor</image:title>
+    </image:image>
+  </url>
+</urlset>

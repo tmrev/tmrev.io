@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22609-Dil Bole Hadippa!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22609-Dil Bole Hadippa!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3AA4yN0ivMIHEzQUSBsjWMSmt2q.jpg</image:loc
+      >
+      <image:caption
+        >Veera, a fire-cracker of a girl who lives in a small village but dreams
+        of playing cricket in the big league. Rohan is an accomplished captain
+        of a county cricket team in England. Rohan returns to India to captain
+        his father's cricket team which has been losing for the last 8 years. In
+        a Village where girls don't play Cricket, Veera has to put on a put on a
+        turban & beard to live her dream.</image:caption
+      >
+      <image:title>Dil Bole Hadippa!</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/728513-DRIVE IN Holy Motors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/728513-DRIVE IN Holy Motors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qxAJqisG27dwZ8nGb1niE5WDhrx.jpg</image:loc
+      >
+      <image:caption
+        >A making-of documentary of Leos Carax's Holy Motors. Present during the
+        shoot, Salomé catches exacting and inspiring moments of the production
+        and adds interviews with its main participants (the actors Denis Lavant,
+        Edith Scob, and Kylie Minogue, and the cinematographer, Caroline
+        Champetier).</image:caption
+      >
+      <image:title>DRIVE IN Holy Motors</image:title>
+    </image:image>
+  </url>
+</urlset>

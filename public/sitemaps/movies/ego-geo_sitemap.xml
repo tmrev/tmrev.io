@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70146-Ego Geo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70146-Ego Geo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/XpY8w7zAgG7IuIk0eASYWE2y1f.jpg</image:loc
+      >
+      <image:caption
+        >GEO - Denmark's absolutely most unpredictable comedian. Explosive,
+        physical, groundbreaking, 100% original, surreal, and not least a
+        guarantor of first-class entertainment.</image:caption
+      >
+      <image:title>Ego Geo</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/137217-Donovan's Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/137217-Donovan's Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/92CHDYkCMV4tfNoViWyKl8SFoK3.jpg</image:loc
+      >
+      <image:caption
+        >A series of uncanny déjà vu events force a man to re-examine his tragic
+        past, memory, instinct, and future.</image:caption
+      >
+      <image:title>Donovan's Echo</image:title>
+    </image:image>
+  </url>
+</urlset>

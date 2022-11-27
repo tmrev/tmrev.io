@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/812654-Danger! Danger!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/812654-Danger! Danger!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uoaYhQA7iyu4Zo4WxbWvGnW3B3X.jpg</image:loc
+      >
+      <image:caption
+        >It’s 1985 and adventurer, Jonathan Danger, has just crash landed onto
+        an Island 20 miles off the coast of Africa. He’s looking for a temple
+        that may or may not be his ticket to go back in time. Too bad the
+        Soviets got there first. Too bad they want to go back in time to change
+        the events of the Space Race and the Cold War and World War II. Too bad
+        he has a punctured a lung. Too bad he’s been kidnapped by Jungle Jim and
+        his sister Jade Calloway. Too bad he never gives up.</image:caption
+      >
+      <image:title>Danger! Danger!</image:title>
+    </image:image>
+  </url>
+</urlset>

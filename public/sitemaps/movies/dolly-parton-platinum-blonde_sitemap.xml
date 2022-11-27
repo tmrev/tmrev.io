@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/483951-Dolly Parton: Platinum Blonde</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/483951-Dolly Parton: Platinum Blonde</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Qz2lSJ30z69W5i9c9YtZBdmcHg.jpg</image:loc
+      >
+      <image:caption
+        >Profile of Dolly Parton, country music high priestess and formidable
+        businesswoman, who clawed her way up from a dirt-poor childhood in rural
+        Tennessee to international super-stardom.</image:caption
+      >
+      <image:title>Dolly Parton: Platinum Blonde</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43738-Eastern Plays</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43738-Eastern Plays</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ewUSOH4or8o36wywB9XBynL9m6X.jpg</image:loc
+      >
+      <image:caption
+        >Two estranged brothers are brought together when they have opposite
+        roles in a racist beating: while Georgi who's recently joined a neo-nazi
+        group participates in the violence, Hristo witnesses and rescues a
+        Turkish family. Only by reuniting will the two brothers be able to
+        assess what they really want from life.</image:caption
+      >
+      <image:title>Eastern Plays</image:title>
+    </image:image>
+  </url>
+</urlset>

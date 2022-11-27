@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/244773-Dui Prithibi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/244773-Dui Prithibi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oT6Fxbks0yPnTE5nelq4CSAoeGD.jpg</image:loc
+      >
+      <image:caption
+        >A rich man falls in love with an idealistic medical student. However,
+        when circumstances force them apart, he learns the true meaning and
+        value of love.</image:caption
+      >
+      <image:title>Dui Prithibi</image:title>
+    </image:image>
+  </url>
+</urlset>

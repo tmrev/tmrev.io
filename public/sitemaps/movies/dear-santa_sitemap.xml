@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/744080-Dear Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/744080-Dear Santa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nAjWEE2edtMuGKfFZHgwr8M0MMn.jpg</image:loc
+      >
+      <image:caption
+        >An elixir to our current state, "Dear Santa" takes us on the fanciful
+        and poignant journey of a little known program called Operation Santa.
+        For more than 100 years, human elves have been helping Santa respond to
+        the thousands of letters children write and mail to him. This gripping
+        documentary crisscrosses the country, following the most emotional
+        letters as the elves work hard to make sure each child’s Christmas
+        dreams come true.</image:caption
+      >
+      <image:title>Dear Santa</image:title>
+    </image:image>
+  </url>
+</urlset>

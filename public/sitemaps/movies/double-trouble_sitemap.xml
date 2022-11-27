@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/519177-Double Trouble</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/519177-Double Trouble</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ejjzpzRZccCSnd4Z5Eu8ogR6iRY.jpg</image:loc
+      >
+      <image:caption
+        >Marek lives alternately with two women. He tells them both that he
+        works in another city for part of the week. In reality, he stays in the
+        same and moves from apartment to apartment. This works perfectly until
+        one morning he wakes up in the wrong flat.</image:caption
+      >
+      <image:title>Double Trouble</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16221-Dororo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16221-Dororo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vEM9WY9ufaIeX8xHdHyJ8H2udNz.jpg</image:loc
+      >
+      <image:caption
+        >Hyakkimaru, a warrior on a quest to reclaim 48 of his body parts which
+        were each taken by a demon, is joined by Dororo, a thief on a quest to
+        avenge the death of her parents.</image:caption
+      >
+      <image:title>Dororo</image:title>
+    </image:image>
+  </url>
+</urlset>

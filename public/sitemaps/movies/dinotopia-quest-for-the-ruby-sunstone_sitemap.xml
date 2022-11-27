@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/35177-Dinotopia: Quest for the Ruby Sunstone</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/35177-Dinotopia: Quest for the Ruby Sunstone</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eHRTjQwsIzPMwgjcBVNRqeUS3xd.jpg</image:loc
+      >
+      <image:caption
+        >An Orphaned Boy sets out in search of adventure, but when a shipwreck
+        lands him on an island where Dinosaurs and Humans coexist, he finds not
+        only adventure but a family as well.</image:caption
+      >
+      <image:title>Dinotopia: Quest for the Ruby Sunstone</image:title>
+    </image:image>
+  </url>
+</urlset>

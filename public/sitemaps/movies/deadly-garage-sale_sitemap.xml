@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/922764-Deadly Garage Sale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/922764-Deadly Garage Sale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/otcaabccMxXZiT2EZweH4YFdRDv.jpg</image:loc
+      >
+      <image:caption
+        >A woman seeks revenge against an unsuspecting mom after her brother
+        dies during a robbery attempt.</image:caption
+      >
+      <image:title>Deadly Garage Sale</image:title>
+    </image:image>
+  </url>
+</urlset>

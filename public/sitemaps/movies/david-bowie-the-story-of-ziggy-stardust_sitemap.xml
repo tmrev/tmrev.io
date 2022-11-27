@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/180691-David Bowie & The Story of Ziggy
+      Stardust</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/180691-David Bowie & The Story of Ziggy
+      Stardust</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/B7pQQrxChSydU2Me9NyZazujQO.jpg</image:loc
+      >
+      <image:caption
+        >BBC documentary telling the story of how David Bowie arrived at one of
+        the most iconic creations in pop history - Ziggy Stardust - with
+        contributions from colleagues and famous fans.</image:caption
+      >
+      <image:title>David Bowie & The Story of Ziggy Stardust</image:title>
+    </image:image>
+  </url>
+</urlset>

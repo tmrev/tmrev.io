@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121869-Eisenstein in Guanajuato</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121869-Eisenstein in Guanajuato</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dUB98OAPQ3HVspcTVyQ9At1EuQR.jpg</image:loc
+      >
+      <image:caption
+        >In 1931, following the success of the film Battleship Potemkin, Soviet
+        filmmaker Sergei Eisenstein travels to the city of Guanajuato, Mexico,
+        to shoot a new film. Freshly rejected by Hollywood, Eisenstein soon
+        falls under Mexico’s spell. Chaperoned by his guide Palomino Cañedo, the
+        director opens up to his suppressed fears as he embraces a new world of
+        sensual pleasures and possibilities that will shape the future of his
+        art.</image:caption
+      >
+      <image:title>Eisenstein in Guanajuato</image:title>
+    </image:image>
+  </url>
+</urlset>

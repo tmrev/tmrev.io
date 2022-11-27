@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274777-Dear Fidel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274777-Dear Fidel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z4Jg1JpFUo9njUFUi2uipMwCo60.jpg</image:loc
+      >
+      <image:caption
+        >In this documentary, Marita Lorenz recalls life on the periphery of
+        history, from her stint as Fidel Castro's mistress to her spying years
+        with the CIA. Lorenz became Castro's lover after the Cuban revolution
+        and later joined a plot to kill him. Though she couldn't carry out her
+        mission, Lorenz remained a player on the Cold War espionage stage and
+        claims she was connected to presidential assassin Lee Harvey
+        Oswald.</image:caption
+      >
+      <image:title>Dear Fidel</image:title>
+    </image:image>
+  </url>
+</urlset>

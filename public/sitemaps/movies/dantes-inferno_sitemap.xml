@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73103-Dante's Inferno</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73103-Dante's Inferno</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cdwHFqp7Ix8vY6UI35VVFjCPRPM.jpg</image:loc
+      >
+      <image:caption
+        >A darkly comedic travelogue of the underworld - set against an
+        all-too-familiar urban backdrop of used car lots, gated communities,
+        strip malls, and the U.S. Capitol. And populated with a contemporary
+        cast of reprobates, including famous - and infamous - politicians,
+        presidents, popes, pimps. And the Prince of Darkness
+        himself.</image:caption
+      >
+      <image:title>Dante's Inferno</image:title>
+    </image:image>
+  </url>
+</urlset>

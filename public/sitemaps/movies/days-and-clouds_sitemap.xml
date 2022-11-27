@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12823-Days and Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12823-Days and Clouds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gMppKd5bHuc68674vJVEod7HQRw.jpg</image:loc
+      >
+      <image:caption
+        >Set in Genoa, the film concerns the financial struggles and emotional
+        strain that occur after Michele loses his job. He and his wife Elsa are
+        forced to give up their affluent lifestyle and cope with the tensions of
+        moving into a smaller home, finding new work, and making
+        sacrifices.</image:caption
+      >
+      <image:title>Days and Clouds</image:title>
+    </image:image>
+  </url>
+</urlset>

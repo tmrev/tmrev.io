@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1003666-Danube Hospital</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1003666-Danube Hospital</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rrD34I0gPdnNMB8NUopO8IvfV8t.jpg</image:loc
+      >
+      <image:caption
+        >DANUBE HOSPITAL, a portrait of one of Europe’s largest hospitals, shows
+        the daily routines and work processes at a powerful and highly complex
+        institution. By depicting a modern healthcare facility, DANUBE HOSPITAL
+        holds a mirror to our society to show how it deals with health and
+        illness, life and death. Nikolaus Geyrhalter observes what goes on in a
+        variety of zones, in conference areas, ORs, patients’ rooms, the
+        disinfection and pathology departments, and the kitchen. As the film
+        visits all these areas, it follows an ingenious principle of a puzzle
+        whose pieces produce an effect only when fully assembled. A portrait of
+        an institution in which the relationships between processes that are
+        invisible to patients and visitors are shown in all their
+        precision.</image:caption
+      >
+      <image:title>Danube Hospital</image:title>
+    </image:image>
+  </url>
+</urlset>

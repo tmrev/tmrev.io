@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13899-Dead or Alive 2: Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13899-Dead or Alive 2: Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yJMBasKbFjzkIrTQOAPbRvFILpO.jpg</image:loc
+      >
+      <image:caption
+        >Two contract killers cross paths in the middle of the same job and
+        realize they are childhood friends. Together they take a break from
+        killing and visit the small island they once called home. After
+        reflecting on their past lives they decided to team up and use their
+        talents in killing for good... much to the upset of the crime
+        syndicates.</image:caption
+      >
+      <image:title>Dead or Alive 2: Birds</image:title>
+    </image:image>
+  </url>
+</urlset>

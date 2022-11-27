@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85194-Deadly Games</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85194-Deadly Games</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3r1AumUvcB45JWN4SJMrFYDbRrn.jpg</image:loc
+      >
+      <image:caption
+        >A masked maniac with a penchant for a monster-themed board game is
+        playing his own twisted game with the women of a small American town.
+        Each time the dice are rolled, another victim meets a grisly end.
+        Returning home to mourn the death of her murdered sister, Keegan
+        befriends local cop Roger and reclusive cinema projectionist Billy — but
+        soon finds herself in the killer's sights.</image:caption
+      >
+      <image:title>Deadly Games</image:title>
+    </image:image>
+  </url>
+</urlset>

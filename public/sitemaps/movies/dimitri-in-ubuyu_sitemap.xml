@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396894-Dimitri in Ubuyu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396894-Dimitri in Ubuyu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qwkwYibIGxV428Avr1QbuSFVExv.jpg</image:loc
+      >
+      <image:caption
+        >Dimitri, the little bird from northern Europe, has landed on the plain
+        of Ubuyu in Africa. Every day he learns to overcome his fears and
+        discover a world full of surprises. In Ubuyu being different is an asset
+        that he will share with Makeba the giraffe, Oko the zebra and Pili the
+        meerkat.</image:caption
+      >
+      <image:title>Dimitri in Ubuyu</image:title>
+    </image:image>
+  </url>
+</urlset>

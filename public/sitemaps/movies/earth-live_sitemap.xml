@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/465987-Earth Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/465987-Earth Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gUB2i19rvJ2QY45zClDG4mtbbZz.jpg</image:loc
+      >
+      <image:caption
+        >Witness the earth’s greatest wildlife, shot by the world’s greatest
+        wildlife cinematographers, in a spectacular 2-hour special originally
+        broadcast on National Geographic, Sunday July 9th, 2017. Hosted by
+        award-winning actress Jane Lynch and award-winning television
+        personality Phil Keoghan, Earth Live gives viewers access to key
+        locations across six continents — from South America to Asia and
+        everywhere in between — as world-renowned cinematographers use
+        cutting-edge technology to showcase a number of wildlife firsts. And,
+        for the first time, viewers will watch live wildlife lit only by the
+        moon, in full color, via new low-light camera technology.</image:caption
+      >
+      <image:title>Earth Live</image:title>
+    </image:image>
+  </url>
+</urlset>

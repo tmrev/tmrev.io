@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/263499-Cyber-Seniors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/263499-Cyber-Seniors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A humorous and heartwarming documentary feature, CYBER-SENIORS
+        chronicles the extraordinary journey of a group of senior citizens as
+        they discover the world of the Internet through the guidance of teenage
+        mentors. Their exploration of cyberspace is catapulted to another level
+        when 89 year-old Shura decides to create a YouTube cooking video. A
+        spirited video competition for the most “views" evolves as the
+        cyber-seniors’ hidden talents and competitive spirits are revealed.
+        CYBER-SENIORS provides insight into the wonderful things that can happen
+        when generation gaps are bridged, proving you are never too old to get
+        "connected."</image:caption
+      >
+      <image:title>Cyber-Seniors</image:title>
+    </image:image>
+  </url>
+</urlset>

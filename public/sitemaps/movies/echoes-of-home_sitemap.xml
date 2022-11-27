@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85991-Echoes of Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85991-Echoes of Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kNPGfAc81SWKL0WHiSLmrMLIbwD.jpg</image:loc
+      >
+      <image:caption
+        >What does a baby's cry have in common with the echo of a mountain
+        yodler, and what connects the head tone of a Tuvin nomad with the stage
+        show of a vocal artist? The answer is: THE VOICE. Against a background
+        of powerful alpine vistas and modern city landscapes, "heimatklänge"
+        enters the wondrous sonic world of three exceptional Swiss vocal
+        artists. Their universe of sound extends far beyond what we would
+        describe as singing. In their engagement with local and foreign
+        traditions, the powerful mountain landscape becomes a stage as do the
+        landscapes and sonic backdrops of modern life.</image:caption
+      >
+      <image:title>Echoes of Home</image:title>
+    </image:image>
+  </url>
+</urlset>

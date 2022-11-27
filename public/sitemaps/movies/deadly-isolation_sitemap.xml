@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50334-Deadly Isolation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50334-Deadly Isolation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vjItW5kbNVxxNiNRNir5plDLtFV.jpg</image:loc
+      >
+      <image:caption
+        >In a quaint and quiet island community off the coast of Maine, Susan is
+        a young widow suffering from deep grief for the loss of her husband,
+        Ron. Two escaped convicts suffer from their own kind of deep grief at
+        the loss of their diamonds stolen in a heist they participated in the
+        year before, spear-headed by Susan's now late husband. One of the
+        convicts, poses as an old college friend of Ron's enabling him to get
+        close to a still vulnerable Susan and even closer to the
+        diamonds.</image:caption
+      >
+      <image:title>Deadly Isolation</image:title>
+    </image:image>
+  </url>
+</urlset>

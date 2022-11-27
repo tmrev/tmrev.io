@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/406107-Dead Awake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/406107-Dead Awake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/apBhaUivEub9Ghx7sj7UqQCFYH4.jpg</image:loc
+      >
+      <image:caption
+        >Kate Bowman (Jocelin Donahue) is an average social worker who, after
+        the sudden death of her twin sister, is investigating the mysterious
+        deaths of other people who died in their sleep. Shortly before their
+        deaths, the victims all reported a supernatural force that appeared to
+        them while they were suffering from sleep paralysis. When Kate
+        investigates further into the case, she opens herself up to the
+        creature's wrath and soon finds herself and her family suffering from an
+        ancient evil.</image:caption
+      >
+      <image:title>Dead Awake</image:title>
+    </image:image>
+  </url>
+</urlset>

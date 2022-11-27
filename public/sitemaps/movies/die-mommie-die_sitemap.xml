@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43708-Die, Mommie, Die!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43708-Die, Mommie, Die!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7H6M1vthdi5VKLGIzf7Rqcerr1U.jpg</image:loc
+      >
+      <image:caption
+        >Angela Arden is washed up, has-been singing star who is trapped in a
+        hateful marriage to film producer Sol Sussman. In an attempt to escape
+        her marriage so that she can be with a hunky layabout, she poisons her
+        husband. However, Angela's manipulative daughter, gay son and alcoholic
+        maid are not going to make it easy for her.</image:caption
+      >
+      <image:title>Die, Mommie, Die!</image:title>
+    </image:image>
+  </url>
+</urlset>

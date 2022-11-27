@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/293494-Dante's View</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/293494-Dante's View</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sam, a young blonde from the wrong side of the tracks robs a sports
+        memorabilia store with a friend who gets shot. She flees with the loot,
+        some very rare cards related to baseball. When her car breaks down in a
+        remote corner of California, she meets June, a young woman who dreams of
+        change.</image:caption
+      >
+      <image:title>Dante's View</image:title>
+    </image:image>
+  </url>
+</urlset>

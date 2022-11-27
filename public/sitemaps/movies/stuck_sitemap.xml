@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295050-#Stuck</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295050-#Stuck</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xeoHNWVgjD05gZE8ZtwbKCw4zy.jpg</image:loc
+      >
+      <image:caption
+        >A hot one-night stand turns into an awkward morning after when Guy and
+        Holly get stuck in a dead-stopped traffic jam.</image:caption
+      >
+      <image:title>#Stuck</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1023086-Devil's Workshop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1023086-Devil's Workshop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fJQr6E6tUwihQuQgTSDUkKsrVZA.jpg</image:loc
+      >
+      <image:caption
+        >Desperate for a role as a demonologist, struggling actor Clayton
+        contacts Eliza, an expert in devil lore, to help him prepare. As he
+        spends the weekend at her home, Eliza forces Clayton to confront his
+        troubling past, perform dark rituals, and sacrifice a goat. Does she
+        want to help Clayton, seduce him—or destroy him?</image:caption
+      >
+      <image:title>Devil's Workshop</image:title>
+    </image:image>
+  </url>
+</urlset>

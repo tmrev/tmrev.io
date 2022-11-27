@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/251278-CyberWorld</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/251278-CyberWorld</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uWv23YVkwa0BLHW3YA2bhfEJxgB.jpg</image:loc
+      >
+      <image:caption
+        >A collaboration of computer-animated films which features new
+        characters and old friends from the award-winning Fox network television
+        series, "The Simpsons" and Dreamworks' feature film "Antz" The saucy,
+        synthetic hostess, Phig, takes the viewers through Cyberworld 3D, a
+        futuristic gallery of wild adventure and spectacular images. Trouble
+        arrives in the form of three unwelcomed guests named Buzzed, Wired and
+        Frazzled who are inadvertently destroying the environment's foundation,
+        forcing Phig into a hilarious battle to save herself and Cyberworld 3D
+        from total annihilation!</image:caption
+      >
+      <image:title>CyberWorld</image:title>
+    </image:image>
+  </url>
+</urlset>

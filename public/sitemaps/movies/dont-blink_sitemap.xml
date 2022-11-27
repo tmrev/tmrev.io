@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/294308-Don't Blink</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/294308-Don't Blink</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/up3os5LPwuJfYgyIbEUMQUDOKji.jpg</image:loc
+      >
+      <image:caption
+        >Ten people arrive at a secluded mountain resort to find it completely
+        deserted. With no gas for the return trip, the visitors are forced to
+        stay and investigate the mystery surrounding the abandoned
+        lodge.</image:caption
+      >
+      <image:title>Don't Blink</image:title>
+    </image:image>
+  </url>
+</urlset>

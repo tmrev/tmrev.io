@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171136-Deadly Harvest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171136-Deadly Harvest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sRFwf6NSeGEGQx3GkfqV6W3bL7E.jpg</image:loc
+      >
+      <image:caption
+        >Marisa and Frank honeymoon in South Africa. A particularly favourable
+        offer lures them to a lonely and run-down hotel. There, they are
+        attacked by men. Frank is beaten and kidnapped, while Marisa barely
+        escapes. She receives help from the young South African Biko, who helps
+        her to escape the men. Marisa and Biko find out that people are abducted
+        to be cannibalized for the trade in organs. Finally, the two try to find
+        frank and save him.</image:caption
+      >
+      <image:title>Deadly Harvest</image:title>
+    </image:image>
+  </url>
+</urlset>

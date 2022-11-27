@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436618-Dizzy Gillespie - Live in Montreal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436618-Dizzy Gillespie - Live in Montreal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >One of the greatest jazz trumpeters of all time, Dizzy Gillespie
+        dazzled the world with his talent as one of the pioneers of be-bop and
+        Latin jazz, but with his puffed-out cheeks, bent trumpet and quick wit,
+        he also was a great showman.</image:caption
+      >
+      <image:title>Dizzy Gillespie - Live in Montreal</image:title>
+    </image:image>
+  </url>
+</urlset>

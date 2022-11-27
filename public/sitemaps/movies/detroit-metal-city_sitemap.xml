@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22025-Detroit Metal City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22025-Detroit Metal City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yDFAlS4KQsNBH7nRR2ktI5ADa5z.jpg</image:loc
+      >
+      <image:caption
+        >Soichi Negishi moved to Tokyo to chase his dream of becoming a musician
+        playing stylish, Swedish-style pop. Instead, he finds himself leading
+        the death metal band Detroit Metal City, or DMC, as the costumed and
+        grotesquely made-up "demon emperor" Johannes Krauser II. Although he
+        hates the role and the things he has to do as a member of the band, he
+        has a definite talent for it.</image:caption
+      >
+      <image:title>Detroit Metal City</image:title>
+    </image:image>
+  </url>
+</urlset>

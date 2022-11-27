@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/988157-Duck on a Bike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/988157-Duck on a Bike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6epBW1nH6LWgNdwy1tFPzzZO4a0.jpg</image:loc
+      >
+      <image:caption
+        >A duck on a bike? Everyone in the barnyard has something to say about
+        Duck's zany idea. But what are they thinking? And what happens
+        next?</image:caption
+      >
+      <image:title>Duck on a Bike</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253523-Due East</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253523-Due East</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Mary Faith Rapple, a bright high school senior, has never been part of
+        the "in crowd." She teaches a night class, cares for her widowed father
+        and pretty much keeps to herself. When a fellow loner moves to Due East,
+        she finds herself in a relationship for the first time, leading to a
+        small town scandal that changes her life forever.</image:caption
+      >
+      <image:title>Due East</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/754040-Devil 2.0</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/754040-Devil 2.0</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y95CBDjz5gETjvdKBElZmFHlV6P.jpg</image:loc
+      >
+      <image:caption
+        >Buried in his denial and running from authorities, Bobby Angel produces
+        online videos proclaiming his innocence. The audience is exposed to his
+        perspective as he battles himself, the demon of his nightmares, finds
+        refuge in his delusion and ultimately is lost within it. What he sees
+        and the world he creates reveals to us the complex and very terrifying
+        reality he experiences.</image:caption
+      >
+      <image:title>Devil 2.0</image:title>
+    </image:image>
+  </url>
+</urlset>

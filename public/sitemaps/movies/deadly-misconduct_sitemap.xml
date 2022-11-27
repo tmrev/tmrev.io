@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/834176-Deadly Misconduct</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/834176-Deadly Misconduct</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dPwmHDj7A9kJsvHOpgXpt2CRJ03.jpg</image:loc
+      >
+      <image:caption
+        >A rising prosecutor has a lapse in judgment when she spends the night
+        at a rival defense attorney's home. Awakened next to his murdered body,
+        things go from bad to worse when she's asked to prosecute his
+        murder.</image:caption
+      >
+      <image:title>Deadly Misconduct</image:title>
+    </image:image>
+  </url>
+</urlset>

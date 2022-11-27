@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253343-Dear Eleanor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253343-Dear Eleanor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tMG1e83PHqtjQLgXZhy2IMn3eX0.jpg</image:loc
+      >
+      <image:caption
+        >Two teenage girls travel across the U.S. in 1962, during the chaos of
+        the Cuban missile crisis, in search of Eleanor Roosevelt.</image:caption
+      >
+      <image:title>Dear Eleanor</image:title>
+    </image:image>
+  </url>
+</urlset>

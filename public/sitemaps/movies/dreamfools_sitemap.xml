@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539926-Dreamfools</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539926-Dreamfools</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pylBpmm2qbwKLP49crcrFa4CBf5.jpg</image:loc
+      >
+      <image:caption
+        >Two lovers are stuck in stale relationships due to lean finances. But
+        when one is duped into thinking he's suddenly rich, he takes very
+        drastic action.</image:caption
+      >
+      <image:title>Dreamfools</image:title>
+    </image:image>
+  </url>
+</urlset>

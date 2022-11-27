@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87609-Duct Wars: The Silver Enemy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87609-Duct Wars: The Silver Enemy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Juan Zi Nobie and Dantin have retired from active duty and are replaced
+        by Christo and Katano. The Masked empire hires a freelance rogue to kill
+        the ally Silver Alien and use his identity to wage war on the
+        Ductorians</image:caption
+      >
+      <image:title>Duct Wars: The Silver Enemy</image:title>
+    </image:image>
+  </url>
+</urlset>

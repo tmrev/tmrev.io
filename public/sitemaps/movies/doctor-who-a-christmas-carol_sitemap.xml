@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/315620-Doctor Who: A Christmas Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/315620-Doctor Who: A Christmas Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hBcRd2e52ddwjjLzjxUJzdD4EEk.jpg</image:loc
+      >
+      <image:caption
+        >Amy Pond and Rory Williams are trapped on a crashing space liner, and
+        the only way the Eleventh Doctor can rescue them is to save the soul of
+        a lonely old miser. But is Kazran Sardick, the richest man in
+        Sardicktown, beyond redemption? And what is lurking in the fogs of
+        Christmas Eve?</image:caption
+      >
+      <image:title>Doctor Who: A Christmas Carol</image:title>
+    </image:image>
+  </url>
+</urlset>

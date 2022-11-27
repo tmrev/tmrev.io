@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/191482-Domestic Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/191482-Domestic Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/brIijVMn6HRVef0XzMlcDUjTCvD.jpg</image:loc
+      >
+      <image:caption
+        >Juliette was simply not sure about coming to live in this residential
+        suburb of the greater Paris metropolitan area. All the women here are in
+        their forties, have children to raise, houses to keep and husbands who
+        return home late at night.Today she has an appointment in Paris that is
+        important for her career, but she also has to run errands and pick up
+        the kids from school. During the course of her day, monopolized by
+        petty, everyday tasks, Juliette can feel the noose of domestic
+        obligations and household chores slowly tightening around her
+        neck.</image:caption
+      >
+      <image:title>Domestic Life</image:title>
+    </image:image>
+  </url>
+</urlset>

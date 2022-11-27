@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/223356-Doctor Who: The Infinite Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/223356-Doctor Who: The Infinite Quest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nbYu1NCAhfH7efUhO9zBoMIDqQg.jpg</image:loc
+      >
+      <image:caption
+        >In this animated adventure The Doctor and Martha Jones trek through
+        space and time in a race against the galaxy's greatest despot,
+        Balthazar, to follow a complex trail of clues to discover the location
+        of the legendary lost spaceship, the Infinite, which, according to myth,
+        can grant anybody their heart's desire.</image:caption
+      >
+      <image:title>Doctor Who: The Infinite Quest</image:title>
+    </image:image>
+  </url>
+</urlset>

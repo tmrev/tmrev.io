@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15501-Dane Cook: Vicious Circle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15501-Dane Cook: Vicious Circle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dj27eNBhzHEbiVBfR2BGL4oidfD.jpg</image:loc
+      >
+      <image:caption
+        >Vicious Circle captures the hottest comic in America in his first HBO
+        comedy event, a unique "in the round" performance before his hometown
+        Boston fans.</image:caption
+      >
+      <image:title>Dane Cook: Vicious Circle</image:title>
+    </image:image>
+  </url>
+</urlset>

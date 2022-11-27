@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/801499-D.T.A.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/801499-D.T.A.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2t1pcjeO08pX60dhUxKJCK9e3Od.jpg</image:loc
+      >
+      <image:caption
+        >Welcome to D.T.A. Productions, the world famous production company
+        owned by French actor François Gilbier, better known for his on-screen
+        persona, Terror A-Lister Osama bin Laden. Come join us as we take an
+        inside look at the team that runs the day to day operations at D.T.A.
+        and the professional men and women that are dedicated to bringing the
+        very best in Jihad programming to terror fans all over the
+        world.</image:caption
+      >
+      <image:title>D.T.A.</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/973939-Discovering Hamlet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/973939-Discovering Hamlet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a5kud2OxOEAJbanJvG0dZ7GzaNh.jpg</image:loc
+      >
+      <image:caption
+        >Journey into "Hamlet"-the play and the man-through the experiences of
+        some of the major actors and directors who have brought Shakespeare's
+        great tragedy to life. Christopher Plummer, David Tennant, John Nettles,
+        John Simm, Sir Trevor Nunn, Franco Zeffirelli, Philip Saville, and
+        others explore the enduring appeal of the Prince of Denmark more than
+        400 years after his stage debut.</image:caption
+      >
+      <image:title>Discovering Hamlet</image:title>
+    </image:image>
+  </url>
+</urlset>

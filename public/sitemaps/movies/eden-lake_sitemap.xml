@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13510-Eden Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13510-Eden Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lotoZbXMJxyoxx4AS48bNMp5BjS.jpg</image:loc
+      >
+      <image:caption
+        >Eden Lake is a relentlessly tense and immaculately paced
+        horror-thriller about modern youth gone wild. When a young couple goes
+        to a remote wooded lake for a romantic getaway, their quiet weekend is
+        shattered by an aggressive group of local kids. Rowdiness quickly turns
+        to rage as the teens terrorize the couple in unimaginable ways, and a
+        weekend outing becomes a bloody battle for survival.</image:caption
+      >
+      <image:title>Eden Lake</image:title>
+    </image:image>
+  </url>
+</urlset>

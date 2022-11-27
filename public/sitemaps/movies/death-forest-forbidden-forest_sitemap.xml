@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/432786-Death Forest: Forbidden Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/432786-Death Forest: Forbidden Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fDVK7hp1MGLBrBc6GZawZAHqbLR.jpg</image:loc
+      >
+      <image:caption
+        >On their way home from a camping trip, a group of friends become stuck
+        in an eerie forest when their car breaks down. There, they meet a
+        mysterious stranger who warns of monsters lurking in the forest - will
+        they make it out alive? Based on the popular computer game of the same
+        name.</image:caption
+      >
+      <image:title>Death Forest: Forbidden Forest</image:title>
+    </image:image>
+  </url>
+</urlset>

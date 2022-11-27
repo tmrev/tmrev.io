@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/183861-Dina & Noel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/183861-Dina & Noel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vV1VwnKnacnaf4tfPX9hf47EWMm.jpg</image:loc
+      >
+      <image:caption
+        >Dina is a young urban girl that shares her grandfathers' apartment with
+        his Filipino caretaker, Noel. Together, they live in a world full of
+        transparent people, where none cares to see, or show anything beyond a
+        masquerade.</image:caption
+      >
+      <image:title>Dina & Noel</image:title>
+    </image:image>
+  </url>
+</urlset>

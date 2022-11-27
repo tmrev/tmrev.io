@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459970-Don't Come Back from the Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459970-Don't Come Back from the Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nvCas3wt20K23WLunGRKfyS3p99.jpg</image:loc
+      >
+      <image:caption
+        >The men of a small town on the edge of nowhere mysteriously disappear,
+        one by one, leaving women and children behind to fend for themselves in
+        a desolate and dreamlike world.</image:caption
+      >
+      <image:title>Don't Come Back from the Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

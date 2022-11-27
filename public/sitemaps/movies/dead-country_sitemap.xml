@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28616-Dead Country</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28616-Dead Country</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v0wO7pKFTp3GK27KUFihATGZFu5.jpg</image:loc
+      >
+      <image:caption
+        >When a space ship containing hazardous material explodes over a small
+        rural town, a deadly virus is unleashed upon the population, turning
+        them into zombies. Only the alien being responsible for the terrible
+        accident and a small group of survivors can stop the epidemic from
+        spreading, but first they have to survive the experience.</image:caption
+      >
+      <image:title>Dead Country</image:title>
+    </image:image>
+  </url>
+</urlset>

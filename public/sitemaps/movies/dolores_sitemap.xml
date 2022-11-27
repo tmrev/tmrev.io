@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/432619-Dolores</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/432619-Dolores</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vmltoSoV2ta9vZITuVYoDRG8DLe.jpg</image:loc
+      >
+      <image:caption
+        >Dolores Huerta bucks 1950s gender conventions by starting the country's
+        first farm worker's union with fellow organizer Cesar Chavez. What
+        starts out as a struggle for racial and labor justice, soon becomes a
+        fight for gender equality within the same union she is eventually forced
+        to leave. As she wrestles with raising 11 children, three marriages, and
+        is nearly beaten to death by a San Francisco tactical police squad,
+        Dolores emerges with a vision that connects her new found feminism with
+        racial and class justice.</image:caption
+      >
+      <image:title>Dolores</image:title>
+    </image:image>
+  </url>
+</urlset>

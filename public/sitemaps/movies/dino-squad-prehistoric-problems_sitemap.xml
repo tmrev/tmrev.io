@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25070-Dino Squad: Prehistoric Problems!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25070-Dino Squad: Prehistoric Problems!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Lost World Wide Web: An Internet game takes a dangerous turn when
+        Buzz accidentally reveals personal information about himself and the
+        Dino Squad, to a new online friend. But the friend turns out to be
+        Victor Veloci in disguise!</image:caption
+      >
+      <image:title>Dino Squad: Prehistoric Problems!</image:title>
+    </image:image>
+  </url>
+</urlset>

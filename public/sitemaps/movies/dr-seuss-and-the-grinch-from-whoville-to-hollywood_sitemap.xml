@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/570602-Dr. Seuss and the Grinch: From Whoville to
+      Hollywood</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/570602-Dr. Seuss and the Grinch: From Whoville to
+      Hollywood</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f1d0wmIDOWxmd8OYlF48tfFvWRw.jpg</image:loc
+      >
+      <image:caption
+        >A documentary that reveals the origins of Dr. Seuss as well as his
+        Grinch creation going from children's book to TV special.</image:caption
+      >
+      <image:title
+        >Dr. Seuss and the Grinch: From Whoville to Hollywood</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/258895-D Company</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/258895-D Company</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gGbUOecWv5gRFbyOPkq0qnxnvAq.jpg</image:loc
+      >
+      <image:caption
+        >D Company is a 2013 Indian Malayalam action portmanteau film. It is an
+        anthology of three independently shot action films directed by M.
+        Padmakumar, Vinod Vijayan and Diphan. Its cast includes Jayasurya, Anoop
+        Menon, Unni Mukundan, Fahad Fazil and Asif Ali. The film is produced by
+        Vinod Vijayan, Seven Arts Mohan and Faisal Latheef under the banner of D
+        Cutz Film Company. (From Wikipedia)</image:caption
+      >
+      <image:title>D Company</image:title>
+    </image:image>
+  </url>
+</urlset>

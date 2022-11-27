@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/386235-Distance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/386235-Distance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fmnWxDfoPHo8rYXFwMpdNsutgXt.jpg</image:loc
+      >
+      <image:caption
+        >Three stories which each focus on one of three types of relationships:
+        family, friendship, and love. The first story is about conflicted
+        manager on a business trip who is intrigued by an elderly worker and
+        investigates his life. The second story is about a young father who
+        receives a letter that brings him to a foreign land, where old emotions
+        come unburied. The last story is about a visiting professor from
+        overseas who sets a student's heart fluttering, while having to deal
+        with his own.</image:caption
+      >
+      <image:title>Distance</image:title>
+    </image:image>
+  </url>
+</urlset>

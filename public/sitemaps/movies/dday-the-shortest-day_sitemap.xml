@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/708787-D-Day: The Shortest Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/708787-D-Day: The Shortest Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >With testimony from the UK, the US, the Commonwealth and Germany,
+        'D-Day: The Shortest Day' documents the meticulous planning leading up
+        to the world's biggest amphibious invasion, the terror and triumph of
+        the landings and the bitterness of the fighting in the days that
+        followed.</image:caption
+      >
+      <image:title>D-Day: The Shortest Day</image:title>
+    </image:image>
+  </url>
+</urlset>

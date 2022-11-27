@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412431-Decommissioned</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412431-Decommissioned</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lH1YX0UwGwVZlLAUjBWJ08qblSo.jpg</image:loc
+      >
+      <image:caption
+        >When an ex-CIA agent discovers his family have been kidnapped he sets
+        out to rescue them, only to discover they are being held hostage and
+        won't be released unless he carries out a mission to assassinate the
+        President. He must use his advanced skills to outwit the men holding his
+        family and prevent the assassination from going ahead before the clock
+        runs out for his family.</image:caption
+      >
+      <image:title>Decommissioned</image:title>
+    </image:image>
+  </url>
+</urlset>

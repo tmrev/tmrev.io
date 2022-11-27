@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/992665-Dooby Dooby Moo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/992665-Dooby Dooby Moo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2NFUzyIULXkhVjMLwkBnCccQN5A.jpg</image:loc
+      >
+      <image:caption
+        >When Duck finds out about a talent show at the county fair, he and the
+        animals on the farm start rehearsing. While Farmer Brown tries to figure
+        out what the animals are up to, Duck is determined they will enter the
+        contest and win!</image:caption
+      >
+      <image:title>Dooby Dooby Moo</image:title>
+    </image:image>
+  </url>
+</urlset>

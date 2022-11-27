@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123675-Einstein's Biggest Blunder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123675-Einstein's Biggest Blunder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sklIE0BkTmCZsdhCd9eW81K7bDx.jpg</image:loc
+      >
+      <image:caption
+        >Science Documentary hosted by Mathew Zajac and published by Channel 4
+        broadcasted as part of CH4 Equinox series in 2000 - English narration At
+        the dawn of a new century, a new theory is being born. It threatens to
+        demolish the foundations of 20th century physics. Its authors are two of
+        the world's leading cosmologists. If they're right, Einstein was wrong.
+        It all began when Andy Albrecht and Joao Magueijo met at a conference in
+        America in 1996. This program began from Newtonian view of the universe
+        then takes you through the General Relativity and the Flatness problem.
+        This leads to the Horizon problem and its solution, the Inflation
+        theory. However modern astronomy doesn't stop here, the Inflation theory
+        has its flaw too, and what happened before the big bang? This can all be
+        answered by changing one thing, the one thing no body dare to question
+        until now.</image:caption
+      >
+      <image:title>Einstein's Biggest Blunder</image:title>
+    </image:image>
+  </url>
+</urlset>

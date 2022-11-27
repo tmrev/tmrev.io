@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/195811-Day Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/195811-Day Trip</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a4wVth3GXi0wFzeuntT08AovZ2s.jpg</image:loc
+      >
+      <image:caption
+        >A master and his student visit a mountain to practice pansori (a
+        musical storytelling performed by a singer and a drummer) after a music
+        competition which outcome has left the trainee
+        disappointed.</image:caption
+      >
+      <image:title>Day Trip</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157642-Dragon Guardians</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157642-Dragon Guardians</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u8MgFUOuisVKc1D7ftYy12QE4oP.jpg</image:loc
+      >
+      <image:caption
+        >Something spooky is happening in Dragon Hill, and a sudden change in
+        climate has plunged the land into a deep freeze. The fate of the forest
+        rests in the hands of its protector, a little elf named Robin, and his
+        misfit dragon companions. Together, the would-be adventurers must summon
+        a team of guardians to uncover the mystery that threatens their home,
+        and stop an evil dragon before it's too late.</image:caption
+      >
+      <image:title>Dragon Guardians</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/989355-Eau douce eau salée</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/989355-Eau douce eau salée</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4ROWJttE5rvCvbNqSPPKedKA7c8.jpg</image:loc
+      >
+      <image:caption
+        >The summer of 2010, like many other years. I stay with my parents in
+        Tsukishima on the banks of a river that joins Tokyo Bay. An uneventful
+        ritual visit except that I decided to go and see and hear my brother for
+        the first time since he locked himself up in the darkness of his room,
+        too small for his size. Will I meet a drunken monster who only shouts
+        grotesque words at his sisteras I had imagined him to be for so
+        long?</image:caption
+      >
+      <image:title>Eau douce eau salée</image:title>
+    </image:image>
+  </url>
+</urlset>

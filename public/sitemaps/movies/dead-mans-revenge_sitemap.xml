@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209633-Dead Man's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209633-Dead Man's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oCCqseDgEVLcGpsoVT02AuO6KYT.jpg</image:loc
+      >
+      <image:caption
+        >Bitter and vengeful fugitive Luck Hatcher, dignified former slave
+        turned bounty hunter Jessup Bush, and wily deputy U.S. Marshal Bodine
+        all converge in a small town so they can hatch an intricate con in order
+        to bring greedy and ruthless railroad speculator Payton McCay to
+        justice.</image:caption
+      >
+      <image:title>Dead Man's Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

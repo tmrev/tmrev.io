@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/26245-Dark Prince: The True Story of Dracula</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/26245-Dark Prince: The True Story of Dracula</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qBLidWj4XITDrlxmXgTWANkHvwp.jpg</image:loc
+      >
+      <image:caption
+        >Meet the man behind the legend in this true story of Vlad the Impaler,
+        whose vicious and cruel reputation as a bloodthirsty warlord became the
+        basis for the myth of Dracula.</image:caption
+      >
+      <image:title>Dark Prince: The True Story of Dracula</image:title>
+    </image:image>
+  </url>
+</urlset>

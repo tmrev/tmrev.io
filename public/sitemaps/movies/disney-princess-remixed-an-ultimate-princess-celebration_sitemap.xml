@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/850056-Disney Princess Remixed: An Ultimate
+      Princess Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/850056-Disney Princess Remixed: An Ultimate
+      Princess Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aanpR48XsGzRFKx79aHLbVQsNEu.jpg</image:loc
+      >
+      <image:caption
+        >A music special celebrating the empowering attributes of Disney
+        princesses and queens through re-imagined performances of their iconic
+        songs by Disney stars.</image:caption
+      >
+      <image:title
+        >Disney Princess Remixed: An Ultimate Princess Celebration</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

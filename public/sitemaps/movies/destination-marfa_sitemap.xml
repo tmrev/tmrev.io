@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/857875-Destination Marfa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/857875-Destination Marfa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ZLqBhzD0cB5EZRFIFxhY5t0vFT.jpg</image:loc
+      >
+      <image:caption
+        >While on a road trip from a long weekend at the Terlingua cookoff, four
+        lifelong friends decide to veer off road and venture into a small West
+        Texas town known as Marfa. What attracted them to do so? Could it be the
+        strange unexplained ghost lights that Marfa is known for?</image:caption
+      >
+      <image:title>Destination Marfa</image:title>
+    </image:image>
+  </url>
+</urlset>

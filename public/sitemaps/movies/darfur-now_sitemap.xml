@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24060-Darfur Now</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24060-Darfur Now</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rGdNjdAAk8fGUbMhGisWeRvSdkc.jpg</image:loc
+      >
+      <image:caption
+        >This acclaimed documentary follows the story of six people who are
+        determined to end the sufferings in Sudan's war-ravaged Darfur. The six
+        - an American activist, an international prosecutor, a Sudanese rebel, a
+        sheikh, a leader of the World Food Program and an internationally known
+        actor - demonstrate the power of how one individual can create
+        extraordinary changes.</image:caption
+      >
+      <image:title>Darfur Now</image:title>
+    </image:image>
+  </url>
+</urlset>

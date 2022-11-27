@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140109-Dear Dracula</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140109-Dear Dracula</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vr3gfVxlHjWiO8ebsSE45Spa6hr.jpg</image:loc
+      >
+      <image:caption
+        >Sam loves scary movies, especially the ones with Dracula. This year,
+        instead of writing to Santa for Christmas, Sam writes to Dracula,
+        telling Dracula that he wants to be a real vampire on Halloween this
+        year. Sam is in for quite a surprise as the most famous of all vampires
+        himself responds.</image:caption
+      >
+      <image:title>Dear Dracula</image:title>
+    </image:image>
+  </url>
+</urlset>

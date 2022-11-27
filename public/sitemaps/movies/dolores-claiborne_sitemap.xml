@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11929-Dolores Claiborne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11929-Dolores Claiborne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gfCh3TEQNEoro8lq21y4zYIic4D.jpg</image:loc
+      >
+      <image:caption
+        >Dolores Claiborne was accused of killing her abusive husband twenty
+        years ago, but the court's findings were inconclusive and she was
+        allowed to walk free. Now she has been accused of killing her employer,
+        Vera Donovan, and this time there is a witness who can place her at the
+        scene of the crime. Things look bad for Dolores when her daughter
+        Selena, a successful Manhattan magazine writer, returns to cover the
+        story.</image:caption
+      >
+      <image:title>Dolores Claiborne</image:title>
+    </image:image>
+  </url>
+</urlset>

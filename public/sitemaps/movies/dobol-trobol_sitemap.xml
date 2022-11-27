@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57957-Dobol Trobol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57957-Dobol Trobol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ljm6GOdWMooF9yWmHJzgfZTGOL1.jpg</image:loc
+      >
+      <image:caption
+        >A passionate cook named Mac who strikes up a very unlikely and riotous
+        friendship with his happy-go-lucky co-worker Arthur. As both hit the
+        bumpy road of their misadventures, the side-splitting companionship
+        theyve found might be what matters the most.</image:caption
+      >
+      <image:title>Dobol Trobol</image:title>
+    </image:image>
+  </url>
+</urlset>

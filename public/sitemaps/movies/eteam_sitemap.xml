@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/250653-E-Team</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/250653-E-Team</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tZKydzBHCK3YKtZhKQVjSiWj3HI.jpg</image:loc
+      >
+      <image:caption
+        >E-Team is driven by the high-stakes investigative work of four intrepid
+        human rights workers, offering a rare look at their lives at home and
+        their dramatic work in the field.</image:caption
+      >
+      <image:title>E-Team</image:title>
+    </image:image>
+  </url>
+</urlset>

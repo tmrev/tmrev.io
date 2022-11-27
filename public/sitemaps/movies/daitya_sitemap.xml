@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/965930-Daitya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/965930-Daitya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tfCX72FV96g1rHN1FXdD0Q7LyF1.jpg</image:loc
+      >
+      <image:caption
+        >After an ex-army officer, Partho, disfigures his face during a war, he
+        retreats in his shell and becomes a recluse. However, when he befriends
+        Shubhro, a young boy, his life changes.</image:caption
+      >
+      <image:title>Daitya</image:title>
+    </image:image>
+  </url>
+</urlset>

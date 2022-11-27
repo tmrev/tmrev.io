@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80276-Dookudu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80276-Dookudu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e9uffrN9z22uuiBF9B0bTDDvbjz.jpg</image:loc
+      >
+      <image:caption
+        >A young policeman hunts down the men who caused the accident that put
+        his politician father into a coma.</image:caption
+      >
+      <image:title>Dookudu</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/581802-#UNFIT: The Psychology of Donald Trump</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/581802-#UNFIT: The Psychology of Donald Trump</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t33DKAQXmhbEJn0qsy6aHidRtN1.jpg</image:loc
+      >
+      <image:caption
+        >Medical doctors and mental health professionals go on camera, on the
+        record, for the record, for a discussion, analysis, and science-based
+        examination of the behavior, psyche, condition, and stability of
+        President Donald Trump. Also examines Trump's effect on our citizenry,
+        culture, and institutions.</image:caption
+      >
+      <image:title>#UNFIT: The Psychology of Donald Trump</image:title>
+    </image:image>
+  </url>
+</urlset>

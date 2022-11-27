@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/582903-Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/582903-Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/neVtg1VneYYK9Qew6ftX8RSdWGQ.jpg</image:loc
+      >
+      <image:caption
+        >Through 56 independent scenes, Echo draws a portrait, both biting and
+        tender, of modern day Iceland during the often turbulent but also
+        exciting time of the Christmas holidays.</image:caption
+      >
+      <image:title>Echo</image:title>
+    </image:image>
+  </url>
+</urlset>

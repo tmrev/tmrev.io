@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/243801-Death Trap</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/243801-Death Trap</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >After a night out when driving back in the rain a wealthy artist and
+        his young wife run into a man. He is knocked out and they decide to take
+        him to their mansion to recover. Once he is better he gets involved with
+        his young wife and they conspire to kill him for the inheritance she
+        will get despite the fact that his son is a cop. They decide to get rid
+        of him too. Will they succeed?</image:caption
+      >
+      <image:title>Death Trap</image:title>
+    </image:image>
+  </url>
+</urlset>

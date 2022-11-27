@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/36198-Digimon: Island of the Lost Digimon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/36198-Digimon: Island of the Lost Digimon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/27zt1BxqeEWJnq8VE8EPiSdrqr6.jpg</image:loc
+      >
+      <image:caption
+        >Takuya Kanbara, Koji Minamoto, J.P. Shibayama, Zoe Orimoto, Tommy Himi,
+        Bokomon, Neemon ride a Trailmon (Ball) through a desert when they get
+        caught in a battle between human and beast Digimon. It is interrupted by
+        the Lost Island, an island trapped between dimensions, crashing down
+        between them and scooping all involved up.</image:caption
+      >
+      <image:title>Digimon: Island of the Lost Digimon</image:title>
+    </image:image>
+  </url>
+</urlset>

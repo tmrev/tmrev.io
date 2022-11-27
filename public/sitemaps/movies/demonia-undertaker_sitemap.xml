@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/569815-Demonia Undertaker</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/569815-Demonia Undertaker</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8b4oj8Ue8CkXKF9zfRo3QaZiAvw.jpg</image:loc
+      >
+      <image:caption
+        >An alien from another planet with great super powers comes to earth to
+        destroy the whole human race by possessing their bodies. Alien bounty
+        hunters Staleth is sent with Colinus to try to stop him before its too
+        late.</image:caption
+      >
+      <image:title>Demonia Undertaker</image:title>
+    </image:image>
+  </url>
+</urlset>

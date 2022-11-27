@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571482-DolceRoma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571482-DolceRoma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/J4dSUA9OLVFbnKzvOFh8UlkF7l.jpg</image:loc
+      >
+      <image:caption
+        >Andrea Serrano is a young aspiring writer who, to make ends meet, is
+        forced to wash corpses in a mortuary, while struggling to finish his
+        first novel, a story about the Camorra. Having become discouraged by his
+        struggling career, he is waiting for the chance of a lifetime. And
+        finally, it arrives - a major film producer decides to adapt his novel
+        and make it into a movie.</image:caption
+      >
+      <image:title>DolceRoma</image:title>
+    </image:image>
+  </url>
+</urlset>

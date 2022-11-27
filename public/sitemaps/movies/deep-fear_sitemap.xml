@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/933415-Deep Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/933415-Deep Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xSTVDy2Pt5dtQrWC9BcaZZKWV0d.jpg</image:loc
+      >
+      <image:caption
+        >Three students celebrate their graduation with a visit of the Paris
+        catacombs. When they discover a bunker, little do they know it's not the
+        only thing that Nazi have left behind...</image:caption
+      >
+      <image:title>Deep Fear</image:title>
+    </image:image>
+  </url>
+</urlset>

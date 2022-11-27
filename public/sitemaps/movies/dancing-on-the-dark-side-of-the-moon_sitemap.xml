@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/795428-Dancing on the Dark Side of the Moon</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/795428-Dancing on the Dark Side of the Moon</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9rjOAYHfyslsTflxGUv5pqVe2hN.jpg</image:loc
+      >
+      <image:caption
+        >Picture this if you will. A futuristic lighthouse floating through dark
+        space. Aboard this lighthouse is a Spirit Guide and his two younglings
+        Alexi and friend Micah. Three spiritual beings on an unusual journey.
+        When the curious Alexi asks what his life will be like on earth the
+        Spirit Guide is compelled to show him. He knows that dark forces are at
+        hand and Alexi may indeed never be born at all. The Guide reluctantly
+        shows him special moments in time where we find Alexi's family in deep
+        turmoil where dark secrets abound.</image:caption
+      >
+      <image:title>Dancing on the Dark Side of the Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/514287-Cuties</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/514287-Cuties</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uSWUadNb4njB2eF4zb2OYdLFAYp.jpg</image:loc
+      >
+      <image:caption
+        >A group of gay teenagers are picked off by a mysterious killer during
+        the first month of their senior year, while insecure boy Micah goes
+        through a crisis of self-worth as he can't grasp why the killer has no
+        interest in coming after him.</image:caption
+      >
+      <image:title>Cuties</image:title>
+    </image:image>
+  </url>
+</urlset>

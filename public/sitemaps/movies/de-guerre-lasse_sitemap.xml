@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/292218-De guerre lasse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/292218-De guerre lasse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nvU6WhOCV1GzebkpVatzuIoMMSR.jpg</image:loc
+      >
+      <image:caption
+        >Alex, the son of a gang boss from Marseilles, joins the French Foreign
+        Legion to avoid a hit put out on him by the Corsican Mafia. Four years
+        later, Alex deserts and returns to Marseilles to get back together with
+        Katia, his former girlfriend. But in the city, relationships have
+        changed...</image:caption
+      >
+      <image:title>De guerre lasse</image:title>
+    </image:image>
+  </url>
+</urlset>

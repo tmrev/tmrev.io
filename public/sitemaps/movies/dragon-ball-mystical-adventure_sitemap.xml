@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/116776-Dragon Ball: Mystical Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/116776-Dragon Ball: Mystical Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a2oMo9y1WtJsM0EUytKRtZlREE3.jpg</image:loc
+      >
+      <image:caption
+        >Master Roshi has succeeded at the one mission he valued most: to train
+        Goku and Krillin to become ultimate fighters. So, he arranges for them
+        to test their mettle at a competition hosted by Emperor Chiaotzu. Not
+        everyone's playing by the rules, however, as a member of the ruler's
+        household schemes to use the Dragonballs to extort money and power from
+        the royal.</image:caption
+      >
+      <image:title>Dragon Ball: Mystical Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

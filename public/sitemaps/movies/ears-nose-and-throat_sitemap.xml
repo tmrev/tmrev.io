@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/415230-Ears, Nose and Throat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/415230-Ears, Nose and Throat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v6ZjS0OGN1n62uMDZaIYGoPO7To.jpg</image:loc
+      >
+      <image:caption
+        >In Kevin Jerome Everson’s deeply affecting Ears, Nose and Throat, a
+        woman’s testimonial faculties are confirmed through medical examinations
+        before she recites a tragic story, whose horrors we don't see, hear, or
+        smell, but can imagine far too easily.</image:caption
+      >
+      <image:title>Ears, Nose and Throat</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28463-East/West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28463-East/West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c1Uf4HC5WEcssVoOm48Bfzn7Wmk.jpg</image:loc
+      >
+      <image:caption
+        >June 1946: Stalin invites Russian emigres to return to the motherland.
+        It's a trap: when a ship-load from France arrives in Odessa, only a
+        physician and his family are spared execution or prison. He and his
+        French wife (her passport ripped up) are sent to Kiev. She wants to
+        return to France immediately; he knows that they are captives and must
+        watch every step.</image:caption
+      >
+      <image:title>East/West</image:title>
+    </image:image>
+  </url>
+</urlset>

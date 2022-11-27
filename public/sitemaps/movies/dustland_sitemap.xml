@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/903390-Dustland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/903390-Dustland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/df0clcHTD1xbjgZLWzBC8PsYApl.jpg</image:loc
+      >
+      <image:caption
+        >Once upon a time, an endless dust storm engulfed the world, stranding
+        an itinerant circus in a time without purpose. One day, a high-wire
+        walker, lured by a tune hidden in the wind, leaves the circus and finds
+        the melody revealed in the shape of a mysterious fiddler waiting at the
+        crossroads. The stranger presents her with an hourglass that can stop
+        the wind, but only until the sand runs out. The wire-walker rejoins the
+        show and, taking control of her fate, decides to walk the wire one last
+        time.</image:caption
+      >
+      <image:title>Dustland</image:title>
+    </image:image>
+  </url>
+</urlset>

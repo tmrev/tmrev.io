@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276444-Donizetti: Don Pasquale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276444-Donizetti: Don Pasquale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mUrlCYkSSJeqVPK9wPcE8jCuMLQ.jpg</image:loc
+      >
+      <image:caption
+        >Determined to wed, a foolhardy old man is tricked by his friends into a
+        sham wedding with an impish widow who turns into a harpy -- which
+        subsequently cures his desire to marry in composer Gaetano Donizetti's
+        famous opera buffa. Baritone Alessandro Corbelli plays the title
+        character in this lush 2002 production also starring soprano Eva Mei and
+        tenor Antonino Siragusa, with maestro Gérard Korsten leading the Chorus
+        and Orchestra of Teatro Lirico.</image:caption
+      >
+      <image:title>Donizetti: Don Pasquale</image:title>
+    </image:image>
+  </url>
+</urlset>

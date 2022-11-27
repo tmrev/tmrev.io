@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/251893-Duel of Legends</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/251893-Duel of Legends</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2mdnGlIAkWO42ePzvTp6F4NB1lw.jpg</image:loc
+      >
+      <image:caption
+        >Duel of Legends is directed by Hector Echavarria and is about a Chinese
+        boy who is left to survive by himself because his parents were murdered
+        by rebels. The boy is raised by a Temple Monk who teaches the boy the
+        secrets of the Martial arts. When the child grows up he travels to
+        America were he joins American tournaments in karate where he discovers
+        a dark secret about who actually killed his parents. An action filled
+        martial arts movie with many twist and turns.</image:caption
+      >
+      <image:title>Duel of Legends</image:title>
+    </image:image>
+  </url>
+</urlset>

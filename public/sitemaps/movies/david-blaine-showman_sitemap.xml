@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/288106-David Blaine - Showman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/288106-David Blaine - Showman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f5RVglYcWcafaNRtArIcnZrWtWP.jpg</image:loc
+      >
+      <image:caption
+        >Premier American magician David Blaine's first ever street perfomance,
+        on the streets of Brooklyn, when he swallows a diamond from a wedding
+        ring and produces it from his eye (!), amazes onlookers with his card
+        tricks and even re-incarnates dead animals. Also included is Blaine's
+        most famous stunt (and behind-the-scene accounts of it) when, in
+        November 2000, 1 million people came to witness him frozen in a six-ton
+        block of ice for 3 days and nights and then walking out
+        unharmed.</image:caption
+      >
+      <image:title>David Blaine - Showman</image:title>
+    </image:image>
+  </url>
+</urlset>

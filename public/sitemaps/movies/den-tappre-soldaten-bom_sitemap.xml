@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/881375-Den tappre soldaten Bom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/881375-Den tappre soldaten Bom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bJtSzlVCNnYyUekahGStafNa6qZ.jpg</image:loc
+      >
+      <image:caption
+        >Soldier Fabian Bom moves around 1940s Helsingborg with his usual
+        antics.</image:caption
+      >
+      <image:title>Den tappre soldaten Bom</image:title>
+    </image:image>
+  </url>
+</urlset>

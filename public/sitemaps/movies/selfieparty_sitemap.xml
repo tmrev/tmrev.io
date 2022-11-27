@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/388791-#SelfieParty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/388791-#SelfieParty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hdLdMF9blzOJezMbIySAp6wlRRV.jpg</image:loc
+      >
+      <image:caption
+        >Four friends who are all students, wake up at the police station, not
+        remembering the events of yesterday. They are accused of murdering a
+        dwarf, whose body was found on the lawn of the house where the boys
+        partied last night. To figure out what happened, the boys decide to
+        collect all the photos and videos from yesterday's
+        mayhem.</image:caption
+      >
+      <image:title>#SelfieParty</image:title>
+    </image:image>
+  </url>
+</urlset>

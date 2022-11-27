@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/481104-Don't Lose Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/481104-Don't Lose Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4KhFAcMEeZOI68Nx5dpnlJSI8fe.jpg</image:loc
+      >
+      <image:caption
+        >Depicts the life of best-selling Japanese poet Toyo Shibata. Toyo
+        Shibata first began writing poems at the age of 92 and published her
+        first collection of poems "Kujikenaide" (″Don't lose heart″) in 2009,
+        which sold over 1.5 million copies.</image:caption
+      >
+      <image:title>Don't Lose Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/92416-Deviation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/92416-Deviation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oOt2jY4RU9Ku2BOGfRMcRra0dnM.jpg</image:loc
+      >
+      <image:caption
+        >Told over one horrifying night, Deviation will take you on a
+        white-knuckle journey into the mind of Frank Norton, a dangerous
+        schizophrenic murderer as he escapes from Broadmoor Hospital and embarks
+        on a murderous rampage across London. But when Frankie takes a hostage,
+        the deadly game of cat-and-mouse truly begins.</image:caption
+      >
+      <image:title>Deviation</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17888-Dasavatharam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17888-Dasavatharam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6JVJEJmFb0cL7r7p00BvNDeC70Y.jpg</image:loc
+      >
+      <image:caption
+        >Bio-technologist Govind K Somaiyya sets about on a precarious journey
+        to India to retrieve a vial containing a deadly virus and prevent it
+        from reaching the wrong hands of an ex-CIA agent and deadly
+        assassins.</image:caption
+      >
+      <image:title>Dasavatharam</image:title>
+    </image:image>
+  </url>
+</urlset>

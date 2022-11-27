@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/695756-Dream Again</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/695756-Dream Again</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i86B7RBmNA3JU8sjX4GHq6Ph0At.jpg</image:loc
+      >
+      <image:caption
+        >Two best friends Andy and Tom drive to a nearby lake to celebrate the
+        end of Andy's long-term relationship and his newly won freedom with
+        alcohol. Once at the lake, the two friends discover an abandoned hut in
+        the vicinity that they want to take a closer look at. When they reach
+        the hut, however, the two quickly realize that it would have been better
+        to avoid this dark place.</image:caption
+      >
+      <image:title>Dream Again</image:title>
+    </image:image>
+  </url>
+</urlset>

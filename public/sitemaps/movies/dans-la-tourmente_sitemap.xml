@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112377-Dans la tourmente</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112377-Dans la tourmente</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kEfZqr8S2StKL83pVyTNpvCDG47.jpg</image:loc
+      >
+      <image:caption
+        >Dans la région de Marseille, un patron prépare à l’insu de ses ouvriers
+        la délocalisation de son usine, couplée d’un détournement de 2 millions
+        d’euros. Franck, l’un de ses salariés l’apprend et, sans en parler à sa
+        femme Hélène, décide avec Max, son ami de toujours, de passer à
+        l’action...</image:caption
+      >
+      <image:title>Dans la tourmente</image:title>
+    </image:image>
+  </url>
+</urlset>

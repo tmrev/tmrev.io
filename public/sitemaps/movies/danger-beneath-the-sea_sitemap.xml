@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30951-Danger Beneath the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30951-Danger Beneath the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zLZfNv06qkSj6eHP0IJGbkr8tQ6.jpg</image:loc
+      >
+      <image:caption
+        >Following a nuclear weapons testing accident in North Korea, the crew
+        of a US Navy submarine experiences a communications breakdown. Believing
+        that a nuclear war has started, the senior officers prepare for
+        retaliation, but one man is not so sure.</image:caption
+      >
+      <image:title>Danger Beneath the Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

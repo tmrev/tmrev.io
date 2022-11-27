@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46537-Dark and Stormy Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46537-Dark and Stormy Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/p0PQozh6HnVVEWfltEGv6TE9wEU.jpg</image:loc
+      >
+      <image:caption
+        >In the 1930s the family of old Sinas Cavinder, gathered for the reading
+        of his will, find themselves being murdered by a mysterious phantom
+        while two rival reporters compete for the story.</image:caption
+      >
+      <image:title>Dark and Stormy Night</image:title>
+    </image:image>
+  </url>
+</urlset>

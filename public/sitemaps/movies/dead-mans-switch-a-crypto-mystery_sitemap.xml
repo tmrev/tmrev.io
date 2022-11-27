@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/823382-Dead Man's Switch: A Crypto Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/823382-Dead Man's Switch: A Crypto Mystery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vFnQ67vevwtOKh660XNzJvdbwpe.jpg</image:loc
+      >
+      <image:caption
+        >A riveting cryptocurrency thriller unravels the story of a Canadian
+        blockchain wizard who mysteriously died on his honeymoon in India and
+        the fate of his investors' $200 million. Did it vanish into the digital
+        void or does it remain locked away in password-protected
+        accounts?</image:caption
+      >
+      <image:title>Dead Man's Switch: A Crypto Mystery</image:title>
+    </image:image>
+  </url>
+</urlset>

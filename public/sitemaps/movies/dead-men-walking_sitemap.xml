@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65051-Dead Men Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65051-Dead Men Walking</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/66YmdbDvQ09wknzOnEChN0bG3Pv.jpg</image:loc
+      >
+      <image:caption
+        >A viral outbreak turns those who are infected into the walking dead.
+        Soon, the undead are contained, being kept in a maximum security prison.
+        However, those who contained the undead are also trapped in this
+        zombie-infested prison. Their only hope is to escape; but once you're
+        inside this prison, there's really no way of getting out
+        safely.</image:caption
+      >
+      <image:title>Dead Men Walking</image:title>
+    </image:image>
+  </url>
+</urlset>

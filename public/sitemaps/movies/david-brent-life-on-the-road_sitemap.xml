@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/339792-David Brent: Life on the Road</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/339792-David Brent: Life on the Road</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lhUKeZj7VlWAtavAzTLwClDWSpI.jpg</image:loc
+      >
+      <image:caption
+        >A camera crew catches up with David Brent, the former star of the
+        fictional British series, "The Office" as he now fancies himself a
+        rockstar on the road.</image:caption
+      >
+      <image:title>David Brent: Life on the Road</image:title>
+    </image:image>
+  </url>
+</urlset>

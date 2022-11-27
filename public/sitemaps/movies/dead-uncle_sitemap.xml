@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400127-Dead Uncle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400127-Dead Uncle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mKwwrXJeMPzW9MgNQwOoQu5Uq8C.jpg</image:loc
+      >
+      <image:caption
+        >When an unemployed young man finds himself in dire straits and up to
+        his eyes in gambling debt, he believes the only solution is to become a
+        drug courier.</image:caption
+      >
+      <image:title>Dead Uncle</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/500489-Ed Sullivan's Rock & Roll Classics-Elvis &
+      Other Rock Greats Vol. 4</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/500489-Ed Sullivan's Rock & Roll Classics-Elvis &
+      Other Rock Greats Vol. 4</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b13706Mc5K39VksiOiseAz7PdbB.jpg</image:loc
+      >
+      <image:caption
+        >This compilation is comprised of a series of musical performances by
+        some of the greatest names in rock history including a half-dozen
+        appearances by Elvis Presley as well as songs by The Beatles, Sly & the
+        Family Stone, and "The Killer" Jerry Lee Lewis.</image:caption
+      >
+      <image:title
+        >Ed Sullivan's Rock & Roll Classics-Elvis & Other Rock Greats Vol.
+        4</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20352-Despicable Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20352-Despicable Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bRZT3dAv85TWLmQj4fhQg06W07D.jpg</image:loc
+      >
+      <image:caption
+        >Villainous Gru lives up to his reputation as a despicable, deplorable
+        and downright unlikable guy when he hatches a plan to steal the moon
+        from the sky. But he has a tough time staying on task after three
+        orphans land in his care.</image:caption
+      >
+      <image:title>Despicable Me</image:title>
+    </image:image>
+  </url>
+</urlset>

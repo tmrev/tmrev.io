@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28418-Darkhunters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28418-Darkhunters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zRJkUj6uiXeSYiKJCogPe7to4D2.jpg</image:loc
+      >
+      <image:caption
+        >Walking the Earth as an undead spirit has Charlie Jackson in a
+        quandary. Unable to interact with his family, Charlie feels he's been
+        forsaken by God. Now, his ultimate goal is to get to heaven as soon as
+        possible - but that's easier said than done. The battle between good and
+        evil for Charlie's soul has begun, and salvation might only come via
+        Carol Miller, a darkhunter who brings lost souls back to
+        death.</image:caption
+      >
+      <image:title>Darkhunters</image:title>
+    </image:image>
+  </url>
+</urlset>

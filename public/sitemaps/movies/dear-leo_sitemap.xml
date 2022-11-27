@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/741279-Dear Leo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/741279-Dear Leo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8oDJcU8so5ZzBUaA4N3SRHsowPN.jpg</image:loc
+      >
+      <image:caption
+        >Dear Leo follows the story of Annie Duncan as she graduates from high
+        school and starts her freshman year of college, as told through the
+        perspective of letters with her middle-school cousin Leo.</image:caption
+      >
+      <image:title>Dear Leo</image:title>
+    </image:image>
+  </url>
+</urlset>

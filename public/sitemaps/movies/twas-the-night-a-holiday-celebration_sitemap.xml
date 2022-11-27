@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/279120-'Twas the Night - A Holiday
+      Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/279120-'Twas the Night - A Holiday
+      Celebration</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d5SdSlKYJ9k1EWMT4bpWpDlMLh0.jpg</image:loc
+      >
+      <image:caption
+        >This half-hour family special is a delightful combination of animated
+        adaptations of classic holiday songs - performed by top stars ranging
+        from Frank Sinatra to Macy Gray - plus live-action shots. The animated
+        segments feature classic and all-new recordings of well-known holiday
+        songs and are visually conceived through the skills of several top
+        animators of a group of adorable 4 to 8-year old children, as well as by
+        short live-action pieces that celebrate the holiday spirit of giving,
+        sharing, and loving.</image:caption
+      >
+      <image:title>'Twas the Night - A Holiday Celebration</image:title>
+    </image:image>
+  </url>
+</urlset>

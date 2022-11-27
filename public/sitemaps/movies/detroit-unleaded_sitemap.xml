@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127891-Detroit Unleaded</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127891-Detroit Unleaded</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y8ornabKbEhbZu3el0rRA9jYttZ.jpg</image:loc
+      >
+      <image:caption
+        >An ambitious Lebanese-American youth is forced to take over his
+        family's gas station after his father's death, in this spirited and
+        often hilarious coming-of-age tale from first-time feature director Rola
+        Nashef.</image:caption
+      >
+      <image:title>Detroit Unleaded</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/705161-Drought</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/705161-Drought</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zF5NU1zzSdsCyRzpYN3i8a3zraZ.jpg</image:loc
+      >
+      <image:caption
+        >It's 1993 and North Carolina is experiencing a historic drought.
+        Autistic teen Carl, fascinated by weather, predicts that a storm will
+        soon hit nearby. His sister Sam crafts a plan to help him chase the
+        storm, stealing their mother's ice-cream truck to embark on a road trip
+        about family, forgiveness, and following your dreams.</image:caption
+      >
+      <image:title>Drought</image:title>
+    </image:image>
+  </url>
+</urlset>

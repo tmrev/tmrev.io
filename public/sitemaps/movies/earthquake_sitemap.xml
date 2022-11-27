@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/603718-Earthquake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/603718-Earthquake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/etQYTnWv7UBjw0z8HUY1RULdYzO.jpg</image:loc
+      >
+      <image:caption
+        >The Hawke’s Bay earthquake was New Zealand’s worst civil disaster. Over
+        250 people died following the 7.8 quake on 3 February 1931. In this
+        full-length documentary, director Gaylene Preston (Hope and Wire)
+        gathers eyewitness accounts from survivors, including kuia Hana Lyola
+        Cotter, who recounts joining the rescue effort as a teen, poet Lauris
+        Edmond, and a student from Greenmeadows Seminary. Included is
+        eye-opening newsreel footage of the damage. Earthquake was nominated for
+        Best Popular Documentary at the 2006 Qantas TV Awards; it won best sound
+        at the NZ Screen Awards.</image:caption
+      >
+      <image:title>Earthquake</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468219-Dead in a Week (Or Your Money Back)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468219-Dead in a Week (Or Your Money Back)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f4ANVEuEaGy2oP5M0Y2P1dwxUNn.jpg</image:loc
+      >
+      <image:caption
+        >William has failed to kill himself so many times that he outsources his
+        suicide to aging assassin Leslie. But with the contract signed and death
+        assured within a week (or his money back), William suddenly discovers
+        reasons to live... However Leslie is under pressure from his boss to
+        make sure the contract is completed.</image:caption
+      >
+      <image:title>Dead in a Week (Or Your Money Back)</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/145500-David Gray: Live at the Point</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/145500-David Gray: Live at the Point</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/saZ07UhDtFACjIcAZnbF59IesG5.jpg</image:loc
+      >
+      <image:caption
+        >This DVD features David Gray: Live at The Point, a concert filmed at
+        The Point in Dublin, plus the film David Gray: Up to a Point, which is
+        exclusive to this DVD. More than just a phenomenal show, David Gray:
+        Live at The Point captures this acclaimed singer at the moment of
+        transition from well-kept secret to award-winning, platinum-selling
+        success. Singing to 9,000 fans that packed The Point in Dublin, this is
+        both a powerful yet intimate show. Featuring songs from all five of
+        David Gray's albums, it includes the hit singles "Babylon" and "Please
+        Forgive Me."</image:caption
+      >
+      <image:title>David Gray: Live at the Point</image:title>
+    </image:image>
+  </url>
+</urlset>

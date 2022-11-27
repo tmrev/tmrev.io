@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79819-Dhada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79819-Dhada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3uYtIsbHOuIaL8bUfXtiNNrm7Tl.jpg</image:loc
+      >
+      <image:caption
+        >A carefree man inadvertently frees a group of kidnapped young women
+        from a criminal gang of traffickers and earns their wrath. His
+        girlfriend's wealthy father arranges her wedding with an equally
+        wealthy, but psychotic man. Will the man succeed in defeating his
+        enemies and protect his girlfriend?</image:caption
+      >
+      <image:title>Dhada</image:title>
+    </image:image>
+  </url>
+</urlset>
