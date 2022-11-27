@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /404
+User-agent: *
+Disallow: /register
+
+
+Sitemap: https://tmrev.io/sitemap.xml
