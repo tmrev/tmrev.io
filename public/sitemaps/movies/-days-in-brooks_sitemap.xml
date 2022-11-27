@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/662344-24 Days in Brooks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/662344-24 Days in Brooks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pobkhEQMw8f53VWqEyqnh5nMhPT.jpg</image:loc
+      >
+      <image:caption
+        >Over the course of a decade Brooks, Alberta, transformed from a
+        socially conservative, primarily white town to one of the most diverse
+        places in Canada as immigrants and refugees flocked to find jobs at the
+        Lakeside Packers slaughterhouse. This film is a portrait of those people
+        working together and adapting to change through the first-ever strike at
+        Lakeside.</image:caption
+      >
+      <image:title>24 Days in Brooks</image:title>
+    </image:image>
+  </url>
+</urlset>

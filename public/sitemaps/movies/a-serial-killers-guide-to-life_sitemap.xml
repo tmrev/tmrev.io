@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/437193-A Serial Killer's Guide to Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/437193-A Serial Killer's Guide to Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9YMM2audtZ2Qg0XOg1tW11IkHtV.jpg</image:loc
+      >
+      <image:caption
+        >Louise Farnt is obsessed with the world of self-help. And when she
+        meets the not necessarily sane guru wannabe Val Stone, a murderous spree
+        begins.</image:caption
+      >
+      <image:title>A Serial Killer's Guide to Life</image:title>
+    </image:image>
+  </url>
+</urlset>

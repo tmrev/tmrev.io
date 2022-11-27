@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/143219-A Walk with Kiarostami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/143219-A Walk with Kiarostami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yyKb8ajYeBmTS9iBJBoz6ZfJJ8d.jpg</image:loc
+      >
+      <image:caption
+        >U.S.-based film professor Jamsheed Akrami talks to Iranian master Abbas
+        Kiarostami in an inpromptu video interview, which offers a frank and
+        funny view of Kiarostami rarely seen before.</image:caption
+      >
+      <image:title>A Walk with Kiarostami</image:title>
+    </image:image>
+  </url>
+</urlset>

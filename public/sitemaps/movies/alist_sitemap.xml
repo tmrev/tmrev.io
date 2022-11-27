@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/228581-A-list</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/228581-A-list</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Darren goes to Hollywood to tackle his dream of becoming an A-list
+        movie star. However, once he gets there his dreams are crushed once he
+        realizes the life of an actor isn't all of the glitz and glamour he had
+        hoped. When Darren is mistaken for Dante, an A-list actor in tinsel
+        town, Darren's world is thrown upside down. With gigs coming in left and
+        right and the paparazzi on his tail, Darren gets his wish, for better or
+        for worse.</image:caption
+      >
+      <image:title>A-list</image:title>
+    </image:image>
+  </url>
+</urlset>

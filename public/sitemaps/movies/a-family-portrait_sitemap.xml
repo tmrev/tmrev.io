@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276825-A Family Portrait</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276825-A Family Portrait</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bm5Kp9f53rwB3s6gxqoNb8cI3EZ.jpg</image:loc
+      >
+      <image:caption
+        >A family portrait session goes horribly wrong, as secrets and jealousy
+        bubble to the surface under the photographer's watchful
+        gaze.</image:caption
+      >
+      <image:title>A Family Portrait</image:title>
+    </image:image>
+  </url>
+</urlset>

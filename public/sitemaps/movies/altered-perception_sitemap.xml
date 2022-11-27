@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/404782-Altered Perception</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/404782-Altered Perception</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vchV3aqWPnMb6RgEqHcm8bbQZ3e.jpg</image:loc
+      >
+      <image:caption
+        >A Blanc-Biehn production centered around the idea of a governmentally
+        designed drug created to help correct or strategically alter perceptions
+        gathered during times of trauma or stress. Slated as being a substance
+        that may help solve issues with everything from racial tensions, PTSD
+        and geopolitic battles, first a focused study is needed to see how
+        people respond to treatment and what dosages might be needed. Four
+        couples are chosen to test this drug, and soon find their memories and
+        sanity challenged.</image:caption
+      >
+      <image:title>Altered Perception</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4023-A Thousand Billion Dollars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4023-A Thousand Billion Dollars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9v3jDcSKto0gEqy4jjrBDyGm98H.jpg</image:loc
+      >
+      <image:caption
+        >A young journalist stumbles across something much more sinister than a
+        simple suicide in the death of a politician - the death seems to be an
+        assassination contrived by an American multinational company intent on
+        taking over several French industries. The journalist's objective is to
+        garner enough evidence to expose the American corporation for what it
+        really is, before French companies start disappearing - and before any
+        more corpses accumulate, including his own.</image:caption
+      >
+      <image:title>A Thousand Billion Dollars</image:title>
+    </image:image>
+  </url>
+</urlset>

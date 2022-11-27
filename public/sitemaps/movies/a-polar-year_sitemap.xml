@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/493017-A Polar Year</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/493017-A Polar Year</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gKkbHvM7hyWD4lQOOraSB4K2RXp.jpg</image:loc
+      >
+      <image:caption
+        >A Danish teacher takes a job in Greenland and tries to overcome the
+        animosity of the tight-knit locals through a series of errors that help
+        him embrace the snow-covered life.</image:caption
+      >
+      <image:title>A Polar Year</image:title>
+    </image:image>
+  </url>
+</urlset>

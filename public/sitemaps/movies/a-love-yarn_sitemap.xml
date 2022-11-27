@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/812173-A Love Yarn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/812173-A Love Yarn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/edWC6OvT96SgE3uqSoUTbIY6jK1.jpg</image:loc
+      >
+      <image:caption
+        >The owner of a quaint New Zealand yarn shop, Sophie Dale, gets her
+        world flipped upside down after learning her top supplier of yarn, King
+        Farms, is stopping production. Much to her surprise, the charming yet
+        stuck-in-his-ways Samuel King has traveled all the way from New York to
+        audit the business model of the farm. Desperate to keep her shop going,
+        Sophie convinces Samuel to give her two weeks to learn the ropes of yarn
+        spinning and raise enough money to buy the mill herself.</image:caption
+      >
+      <image:title>A Love Yarn</image:title>
+    </image:image>
+  </url>
+</urlset>

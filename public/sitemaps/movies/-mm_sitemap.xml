@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279186-0.5 mm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279186-0.5 mm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b8Z35jLGplXOiGYjJkmNuzahqcG.jpg</image:loc
+      >
+      <image:caption
+        >Sawa, a home helper for a middle class family with an elderly infirm
+        grandfather, is forced to stretch her morals to keep her job. As a
+        result, she finds herself broke and out on the street. She survives her
+        first night by striking up an ambiguous friendship with a kindly old
+        man, gaining access to a portion of the immense wealth held by Japan's
+        aging population. She continues with similar encounters, and while these
+        begin as scams or revenge on rampant sexism, they ultimately become
+        vulnerable intergenerational exchanges.</image:caption
+      >
+      <image:title>0.5 mm</image:title>
+    </image:image>
+  </url>
+</urlset>

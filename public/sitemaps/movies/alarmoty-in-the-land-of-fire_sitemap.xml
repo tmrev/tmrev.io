@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480577-Alarmoty in the Land of Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480577-Alarmoty in the Land of Fire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zeDOBGKyb6J8WAdNVQaZbfXWy6A.jpg</image:loc
+      >
+      <image:caption
+        >El Karmooty is back! Accidentally, he was captured on his summer
+        vacation by Daesh (terror group) and the movie goes on in a series of
+        comedic situations</image:caption
+      >
+      <image:title>Alarmoty in the Land of Fire</image:title>
+    </image:image>
+  </url>
+</urlset>

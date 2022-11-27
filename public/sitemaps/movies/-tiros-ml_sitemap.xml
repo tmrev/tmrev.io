@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475433-06 Tiros, 60Ml</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475433-06 Tiros, 60Ml</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kudzG5gYd8PIYSWOpugmWtEDX8Z.jpg</image:loc
+      >
+      <image:caption
+        >After a bloody shoot-out, a gangster wakes up in a hospital full of
+        zombies.</image:caption
+      >
+      <image:title>06 Tiros, 60Ml</image:title>
+    </image:image>
+  </url>
+</urlset>

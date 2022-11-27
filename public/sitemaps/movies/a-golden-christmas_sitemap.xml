@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51848-A Golden Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51848-A Golden Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/geJnEoVTWUFdDEiGziJNvP2m3ni.jpg</image:loc
+      >
+      <image:caption
+        >After a magical summer together, a nine-year-old boy whispers his heart
+        into the ear of a best friend. With a loyal, golden dog by their side,
+        the boy and girl bury a time capsule of keepsakes and then go their
+        separate ways. Years later, looking for a fresh start, a man and woman
+        each return to the place they felt most at home as a child. But a
+        comedic case of unknown identity has them competing for the same
+        childhood memories and Christmas escapades ensue. For the sake of their
+        happiness, they must discover their common past before they turn each
+        other's lives completely upside down. Can a golden dog lead them
+        home?</image:caption
+      >
+      <image:title>A Golden Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

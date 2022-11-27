@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342286-A New High</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342286-A New High</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rxUxBvVq7nDbr819CH4g6RFwgwG.jpg</image:loc
+      >
+      <image:caption
+        >In the heart of downtown Seattle, a diverse group of men and women will
+        come together to climb out of homelessness and drug addiction through an
+        unorthodox recovery program that uses mountain climbing as a means of
+        rehabilitation. After one year of intense physical and mental
+        conditioning, the team will attempt to summit one of the most dangerous
+        mountains in the country, Mt. Rainier.</image:caption
+      >
+      <image:title>A New High</image:title>
+    </image:image>
+  </url>
+</urlset>

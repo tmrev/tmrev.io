@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321145-15 Corners of the World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321145-15 Corners of the World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Eugeniusz Rudnik revolutionized the idea of music itself with a pair of
+        scissors and a magnetic tape. As part of the legendary Experimental
+        Studio of Polish Radio, he revealed hidden value in rough and rejected
+        sounds long before the rise of the DJs. In an era of electronic music
+        created in a workshop resembling a scientific lab, he composed music to
+        reach and to portray other human beings. “15 Corners of the World” is an
+        attempt to hear the vision of his music.</image:caption
+      >
+      <image:title>15 Corners of the World</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/179897-A Deadly Obsession</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/179897-A Deadly Obsession</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ihhTgwFv7aRwNTiZKJkfPKM4e7M.jpg</image:loc
+      >
+      <image:caption
+        >When she was six, Suzanne Hollander saw her mother kill her father.
+        Twenty-five years later, she's a professor of psychology and lives in
+        fear of becoming a criminal like her mother. As she teaches a course at
+        the university, gunfire breaks out on campus, causing several
+        casualties. The shooter is one of her former students with whom she had
+        many conversations about his thesis, on the assessment of empathy. The
+        young man, named Connor, is a dangerous psychopath who keeps the track
+        to declare his love.</image:caption
+      >
+      <image:title>A Deadly Obsession</image:title>
+    </image:image>
+  </url>
+</urlset>

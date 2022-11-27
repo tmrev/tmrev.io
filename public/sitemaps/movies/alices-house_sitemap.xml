@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81923-Alice's House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81923-Alice's House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v2t8pCgcgA04iYkyisPLVzlemMc.jpg</image:loc
+      >
+      <image:caption
+        >Alice, married for the last 20 years to a taxi driver, works in a
+        beauty parlour, has three children, the eldest of whom is doing his
+        military service, and a mother who works as a maid in her house. None of
+        the three siblings pay much attention to their mother, and they treat
+        their grandmother with lack of respect. Alice's life in the female
+        working world contrasts strongly with the powerful masculine presence in
+        her home. Although she's a good girl, the chance to betray uncovers
+        other betrayals she didn't know existed.</image:caption
+      >
+      <image:title>Alice's House</image:title>
+    </image:image>
+  </url>
+</urlset>

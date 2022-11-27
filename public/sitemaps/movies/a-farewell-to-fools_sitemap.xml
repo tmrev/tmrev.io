@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/248401-A Farewell to Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/248401-A Farewell to Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5pnN3w0jYiMWdhyxMPwn7YA7DHq.jpg</image:loc
+      >
+      <image:caption
+        >Set during World War II, somewhere in Eastern Europe. A German soldier
+        is found dead near the village. The local authorities must find the
+        culprit, or they will be all shot by the Nazis the morning after.
+        There's no way to find the guilty one, but there's Ipu, the madman of
+        the village, whom they promise a hero's funeral if he will claims
+        responsibility and agrees to die in their place. He must decide, and
+        time is running out.</image:caption
+      >
+      <image:title>A Farewell to Fools</image:title>
+    </image:image>
+  </url>
+</urlset>

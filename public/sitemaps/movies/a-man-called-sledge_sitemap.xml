@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70387-A Man Called Sledge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70387-A Man Called Sledge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2RqnEBkdOjSF1E8NsQQmtQATXgW.jpg</image:loc
+      >
+      <image:caption
+        >James Garner is Luther Sledge, the leader of a pack of rebels who are
+        planning to steal a stash of gold. But after the thieves actually manage
+        to get away with the bounty, they soon discover that the enemy lies
+        within their midst. As they begin to bicker over who should get the
+        biggest cut, the stage is set for a deadly showdown. Claude Akins and
+        John Marley co-star in this Italian Western directed by Vic
+        Morrow.</image:caption
+      >
+      <image:title>A Man Called Sledge</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/460262-A Cautionary Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/460262-A Cautionary Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gPtmfsgRRtyqQ8gN7ZUR6jRcah2.jpg</image:loc
+      >
+      <image:caption
+        >A little girl is born with a tail that expresses her emotions. As a
+        child, her parents celebrate their daughter's uniqueness and her tail
+        inspires magical make-believe adventures with her friends. As she grows
+        up, however, the young woman faces pressure to fit in, and must choose
+        between conformity and self-expression. An animated short film starring
+        Oscar-winner Cate Blanchett, using a striking collage of 3D animated
+        characters and hand-made miniature sets.</image:caption
+      >
+      <image:title>A Cautionary Tail</image:title>
+    </image:image>
+  </url>
+</urlset>

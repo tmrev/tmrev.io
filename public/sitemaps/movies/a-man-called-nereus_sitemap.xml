@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/248464-A Man Called Nereus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/248464-A Man Called Nereus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nrDdwtOYc7dsjYeEB4hNXoOjx6m.jpg</image:loc
+      >
+      <image:caption
+        >This Metaphysical Dark Action Comedy "A MAN CALLED NEREUS" is the debut
+        feature of writer/director Nathan Hill, for Armored Vision. Nereus is an
+        autistic man who is being held captive by the Filaria crime family due
+        to his unique ability to predict the exact outcome of sporting events
+        through time travel. However, this all changes the moment he is
+        kidnapped by a junkie who plans to take him to Las Vegas. Now on the
+        run, the two must weave through madmen, corrupt law enforcement and
+        new-age terrorists.</image:caption
+      >
+      <image:title>A Man Called Nereus</image:title>
+    </image:image>
+  </url>
+</urlset>

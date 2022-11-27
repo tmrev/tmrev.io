@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429100-Andy's Rainbow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429100-Andy's Rainbow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u3hhQYirPnhX8dACDsUJ2hG36aY.jpg</image:loc
+      >
+      <image:caption
+        >While doing community service at a special needs home, a rebellious
+        teenage girl develops an unlikely friendship with a young mentally
+        handicapped man who lives there.</image:caption
+      >
+      <image:title>Andy's Rainbow</image:title>
+    </image:image>
+  </url>
+</urlset>

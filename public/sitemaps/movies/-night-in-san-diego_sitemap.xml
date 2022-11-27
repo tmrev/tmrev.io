@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/664051-1 Night In San Diego</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/664051-1 Night In San Diego</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mnvFf0u6FC5MmYeKSc9TTKOcuTz.jpg</image:loc
+      >
+      <image:caption
+        >Two life long friends, Hannah, a former reality starlet, and her
+        conscious cuddling best friend, Brooklyn, road trip to San Diego to meet
+        a high school crush and attend Comic Con. When things don't go as
+        planned, their trip turns into a night of chaos, debauchery, and
+        ultimately tests the deepest bonds of their friendship.</image:caption
+      >
+      <image:title>1 Night In San Diego</image:title>
+    </image:image>
+  </url>
+</urlset>

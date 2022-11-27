@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456098-All About the Money</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456098-All About the Money</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s0xib9gZqbMt6wy9GO66d6TUNtR.jpg</image:loc
+      >
+      <image:caption
+        >Two "down on their luck" buddies are convinced by a third to take a
+        vacation. Only after landing in the third world country do they realize
+        that they are there to attempt to capture the United States' most wanted
+        criminal - with no military training.</image:caption
+      >
+      <image:title>All About the Money</image:title>
+    </image:image>
+  </url>
+</urlset>

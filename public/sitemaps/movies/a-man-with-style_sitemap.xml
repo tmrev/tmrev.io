@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/103021-A Man with Style</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/103021-A Man with Style</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qRyT15u8tDl7vBvs0hnOXWvKFso.jpg</image:loc
+      >
+      <image:caption
+        >Miyata lost his wife early on and single-handedly raised their two
+        children. One day he notices a change in his physical condition, and
+        decides that it must be stomach cancer.</image:caption
+      >
+      <image:title>A Man with Style</image:title>
+    </image:image>
+  </url>
+</urlset>

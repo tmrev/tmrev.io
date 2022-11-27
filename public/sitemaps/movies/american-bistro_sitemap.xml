@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/622045-American Bistro</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/622045-American Bistro</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dYafBJeexgcWfxxpQsjAI0M9vyP.jpg</image:loc
+      >
+      <image:caption
+        >A heartfelt adventure about a milquetoast accountant, Medor, whose
+        perfect life is ruined when he discovers his wife having an affair with
+        his boss. Having lost everything, he finds refuge in his estranged,
+        deadbeat nephew and together, they chase his old, forgotten dream:
+        opening a restaurant.</image:caption
+      >
+      <image:title>American Bistro</image:title>
+    </image:image>
+  </url>
+</urlset>

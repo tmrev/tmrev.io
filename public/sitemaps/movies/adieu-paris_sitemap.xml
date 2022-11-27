@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/883800-Adieu Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/883800-Adieu Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1qIwSTKL0X3Pp1eIEo8yzIoDoTD.jpg</image:loc
+      >
+      <image:caption
+        >An old Parisian bistro with eternal charm. Eight gentlemen at the
+        table, eight great figures. They were the “kings of Paris”… National
+        treasures, masterpieces in peril. A well-honed ritual ... A sense of
+        humor and self-deprecation intact. Tenderness and cruelty. Eight old
+        friends who hate and love each other. And suddenly an intruder
+        ...</image:caption
+      >
+      <image:title>Adieu Paris</image:title>
+    </image:image>
+  </url>
+</urlset>

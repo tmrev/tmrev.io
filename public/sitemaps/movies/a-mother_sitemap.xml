@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/343412-A Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/343412-A Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uzlo0IoQrXjBaLXlNsPr4dqoFJe.jpg</image:loc
+      >
+      <image:caption
+        >Marie lives alone with her 16 year old son. She struggles to get by
+        with this teenager who gets deeper and deeper in violence and juvenile
+        delinquency. Speaking sentimentally, things are not going better: the
+        relationship with her lover has come to an end. It may seems depressing,
+        but Marie doesn’t give up, even if love seems to be an inaccessible
+        dream. But love, there is. We can feel the affection of this mother for
+        her troublesome child, thanks to Mathilde Seigner, who gives an
+        astonishing performance. A subtle directing, a strong and captivating
+        story, in short: a must see.</image:caption
+      >
+      <image:title>A Mother</image:title>
+    </image:image>
+  </url>
+</urlset>

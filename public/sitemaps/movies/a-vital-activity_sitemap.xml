@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/546103-A Vital Activity</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/546103-A Vital Activity</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bGXRpATrJghy1yt4IF9s67yi4HG.jpg</image:loc
+      >
+      <image:caption
+        >A 20-something couple is having a date. They want to make love but they
+        don’t have enough money or time. They look for a place where they can
+        have sex.</image:caption
+      >
+      <image:title>A Vital Activity</image:title>
+    </image:image>
+  </url>
+</urlset>

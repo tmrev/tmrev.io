@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330039-Allein unter Männern</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330039-Allein unter Männern</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n38elhFjXScED6FdGhaPrL1RZaY.jpg</image:loc
+      >
+      <image:caption
+        >The talented, young veterinarian Dr. Tana Fechner falls in love with
+        the riding stable owner Bernhard Bausch. However, love is not a good
+        star, because the doctor is suspected of killing two of Bausch's horses
+        in order to support her work on a rare virus by presenting suitable
+        cases.</image:caption
+      >
+      <image:title>Allein unter Männern</image:title>
+    </image:image>
+  </url>
+</urlset>

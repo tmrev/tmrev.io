@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89125-Alley Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89125-Alley Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sBu7zHHahw6n0Xwp0aAoom6fL4N.jpg</image:loc
+      >
+      <image:caption
+        >A skilled martial artist tries to get revenge on the thugs who stole
+        her tires and attacked her grandparents.</image:caption
+      >
+      <image:title>Alley Cat</image:title>
+    </image:image>
+  </url>
+</urlset>

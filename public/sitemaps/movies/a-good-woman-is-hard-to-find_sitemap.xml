@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500656-A Good Woman Is Hard to Find</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500656-A Good Woman Is Hard to Find</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xW9lYcdbVvna9MSnj6e2C1AcRhk.jpg</image:loc
+      >
+      <image:caption
+        >The recently widowed mother of two, Sarah, is desperate to know who
+        murdered her husband in front of her young son, rendering him mute.
+        Coerced into helping a low-life drug dealer stash narcotics stolen from
+        the local Mr. Big, she's forced into taking drastic action to protect
+        her children, evolving from downtrodden submissive to take-charge
+        vigilante.</image:caption
+      >
+      <image:title>A Good Woman Is Hard to Find</image:title>
+    </image:image>
+  </url>
+</urlset>

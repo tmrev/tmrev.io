@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/828126-All Vertovs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/828126-All Vertovs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film "All the Vertovs" tells about the Kaufman brothers-David,
+        Mikhail and Boris. All three are world-class filmmakers. Each of them
+        managed to achieve the highest level of proficiency in the profession,
+        each had their own vision of the world and the gift to embody it on the
+        screen in a unique, deeply individual manner.</image:caption
+      >
+      <image:title>All Vertovs</image:title>
+    </image:image>
+  </url>
+</urlset>

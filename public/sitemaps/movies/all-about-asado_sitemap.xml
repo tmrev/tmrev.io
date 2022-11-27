@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456705-All About Asado</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456705-All About Asado</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ybT1L9nVdG1lAQ1xfaLHunmucXG.jpg</image:loc
+      >
+      <image:caption
+        >All About Asado is a trip into the culinary heart of Argentina. Asado,
+        the tradition of grilled meat, is a food and also a ritual. It is
+        primitive and modern, wild and sophisticated, an art and a science. Few
+        phenomena reveal the essential characteristics of Argentina’s national
+        identity with more originality and precision. Equal parts road-movie,
+        documentary and fiction, Gastón Duprat and Mariano Cohn’s playful film
+        delves into the almost sacred tradition of asado, using a sharp and
+        irreverent gaze to explore the country’s meaty fixation.</image:caption
+      >
+      <image:title>All About Asado</image:title>
+    </image:image>
+  </url>
+</urlset>

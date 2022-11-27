@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/371536-About a Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/371536-About a Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f5wMWEp1Oc7doVIA3JGbw6Guesl.jpg</image:loc
+      >
+      <image:caption
+        >A widow living alone develops an affectionate bond with young man hired
+        by her children to assist her at home and offer her
+        companionship.</image:caption
+      >
+      <image:title>About a Woman</image:title>
+    </image:image>
+  </url>
+</urlset>

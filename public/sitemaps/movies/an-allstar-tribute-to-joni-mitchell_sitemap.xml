@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/596144-An All-Star Tribute to Joni Mitchell</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/596144-An All-Star Tribute to Joni Mitchell</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nIQjkWhSHkIYiLpNQXFnwkhmdlY.jpg</image:loc
+      >
+      <image:caption
+        >Joni attended as various musicians paid tribute to her and her music.
+        Among the performers were Cyndi Lauper, James Taylor, Cassandra Wilson,
+        Richard Thompson, Shawn Colvin and Elton John. Joni also performed
+        accompanied by a full orchestra.</image:caption
+      >
+      <image:title>An All-Star Tribute to Joni Mitchell</image:title>
+    </image:image>
+  </url>
+</urlset>

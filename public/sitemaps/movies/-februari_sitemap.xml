@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/134312-29 Februari</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/134312-29 Februari</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nyxMvfBZoBG1iDCaOgB5VnCLgUV.jpg</image:loc
+      >
+      <image:caption
+        >The first Malaysian 3D film, "29 Februari" focuses on a man born on the
+        leap day of 29 February, and ages only one year in every four years.
+        Because of this unique trait, he has lived through many historical
+        periods of Malaysia; from the colonial years to the Japanese invasion
+        and Independence. Though some may consider it a gift, the man's long
+        life can also be a curse as he has to face the reality of seeing the
+        ones he loves die. A highlight of the film will be the changing
+        landscape of Malaysia from the early days up to 2012.</image:caption
+      >
+      <image:title>29 Februari</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/596112-A Perfect Host</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/596112-A Perfect Host</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kcBPkNmitgF5u60glcp8wr1qs0T.jpg</image:loc
+      >
+      <image:caption
+        >A group of friends rent an isolated lake house owned by a fitness
+        obsessed man with mysterious intentions.</image:caption
+      >
+      <image:title>A Perfect Host</image:title>
+    </image:image>
+  </url>
+</urlset>

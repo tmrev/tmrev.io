@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18456-Adolphe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18456-Adolphe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/41XzIXarANVVwZvOVAnFhhvNTzD.jpg</image:loc
+      >
+      <image:caption
+        >In the nineteenth century, Adolphe, a young man of twenty four carefree
+        years, plans to obtain favors Ellenore, a beautiful woman of thirty
+        years, much more vulnerable. This yields to his advances and he
+        disclaims all. But already, Adolphe loves less. Yet the idea of ​​the
+        pain is unbearable.</image:caption
+      >
+      <image:title>Adolphe</image:title>
+    </image:image>
+  </url>
+</urlset>

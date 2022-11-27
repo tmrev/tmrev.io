@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/355130-Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/355130-Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2rDn0ZFxXGqdIh5e9RUlGx4UTt0.jpg</image:loc
+      >
+      <image:caption
+        >Lush jungle and a building in ruins are the ideal stage for a
+        film-confession that defies storytelling and goes beyond conversation on
+        cinema. Tsai Ming-Liang and his actor Lee Kang-sheng confess and put on
+        stage a pièce in which attention and slowness are in tune with the
+        rhythm of memory. The unveiling of Tsai Ming-liang’s filmmaking: from
+        Stray Dogs to the most intimate notes of the director-actor
+        relationship.</image:caption
+      >
+      <image:title>Afternoon</image:title>
+    </image:image>
+  </url>
+</urlset>

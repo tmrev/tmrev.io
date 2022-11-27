@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/791245-Amanatsu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/791245-Amanatsu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nh1J5iIju99WEssdgcrPQqTAFjO.jpg</image:loc
+      >
+      <image:caption
+        >In the near future, a girl yearning for death and a robot who has been
+        near her since she was a child continue moving in
+        eternity.</image:caption
+      >
+      <image:title>Amanatsu</image:title>
+    </image:image>
+  </url>
+</urlset>

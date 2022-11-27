@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75302-2 Frogs in the West</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75302-2 Frogs in the West</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zDysFA6geTCqqRYQQKxepZfya2s.jpg</image:loc
+      >
+      <image:caption
+        >Marie Deschamps has her whole life ahead of her but isn't sure what to
+        do with it. To the disappointment of her parents, she drops out of
+        college and decides to go work in Whistler in order to perfect her
+        English. After a journey across Canada, her arrival in British-Columbia
+        is less glorious than she dreamt. Fortunately, she meets Jean-Francois
+        Laforest, a Quebecois skier who has been living on the West Coast for 10
+        years. J-F will introduce her to his Anglo friends and to the lifestyle
+        of the mountains. Somewhere out West, this adventure will change her
+        life forever.</image:caption
+      >
+      <image:title>2 Frogs in the West</image:title>
+    </image:image>
+  </url>
+</urlset>

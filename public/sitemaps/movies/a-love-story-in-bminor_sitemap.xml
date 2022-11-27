@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/654708-A Love Story in B-minor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/654708-A Love Story in B-minor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A voice-over. A car chase. A bank. Money. An old lady. Bonnie and
+        Clyde. Guns. Bodies on the floor. Old factory. People running. Dogs
+        barking. Shots in the dark. Life jump. Body hit. Breathtaking. Tongue
+        kissing. Flash back. Shoot-out. In disorder of
+        appearence.</image:caption
+      >
+      <image:title>A Love Story in B-minor</image:title>
+    </image:image>
+  </url>
+</urlset>

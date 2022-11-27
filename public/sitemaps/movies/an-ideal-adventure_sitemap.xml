@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65733-An Ideal Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65733-An Ideal Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iemzePkSzDiloraM6VzHIzPnExl.jpg</image:loc
+      >
+      <image:caption
+        >Patricia, a journalist, is fed up with all the stupid chores and being
+        ridiculed by her colleagues. To show her talent, she challenges her
+        director Eugenio to test her. She will write a good article, but if she
+        fails she will sleep with him.</image:caption
+      >
+      <image:title>An Ideal Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

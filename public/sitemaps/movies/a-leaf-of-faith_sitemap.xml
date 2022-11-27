@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/526313-A Leaf of Faith</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/526313-A Leaf of Faith</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yBR1TbSZ2Y4nkBj85q07OgY9L03.jpg</image:loc
+      >
+      <image:caption
+        >Documentary exploring a plant-based alternative to Opioid painkillers,
+        which are responsible for the deaths of 30,000 Americans a year. It
+        comes from a tree named Kratom, and it is able to alleviate pain and
+        help overcome addiction without many of the side effects of
+        Opioids.</image:caption
+      >
+      <image:title>A Leaf of Faith</image:title>
+    </image:image>
+  </url>
+</urlset>

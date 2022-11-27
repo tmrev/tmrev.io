@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260386-Abner, the Invisible Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260386-Abner, the Invisible Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yFZKsoUy5BDHe3yFM2qZeKdikHY.jpg</image:loc
+      >
+      <image:caption
+        >A bullied teen stumbles into possession of a top-secret government
+        formula that turns his dog invisible and gives it the power of
+        speech.</image:caption
+      >
+      <image:title>Abner, the Invisible Dog</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327497-#AmeriCAN</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327497-#AmeriCAN</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >At the dinner table sits a white family: the father (a police officer),
+        a mother and their two sons—a teenager and his younger brother. The
+        teenager has an African-American friend, J.B., whom he wants to hang out
+        with, but his father doesn’t want him leaving the house to meet up with
+        J.B.—and especially not at night. “I want to keep you from bad
+        situations,” the father explains to his son—an eerie foretelling, but
+        more important, indicative of the violence that this white man
+        associates with all black boys, even J.B., a black boy he knows
+        personally and considers to be “a good kid.”</image:caption
+      >
+      <image:title>#AmeriCAN</image:title>
+    </image:image>
+  </url>
+</urlset>

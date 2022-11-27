@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346773-A Low Life Mythology</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346773-A Low Life Mythology</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lx2q3mv9bFNCbh2irRluwqthrB0.jpg</image:loc
+      >
+      <image:caption
+        >A contemporary love story taking place in the heart of Europe, of two
+        passionate young persons, whose sense of reality is too frequently
+        mediated by a failure to 'live in the moment' and by computer
+        screens.</image:caption
+      >
+      <image:title>A Low Life Mythology</image:title>
+    </image:image>
+  </url>
+</urlset>

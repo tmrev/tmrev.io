@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254363-American Venus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254363-American Venus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dyngXzQnh4qzWQUGU8CkK61wvh8.jpg</image:loc
+      >
+      <image:caption
+        >Jenna Lane is a young woman trying to escape family pressure to become
+        an Olympic athlete and define her own individuality. Her mother is
+        Celia, a deeply disturbed woman with addictions to emotional abuse and
+        handguns. As she attempts to manipulate Jenna and feed her addictions,
+        Celia grows increasingly irrational and ultimately spirals out of
+        control.</image:caption
+      >
+      <image:title>American Venus</image:title>
+    </image:image>
+  </url>
+</urlset>

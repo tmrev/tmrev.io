@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376475-All the way back to Liverpool</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376475-All the way back to Liverpool</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >All the way back to Liverpool - as the title suggests - is a journey.
+        The documentary follows a group of musicians and friends as they write,
+        rehearse and record new material to a strict three day deadline. It
+        catches the creative process of making a record - how the initial idea
+        for a song is developed through collaboration and improvisation - and
+        how it changes once recording sessions start. Featuring: Mike Crossey,
+        Paul Crowe, Ian McMillan and Lucy Styles</image:caption
+      >
+      <image:title>All the way back to Liverpool</image:title>
+    </image:image>
+  </url>
+</urlset>

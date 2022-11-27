@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/802658-63 Glances</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/802658-63 Glances</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5BmCXnzhMXoXuxvaiZq5WdylstQ.jpg</image:loc
+      >
+      <image:caption
+        >“I am a woman who does not know where she is going, but who, always,
+        looks for beauty. As long as she does not flee me. Moritz, your beauty
+        fled me. But I caught it and I carry it in me.”</image:caption
+      >
+      <image:title>63 Glances</image:title>
+    </image:image>
+  </url>
+</urlset>

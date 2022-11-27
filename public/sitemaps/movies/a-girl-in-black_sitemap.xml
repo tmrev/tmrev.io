@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/98184-A Girl in Black</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/98184-A Girl in Black</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/faZNwzYZOIyricXbh3Da1qr7YkT.jpg</image:loc
+      >
+      <image:caption
+        >Hot on the heels of his breakthrough film Stella, Greek moviemaker
+        Michael Cacoyanis came up with To Koritsi Me Ta Mara. Released worldwide
+        as A Girl in Black, the film stars Ellie Lambetti as the title
+        character. Because of her mother's loose reputation, Lambetti is
+        considered "easy" by the male population of the tiny Greek island where
+        she lives. She ultimately finds true love in the form of vacationer
+        Dmitri Horn. The lovers' relationship is placed in sharp contrast with
+        the cruelty and implicit degeneracy all around them.</image:caption
+      >
+      <image:title>A Girl in Black</image:title>
+    </image:image>
+  </url>
+</urlset>

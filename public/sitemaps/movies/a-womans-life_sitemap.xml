@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408543-A Woman's Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408543-A Woman's Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ndBjKcPgyyoGd4Y6hNhcGM8QXWe.jpg</image:loc
+      >
+      <image:caption
+        >Normandy, 1819. Jeanne is a young woman full of childish dreams and
+        innocence when she returns home after finishing her schooling in a
+        convent. She marries a local Viscount, Julien de Lamare, who soon
+        reveals himself to be a miserly and unfaithful man. Little by little
+        Jeanne’s illusions are stripped away.</image:caption
+      >
+      <image:title>A Woman's Life</image:title>
+    </image:image>
+  </url>
+</urlset>

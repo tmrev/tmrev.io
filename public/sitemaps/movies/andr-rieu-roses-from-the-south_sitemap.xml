@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/205397-André Rieu - Roses from the South</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/205397-André Rieu - Roses from the South</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sqryFRRob8sDY3KPdAyAMDa2I7i.jpg</image:loc
+      >
+      <image:caption
+        >Themed around Johan Strauss' famous waltz of the same name, Roses From
+        The South sees Andre venturing to the amazing sub tropical paradise
+        island of Mainau, just off the south shore of Germany. Known as the
+        'Flower Island' due it its unique exotic gardens, Mainau and its
+        majestic palace grounds provide the perfect picturesque setting for
+        Andre and his Johan Strauss Orchestra to perform a spellbinding set in
+        front of a sea of adoring fans.</image:caption
+      >
+      <image:title>André Rieu - Roses from the South</image:title>
+    </image:image>
+  </url>
+</urlset>

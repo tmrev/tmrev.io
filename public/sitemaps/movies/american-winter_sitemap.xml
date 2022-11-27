@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/179179-American Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/179179-American Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uuEUWclPtkLpCBs9mnw5ak9VCfW.jpg</image:loc
+      >
+      <image:caption
+        >Documentary feature film that follows the personal stories of families
+        struggling in the aftermath of the worst economic crisis since the Great
+        Depression. Filmed over the course of one winter in one American city,
+        the film presents an intimate snapshot of the state of the nation's
+        economy as it is playing out in millions of American families, and
+        highlights the human consequences of the decline of the middle class and
+        the fracturing of the American Dream</image:caption
+      >
+      <image:title>American Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

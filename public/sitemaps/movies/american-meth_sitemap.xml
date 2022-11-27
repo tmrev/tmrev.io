@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60544-American Meth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60544-American Meth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Actor Val Kilmer narrates this powerful film exploring the
+        methamphetamine epidemic that's ravaged blue-collar America. Putting a
+        human face on the problem, filmmaker Justin Hunt reveals the damage
+        being done by this rural drug of choice, as well as the steps being
+        taken by communities across the nation to wipe out the scourge. From
+        Wyoming to New Mexico, Montana and Oregon, American Meth paints a
+        picture of both devastation and hope.</image:caption
+      >
+      <image:title>American Meth</image:title>
+    </image:image>
+  </url>
+</urlset>

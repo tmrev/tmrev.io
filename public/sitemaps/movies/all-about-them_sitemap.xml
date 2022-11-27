@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/299715-All About Them</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/299715-All About Them</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5c3VdM004UKAkeONoXaEtIknIYT.jpg</image:loc
+      >
+      <image:caption
+        >Charlotte is cheating on Micha with Mélodie. Not suspecting a thing,
+        yet feeling neglected, Micha in turn cheats on Charlotte. But also with
+        Mélodie. For Mélodie, things are topsy-turvy. She lies to both of them.
+        She is privy to each of their lies. And is in love with both of them at
+        the same time.</image:caption
+      >
+      <image:title>All About Them</image:title>
+    </image:image>
+  </url>
+</urlset>

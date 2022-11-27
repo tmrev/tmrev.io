@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197139-A Class to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197139-A Class to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4HpHu2nstM7DHkzAtbDLf98roZW.jpg</image:loc
+      >
+      <image:caption
+        >A cantankerous but loveable high school teacher teaches a night school
+        in a poor neighborhood for adult students on the fringes of Japanese
+        society.</image:caption
+      >
+      <image:title>A Class to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

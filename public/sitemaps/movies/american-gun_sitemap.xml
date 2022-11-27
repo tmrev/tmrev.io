@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15366-American Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15366-American Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1GikvdDanJwSQOb0oCWY5FqFTxZ.jpg</image:loc
+      >
+      <image:caption
+        >Seemingly disparate portraits of people -- among them a single mother,
+        a high school principal, and an ace student -- Distinctly American --
+        all affected by the proliferation of guns in American
+        society.</image:caption
+      >
+      <image:title>American Gun</image:title>
+    </image:image>
+  </url>
+</urlset>

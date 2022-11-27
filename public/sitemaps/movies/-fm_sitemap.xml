@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/161793-99.9 FM</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/161793-99.9 FM</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yzytfg9NejHm1OHhmm3ZroJ49tr.jpg</image:loc
+      >
+      <image:caption
+        >Gautam on meeting his ex girlfriend after marriage gets attracted to
+        her. He gets confused to make a choice between his wife and his
+        girlfriend and decides to murder one of them.</image:caption
+      >
+      <image:title>99.9 FM</image:title>
+    </image:image>
+  </url>
+</urlset>

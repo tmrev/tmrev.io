@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/879229-A Picture Perfect Holiday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/879229-A Picture Perfect Holiday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qzh4Phdt2VvEYNlTQTEHJiXRBnH.jpg</image:loc
+      >
+      <image:caption
+        >Gaby Jones, fashion photographer, takes a holiday retreat against her
+        desire by advise of her friend. She will then find that there's more
+        behind a photo when she meets wildlife photographer Sean.</image:caption
+      >
+      <image:title>A Picture Perfect Holiday</image:title>
+    </image:image>
+  </url>
+</urlset>

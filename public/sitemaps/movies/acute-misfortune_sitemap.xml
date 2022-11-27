@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508109-Acute Misfortune</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508109-Acute Misfortune</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9KNlA2G5rV44H8xTMDTOTcf1bVv.jpg</image:loc
+      >
+      <image:caption
+        >The film adaptation of Erik Jensen's award-winning biography of Adam
+        Cullen is the story of the biographer and his subject, as it descends
+        into a dependent and abusive relationship.</image:caption
+      >
+      <image:title>Acute Misfortune</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/174669-4 Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/174669-4 Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jJTzEMYZxBudsscvxAI1abXolAx.jpg</image:loc
+      >
+      <image:caption
+        >Dayvon, an accomplished street enforcer in West Baltiomre, and best
+        friend TY, who is currently incarcerated, begin feuding before TY's soon
+        release date.</image:caption
+      >
+      <image:title>4 Life</image:title>
+    </image:image>
+  </url>
+</urlset>

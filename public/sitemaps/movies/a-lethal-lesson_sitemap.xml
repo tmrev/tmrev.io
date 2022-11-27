@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/847179-A Lethal Lesson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/847179-A Lethal Lesson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dwjJO4NgJLbHMxxJoO9x5HrQCbv.jpg</image:loc
+      >
+      <image:caption
+        >High school teacher Lauren finds her life up side down when her job,
+        the custody of her adopted daughter and even her safety is in danger
+        when an angry student falsely claims to have had an affair with
+        her.</image:caption
+      >
+      <image:title>A Lethal Lesson</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/953819-Alyosha</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/953819-Alyosha</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The film tells about the famous monument to the Soviet
+        soldier-liberator "Alyosha" in the Bulgarian city of Plovdiv. The idea
+        to build a monument on Bunardzhik Hill in honor of Soviet
+        soldiers-liberators was born among the residents of Plovdiv back in
+        1948. The initiative came entirely from "below", from the people,
+        without any recommendation from "above". On May 9, 1948, the Citywide
+        Initiative Committee for the construction of a monument to Soviet
+        soldiers was established, which included public figures, architects,
+        artists, writers and teachers. It was headed by the head of the Plovdiv
+        military garrison, General Asen Grekov. On the same day, the symbolic
+        laying of the base of the monument was made.</image:caption
+      >
+      <image:title>Alyosha</image:title>
+    </image:image>
+  </url>
+</urlset>

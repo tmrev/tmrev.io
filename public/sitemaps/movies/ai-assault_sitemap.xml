@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/28506-A.I. Assault</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/28506-A.I. Assault</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vmZBuUV9h3zI95tjyvC1SO1aeym.jpg</image:loc
+      >
+      <image:caption
+        >When a plane carrying a pair of top secret military robots crashes on a
+        deserted Pacific island, a team of Navy seals must find them and turn
+        them off as soon as possible for the longer they are activated, the
+        smarter they become.</image:caption
+      >
+      <image:title>A.I. Assault</image:title>
+    </image:image>
+  </url>
+</urlset>

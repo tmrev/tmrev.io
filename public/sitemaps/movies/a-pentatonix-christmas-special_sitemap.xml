@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430301-A Pentatonix Christmas Special</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430301-A Pentatonix Christmas Special</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uztaIqd6VzRXkGmH2ElXfW5VFgD.jpg</image:loc
+      >
+      <image:caption
+        >Celebrating the holiday season with a one-hour television event where
+        viewers can enjoy the Grammy Award-winning musical phenomenon Pentatonix
+        performing an array of classic holiday tracks as well as modern
+        favorites.</image:caption
+      >
+      <image:title>A Pentatonix Christmas Special</image:title>
+    </image:image>
+  </url>
+</urlset>

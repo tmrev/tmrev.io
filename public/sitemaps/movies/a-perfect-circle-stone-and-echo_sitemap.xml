@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/256901-A Perfect Circle: Stone and Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/256901-A Perfect Circle: Stone and Echo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fLw6yEbHHLVR9cpcoH7EaiYgSi8.jpg</image:loc
+      >
+      <image:caption
+        >Stone and Echo is a full-length concert film of A Perfect Circle's
+        performance on August 02, 2011, at the Red Rocks Amphitheatre in
+        Morrison, Colorado.</image:caption
+      >
+      <image:title>A Perfect Circle: Stone and Echo</image:title>
+    </image:image>
+  </url>
+</urlset>

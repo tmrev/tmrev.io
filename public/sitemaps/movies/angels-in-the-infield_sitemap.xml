@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72956-Angels in the Infield</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72956-Angels in the Infield</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fzhdzzLfOj2Ns6I2PzRJJALOP57.jpg</image:loc
+      >
+      <image:caption
+        >Bob "Bungler" Bugler is the celestial coach called in to assist
+        struggling pitcher Eddie Everett. Laurel finds her prayers answered when
+        a flock of outrageous angelic teammates crash her father's roster for
+        what may be their best season yet.</image:caption
+      >
+      <image:title>Angels in the Infield</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/367462-68 Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/367462-68 Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg</image:loc
+      >
+      <image:caption
+        >Chip's problem is that he can't say no to beautiful women. This
+        weakness gets him into a world of trouble when he agrees to help his
+        girlfriend steal $68,000.</image:caption
+      >
+      <image:title>68 Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

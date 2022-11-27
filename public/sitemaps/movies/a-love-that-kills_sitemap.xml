@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427993-A Love That Kills</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427993-A Love That Kills</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hJKDsf54V0L22AJh8dn82AyCtPJ.jpg</image:loc
+      >
+      <image:caption
+        >The two million Spanish women who are victims of domestic violence and
+        the death each week of a woman at the hands of her partner is not
+        fiction but pure reality.</image:caption
+      >
+      <image:title>A Love That Kills</image:title>
+    </image:image>
+  </url>
+</urlset>

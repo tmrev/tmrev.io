@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/544823-Amy Said</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/544823-Amy Said</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eMUsIPxHu4CjnGZn9r53wCYSyuu.jpg</image:loc
+      >
+      <image:caption
+        >Twenty years have passed since the sudden disappearance of Amy, who was
+        the femme fatale in her film studies group. Something that Naoko said
+        triggers emotions that were frozen in time for the group's members, who
+        see each other for the first time after a long absence: Asada
+        Iida,Naoko,Okamoto,Miho,Goto and Kizuka.</image:caption
+      >
+      <image:title>Amy Said</image:title>
+    </image:image>
+  </url>
+</urlset>

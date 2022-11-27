@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/320226-An Evening with Scott Hamilton &
+      Friends</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/320226-An Evening with Scott Hamilton &
+      Friends</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Champion figure skater Scott Hamilton carves up the rink in this
+        ice-skating extravaganza, accompanied by live music from renowned
+        pianist Michael Feinstein and guest vocalist Darlene Love. Brian Orser,
+        Yuka Sato, Jenni Meno, Ekaterina Gordeeva and other noted skaters join
+        the Olympic gold medalist in innovative routines set to "Stormy
+        Weather," "The Best Is Yet to Come," "Someone to Watch over Me" and
+        other tunes.</image:caption
+      >
+      <image:title>An Evening with Scott Hamilton & Friends</image:title>
+    </image:image>
+  </url>
+</urlset>

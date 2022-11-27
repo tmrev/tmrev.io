@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/700324-And the Pig Was Born</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/700324-And the Pig Was Born</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c6wSc2aS7nE9tMrhn53EEiOy23T.jpg</image:loc
+      >
+      <image:caption
+        >« Made for the Musee d'Art Moderne de la Ville de Paris exposition
+        VOILA (Summer 2000), from ‘found’ footage taken from hundreds of
+        unfinished films stored in Anthology's basement. A tour-de-force montage
+        film with the spirit of Vigo and Buñuel hovering over it. Made before
+        Godard's Origins of the 21st Century, Ziz's film provokes interesting
+        comparisons. Both deal with images of the 20th century. But while
+        Godard's film could be described as a poster, Ziz's film is a poem. I
+        don't have to tell you which one I prefer...- » (Jonas
+        Mekas)</image:caption
+      >
+      <image:title>And the Pig Was Born</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/748890-A Very Country Christmas Homecoming</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/748890-A Very Country Christmas Homecoming</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2AKi6D2yIK3KJX36J6gCJteuBfS.jpg</image:loc
+      >
+      <image:caption
+        >The third movie in the A Very Country franchise. Zane and Jeannette
+        return from their magical honeymoon to plan the perfect first Christmas
+        as a family, but the arrival of Jeannette’s former father-in-law throws
+        a wrench into all of their holiday planning.</image:caption
+      >
+      <image:title>A Very Country Christmas Homecoming</image:title>
+    </image:image>
+  </url>
+</urlset>

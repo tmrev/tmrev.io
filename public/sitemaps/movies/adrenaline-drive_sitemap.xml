@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31161-Adrenaline Drive</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31161-Adrenaline Drive</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oZqOzX7hThHRiUsGIQ65nxHuC4o.jpg</image:loc
+      >
+      <image:caption
+        >A gas leak explosion at a yakuza hideout provides a shy nurse and a
+        rental car clerk with the opportunity to take a briefcase full of money.
+        A cross-country chase ensues.</image:caption
+      >
+      <image:title>Adrenaline Drive</image:title>
+    </image:image>
+  </url>
+</urlset>

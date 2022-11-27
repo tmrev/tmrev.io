@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48621-Al-Zamahlawia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48621-Al-Zamahlawia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3XYWW1ciPHGWbgUlgIaocahNNY2.jpg</image:loc
+      >
+      <image:caption
+        >The film revolves around the families of Shehata Hussein and Salim Abu
+        Nawas (Salah Eidullah and Izzat Abu Auf), one of whom belongs to Zamalek
+        football Club and the other to Al-Ahli football Club. Both families have
+        a lot of hostile feelings because of their extreme football fanaticism.
+        Abeer Abu Nawas (Bushra) is in love with Hassan Ibn Shehata (Ahmed
+        Azmi), which puts this story of love in front of the obstacle of
+        football fanaticism of both families.</image:caption
+      >
+      <image:title>Al-Zamahlawia</image:title>
+    </image:image>
+  </url>
+</urlset>

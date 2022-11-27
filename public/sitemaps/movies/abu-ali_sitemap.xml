@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300406-Abu Ali</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300406-Abu Ali</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fNKfVCeDTPBmru5EnOFhU1GCa1T.jpg</image:loc
+      >
+      <image:caption
+        >Hassan is a poor young man, who finds himself chased because he had to
+        steal, and during the escape he rides in a car with Salma who escaped
+        from her stepfather. The two of them become fugitives after a corrupt
+        cop accused Hassan of killing one of his men.</image:caption
+      >
+      <image:title>Abu Ali</image:title>
+    </image:image>
+  </url>
+</urlset>

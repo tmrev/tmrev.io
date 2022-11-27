@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33842-25 Carat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33842-25 Carat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4LZWpgwRSkN9j2ppuvMQFnHoM6h.jpg</image:loc
+      >
+      <image:caption
+        >Abel is a boxer turned debt collector who is struggling to provide for
+        his young son. When he falls in love with beautiful car thief Kay, the
+        couple plan for a new crime-free beginning. To fund their new
+        law-abiding life, however, they conspire for one last big score. The
+        resulting fiasco takes them on a rough ride through the gritty Barcelona
+        underworld. Winner of Best Film at the 2009 Málaga Spanish Film
+        Festival.</image:caption
+      >
+      <image:title>25 Carat</image:title>
+    </image:image>
+  </url>
+</urlset>

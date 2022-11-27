@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70763-An Ecology of Mind</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70763-An Ecology of Mind</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xddUzM22yJx9FtG6XeYXJge4hGR.jpg</image:loc
+      >
+      <image:caption
+        >'An Ecology of Mind' is a filmic portrait of anthropologist, biologist,
+        and psychotherapist Gregory Bateson. Bateson believed that, 'The major
+        problems in the world are the result of the difference between the way
+        nature works and the way people think.' Seen through the relationship
+        between father and daughter, this documentary is an invitation into
+        'systems thinking' and interrelationships in the natural world. 'Looking
+        at what holds systems together is a radical step toward sewing the world
+        back together, from the inside.'</image:caption
+      >
+      <image:title>An Ecology of Mind</image:title>
+    </image:image>
+  </url>
+</urlset>

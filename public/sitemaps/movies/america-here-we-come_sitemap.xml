@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/317155-America, Here We Come!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/317155-America, Here We Come!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pNJMrtbE19HPiWsvXoIB6x1fbb0.jpg</image:loc
+      >
+      <image:caption
+        >Six Romanian artists get to live the dream of their life in a
+        road-movie full of adventures: America, here we come! Coming all the way
+        from Targoviste - a little town near the capital, the five actors,
+        director, and a little child with his huge teddy bear, cross the ocean
+        to perform in New York. Not everything goes according to plan though.
+        The six decide, for some extra money, to start working with a local
+        agent, also Romanian, settled in The States for some time, who promises
+        them a major tour.</image:caption
+      >
+      <image:title>America, Here We Come!</image:title>
+    </image:image>
+  </url>
+</urlset>

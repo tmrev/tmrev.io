@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1004074-Ananya</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1004074-Ananya</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lhSrNACvGqLBmlq7GDUnF4itzp2.jpg</image:loc
+      >
+      <image:caption
+        >An ambitious and recently engaged accounting student is involved in a
+        motor vehicle accident that results in the double amputation of her
+        arms. As the life she once knew crumbles around her she must now decide
+        whether to accept her fate or work to overcome these barriers and
+        reclaim her life.</image:caption
+      >
+      <image:title>Ananya</image:title>
+    </image:image>
+  </url>
+</urlset>

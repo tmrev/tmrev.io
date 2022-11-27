@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/838720-A Week in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/838720-A Week in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dYmlqJeBkO2B9Aa2VCbzETtCS9X.jpg</image:loc
+      >
+      <image:caption
+        >The film tells the tale of Maggie, a film star whose world collapses
+        when her film director husband is outed by the paparazzi when it’s
+        discovered his new leading lady is pregnant with his baby. Seeking
+        solace and healing Maggie escapes to her ex-pat cousin’s beautiful hotel
+        in Nevis. After a week in paradise she discovers herself and meets a new
+        love interest. Then the outside world comes crashing back
+        in.</image:caption
+      >
+      <image:title>A Week in Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

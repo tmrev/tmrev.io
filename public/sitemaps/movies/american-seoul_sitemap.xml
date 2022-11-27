@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/786947-American Seoul</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/786947-American Seoul</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1MDhQMhmIKqPPENyAg8L1TzQqHx.jpg</image:loc
+      >
+      <image:caption
+        >American Seoul is a short film written and produced by Grace Rowe and
+        directed by Jason Moore. The story follows a Korean punk rocker as she
+        navigates through the city of Los Angeles, while encountering different
+        Asian American women along the way: an aspiring actress dealing with
+        stereotyping in Hollywood, a wannabe rapper who dreams of being a
+        superstar, and a whitewashed debutante looking for
+        directions.</image:caption
+      >
+      <image:title>American Seoul</image:title>
+    </image:image>
+  </url>
+</urlset>

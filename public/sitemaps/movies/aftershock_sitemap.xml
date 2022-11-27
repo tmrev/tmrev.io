@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913821-Aftershock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913821-Aftershock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8PxKajRULSTqOkA1X6QPLo04nkj.jpg</image:loc
+      >
+      <image:caption
+        >An alarmingly disproportionate number of Black women are failed every
+        year by the U.S. maternal health system. Shamony Gibson and Amber Rose
+        Isaac were vibrant, excited mothers-to-be whose deaths due to childbirth
+        complications were preventable. Now, their partners and families are
+        determined to sound a rallying cry around this chilling yet largely
+        ignored crisis.</image:caption
+      >
+      <image:title>Aftershock</image:title>
+    </image:image>
+  </url>
+</urlset>

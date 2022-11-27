@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/693343-10 Mistakes that Sank the Titanic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/693343-10 Mistakes that Sank the Titanic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/obuc8W0meZ4xhuvtJiNBTey2A7J.jpg</image:loc
+      >
+      <image:caption
+        >From the birth of the fatal iceberg to the hours after it struck the
+        ship, this film follows the Titanic's journey from construction to
+        catastrophe.</image:caption
+      >
+      <image:title>10 Mistakes that Sank the Titanic</image:title>
+    </image:image>
+  </url>
+</urlset>

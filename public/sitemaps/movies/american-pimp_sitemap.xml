@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24587-American Pimp</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24587-American Pimp</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2vEP0mubKIp5Xexfj23SvN86aDD.jpg</image:loc
+      >
+      <image:caption
+        >Street pimps, all of them African-American, discuss their lives and
+        work: getting started, being flamboyant, pimping in various U.S. cities,
+        bringing a woman into their group, taking a woman from another pimp, and
+        the rules and regulations of pimping. The men are clear: it's about
+        money.</image:caption
+      >
+      <image:title>American Pimp</image:title>
+    </image:image>
+  </url>
+</urlset>

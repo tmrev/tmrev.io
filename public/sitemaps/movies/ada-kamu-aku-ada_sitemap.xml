@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381134-Ada Kamu, Aku Ada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381134-Ada Kamu, Aku Ada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z4yKXF7GfpzYx3K5dOczymzrnii.jpg</image:loc
+      >
+      <image:caption
+        >As Damian's girlfriend, Stella always feel a star in the society. Then
+        she meets Elang, a simple independent boy, who plays the guitar. Few
+        incidents makes Stella feels at ease with Elang.</image:caption
+      >
+      <image:title>Ada Kamu, Aku Ada</image:title>
+    </image:image>
+  </url>
+</urlset>

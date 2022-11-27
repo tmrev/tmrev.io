@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83390-10 jours en or</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83390-10 jours en or</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hzN0LwyN6DzOzygjlsaLzxAUDkW.jpg</image:loc
+      >
+      <image:caption
+        >When a carefree bachelor is unexpectedly left in charge of a young boy,
+        the two embark on a road trip that will change both of their
+        lives.</image:caption
+      >
+      <image:title>10 jours en or</image:title>
+    </image:image>
+  </url>
+</urlset>

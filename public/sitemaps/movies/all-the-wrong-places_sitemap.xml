@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/281537-All the Wrong Places</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/281537-All the Wrong Places</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Marisa has never achieved the success of her mother, a famous figure in
+        the art world. And that's led her on a monumental search for new
+        artistic outlets (as well as quite a few hours spent on the therapist's
+        couch). But when she meets Paul, a shy neighbor who's having the same
+        problems, it could be love at first sight. Or maybe just a case of
+        misery loving a little company.</image:caption
+      >
+      <image:title>All the Wrong Places</image:title>
+    </image:image>
+  </url>
+</urlset>

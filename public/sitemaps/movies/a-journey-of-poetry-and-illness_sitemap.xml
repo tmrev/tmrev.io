@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1001219-A Journey of Poetry and Illness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1001219-A Journey of Poetry and Illness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dautQgw3ZtJhiXzPUf34BHQZjrf.jpg</image:loc
+      >
+      <image:caption
+        >A documentary feature by Jun Geng. Poet Zhang Rare once studied at the
+        Beijing Qingmei Academy. Due to pressure he felt living in the city, he
+        feelings of depression, he returned to his hometown and taught middle
+        school. But his depression got worse and he was diagnosed with
+        schizophrenia; he his job and, stayed home, and began to focus on
+        writing his poetry.</image:caption
+      >
+      <image:title>A Journey of Poetry and Illness</image:title>
+    </image:image>
+  </url>
+</urlset>

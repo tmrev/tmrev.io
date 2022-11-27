@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/34937-An Englishman in New York</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/34937-An Englishman in New York</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ddADQWD3BL8Ozqe3T4dfpc6FRdz.jpg</image:loc
+      >
+      <image:caption
+        >Biographical drama based on the last 20 years of Crisp's life. The
+        literary figure and gay iconoclast emigrated to New York in 1981 and
+        lived there until his death. The film observes Crisp in both his public
+        and private lives, from his seemingly cavalier response to the outbreak
+        of AIDS to his tender relationship with his friend Patrick Angus and his
+        own response to growing old.</image:caption
+      >
+      <image:title>An Englishman in New York</image:title>
+    </image:image>
+  </url>
+</urlset>

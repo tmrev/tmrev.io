@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413773-A Billion Colour Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413773-A Billion Colour Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rFkVz6gcfpJ486e0fCYbCfHapOq.jpg</image:loc
+      >
+      <image:caption
+        >The curious child of idealistic interfaith parents observes an
+        increasingly intolerant world as his family faces financial
+        strain.</image:caption
+      >
+      <image:title>A Billion Colour Story</image:title>
+    </image:image>
+  </url>
+</urlset>

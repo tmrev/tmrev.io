@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324184-A German Youth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324184-A German Youth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3BxgczsyZaWcPxUIzEKRVFaOltT.jpg</image:loc
+      >
+      <image:caption
+        >At the end of the 1960s the post-war generation began to revolt against
+        their parents. This was a generation disillusioned by anti-communist
+        capitalism and a state apparatus in which they believed they saw fascist
+        tendencies. This generation included journalist Ulrike Meinhof, lawyer
+        Horst Mahler, filmmaker Holger Meins as well as students Gudrun Ensslin
+        and Andreas Baader.</image:caption
+      >
+      <image:title>A German Youth</image:title>
+    </image:image>
+  </url>
+</urlset>

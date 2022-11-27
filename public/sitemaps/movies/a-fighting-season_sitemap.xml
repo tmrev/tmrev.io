@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/328408-A Fighting Season</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/328408-A Fighting Season</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j5HIPJWUzRXBmNoh6X3WZ3hGIJR.jpg</image:loc
+      >
+      <image:caption
+        >On the brink of the 2007 U.S. troop surge, two Army Recruiters face the
+        daunting pressures of recruitment while their own deployment is on the
+        line. Sgt. Harris (Lew Temple) has been stationed in the recruiting
+        office long enough for it to feel like home. On the other side of the
+        world, a roadside bomb rips through a Humvee, and after recovering from
+        the attack, Sgt. Mason (Clayne Crawford) gets reassigned and winds up in
+        Harris's office. Mason wants to go back to the front lines, but he finds
+        out that the war isn't confined to the battlefield.</image:caption
+      >
+      <image:title>A Fighting Season</image:title>
+    </image:image>
+  </url>
+</urlset>

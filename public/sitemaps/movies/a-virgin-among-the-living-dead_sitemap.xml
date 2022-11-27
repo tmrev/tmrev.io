@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19095-A Virgin Among the Living Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19095-A Virgin Among the Living Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vP6ZC7L8CLawIiTx19tXfIuaIuF.jpg</image:loc
+      >
+      <image:caption
+        >A girl arrives from London to visit her estranged relatives in a remote
+        castle for the reading of her father's will. After a while she discovers
+        that they are all in fact dead and her decision to live with them turns
+        into a nightmare. Unable to leave she's drawn into a macabre underworld
+        through visions of nude satanic rituals and her own impending
+        sacrifice.</image:caption
+      >
+      <image:title>A Virgin Among the Living Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

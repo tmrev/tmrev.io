@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19212-A Simple Promise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19212-A Simple Promise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sBZSbUQq7zVA8xpzwj7E2e3vYx4.jpg</image:loc
+      >
+      <image:caption
+        >A struggling young artist meets a talented, and undiscovered
+        songstress. Desperately seeking success, they both must face hard truths
+        and contend with sacrifice on their individual paths to fame and along
+        the way they find a love that teaches them what success is really all
+        about.</image:caption
+      >
+      <image:title>A Simple Promise</image:title>
+    </image:image>
+  </url>
+</urlset>

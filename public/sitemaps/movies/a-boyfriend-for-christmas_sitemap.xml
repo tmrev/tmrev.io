@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26463-A Boyfriend for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26463-A Boyfriend for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nj4Dg2xsHzTpSvgwxRrs6uyHHjh.jpg</image:loc
+      >
+      <image:caption
+        >Holly Grant has learned a long time ago not to rely on Santa Claus
+        leaving Mr. Right in her Christmas stocking. But Holly is in for a
+        surprise when a handsome man arrives on her doorstep with a twinkle in
+        his eye and Yuletide tree in tow.</image:caption
+      >
+      <image:title>A Boyfriend for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

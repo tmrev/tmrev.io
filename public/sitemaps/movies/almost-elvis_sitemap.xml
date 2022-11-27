@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/154804-Almost Elvis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/154804-Almost Elvis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Almost Elvis is a searing documentary that chronicles and attempts to
+        explain the cult of personality that is the Elvis impersonator.
+        Filmmakers tail a handful of Elvis impersonators from around the country
+        who are all vying to win the 1999 Elvis World Championship in -- where
+        else? -- Memphis, Tennessee.</image:caption
+      >
+      <image:title>Almost Elvis</image:title>
+    </image:image>
+  </url>
+</urlset>

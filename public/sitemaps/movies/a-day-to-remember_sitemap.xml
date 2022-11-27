@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/595690-A Day to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/595690-A Day to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cpmtEKLlh6a5jKHqUh7OIlH8FO2.jpg</image:loc
+      >
+      <image:caption
+        >With a camera and one simple question, the Chinese filmmaker Liu Wei
+        heads for the University of Beijing and Tiananmen Square. "Do you know
+        what day it is today?" he asks passers-by, mainly students and young
+        people. "June 4th, 2005," most people answer correctly, but many of them
+        already guess where the conversation is leading. This is the 16th
+        anniversary of the student uprising at Tiananmen Square, which was
+        bloodily quashed by the government.</image:caption
+      >
+      <image:title>A Day to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

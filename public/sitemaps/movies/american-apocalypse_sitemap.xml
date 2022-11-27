@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/884093-American Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/884093-American Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4vYR8cve5prOKZ6uyqAiZermDDS.jpg</image:loc
+      >
+      <image:caption
+        >Chronicles the struggles of a family trying to stay alive in the wake
+        of a deadly and catastrophic virus that has brought America to its
+        knees. In what was once a thriving American suburb that has now devolved
+        into a lawless world of roaming gangs and dwindling resources, the
+        family is discovered and forced to fight back in order to
+        survive.</image:caption
+      >
+      <image:title>American Apocalypse</image:title>
+    </image:image>
+  </url>
+</urlset>

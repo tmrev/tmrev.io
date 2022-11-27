@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55166-A Charming Mass Suicide</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55166-A Charming Mass Suicide</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/noiYlj4obdmKaPIVsLWR8H15W4Q.jpg</image:loc
+      >
+      <image:caption
+        >Two men, who both have tried to commit a suicide, decide to found a
+        "Let's do it together"-suicide association to help the self-destructive
+        people to succeed in their goal. Soon they have a bus load of candidates
+        and together they start a bus tour in order to find a suitable place for
+        the mass suicide.</image:caption
+      >
+      <image:title>A Charming Mass Suicide</image:title>
+    </image:image>
+  </url>
+</urlset>

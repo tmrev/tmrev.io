@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/260219-A Very Slow Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/260219-A Very Slow Breakfast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jzn250yRMbKmMk3K9Yk0iSCxiVx.jpg</image:loc
+      >
+      <image:caption
+        >When a boy is too confused to speak with his non-communicative family,
+        words eventually lose their meaning. He decides to communicate with his
+        dandruff and a cup of cold coffee instead. His father ignores these
+        eccentricities, assuming it is just a ploy to get attention. Meanwhile,
+        the boy's sister likes exercising seductively in front of men and is
+        better able to capture her father's attention than her brother. Their
+        mother is oblivious, perpetually talking to people on her mobile phone
+        and the space the family occupies grows narrower and
+        narrower.</image:caption
+      >
+      <image:title>A Very Slow Breakfast</image:title>
+    </image:image>
+  </url>
+</urlset>

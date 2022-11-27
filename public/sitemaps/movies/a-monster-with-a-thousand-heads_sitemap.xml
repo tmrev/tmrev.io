@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/296865-A Monster with a Thousand Heads</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/296865-A Monster with a Thousand Heads</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wToNyO8nPExJGcIEryIj0EEuW3Z.jpg</image:loc
+      >
+      <image:caption
+        >When Sonia receives the news that her husband’s cancer has progressed
+        to a critical stage, she races to secure the insurance company’s
+        approval for the care that can help him.</image:caption
+      >
+      <image:title>A Monster with a Thousand Heads</image:title>
+    </image:image>
+  </url>
+</urlset>

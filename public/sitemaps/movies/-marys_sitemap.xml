@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/569685-1000 Marys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/569685-1000 Marys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s0DWIHd1siLU4EHAOqc1ZqjlfGz.jpg</image:loc
+      >
+      <image:caption
+        >An exploration of iconography of the Virgin Mary from Early Christian
+        to Modern painting. The way your eye would travel over a single
+        painting, the camera travels over hundreds of images of Mary,
+        discovering the many ways artists have revered her smile, hands, eyes,
+        and the baby Jesus himself.</image:caption
+      >
+      <image:title>1000 Marys</image:title>
+    </image:image>
+  </url>
+</urlset>

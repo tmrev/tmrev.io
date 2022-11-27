@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/794789-A School in Cerro Hueso</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/794789-A School in Cerro Hueso</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c5aqYB5pcQ3i8xjqO35TFB5tByp.jpg</image:loc
+      >
+      <image:caption
+        >After numerous rejections, Ema's parents finally find a safe place for
+        their daughter who has been diagnosed on the autism spectrum. In the
+        loving community of the new primary school in the small town on the
+        river, Ema can silently observe and explore the world at her own pace.
+        The film gently follows Ema's small steps that evolve into magical
+        moments.</image:caption
+      >
+      <image:title>A School in Cerro Hueso</image:title>
+    </image:image>
+  </url>
+</urlset>

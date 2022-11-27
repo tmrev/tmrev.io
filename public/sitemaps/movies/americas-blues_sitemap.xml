@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/567979-America's Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/567979-America's Blues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r4UPQfA74LWVcq5c1KIMI1KcHYD.jpg</image:loc
+      >
+      <image:caption
+        >America's Blues takes a new angle on the Blues, focusing on, not only
+        the musical impact it has had on all forms of Popular American Music,
+        but also the influence it has had on art, fashion, language, film and
+        racial equality.</image:caption
+      >
+      <image:title>America's Blues</image:title>
+    </image:image>
+  </url>
+</urlset>

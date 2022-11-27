@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/161289-A.A.A. Achille</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/161289-A.A.A. Achille</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xm7JqFsOTqndmsrCZ6K03yQAFBT.jpg</image:loc
+      >
+      <image:caption
+        >Achille, nine years old, intelligent, sympathetic, and stutterer. The
+        parents decide to treat him and entrust him to Dr. Aglieri, who begins
+        the therapy. Meanwhile the child knows other patients</image:caption
+      >
+      <image:title>A.A.A. Achille</image:title>
+    </image:image>
+  </url>
+</urlset>

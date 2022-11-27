@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/793000-After Chernobyl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/793000-After Chernobyl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f0vMJ9Bm2ceQzCTxS1IafDxfsR9.jpg</image:loc
+      >
+      <image:caption
+        >A group of American tourists travels across Eastern Europe. By
+        accident, they get to Chernobyl, where they face some local evil. These
+        are the ghosts of killed citizens who tried to flee the city through
+        military cordons. But it turns out that not all inhabitants of the
+        Exclusion Zone are dead. The group have to reveal the mystery of an
+        unusual girl from the dead city and try to get out from this place
+        alive.</image:caption
+      >
+      <image:title>After Chernobyl</image:title>
+    </image:image>
+  </url>
+</urlset>

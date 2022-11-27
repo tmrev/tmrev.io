@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/245-About a Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/245-About a Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg</image:loc
+      >
+      <image:caption
+        >Will Freeman is a good-looking, smooth-talking bachelor whose primary
+        goal in life is avoiding any kind of responsibility. But when he invents
+        an imaginary son in order to meet attractive single moms, Will gets a
+        hilarious lesson about life from a bright, but hopelessly geeky
+        12-year-old named Marcus. Now, as Will struggles to teach Marcus the art
+        of being cool, Marcus teaches Will that you're never too old to grow
+        up.</image:caption
+      >
+      <image:title>About a Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

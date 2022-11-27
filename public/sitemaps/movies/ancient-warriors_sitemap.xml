@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5127-Ancient Warriors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5127-Ancient Warriors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cctRq2ANdQf9yuhsCgPwrA67Zs9.jpg</image:loc
+      >
+      <image:caption
+        >Special Forces Captain Aldo Paccione must pull together his former
+        world team Delta Force and go deep within the mines of Sardinia when it
+        is discovered that a vengeful band of mercenaries are developing deadly
+        biochemical weapons.</image:caption
+      >
+      <image:title>Ancient Warriors</image:title>
+    </image:image>
+  </url>
+</urlset>

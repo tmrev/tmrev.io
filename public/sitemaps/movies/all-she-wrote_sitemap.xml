@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484972-All She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484972-All She Wrote</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cJ1ATefGRmXsaqGhVttoIuATR5v.jpg</image:loc
+      >
+      <image:caption
+        >When Aaron, an ex-fighter, turns to music after years of being knocked
+        around and left with permanent mental disabilities, he falls for Jana,
+        an off-centered Bulgarian immigrant living in New York. While he
+        recognizes that she is as crazy as he is, Jana does not share the same
+        opinion. But her brother, Bobby, an up and coming wannabe fighter,
+        decides to convince her she is that crazy in order to get Aaron in the
+        ring against him.</image:caption
+      >
+      <image:title>All She Wrote</image:title>
+    </image:image>
+  </url>
+</urlset>

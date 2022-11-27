@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172716-An Ethics Lesson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172716-An Ethics Lesson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bXyoVxP3MWG56Wjmm7nyj8fViCm.jpg</image:loc
+      >
+      <image:caption
+        >A bad guy, a cruel guy, a lame guy, a cowardly guy and the meanest
+        woman gets involved in a beautiful university student's murder
+        case.</image:caption
+      >
+      <image:title>An Ethics Lesson</image:title>
+    </image:image>
+  </url>
+</urlset>

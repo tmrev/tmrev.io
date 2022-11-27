@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/212606-A Thousand Times Good Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/212606-A Thousand Times Good Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a6hchdUV8B13QyIv2Pb8ohQbyMJ.jpg</image:loc
+      >
+      <image:caption
+        >On assignment while photographing a female suicide bomber in Kabul,
+        Rebecca – one of the world’s top war photojournalists - gets badly hurt.
+        Back home, another bomb drops as her husband and daughters give her an
+        ultimatum: her work or her family.</image:caption
+      >
+      <image:title>A Thousand Times Good Night</image:title>
+    </image:image>
+  </url>
+</urlset>

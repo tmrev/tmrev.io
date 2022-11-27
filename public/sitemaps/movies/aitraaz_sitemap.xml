@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22315-Aitraaz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22315-Aitraaz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jzyOT5bO52y1mHiL0v1bQDOAISA.jpg</image:loc
+      >
+      <image:caption
+        >Aitraaz revolves around the character Raj Malhotra (Akshay Kumar) a
+        successful businessman who has everything going for him, including a
+        lovely wife (Kareena Kapoor). Just when he thinks things can't get any
+        better, Sonia (Priyanka Chopra) - his ex-girlfriend, now the boss's wife
+        - walks back into his life - and she wants Raj at any
+        cost.</image:caption
+      >
+      <image:title>Aitraaz</image:title>
+    </image:image>
+  </url>
+</urlset>

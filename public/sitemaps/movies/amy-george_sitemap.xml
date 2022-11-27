@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/107751-Amy George</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/107751-Amy George</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/70PP94pAEeS0MGmVEgYxyBcz2tR.jpg</image:loc
+      >
+      <image:caption
+        >Thirteen-year-old Jesse wants to be an artist and believing that his
+        mundane, middle-class life has left him unprepared, he sets out looking
+        for wildness and women.</image:caption
+      >
+      <image:title>Amy George</image:title>
+    </image:image>
+  </url>
+</urlset>

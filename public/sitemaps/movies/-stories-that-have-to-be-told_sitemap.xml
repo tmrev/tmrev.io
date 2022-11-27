@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/840903-600 Stories That Have to Be Told</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/840903-600 Stories That Have to Be Told</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t0VBXEHNFDBi93oTMZa7DnwMTfa.jpg</image:loc
+      >
+      <image:caption
+        >Interviews were conducted over a seven year period with 670 people who
+        were deported to Siberia as children in 1941. Fragments of their
+        memories form a mosaic revealing their past experiences of losing
+        fathers, mothers, brothers and sisters. Time heals, but nothing is
+        forgotten and the stories must be told.</image:caption
+      >
+      <image:title>600 Stories That Have to Be Told</image:title>
+    </image:image>
+  </url>
+</urlset>

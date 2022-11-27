@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/929332-American Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/929332-American Stories</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2SkeAsBXNsBowUIpOPkF2wEoRDx.jpg</image:loc
+      >
+      <image:caption
+        >With only a few hours to go on the final leg of their Ohio tour, the
+        Little Devils find themselves stranded in a no-name town. Tim, Jeff,
+        Rick and Ben pass the hours waiting for their van to be repaired by
+        revealing a little more about themselves through true, yet unbelievable
+        stories.</image:caption
+      >
+      <image:title>American Stories</image:title>
+    </image:image>
+  </url>
+</urlset>

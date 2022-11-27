@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2896-Agitator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2896-Agitator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c7XOu33mWD0W54Mn55YcE0dOMNg.jpg</image:loc
+      >
+      <image:caption
+        >When a young Yakuza torments the customers in a rival crime family's
+        nightclub, it is not long before his dead body is found. Soon,
+        inter-family retaliation follows, resulting in the death for a prominent
+        crime boss. Devastated by this turn of events, the temperamental Kenzaki
+        vows to avenge his boss's death and, as bloody violence ensues, the body
+        count reaches excessive proportions.</image:caption
+      >
+      <image:title>Agitator</image:title>
+    </image:image>
+  </url>
+</urlset>

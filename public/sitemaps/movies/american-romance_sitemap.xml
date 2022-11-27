@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416602-American Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416602-American Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jtL72zKmLI0u3HPAbNiwdyLH3a0.jpg</image:loc
+      >
+      <image:caption
+        >A series of horrifying murders, the victims, always couples, staged in
+        bizarre collage dioramas with cardboard cutouts and scribbled, childlike
+        messages about the corrupting power of love. The killer's on the loose,
+        and the FBI is looking for a truck driver. Emery Reed is a long haul
+        trucker disillusioned with the American Dream after an accident left his
+        wife paralyzed and took the life of their son. Newlyweds Jeff and Krissy
+        are having the time of their lives until their car breaks down on a
+        rural road in the middle of nowhere. When the love birds collide with
+        the forlorn truck driver, a wild ride leaves everyone questioning the
+        true value of love and American Romance.</image:caption
+      >
+      <image:title>American Romance</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24607-24 Solo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24607-24 Solo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >24 Solo follows 24 Hour Solo World Champion Chris Eatough on his quest
+        to a 7th consecutive title. This rare glimpse into the personal life of
+        the sport’s most successful 24 Hour racer is a rollercoaster of energy
+        and emotion. The film balances action and emotion with commentary from
+        the biggest names in mountain biking.</image:caption
+      >
+      <image:title>24 Solo</image:title>
+    </image:image>
+  </url>
+</urlset>

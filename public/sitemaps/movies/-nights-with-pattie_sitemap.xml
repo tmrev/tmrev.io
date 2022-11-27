@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/359805-21 Nights with Pattie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/359805-21 Nights with Pattie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/224POsfxKFfwkKvKYdzJIXJJaUh.jpg</image:loc
+      >
+      <image:caption
+        >During the height of summer, Caroline, a forty-year-old Parisian and
+        mother, arrives in a small village in the south of France. She must
+        hastily organize the funeral of her mother, a flighty lawyer, whom she
+        barely used to see. Caroline is welcomed by Pattie, who likes to talk
+        about her love affairs with the local men to anyone who'll listen. Then,
+        while the whole valley gets ready for the traditional mid-summer dance,
+        Caroline's mother's corpse mysteriously disappears...</image:caption
+      >
+      <image:title>21 Nights with Pattie</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/817120-Ambush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/817120-Ambush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ux4J06xWPuA1ALXzQD6mNalljTJ.jpg</image:loc
+      >
+      <image:caption
+        >Frank rents rooms in Nadine’s building to commit crimes. During the
+        latest one, things take a turn for the worse when a guy he killed a
+        couple of days before, disappears.</image:caption
+      >
+      <image:title>Ambush</image:title>
+    </image:image>
+  </url>
+</urlset>

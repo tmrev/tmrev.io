@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10914-All Hat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10914-All Hat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/97BMsVbc6R3sLR6A6GjvWdpukj1.jpg</image:loc
+      >
+      <image:caption
+        >An ex-con returns to his rural Ontario roots and outwits a corrupt and
+        wealthy thoroughbred owner trying to take over a slew of local farms.
+        Ray Dokes, a charming ex-ballplayer, returns from jail to discover the
+        rural landscape of his childhood transformed by urban development.
+        Determined to stay out of trouble, Ray heads to the farm of his old
+        friend Pete Culpepper, a crusty Texas cowboy who trains losing
+        racehorses and whose debts are growing faster than his
+        corn.</image:caption
+      >
+      <image:title>All Hat</image:title>
+    </image:image>
+  </url>
+</urlset>

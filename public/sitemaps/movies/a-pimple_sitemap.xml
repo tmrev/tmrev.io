@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/935558-A Pimple</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/935558-A Pimple</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/skWGicFVssmPrLmEzSCDOj64wmo.jpg</image:loc
+      >
+      <image:caption
+        >A person has a problem about creation and she is so stressful because
+        of it. Moreover, a red pimple comes out on the nose. Time goes by, she
+        is getting painful by the pressure of creation and a pimple. Suddenly,
+        she decides to remove a pimple because she thinks a pimple is an origin
+        of all her problems. From the removal pimple, she finds a green leaf
+        which has a small yellow egg and then, the larva becomes a beautiful
+        moss. The moss starts to fly.</image:caption
+      >
+      <image:title>A Pimple</image:title>
+    </image:image>
+  </url>
+</urlset>

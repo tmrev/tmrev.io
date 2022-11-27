@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/46474-Albert Schweitzer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/46474-Albert Schweitzer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/800aySfKBdiUrlNsY5xjy0649jb.jpg</image:loc
+      >
+      <image:caption
+        >1949 the early years of the Cold War. Albert Schweitzer has become one
+        of the most admired men in the world. The "jungle doctor" Albert
+        Schweitzer tells the story of a philosopher and physician who promoted
+        peace during the Cold War, built a hospital in what is now Gabon and
+        proved stronger than the CIA.</image:caption
+      >
+      <image:title>Albert Schweitzer</image:title>
+    </image:image>
+  </url>
+</urlset>

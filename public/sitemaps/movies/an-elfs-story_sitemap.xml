@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79579-An Elf's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79579-An Elf's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mSoJW2O6WFlLl7YWxEYBsgkiAAF.jpg</image:loc
+      >
+      <image:caption
+        >The inspirational tale of Chippey, the young scout elf who is assigned
+        by Santa to restore Taylor McTuttle's belief in Christmas magic. When
+        the boy breaks the number one Elf on the Shelf rule, Chippey loses his
+        Christmas magic; the entire McTuttle family loses is scout elf, and both
+        Taylor and Chippey lose their self-respect. Through the power of love
+        and forgiveness, both of them learn the most important lesson of all:
+        that true belief cannot be taught.</image:caption
+      >
+      <image:title>An Elf's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

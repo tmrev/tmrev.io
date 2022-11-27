@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/761824-Adhiyar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/761824-Adhiyar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/erVbwmNGwCSkUmrpqfO7oz7bVMp.jpg</image:loc
+      >
+      <image:caption
+        >The film is made about farmers life in Bangladesh. This has led to the
+        struggle of the Farmers and the tortures and injustice of local high
+        command and landlords on them. In 1946-1947, this movement was formed
+        against the landlords and the British in protests against oppression and
+        exploitation of long days.</image:caption
+      >
+      <image:title>Adhiyar</image:title>
+    </image:image>
+  </url>
+</urlset>

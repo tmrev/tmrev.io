@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37108-A Kid in King Arthur's Court</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37108-A Kid in King Arthur's Court</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nzkCh60LNLTaAl8YCCVFM5OASUS.jpg</image:loc
+      >
+      <image:caption
+        >A Southern California kid named Calvin Fuller is magically transported
+        to the medieval kingdom of Camelot through a crack in the ground caused
+        by an earthquake. Once there, he learns he was summoned by the wizard
+        Merlin, who needs Calvin to save Camelot. Using dazzling modern
+        inventions, can Calvin help King Arthur retain his crown and thwart the
+        evil Lord Belasco?</image:caption
+      >
+      <image:title>A Kid in King Arthur's Court</image:title>
+    </image:image>
+  </url>
+</urlset>

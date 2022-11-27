@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/307115-12 Dog Days Till Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/307115-12 Dog Days Till Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/riR8waTbvkc7j6hgsaOxqA7YOyS.jpg</image:loc
+      >
+      <image:caption
+        >After being assigned to an animal rescue shelter as part of his
+        community service by his probation officer, a troubled teenager is
+        forced to get into the spirit of the holidays when he is recruited to
+        help find homes for twelve unwanted dogs before
+        Christmas.</image:caption
+      >
+      <image:title>12 Dog Days Till Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271464-A Wreck, a Tangle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271464-A Wreck, a Tangle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A wired but charming and educated junkie couple ("we prefer the term
+        chemically dependent") run their stolen car into a nice well to do
+        thirty-something couple and when it gets all too hard, end up staying
+        with them - first for a night, then a week and then for way too
+        long.</image:caption
+      >
+      <image:title>A Wreck, a Tangle</image:title>
+    </image:image>
+  </url>
+</urlset>

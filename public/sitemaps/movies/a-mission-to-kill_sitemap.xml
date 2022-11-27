@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/310006-A Mission to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/310006-A Mission to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >His activities in Viet Nam would be denied by the U S Government. Only
+        two others providing similar service returned to the states. Now he's
+        getting mental help in a military institution, escapes, and must be
+        recaptured.</image:caption
+      >
+      <image:title>A Mission to Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

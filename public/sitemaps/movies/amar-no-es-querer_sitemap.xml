@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/96836-Amar no es Querer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/96836-Amar no es Querer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hl8KPgSce9W1dlLHNeykD2OdvzC.jpg</image:loc
+      >
+      <image:caption
+        >Jakie es una joven que disfruta de ayudar a los más necesitados, pero
+        su esposo Samuel no comparte este sentimiento. El mundo de Jakie giraba
+        alrededor de la ayuda a niños con cáncer en una clínica, el mundo de él
+        giraba alrededor de los negocios, no le interesaba el altruismo de su
+        mujer. Un trágico accidente deja en coma a Samuel, después de meses de
+        espera Jackie decide seguir su vida y volverse a
+        enamorar.</image:caption
+      >
+      <image:title>Amar no es Querer</image:title>
+    </image:image>
+  </url>
+</urlset>

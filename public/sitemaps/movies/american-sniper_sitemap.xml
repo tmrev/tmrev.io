@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190859-American Sniper</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190859-American Sniper</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i1U46OwMc6vlm7OoSUKfqUH615e.jpg</image:loc
+      >
+      <image:caption
+        >U.S. Navy SEAL Chris Kyle takes his sole mission—protect his
+        comrades—to heart and becomes one of the most lethal snipers in American
+        history. His pinpoint accuracy not only saves countless lives but also
+        makes him a prime target of insurgents. Despite grave danger and his
+        struggle to be a good husband and father to his family back in the
+        States, Kyle serves four tours of duty in Iraq. However, when he finally
+        returns home, he finds that he cannot leave the war
+        behind.</image:caption
+      >
+      <image:title>American Sniper</image:title>
+    </image:image>
+  </url>
+</urlset>

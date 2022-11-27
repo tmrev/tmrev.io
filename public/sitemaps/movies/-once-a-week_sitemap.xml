@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/525107-7:20 Once a Week</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/525107-7:20 Once a Week</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5dRTrNj5h2Kiq9tWh2CMrpuCB00.jpg</image:loc
+      >
+      <image:caption
+        >Two strangers have an intense casual encounter but later, both will
+        realize that what has emerged is superior to pure physics, understanding
+        that human relationships are more complex than a simple exchange of
+        caresses.</image:caption
+      >
+      <image:title>7:20 Once a Week</image:title>
+    </image:image>
+  </url>
+</urlset>

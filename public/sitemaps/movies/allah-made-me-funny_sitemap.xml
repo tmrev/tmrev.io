@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/146927-Allah Made Me Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/146927-Allah Made Me Funny</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tFfDTWCeFWSPwkYlsbxwEMKzb3P.jpg</image:loc
+      >
+      <image:caption
+        >Allah Made Me Funny features live stand-up performances by Azhar Usman,
+        Preacher Moss and Mohammed Amer as well as behind the scenes sequences
+        highlighting the individual comedians. The trio poke fun at Muslims and
+        non-Muslims alike and their comedic material plays with stereotypes to
+        invite people to think outside of their fixed cultural
+        perceptions.</image:caption
+      >
+      <image:title>Allah Made Me Funny</image:title>
+    </image:image>
+  </url>
+</urlset>

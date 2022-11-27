@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/615585-A Storybook Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/615585-A Storybook Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a3c2yumfGFIZKz9Oi2Tu09UP5MX.jpg</image:loc
+      >
+      <image:caption
+        >If event planner Celeste Everett is going to save her business and give
+        her niece a happy Christmas season, she is going to need help. When the
+        nanny she hires turns out to be a man, Celeste surprisingly realizes she
+        may have also found Christmas love for herself.</image:caption
+      >
+      <image:title>A Storybook Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

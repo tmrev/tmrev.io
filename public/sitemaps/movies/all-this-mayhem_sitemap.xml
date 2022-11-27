@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/275657-All This Mayhem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/275657-All This Mayhem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6jbwLGjsy2vvWAabKBtXBr8Hhnc.jpg</image:loc
+      >
+      <image:caption
+        >A searing account of what happens when raw talent and extreme
+        personalities collide. In this unflinching, never-before-seen account of
+        drugs and the dark side of professional skateboarding, brothers Tas and
+        Ben Pappas' intense bond and charisma take them from the pinnacle of
+        their sport into a spiraling world of self-destruction.</image:caption
+      >
+      <image:title>All This Mayhem</image:title>
+    </image:image>
+  </url>
+</urlset>

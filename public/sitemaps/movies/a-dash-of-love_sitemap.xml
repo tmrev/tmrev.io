@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/437515-A Dash of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/437515-A Dash of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rBuQPAO9RZmtrycr1n7ZI8ObsiH.jpg</image:loc
+      >
+      <image:caption
+        >A young woman who dreams of opening her own restaurant lands a job at a
+        prominent restaurant whose head chef becomes her unlikely ally when the
+        restaurant's unscrupulous owner, a Master Chef herself, plots to return
+        the place to its former glory by presenting her new assistant's recipes
+        as her own.</image:caption
+      >
+      <image:title>A Dash of Love</image:title>
+    </image:image>
+  </url>
+</urlset>

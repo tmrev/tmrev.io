@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508026-A Physical Ring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508026-A Physical Ring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cDWyIJPLiiigfdhlzZ3vJhdAcgw.jpg</image:loc
+      >
+      <image:caption
+        >A found-footage film based on 35mm film material from an anonymous
+        Finnish physical test that took place in the 1940s. The original purpose
+        of the test remains unknown today.</image:caption
+      >
+      <image:title>A Physical Ring</image:title>
+    </image:image>
+  </url>
+</urlset>

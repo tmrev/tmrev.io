@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62289-A Good Night to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62289-A Good Night to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/N12otY0ThffWwfaBZc4vwoF4CW.jpg</image:loc
+      >
+      <image:caption
+        >One day in the life of a hit man, Ronnie, who spends it trying to save
+        the life of fellow hit man, August, who he had brought into the business
+        three years ago. August has become a real problem for some of the bosses
+        around town, and Ronnie will soon find out just what his Frankenstein's
+        monster will cost him.</image:caption
+      >
+      <image:title>A Good Night to Die</image:title>
+    </image:image>
+  </url>
+</urlset>

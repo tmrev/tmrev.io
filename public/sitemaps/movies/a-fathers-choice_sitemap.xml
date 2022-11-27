@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/206053-A Father's Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/206053-A Father's Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tz0vajDKqlp6DBIng3wEnwUyTy0.jpg</image:loc
+      >
+      <image:caption
+        >The fast-paced city life of two sisters is turned upside down when they
+        are sent to live in the country with their father after their mother is
+        killed.</image:caption
+      >
+      <image:title>A Father's Choice</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/708745-Ahora es nunca</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/708745-Ahora es nunca</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aFswN956Fu7JFJ84vJJ0gHNsV4a.jpg</image:loc
+      >
+      <image:caption
+        >A particular look at the love mismatch, the unrealized ties and the
+        possible relationships that do not come ... and the window as a way to
+        look into other lives that may end up being your own. A look at a
+        generation of young people living in small universes contained in the
+        urbanity of a Buenos Aires at the beginning of the 21st
+        century.</image:caption
+      >
+      <image:title>Ahora es nunca</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254147-3 Mile Limit</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254147-3 Mile Limit</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zDayEBQ1fGg4VOxFaXFgU1Wk30g.jpg</image:loc
+      >
+      <image:caption
+        >Set in 1965, a true story of one man’s struggle to bring rock music to
+        a nation, an iconic New Zealand story with a universal ‘David and
+        Goliath’ theme. The youth will find it incredible this actually happened
+        and existed as part of New Zealand society in the 1960′s. It’s a titanic
+        struggle for freedom and ‘the choice to choose’.</image:caption
+      >
+      <image:title>3 Mile Limit</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253007-Angels Inc</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253007-Angels Inc</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ueG6lNL1RLIHwLWE4RVhA3K4UNY.jpg</image:loc
+      >
+      <image:caption
+        >Carlos happily married. He has two children - Maria Isabel and Dani.
+        During a trip to China he is killed in a plane crash and goes to heaven.
+        After a time, he learns that not everything is ...</image:caption
+      >
+      <image:title>Angels Inc</image:title>
+    </image:image>
+  </url>
+</urlset>

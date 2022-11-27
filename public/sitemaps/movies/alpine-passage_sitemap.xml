@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/920042-Alpine Passage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/920042-Alpine Passage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ctlLf6TxtyeZMntQpKdKAfZTHp.jpg</image:loc
+      >
+      <image:caption
+        >Alpine Passage is a film comprising individual images about a journey
+        over Alpine passes. The mountain remains before us, impressive as a
+        painting, and in front of that the sort of architecture that makes it
+        possible for us to examine the mountain up close. A panorama view from a
+        mountain pass cannot exclude a view of Alpine road architecture
+        completely.</image:caption
+      >
+      <image:title>Alpine Passage</image:title>
+    </image:image>
+  </url>
+</urlset>

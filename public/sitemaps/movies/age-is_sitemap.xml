@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/137000-Age Is...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/137000-Age Is...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k9Al0st22dF0DHSD2SKztIseKtt.jpg</image:loc
+      >
+      <image:caption
+        >Stephen Dwoskin’s final film is a meditation on the subjective
+        experience and cultural concepts of ageing. The film is an ode to the
+        texture, the beauty, the singularity of aging faces and silhouettes, a
+        hypnotic poem in the Dwoskin meaning of the term which is long
+        observations of very tiny details. A gesture, a pause, a look, a moment.
+        Throughout his films intimacy has always played a leading role and this
+        is also true for Age is..., all the faces being close friends, or close
+        friends relatives and sometimes even Stephen himself.</image:caption
+      >
+      <image:title>Age Is...</image:title>
+    </image:image>
+  </url>
+</urlset>

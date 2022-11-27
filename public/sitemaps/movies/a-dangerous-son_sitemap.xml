@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/522773-A Dangerous Son</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/522773-A Dangerous Son</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8pkfH7vAE9rt85w9fBl5rnRJGZy.jpg</image:loc
+      >
+      <image:caption
+        >Documentary following three families each coping with a child affected
+        by serious emotional or mental illness. The families explore treatment
+        opportunities and grapple with the struggle of living with their child's
+        condition.</image:caption
+      >
+      <image:title>A Dangerous Son</image:title>
+    </image:image>
+  </url>
+</urlset>

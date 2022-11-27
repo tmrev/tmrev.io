@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/224919-A Mother's Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/224919-A Mother's Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2nEwQQccb3I746CSzjf4ZzqaRXV.jpg</image:loc
+      >
+      <image:caption
+        >A mother and her daughter, Conner, embark on a journey to Conner's new
+        school - both unaware of how many "bumps" they may find along the
+        way.</image:caption
+      >
+      <image:title>A Mother's Rage</image:title>
+    </image:image>
+  </url>
+</urlset>

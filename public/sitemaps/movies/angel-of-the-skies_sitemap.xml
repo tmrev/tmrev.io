@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/239318-Angel of the Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/239318-Angel of the Skies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Sq5QzwtR8os5rPaUlrSmTdjDNY.jpg</image:loc
+      >
+      <image:caption
+        >War is declared and Britain must take action against Nazi Germany if
+        Europe is going to be saved from its ruthless clutches. Determined to
+        beat the enemy Flt. Office Earl Kirk, a young South African pilot,
+        volunteers his services to the Royal Air Force, sacrificing his family,
+        his future and himself in the fight against evil. Whilst in combat,
+        surrounded by bombers and under relentless attack, Kirk must make the
+        decision that could change his and his crew's life
+        forever.</image:caption
+      >
+      <image:title>Angel of the Skies</image:title>
+    </image:image>
+  </url>
+</urlset>

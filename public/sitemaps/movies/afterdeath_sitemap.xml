@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214256-AfterDeath</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214256-AfterDeath</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3nfbBfC7lqOKMC8G5bx4e7kKB2C.jpg</image:loc
+      >
+      <image:caption
+        >Five young people wake up dead. Washed up by the tide they scramble to
+        an abandoned beach house, soon realizing that the perpetual night and
+        blasts of pain suggest this is some version of hell. Between in-fighting
+        and attacks by a demonic shadow creature, they recall the collapse of
+        the nightclub that brought them here - and begin seeing hope of a second
+        chance in the cabin's two mysterious paintings...</image:caption
+      >
+      <image:title>AfterDeath</image:title>
+    </image:image>
+  </url>
+</urlset>

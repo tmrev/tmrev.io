@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58195-Almost Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58195-Almost Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2e2Rtg711Z5C3uzJyVV9nWHKyc3.jpg</image:loc
+      >
+      <image:caption
+        >A serial killer, called the Iguana, is terrorizing Bologna. He is able
+        to change continuously identity. Grazia is investigating trying to find
+        out the truth about the Iguana.</image:caption
+      >
+      <image:title>Almost Blue</image:title>
+    </image:image>
+  </url>
+</urlset>

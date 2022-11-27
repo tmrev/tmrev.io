@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16048-All About Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16048-All About Anna</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1ckGai55OCUbXU8ycRt6ZpY3sDJ.jpg</image:loc
+      >
+      <image:caption
+        >Anna is a young costume designer, focused on her job and wary of
+        getting caught in romantic relationships. She has just found a new
+        apartment, and is tempted to let her latest boyfriend, Frank, move in
+        with her. Instead, she finds a tenant: The flamboyant, fun-loving
+        Camilla, who shares Anna’s views on love and commitment. For both of
+        them, it’s all about fun.</image:caption
+      >
+      <image:title>All About Anna</image:title>
+    </image:image>
+  </url>
+</urlset>

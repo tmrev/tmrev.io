@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/739227-Afonso Padilha: Classless</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/739227-Afonso Padilha: Classless</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dwfQWBH9w3zj81lQ7WqiEawOZQV.jpg</image:loc
+      >
+      <image:caption
+        >Brazilian comedian Afonso Padilha dives into his humble beginnings and
+        digs out hilarious stories about his childhood in this very personal
+        set.</image:caption
+      >
+      <image:title>Afonso Padilha: Classless</image:title>
+    </image:image>
+  </url>
+</urlset>

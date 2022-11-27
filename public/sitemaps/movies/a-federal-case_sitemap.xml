@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/674008-A Federal Case</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/674008-A Federal Case</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mGlYS6BkZAlEGQubuzjUWKXBzyh.jpg</image:loc
+      >
+      <image:caption
+        >When the mayor's 17 year old daughter gets pregnant, Dr. Jacob is
+        called to abort the child. But, anti-abortionist Reverend Thomas will
+        not allow the murder of this unborn child who has been fathered by his
+        own nephew - and will go to any extent to save the life of this baby,
+        even if the mayor sets it up as a federal case.</image:caption
+      >
+      <image:title>A Federal Case</image:title>
+    </image:image>
+  </url>
+</urlset>

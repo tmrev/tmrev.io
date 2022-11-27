@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/164804-A Wedding Most Strange</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/164804-A Wedding Most Strange</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oaoO5ofHmVmvfOGq5m96axgFpxY.jpg</image:loc
+      >
+      <image:caption
+        >There's only two weeks left for the recently divorced Danny to re-marry
+        and inherit his family's estate. With time running out he turns to
+        cyberspace to identify the man of his dreams and get married on time.
+        Having created a master plan for the whole event, Danny is sure he'll
+        reach his goal; no problem. If they do it on TV, how hard could it be in
+        real life?</image:caption
+      >
+      <image:title>A Wedding Most Strange</image:title>
+    </image:image>
+  </url>
+</urlset>

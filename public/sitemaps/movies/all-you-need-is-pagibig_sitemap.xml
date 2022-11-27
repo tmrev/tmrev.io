@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/374020-All You Need Is Pag-ibig</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/374020-All You Need Is Pag-ibig</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1KPsz80Fqua6kCmJSJyCc1Tp66V.jpg</image:loc
+      >
+      <image:caption
+        >The movie features varied forms of love: family love, sibling love,
+        puppy love, unrequited love, ruined love, prospering love, in denial
+        love, jaded love, and true love, among others. After all, what the world
+        needs now is love.</image:caption
+      >
+      <image:title>All You Need Is Pag-ibig</image:title>
+    </image:image>
+  </url>
+</urlset>

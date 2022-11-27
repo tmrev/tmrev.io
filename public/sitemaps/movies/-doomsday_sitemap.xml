@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16266-2012 Doomsday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16266-2012 Doomsday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rNHdpeyBUki4n5tzEdEri5elJBq.jpg</image:loc
+      >
+      <image:caption
+        >On December 21, 2012 four strangers on a journey of faith are drawn to
+        an ancient temple in the heart of Mexico. For the Mayans it is the last
+        recorded day. For NASA scientists it is a cataclysmic polar shift. For
+        the rest of us, it is Doomsday.</image:caption
+      >
+      <image:title>2012 Doomsday</image:title>
+    </image:image>
+  </url>
+</urlset>

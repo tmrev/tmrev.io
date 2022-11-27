@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190167-9500 Liberty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190167-9500 Liberty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7c4WsQKrocz25eVNRMN4LwT2RKC.jpg</image:loc
+      >
+      <image:caption
+        >"When Prince William experienced a major building boom in the 1990s, a
+        shortage of labor created a demand for workers, which led to an increase
+        in the Latino population. Some of the newcomers were legal immigrants.
+        Some were not. A blogger named Greg Letiecq began to write about his
+        unhappiness with hearing Spanish spoken in public places. Finding an
+        audience, he fomented about rising crime rates, rising taxes to pay for
+        services for the newcomers, overcrowded dwellings, music played too
+        loud, fast driving, and so on. He included Latino crime reports from the
+        local police blotter. He even claimed armed members of the Mexican
+        revolutionary group Zapatistas were moving to Prince William County." -
+        Roger Ebert</image:caption
+      >
+      <image:title>9500 Liberty</image:title>
+    </image:image>
+  </url>
+</urlset>

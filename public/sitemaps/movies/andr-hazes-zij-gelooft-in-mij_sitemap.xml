@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2890-André Hazes, Zij Gelooft in Mij</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2890-André Hazes, Zij Gelooft in Mij</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7S8b48iiDKxIwYWFPnl0BRpVJnx.jpg</image:loc
+      >
+      <image:caption
+        >Portrait of the popular Dutch singer André Hazes.</image:caption
+      >
+      <image:title>André Hazes, Zij Gelooft in Mij</image:title>
+    </image:image>
+  </url>
+</urlset>

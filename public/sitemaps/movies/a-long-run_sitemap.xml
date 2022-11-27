@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/752724-A Long Run</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/752724-A Long Run</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vvlzHOy4jp9L9jSvC2zBJ8bK80I.jpg</image:loc
+      >
+      <image:caption
+        >A Long Run tells one man's story, but it's every runner's journey. Bob
+        Anderson's amazing life connects us to icons like Bill Rodgers, Billy
+        Mills and Paula Radcliffe but also to the low-budget thrill of a
+        community 5K. The gorgeous cinematography captures The Avenue of the
+        Giants, the San Francisco landscapes and the vistas of Fort Bragg. And
+        the smoothly intertwined stories - his 50-race challenge, the magazine,
+        the running boom - are handled with Olympic-caliber
+        pacing.</image:caption
+      >
+      <image:title>A Long Run</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/619154-Alice Júnior</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/619154-Alice Júnior</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pcrJuO9z9uGGhb4h8L0Q5VgNFyX.jpg</image:loc
+      >
+      <image:caption
+        >This is the story of Alice Junior, a transgender girl full of life, who
+        wants to give her first kiss, but first, she just wants to be who she
+        really is.</image:caption
+      >
+      <image:title>Alice Júnior</image:title>
+    </image:image>
+  </url>
+</urlset>

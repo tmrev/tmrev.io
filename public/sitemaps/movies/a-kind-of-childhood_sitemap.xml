@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/167132-A Kind of Childhood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/167132-A Kind of Childhood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A3TI06SULes3W34PF8h5EijGKi3.jpg</image:loc
+      >
+      <image:caption
+        >This is a film which challenges our notions of child labor. It peeks
+        into a world where the concept of childhood as we know it has no
+        meaning, where children support their parents, and where work is just
+        another part of growing up. This is Dhaka, Bangladesh. Following several
+        children over a period of six years, A KIND OF CHILDHOOD is an attempt
+        to focus on the realities of child labor, with real children, their
+        struggles and dreams.</image:caption
+      >
+      <image:title>A Kind of Childhood</image:title>
+    </image:image>
+  </url>
+</urlset>

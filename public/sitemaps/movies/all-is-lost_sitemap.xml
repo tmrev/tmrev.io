@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/152747-All Is Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/152747-All Is Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9cVA4oX2xHgiglv6hemxwAaofsq.jpg</image:loc
+      >
+      <image:caption
+        >During a solo voyage in the Indian Ocean, a veteran mariner awakes to
+        find his vessel taking on water after a collision with a stray shipping
+        container. With his radio and navigation equipment disabled, he sails
+        unknowingly into a violent storm and barely escapes with his life. With
+        any luck, the ocean currents may carry him into a shipping lane -- but,
+        with supplies dwindling and the sharks circling, the sailor is forced to
+        face his own mortality.</image:caption
+      >
+      <image:title>All Is Lost</image:title>
+    </image:image>
+  </url>
+</urlset>

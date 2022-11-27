@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626097-All must die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626097-All must die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bbj8NlvqG9rYkrs2zoBZONP2Z2.jpg</image:loc
+      >
+      <image:caption
+        >A lonely man lives on the outskirts. The neighbors are afraid of him
+        because they know that he is a former criminal investigator. Once a
+        friend comes to him and asks for help in one thing. He promises, but ...
+        at dawn they find the corpse of his friend. The prosecutor’s office
+        opens a case that instructs the young investigator to conduct. But every
+        day the number of suspects decreases - they die ...</image:caption
+      >
+      <image:title>All must die</image:title>
+    </image:image>
+  </url>
+</urlset>

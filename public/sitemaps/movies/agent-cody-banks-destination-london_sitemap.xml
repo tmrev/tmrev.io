@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/17047-Agent Cody Banks 2: Destination London</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/17047-Agent Cody Banks 2: Destination London</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zlAltvp84rYVTYs3kdemqHBaiat.jpg</image:loc
+      >
+      <image:caption
+        >With all-new gadgets, high-flying action, exciting chases and a
+        wisecracking new handler, Derek (Anthony Anderson), Cody has to retrieve
+        the device before the world's leaders fall under the evil control of a
+        diabolical villain.</image:caption
+      >
+      <image:title>Agent Cody Banks 2: Destination London</image:title>
+    </image:image>
+  </url>
+</urlset>

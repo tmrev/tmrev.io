@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/469278-A Million Acres a Year</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/469278-A Million Acres a Year</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dnl61bjYsWbqvZWE1FtQk0XGSEW.jpg</image:loc
+      >
+      <image:caption
+        >After World War Two, successive governments sold off and encouraged the
+        clearing of less viable areas for agriculture. During the 1960s a
+        million acres a year were opened up. Much of the land was unsuitable for
+        farming yet the new landholders were obliged to bulldoze and burn the
+        native bush or risk losing their allocation. Most were eager to do so
+        and pressured the government to release even more land. The long-term
+        consequences have been devastating, with industrial farming and salinity
+        turning most of this priceless natural heritage into a biological
+        desert.</image:caption
+      >
+      <image:title>A Million Acres a Year</image:title>
+    </image:image>
+  </url>
+</urlset>

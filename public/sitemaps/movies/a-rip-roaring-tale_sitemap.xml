@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/639224-A Rip Roaring Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/639224-A Rip Roaring Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vQHMpOdVfztNnJwtYfA3SVDsRUm.jpg</image:loc
+      >
+      <image:caption
+        >Join Rocfish...as they present the story of Daniel Like you've never
+        seen it before. A tale of extraordinary courage where Daniel chooses to
+        stand up for what is right, even though it means being thrown into a den
+        full of lions!</image:caption
+      >
+      <image:title>A Rip Roaring Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26934-A Christmas Visitor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26934-A Christmas Visitor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vMqB3RZIgjk4RMUHNtAkWOrnNQz.jpg</image:loc
+      >
+      <image:caption
+        >The Boyajian family learned of 18-year-old John's death in the Persian
+        Gulf War on Christmas Eve eleven years earlier and have not celebrated
+        Christmas since. They have been so consumed by his death that they have
+        forgotten the joys of the holidays, until a mysterious visitor enters
+        their lives and rekindles the spirit of the season.</image:caption
+      >
+      <image:title>A Christmas Visitor</image:title>
+    </image:image>
+  </url>
+</urlset>

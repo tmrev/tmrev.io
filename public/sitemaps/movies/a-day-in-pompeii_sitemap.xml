@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1003160-A Day in Pompeii</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1003160-A Day in Pompeii</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A Day in Pompeii, a Melbourne Winter Masterpieces exhibition, was held
+        at Melbourne Museum from 26 June to 25 October 2009. Over 330,000 people
+        visited the exhibition -- an average of more than 2,700 per day --
+        making it the most popular traveling exhibition ever staged by an
+        Australian museum. Zero One created the animation for an immersive 3D
+        theatre installation which gave visitors a chance to feel the same drama
+        and terror of the town's citizens long ago, and witness how a series of
+        eruptions wiped out Pompeii over 48 hours.</image:caption
+      >
+      <image:title>A Day in Pompeii</image:title>
+    </image:image>
+  </url>
+</urlset>

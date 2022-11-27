@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197616-Agit Pop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197616-Agit Pop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >AGIT POP, a French cultural magazine started a decade ago, is closing
+        down due to severe financial problems. The ultimate closing times should
+        be an occasion for joyous reunions among old friends, enemies and lovers
+        around the completion of this special issue. This final day will become
+        however a disaster on a Biblical scale.</image:caption
+      >
+      <image:title>Agit Pop</image:title>
+    </image:image>
+  </url>
+</urlset>

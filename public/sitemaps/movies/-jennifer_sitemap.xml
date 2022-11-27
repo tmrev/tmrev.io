@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410270-2 Jennifer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410270-2 Jennifer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5tNAFlELYejCB21xh6DnVjBOpQs.jpg</image:loc
+      >
+      <image:caption
+        >Two filmmakers attempt to make the perfect sequel to "To Jennifer,"
+        however a dark secret threatens the lives of everyone involved.
+        Jennifer, a beautiful actress, now has two options: become the heroine
+        of the film, or face a brutal death.</image:caption
+      >
+      <image:title>2 Jennifer</image:title>
+    </image:image>
+  </url>
+</urlset>

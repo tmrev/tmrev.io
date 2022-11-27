@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614992-A Loud Color</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614992-A Loud Color</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nnJs6N26GzH6rgEpUWOBGKRNHTu.jpg</image:loc
+      >
+      <image:caption
+        >72-year-old Louis Harding returns to gut and rebuild the community
+        center he opened one month before Hurricane Katrina struck. He discusses
+        the importance of history, heroes and self-esteem for African-Americans
+        in New Orleans and explains why re-opening his center after the storm is
+        more important than ever before.</image:caption
+      >
+      <image:title>A Loud Color</image:title>
+    </image:image>
+  </url>
+</urlset>

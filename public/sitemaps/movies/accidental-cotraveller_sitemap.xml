@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509404-Accidental Co-Traveller</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509404-Accidental Co-Traveller</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/352KGkDYSrPnRfvXbEsQhjMiNfS.jpg</image:loc
+      >
+      <image:caption
+        >The story of a girl who works in a foundry and leaves the job due to
+        difficult working conditions and decides to go away from home. On this
+        quest for happiness she meets a rich football manager whom she robs, as
+        well as number of other people who all mostly have sexual or other
+        intentions about her.</image:caption
+      >
+      <image:title>Accidental Co-Traveller</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126015-America before Columbus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126015-America before Columbus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >History books traditionally depict the pre-Columbus Americas as a
+        pristine wilderness where small native villages lived in harmony with
+        nature. But scientific evidence tells a very different story: When
+        Columbus stepped ashore in 1492, millions of people were already living
+        there. America wasn’t exactly a New World, but a very old one whose
+        inhabitants had built a vast infrastructure of cities, orchards, canals
+        and causeways.</image:caption
+      >
+      <image:title>America before Columbus</image:title>
+    </image:image>
+  </url>
+</urlset>

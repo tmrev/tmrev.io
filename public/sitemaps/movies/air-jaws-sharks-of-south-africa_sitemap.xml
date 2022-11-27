@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312507-Air Jaws: Sharks of South Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312507-Air Jaws: Sharks of South Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hb7jCLLxIywMaS8l6pfdGzsdsd.jpg</image:loc
+      >
+      <image:caption
+        >Like crocodiles pulling zebra into the Mara River and like Orcas
+        beaching themselves to capture sea lions, the aerial attacks of great
+        white sharks in South Africa's False Bay rank among the most spectacular
+        predatory events in nature. Join shark expert Dr. Rocky Strong in South
+        Africa -- the only place in the world where these aerial attacks occur
+        -- for an in-depth study of this incredible predatory
+        behavior.</image:caption
+      >
+      <image:title>Air Jaws: Sharks of South Africa</image:title>
+    </image:image>
+  </url>
+</urlset>

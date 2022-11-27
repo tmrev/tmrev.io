@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/25760-Alex Grey & The Chapel of Sacred Mirrors
+      COSM The Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/25760-Alex Grey & The Chapel of Sacred Mirrors
+      COSM The Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iPwrSxYHy1QNxcE9GkIW2UQXnXO.jpg</image:loc
+      >
+      <image:caption
+        >A cinematic pilgrimage through the Chapel of Sacred Mirrors gallery in
+        New York City, where the art work of Alex Grey, world reknowned painter
+        sculptor and author combines science and spiritual
+        wisdom.</image:caption
+      >
+      <image:title
+        >Alex Grey & The Chapel of Sacred Mirrors COSM The Movie</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/648295-Affinity</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/648295-Affinity</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wPKToMHI61PdYdcai9O8mGBxx95.jpg</image:loc
+      >
+      <image:caption
+        >Roma, a humble soul from the rural country, embarks on a trip to the
+        city where she has been living for the past year and a half. While
+        starting her new life in the city she meets Lydia, a witty biochemistry
+        student, who soon became her lover. On their last night together, Roma
+        and Lydia stroll around the desolate city. Unable to hail a cab or catch
+        a bus, they are forced to face the flaws of their love, discussing their
+        opposing schools of thought and the reality of their withering
+        relationship.</image:caption
+      >
+      <image:title>Affinity</image:title>
+    </image:image>
+  </url>
+</urlset>

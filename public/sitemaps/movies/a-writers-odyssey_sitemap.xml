@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/611698-A Writer's Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/611698-A Writer's Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sMLOkezoaVuN08QiqJZ5aL8t73G.jpg</image:loc
+      >
+      <image:caption
+        >Kongwen Lu is the author of a fantasy novel series following a heroic
+        teenager, also named Kongwen, on a quest to end the tyrannical rule of
+        Lord Redmane, under the guidance of a Black Armor. But through a strange
+        twist of fate, the fantasy world of the novel begins to impact life in
+        the real world, leading Guan Ning to accept a mission from Tu Ling to
+        kill the author.</image:caption
+      >
+      <image:title>A Writer's Odyssey</image:title>
+    </image:image>
+  </url>
+</urlset>

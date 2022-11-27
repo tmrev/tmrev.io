@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125809-A Dog's Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125809-A Dog's Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A local ruler bows down to the pressure from democratic forces and is
+        forced to hand over a part of his province to a democratically elected
+        leader. He also presents his pet dog to a poor peasant and his wife. For
+        the poor peasant and his wife, the dog is not a mere dog, but a symbol
+        of the royalty which had always inspired in them feelings of respect,
+        admiration and blind worship. They bathe the dog in a very ceremonious
+        manner and take much care of it. They even desist from tying it up. But
+        when the dog bites and kills a duck and then a boy, it leads to
+        problems. The democratic leader orders the arrest of the dog, followed
+        by the arrest of the poor peasant. Then follow protests, talks,
+        negotiations leading to more interesting developments.</image:caption
+      >
+      <image:title>A Dog's Day</image:title>
+    </image:image>
+  </url>
+</urlset>

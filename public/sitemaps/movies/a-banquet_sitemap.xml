@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/775400-A Banquet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/775400-A Banquet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4FlSYrcjO4z3McJ6UP3V5npb4B4.jpg</image:loc
+      >
+      <image:caption
+        >Widowed mother Holly is radically tested when her teenage daughter
+        Betsey experiences a profound enlightenment and insists that her body is
+        no longer her own, but in service to a higher power. Bound to her
+        newfound faith, Betsey refuses to eat but loses no weight. In an
+        agonizing dilemma, torn between love and fear, Holly is forced to
+        confront the boundaries of her own beliefs.</image:caption
+      >
+      <image:title>A Banquet</image:title>
+    </image:image>
+  </url>
+</urlset>

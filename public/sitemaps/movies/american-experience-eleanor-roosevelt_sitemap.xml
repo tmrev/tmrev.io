@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/643404-American Experience: Eleanor Roosevelt</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/643404-American Experience: Eleanor Roosevelt</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vdbuT3mkX4V5WpUk9W2VcXUrznG.jpg</image:loc
+      >
+      <image:caption
+        >Eleanor Roosevelt struggled to overcome an unhappy childhood, betrayal
+        in her marriage, a controlling mother-in-law, and gripping depressions —
+        all the while staying true to her passion for social justice. This
+        biography includes rare home movies, contemporary footage, and
+        reflections from Eleanor’s closest surviving relatives, as well as
+        biographers Blanche Wiesen Cook, Allida Black, and Geoffrey C. Ward,
+        bringing to vibrant life one of the century’s most influential
+        women.</image:caption
+      >
+      <image:title>American Experience: Eleanor Roosevelt</image:title>
+    </image:image>
+  </url>
+</urlset>

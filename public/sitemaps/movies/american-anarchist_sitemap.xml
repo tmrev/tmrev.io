@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/413049-American Anarchist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/413049-American Anarchist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a6chKH9EV1txdyElSd8dwAVbiu7.jpg</image:loc
+      >
+      <image:caption
+        >The story of one of the most infamous books ever written, "The
+        Anarchist Cookbook," and the role it's played in the life of its author,
+        now 65, who wrote it at 19 in the midst of the counterculture upheaval
+        of the late '60s and early '70s.</image:caption
+      >
+      <image:title>American Anarchist</image:title>
+    </image:image>
+  </url>
+</urlset>

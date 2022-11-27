@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/552016-A Christmas in Tennessee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/552016-A Christmas in Tennessee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tUH9HSkAAeFeG2LcFPPzdjcdR4t.jpg</image:loc
+      >
+      <image:caption
+        >Allison Bennet, along with her daughter Olivia and mother Martha, run a
+        bakery in the small mountain town of White Pines, Tennessee. When
+        Matthew, a charming real estate developer, tries to buy the town for a
+        corporate ski resort, Allison and the townspeople must work together to
+        prevent that from happening. And just when the Bennet ladies seem out of
+        luck, an unexpected visitor – with a well-known sweet tooth for cookies
+        and milk – comes to the bakery and may in fact be the key to solving
+        everything.</image:caption
+      >
+      <image:title>A Christmas in Tennessee</image:title>
+    </image:image>
+  </url>
+</urlset>

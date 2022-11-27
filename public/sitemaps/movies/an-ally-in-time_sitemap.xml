@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1024791-An Ally in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1024791-An Ally in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wVMOBhNW4o0JFaMqSZYN1wXg8U3.jpg</image:loc
+      >
+      <image:caption
+        >Death lurks in every corner and time is running out for Don Eulalio,
+        who has been escaping from his hands for a long time.</image:caption
+      >
+      <image:title>An Ally in Time</image:title>
+    </image:image>
+  </url>
+</urlset>

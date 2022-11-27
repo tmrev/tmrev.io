@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467065-A Fanatic Heart: Geldof On Yeats</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467065-A Fanatic Heart: Geldof On Yeats</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dyFPP0Ea7lT6Z1IH8VChTWO8qk5.jpg</image:loc
+      >
+      <image:caption
+        >A biography of the poet W. B. Yeats and his contribution to the Irish
+        independence movement as a Protestant nationalist.</image:caption
+      >
+      <image:title>A Fanatic Heart: Geldof On Yeats</image:title>
+    </image:image>
+  </url>
+</urlset>

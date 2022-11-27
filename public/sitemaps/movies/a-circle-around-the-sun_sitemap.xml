@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550933-A Circle Around the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550933-A Circle Around the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dOkGJsMrOfNDgbVBd0x7iO9685W.jpg</image:loc
+      >
+      <image:caption
+        >In a cyclical structure from dark to light, this film is a reflection
+        on growing up in Beirut during the civil war years and adapting to the
+        "post war" life: accepting the body that is in ruin, and learning to
+        live in the city that is always already in ruin.</image:caption
+      >
+      <image:title>A Circle Around the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

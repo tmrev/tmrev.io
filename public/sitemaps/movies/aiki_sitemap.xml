@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/184985-Aiki</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/184985-Aiki</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ouQY3GmnUeUdFYDqzIxmD4P7l6p.jpg</image:loc
+      >
+      <image:caption
+        >When a promising young boxer is crippled in a car accident, he falls
+        into a life of dissipation and depression. No boxing ring or martial
+        arts club will take him on -- that is, until an aiki jujitsu master
+        helps the young man develop techniques uniquely tailored to a
+        wheelchair. What starts off as a sad film revs up into an exciting and
+        fun series of epiphanies in which the young man realizes his situation
+        isn't as hopeless as it seems.</image:caption
+      >
+      <image:title>Aiki</image:title>
+    </image:image>
+  </url>
+</urlset>

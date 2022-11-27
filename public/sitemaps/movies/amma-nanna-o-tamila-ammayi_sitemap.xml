@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31350-Amma Nanna O Tamila Ammayi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31350-Amma Nanna O Tamila Ammayi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bEvgM42FgwiQkjCNatB0ZJ9WQa6.jpg</image:loc
+      >
+      <image:caption
+        >Chandu is very passionate about kickboxing and his life revolves around
+        his mother and his girlfriend. His life is shattered when his dying
+        mother asks him to meet his estranged father Raghuveer.</image:caption
+      >
+      <image:title>Amma Nanna O Tamila Ammayi</image:title>
+    </image:image>
+  </url>
+</urlset>

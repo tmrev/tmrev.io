@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/866718-A Small Fortune</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/866718-A Small Fortune</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4sQEk81YgFMH7cIXF1a3GIhNSGM.jpg</image:loc
+      >
+      <image:caption
+        >Kevin is an Irish Moss farmer committed to his traditional way of doing
+        things at the expense of a more lucrative life for himself and his
+        pregnant wife. When he finds a bag of money washed up on the shores of
+        Prince Edward Island, his decision to keep it secret turns his quaint
+        fishing village into a growing crime scene as the money’s owners come
+        calling. A Small Fortune is a story of one man's struggle to provide for
+        his family and the need to let go of the old ways in order to learn
+        money isn't everything. Adapted from Adam Perry's award-winning short
+        film A Blessing from the Sea.</image:caption
+      >
+      <image:title>A Small Fortune</image:title>
+    </image:image>
+  </url>
+</urlset>

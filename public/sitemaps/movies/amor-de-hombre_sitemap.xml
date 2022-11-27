@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/23429-Amor de hombre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/23429-Amor de hombre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wdL87ZaQxot8a1ayHv364YwhuVV.jpg</image:loc
+      >
+      <image:caption
+        >Set in Madrid, Spain, this engaging comedy chronicles the complex
+        relationship between single female Esperanza (Loles León), who can't buy
+        a date, and her best friend Ramón (Andrea Occhipinti), a gay divorce
+        attorney whose bed is never empty. The pair's friendship is put to the
+        test when Esperanza introduces Ramón to her fellow teacher Roberto
+        (Armando del Rio) -- who soon sends Ramón's life spinning out of
+        control.</image:caption
+      >
+      <image:title>Amor de hombre</image:title>
+    </image:image>
+  </url>
+</urlset>

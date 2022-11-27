@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259241-And the Mud Ship Sails Away...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259241-And the Mud Ship Sails Away...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9I11kMXw69pSczyaBO3kzWwRyzL.jpg</image:loc
+      >
+      <image:caption
+        >Takashi is country hipster, work avoiding, not-so-smart life expert in
+        vague rural-urban area in the north from Tokyo. He lives together with
+        his grandmother and laughs at his friend who goes to real work -
+        shoveling cow manure. On one day, a young woman arrives to the area and
+        claims to be Takashi's half-sister from this' father's escapade. And she
+        is the kind you can't get easily rid off...</image:caption
+      >
+      <image:title>And the Mud Ship Sails Away...</image:title>
+    </image:image>
+  </url>
+</urlset>

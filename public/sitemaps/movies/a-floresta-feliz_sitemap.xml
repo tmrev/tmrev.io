@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/668348-A Floresta Feliz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/668348-A Floresta Feliz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eHMSMzjrlKzYrITqB7gMzF2Nh1X.jpg</image:loc
+      >
+      <image:caption
+        >Six animals live in a forest, they will have to prevent the witch from
+        destroying their habitat.</image:caption
+      >
+      <image:title>A Floresta Feliz</image:title>
+    </image:image>
+  </url>
+</urlset>

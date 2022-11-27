@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/220459-Amazon Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/220459-Amazon Falls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8p9i1M3O4dtjc33piwC2uPtquXz.jpg</image:loc
+      >
+      <image:caption
+        >Amazon Falls tells the story of a faded B-movie actress JANA who
+        refuses to let go of her dream of being a star. Famous for her roles in
+        Amazon movies where she portrayed a variety of pre-Xena
+        warrior-princesses, she desperately tries to keep her leg in the B-movie
+        game, and pursues her career with a zealous fervor.</image:caption
+      >
+      <image:title>Amazon Falls</image:title>
+    </image:image>
+  </url>
+</urlset>

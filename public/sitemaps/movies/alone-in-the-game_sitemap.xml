@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/523828-Alone in the Game</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/523828-Alone in the Game</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t3S0xLkVZ9aawzAcmEBk60sTCiE.jpg</image:loc
+      >
+      <image:caption
+        >Documentary that chronicles the challenges and triumphs of LGBT
+        athletes in sports today.</image:caption
+      >
+      <image:title>Alone in the Game</image:title>
+    </image:image>
+  </url>
+</urlset>

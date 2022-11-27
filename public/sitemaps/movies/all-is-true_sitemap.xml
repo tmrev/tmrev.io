@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/558095-All Is True</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/558095-All Is True</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yae0QoZuPQ6yC8HleRYXXfttPLh.jpg</image:loc
+      >
+      <image:caption
+        >London, June 29th, 1613. The Globe Theater, ran by the famous
+        playwright William Shakespeare, accidentally burns to ashes. Seriously
+        affected, he stops writing and returns to his hometown, where his wife
+        Anne and daughters Judith and Susanna get surprised to hear he intends
+        to stay there definitively, after two decades working in the capital,
+        neglecting his sincere affections for them.</image:caption
+      >
+      <image:title>All Is True</image:title>
+    </image:image>
+  </url>
+</urlset>

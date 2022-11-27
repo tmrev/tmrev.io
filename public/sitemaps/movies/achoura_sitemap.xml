@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560842-Achoura</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560842-Achoura</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jU1LmBG26DQBeJLcuX16A8cQeZF.jpg</image:loc
+      >
+      <image:caption
+        >Four childhood friends are reunited when one of them surfaces after
+        twenty years, forcing them to confront a creature straight out of a
+        spine-chilling Moroccan legend.</image:caption
+      >
+      <image:title>Achoura</image:title>
+    </image:image>
+  </url>
+</urlset>

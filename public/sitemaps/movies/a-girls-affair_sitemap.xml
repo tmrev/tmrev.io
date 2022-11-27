@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/102346-A Girl's Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/102346-A Girl's Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3J7FwNhtZEpJpCRcNKVCnQBfZY2.jpg</image:loc
+      >
+      <image:caption
+        >A beautiful woman, Aria, is the stage manager at a small photo studio.
+        Times are tough and the owner of the stage is considering selling when a
+        famous photographer Claude, chooses the location for his next sensual
+        catalog shoot with supermodel, Katia, who comes with a reputation for
+        being difficult to work with.</image:caption
+      >
+      <image:title>A Girl's Affair</image:title>
+    </image:image>
+  </url>
+</urlset>

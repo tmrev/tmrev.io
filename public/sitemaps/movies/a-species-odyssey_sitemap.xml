@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52062-A Species Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52062-A Species Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lcbDq8AIZx3gKeZSoTMCEocb21U.jpg</image:loc
+      >
+      <image:caption
+        >"A Species Odyssey" portrays the origins of Mankind from the moment the
+        first primate stood up on their hind legs and set off to conquer the
+        African Savanna, to modern Man, setting off to conquer space. 7 million
+        years of triumph fraught with difficulties and extraordinary events that
+        make Man what he is today.</image:caption
+      >
+      <image:title>A Species Odyssey</image:title>
+    </image:image>
+  </url>
+</urlset>

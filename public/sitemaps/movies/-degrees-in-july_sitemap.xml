@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181351-75 Degrees in July</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181351-75 Degrees in July</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6TZcbu1PZEYhT2tS7U00YzkO0p2.jpg</image:loc
+      >
+      <image:caption
+        >Sibling rivalry and other conflicts are revealed as one daughter, now a
+        successful modern artist living in New York, returns to visit her Texas
+        family.</image:caption
+      >
+      <image:title>75 Degrees in July</image:title>
+    </image:image>
+  </url>
+</urlset>

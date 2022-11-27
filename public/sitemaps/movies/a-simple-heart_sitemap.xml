@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84639-A Simple Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84639-A Simple Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uHl1iHaQB2YliipF53m53OyCI6L.jpg</image:loc
+      >
+      <image:caption
+        >Unable to forget her first love, Félicité, a simple and kind maid,
+        devotes herself completely to her new master, Mathilde Aubain. As the
+        passing of time doesn't heal her wounds, she gives love to all those who
+        surround her: Mathilde's children, her nephew Victor. But fate seems to
+        always deny her from any love in return. Still she tries to find someone
+        who'll accept her unconditional love.</image:caption
+      >
+      <image:title>A Simple Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

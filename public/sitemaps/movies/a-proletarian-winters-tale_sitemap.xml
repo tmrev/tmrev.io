@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/262665-A Proletarian Winter's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/262665-A Proletarian Winter's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lVpjRlDIhjbcAjQM1m1OpksrUzi.jpg</image:loc
+      >
+      <image:caption
+        >Three young Georgians have to clean a castle in Berlin, where a German
+        arms manufacturer's art collection is being set up for an exhibition. Of
+        course, the proletariat isn't welcome at the opening party and they are
+        banished to a servants' room in the attic. Downstairs, however, a
+        splendid buffet attracts them - so why not just ignore the unfair
+        prohibition and cross the line of class society? Didn't the French
+        Revolution start over a piece of cake?</image:caption
+      >
+      <image:title>A Proletarian Winter's Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

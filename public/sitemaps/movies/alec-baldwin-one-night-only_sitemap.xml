@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466057-Alec Baldwin: One Night Only</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466057-Alec Baldwin: One Night Only</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/heLH72pBGnfFbwGuGqouGPvudq8.jpg</image:loc
+      >
+      <image:caption
+        >Alec Baldwin, one of entertainment's most iconic actors, is honored in
+        an exclusive black tie evening full of comedic tributes, candid personal
+        stories and a few surprises.</image:caption
+      >
+      <image:title>Alec Baldwin: One Night Only</image:title>
+    </image:image>
+  </url>
+</urlset>

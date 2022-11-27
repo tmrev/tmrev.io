@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/746056-A Glenbrooke Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/746056-A Glenbrooke Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i2Q7WtmhXlDp8rDwTdmKBxiIMTZ.jpg</image:loc
+      >
+      <image:caption
+        >As Christmas nears, heiress Jessica Morgan seizes what seems like her
+        last chance to experience a relaxed Christmas and heads off to the small
+        town of Glenbrooke, where she meets a handsome fireman.</image:caption
+      >
+      <image:title>A Glenbrooke Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/696172-Achtung</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/696172-Achtung</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xoKL2Sce8n5SQ3TqOHV7WN6oCLF.jpg</image:loc
+      >
+      <image:caption
+        >Takes a close look at the surface of the human body. Photographed over
+        the course of eight years, the film shows six men and one pregnant woman
+        who… all exhibit their tattoos, piercings and scars. With spiritual
+        concentration, a young man begins to actually pierce delicate parts of
+        his body.</image:caption
+      >
+      <image:title>Achtung</image:title>
+    </image:image>
+  </url>
+</urlset>

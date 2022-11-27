@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/172944-And Who Taught You to Drive?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/172944-And Who Taught You to Drive?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cGrggv3dw1Jk7QEp2cd2R9lmKEd.jpg</image:loc
+      >
+      <image:caption
+        >An American in Tokyo, a Korean in Bavaria, and a German in Mumbai:
+        Prepare for a real culture clash when you have to pass your driving test
+        again in another country... A real life comedy.</image:caption
+      >
+      <image:title>And Who Taught You to Drive?</image:title>
+    </image:image>
+  </url>
+</urlset>

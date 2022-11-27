@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1027289-A Christmas Carol: A Ghost Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1027289-A Christmas Carol: A Ghost Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y9iB9SBrAVUxsv4CjYqhrFMpQGZ.jpg</image:loc
+      >
+      <image:caption
+        >It’s a cold Christmas Eve and mean-spirited miser Ebenezer Scrooge has
+        an unexpected visit from the spirit of his former business partner Jacob
+        Marley. Bound in chains as punishment for a lifetime of greed, the
+        unearthly figure explains it isn’t too late for Scrooge to change his
+        miserly ways in order to escape the same fate, but first, he’ll have to
+        face three more eerie encounters.</image:caption
+      >
+      <image:title>A Christmas Carol: A Ghost Story</image:title>
+    </image:image>
+  </url>
+</urlset>

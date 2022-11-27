@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77747-Alicia Keys: World AIDS Concert</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77747-Alicia Keys: World AIDS Concert</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The concert, to be held at the Nokia Theatre in New York City, aims to
+        draw attention to World AIDS Day; viewers will be encouraged to donate
+        to Alicia’s chosen charity, Keep a Child Alive. You’ll be able to tune
+        in at the Alicia Keys YouTube channel.</image:caption
+      >
+      <image:title>Alicia Keys: World AIDS Concert</image:title>
+    </image:image>
+  </url>
+</urlset>

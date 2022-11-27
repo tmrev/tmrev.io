@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/831058-About the Girl Who Found Her Bear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/831058-About the Girl Who Found Her Bear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wtkwQE6gQe4cSfQoml05E7idi3D.jpg</image:loc
+      >
+      <image:caption
+        >When her parents are gone for their jobs, a little girl goes everywhere
+        around the house to find her teddy bear, instead of playing the piano
+        she was supposed to.</image:caption
+      >
+      <image:title>About the Girl Who Found Her Bear</image:title>
+    </image:image>
+  </url>
+</urlset>

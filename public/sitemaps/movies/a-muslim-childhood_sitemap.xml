@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/620970-A Muslim Childhood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/620970-A Muslim Childhood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iMZDlBYKh1R34RqYiGvO81f8GJ4.jpg</image:loc
+      >
+      <image:caption
+        >This film, the first in what has become a semi-autobiographical trilogy
+        for Smihi, follows the everyday experiences of Mohamed-Larbi Salmi
+        against the changing Moroccan society. In 1950s Tangier, Larbi Salmi is
+        a young, timid, pre-teen, boy, trying to make sense of the gentle
+        religious upbringing of his father, the secular education offered him in
+        French school, and his budding desires for the forbidden pleasures of
+        the cinema and the women he meets through it.</image:caption
+      >
+      <image:title>A Muslim Childhood</image:title>
+    </image:image>
+  </url>
+</urlset>

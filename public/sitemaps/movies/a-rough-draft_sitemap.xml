@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/495601-A Rough Draft</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/495601-A Rough Draft</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5fT7yOqXhXoYrrUlz0ftavPrxKp.jpg</image:loc
+      >
+      <image:caption
+        >Young Muscovite Kirill is a talented designer of computer games. One
+        day, he is completely erased from the memory of everyone he knew and
+        loved. Kirill learns that he has been chosen for an important and
+        mysterious mission: to become a customs officer between parallel worlds,
+        of which there are dozens in the universe. Will Kirill unravel the
+        mystery of these worlds and who controls them? And is our Earth really
+        just an imaginary "draft" -- a parallel world -- which in reality does
+        not exist ...</image:caption
+      >
+      <image:title>A Rough Draft</image:title>
+    </image:image>
+  </url>
+</urlset>

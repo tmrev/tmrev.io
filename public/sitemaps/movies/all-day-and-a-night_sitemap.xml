@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/530956-All Day and a Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/530956-All Day and a Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8xiV8j18GhWnnrfMGaDR0E5oOif.jpg</image:loc
+      >
+      <image:caption
+        >While serving life in prison, a young man looks back at the people, the
+        circumstances and the system that set him on the path toward his
+        crime.</image:caption
+      >
+      <image:title>All Day and a Night</image:title>
+    </image:image>
+  </url>
+</urlset>

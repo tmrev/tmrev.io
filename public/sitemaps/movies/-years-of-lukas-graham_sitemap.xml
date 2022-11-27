@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/734164-7 Years of Lukas Graham</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/734164-7 Years of Lukas Graham</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m21CCZAsCcgAU6ot5ExmvvLoOsO.jpg</image:loc
+      >
+      <image:caption
+        >When the Danish group Lukas Graham were starting out in 2012, they
+        could never in their wildest dreams have imagined the journey they were
+        embarking on. A journey, which would transport them from their humble
+        roots in Copenhagen to performing on the GRAMMYs stage in Los
+        Angeles.</image:caption
+      >
+      <image:title>7 Years of Lukas Graham</image:title>
+    </image:image>
+  </url>
+</urlset>

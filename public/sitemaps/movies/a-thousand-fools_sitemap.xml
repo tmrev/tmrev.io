@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100336-A Thousand Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100336-A Thousand Fools</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aoYugtjbbwBStC1gC3lt73FbgkL.jpg</image:loc
+      >
+      <image:caption
+        >Fifteen stories, contemporary and some historical, where humorous,
+        sarcasm and courage passed bills to pain, old age, death and love, but
+        above all with human stupidity, without concessions, watching her face
+        the difficult life balance and human misery.</image:caption
+      >
+      <image:title>A Thousand Fools</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/592047-Angels Too Soon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/592047-Angels Too Soon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3U6ALpZDuU2VL8xuZNhKq7cFxWL.jpg</image:loc
+      >
+      <image:caption
+        >On December 1, 1958, fire swept through Our Lady of the Angels school
+        on Chicago's west side, killing 92 children and three nuns. This Emmy
+        award-winning program tells the unforgettable story of ordinary people
+        caught up in a mind-numbing disaster. Told through vivid first-hand
+        accounts and stunning archival footage, Angels Too Soon is also the
+        story of a fire that remains officially unsolved, despite the detailed
+        confession of a 10-year-old student in the school. Above all, it is a
+        story of faith, hope and courage, the day that 92 children became Angels
+        Too Soon.</image:caption
+      >
+      <image:title>Angels Too Soon</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/150871-10,000 Black Men Named George</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/150871-10,000 Black Men Named George</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/45EDri2ixhki0yLZSY4r2DEZmjR.jpg</image:loc
+      >
+      <image:caption
+        >In the 1920s, the rights of American workers to join a labor union was
+        still considered an open question, and African-Americans were routinely
+        denied their civil and economic rights. 10,000 Black Men Named George,
+        the title, refers to the fact Pullman porters were often called "George"
+        by white passengers, which was considered a racial slur.</image:caption
+      >
+      <image:title>10,000 Black Men Named George</image:title>
+    </image:image>
+  </url>
+</urlset>

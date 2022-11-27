@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52851-A Child's Christmases in Wales</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52851-A Child's Christmases in Wales</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/252J9Xi2omzyoHMIz4GAOqA9qzl.jpg</image:loc
+      >
+      <image:caption
+        >One-off period comedy, peeping into the lives of a south Wales family's
+        Christmases across the 1980s, written by comedian Mark Watson and
+        inspired by a Dylan Thomas short story. Christmas in this household may
+        be a less than poetic affair, but it is just as eventful. So much
+        changes across a decade in any family, and yet so much manages to remain
+        the same.</image:caption
+      >
+      <image:title>A Child's Christmases in Wales</image:title>
+    </image:image>
+  </url>
+</urlset>

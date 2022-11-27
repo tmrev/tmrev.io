@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369057-A Prince for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369057-A Prince for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hyMRbk3aVjc8E5eXZLtvAhRLDQ0.jpg</image:loc
+      >
+      <image:caption
+        >A prince from Europe meets a charming waitress when he travels to
+        America during the Christmas holiday to escape an arranged
+        marriage.</image:caption
+      >
+      <image:title>A Prince for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

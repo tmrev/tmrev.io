@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/347760-Aaaaaaaah!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/347760-Aaaaaaaah!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/27oy5CoIDmPLYPshfxD6oWLgTst.jpg</image:loc
+      >
+      <image:caption
+        >Alpha Male Smith and his Beta, Keith, move to take over a local
+        community. They hook up with restless Female, Denise, igniting a deadly
+        feud in which emotions run high and deep-seated grudges resurface
+        amongst the tribe. Are we not men? Or are we simply
+        beasts?</image:caption
+      >
+      <image:title>Aaaaaaaah!</image:title>
+    </image:image>
+  </url>
+</urlset>

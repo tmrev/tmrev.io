@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510641-Amin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510641-Amin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uUlfkyjH2XQfJ7MyUO82ELaDUrs.jpg</image:loc
+      >
+      <image:caption
+        >Amin has come from Senegal to work in France, leaving behind his wife
+        Aïcha, and their three children. He leads a solitary life in France,
+        where the only space he occupies is his home and the building sites on
+        which he works. Most of his earnings are sent to Senegal. One day, he
+        meets a woman, Gabrielle, and a relationship is born.</image:caption
+      >
+      <image:title>Amin</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/330414-10 Endrathukulla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/330414-10 Endrathukulla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/36dSjANLJHwJ25mwHa5EA7uxMAm.jpg</image:loc
+      >
+      <image:caption
+        >A skilled car driver takes on an assignment to deliver a 'package' from
+        Chennai to Uttarkhand. What he doesn't realize is that the young woman
+        who is travelling along with him is the 'package'. What is the mystery
+        around her?</image:caption
+      >
+      <image:title>10 Endrathukulla</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/501841-A Journal for Jordan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/501841-A Journal for Jordan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kkZB0HbADmyVuQyd5SpncK8INXJ.jpg</image:loc
+      >
+      <image:caption
+        >Based on the true story of First Sergeant Charles Monroe King, a
+        soldier deployed to Iraq begins to keep a journal of love and advice for
+        his infant son. Back at home, senior New York Times editor Dana Canedy
+        revisits the story of her unlikely, life-altering relationship with King
+        and his enduring devotion to her and their child.</image:caption
+      >
+      <image:title>A Journal for Jordan</image:title>
+    </image:image>
+  </url>
+</urlset>

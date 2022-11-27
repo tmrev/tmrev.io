@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403529-An Evening With Max Boyce</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403529-An Evening With Max Boyce</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Welsh comedian Max Boyce is shown performing live to a celebrity
+        audience in 1998. This version contains an extra 12 minutes of footage
+        not included in the original television broadcast over Christmas
+        1998.</image:caption
+      >
+      <image:title>An Evening With Max Boyce</image:title>
+    </image:image>
+  </url>
+</urlset>

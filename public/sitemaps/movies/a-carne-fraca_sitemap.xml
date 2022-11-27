@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72120-A Carne é Fraca</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72120-A Carne é Fraca</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1mjRiEhq6WTS9J8Rq2ad3KzhPnN.jpg</image:loc
+      >
+      <image:caption
+        >Alguma vez você já pensou na trajetória de um bife antes de chegar ao
+        seu prato? Nós pesquisamos isso para você e contamos neste documentário
+        aquilo que não é divulgado. Saiba os impactos que esse ato - de comer
+        carne representa para a sua saúde, para os animais e para o planeta. Com
+        depoimentos dos jornalistas Washington Novaes e Dagomir Marquezi, entre
+        outros.</image:caption
+      >
+      <image:title>A Carne é Fraca</image:title>
+    </image:image>
+  </url>
+</urlset>

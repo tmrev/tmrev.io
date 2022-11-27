@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/827523-Angelo, tyran de Padoue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/827523-Angelo, tyran de Padoue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s5RRs2b14LwbgK4WEolY0Do90ha.jpg</image:loc
+      >
+      <image:caption
+        >By choosing Victor Hugo for his first major theater production,
+        Christophe Honoré surprises and intrigues. Angelo, tyrant of Padua
+        surprises even more: little staged, this piece is almost incongruous.
+        For him, it is a text whose clarity hides many secret doors and dark and
+        ambiguous dungeons</image:caption
+      >
+      <image:title>Angelo, tyran de Padoue</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13748-A Ticket to Space</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13748-A Ticket to Space</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2wtaiJGPQsYpvceSFQWLw3nfvVq.jpg</image:loc
+      >
+      <image:caption
+        >Face à l'incompréhension de la population française quant au montant
+        des crédits alloués à la recherche spatiale, le gouvernement lance une
+        vaste opération de communication. En partenariat avec le Centre spatial
+        français, un grand jeu est organisé. "Le ticket pour l'espace", un jeu à
+        gratter, va permettre à deux civils de séjourner dans la station
+        orbitale européenne.</image:caption
+      >
+      <image:title>A Ticket to Space</image:title>
+    </image:image>
+  </url>
+</urlset>

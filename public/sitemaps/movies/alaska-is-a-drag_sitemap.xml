@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/213688-Alaska is a Drag</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/213688-Alaska is a Drag</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vrN063eHfE7muS9Vdn6yLhVkNNn.jpg</image:loc
+      >
+      <image:caption
+        >Leo's dreams of being an international drag superstar are hard fought
+        working in a fish cannery in Alaska.</image:caption
+      >
+      <image:title>Alaska is a Drag</image:title>
+    </image:image>
+  </url>
+</urlset>

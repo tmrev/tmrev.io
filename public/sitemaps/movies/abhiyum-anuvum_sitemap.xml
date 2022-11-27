@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472947-Abhiyum Anuvum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472947-Abhiyum Anuvum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aBr1kD22g3gW8NaXjnyhYTyNSRK.jpg</image:loc
+      >
+      <image:caption
+        >They fell in love and swore to always be together, until a strange
+        twist of fate reveals them to be more than just lovers. To what extent
+        will they go to protect their love?</image:caption
+      >
+      <image:title>Abhiyum Anuvum</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/961544-A Race for Rights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/961544-A Race for Rights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film documents Fiji's constitutional history and provides a
+        background to the coup of 17 May 2000 led by George Speight. In 1999
+        Fiji had it's first democratically elected Indo-Fijian prime minister,
+        Mahendra Chaudhry. There were issues of race, power, religion, loss of
+        land, indigenous rights. The coup shook the deeply spiritual country to
+        the core and had huge economic and social impacts from which Fiji is
+        still recovering.</image:caption
+      >
+      <image:title>A Race for Rights</image:title>
+    </image:image>
+  </url>
+</urlset>

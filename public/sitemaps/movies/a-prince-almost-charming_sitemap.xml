@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/155887-A Prince (almost) Charming</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/155887-A Prince (almost) Charming</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jkSaL6cDuHJ1QN7VV5p6mJZPGTf.jpg</image:loc
+      >
+      <image:caption
+        >A romantic comedy about Jean-Marc who is a convinced bachelor and also
+        very busy. So busy that he almost missed his own daughters wedding
+        ceremony...</image:caption
+      >
+      <image:title>A Prince (almost) Charming</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365997-A Beautiful Planet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365997-A Beautiful Planet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9naxphfpDgtArLPKnf0dJgGo7bS.jpg</image:loc
+      >
+      <image:caption
+        >A breathtaking portrait of Earth from space, providing a unique
+        perspective and increased understanding of our planet and galaxy as
+        never seen before. Made in cooperation with the National Aeronautics and
+        Space Administration (NASA), the film features stunning footage of our
+        magnificent blue planet — and the effects humanity has had on it over
+        time — captured by the astronauts aboard the International Space Station
+        (ISS).</image:caption
+      >
+      <image:title>A Beautiful Planet</image:title>
+    </image:image>
+  </url>
+</urlset>

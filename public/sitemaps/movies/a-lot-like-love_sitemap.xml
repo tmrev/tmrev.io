@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8976-A Lot Like Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8976-A Lot Like Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6xrF9zwEbYiYBOalMO14RAWBLLj.jpg</image:loc
+      >
+      <image:caption
+        >On a flight from Los Angeles to New York, Oliver and Emily make a
+        connection, only to decide that they are poorly suited to be together.
+        Over the next seven years, however, they are reunited time and time
+        again, they go from being acquaintances to close friends to ...
+        lovers?</image:caption
+      >
+      <image:title>A Lot Like Love</image:title>
+    </image:image>
+  </url>
+</urlset>

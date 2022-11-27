@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77957-Angels Crest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77957-Angels Crest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kdaQU15SoGDw48bdcKsDHNIu3Eq.jpg</image:loc
+      >
+      <image:caption
+        >The small working-class town of Angels Crest is a tight-knit community
+        resting quietly in one of the vast and stunningly beautiful valleys of
+        the Rocky Mountains. Ethan, one of the town's residents, is a young
+        father but not much more than a kid himself. He has no choice but to
+        look after his three-year-old son Nate, since mom Cindy is an alcoholic.
+        But one snowy day, Ethan's good intentions are thwarted by a moment of
+        thoughtlessness, resulting in tragedy. A local prosecutor haunted by his
+        past goes after Ethan, and the ensuing confusion and casting of blame
+        begins to tear the town apart.</image:caption
+      >
+      <image:title>Angels Crest</image:title>
+    </image:image>
+  </url>
+</urlset>

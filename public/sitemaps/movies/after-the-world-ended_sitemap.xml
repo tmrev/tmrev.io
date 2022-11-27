@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/185470-After the World Ended</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/185470-After the World Ended</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yQVzfprqTxM1uZXjg7voRSBLY6G.jpg</image:loc
+      >
+      <image:caption
+        >An astronaut crashes in the middle of nowhere. A young woman searches
+        for her family in an abandoned urban wasteland. A prisoner prepares for
+        a space program that will make him the first human being on
+        Mars.</image:caption
+      >
+      <image:title>After the World Ended</image:title>
+    </image:image>
+  </url>
+</urlset>

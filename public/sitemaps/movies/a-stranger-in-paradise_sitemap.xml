@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/251924-A Stranger in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/251924-A Stranger in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/36TThRgy15kGmboadlR0n8SYRYy.jpg</image:loc
+      >
+      <image:caption
+        >On the verge of making partner, Josh Pratt’s (Colin Egglesfield) life
+        is turned upside down when the SEC investigates the head of his
+        multi-billion dollar hedge fund for insider trading. Forced into a
+        well-timed “vacation” he never asked for Josh finds himself in Bangkok
+        with a price on his head, a morally ambiguous brother who is knee deep
+        into the Thai mafia, and a propensity for getting shot at. Unfortunately
+        for Josh, the only way out is to give up information he doesn’t know he
+        has.</image:caption
+      >
+      <image:title>A Stranger in Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

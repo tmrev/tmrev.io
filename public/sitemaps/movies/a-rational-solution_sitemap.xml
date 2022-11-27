@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43289-A Rational Solution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43289-A Rational Solution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z0ybjmoeMqrFmC8oevrxKCZmxRj.jpg</image:loc
+      >
+      <image:caption
+        >Four of Sweden's top actors anchor Jörgen Bergmark's tragi-comedy about
+        a couple, both marriage counsellors, who find themselves in deep water
+        when the husband falls for his best friend's wife. A smart, funny film
+        made for adults. Nominated for Best Film at the 2009 Ghent International
+        Film Festival.</image:caption
+      >
+      <image:title>A Rational Solution</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58784-Alien Sex Files: Aliens Gone Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58784-Alien Sex Files: Aliens Gone Wild</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cGrRhHxt0n09BT1HYSJe42cEvuf.jpg</image:loc
+      >
+      <image:caption
+        >Aliens have come to earth to find the chosen one in preparation for an
+        invasion to take control of the planet.</image:caption
+      >
+      <image:title>Alien Sex Files: Aliens Gone Wild</image:title>
+    </image:image>
+  </url>
+</urlset>

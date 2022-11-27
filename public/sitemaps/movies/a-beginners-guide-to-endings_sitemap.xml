@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/88057-A Beginner's Guide to Endings</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/88057-A Beginner's Guide to Endings</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hTbvtPacC9hGF22SWQYhkbPbBuB.jpg</image:loc
+      >
+      <image:caption
+        >The film centers on three brothers who, upon learning they only have a
+        few days left to live, set off to reverse a lifetime of mistakes. Hopper
+        and Simmons are playing the brothers' father and uncle, respectively,
+        while Caan is one of the brothers. Helfer is Caan's girlfriend, a woman
+        with a dangerous past.</image:caption
+      >
+      <image:title>A Beginner's Guide to Endings</image:title>
+    </image:image>
+  </url>
+</urlset>

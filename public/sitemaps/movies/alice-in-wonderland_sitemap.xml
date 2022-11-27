@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/423971-Alice in Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/423971-Alice in Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An adaptation of the 1886 musical “Alice in Wonderland: A Dream Play
+        for Children” by Henry Saville Clark and Walter Slaughter, Fotopoulos’
+        feature length film propels the Clark/Slaughter score into the 21st
+        century digital age. Sculptures, drawings, text, and original music are
+        used to explore the late 19th century’s evolution of painting,
+        literature, and theatre into early photography and moving pictures. The
+        piece probes the interplay of art and science and in exploring these
+        ideas certain lives and themes are touched upon – the relationship
+        between John Ruskin and Lewis Carroll, Ruskin’s theories on drawing,
+        Thomas Eakins’ painting and his use of photography, the burgeoning of
+        early cinema with Eadweard Muybridge and Etienne-Jules Marey, notions of
+        amateurism and professionalism in art and the archetype of the condemned
+        artist. The work is presented in two acts, remaining faithful to the
+        musical’s original construction based upon Carroll’s
+        narratives.</image:caption
+      >
+      <image:title>Alice in Wonderland</image:title>
+    </image:image>
+  </url>
+</urlset>

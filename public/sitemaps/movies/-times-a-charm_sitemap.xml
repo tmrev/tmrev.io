@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127803-3 Times a Charm</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127803-3 Times a Charm</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yMHL0Ik2inS4yAlXRp2vvJbDaaR.jpg</image:loc
+      >
+      <image:caption
+        >Emma, the studious editor of the school paper, is tempted by the most
+        popular boy in school, Chris Duval, to cheat. She is given a magical
+        necklace that will give her 3 chances.</image:caption
+      >
+      <image:title>3 Times a Charm</image:title>
+    </image:image>
+  </url>
+</urlset>

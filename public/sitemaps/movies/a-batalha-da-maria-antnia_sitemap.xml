@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/551626-A Batalha da Maria Antônia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/551626-A Batalha da Maria Antônia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The documentary portrays the confrontation of students with agents of
+        the military regime, which became known as "The Battle of Maria
+        Antônia". The event took place at Maria Antônia Street, which housed the
+        Faculty of Philosophy of USP and the Mackenzie Presbiterian University,
+        ended with the death of the student José Guimarães and the arson of the
+        Faculty of Philosophy.</image:caption
+      >
+      <image:title>A Batalha da Maria Antônia</image:title>
+    </image:image>
+  </url>
+</urlset>

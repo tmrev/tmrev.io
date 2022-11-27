@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468007-A Clutch Powers 4D Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468007-A Clutch Powers 4D Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nAbDvwA7F6RJ5WR47lqQQNJNAB6.jpg</image:loc
+      >
+      <image:caption
+        >Arthur Fol is expecting a special package with parts for a new machine,
+        and he needs Clutch's team to go and pick it up. However, each team
+        member wants to get the package back first so they can test Arthur's
+        surprise machine. They each take different paths through the city to get
+        the package, occasionally stealing it from each other.</image:caption
+      >
+      <image:title>A Clutch Powers 4D Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

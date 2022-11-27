@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/886258-2 Home-Movies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/886258-2 Home-Movies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Nearly all of us have shot home movies: on film, on video tape, or
+        using the digital cameras built in to our mobile phones. We have filmed
+        our children, family celebrations, or holidays. Now, imagine how a
+        home-movie might look like if it were shot in the Warsaw Ghetto at the
+        beginning of the 1940s by a German worker on vacation… 2 home-movies
+        invites the viewer to look again at historically charged material from a
+        different perspective and to think about our desire to pick-up a camera
+        to record disasters.</image:caption
+      >
+      <image:title>2 Home-Movies</image:title>
+    </image:image>
+  </url>
+</urlset>

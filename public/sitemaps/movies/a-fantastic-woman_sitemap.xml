@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/429191-A Fantastic Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/429191-A Fantastic Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x2yNruMR8bAJOIQ3wd7HR9qWjW3.jpg</image:loc
+      >
+      <image:caption
+        >Marina's life is thrown into turmoil following the death of her
+        partner. Mourning the loss of the man she loved, she finds herself under
+        intense scrutiny from those with no regard for her
+        privacy.</image:caption
+      >
+      <image:title>A Fantastic Woman</image:title>
+    </image:image>
+  </url>
+</urlset>

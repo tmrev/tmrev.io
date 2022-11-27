@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81404-A Game of Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81404-A Game of Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qdyqkwRm05bdf5PhPo6pVWMZvdc.jpg</image:loc
+      >
+      <image:caption
+        >A never-before-seen look at the incomparable Division I football
+        programs at The U.S. Military Academy at West Point and The U.S. Naval
+        Academy at Annapolis revealing the dedication, discipline and
+        determination required to make the journey from military training, to an
+        elite classroom education, and onto the football field.</image:caption
+      >
+      <image:title>A Game of Honor</image:title>
+    </image:image>
+  </url>
+</urlset>

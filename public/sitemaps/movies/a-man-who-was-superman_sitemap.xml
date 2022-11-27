@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/35010-A Man Who Was Superman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/35010-A Man Who Was Superman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c4FQVzPp41DlLd4dswe95x2wom1.jpg</image:loc
+      >
+      <image:caption
+        >A snobbish producer makes a documentary about the extraordinary
+        behavior of her neighbor who believes himself to be
+        Superman.</image:caption
+      >
+      <image:title>A Man Who Was Superman</image:title>
+    </image:image>
+  </url>
+</urlset>

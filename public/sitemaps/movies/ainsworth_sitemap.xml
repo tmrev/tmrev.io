@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/966563-Ainsworth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/966563-Ainsworth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3mBpGGVNozJXIiMribvSWPrBWY0.jpg</image:loc
+      >
+      <image:caption
+        >Football is everything to Kam who has lived near the Ainsworth Estate
+        pitch all his life. In 2013, with his good friend Hassan, Kam approached
+        the Arsenal Foundation to resurface the pitch from concrete to
+        astroturf. He is now a Coach to the local kids and this area represents
+        so much more than just a playing field. It is the beating heart of the
+        Estate and football the international language that binds the entire
+        community together.</image:caption
+      >
+      <image:title>Ainsworth</image:title>
+    </image:image>
+  </url>
+</urlset>

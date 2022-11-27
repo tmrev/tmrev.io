@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/149720-Angel's Egg</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/149720-Angel's Egg</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pV3ms3vXUxq1GKzPBHtZBdDYguY.jpg</image:loc
+      >
+      <image:caption
+        >The film follows a young aspiring art university student, who falls in
+        love with the older sister of his girlfriend. The heartrending longing
+        and the true love that the three characters pursue, is pure, but almost
+        painful. Is the person who stands next to you, is the person that gives
+        you true comfort and love? Can you say that you love him/her from the
+        bottom of your heart?</image:caption
+      >
+      <image:title>Angel's Egg</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/395846-A Wedding in Ramallah</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/395846-A Wedding in Ramallah</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tmNheFTetLhMZX4NpLXCklWKFnh.jpg</image:loc
+      >
+      <image:caption
+        >From acclaimed filmmaker Sherine Salama, the story follows a marriage
+        between an American-based Palestinian man (Bassam Abed) and a young
+        woman (Mariam), with a traditional village upbringing. Bassam works as a
+        telephone repairman in Cleveland, Ohio, and returns to the West Bank
+        town of Ramallah to find a wife. A few weeks later the two are married
+        and we are offered unique insight into the arranged wedding. The film
+        subsequently follows their desperate attempts to secure a visa to
+        America for Mariam, and her resulting life in Cleveland, languishing in
+        an apartment with no friends or support.</image:caption
+      >
+      <image:title>A Wedding in Ramallah</image:title>
+    </image:image>
+  </url>
+</urlset>

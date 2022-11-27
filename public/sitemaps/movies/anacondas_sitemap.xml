@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/701743-Anacondas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/701743-Anacondas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zBqUapVFQJ9VkeL5WIIq2KZlY4S.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the chronicle "Anacondas in the Park" by Pedro Lemebel. A
+        experiment with time, image and montage to formulate an observational
+        narrative in a park in Guadalajara, Mexico, when the night falls it
+        comes back to life and the bodies meet like snakes. A dialogue with a
+        common past of criminalization and homosexual repression in Latin
+        America.</image:caption
+      >
+      <image:title>Anacondas</image:title>
+    </image:image>
+  </url>
+</urlset>

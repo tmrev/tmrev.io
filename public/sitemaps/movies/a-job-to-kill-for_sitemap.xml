@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157075-A Job to Kill For</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157075-A Job to Kill For</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y8VNDJj9hECfD8U7CEwLFE98oml.jpg</image:loc
+      >
+      <image:caption
+        >The senior creative executive at a top advertising agency seems to have
+        it all. But when he takes on a protégée to save a major account, he gets
+        far more help than he bargained for.</image:caption
+      >
+      <image:title>A Job to Kill For</image:title>
+    </image:image>
+  </url>
+</urlset>

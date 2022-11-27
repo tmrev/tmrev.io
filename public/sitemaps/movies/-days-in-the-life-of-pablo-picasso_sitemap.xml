@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/700675-13 Days in the Life of Pablo Picasso</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/700675-13 Days in the Life of Pablo Picasso</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yGXxxECILZeUXccbjgA6QTf0tPI.jpg</image:loc
+      >
+      <image:caption
+        >A French documentary charting the life of the Spanish artist Pablo
+        Picasso through the events of 13 significant days of his life, including
+        his marriage to Olga Kokhlova, the birth of his daughter, the bombing of
+        Guernica and the death of Stalin. Archive footage of Picasso, his lover
+        Françoise Gilot, writer Jean Cocteau, photographer Brassat and critic
+        Pierre Daix is accompanied by new interviews with Picasso's daughter
+        Maya and son Claude.</image:caption
+      >
+      <image:title>13 Days in the Life of Pablo Picasso</image:title>
+    </image:image>
+  </url>
+</urlset>

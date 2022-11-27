@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12832-A Woman in Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12832-A Woman in Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ZMkrrmR21rTibFzTeSCollOpbt.jpg</image:loc
+      >
+      <image:caption
+        >A nameless woman keeps a diary as the Russians invade Berlin in the
+        spring of 1945. She is in her early 30s, a patriotic journalist with
+        international credentials; her husband, Gerd, a writer, is an officer at
+        the Russian front. She speaks Russian and, for a day or two after the
+        invasion, keeps herself safe, but then the rapes begin. She resolves to
+        control her fate</image:caption
+      >
+      <image:title>A Woman in Berlin</image:title>
+    </image:image>
+  </url>
+</urlset>

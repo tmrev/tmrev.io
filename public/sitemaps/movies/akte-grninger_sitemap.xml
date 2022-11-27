@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253029-Akte Grüninger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253029-Akte Grüninger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3DZXFLyNyt4yBPZrFxm5aUip7ag.jpg</image:loc
+      >
+      <image:caption
+        >According to the Swiss documentary filmmaker Richard Dindo (1944), the
+        media want to make us believe that Swiss non-alignment during World War
+        II was only a thin veneer around Nazi sympathies and anti-Semitic
+        feelings. This stirred his interest in the story of Paul Grüninger, a
+        Swiss policeman who in the late thirties provided false travel documents
+        to hundreds of Jews who had fled from Austria.</image:caption
+      >
+      <image:title>Akte Grüninger</image:title>
+    </image:image>
+  </url>
+</urlset>

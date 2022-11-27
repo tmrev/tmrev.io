@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/90501-Aerosmith: Live at Javits Center</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/90501-Aerosmith: Live at Javits Center</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Near Perfect quality broadcast recording of Aerosmith, live at the
+        Javits Center, in New York City, on May 4th, 2007. This is the Robin
+        Hood Foundation benefit show, and I can’t rave enough about the quality
+        of this recording. Total running time is 89 minutes, quality is
+        10/10.</image:caption
+      >
+      <image:title>Aerosmith: Live at Javits Center</image:title>
+    </image:image>
+  </url>
+</urlset>

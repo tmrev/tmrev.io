@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/741492-America's Treasures</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/741492-America's Treasures</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gCeSqyGWzlErQNEv9GHqMtnVU4Z.jpg</image:loc
+      >
+      <image:caption
+        >From the desk on which Jefferson wrote the Declaration of Independence
+        to Dorothy's ruby slippers, the National Museum of American History
+        houses many of America's greatest treasures and icons. Learn the stories
+        of how they came to be a part of the museum's collection, and meet the
+        people who have restored some of these treasures.</image:caption
+      >
+      <image:title>America's Treasures</image:title>
+    </image:image>
+  </url>
+</urlset>

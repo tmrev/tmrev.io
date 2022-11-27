@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348678-A Man Called Ove</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348678-A Man Called Ove</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g5SkS5dJudFZMQiB925PxfwzFa6.jpg</image:loc
+      >
+      <image:caption
+        >Despite being deposed as president of his condominium association,
+        grumpy 59-year-old Ove continues to watch over his neighbourhood with an
+        iron fist. When pregnant Parvaneh and her family move into the terraced
+        house opposite Ove and she accidentally back into Ove’s mailbox, it sets
+        off a series of unexpected changes in his life.</image:caption
+      >
+      <image:title>A Man Called Ove</image:title>
+    </image:image>
+  </url>
+</urlset>

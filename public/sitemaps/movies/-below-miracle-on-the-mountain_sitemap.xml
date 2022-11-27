@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/423087-6 Below: Miracle on the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/423087-6 Below: Miracle on the Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wgHFllRwPp5CUVbWNmQGX6lRBWt.jpg</image:loc
+      >
+      <image:caption
+        >An adrenaline seeking snowboarder gets lost in a massive winter storm
+        in the back country of the High Sierras where he is pushed to the limits
+        of human endurance and forced to battle his own personal demons as he
+        fights for survival....</image:caption
+      >
+      <image:title>6 Below: Miracle on the Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

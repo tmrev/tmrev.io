@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/459469-25,000 Miles to Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/459469-25,000 Miles to Glory</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6iDb8NuqNAAIJjHjCXEC2DOkN9P.jpg</image:loc
+      >
+      <image:caption
+        >A sports wanderlust by three guys to visit every NFL stadium in the
+        iconic vehicle that has inspired countless road trips and captivated the
+        world a split window VW Bus named Hail Mary. Three guys one 1967 VW Bus
+        and 25,000 miles of American roadways. Its about people, the community
+        of NFL fans and VW enthusiasts alike. It's about emotional ties to teams
+        bizarre infatuation and just down right love for the sport. The film is
+        a 25,000 mile journey to glory documenting the human spirit through
+        freedom friendship sports and America.</image:caption
+      >
+      <image:title>25,000 Miles to Glory</image:title>
+    </image:image>
+  </url>
+</urlset>

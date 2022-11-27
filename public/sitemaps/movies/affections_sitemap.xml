@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/135290-Affections</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/135290-Affections</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A teenage girl gets in the middle conflicts with her ex-boyfriend and
+        her new interest. Her ex is a leader of a group of delinquents and her
+        interest has a sickness that he has trouble revealing, which is the
+        ability to resurrect from the dead.</image:caption
+      >
+      <image:title>Affections</image:title>
+    </image:image>
+  </url>
+</urlset>

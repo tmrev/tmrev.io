@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334522-Alone in Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334522-Alone in Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8BuRgEY3dMw8usxelybUS1K3NMd.jpg</image:loc
+      >
+      <image:caption
+        >Berlin in June of 1940. While Nazi propaganda celebrates the regime’s
+        victory over France, a kitchen-cum-living room in Prenzlauer Berg is
+        filled with grief. Anna and Otto Quangel’s son has been killed at the
+        front. This working class couple had long believed in the ‘Führer’ and
+        followed him willingly, but now they realise that his promises are
+        nothing but lies and deceit. They begin writing postcards as a form of
+        resistance and in a bid to raise awareness: Stop the war machine! Kill
+        Hitler! Putting their lives at risk, they distribute these cards in the
+        entrances of tenement buildings and in stairwells. But the SS and the
+        Gestapo are soon onto them, and even their neighbours pose a
+        threat.</image:caption
+      >
+      <image:title>Alone in Berlin</image:title>
+    </image:image>
+  </url>
+</urlset>

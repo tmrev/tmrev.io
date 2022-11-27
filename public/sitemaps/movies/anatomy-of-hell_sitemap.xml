@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2003-Anatomy of Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2003-Anatomy of Hell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/svdWeuyVrXzlaV9rCqdzmn8z4oK.jpg</image:loc
+      >
+      <image:caption
+        >A man rescues a woman from a suicide attempt in a gay nightclub.
+        Walking the streets together, she propositions him: She'll pay him to
+        visit her at her isolated house for four consecutive nights. There he
+        will silently watch her. He's reluctant, but agrees. As the four nights
+        progress, they become more intimate with each other, and a mutual
+        fascination/revulsion develops. By the end of the four-day "contract",
+        these two total strangers will have had a profound impact on each
+        other.</image:caption
+      >
+      <image:title>Anatomy of Hell</image:title>
+    </image:image>
+  </url>
+</urlset>

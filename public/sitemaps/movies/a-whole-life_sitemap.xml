@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/446934-A Whole Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/446934-A Whole Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1nqHRjwwi2wRh7ImFaNM4plMUKN.jpg</image:loc
+      >
+      <image:caption
+        >A Whole Life is a love story set in Sao Paulo between two young adults
+        in their thirties. The film portraits the concerns and aspirations of an
+        entire generation of independent young adults, who are focused on their
+        careers and lack affection. You could fit a lifetime between a couple's
+        first night together and the premonition of an impending
+        breakup.</image:caption
+      >
+      <image:title>A Whole Life</image:title>
+    </image:image>
+  </url>
+</urlset>

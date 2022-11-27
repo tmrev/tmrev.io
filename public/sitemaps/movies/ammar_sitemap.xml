@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/774149-Ammar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/774149-Ammar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aqdAk6jFQN80ecSJz3ZZ7HnCsRD.jpg</image:loc
+      >
+      <image:caption
+        >The events of the film revolve around an unfortunate family that
+        arrives at the Al-Gharib palace, and the joy of the couple and their
+        three sons in their new home soon dissipates after the house gradually
+        begins to absorb them one by one into a terrifying world full of old
+        crimes that occurred between its walls, or that the ill-fated walls were
+        behind those crimes.</image:caption
+      >
+      <image:title>Ammar</image:title>
+    </image:image>
+  </url>
+</urlset>

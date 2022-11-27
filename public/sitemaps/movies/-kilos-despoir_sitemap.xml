@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272003-35 kilos d'espoir</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272003-35 kilos d'espoir</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lE1UE7M0JiWglx4kiDMSZrlSlM7.jpg</image:loc
+      >
+      <image:caption
+        >The film is based on a novel by Anna Gavalda, and adapted for the small
+        screen by M. Langlois and Veronique Lecharpy. The idea that a formal
+        academic school program is traditionally seen as the way for young minds
+        to be formed and molded, yet how many children that are deemed failures
+        by the same system go on to make names for themselves as they discover
+        fields and subjects not taught by the educational establishment
+        world-wide.</image:caption
+      >
+      <image:title>35 kilos d'espoir</image:title>
+    </image:image>
+  </url>
+</urlset>

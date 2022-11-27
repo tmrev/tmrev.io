@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/404051-All the World in a Design School</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/404051-All the World in a Design School</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gMy1oQj4dq4YbvgQG9I6z3Dk0JX.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about an eclectic group of students from all corners of the
+        planet at one of the world's top industrial design schools in Sweden's
+        faraway north just below the Arctic Circle. The film explores everyday
+        life and dynamic design processes at Umeå Institute of Design during the
+        school's 25th anniversary when traditionally generous and export-driven
+        Sweden has decided to impose steep tuition fees for non-Europeans, the
+        very students instrumental in making the school what it is
+        today.</image:caption
+      >
+      <image:title>All the World in a Design School</image:title>
+    </image:image>
+  </url>
+</urlset>

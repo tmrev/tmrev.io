@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/147877-A Film About Coffee</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/147877-A Film About Coffee</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7YZf1qK3JcFIDtsPvHwUZoXt106.jpg</image:loc
+      >
+      <image:caption
+        >"A Film About Coffee" is a love letter to, and meditation on, specialty
+        coffee. It examines what it takes, and what it means, for coffee to be
+        defined as "specialty." The film whisks audiences on a trip around the
+        world, from farms in Honduras and Rwanda to coffee shops in Tokyo,
+        Portland, Seattle, San Francisco and New York. Through the eyes and
+        experiences of farmers and baristas, the film offers a unique overview
+        of all the elements-the processes, preferences and preparations;
+        traditions old and new-that come together to create the best cups. This
+        is a film that bridges gaps both intellectual and geographical, evoking
+        flavor and pleasure, and providing both as well.</image:caption
+      >
+      <image:title>A Film About Coffee</image:title>
+    </image:image>
+  </url>
+</urlset>

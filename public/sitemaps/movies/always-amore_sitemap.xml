@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/937110-Always Amore</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/937110-Always Amore</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dPJMl05qBhE98cwQz4TCfhPaQ2m.jpg</image:loc
+      >
+      <image:caption
+        >The movie centers around Elizabeth who, with the support of her
+        mother-in-law Nonna, is doing everything she can to keep her late
+        husband’s once acclaimed — but now struggling — Italian restaurant
+        afloat. With business going downhill, she is forced to work with a
+        professional restaurant consultant, Ben, to see if they can turn things
+        around. At first, Elizabeth resists the changes Ben believes will save
+        the restaurant, but as they get closer, Elizabeth realizes that not all
+        change is bad. She rediscovers her passion for baking and might even
+        open her heart to new love.</image:caption
+      >
+      <image:title>Always Amore</image:title>
+    </image:image>
+  </url>
+</urlset>

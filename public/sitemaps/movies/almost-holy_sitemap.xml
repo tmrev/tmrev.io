@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333097-Almost Holy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333097-Almost Holy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qMaKRyGfECjC8LRqIarqYPEuCQ6.jpg</image:loc
+      >
+      <image:caption
+        >After the collapse of the Soviet Union, Ukraine's social and political
+        institutions faced massive change, including an increasingly corrupt
+        government and crippled infrastructure. A number of the nation's youth
+        wound up homeless and addicted to a lethal cocktail of injected cold
+        medicine and alcohol. In the early 2000s a pastor from Mariupol named
+        Gennadiy Mokhnenko took up the fight against child homelessness by
+        forcibly abducting street kids and bringing them to his Pilgrim Republic
+        rehabilitation center—the largest organization of its kind in the former
+        Soviet Union. Gennadiy's ongoing efforts and unabashedly tough love
+        approach to his city's problems has made him a folk hero for some, and a
+        lawless vigilante to others. Despite criticism, Gennadiy is determined
+        to continue his work.</image:caption
+      >
+      <image:title>Almost Holy</image:title>
+    </image:image>
+  </url>
+</urlset>

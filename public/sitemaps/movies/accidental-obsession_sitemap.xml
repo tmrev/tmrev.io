@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/351986-Accidental Obsession</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/351986-Accidental Obsession</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5D5rSZdB5Gmm5lbhFN4nNv6H9jA.jpg</image:loc
+      >
+      <image:caption
+        >A lawyer is riding high after putting a notorious swindler behind bars,
+        but has to look over her shoulder when a woman she meets in a traffic
+        accident is not all she appears to be.</image:caption
+      >
+      <image:title>Accidental Obsession</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586267-And Why Not?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586267-And Why Not?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rJPkvfhA63oMVoGpeqt4k4zMQds.jpg</image:loc
+      >
+      <image:caption
+        >Virginie, a charming young woman, has an appointment with a friend
+        recently rediscovered on Facebook. In the cafe, a young man, Leonard
+        takes advantage of her falsified delay of the appointment to approach
+        her. What may seem like a simple attempt at seduction may be a more
+        Machiavellian strategy. Leonard was once Leonore and Virginie's
+        lover.</image:caption
+      >
+      <image:title>And Why Not?</image:title>
+    </image:image>
+  </url>
+</urlset>

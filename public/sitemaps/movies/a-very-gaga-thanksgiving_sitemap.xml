@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/93897-A Very Gaga Thanksgiving</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/93897-A Very Gaga Thanksgiving</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hvuPVGDzGNQgcwBsyJD8aoMPQFW.jpg</image:loc
+      >
+      <image:caption
+        >An intimate look inside the private life of award-winning artist Lady
+        Gaga as she performs eight songs in front of a small audience filled
+        with her close friends and family.</image:caption
+      >
+      <image:title>A Very Gaga Thanksgiving</image:title>
+    </image:image>
+  </url>
+</urlset>

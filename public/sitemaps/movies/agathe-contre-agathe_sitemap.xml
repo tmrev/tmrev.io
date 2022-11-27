@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/102003-Agathe contre Agathe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/102003-Agathe contre Agathe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/voQGHcrYutFF1kVp7LLj7h261pR.jpg</image:loc
+      >
+      <image:caption
+        >Agathe is turning 30 and has finished her thesis on secret societies in
+        France. A young woman is found dead in the Seine, murdered for a
+        specific ritual. She is an image of Agathe, has the same first name and
+        is similarly dressed. The traces lead to one of the secret societies
+        this included in Agathe's study.</image:caption
+      >
+      <image:title>Agathe contre Agathe</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/111913-A2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/111913-A2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/scJ1t0H78Cbmu8vJ5t25YybGzuW.jpg</image:loc
+      >
+      <image:caption
+        >A2 is a continuation of director Tatsuya Mori's film A (1998), an
+        incredible view inside the compound of Japan's Aum Shinrikyo cult after
+        its leaders carried out the deadly sarin gas attacks on the Tokyo subway
+        in 1995. Most followers had no idea that the attacks were being planned,
+        or even that their new religion had violent aspirations. After the
+        attacks, these followers were left to rebuild the religion where they
+        had once found peace in the face of overwhelming, and understandable,
+        condemnation from the rest of Japan. Central focus is placed on Hiroshi
+        Araki, a young man who finds himself elevated to chief spokesman for Aum
+        after its leaders are arrested. Araki faces extreme hostility from the
+        Japanese public, who find it hard to believe that most followers of the
+        cult had no idea of the attacks and even harder to understand why these
+        followers remain devoted to the religion, if not the
+        violence.</image:caption
+      >
+      <image:title>A2</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300599-A Rose Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300599-A Rose Reborn</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vl0t95eiVNVFD8OucoMM0ANANk2.jpg</image:loc
+      >
+      <image:caption
+        >A brilliant young CEO from London contemplates the possibility of
+        selling his invention to a mysterious Chinese billionaire. Before
+        actually meeting his potential investor however our protagonist must
+        face a number of challenges in the form of journeys, riddles and the
+        exchange of clothes.</image:caption
+      >
+      <image:title>A Rose Reborn</image:title>
+    </image:image>
+  </url>
+</urlset>

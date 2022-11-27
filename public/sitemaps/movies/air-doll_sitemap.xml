@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25053-Air Doll</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25053-Air Doll</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gzqYtQCTTFKyBpMH4cQKuVKPJah.jpg</image:loc
+      >
+      <image:caption
+        >A life-size, inflatable sex doll suddenly comes to life one day.
+        Without her owner knowing, she goes for a walk around town and falls in
+        love with Junichi. She starts to date Junichi and gets a job at the same
+        store where he works. Everything seems to be going perfect for her until
+        something unexpected happens.</image:caption
+      >
+      <image:title>Air Doll</image:title>
+    </image:image>
+  </url>
+</urlset>

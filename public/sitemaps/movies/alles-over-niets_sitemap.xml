@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297047-Alles over niets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297047-Alles over niets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/395ezuWPp7YzOATQgJNCacqDYLP.jpg</image:loc
+      >
+      <image:caption
+        >A young woman struggling with daily life starts to wonder how her
+        laid-back boyfriend gets to be so damn okay with
+        everything.</image:caption
+      >
+      <image:title>Alles over niets</image:title>
+    </image:image>
+  </url>
+</urlset>

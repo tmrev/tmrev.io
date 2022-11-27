@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9429-A Night at the Roxbury</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9429-A Night at the Roxbury</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg</image:loc
+      >
+      <image:caption
+        >Despite being well into adulthood, brothers Doug and Steve Butabi still
+        live at home and work in the flower shop owned by their dad. They exist
+        only to hit on women at discos, though they're routinely unsuccessful
+        until a chance run-in with Richard Grieco gets them inside the swank
+        Roxbury club. Mistaken for high rollers, they meet their dream women,
+        Vivica and Cambi, and resolve to open a club of their
+        own.</image:caption
+      >
+      <image:title>A Night at the Roxbury</image:title>
+    </image:image>
+  </url>
+</urlset>

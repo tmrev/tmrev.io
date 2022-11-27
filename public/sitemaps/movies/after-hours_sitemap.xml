@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/620911-After Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/620911-After Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rvlrx8lpKLYUW4AJT6O4jd5Xx0M.jpg</image:loc
+      >
+      <image:caption
+        >Shooting on 8mm film and making field recordings on cassette tape,
+        recorded patterns of light and sound become a low quality, dreamlike
+        plane of stillness, silence and uncertainty, exploring the passing of
+        time through the study of vacant institutional spaces. The transitory
+        spaces of these mundane but haunting buildings become an obsolete
+        reality of forgotten ideals, the filmstrip itself a receiver of these
+        resonances.</image:caption
+      >
+      <image:title>After Hours</image:title>
+    </image:image>
+  </url>
+</urlset>

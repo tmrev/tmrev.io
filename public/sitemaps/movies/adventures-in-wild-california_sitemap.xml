@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62526-Adventures in Wild California</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62526-Adventures in Wild California</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sNxxlD33PkWHQ7jF7RfnY14Pg1T.jpg</image:loc
+      >
+      <image:caption
+        >A visit to many of the places and people that give California its
+        reputation as a place of extremes. Among the major segments: Sky surfing
+        in the San Diego area; the movies, including a trip down the Oscar
+        ceremony red carpet, the shooting of a stagecoach ride, and some
+        memories of Walt Disney, including a roller coaster ride in Disneyland;
+        some snowboarding and skiing stunts; a trip to the top, and then deep
+        inside, some giant sequoias; biologists working with otters and bald
+        eagle hatchlings; and a trip to the top of the Golden Gate bridge with
+        the ironworkers who maintain it</image:caption
+      >
+      <image:title>Adventures in Wild California</image:title>
+    </image:image>
+  </url>
+</urlset>

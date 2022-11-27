@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/660715-After Blue (Dirty Paradise)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/660715-After Blue (Dirty Paradise)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1hA3kVAAl07A1arS9bZuBCiemLS.jpg</image:loc
+      >
+      <image:caption
+        >In a distant future, on a savage planet, the lonely teenager Roxy frees
+        a criminal buried in the sand. Once freed, the woman starts spreading
+        fear and death again. Roxy and her mother Zora are deemed responsible,
+        exiled from their community and sentenced to track down the killer.
+        Thus, they begin roaming the fantastical and spectral territories of
+        their dirty paradise.</image:caption
+      >
+      <image:title>After Blue (Dirty Paradise)</image:title>
+    </image:image>
+  </url>
+</urlset>

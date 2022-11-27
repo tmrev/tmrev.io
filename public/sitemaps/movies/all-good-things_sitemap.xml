@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/619141-All Good Things</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/619141-All Good Things</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ArqTo1ZIOZeGZFMNKCCXSw8hmB7.jpg</image:loc
+      >
+      <image:caption
+        >Two big-city teenage sisters are sent to their grandparents' farm for
+        Christmas break against their wishes. While there, the sisters connect
+        to their roots and help save the farm from foreclosure.</image:caption
+      >
+      <image:title>All Good Things</image:title>
+    </image:image>
+  </url>
+</urlset>

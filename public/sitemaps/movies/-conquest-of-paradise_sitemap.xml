@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1492-1492: Conquest of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1492-1492: Conquest of Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xVEynmeq8ElU4ambRaJbXPn0CPC.jpg</image:loc
+      >
+      <image:caption
+        >1492: Conquest of Paradise depicts Christopher Columbus’ discovery of
+        The New World and his effect on the indigenous people.</image:caption
+      >
+      <image:title>1492: Conquest of Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

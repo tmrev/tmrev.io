@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/175040-A Chorus of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/175040-A Chorus of Angels</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5tpasLPO5pscGBKfl8TqvzrLswW.jpg</image:loc
+      >
+      <image:caption
+        >Teacher Kawashima Haru takes a position on a remote island off the
+        coast of Hokkaido, where she takes charge of six students. However, she
+        is later forced to leave after an accident occurs. 20 years later, Haru
+        learns that one of her former students has committed a crime, and
+        eventually returns to the island once more.</image:caption
+      >
+      <image:title>A Chorus of Angels</image:title>
+    </image:image>
+  </url>
+</urlset>

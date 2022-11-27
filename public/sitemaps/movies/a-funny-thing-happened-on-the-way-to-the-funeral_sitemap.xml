@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/637275-A Funny Thing Happened on the Way to the
+      Funeral</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/637275-A Funny Thing Happened on the Way to the
+      Funeral</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/59kfQipF9MoCt06gnmbQUaaF5FH.jpg</image:loc
+      >
+      <image:caption
+        >An unpleasant employee at a firm of undertakers gets the chance to
+        change his life after something - strange happens on the way to the
+        funeral.</image:caption
+      >
+      <image:title
+        >A Funny Thing Happened on the Way to the Funeral</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

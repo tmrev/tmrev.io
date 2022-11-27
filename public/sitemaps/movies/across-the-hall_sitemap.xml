@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21469-Across the Hall</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21469-Across the Hall</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9B4iKnTMY1mdNj441l0y0iFxj23.jpg</image:loc
+      >
+      <image:caption
+        >Convinced that his fiancee is cheating on him, a man follows her to a
+        hotel and calls his best friend to help him avoid a
+        calamity.</image:caption
+      >
+      <image:title>Across the Hall</image:title>
+    </image:image>
+  </url>
+</urlset>

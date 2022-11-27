@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/990222-American Noir in Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/990222-American Noir in Paris</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sSNuy0ezRlS8xVowMGXK7r9bZnI.jpg</image:loc
+      >
+      <image:caption
+        >One man's coming of age in the City of Lights with a soundtrack from
+        Pianist/Compser/Arranger - Kenn Cox of the Contemporary Jazz
+        Quartet.</image:caption
+      >
+      <image:title>American Noir in Paris</image:title>
+    </image:image>
+  </url>
+</urlset>

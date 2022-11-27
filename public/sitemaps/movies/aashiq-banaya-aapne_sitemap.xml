@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49496-Aashiq Banaya Aapne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49496-Aashiq Banaya Aapne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AoK87XkGXwPsUThzWhQGZcxHR0f.jpg</image:loc
+      >
+      <image:caption
+        >An introvert is unable to express his feelings to the girl he loves.
+        His friend proposes to her and she accepts, but leaves him when she
+        discovers he is a flirt; however, destiny has other
+        plans.</image:caption
+      >
+      <image:title>Aashiq Banaya Aapne</image:title>
+    </image:image>
+  </url>
+</urlset>

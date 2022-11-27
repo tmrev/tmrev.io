@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/375157-A Class to Remember 4: Fifteen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/375157-A Class to Remember 4: Fifteen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/efosWNVX02pCL7mru83xnsOCoXg.jpg</image:loc
+      >
+      <image:caption
+        >Bored with school, 15-year-old Daisuke Kawashima embarks on a
+        pilgrimage to visit the 7,000-year-old cedar tree on distant Yakushima
+        Island. Through his journey, Daisuke meets a number of interesting
+        people, including friendly truck driver Sumire and a mysterious
+        mountaineer girl.</image:caption
+      >
+      <image:title>A Class to Remember 4: Fifteen</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/819020-Agniputra</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/819020-Agniputra</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sS6iUnuIb7HLWrADGxAyHXIvjiT.jpg</image:loc
+      >
+      <image:caption
+        >Arjun, a devoted son and brother, loves his mother and three sisters
+        dearly. He sacrifices his love and happiness to safeguard his family
+        against all odds.</image:caption
+      >
+      <image:title>Agniputra</image:title>
+    </image:image>
+  </url>
+</urlset>

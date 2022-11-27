@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/149872-Addicted to Acting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/149872-Addicted to Acting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Ernst Busch Academy is one of Germany's best respected acting
+        schools, and every year hundreds of would-be thespians apply in hopes
+        that they'll be chosen for their rigorous program of study. Filmmaker
+        Andres Veiel chose four students at random as they were accepted at the
+        Busch Academy, and in the documentary Die Spielwuetigen, he allows us to
+        eavesdrop on them as they spend four years learning their craft and
+        growing from callow youngsters to adults in search of their big
+        break.</image:caption
+      >
+      <image:title>Addicted to Acting</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85219-Amexica</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85219-Amexica</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >AMEXICA is the story of a young boy from Mexico who is sold by a human
+        trafficking ring to two con artists from Los Angeles with a get rich
+        scheme. They portray him as their son, extorting money from innocent
+        people by risking the boy's life in staged automobile accidents.
+        Trapped, alone with his captors, and unable to speak for himself, the
+        boy decides to take his fate into his own hands, forever changing the
+        lives of the people around him. Amexica takes a different approach in
+        the exploration of human trafficking, showing the unexpected fallout of
+        human chemistry from the captors and the victim's point of
+        view.</image:caption
+      >
+      <image:title>Amexica</image:title>
+    </image:image>
+  </url>
+</urlset>

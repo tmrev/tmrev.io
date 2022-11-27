@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/282128-An American in Hollywood</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/282128-An American in Hollywood</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z3SsH54ciYv0LhLtxxYmAipvk8D.jpg</image:loc
+      >
+      <image:caption
+        >A talented young filmmaker from New York sets off to Los Angeles in
+        pursuit of the Hollywood dream, only to discover through his
+        relationship with a beautiful feisty young actress, that Hollywood is
+        not all that it seems.</image:caption
+      >
+      <image:title>An American in Hollywood</image:title>
+    </image:image>
+  </url>
+</urlset>

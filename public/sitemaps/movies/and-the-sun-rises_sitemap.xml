@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1030025-And the Sun Rises</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1030025-And the Sun Rises</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Nika is taking care of his paralysed abusive father, Sandro, in a
+        run-down suburban family house near Tbilisi, soon to be sold. When
+        Nastya, Nika’s girlfriend, arrives unannounced, Sandro unleashes his
+        manipulative powers to the fullest.</image:caption
+      >
+      <image:title>And the Sun Rises</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332590-A Good Madness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332590-A Good Madness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This feature documentary captures the essence of the woman and power of
+        the dance created by Rachel Browne (1934-2012), Canadian modern dance
+        icon and founder of Canada's oldest professional modern dance company,
+        Winnipeg's Contemporary Dancers. The film seeks a visceral and visual
+        understanding of Rachel Browne, through her body of dance work, the
+        bodies and souls of the artists who have danced with her, and through
+        her voice and that of her family. Despite challenges and personal
+        trauma, and because of them, Rachel Browne chose to survive and to
+        adapt, exposing a raw desire to create dance to the exclusion of all
+        else.</image:caption
+      >
+      <image:title>A Good Madness</image:title>
+    </image:image>
+  </url>
+</urlset>

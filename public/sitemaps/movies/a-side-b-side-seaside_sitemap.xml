@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121451-A Side, B Side, Seaside</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121451-A Side, B Side, Seaside</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Chen Tian is a schoolgirl in Hong Kong about to leave to study at a
+        university in Beijing. Before she leaves for good, she decided to spend
+        an unforgettable trip with her best friend in a distant fishing village.
+        There she discovers love for the first time. At the same village, Ah Mei
+        who had a tough time in the city comes back home to the village to
+        revisit her past. She finds herself reuniting with two boys from her
+        childhood.</image:caption
+      >
+      <image:title>A Side, B Side, Seaside</image:title>
+    </image:image>
+  </url>
+</urlset>

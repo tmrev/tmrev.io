@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541883-A. I. Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541883-A. I. Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4iDRnAhLT0O3KNi63qZORDm24OL.jpg</image:loc
+      >
+      <image:caption
+        >The film is made up of futuristic, high concept stories about
+        artificial intelligence. Whether it's love found in time of
+        over-population or exploration of the unknown and space-travel, "A.I.
+        Tales" has a bit of something for every fan of the genre. Altogether,
+        these stories provide a one-of-a-kind experience and a unique view of
+        the near future.</image:caption
+      >
+      <image:title>A. I. Tales</image:title>
+    </image:image>
+  </url>
+</urlset>

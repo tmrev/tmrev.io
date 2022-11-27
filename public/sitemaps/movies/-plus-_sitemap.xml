@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104194-10 Plus 10</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104194-10 Plus 10</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7jgTH8Qmu4SsoU7a3QV65I1joeI.jpg</image:loc
+      >
+      <image:caption
+        >10+10 is a project initiated by the Taipei Golden Horse Film Festival
+        to demonstrate the solidarity between Taiwanese film-makers. 20
+        directors are invited to make a 5-minute short film each on the theme of
+        the “Uniqueness of Taiwan,” but allowed total freedom in all other
+        aspects.</image:caption
+      >
+      <image:title>10 Plus 10</image:title>
+    </image:image>
+  </url>
+</urlset>

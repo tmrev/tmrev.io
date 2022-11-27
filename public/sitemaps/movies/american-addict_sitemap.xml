@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/252385-American Addict</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/252385-American Addict</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ow6JBpwLHnTAiJTgx0TiA4E17Kq.jpg</image:loc
+      >
+      <image:caption
+        >Riveting look at the politics, big business and the medical industry
+        that has made America the most prescription-addicted society in the
+        world. America is less than 5% of the World's population but consumes
+        80% of the World's prescription narcotics. We have gone from being the
+        land of the free to the land of the addicted.</image:caption
+      >
+      <image:title>American Addict</image:title>
+    </image:image>
+  </url>
+</urlset>

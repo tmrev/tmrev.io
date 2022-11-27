@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81390-A Lonely Place to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81390-A Lonely Place to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pzRJScaZISt5Tzawime4X3KELQH.jpg</image:loc
+      >
+      <image:caption
+        >A group of five mountaineers are hiking and climbing in the Scottish
+        Highlands when they discover a young Serbian girl buried in a small
+        chamber in the wilderness. They become caught up in a terrifying game of
+        cat and mouse with the kidnappers as they try to get the girl to
+        safety.</image:caption
+      >
+      <image:title>A Lonely Place to Die</image:title>
+    </image:image>
+  </url>
+</urlset>

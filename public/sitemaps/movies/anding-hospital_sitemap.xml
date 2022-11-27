@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/830847-Anding Hospital</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/830847-Anding Hospital</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bohameRcLNvCqNDAZqirq94Mczi.jpg</image:loc
+      >
+      <image:caption
+        >Doctor Liu, a work and entertainment therapist in a mental hospital,
+        uses drama rehearsals to let mental patients who have basically
+        recovered in the hospital re-enter the society, learn to be grateful,
+        and get along with others in harmony.</image:caption
+      >
+      <image:title>Anding Hospital</image:title>
+    </image:image>
+  </url>
+</urlset>

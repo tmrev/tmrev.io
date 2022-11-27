@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/721049-A Ilha dos Escravos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/721049-A Ilha dos Escravos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rdu0OiBACtACcmlX23VganyerzP.jpg</image:loc
+      >
+      <image:caption
+        >After a violent civil war, D. Miguel, the last Portuguese absolutist
+        king, is defeated by the liberals, led by his brother D. Pedro. In 1834
+        D. Miguel left for exile. His supporters don't give up on returning him
+        to the throne. Willing to do anything they even try to use the slaves of
+        the colonies. A mysterious emissary is sent to Cape Verde to prepare an
+        uprising. But other reasons were behind his visit to the archipelago
+        ....</image:caption
+      >
+      <image:title>A Ilha dos Escravos</image:title>
+    </image:image>
+  </url>
+</urlset>

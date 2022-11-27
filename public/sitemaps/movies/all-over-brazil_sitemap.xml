@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/305575-All Over Brazil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/305575-All Over Brazil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k5C3xX6H2f2kgU2NKKJCByyLozt.jpg</image:loc
+      >
+      <image:caption
+        >With Scotland in the World Cup in 1974, Stephen (Iain de Caestecker) is
+        more into Glam Rock than football. A story of a family coming to terms
+        with change in uncertain times.</image:caption
+      >
+      <image:title>All Over Brazil</image:title>
+    </image:image>
+  </url>
+</urlset>

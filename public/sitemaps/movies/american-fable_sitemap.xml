@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381064-American Fable</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381064-American Fable</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8nPw1b17fsM4xxyKs1iuGLmufOq.jpg</image:loc
+      >
+      <image:caption
+        >When 11-year-old Gitty discovers that her father, Abe, a good and
+        beloved farmer, is holding a wealthy man hostage in their abandoned silo
+        in order to save their suffering farm, she befriends the captive in
+        secret. As the truth unfolds about who he is and what will happen if he
+        escapes, Gitty chooses to confront the thin line between reality and
+        fiction.</image:caption
+      >
+      <image:title>American Fable</image:title>
+    </image:image>
+  </url>
+</urlset>

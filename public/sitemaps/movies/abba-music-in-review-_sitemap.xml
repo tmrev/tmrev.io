@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1040009-ABBA: Music in Review 1973-1982</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1040009-ABBA: Music in Review 1973-1982</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/588vGPYdyBt87V0G3m5cIvlaq5p.jpg</image:loc
+      >
+      <image:caption
+        >ABBA was extremely successful in the 1970s and 1980s and sold over 400
+        million records worldwide. Their music is still extremely influential
+        and had a massive renaissance through the global influence of the stage
+        phenomenon 'Mamma Mia'. Using rare archival footage, a team of music
+        critics and active musicians reviews every ABBA album, from the
+        pre-'Waterloo' era until 'The Visitors'.</image:caption
+      >
+      <image:title>ABBA: Music in Review 1973-1982</image:title>
+    </image:image>
+  </url>
+</urlset>

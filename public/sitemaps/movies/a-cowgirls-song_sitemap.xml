@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/945982-A Cowgirl's Song</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/945982-A Cowgirl's Song</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7iIFOMG6IR3ZJmCfnM9RdJTykRi.jpg</image:loc
+      >
+      <image:caption
+        >An aspiring but adrift teen singer goes to live with her grandmother,
+        once a country music legend, but has fallen on hard times after the
+        death of her husband five years earlier. Together, they overcome
+        adversity and find redemption through their love of
+        music.</image:caption
+      >
+      <image:title>A Cowgirl's Song</image:title>
+    </image:image>
+  </url>
+</urlset>

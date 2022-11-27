@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24424-Ajami</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24424-Ajami</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oL2INtBiEx6lnaJDeIi7X7TE95s.jpg</image:loc
+      >
+      <image:caption
+        >Ajami is an area of Tel Aviv in Israel where Arabs, Palestinians, Jews
+        and Christians live together in a tense atmosphere. Omar, an Israeli
+        Arab, struggles to save his family from a gang of extortionists. He also
+        courts a beautiful Christian girl: Hadir. Malek, an illegal Palestinian
+        worker, tries to collect enough money to pay for his mother's operation.
+        Dando, an Israeli cop, does his utmost to find his missing brother who
+        may have been killed by Palestinians.</image:caption
+      >
+      <image:title>Ajami</image:title>
+    </image:image>
+  </url>
+</urlset>

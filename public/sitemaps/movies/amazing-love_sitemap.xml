@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/98022-Amazing Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/98022-Amazing Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/guxl7fZWFgJZSciaVKmPIy0gtv0.jpg</image:loc
+      >
+      <image:caption
+        >Teen friends, Steve, Carrie, Cooper, and Gameboy embark on a weekend
+        camping trip lead by their church youth group leader Stuart (Sean Astin)
+        and his wife Beth (Erin Bethea). Joining them is an outsider Ashley, a
+        self-involved rich kid, whose attitude causes a major commotion within
+        the group, specifically between her and Carrie. Before it gets too out
+        of hand though, Stuart takes this opportunity to share with the kids the
+        incredibly powerful biblical story of Hosea; a story of immovable faith,
+        impeccable commitment, and impervious love.</image:caption
+      >
+      <image:title>Amazing Love</image:title>
+    </image:image>
+  </url>
+</urlset>

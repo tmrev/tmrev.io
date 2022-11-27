@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/539916-A for Adrienne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/539916-A for Adrienne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Adrienne is not my mother. She is not Jewish. I met her five years ago,
+        at Edouard’s, where I’d gone to ask my friend to lend me a dinner jacket
+        for the premiere of my film “Life Lessons”. She came to see the film and
+        we began to meet often (Boris Lehman).</image:caption
+      >
+      <image:title>A for Adrienne</image:title>
+    </image:image>
+  </url>
+</urlset>

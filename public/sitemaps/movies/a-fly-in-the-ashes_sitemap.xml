@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73640-A Fly in the Ashes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73640-A Fly in the Ashes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h7z1hbNEeS4iktlPr80tJifIKkF.jpg</image:loc
+      >
+      <image:caption
+        >Two close girlfriends come to Buenos Aires from the Northwest looking
+        for a better future, but they are victims of a hoax and should work in a
+        brothel. There, one of them will adapt to survive and the other will try
+        to flee.</image:caption
+      >
+      <image:title>A Fly in the Ashes</image:title>
+    </image:image>
+  </url>
+</urlset>

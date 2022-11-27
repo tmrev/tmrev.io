@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/790712-180: Clone Test</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/790712-180: Clone Test</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vGdJz9em1EpMFjWBu3BQzfOo2PP.jpg</image:loc
+      >
+      <image:caption
+        >A night spent writing at a local bar becomes a game of cat and mouse in
+        the desert, and comes to a head at a moment of
+        self-realization.</image:caption
+      >
+      <image:title>180: Clone Test</image:title>
+    </image:image>
+  </url>
+</urlset>

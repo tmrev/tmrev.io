@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8827-99 francs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8827-99 francs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8yj6tkyp7dvdzkkIasX2SUmZd81.jpg</image:loc
+      >
+      <image:caption
+        >Paris, France, 2001. Octave Parango, a young advertiser working at the
+        Ross & Witchcraft advertising agency, lives a suicidal existence, ruled
+        by cynicism, irresponsibility and debauchery. The obstacles he will
+        encounter in developing a campaign for a new yogurt brand will force him
+        to face the meaning of his work and the way he manages his relationship
+        with those who orbit around his egotistic lifestyle.</image:caption
+      >
+      <image:title>99 francs</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/786852-A Different War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/786852-A Different War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fJRbhcSyu2s0RJhQxCaFQaBNkI0.jpg</image:loc
+      >
+      <image:caption
+        >Although Nuni has been selected to play the lead (King David) in his
+        Jerusalem grade school play, he'd secretly rather play the princess role
+        instead.</image:caption
+      >
+      <image:title>A Different War</image:title>
+    </image:image>
+  </url>
+</urlset>

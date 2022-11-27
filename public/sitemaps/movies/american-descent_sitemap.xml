@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/385691-American Descent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/385691-American Descent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rGbYACEPndk6gogOUMKecrlviIV.jpg</image:loc
+      >
+      <image:caption
+        >In 2014, Sergeant First Class Stephen Harris edited and uploaded this
+        film. It was his message to the world. A group of teenagers are sent an
+        unlabeled DVD from a U.S. Army base in Afghanistan containing a video of
+        a strange woman tied to a tree. It ends with a clue. The teens follow
+        the clue to another and yet another, until what started out as a game
+        becomes a terrifying chase into the psychopathic mind of Harris. At the
+        end of the line, the teens' world comes full circle as they discover
+        they weren't just playing a game, they were pawns in a revenge plot only
+        a master of war could devise.</image:caption
+      >
+      <image:title>American Descent</image:title>
+    </image:image>
+  </url>
+</urlset>

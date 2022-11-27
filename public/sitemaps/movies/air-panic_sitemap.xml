@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71704-Air Panic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71704-Air Panic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/imi1PTynSw6lUd74DmVIRCpDdFm.jpg</image:loc
+      >
+      <image:caption
+        >FAA system analyzer named Neil McCabe is the only person who seems to
+        have this different hunch towards a group of international terrorists
+        after a horrific plane incident occured. He thinks that an evil genius
+        computer hacker sets out and manipulate the computer electronical system
+        which linked to several airplanes to cause destruction and tragedy. In
+        order to prevent the mishap, McCabe and his teammate, Rudy, finds out
+        about the machine used by the criminals which leads them to a psychotic
+        thrilling fight between the terrorist.</image:caption
+      >
+      <image:title>Air Panic</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49231-Afghan Knights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49231-Afghan Knights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qrWk9k1u7KE1OZArse3P782D46j.jpg</image:loc
+      >
+      <image:caption
+        >Haunted by the fact that he left a man behind in Afghanistan, a soldier
+        (Bacic) pulls together a special task force to save his
+        comrade.</image:caption
+      >
+      <image:title>Afghan Knights</image:title>
+    </image:image>
+  </url>
+</urlset>

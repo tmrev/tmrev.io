@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/631417-A Christmas Duet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/631417-A Christmas Duet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b3zMgAU9hppKmInnQgsmWUqaNqt.jpg</image:loc
+      >
+      <image:caption
+        >Former couple and pop music duo Averie and Jesse unexpectedly reunite
+        at her inn during the holidays. As they spend time together, they
+        rediscover long-buried feelings and must decide if they are meant to
+        live their lives solo or in harmony together.</image:caption
+      >
+      <image:title>A Christmas Duet</image:title>
+    </image:image>
+  </url>
+</urlset>

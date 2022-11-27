@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480912-Alien: Covenant - Prologue: Phobos</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480912-Alien: Covenant - Prologue: Phobos</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j9tcFn6k2E1Cs91qrf3VvrCIFvR.jpg</image:loc
+      >
+      <image:caption
+        >At a Weyland-Yutani facility on Phobos, several members of the crew for
+        the upcoming Covenant colony mission are subjected to psychological
+        tests to evaluate their suitability for the expedition.</image:caption
+      >
+      <image:title>Alien: Covenant - Prologue: Phobos</image:title>
+    </image:image>
+  </url>
+</urlset>

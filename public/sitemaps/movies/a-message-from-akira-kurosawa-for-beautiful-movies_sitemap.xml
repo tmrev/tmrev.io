@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/123561-A Message from Akira Kurosawa: For
+      Beautiful Movies</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/123561-A Message from Akira Kurosawa: For
+      Beautiful Movies</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/JLOBt14pcVVovRZ4iXdFtEWTlC.jpg</image:loc
+      >
+      <image:caption
+        >A Documentary in 10 parts covering the film making of Kurosawa around
+        the theme of making the perfect movie or as he says: A Beautiful
+        Movie.</image:caption
+      >
+      <image:title
+        >A Message from Akira Kurosawa: For Beautiful Movies</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/189203-All the President's Men Revisited</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/189203-All the President's Men Revisited</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vCJtVW6lZJDn2XiBhWSyVmnUvYj.jpg</image:loc
+      >
+      <image:caption
+        >The Watergate case was the original game changer of America politics.
+        How has Watergate changed the Presidency? What effect has the scandal
+        had on our political leaders? And has hope and optimism forever been
+        replaced in our national dialogue by doubt and cynicism? In 1973,
+        Watergate's most pivotal year, reporters Bob Woodward and Carl Bernstein
+        doggedly investigated the scandal exposing the long, twisted trail of
+        cover-ups and lies.</image:caption
+      >
+      <image:title>All the President's Men Revisited</image:title>
+    </image:image>
+  </url>
+</urlset>

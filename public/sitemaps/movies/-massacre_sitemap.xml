@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/512936-4/20 Massacre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/512936-4/20 Massacre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iCxcpHW6suXvpB6oHejSMk7bK3m.jpg</image:loc
+      >
+      <image:caption
+        >A group of five women go camping in the woods to celebrate a friend's
+        birthday over 4/20 weekend. But when they cross the turf of an illegal
+        marijuana grow operation they must struggle to survive the living
+        nightmare.</image:caption
+      >
+      <image:title>4/20 Massacre</image:title>
+    </image:image>
+  </url>
+</urlset>

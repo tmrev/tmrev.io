@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/710559-And She Could Be Next</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/710559-And She Could Be Next</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9OUnF3CH7Wcb6jiXvYXgK39aZTr.jpg</image:loc
+      >
+      <image:caption
+        >The story of a defiant movement of women of color transforming American
+        politics from the ground up. Filmed during the historic 2018 midterm
+        elections, the series follows organizers and candidates as they fight on
+        behalf of black, brown, immigrant and poor communities–long neglected by
+        politicians and pundits alike.</image:caption
+      >
+      <image:title>And She Could Be Next</image:title>
+    </image:image>
+  </url>
+</urlset>

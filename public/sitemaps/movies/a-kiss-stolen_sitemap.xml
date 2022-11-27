@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403430-A Kiss Stolen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403430-A Kiss Stolen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Stephen is about to enter University. He's been with his girlfriend
+        Sophia for a while but he still hasn't made love to her because she's
+        shy. When Stephen goes to University, he meets Amy and suddenly finds
+        himself torn between two women.</image:caption
+      >
+      <image:title>A Kiss Stolen</image:title>
+    </image:image>
+  </url>
+</urlset>

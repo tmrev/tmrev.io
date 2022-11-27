@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13187-A Charlie Brown Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13187-A Charlie Brown Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fyjTgd7iBfFphr5pvc0VC6nKj55.jpg</image:loc
+      >
+      <image:caption
+        >When Charlie Brown complains about the overwhelming materialism that he
+        sees amongst everyone during the Christmas season, Lucy suggests that he
+        become director of the school Christmas pageant. Charlie Brown accepts,
+        but is a frustrating struggle. When an attempt to restore the proper
+        spirit with a forlorn little fir Christmas tree fails, he needs Linus'
+        help to learn the meaning of Christmas.</image:caption
+      >
+      <image:title>A Charlie Brown Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

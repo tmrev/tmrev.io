@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/387510-A Terrible Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/387510-A Terrible Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yQXbmuTH05mhx7UOEROKqYvBVdI.jpg</image:loc
+      >
+      <image:caption
+        >A Terrible Beauty is the story of the men and women of the Easter
+        Rising in Dublin in 1916, Irish and British, caught up in a conflict
+        many did not understand and of the innocent men and boys, executed
+        because of what transpired in The Battle of Mount Street Bridge. The
+        British soldiers were the last of the Great War volunteers, who joined
+        up together to fight the Germans. They knew that there was a strong
+        chance they would die in France, but to die in Dublin would never have
+        crossed their minds. The Irish Volunteers were weekend warriors many of
+        whom had no idea they were about to take part in large scale battles on
+        the streets of Dublin.</image:caption
+      >
+      <image:title>A Terrible Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

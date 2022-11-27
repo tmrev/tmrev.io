@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/566574-A Fistful of Lead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/566574-A Fistful of Lead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ci5A9TPmNajMxt1L8p4KlZ76sc9.jpg</image:loc
+      >
+      <image:caption
+        >Four of the West's most infamous outlaws carry out a daring bank heist
+        in the gold-rush town, Bath Water. As the posse takes chase, things take
+        a turn for the worse, as the bandits realize they've been double-crossed
+        - but by who?</image:caption
+      >
+      <image:title>A Fistful of Lead</image:title>
+    </image:image>
+  </url>
+</urlset>

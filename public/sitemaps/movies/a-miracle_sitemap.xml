@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931781-A Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931781-A Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k5MtwwHupziz6RLVtsvf6GAOtfX.jpg</image:loc
+      >
+      <image:caption
+        >Is it possible to film miracles? The camera shows pilgrims, who watch a
+        window of a school in a small town in the East of Poland, where several
+        people already believed to have seen the Virgin Mary.</image:caption
+      >
+      <image:title>A Miracle</image:title>
+    </image:image>
+  </url>
+</urlset>

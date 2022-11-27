@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1925-Agnes and His Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1925-Agnes and His Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dPc7sNkyBdW2Q4ufUcJSJcZjg3b.jpg</image:loc
+      >
+      <image:caption
+        >Focuses on three very different siblings, all searching for happiness.
+        Hans-Jörg is a sex addicted librarian, who is interested in young
+        students. Werner is a successful politician with a dysfunctional family.
+        Agnes, a trans woman, works as a table dancer in a night club. The three
+        brothers just have one thing in common: their longing for a happy
+        life.</image:caption
+      >
+      <image:title>Agnes and His Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

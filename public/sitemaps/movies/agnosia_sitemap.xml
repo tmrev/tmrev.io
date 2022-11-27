@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62103-Agnosia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62103-Agnosia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1T0rpXInJEJImQWba1OjhfVQBnq.jpg</image:loc
+      >
+      <image:caption
+        >The protagonist is a young woman, Joan Prats suffering from agnosia, a
+        strange, primary visual disease that is one of the neuropsychological
+        disorders of perception. Although her eyes and ears are in perfect
+        condition, her brain is not able to correctly interpret the stimuli it
+        receives. Joan is the only person to know an industrial secret left
+        behind by her late father and becomes the victim of a sinister plan to
+        extract this information. Her captors plan to use her sensory condition
+        to help extract the information that they so desperately
+        want.</image:caption
+      >
+      <image:title>Agnosia</image:title>
+    </image:image>
+  </url>
+</urlset>

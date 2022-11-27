@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/513327-All You Ever Wished For</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/513327-All You Ever Wished For</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tgVL59TQjoJCspATHy2E7F1uvzL.jpg</image:loc
+      >
+      <image:caption
+        >A young New York fashion executive's trip to Milan takes a bad turn
+        when he is kidnapped and whisked off to an Alpine village to be held for
+        ransom money. Little does he (or his three abductors) know that the
+        small, rustic cottage they end up spending the night in is under a gypsy
+        love spell. Or that when they awaken, they will be Smitten! by the first
+        living soul that meets their eyes.</image:caption
+      >
+      <image:title>All You Ever Wished For</image:title>
+    </image:image>
+  </url>
+</urlset>

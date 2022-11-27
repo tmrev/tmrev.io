@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/917996-A not so silent night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/917996-A not so silent night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aLPq2LKqwlYVDBro47qdwLU5wNN.jpg</image:loc
+      >
+      <image:caption
+        >Recorded in 2008, direct from the Knitting Factory stage in downtown
+        Manhattan. This The McGarrigle Christmas Hour features Kate & Anna
+        McGarrigle, Rufus & Martha Wainwright, Emmylou Harris, Lou Reed and
+        Laurie Anderson among others</image:caption
+      >
+      <image:title>A not so silent night</image:title>
+    </image:image>
+  </url>
+</urlset>

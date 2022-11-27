@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/557646-Above Majestic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/557646-Above Majestic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Nib1PpekYy58AqfCKbiN9JRZsE.jpg</image:loc
+      >
+      <image:caption
+        >A look at the origins, history and conspiracies behind the "Majestic
+        12", a clandestine group of military and corporate figureheads charged
+        with reverse-engineering extraterrestrial technology.</image:caption
+      >
+      <image:title>Above Majestic</image:title>
+    </image:image>
+  </url>
+</urlset>

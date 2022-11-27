@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52214-A Beautiful Wife</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52214-A Beautiful Wife</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zkxCuHPVqZg0FnB8WnQ9pIwCdQr.jpg</image:loc
+      >
+      <image:caption
+        >Mariano has been married for 10 years with Miranda, a woman way out of
+        his league. Their small-town life is disrupted by charming photographer
+        Andrea, who is struck by Miranda's good looks and offers her a one-time
+        modelling job. Albeit hesitant, the couple eventually accepts his
+        invitation to the Seychelles...</image:caption
+      >
+      <image:title>A Beautiful Wife</image:title>
+    </image:image>
+  </url>
+</urlset>

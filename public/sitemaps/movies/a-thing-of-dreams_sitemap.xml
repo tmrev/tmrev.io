@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/551231-A Thing of Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/551231-A Thing of Dreams</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mgOZRknirubzJ7vcyOPcbheY6SC.jpg</image:loc
+      >
+      <image:caption
+        >When a new prescription drug permits a greater lucidity of one’s
+        dreams, a woman resists her jealous husband’s demands that she induce a
+        nightmare in order to scrub her subconscious of
+        infidelity.</image:caption
+      >
+      <image:title>A Thing of Dreams</image:title>
+    </image:image>
+  </url>
+</urlset>

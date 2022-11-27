@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1016987-A Horse Called Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1016987-A Horse Called Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/79KeXtBDlIRonzFxTGlVUtWCfe.jpg</image:loc
+      >
+      <image:caption
+        >Cindy, a working class fifteen year old girl manages to secure herself
+        a position as a stable hand at a local upper class riding school, a fact
+        she must keep secret from her mother who hates riding and anything horse
+        related.</image:caption
+      >
+      <image:title>A Horse Called Wish</image:title>
+    </image:image>
+  </url>
+</urlset>

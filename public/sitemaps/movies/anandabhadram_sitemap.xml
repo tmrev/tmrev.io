@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/194809-Anandabhadram</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/194809-Anandabhadram</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d7f3ZFCobD9Em3dUMDP2Rk7NB40.jpg</image:loc
+      >
+      <image:caption
+        >In the ancient village of Shivapuram, little Ananthan hears a tale from
+        his mother, Gayathri (Revathi). She tells him that his family comes from
+        a line of powerful magicians, and they are responsible for protecting
+        nagamanikyam, a jewel on a serpent's head. The jewel, she narrates, lies
+        in a secret place in the house guarded by snakes, including a tiny snake
+        called Kunjootan. Years later, obeying the wishes of his dead mother,
+        Ananthan (Prithviraj Sukumaran) returns to his ancestral village to
+        light the lamps at Shivakavu, a dark and mysterious temple of
+        Shiva.</image:caption
+      >
+      <image:title>Anandabhadram</image:title>
+    </image:image>
+  </url>
+</urlset>

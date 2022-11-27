@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571324-A Journey to Silicon Valley</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571324-A Journey to Silicon Valley</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Through many in-depth interviews with the veterans of Silicon Valley,
+        this documentary describes the history, start-up culture, business
+        management and venture capital mechanisms of the Silicon
+        Valley.</image:caption
+      >
+      <image:title>A Journey to Silicon Valley</image:title>
+    </image:image>
+  </url>
+</urlset>

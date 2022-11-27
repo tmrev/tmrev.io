@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63139-All Things Fall Apart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63139-All Things Fall Apart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ptrAoO41yjmvITFvJNeubMzT36e.jpg</image:loc
+      >
+      <image:caption
+        >50 Cent stars as gifted college running back Deon in this touching
+        drama. Deon's world turns upside down when an unexpected crisis
+        jeopardizes his professional ambitions -- and causes him to look at
+        himself and his life in a new way.</image:caption
+      >
+      <image:title>All Things Fall Apart</image:title>
+    </image:image>
+  </url>
+</urlset>

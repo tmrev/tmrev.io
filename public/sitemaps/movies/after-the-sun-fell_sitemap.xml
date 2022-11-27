@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480848-After the Sun Fell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480848-After the Sun Fell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hTWh7IvnBqqekBqxjnqTPCQoBlj.jpg</image:loc
+      >
+      <image:caption
+        >When Adam arrives at Brandon's childhood home for the weekend, he
+        uncovers a hole in the roof and a dark family secret: the death of a
+        troubled brother nobody wants to talk about.</image:caption
+      >
+      <image:title>After the Sun Fell</image:title>
+    </image:image>
+  </url>
+</urlset>

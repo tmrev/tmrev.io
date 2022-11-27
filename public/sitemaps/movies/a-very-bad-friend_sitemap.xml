@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589984-A Very Bad Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589984-A Very Bad Friend</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/634H8xK3oPkMusUEZ6g9oePKKfT.jpg</image:loc
+      >
+      <image:caption
+        >Mika, a little crook, took a quick tour of the prison, where he got to
+        know "Putin", a crazy and unpredictable detainee. As soon as his
+        sentence has been served, he decides to start from scratch and start his
+        life over again. As he prepares to marry the daughter of a wealthy
+        businessman, his past catches up with him: Putin arrives without
+        warning! Mika will quickly realize that we do not easily get rid of such
+        a ball ...</image:caption
+      >
+      <image:title>A Very Bad Friend</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17903-A Frozen Flower</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17903-A Frozen Flower</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jvGmbNUh0eq9ShQmMSof0DXXHWY.jpg</image:loc
+      >
+      <image:caption
+        >A historical drama set in the Koryo dynasty and focused on the
+        relationship between a king and his bodyguard. Under the dominance of
+        Yuan Dynasty China, the king of Goryeo Dynasty Korea is pressured to
+        produce a successor to the throne. Unable to make love to his queen
+        because he is in love with his bodyguard, Hong Lim, the king asks the
+        two of them to sleep together instead. This sexual contact formulates a
+        forbidden love between Hong Lim and the Queen.</image:caption
+      >
+      <image:title>A Frozen Flower</image:title>
+    </image:image>
+  </url>
+</urlset>

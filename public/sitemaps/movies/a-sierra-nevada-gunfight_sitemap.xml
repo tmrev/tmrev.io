@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/232517-A Sierra Nevada Gunfight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/232517-A Sierra Nevada Gunfight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g0eFkNnZBcuj0rlPk2IgvpyWeTG.jpg</image:loc
+      >
+      <image:caption
+        >Gold miner Roger Hazard brings his twelve year old son Casper to the
+        treacherous gold fields of 1870s California. The two of them work a
+        small mine in the southern fields but when Roger begins to lose touch
+        with reality young Casper ends up on his own. Casper faces danger around
+        every corner but must find the strength to save his father from himself
+        and still manage to fight off the savage Indians and ruthless
+        bushwhackers that plague them across California's breathtaking Sierra
+        Nevadas.</image:caption
+      >
+      <image:title>A Sierra Nevada Gunfight</image:title>
+    </image:image>
+  </url>
+</urlset>

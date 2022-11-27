@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58014-A Children's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58014-A Children's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/AvBzax7SkRqyc6kVGKiFpsu3BPS.jpg</image:loc
+      >
+      <image:caption
+        >Rosario is 11 years old, he lives in the suburbs with his grandmother,
+        a sick woman who spends time watching TV. He is the leader of a small
+        group who spends his days between games rooms, small crimes and
+        dangerous challenges.</image:caption
+      >
+      <image:title>A Children's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29972-24 City</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29972-24 City</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qoVSdZNIWsKzK1gLl0bGFFLGOBg.jpg</image:loc
+      >
+      <image:caption
+        >24 City chronicles the dramatic closing of a once-prosperous
+        state-owned factory in Chengdu, southwest China and its conversion into
+        a sprawling luxury apartment complex. Three generations, eight
+        characters : old workers, factory executives and yuppies, their stories
+        melt into the History of China.</image:caption
+      >
+      <image:title>24 City</image:title>
+    </image:image>
+  </url>
+</urlset>

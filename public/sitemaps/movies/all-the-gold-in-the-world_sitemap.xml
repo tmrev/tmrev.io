@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/212412-All the Gold in the World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/212412-All the Gold in the World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9HcXwnNwSPyo3vMoXunjhDrP4th.jpg</image:loc
+      >
+      <image:caption
+        >The son of a rich industrialist forces a woman to become his fiancée by
+        threatening to bankrupt her parents — until an unlikely hero steps
+        in.</image:caption
+      >
+      <image:title>All the Gold in the World</image:title>
+    </image:image>
+  </url>
+</urlset>

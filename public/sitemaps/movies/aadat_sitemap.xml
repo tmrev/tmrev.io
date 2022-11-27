@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/700779-Aadat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/700779-Aadat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >There are towns that build their lives from the will where the inert
+        reigns, where the landscape is arid and dead and there are only infinite
+        extensions of sand and stones. Forgotten, disregarded, doomed to the
+        most extreme survival, the Sahrawis still retain their hope for
+        justice.</image:caption
+      >
+      <image:title>Aadat</image:title>
+    </image:image>
+  </url>
+</urlset>

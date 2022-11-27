@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14463-Alone in the Wilderness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14463-Alone in the Wilderness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fOzc4vwTG9d9tlhX6EyPHu3cuiq.jpg</image:loc
+      >
+      <image:caption
+        >Dick Proenneke retired at age 50 in 1967 and decided to build his own
+        cabin in the wilderness at the base of the Aleutian Peninsula, in what
+        is now Lake Clark National Park. Using color footage he shot himself,
+        Proenneke traces how he came to this remote area, selected a homestead
+        site and built his log cabin completely by himself. The documentary
+        covers his first year in-country, showing his day-to-day activities and
+        the passing of the seasons as he sought to scratch out a living alone in
+        the wilderness.</image:caption
+      >
+      <image:title>Alone in the Wilderness</image:title>
+    </image:image>
+  </url>
+</urlset>

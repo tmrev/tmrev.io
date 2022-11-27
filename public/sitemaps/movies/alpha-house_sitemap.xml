@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/269242-Alpha House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/269242-Alpha House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s00AwtusVVG8lpA3fquKaE63NWW.jpg</image:loc
+      >
+      <image:caption
+        >When two freshmen pledges are accepted into the biggest party frat on
+        campus, they think they have it all. That is, until the assistant dean
+        forces the Alphas to share their house with a sorority or face expulsion
+        from school. Not wanting to see their lifelong dream of becoming Alphas
+        destroyed, the pledges convince the other members of the house to take
+        back what's theirs, waging an epic battle of the sexes to fight for
+        their right to party.</image:caption
+      >
+      <image:title>Alpha House</image:title>
+    </image:image>
+  </url>
+</urlset>

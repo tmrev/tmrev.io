@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/653765-A Nasty Piece of Work</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/653765-A Nasty Piece of Work</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xE5G0nY3yKnTxp9tIEev06tsm3L.jpg</image:loc
+      >
+      <image:caption
+        >A mid-level corporate employee finds out he’s not getting the Christmas
+        bonus he was expecting, but his boss invites him to earn a promotion by
+        beating his professional rival in a violent competition.</image:caption
+      >
+      <image:title>A Nasty Piece of Work</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52420-4 Horror Tales: Hidden Floor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52420-4 Horror Tales: Hidden Floor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4I73oewTN14u6yRkRzrdNNepcdL.jpg</image:loc
+      >
+      <image:caption
+        >A woman moves into an apartment house with her daughter. But her
+        daughter begins to be haunted by a mysterious ghost on a hidden
+        floor.</image:caption
+      >
+      <image:title>4 Horror Tales: Hidden Floor</image:title>
+    </image:image>
+  </url>
+</urlset>

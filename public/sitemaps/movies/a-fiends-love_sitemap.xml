@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/609904-A Fiend's Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/609904-A Fiend's Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oOKvwqZEAu8YuWYOfGLou91qPVt.jpg</image:loc
+      >
+      <image:caption
+        >A resentful entity continues to come back to the Saha World in search
+        of his lost love while battling against the secret guardians of the
+        world. He fails his plan of trying to stay in this world but finds the
+        true solution to his vengeance.</image:caption
+      >
+      <image:title>A Fiend's Love</image:title>
+    </image:image>
+  </url>
+</urlset>

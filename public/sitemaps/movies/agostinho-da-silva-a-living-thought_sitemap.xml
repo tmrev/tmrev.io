@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/269980-Agostinho da Silva - A Living Thought</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/269980-Agostinho da Silva - A Living Thought</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3jGG5EJJxZaSAmc6TQXgX5FDq4n.jpg</image:loc
+      >
+      <image:caption
+        >Life and legacy of Agostinho da Silva. Traversing the biographical
+        journey, the life and work of the Luso-Brazilian philosopher, this work
+        has testimonies from himself and various personalities of Portugal and
+        Brazil that allow us to unravel his personality and multifaceted
+        thought.</image:caption
+      >
+      <image:title>Agostinho da Silva - A Living Thought</image:title>
+    </image:image>
+  </url>
+</urlset>

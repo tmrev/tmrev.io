@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/575479-An Easy Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/575479-An Easy Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eV4HVz2m27fJ2VqZwzZd4Yf8Tli.jpg</image:loc
+      >
+      <image:caption
+        >Naïma has just turned 16. This summer, she will have to decide what she
+        wants from life if she doesn’t want to miss out. Then her cousin Sofia
+        arrives, with an amazing body and a dangerously seductive lifestyle.
+        Naïma desires only to follow her own path, so long as it leads upwards…
+        Despite the warnings of her best friend Dodo, she and Sofia will live
+        through unforgettable encounters during a long summer that will mark
+        them forever.</image:caption
+      >
+      <image:title>An Easy Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

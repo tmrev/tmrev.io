@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/244801-52 Tuesdays</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/244801-52 Tuesdays</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/by6x0YDAMgQ1aSZunwDhspv2BYQ.jpg</image:loc
+      >
+      <image:caption
+        >Sixteen-year-old Billie’s reluctant path to independence is accelerated
+        when her mother reveals plans for gender transition, and their time
+        together becomes limited to Tuesdays. This emotionally charged story of
+        desire, responsibility, and transformation was filmed over the course of
+        a year—once a week, every week, only on Tuesdays.</image:caption
+      >
+      <image:title>52 Tuesdays</image:title>
+    </image:image>
+  </url>
+</urlset>

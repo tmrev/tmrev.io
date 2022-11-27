@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85692-A Man Vanishes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85692-A Man Vanishes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ikTFAAVHqfGhaBfyCzduiZKCpmM.jpg</image:loc
+      >
+      <image:caption
+        >A Man Vanishes examines the concept of Johatsu, tackling the phenomenon
+        of people missing in Japan over the years. It picks one such person from
+        the list, someone who had seemed to disappear from the face of the earth
+        due to embezzlement from his company, and the filmmakers begin an
+        investigative documentary into the reasons behind and attempt at
+        tracking him down.</image:caption
+      >
+      <image:title>A Man Vanishes</image:title>
+    </image:image>
+  </url>
+</urlset>

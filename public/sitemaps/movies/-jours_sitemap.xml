@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1001741-256 JOURS</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1001741-256 JOURS</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nz7t1IiKYmsNRIYSjnbJ5q13ECX.jpg</image:loc
+      >
+      <image:caption
+        >The director Jordan Feldman followed the French artist Xavier Veilhan
+        for 256 days, on an almost daily basis. Shot from a deliberately
+        lighthearted point of view this documentary, in which the camera is
+        eventually forgotten, shows the life of a contemporary artist in his
+        environment—emotional, relational, and professional. From projects’
+        utopic beginnings to their realization determined by economic realities
+        and institutional techniques, we follow Xavier Veilhan to the heart of
+        the contemporary art world, from his studio to the gallery and the
+        museum, in the company of all the protagonists who make up this milieu.
+        In 90 minutes his journey takes us from Lyon to Bordeaux, where the
+        artist is making public sculptures, and then to Paris for the
+        preparations for the opening of his exhibition at the Centre Georges
+        Pompidou.</image:caption
+      >
+      <image:title>256 JOURS</image:title>
+    </image:image>
+  </url>
+</urlset>

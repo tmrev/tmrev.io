@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571687-A Perfectly Normal Family</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571687-A Perfectly Normal Family</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qSChbRNvhpz6LOPxvTFuIyeOPTd.jpg</image:loc
+      >
+      <image:caption
+        >Emma has a perfectly normal family until one day it turns out her dad,
+        Thomas, is transgender. As Thomas becomes Agnete, both father and
+        daughter struggle to hold on to what they had while accepting that
+        everything has changed.</image:caption
+      >
+      <image:title>A Perfectly Normal Family</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/947055-1918: The Spanish Flu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/947055-1918: The Spanish Flu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/UI9GSnR6jyLYEALFr9Eu6EbgID.jpg</image:loc
+      >
+      <image:caption
+        >In Spain, the worst known pandemic decimated the population, with 80%
+        mortality among children. Spain was half empty. There are documents from
+        the time that give us testimony, but why do we hardly know anything
+        about this "Spanish flu"? Surely his study and knowledge would have
+        helped us correct errors in later pandemics.</image:caption
+      >
+      <image:title>1918: The Spanish Flu</image:title>
+    </image:image>
+  </url>
+</urlset>

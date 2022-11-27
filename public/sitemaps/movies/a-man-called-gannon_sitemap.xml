@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/219302-A Man Called Gannon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/219302-A Man Called Gannon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ukoVnYfmnKhaQ1WsjIGbWHopdwI.jpg</image:loc
+      >
+      <image:caption
+        >A seasoned cowboy takes a young tender-foot under his wing. They become
+        embroiled in a range war, and end up on opposite sides.</image:caption
+      >
+      <image:title>A Man Called Gannon</image:title>
+    </image:image>
+  </url>
+</urlset>

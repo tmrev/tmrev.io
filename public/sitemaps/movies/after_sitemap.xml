@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45746-After...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45746-After...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uakN1L1jX6nLCZ6aHjpEX6DNzpD.jpg</image:loc
+      >
+      <image:caption
+        >Urban Exploration. The practice of investigating areas not designed for
+        public use. But strange things can happen in the dark, closed-off areas
+        of history beneath the streets of Moscow, and what started as a way for
+        Nate to escape his grief quickly turns into a journey that forces him to
+        confront it head-on, with nothing less than his eternal destiny hanging
+        in the balance.</image:caption
+      >
+      <image:title>After...</image:title>
+    </image:image>
+  </url>
+</urlset>

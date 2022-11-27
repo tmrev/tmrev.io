@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83761-And Life Goes On</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83761-And Life Goes On</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r3HKwYuXdeH9c6TxuwAtNW9etJc.jpg</image:loc
+      >
+      <image:caption
+        >After the earthquake of Guilan, a film director and his son travel to
+        the devastated area to search for the actors from the movie the director
+        made there a few years previously. In their search, they see how people
+        who have lost everything in the earthquake still have hope and try to
+        live life to the fullest.</image:caption
+      >
+      <image:title>And Life Goes On</image:title>
+    </image:image>
+  </url>
+</urlset>

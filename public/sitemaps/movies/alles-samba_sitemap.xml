@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314218-Alles Samba</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314218-Alles Samba</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/otsZEPEOfj6Tj0JAHXJPwrXhjbv.jpg</image:loc
+      >
+      <image:caption
+        >Art expert Katharina Diezmann is out of the blue, when one day the
+        little Brazilian Marcia is standing at her door. Years ago Katharina had
+        taken over a sponsorship for the eleven-year-old, but never expected
+        that she would ever meet her. The little girl is in Berlin with her
+        samba group over Christmas and has only one wish: finally to see real
+        snow!</image:caption
+      >
+      <image:title>Alles Samba</image:title>
+    </image:image>
+  </url>
+</urlset>

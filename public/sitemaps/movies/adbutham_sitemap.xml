@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/819622-Adbutham</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/819622-Adbutham</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q9DyxI30uq4wVdnnbB1GJfMbgRz.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the first case of euthanasia in Oregon, Adbutham revolves
+        around Chandrashekara Warrier, a Malayali man living in the US, who,
+        after a debilitating accident, approaches the court for
+        physician-assisted suicide and is granted approval for the same.
+        Adbutham follows the final hours of Warrier.</image:caption
+      >
+      <image:title>Adbutham</image:title>
+    </image:image>
+  </url>
+</urlset>

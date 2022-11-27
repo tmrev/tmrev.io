@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467917-A Kid Like Jake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467917-A Kid Like Jake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xb0lsEUyytspi7fo1ggDybRvZVK.jpg</image:loc
+      >
+      <image:caption
+        >On the eve of the admissions cycle for New York City kindergartens,
+        Alex and Greg Wheeler have high hopes for four-year-old Jake. The
+        director of Jake's preschool encourages them to accentuate Jake's gender
+        expansive behavior to help him stand out. As Alex and Greg navigate
+        their roles as parents, a rift grows between them, one that forces them
+        to confront their own concerns about what's best for Jake, and each
+        other.</image:caption
+      >
+      <image:title>A Kid Like Jake</image:title>
+    </image:image>
+  </url>
+</urlset>

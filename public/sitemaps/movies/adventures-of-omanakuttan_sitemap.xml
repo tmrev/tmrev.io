@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/339900-Adventures of Omanakuttan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/339900-Adventures of Omanakuttan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qBaJrmyCcwW5TuAj53tZEwmspF1.jpg</image:loc
+      >
+      <image:caption
+        >Omanakuttan is an introverted salesman who is down on confidence and
+        luck. Spurred on by his colleague he decides to change himself and tries
+        to act like a flirt. He meets Pallavi a free spirited girl, but as luck
+        would have it he wakes up with memory loss and struggles to figure out
+        who he really is. Both of them join in on an adventure to figure out the
+        real Omanakuttan.</image:caption
+      >
+      <image:title>Adventures of Omanakuttan</image:title>
+    </image:image>
+  </url>
+</urlset>

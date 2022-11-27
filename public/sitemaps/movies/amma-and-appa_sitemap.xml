@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/274524-Amma and Appa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/274524-Amma and Appa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Documentary - When Franziska announces her engagement to her boyfriend,
+        Jayakrishnan, her parents journey from Bavaria to India to meet Jay's
+        mother and father. But coming to terms with their children's plans
+        forces each couple to question their cultural bias. -</image:caption
+      >
+      <image:title>Amma and Appa</image:title>
+    </image:image>
+  </url>
+</urlset>

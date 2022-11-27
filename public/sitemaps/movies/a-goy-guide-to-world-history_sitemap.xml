@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412306-A Goy Guide to World History</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412306-A Goy Guide to World History</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Spanning over 2,000 years, this study looks at the complex relationship
+        between Jewish and Catholic thought from a social and historical
+        perspective. Examining different significant moments for both religions
+        throughout the centuries, this commentary on the book analyzes and
+        explains the conflicts that have arisen between the two religions since
+        their beginnings.</image:caption
+      >
+      <image:title>A Goy Guide to World History</image:title>
+    </image:image>
+  </url>
+</urlset>

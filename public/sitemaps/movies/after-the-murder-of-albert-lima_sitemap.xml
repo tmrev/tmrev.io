@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/680258-After The Murder Of Albert Lima</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/680258-After The Murder Of Albert Lima</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fvQhqOYJhG6RYjzE17JpRsrgVsR.jpg</image:loc
+      >
+      <image:caption
+        >After 13 years of failing to bring his father's killer to justice
+        through the legal system, a young man sets out to find, capture, and
+        deliver him to the federal prison once and for all.</image:caption
+      >
+      <image:title>After The Murder Of Albert Lima</image:title>
+    </image:image>
+  </url>
+</urlset>

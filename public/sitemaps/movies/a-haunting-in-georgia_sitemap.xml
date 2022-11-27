@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45927-A Haunting in Georgia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45927-A Haunting in Georgia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tIax7BxBG5ygPchcnkdQtdr8d9l.jpg</image:loc
+      >
+      <image:caption
+        >In 1988, the Wyrick family moves into a new home, which was
+        mysteriously abandoned by the previous owners. Shortly afterward, their
+        four-year-old daughter Heidi begins spending time with an imaginary
+        friend, a kindly old man named Mr. Gordy. Several months later, Heidi is
+        frightened by the appearance of a man at the front door.</image:caption
+      >
+      <image:title>A Haunting in Georgia</image:title>
+    </image:image>
+  </url>
+</urlset>

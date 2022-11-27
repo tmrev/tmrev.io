@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/999546-Alaska the First 10,000 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/999546-Alaska the First 10,000 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2LEwqMyA1vh1tGPlPYupsEA5npU.jpg</image:loc
+      >
+      <image:caption
+        >t's the hilarious story of Alaska's History that only Mr. Whitekeys can
+        tell. From the earliest days of cavemen hitchhiking across the Bering
+        Sea Land Bridge to Nowhere, through the gold rush and on to statehood,
+        you'll learn the little known and mostly true history of the Last
+        Frontier. Mr. Whitekeys has searched the archives and tells the tales of
+        crusty old Sourdoughs like Buzz Saw Jimmy and One-Eyed Riley. From
+        President Warren G. Harding to Sarah Palin, the wacky tacky character of
+        Alaska is explored in side-splitting, music-filled extravaganza of epic
+        proportions.</image:caption
+      >
+      <image:title>Alaska the First 10,000 Years</image:title>
+    </image:image>
+  </url>
+</urlset>

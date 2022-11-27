@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/348668-A Conspiracy of Faith</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/348668-A Conspiracy of Faith</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/72T8HXXAHEkhM46t63PAtDUndof.jpg</image:loc
+      >
+      <image:caption
+        >Denmark, 2016. A blurred note is found in a bottle that has traveled
+        across the ocean for a long time. After deciphering the cryptic note,
+        Department Q members follow a sinister trail that leads them to
+        investigate a case occurred in 2008. At the same time, new tragic events
+        take place that test their faith and deepest beliefs.</image:caption
+      >
+      <image:title>A Conspiracy of Faith</image:title>
+    </image:image>
+  </url>
+</urlset>

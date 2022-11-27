@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/685196-Anatomia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/685196-Anatomia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z6lvuZvHbp5ieon5Z2Em58yLku1.jpg</image:loc
+      >
+      <image:caption
+        >This modern re-telling of a centuries old tale places the legendary
+        poet Sappho in a semi-harmonious relationship with her live-in lover
+        Atthis. As jealousy and paranoia begins to strain their relationship,
+        they cannot help but tear at the fabric of their otherwise happy life
+        together.</image:caption
+      >
+      <image:title>Anatomia</image:title>
+    </image:image>
+  </url>
+</urlset>

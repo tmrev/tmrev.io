@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73861-A Serbian Film</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73861-A Serbian Film</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg</image:loc
+      >
+      <image:caption
+        >Milos, a retired porn star, leads a normal family life trying to make
+        ends meet. Presented with the opportunity of a lifetime to financially
+        support his family for the rest of their lives, Milos must participate
+        in one last mysterious film. From then on, Milos is drawn into a
+        maelstrom of unbelievable cruelty and mayhem.</image:caption
+      >
+      <image:title>A Serbian Film</image:title>
+    </image:image>
+  </url>
+</urlset>

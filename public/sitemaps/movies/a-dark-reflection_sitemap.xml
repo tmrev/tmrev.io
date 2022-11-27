@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327266-A Dark Reflection</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327266-A Dark Reflection</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yLLzlkGakthE1L7bGDOgFJ6bY99.jpg</image:loc
+      >
+      <image:caption
+        >A journalist digs deep into the world of aviation and discovers some
+        uncomfortable truths. And a conspiracy trail dating back to 1954. But
+        why is no one saying anything?</image:caption
+      >
+      <image:title>A Dark Reflection</image:title>
+    </image:image>
+  </url>
+</urlset>

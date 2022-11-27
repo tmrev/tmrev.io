@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/590066-A Painful Pair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/590066-A Painful Pair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zZgNbw77J0xtIudHgE8Uo5c49Fq.jpg</image:loc
+      >
+      <image:caption
+        >Ryo and Natsu love each other immensely. They are also able to feel
+        each other's pain. Their relationship is troubled when Ryo allows
+        himself to be seduced by an office employee.</image:caption
+      >
+      <image:title>A Painful Pair</image:title>
+    </image:image>
+  </url>
+</urlset>

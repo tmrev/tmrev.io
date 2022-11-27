@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/840738-Alien Artifacts: The Lost World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/840738-Alien Artifacts: The Lost World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cnEjZOHxJ9usPehIwSNqTZ4XJxH.jpg</image:loc
+      >
+      <image:caption
+        >The shocking existence and unexplained origins of artefacts that are so
+        technologically advanced they have mystified scientists and researchers
+        for decades as they defy comprehension and contradict all we have been
+        told about the ancient world.</image:caption
+      >
+      <image:title>Alien Artifacts: The Lost World</image:title>
+    </image:image>
+  </url>
+</urlset>

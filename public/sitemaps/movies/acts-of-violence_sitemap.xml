@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479040-Acts of Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479040-Acts of Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pK9CugRd3DIP0THBH8WlGrvk5vy.jpg</image:loc
+      >
+      <image:caption
+        >When his fiancee is kidnapped by human traffickers, Roman and his
+        ex-military brothers set out to track her down and save her before it is
+        too late. Along the way, Roman teams up with Avery, a cop investigating
+        human trafficking and fighting the corrupt bureaucracy that has harmful
+        intentions.</image:caption
+      >
+      <image:title>Acts of Violence</image:title>
+    </image:image>
+  </url>
+</urlset>

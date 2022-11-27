@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/536054-Alberto Giacometti: What is a Head?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/536054-Alberto Giacometti: What is a Head?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pkm3dU28kBSqun85ZeQ2xKZocpJ.jpg</image:loc
+      >
+      <image:caption
+        >Overview of the life and career of the great Swiss
+        sculptor</image:caption
+      >
+      <image:title>Alberto Giacometti: What is a Head?</image:title>
+    </image:image>
+  </url>
+</urlset>

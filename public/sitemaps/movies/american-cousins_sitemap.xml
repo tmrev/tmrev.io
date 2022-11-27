@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15312-American Cousins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15312-American Cousins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nL9i62Cce08KB2uINMJjgoghAed.jpg</image:loc
+      >
+      <image:caption
+        >Two American mafiosi, Gino and Settimo, take refuge in the Glasgow cafe
+        owned by their Scottish/Italian cousin, but he isn't the tough guy
+        they'd expected. Gino and Settimo try to repay Roberto's hospitality by
+        chasing off a debt collector who wants his property, but their strong
+        arm tactics alarm him and he realises they aren't the PR consultants
+        they claimed to be.</image:caption
+      >
+      <image:title>American Cousins</image:title>
+    </image:image>
+  </url>
+</urlset>

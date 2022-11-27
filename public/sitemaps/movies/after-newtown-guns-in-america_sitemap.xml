@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268179-After Newtown: Guns in America</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268179-After Newtown: Guns in America</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r4cAafCOHhcrmCDfZecyVWTKhZz.jpg</image:loc
+      >
+      <image:caption
+        >Explore America’s enduring relationship with firearms: From the first
+        European settlements in the New World to frontier justice; from 19th
+        Century immigrant riots to gangland violence in the Roaring Twenties;
+        from the Civil War to Civil Rights, guns have been at center of our
+        national narrative for four hundred years.</image:caption
+      >
+      <image:title>After Newtown: Guns in America</image:title>
+    </image:image>
+  </url>
+</urlset>

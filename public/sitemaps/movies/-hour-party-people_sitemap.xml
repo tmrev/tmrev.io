@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2750-24 Hour Party People</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2750-24 Hour Party People</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg</image:loc
+      >
+      <image:caption
+        >Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV
+        news reporter looking for a way to make his mark. After witnessing a
+        life-changing concert by a band known as the Sex Pistols, he persuades
+        his station to televise one of their performances, and soon Manchester's
+        punk groups are clamoring for him to manage them. Riding the wave of a
+        musical revolution, Wilson and his friends create the legendary Factory
+        Records label and The Hacienda club.</image:caption
+      >
+      <image:title>24 Hour Party People</image:title>
+    </image:image>
+  </url>
+</urlset>

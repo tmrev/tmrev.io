@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407714-A Friend Indeed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407714-A Friend Indeed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3RFBS3Zo7WUQ6X7zdZwOZdGYHSk.jpg</image:loc
+      >
+      <image:caption
+        >Two best friends and neighbors get a chance to work abroad, but one of
+        them has to stay to take care of their parents. So Ossama stays and Gad
+        flies. Five years later, Gad returns in a short vacation, but finds
+        Ossama trying to prevent him from leaving again, through a series of
+        comic and peculiar situations.</image:caption
+      >
+      <image:title>A Friend Indeed</image:title>
+    </image:image>
+  </url>
+</urlset>

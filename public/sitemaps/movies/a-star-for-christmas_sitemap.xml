@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/241999-A Star for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/241999-A Star for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wSgLJ7ZsBiF0HPLnPgVOxRvSHhb.jpg</image:loc
+      >
+      <image:caption
+        >The only thing that is working in Cassie's world is her small town
+        business. Her Christmas Cupcakery is a huge success, but her love life
+        is a mess. Cassie's whole universe is turned upside down when she falls
+        in love with a co-worker who is revealed to be the famous and
+        notoriously troubled actor Alex Gray. There's no denying that Alex and
+        Cassie are in love, but can their relationship survive the pressure of
+        Hollywood and the holidays?</image:caption
+      >
+      <image:title>A Star for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8273-American Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8273-American Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pCO3lJv2PzPkJty29APxCVSjyoE.jpg</image:loc
+      >
+      <image:caption
+        >With high school a distant memory, Jim and Michelle are getting married
+        -- and in a hurry, since Jim's grandmother is sick and wants to see him
+        walk down the aisle -- prompting Stifler to throw the ultimate bachelor
+        party. And Jim's dad is reliable as ever, doling out advice no one wants
+        to hear.</image:caption
+      >
+      <image:title>American Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

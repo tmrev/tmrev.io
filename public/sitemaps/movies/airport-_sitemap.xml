@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/546585-Airport 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/546585-Airport 2012</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ix6rEns1UfAoTAMeW8XdjmxqMQD.jpg</image:loc
+      >
+      <image:caption
+        >'Airport 2012' chronicles an alienating partner-swapping encounter in a
+        New Jersey motel on Election Day, 2012. Four very different characters
+        interact in darkly comic and unsettling ways - no one ever really
+        connects with anyone else in an activity that had been orchestrated,
+        ironically, expressly for the purpose of connection, or at the very
+        least sexual connection. The day and then the night pass; two couples
+        have 'fun'; a president is re-elected, and by morning we are left
+        wondering 'now what?'</image:caption
+      >
+      <image:title>Airport 2012</image:title>
+    </image:image>
+  </url>
+</urlset>

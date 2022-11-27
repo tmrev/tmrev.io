@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/417936-Accidentally Engaged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/417936-Accidentally Engaged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lArOsPsD5e0W0paC7vReirclHNw.jpg</image:loc
+      >
+      <image:caption
+        >When unsuccessful actress Clarissa returns to her hometown for a
+        wedding and tries to impress her old friends by claiming she's dating
+        big time celebrity Chas Hunter, she suddenly finds herself in a
+        comically false engagement when her lies go public and Chas decides to
+        join the festivities in a stunt to escape bad press.</image:caption
+      >
+      <image:title>Accidentally Engaged</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450806-All Saints</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450806-All Saints</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg</image:loc
+      >
+      <image:caption
+        >ALL SAINTS is based on the inspiring true story of
+        salesman-turned-pastor Michael Spurlock, the tiny church he was ordered
+        to shut down, and a group of refugees from Southeast Asia. Together,
+        they risked everything to plant seeds for a future that might just save
+        them all.</image:caption
+      >
+      <image:title>All Saints</image:title>
+    </image:image>
+  </url>
+</urlset>

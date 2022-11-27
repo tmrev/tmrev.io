@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/412906-A Caribbean Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/412906-A Caribbean Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g5xqtEbYKFkKIz1QyY9iPrPwZ0c.jpg</image:loc
+      >
+      <image:caption
+        >Shakespeare’s romantic comedy is re-told in the Caribbean and brought
+        into the 21st Century when Theseus and Hippolyta, returning Nationals,
+        come home to Barbados to be married during Crop Over festival time. The
+        island’s early history, folklore, culture and stunning landscape, lends
+        itself perfectly for the mysticism, comedy and chaos that ensues, the
+        night before the nuptual celebrations.</image:caption
+      >
+      <image:title>A Caribbean Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

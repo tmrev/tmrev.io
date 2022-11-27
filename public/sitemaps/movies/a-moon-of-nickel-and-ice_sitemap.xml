@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/449387-A Moon of Nickel and Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/449387-A Moon of Nickel and Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s1fEyOJ02jTpfNnyGcdBQtdLWAA.jpg</image:loc
+      >
+      <image:caption
+        >The Siberian city of Norilsk, above the Arctic Circle, was established
+        here for the nickel and other metal deposits. Built under Stalin by
+        Gulag prisoners—who numbered some 650,000 between 1930 and 1950—today it
+        still constitutes an open-air cage, imprisoned by the glacial landscape,
+        imbued with suffering and history.</image:caption
+      >
+      <image:title>A Moon of Nickel and Ice</image:title>
+    </image:image>
+  </url>
+</urlset>

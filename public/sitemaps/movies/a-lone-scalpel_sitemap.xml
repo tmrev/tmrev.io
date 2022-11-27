@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/197916-A Lone Scalpel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/197916-A Lone Scalpel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/myiUqzVJHQJWEXvTcH612upMH7Q.jpg</image:loc
+      >
+      <image:caption
+        >Dr Toma, a skilled surgeon, starts work at a regional hospital in
+        Japan. After performing an operation to remove a patient’s liver cancer,
+        something that normally would not be done at this hospital, he quickly
+        gains a very good reputation amongst the town’s people. Some of his
+        colleagues become so jealous they are resentful and waiting patiently
+        for the perfect opportunity to crucify him. Soon they get their chance
+        as Dr Toma considers performing a controversial
+        operation…</image:caption
+      >
+      <image:title>A Lone Scalpel</image:title>
+    </image:image>
+  </url>
+</urlset>

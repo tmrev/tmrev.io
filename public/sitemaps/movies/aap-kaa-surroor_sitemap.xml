@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/276049-Aap Kaa Surroor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/276049-Aap Kaa Surroor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n6zsKbKV6VsSTlG5fNziyPt6J3g.jpg</image:loc
+      >
+      <image:caption
+        >While on tour in Germany, a rock star falls in love with concert
+        promoter. But when the police arrest him for murder, he must escape and
+        prove his innocence to win back his beloved's heart.</image:caption
+      >
+      <image:title>Aap Kaa Surroor</image:title>
+    </image:image>
+  </url>
+</urlset>

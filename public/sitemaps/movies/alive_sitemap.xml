@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/107765-Alive!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/107765-Alive!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sac8rnt6ytcL4tL0J44DSOBjPL5.jpg</image:loc
+      >
+      <image:caption
+        >A young college student from rural Albania leaves school to visit home,
+        only to find himself embroiled in his family's deadly blood
+        feud.</image:caption
+      >
+      <image:title>Alive!</image:title>
+    </image:image>
+  </url>
+</urlset>

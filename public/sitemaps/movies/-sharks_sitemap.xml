@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/530838-700 Sharks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/530838-700 Sharks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/114DkOBVF8QKndsHGXicRKfOoCM.jpg</image:loc
+      >
+      <image:caption
+        >Imagine diving into the ocean only to discover that you are surrounded
+        by one of the largest shark frenzies on the planet. Well, that is
+        exactly what these researchers did in the name of science. In Polynesia,
+        the largest school of sharks — about 700 — patrols the waters en masse.
+        Follow an international team of scientists as they study these
+        magnificent creatures at night, when they are most aggressive, to
+        discover their mysterious hunting strategies and social behaviours. The
+        result: incredible new behaviours never seen before, or caught on
+        camera.</image:caption
+      >
+      <image:title>700 Sharks</image:title>
+    </image:image>
+  </url>
+</urlset>

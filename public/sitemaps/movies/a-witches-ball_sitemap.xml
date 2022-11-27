@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/487047-A Witches' Ball</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/487047-A Witches' Ball</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg</image:loc
+      >
+      <image:caption
+        >Every year the Witching World gathers to celebrate the newly inducted
+        witches into their world. Beatrix (12) is eager to become part of this
+        world, but when her pending magical status is jeopardized she needs the
+        help of her furry best friend Muggs (voiced by Joey Fatone) to solve
+        some magical riddles before the big event. Will Beatrix sink or soar on
+        the night of the Witches' Ball?</image:caption
+      >
+      <image:title>A Witches' Ball</image:title>
+    </image:image>
+  </url>
+</urlset>

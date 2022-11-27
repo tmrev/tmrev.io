@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44095-A Map For Saturday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44095-A Map For Saturday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9puiWItbysEGrP7PFYXEYlyaI6Y.jpg</image:loc
+      >
+      <image:caption
+        >On a trip around the world, every day feels like Saturday. A Map For
+        Saturday reveals a world of long-term, solo travel through the stories
+        of trekkers in 20 countries on four continents. The documentary finds
+        backpackers helping neglected Thai tsunami victims. It explains why
+        Nepal's guesthouses are empty and Brazil's stoplights are ignored. But
+        at it's core, A Map For Saturday tracks the emotional arc of extreme
+        long-term travelers; teenagers and senior citizens who wondered, "What
+        would it be like to travel the world?" Then did it.</image:caption
+      >
+      <image:title>A Map For Saturday</image:title>
+    </image:image>
+  </url>
+</urlset>

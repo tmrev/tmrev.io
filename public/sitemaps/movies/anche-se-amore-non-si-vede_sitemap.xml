@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79643-Anche se è amore non si vede</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79643-Anche se è amore non si vede</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bHuGKnQZaHIleA024yGS8CBR1qh.jpg</image:loc
+      >
+      <image:caption
+        >Salvo and Valentino are two Sicilian friends who have moved to Turin,
+        and now run a small business together. They drive foreign tourists
+        around in a double-decker bus, and Salvo always tries to approach the
+        pretty girls.</image:caption
+      >
+      <image:title>Anche se è amore non si vede</image:title>
+    </image:image>
+  </url>
+</urlset>

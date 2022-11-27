@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77697-A Butterfly Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77697-A Butterfly Kiss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gY3U5IxPhJhoayBvWWMnBRIUCNI.jpg</image:loc
+      >
+      <image:caption
+        >Billie and Louis have the good fortune of loving each other
+        passionately and of having a family. But then one day terrible news
+        turns their existence and that of their friends' upside down. Marie, a
+        famous actress who is Billie's friend and confidant, redoubles her
+        determination to give life, while Alice, her nurse, fighting for
+        freedom, maintains that life 'is here and now and in the moment.' A film
+        about love, hope, and the conviction that the force of life, despite the
+        toughest tests, will always gain the upper hand.</image:caption
+      >
+      <image:title>A Butterfly Kiss</image:title>
+    </image:image>
+  </url>
+</urlset>

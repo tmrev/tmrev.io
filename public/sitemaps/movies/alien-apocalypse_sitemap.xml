@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14907-Alien Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14907-Alien Apocalypse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n3uClNYnGvIIqT5blOgz56VCTc0.jpg</image:loc
+      >
+      <image:caption
+        >An astronaut doctor Ivan Hood and his fellow astronaut Kelly return
+        from their mission in space to find the world has been taken over by
+        aliens. Now Dr. Ivan Hood and Kelly must lead a revolution to free the
+        human slaves from their alien masters.</image:caption
+      >
+      <image:title>Alien Apocalypse</image:title>
+    </image:image>
+  </url>
+</urlset>

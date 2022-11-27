@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400529-All the Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400529-All the Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4IuCuNwPJ3k7vA0ggiRrSXqoht4.jpg</image:loc
+      >
+      <image:caption
+        >Sarah (Ann Eleonora Jørgensen) and David (Magnus Crepper) meet for the
+        first time in ten years when she arrives at his summer residence. David
+        needs help finishing a play, which turns out to be a dramatization of
+        their long, troublesome relationship. The film presents three love
+        stories about seemingly different couples; all named Sarah and David,
+        but played by different actors in respectively their 20s, 30s and
+        40s.</image:caption
+      >
+      <image:title>All the Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

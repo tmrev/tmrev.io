@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24823-Adam Hills: Characterful</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24823-Adam Hills: Characterful</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jst8wFTWqD2O6lsi0ciclCcmulH.jpg</image:loc
+      >
+      <image:caption
+        >Characterful delivers one of Adam's most acclaimed shows, recorded live
+        with AUSLAN interpreter Leanne Beer at Melbourne's Athenaeum
+        Theatre</image:caption
+      >
+      <image:title>Adam Hills: Characterful</image:title>
+    </image:image>
+  </url>
+</urlset>

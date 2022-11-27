@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/718005-Aaron</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/718005-Aaron</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g6EN9ftN2XJF78xwf6Bon7wH07P.jpg</image:loc
+      >
+      <image:caption
+        >Babu, a fifteen-year-old boy from a small village in Konkan
+        (Maharashtra), has not met his mother for many years due to her work in
+        Paris. The boy and his uncle, who is entrusted with the responsibility
+        of taking him to his mother, start their journey to Paris, which turns
+        out to be an unforgettable sojourn for them. Babu's quest to meet his
+        mother with the help of his uncle reveals many dimensions of human
+        nature, feelings, and emotions.</image:caption
+      >
+      <image:title>Aaron</image:title>
+    </image:image>
+  </url>
+</urlset>

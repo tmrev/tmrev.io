@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/394991-Africa's Deadly Dozen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/394991-Africa's Deadly Dozen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/igAeCqjdxehvgMzbY2G5wFHUi3I.jpg</image:loc
+      >
+      <image:caption
+        >Africa is a continent that conjures up images of bold predators: Lions,
+        cheetahs, hyenas, and jackals. Now National Geographic sets those
+        four-legged giants aside in search of the twelve deadliest snakes in
+        Africa, including the continent’s most lethal serpent. There are over
+        400 different species of snakes in Africa, nearly 100 of those are
+        considered dangerous to man. Out of those, 12 stand out.</image:caption
+      >
+      <image:title>Africa's Deadly Dozen</image:title>
+    </image:image>
+  </url>
+</urlset>

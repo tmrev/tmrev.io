@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/510452-All Inclusive</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/510452-All Inclusive</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tFvwfaHpm8AJ9oWz1q3EVZfa7Rg.jpg</image:loc
+      >
+      <image:caption
+        >Planted by his fiancee at the airport, Bruno flies away alone for a
+        week in an All Inclusive Caribbean vacation club. Bad news never comes
+        alone, he will have to share his room with Jean-Paul Cisse, eternal
+        bachelor very invading .</image:caption
+      >
+      <image:title>All Inclusive</image:title>
+    </image:image>
+  </url>
+</urlset>

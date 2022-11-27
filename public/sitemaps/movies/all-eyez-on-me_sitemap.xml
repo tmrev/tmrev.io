@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/402529-All Eyez on Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/402529-All Eyez on Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zmgsaKFWbmZ1Grz4SO0PLNxilv3.jpg</image:loc
+      >
+      <image:caption
+        >All Eyez on Me chronicles the life and legacy of Tupac Shakur,
+        including his rise to superstardom as a hip-hop artist, actor, poet and
+        activist, as well as his imprisonment and prolific, controversial time
+        at Death Row Records. Against insurmountable odds, Tupac rose to become
+        a cultural icon whose career and persona both continue to grow long
+        after his passing.</image:caption
+      >
+      <image:title>All Eyez on Me</image:title>
+    </image:image>
+  </url>
+</urlset>

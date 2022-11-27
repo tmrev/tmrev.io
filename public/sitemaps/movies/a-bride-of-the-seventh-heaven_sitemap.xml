@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365440-A Bride of the Seventh Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365440-A Bride of the Seventh Heaven</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An elderly Nenets woman in teepee on northern Russia's Yamal Peninsula
+        recounts her early life betrothed to a deity for the entertainment of a
+        blind young girl. In the Nenets culture, a girl child can be married to
+        holiest of holies, Num, before or after her birth. Lonely old Numd'
+        Syarda (which means, literally, 'tied to Num') entertains the blind
+        young Ilne ('giver of life') with stories of how she became one of these
+        chosen few.</image:caption
+      >
+      <image:title>A Bride of the Seventh Heaven</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/409056-Along Came the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/409056-Along Came the Devil</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tEiu83QxMMWWD8gWUtXR4piF1Iw.jpg</image:loc
+      >
+      <image:caption
+        >After a troubled childhood, Ashley searches for a connection, and
+        unknowingly invites in a demonic force, which leaves her loved ones
+        fighting for her soul.</image:caption
+      >
+      <image:title>Along Came the Devil</image:title>
+    </image:image>
+  </url>
+</urlset>

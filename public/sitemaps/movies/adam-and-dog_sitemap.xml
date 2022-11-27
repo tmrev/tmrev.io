@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157301-Adam and Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157301-Adam and Dog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6u1NFKH6iccY54VAio46Ucjdfma.jpg</image:loc
+      >
+      <image:caption
+        >The story about the dog of Eden. What happened in those first days of
+        Creation that made Man and Dog so inseparable? The dog, as he lives
+        through this curious world, encounters a strange creature; a human being
+        named Adam - and with that discovers a new found connection to the
+        world.</image:caption
+      >
+      <image:title>Adam and Dog</image:title>
+    </image:image>
+  </url>
+</urlset>

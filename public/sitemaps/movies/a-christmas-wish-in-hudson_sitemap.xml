@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/874204-A Christmas Wish in Hudson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/874204-A Christmas Wish in Hudson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/avfNRBUIlTnJ0cUIbuz12dyf7pl.jpg</image:loc
+      >
+      <image:caption
+        >Lori really needs a break for Christmas. When she sees Patrick Jacobs,
+        a widowed firefighter from Hudson, Wisconsin on a reality cooking show,
+        she feels a strong attraction and decides to take a shot at love, but
+        she's not the only one.</image:caption
+      >
+      <image:title>A Christmas Wish in Hudson</image:title>
+    </image:image>
+  </url>
+</urlset>

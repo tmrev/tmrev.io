@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/977387-A Most Unlikely Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/977387-A Most Unlikely Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fgsWdUfrS9dbF93hXBdAgLmVF3c.jpg</image:loc
+      >
+      <image:caption
+        >Captain Bruce Yamashita just wanted to serve his country; because of
+        his race and ethnicity, the U.S. Marine Corps denied him the chance.
+        Instead of giving in to discrimination, he took a stand for fairness and
+        justice, uncovering evidence that rocked the Corps. A MOST UNLIKELY HERO
+        presents Bruce’s story as a model of courage and commitment in
+        contemporary America.</image:caption
+      >
+      <image:title>A Most Unlikely Hero</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/258444-Amorous Pancho Villa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/258444-Amorous Pancho Villa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mjLlWqN8ECMSJacZ9nHJw4uPkZu.jpg</image:loc
+      >
+      <image:caption
+        >The assassination of Pancho Villa, on the outskirts of Parral,
+        Chihuahua, plunged the city into mourning, and a wake for the
+        revolutionary hero was held by his closest collaborators. Conspicuous
+        among the mourners were the four women with whom Villa was having
+        intimate relationships at the time of his death. Now that Villa is no
+        longer around to mediate and keep them apart, tensions between the women
+        grow and intensify, with unexpected consequences. An intimate and human
+        portrait of the Centaur of the North.</image:caption
+      >
+      <image:title>Amorous Pancho Villa</image:title>
+    </image:image>
+  </url>
+</urlset>

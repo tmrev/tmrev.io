@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/187423-A Pirate's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/187423-A Pirate's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gRNgbYBs88O4JBhNk9qY2KiXh49.jpg</image:loc
+      >
+      <image:caption
+        >The end of the 14th century. Parents send the eldest son Jan to study
+        in Hamburg, and the youngest - Klaus - to the monastery. No sooner had
+        the children moved away from their homes, as on Klaus'es eyes the
+        robbers kill their parents and burn the house. Only thanks to the loyal
+        monk Wigbold Klaus managed to survive the shock. A few years later Klaus
+        Störtebeker finds his brother Jan and his long-time friend Elizabeth
+        Pren in Hamburg. From her, he learns that she is expected to marry Simon
+        von Wallenrod, whose father Klaus suspects of killing his parents. But
+        the Pranks and the Wallenrods are rich and respected people, and Klaus
+        is a poor man. And now he becomes a pirate...</image:caption
+      >
+      <image:title>A Pirate's Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

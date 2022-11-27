@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479469-Adam: The Mirror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479469-Adam: The Mirror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3GdDzzcZp4Fd0FrySZL5CApoCJT.jpg</image:loc
+      >
+      <image:caption
+        >Oats Studios brings to life the next chapter in the Adam story, made in
+        real-time using Unity. Join our amnesiac hero as he discovers a clue
+        about what and who he is.</image:caption
+      >
+      <image:title>Adam: The Mirror</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/191745-Aanivaer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/191745-Aanivaer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7EsYcwzy8zazxLJfbKnVeCCnaEl.jpg</image:loc
+      >
+      <image:caption
+        >Aanivaer is a Tamil independent film directed by Indian Tamil film
+        director John Mahendran. The film was shot in Sri Lanka with a story and
+        screenplay revolving around a love story amid the ongoing Civil War in
+        Sri Lanka.</image:caption
+      >
+      <image:title>Aanivaer</image:title>
+    </image:image>
+  </url>
+</urlset>

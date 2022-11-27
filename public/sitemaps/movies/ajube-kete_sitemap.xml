@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/581597-Ajube Kete</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/581597-Ajube Kete</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/65YDm8JpKbXd2SDNn9UfA7geu0u.jpg</image:loc
+      >
+      <image:caption
+        >Part documentary, part fiction, Ajube Kete is positioned as a day in
+        the life of a West African girl. Filmed in the village of Kumasi, Ghana
+        the story follows a young girl as she works on chores throughout the
+        day. The girl attempts to complete her chores amidst ridicule by older
+        voices heard off-screen.</image:caption
+      >
+      <image:title>Ajube Kete</image:title>
+    </image:image>
+  </url>
+</urlset>

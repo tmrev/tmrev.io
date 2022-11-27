@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/901851-100 Days with Tata</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/901851-100 Days with Tata</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vQQ0cvmAt5HU2Y3GKESkgDKCYva.jpg</image:loc
+      >
+      <image:caption
+        >During the pandemic, actor Miguel Ángel Muñoz documents his 100-plus
+        days living in a tiny flat with his beloved Tata, 95, who becomes an
+        Instagram star.</image:caption
+      >
+      <image:title>100 Days with Tata</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/423893-A Christmas to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/423893-A Christmas to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xIuyBz9V3lkkQLvarlzwVwPIvUj.jpg</image:loc
+      >
+      <image:caption
+        >A harsh TV personality, Jennifer, needs a break from her own life, so
+        she hops into a car and drives to a small town mountain retreat. On her
+        way there a blizzard veers off the road and she crashes. When she comes
+        to she has complete amnesia and a friendly passerby takes her in. As
+        time passes she still doesn’t remember who she is and the friendly
+        passerby, a widower himself with three kids, assimilates her into his
+        family. But as she slowly starts remembering who she is, she prefers the
+        new life she’s built in the small town.</image:caption
+      >
+      <image:title>A Christmas to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

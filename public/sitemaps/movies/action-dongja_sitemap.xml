@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/917898-Action Dongja</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/917898-Action Dongja</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1zS52jL8K7vq2j0vkTRSBw6hy4k.jpg</image:loc
+      >
+      <image:caption
+        >A rare chance to experience a live-action children’s movie made in
+        Korea. An elementary student name Jingu can no longer stay with his
+        parents and comes to live in a temple of young monks, but he is shy and
+        does not get along with the others. Then one day someone breaks in and
+        steals a statue and the altar portrait. As the only one who witnessed
+        the crime, Jingu sets off with the other young monks to catch the
+        thieves.</image:caption
+      >
+      <image:title>Action Dongja</image:title>
+    </image:image>
+  </url>
+</urlset>

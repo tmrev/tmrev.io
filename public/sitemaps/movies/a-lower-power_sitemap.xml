@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82034-A Lower Power</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82034-A Lower Power</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rRQbjhuNWeYcTS54WjiRuQHuNw.jpg</image:loc
+      >
+      <image:caption
+        >Thibodeaux, a young gay San Franciscan, yearns to reject his parents'
+        hedonistic ways. But when his emerging sexual desires repeatedly get the
+        better of him, he conjures up twisted, self-repressive rationalizations
+        that threaten to drive away his friends and the hunky, mythic man of his
+        dreams.</image:caption
+      >
+      <image:title>A Lower Power</image:title>
+    </image:image>
+  </url>
+</urlset>

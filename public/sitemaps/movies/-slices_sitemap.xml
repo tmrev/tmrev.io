@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/691126-8 Slices</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/691126-8 Slices</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pcru61quCOB7DPmF5jJMikgI68F.jpg</image:loc
+      >
+      <image:caption
+        >A new hire joins a small town pizza restaurant just as the business
+        fails and its employees question the "American Dream."</image:caption
+      >
+      <image:title>8 Slices</image:title>
+    </image:image>
+  </url>
+</urlset>

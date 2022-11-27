@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/388259-Against the Wild II: Survive the
+      Serengeti</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/388259-Against the Wild II: Survive the
+      Serengeti</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/txQAYUEtE6nWlBHBkNNTncJx7LS.jpg</image:loc
+      >
+      <image:caption
+        >Two kids and their dog must use all their skills to survive in the
+        African bush after a plane crash.</image:caption
+      >
+      <image:title>Against the Wild II: Survive the Serengeti</image:title>
+    </image:image>
+  </url>
+</urlset>

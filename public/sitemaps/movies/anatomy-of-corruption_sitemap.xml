@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/400868-Anatomy of Corruption</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/400868-Anatomy of Corruption</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lqqCMoYYTlKeugk7okzOw3XRq6.jpg</image:loc
+      >
+      <image:caption
+        >A group of government workers: their happy-go-lucky circumstance,
+        failed responsibilities, and reckless work ethic. It delves into the
+        world of a government agency where non-stop discussion of intrigues and
+        personal frailties is the order of the day.</image:caption
+      >
+      <image:title>Anatomy of Corruption</image:title>
+    </image:image>
+  </url>
+</urlset>

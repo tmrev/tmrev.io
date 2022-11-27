@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/679-Aliens</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/679-Aliens</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg</image:loc
+      >
+      <image:caption
+        >When Ripley's lifepod is found by a salvage crew over 50 years later,
+        she finds that terra-formers are on the very planet they found the alien
+        species. When the company sends a family of colonists out to investigate
+        her story—all contact is lost with the planet and colonists. They enlist
+        Ripley and the colonial marines to return and search for
+        answers.</image:caption
+      >
+      <image:title>Aliens</image:title>
+    </image:image>
+  </url>
+</urlset>

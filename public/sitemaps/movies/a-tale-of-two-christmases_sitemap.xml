@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028546-A Tale of Two Christmases</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028546-A Tale of Two Christmases</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Thanks to some Christmas magic, Emma gets to experience two different
+        Christmases – one where she stays in the city and celebrates with a new
+        crush and his friends, and one where she returns home for all the
+        traditions with her family…and Drew, a longtime friend who may have
+        feelings for her. Emma’s double holiday ultimately helps her discover
+        what will truly make her happy in life as well as in
+        love.</image:caption
+      >
+      <image:title>A Tale of Two Christmases</image:title>
+    </image:image>
+  </url>
+</urlset>

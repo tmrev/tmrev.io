@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/957446-An Old-Fashioned Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/957446-An Old-Fashioned Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xxVNpkTdjYdEhdDLLqSFaxaoRzo.jpg</image:loc
+      >
+      <image:caption
+        >In the second half of the 1800s, the daughter of a Debrecen family
+        marries a landowner, Kálmán Jablonczay. The couple move to the husband's
+        castle. The marriage starts off happily but the new wife, Mária Rickl,
+        soon finds herself at odds with the gentry lifestyle, her husband and
+        her father-in-law...</image:caption
+      >
+      <image:title>An Old-Fashioned Story</image:title>
+    </image:image>
+  </url>
+</urlset>

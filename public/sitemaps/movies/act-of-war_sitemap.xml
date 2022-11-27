@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/290501-Act of War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/290501-Act of War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8Px5Auqv9etvaqmHQu1Su40NqXD.jpg</image:loc
+      >
+      <image:caption
+        >Jack Gracy, a former security guard at the American Embassy in Russia,
+        has shown up uninvited to a party at the embassy in the former Soviet
+        Republic of Bazrhikistan, where his estranged girlfriend is working. As
+        the two are talking upstairs, a group of terrorists disguised as
+        caterers burst in and take all the guests downstairs hostage. The
+        terrorists are threatening to launch nuclear missles at America if their
+        demands are not met, but they haven't planned on Jack being their to
+        spoil the party.</image:caption
+      >
+      <image:title>Act of War</image:title>
+    </image:image>
+  </url>
+</urlset>

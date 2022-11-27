@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44154-A Touch of Zen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44154-A Touch of Zen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pgveqayMFUIZbFqN87ghiKmmxt3.jpg</image:loc
+      >
+      <image:caption
+        >Ming dynasty noblewoman Yang must escape from the evil eunuch Hsu. She
+        seeks refuge at a decrepit town where she gets assistance from a naïve
+        scholar and a group of mysterious yet powerful monks.</image:caption
+      >
+      <image:title>A Touch of Zen</image:title>
+    </image:image>
+  </url>
+</urlset>

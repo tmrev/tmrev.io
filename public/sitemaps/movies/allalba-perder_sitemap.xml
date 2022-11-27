@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/879610-All’alba perderò</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/879610-All’alba perderò</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vK609hdHYqTOQTFlkW16TCxGspW.jpg</image:loc
+      >
+      <image:caption
+        >The film recounts failure in a fun and constructive way, often
+        experienced as an indelible shame and almost never as a precious
+        opportunity for growth.</image:caption
+      >
+      <image:title>All’alba perderò</image:title>
+    </image:image>
+  </url>
+</urlset>

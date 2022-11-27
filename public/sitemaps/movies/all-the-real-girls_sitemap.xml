@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13132-All the Real Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13132-All the Real Girls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sQ6dMkwPIFucYSmFQcr38WBYzs.jpg</image:loc
+      >
+      <image:caption
+        >In a sleepy little mill town in North Carolina, Paul is the town Romeo.
+        But when his best friend's sister returns home from boarding school, he
+        finds himself falling for her innocent charm. In spite of her lack of
+        experience and the violent protests of her brother, the two find
+        themselves in a sweet, dreamy and all-consuming love.</image:caption
+      >
+      <image:title>All the Real Girls</image:title>
+    </image:image>
+  </url>
+</urlset>

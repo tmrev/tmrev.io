@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/733397-Adolescence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/733397-Adolescence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uk2i6ClLqsh7KVUPnY8fmbAFgCx.jpg</image:loc
+      >
+      <image:caption
+        >At dawn, the mother blesses her son bidding him farewell. He is
+        accompanied by his father. Together they go to the station. There, his
+        girlfriend is waiting for him. She does not only see him off, but is
+        going to leave with him. The father does not let her go. They stay, and
+        the boy goes to where a new life awaits him, without the father’s
+        watchful eye, mother’s care and girlfriend’s tears. According to the
+        director, here the main character had difficult relationships, and there
+        begins a new stage, his life will change, but we will not see
+        it.</image:caption
+      >
+      <image:title>Adolescence</image:title>
+    </image:image>
+  </url>
+</urlset>

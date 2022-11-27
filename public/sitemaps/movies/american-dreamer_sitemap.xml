@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931461-American Dreamer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931461-American Dreamer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d8oIfWy9sAALWO0z9CHdKkbRZRI.jpg</image:loc
+      >
+      <image:caption
+        >In this winsome comedy, an entitled Economics professor pursues a
+        tactic to buy an ailing widow’s mansion for nothing, but he quickly
+        realizes that his seemingly foolproof strategy won’t be as easy as he
+        thought.</image:caption
+      >
+      <image:title>American Dreamer</image:title>
+    </image:image>
+  </url>
+</urlset>

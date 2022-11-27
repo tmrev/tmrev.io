@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17805-Alien Tracker</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17805-Alien Tracker</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/acIjwmxOHebCOk18YRiT6VcmQjJ.jpg</image:loc
+      >
+      <image:caption
+        >In a galaxy far away, alien criminals organize a spectacular prison
+        break. Pursued by their home planet's authorities, their leader Zin
+        decides there's only one place to go: through a wormhole that allows
+        instantaneous travel to Earth. Cole is the Alien Tracker who's in hot
+        pursuit of the escaped convicts.</image:caption
+      >
+      <image:title>Alien Tracker</image:title>
+    </image:image>
+  </url>
+</urlset>

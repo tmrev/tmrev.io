@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/760105-A New Husband for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/760105-A New Husband for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4bGWZWvPV9ahUsTNhs1Kx93b6IY.jpg</image:loc
+      >
+      <image:caption
+        >Centered around one couple (Stan and Kelly Stevenson) who seem to be
+        more committed to growing apart rather than growing together. Their
+        friends are caught in the middle of divorce conversations during one of
+        the most joyous seasons of the year. Rather working things out, Kelly's
+        one wish for Christmas is for Jesus to bless her with a new
+        husband.</image:caption
+      >
+      <image:title>A New Husband for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

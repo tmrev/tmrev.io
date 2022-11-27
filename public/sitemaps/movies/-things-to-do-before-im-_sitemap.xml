@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30240-7 Things To Do Before I'm 30</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30240-7 Things To Do Before I'm 30</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qYUaq94qip1lUrj5zwM97X7J1Cw.jpg</image:loc
+      >
+      <image:caption
+        >Lori Madison is a young woman turning 30 who returns to her Colorado
+        hometown and discovers a childhood list of seven things to do before she
+        turned 30, and finds that she has yet to achieve any of them. So, Lori
+        sets out on a frantic, and humorous quest to accomplish them before her
+        30th birthday just three weeks away</image:caption
+      >
+      <image:title>7 Things To Do Before I'm 30</image:title>
+    </image:image>
+  </url>
+</urlset>

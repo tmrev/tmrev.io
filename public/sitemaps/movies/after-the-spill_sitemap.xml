@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403581-After the Spill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403581-After the Spill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gUs0CLgrCKgIud5ZEGdOYFizz8z.jpg</image:loc
+      >
+      <image:caption
+        >Ten years ago Hurricane Katrina devastated the coast of Louisiana. Five
+        years later the Deepwater Horizon exploded and spilled more than 200
+        million gallons of oil into the Gulf of Mexico, the worst ecologic
+        disaster in North American history. Amazingly those aren't the worst
+        things facing Louisiana's coastline today. It is that the state is fast
+        disappearing. When on Earth Day 2010 BP's Deepwater Horizon exploded and
+        sank many in Louisiana predicted it would change the state's coastline
+        forever, both its economy and its people. How has the coast changed in
+        the past five years?</image:caption
+      >
+      <image:title>After the Spill</image:title>
+    </image:image>
+  </url>
+</urlset>

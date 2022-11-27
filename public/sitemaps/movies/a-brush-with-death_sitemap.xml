@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60483-A Brush With Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60483-A Brush With Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4UMVVLQ1rd1SBVS84KNJaAnV4qW.jpg</image:loc
+      >
+      <image:caption
+        >Five high school cheerleaders drive out to a rural mansion to spend the
+        weekend. They hear a thirty year-old urban legend about a young boy who
+        killed his family and used their blood in his juvenile artwork. While
+        exploring an old farmhouse on the property they discover that the boy
+        never left his home and has grown into a sick and twisted
+        man.</image:caption
+      >
+      <image:title>A Brush With Death</image:title>
+    </image:image>
+  </url>
+</urlset>

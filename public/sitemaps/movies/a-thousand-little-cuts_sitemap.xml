@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/653942-A Thousand Little Cuts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/653942-A Thousand Little Cuts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uIQF0JiHwUeoDvIWiGHsVf0hUaM.jpg</image:loc
+      >
+      <image:caption
+        >A young woman wakes up in a hospital, convinced she is recovering from
+        minor surgery only to find herself in a battle of wits with a
+        psychiatrist who can't let her leave until she remembers "what happened
+        that night." Events turn a darker corner as doctor and patient try to
+        unlock not only what traumatic event Anne is suppressing, but also who
+        was there, why it happened, and why Anne's subconscious is fighting so
+        hard to prevent her from talking about it.</image:caption
+      >
+      <image:title>A Thousand Little Cuts</image:title>
+    </image:image>
+  </url>
+</urlset>

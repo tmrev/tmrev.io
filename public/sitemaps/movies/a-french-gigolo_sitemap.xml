@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15460-A French Gigolo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15460-A French Gigolo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zcvGrwnWAW1GwiCEQU68wolGa2B.jpg</image:loc
+      >
+      <image:caption
+        >Marco leads a double life. As Marco, he is a construction worker but
+        rich ladies craving sexual excitation know him as Patrick. As Marco he
+        is married to Fanny, an ambitious young woman who has opened her own
+        hairdressing salon in partnership with her friend Rosalie. Marco/Patrick
+        is not a male prostitute at heart: in fact he does the job in order to
+        support his wife's business. Which doesn't prevent Judith, an elegant
+        tele-shopping presenter who buys his services, from falling in love with
+        him. But when Fanny learns what Marco does and with whom, she first gets
+        mad but soon starts interfering in their affair.</image:caption
+      >
+      <image:title>A French Gigolo</image:title>
+    </image:image>
+  </url>
+</urlset>

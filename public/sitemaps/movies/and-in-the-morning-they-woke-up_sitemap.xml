@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/323744-And in the Morning They Woke Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/323744-And in the Morning They Woke Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Sergey Nikonenko directs this charming comedy inspired by three short
+        stories ("The Insult," "At Night in the Boiler Room" and "Greetings to
+        the Grey One") and an unfinished book by Russian writer, actor and
+        filmmaker Vasily Shukshin. The character study follows the occupants of
+        a drunk tank, who, after awakening to find themselves temporarily
+        incarcerated, proceed to recount the events that led them to their
+        present situation.</image:caption
+      >
+      <image:title>And in the Morning They Woke Up</image:title>
+    </image:image>
+  </url>
+</urlset>

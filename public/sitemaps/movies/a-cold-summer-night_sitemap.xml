@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/538699-A Cold Summer Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/538699-A Cold Summer Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sky8ZFQ9tDof0hXyrAwY6TNN4rZ.jpg</image:loc
+      >
+      <image:caption
+        >An ordinary night starts to get dramatic for Ketan, a Maharashtrian
+        migrant, when his car is being crashed and attracts excessive attention
+        in the conservative neighborhood. Stuck with his mistress in his small
+        rented room while his pregnant wife is away, he has to face the angry
+        locals.</image:caption
+      >
+      <image:title>A Cold Summer Night</image:title>
+    </image:image>
+  </url>
+</urlset>

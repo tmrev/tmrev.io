@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/696109-A Glitch in the Matrix</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/696109-A Glitch in the Matrix</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bn0BLVadmvzq6MmJ0n97MLxGpNQ.jpg</image:loc
+      >
+      <image:caption
+        >Are we in fact living in a simulation? This is the question postulated,
+        wrestled with, and ultimately argued for through archival footage,
+        compelling interviews with real people shrouded in digital avatars, and
+        a collection of cases from some of our most iconoclastic figures in
+        contemporary culture.</image:caption
+      >
+      <image:title>A Glitch in the Matrix</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/308648-A Long Walk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/308648-A Long Walk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mOKOAscYLNS09ImxWtX8Xzqu5XZ.jpg</image:loc
+      >
+      <image:caption
+        >A father humiliates his son by parading him through the neighborhood in
+        women's clothing in front of all the other kids on a summer day. The
+        impact of that decision ripples through his family and best friend's
+        lives for years to come. This story is based on true
+        events.</image:caption
+      >
+      <image:title>A Long Walk</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20858-8 Million Ways to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20858-8 Million Ways to Die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xSvEwTz6nrZVEoyrajdKxLB0oVl.jpg</image:loc
+      >
+      <image:caption
+        >Scudder is a detective with the Sheriff's Department who is forced to
+        shoot a violent suspect during a narcotics raid. The ensuing
+        psychological aftermath of this shooting worsens his drinking problem
+        and this alcoholism causes him to lose his job, as well as his
+        marriage.</image:caption
+      >
+      <image:title>8 Million Ways to Die</image:title>
+    </image:image>
+  </url>
+</urlset>

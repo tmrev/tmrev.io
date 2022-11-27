@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/289613-A Bad Day at the Cemetery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/289613-A Bad Day at the Cemetery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An epic home made movie by Jess Franco. It was only shown at the
+        Cinematheque Francaise, Paris in 2008 . Four years later the movie was
+        recut and extended with some scenes by Jess Franco and his new producer,
+        splittet in two parts and re-released as "Crypt of the Condemned" Part I
+        and Part II.</image:caption
+      >
+      <image:title>A Bad Day at the Cemetery</image:title>
+    </image:image>
+  </url>
+</urlset>

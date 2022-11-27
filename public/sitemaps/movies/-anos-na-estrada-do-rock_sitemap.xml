@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/771090-20 Anos na Estrada do Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/771090-20 Anos na Estrada do Rock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tCXGQYV0Jmnv1fLM7HYwVqYgDED.jpg</image:loc
+      >
+      <image:caption
+        >It is a documentary directed by the band Serpente, one of the oldest
+        rock'n roll bands in Belo Horizonte. The band Serpente was formed in
+        1982 with an original objective for the time: to play live songs of
+        their own authorship in a style based on the deepest roots of rock'n
+        roll and traditional rhythm and blues.</image:caption
+      >
+      <image:title>20 Anos na Estrada do Rock</image:title>
+    </image:image>
+  </url>
+</urlset>

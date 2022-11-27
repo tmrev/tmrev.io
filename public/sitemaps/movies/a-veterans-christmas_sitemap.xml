@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/551863-A Veteran's Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/551863-A Veteran's Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k3TNeyevlA5GHPtQaAzmaQcbinC.jpg</image:loc
+      >
+      <image:caption
+        >Captain Grace Garland, a decorated U.S. veteran, returns home after two
+        tours of Search and Rescue in Afghanistan. After being separated from
+        her beloved K9 partner, Grace must rediscover the magic of Christmas.
+        When she finds herself stranded in the town of River’s Crossing a couple
+        weeks before Christmas, the local judge, Joe Peterson, offers her a
+        place to stay on his property and takes it upon himself to show Grace
+        everything she has been missing; Christmas, family, community, and
+        love.</image:caption
+      >
+      <image:title>A Veteran's Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

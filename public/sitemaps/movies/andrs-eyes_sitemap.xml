@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370244-André's Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370244-André's Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1ZRmNpZXH38jwBY5UKmUQxi9Mmh.jpg</image:loc
+      >
+      <image:caption
+        >André's Eyes is an experimental docudrama in which the actual family
+        members themselves participate in the recreation of their own story. Set
+        in a small village in the Portuguese countryside, the film follows the
+        struggle of a divorced father to keep his family together after his
+        youngest son is taken away from them and placed in a foster
+        family.</image:caption
+      >
+      <image:title>André's Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

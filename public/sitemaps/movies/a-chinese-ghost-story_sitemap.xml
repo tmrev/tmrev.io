@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30421-A Chinese Ghost Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30421-A Chinese Ghost Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lxWEEQ27FIKq9yThGCWGrP8jGZi.jpg</image:loc
+      >
+      <image:caption
+        >Ning Tsai-Shen, a humble tax collector, arrives in a small town to
+        carry out his work. No one is willing to give him shelter for the night,
+        so he ends up in the haunted Lan Ro temple. There, he meets Taoist
+        Swordsman Yen Che-Hsia, and the beautiful Nieh Hsiao-Tsing, with whom he
+        falls in love.</image:caption
+      >
+      <image:title>A Chinese Ghost Story</image:title>
+    </image:image>
+  </url>
+</urlset>

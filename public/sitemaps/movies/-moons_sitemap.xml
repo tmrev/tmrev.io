@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/964819-99 Moons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/964819-99 Moons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kvD2Shf2VKuSbCbmQLMS1RenN9c.jpg</image:loc
+      >
+      <image:caption
+        >Everything is under control, she thinks. Everything is lost, he thinks.
+        And then they meet. And fall.</image:caption
+      >
+      <image:title>99 Moons</image:title>
+    </image:image>
+  </url>
+</urlset>

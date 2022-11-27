@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121399-A Chronicle of Corpses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121399-A Chronicle of Corpses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The Elliot estate was once a thriving plantation, but by the 19th
+        century, the family has crumbled under the weight of its own excesses.
+        If sordid sexuality and insanity don't claim their lives, a malevolent
+        force lurking on the land certainly will. Is it a supernatural entity,
+        or simply the poverty-stricken locals seeking revenge? Marj Dusay and
+        Ryan Foley star in this award-winning chiller from auteur Andrew Repasky
+        McElhinney.</image:caption
+      >
+      <image:title>A Chronicle of Corpses</image:title>
+    </image:image>
+  </url>
+</urlset>

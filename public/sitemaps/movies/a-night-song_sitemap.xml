@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/997171-A Night Song</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/997171-A Night Song</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sEFvUhzT1izK5FgqBTDXWoxPCz4.jpg</image:loc
+      >
+      <image:caption
+        >A patient camera glides over the everyday objects: still lives on the
+        wall, flowers in the vase, a swaying drop light. The sun enters the cosy
+        home where Noëlla sits smoking at her laptop, playing Solitaire. The
+        situation is hopeless. She’s going to lose against the computer once
+        again. All the while her son-in-law, Pierre, is organising everything
+        she needs, pragmatic and friendly: breakfast, the (last) doctor’s visit
+        – and then the transfer.</image:caption
+      >
+      <image:title>A Night Song</image:title>
+    </image:image>
+  </url>
+</urlset>

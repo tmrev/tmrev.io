@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/894014-Alda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/894014-Alda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ms2YTBIxYBEbblYgjv5NbPWRnDW.jpg</image:loc
+      >
+      <image:caption
+        >Mrs O. tosses a chicken from her balcony. Mrs O. thinks her neighbor is
+        a secret agent. Mrs O. has Alzheimer’s, but her pet name for her disease
+        is “Alda.” With great humor, irony, and self-deprecating insight, this
+        defiant and willful woman commentates on her own daily life in Prague.
+        There’s a list on the door of friends and family members she’s allowed
+        to let in even if she doesn’t recognize them. Sometimes she thinks she’s
+        living under Communist rule, and she worries that if she doesn’t hang
+        out a flag on Labor Day she’ll be arrested.</image:caption
+      >
+      <image:title>Alda</image:title>
+    </image:image>
+  </url>
+</urlset>

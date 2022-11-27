@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/441186-Adriana's Pact</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/441186-Adriana's Pact</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v71eLPlu75rvyB9KiHKaJLvnsAj.jpg</image:loc
+      >
+      <image:caption
+        >Lissette's favorite aunt, Adriana, settled in Australia, is arrested in
+        2007 while is visiting her family in Chile and accused of having worked
+        for dictator Pinochet's notorious secret police, the DINA, and
+        participated in the commission of state crimes. When Adriana denies
+        these accusations, Lissette begins to investigate her story to film a
+        documentary about it.</image:caption
+      >
+      <image:title>Adriana's Pact</image:title>
+    </image:image>
+  </url>
+</urlset>

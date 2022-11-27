@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/440-Aliens vs Predator: Requiem</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/440-Aliens vs Predator: Requiem</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jCyJN1vj8jqJJ0vNw4hDH2KlySO.jpg</image:loc
+      >
+      <image:caption
+        >The iconic creatures from two of the scariest film franchises in movie
+        history wage their most brutal battle ever—in our own backyard. The
+        small town of Gunnison, Colorado becomes a war zone between two of the
+        deadliest extra-terrestrial life forms—the Alien and the Predator. When
+        a Predator scout ship crash-lands in the hills outside the town, Alien
+        Facehuggers and a hybrid Alien/Predator are released and begin to
+        terrorize the town.</image:caption
+      >
+      <image:title>Aliens vs Predator: Requiem</image:title>
+    </image:image>
+  </url>
+</urlset>

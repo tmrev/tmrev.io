@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/931956-A Minute of Sun Less</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/931956-A Minute of Sun Less</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oqjrEjDI8RBkoAsj8Ogl8Gpqznm.jpg</image:loc
+      >
+      <image:caption
+        >Kamel Raoui, a young police inspector in Tanger, investigates the
+        murder of drug-dealer Hakim Tahiri. The victim's mistress Touria, just
+        living for her fatally-ill younger brother Pipo, is considered the main
+        suspect, so Kamel learns more and more about their hard life
+        circumstances. During the observation, the sexually-confused Kamel falls
+        in love with the young woman, but realizes the imminence for Touria and
+        Pipo too late.</image:caption
+      >
+      <image:title>A Minute of Sun Less</image:title>
+    </image:image>
+  </url>
+</urlset>

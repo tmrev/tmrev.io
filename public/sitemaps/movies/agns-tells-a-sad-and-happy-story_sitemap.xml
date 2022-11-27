@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/737665-Agnès Tells a Sad and Happy Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/737665-Agnès Tells a Sad and Happy Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vlClXYkoHVRZGmQ7GfBZqaufd4G.jpg</image:loc
+      >
+      <image:caption
+        >Director Agnès Varda gathers some of her collaborators from JACQUOT DE
+        NANTES to discuss their experiences making the film, as well as show
+        Varda wove her grief over the loss of her husband, Jacques Demy, into
+        other projects.</image:caption
+      >
+      <image:title>Agnès Tells a Sad and Happy Story</image:title>
+    </image:image>
+  </url>
+</urlset>

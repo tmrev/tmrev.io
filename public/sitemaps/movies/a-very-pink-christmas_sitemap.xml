@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311218-A Very Pink Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311218-A Very Pink Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kPCIfFmb3ffi87wmb8dP6VNumhT.jpg</image:loc
+      >
+      <image:caption
+        >Pink Panther and Big Nose establish rival Christmas tree businesses in
+        their attempts to earn the purchase price for a mutually coveted luxury
+        car. In the process, they inadvertently discover the true Christmas
+        spirit of giving.</image:caption
+      >
+      <image:title>A Very Pink Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/81780-A golpes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/81780-A golpes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gSRLMM2W9oHzhVFFT3No29GzexS.jpg</image:loc
+      >
+      <image:caption
+        >María, Juanita, Vicky, Mena and Nitzia (Zay Nuba) are 5 girls who live
+        on the outskirts of Madrid without an encouraging future. Their only
+        recourse to survive is by doing muggings. They know it's wrong but can't
+        find another solution. Only love will ease their pain</image:caption
+      >
+      <image:title>A golpes</image:title>
+    </image:image>
+  </url>
+</urlset>

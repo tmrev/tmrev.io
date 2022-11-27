@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/342792-A Good Fellow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/342792-A Good Fellow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2Ag5tjzzEYUZMJV9k0j1QNYjTaE.jpg</image:loc
+      >
+      <image:caption
+        >Mızrap is a 40-year old man who is deemed "no good". He lives in a
+        small town in the province of Antakya. His father throws him out as a
+        bluff, while scolding him, after Mizrap loses his job. But Mizrap, stung
+        by his father's words, calls him on his bluff and leaves his father,
+        mother, sister and niece to go on a cross-country trip to stay with his
+        old army buddy Salim, who lives in a village near Mersin. Across the
+        hard way he meets a number of representatives of marginalized groups in
+        Turkish society.</image:caption
+      >
+      <image:title>A Good Fellow</image:title>
+    </image:image>
+  </url>
+</urlset>

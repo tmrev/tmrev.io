@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25501-After Dark, My Sweet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25501-After Dark, My Sweet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1dyMdxRKWg8i79UgX4bHrHpxh0I.jpg</image:loc
+      >
+      <image:caption
+        >The intriguing relationship between three desperados, who try to kidnap
+        a wealthy child in hope of turning their lives around.</image:caption
+      >
+      <image:title>After Dark, My Sweet</image:title>
+    </image:image>
+  </url>
+</urlset>

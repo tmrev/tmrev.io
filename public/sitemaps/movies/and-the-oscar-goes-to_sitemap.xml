@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253639-And the Oscar Goes To...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253639-And the Oscar Goes To...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rRL4xf3Z6kgLUyb5vbGKErlzP4h.jpg</image:loc
+      >
+      <image:caption
+        >The story of the gold-plated statuette that became the film industry's
+        most coveted prize, AND THE OSCAR GOES TO... traces the history of the
+        Academy itself, which began in 1927 when Louis B. Mayer, then head of
+        MGM, led other prominent members of the industry in forming this
+        professional honorary organization. Two years later the Academy began
+        bestowing awards, which were nicknamed "Oscar," and quickly came to
+        represent the pinnacle of cinematic achievement.</image:caption
+      >
+      <image:title>And the Oscar Goes To...</image:title>
+    </image:image>
+  </url>
+</urlset>

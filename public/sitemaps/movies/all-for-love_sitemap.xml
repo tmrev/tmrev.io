@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456191-All for Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456191-All for Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w5Bth1WG5Glma0Y2Qli9RCqLX4v.jpg</image:loc
+      >
+      <image:caption
+        >When a romance novelist is teamed with a Navy SEAL as research for her
+        book, by a mandate from her publisher, she is less than thrilled and he
+        is more than honest. However, as she works with the SEAL, she has a
+        change of heart and learns to look at her life and writing with a
+        different point of view.</image:caption
+      >
+      <image:title>All for Love</image:title>
+    </image:image>
+  </url>
+</urlset>

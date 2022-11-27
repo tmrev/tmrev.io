@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1035278-Aattral</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1035278-Aattral</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lmpcmkkshvwwCEjilwzq8gfGbJb.jpg</image:loc
+      >
+      <image:caption
+        >A mechanical engineer has an aim of inventing unmanned car and his
+        father manages to get money required for project, but dies in a road
+        accident. A robbery attempt stopped by him leads him to the suspicion
+        about his father's death.He sets out to find the truth with his unmanned
+        car named Roger.</image:caption
+      >
+      <image:title>Aattral</image:title>
+    </image:image>
+  </url>
+</urlset>

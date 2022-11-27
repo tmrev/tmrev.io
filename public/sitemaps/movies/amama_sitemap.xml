@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/351095-Amama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/351095-Amama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cfrcTAmgSvGlzO0JWQNCF7SGikJ.jpg</image:loc
+      >
+      <image:caption
+        >The story of a family; the story of a conflict. The rural and the
+        urban, the past and the present, parents and their offspring: opposing
+        ways of life struggle against one another whilst, in eloquent silence,
+        the grandmother ('amama') watches her family’s destiny
+        unfold.</image:caption
+      >
+      <image:title>Amama</image:title>
+    </image:image>
+  </url>
+</urlset>

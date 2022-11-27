@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/33518-Alligator</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/33518-Alligator</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f8qY8U9UPdGL3zZw0N6juU3gBXd.jpg</image:loc
+      >
+      <image:caption
+        >A baby alligator is flushed down a toilet and survives by eating
+        discarded lab animals that have been injected with growth hormones. The
+        now gigantic animal escapes the city sewers and goes on a rampage,
+        pursued by a cop and a big-game hunter.</image:caption
+      >
+      <image:title>Alligator</image:title>
+    </image:image>
+  </url>
+</urlset>

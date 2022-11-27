@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/800685-Akshara</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/800685-Akshara</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u9kwA9DDR5EGiouCjpfM7nDafL7.jpg</image:loc
+      >
+      <image:caption
+        >A physics teacher at a corporate educational institution, who aims to
+        lessen the stress on students, at loggerheads with an ambitious
+        educationalist who wants his students to secure top ranks at any cost so
+        that he can gain monopoly in corporate education.</image:caption
+      >
+      <image:title>Akshara</image:title>
+    </image:image>
+  </url>
+</urlset>

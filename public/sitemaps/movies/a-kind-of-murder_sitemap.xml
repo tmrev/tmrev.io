@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/305943-A Kind of Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/305943-A Kind of Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hEeuCjUnGFCPdHbHFUUGGsCIrNt.jpg</image:loc
+      >
+      <image:caption
+        >An aspiring writer investigates the murder of a local woman, who was
+        allegedly killed by her husband but things take a nasty turn after his
+        wife turns up dead at the same spot.</image:caption
+      >
+      <image:title>A Kind of Murder</image:title>
+    </image:image>
+  </url>
+</urlset>

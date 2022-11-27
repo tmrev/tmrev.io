@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/67271-A Day in Black and White</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/67271-A Day in Black and White</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Two men identified only as Black Man and White Man start the film as a
+        discussion over a speech on race to be given at school the next day and
+        escalates into an argument about the differences in the races - moving
+        along all of the cultural lines and finding mutual fears and
+        concerns.</image:caption
+      >
+      <image:title>A Day in Black and White</image:title>
+    </image:image>
+  </url>
+</urlset>

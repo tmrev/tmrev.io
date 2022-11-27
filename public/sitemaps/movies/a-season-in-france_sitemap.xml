@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/470643-A Season in France</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/470643-A Season in France</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eKWfZwNZo6PHYvjTnCBtEYy0MnP.jpg</image:loc
+      >
+      <image:caption
+        >An African high school teacher flees his war-torn country for France,
+        where he falls in love with a Frenchwoman who offers a roof for him and
+        his family.</image:caption
+      >
+      <image:title>A Season in France</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/60512-Alice in Wasteland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/60512-Alice in Wasteland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xJYsjLDQXAowIo6sTpgzaKXCtpv.jpg</image:loc
+      >
+      <image:caption
+        >Alice and her friends plan to make it rich by robbing an armoured
+        truck, but everything goes haywire when Alice is shot. She wakes up from
+        a year-long coma to find herself down the rabbit hole in a world of
+        pimps, pushers and police payoffs.</image:caption
+      >
+      <image:title>Alice in Wasteland</image:title>
+    </image:image>
+  </url>
+</urlset>

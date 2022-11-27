@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541737-A Gschicht über d'Lieb</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541737-A Gschicht über d'Lieb</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/98l8oam2ecLkWXyK6rv3KBD8jLj.jpg</image:loc
+      >
+      <image:caption
+        >In 1950s Germany, a farmer's children face an excruciating dilemma when
+        the son resists expectations to take over the family
+        farm.</image:caption
+      >
+      <image:title>A Gschicht über d'Lieb</image:title>
+    </image:image>
+  </url>
+</urlset>

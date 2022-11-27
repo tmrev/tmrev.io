@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/159932-A Single Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/159932-A Single Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zRGBGjdeGf12Pmalr1adT9IpoId.jpg</image:loc
+      >
+      <image:caption
+        >The tragic death of a beautiful young girl starts a tense and
+        atmospheric game of cat and mouse between hunter John Moon and the
+        hardened backwater criminals out for his blood.</image:caption
+      >
+      <image:title>A Single Shot</image:title>
+    </image:image>
+  </url>
+</urlset>

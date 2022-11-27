@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/896633-Adele One Night Only</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/896633-Adele One Night Only</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A7tO3IHm02FqRvE4R78bDkYX1Al.jpg</image:loc
+      >
+      <image:caption
+        >A primetime special with performances from the superstar including
+        Adele’s first new material in six years plus her chart-topping hits. The
+        special will also feature an exclusive interview with Adele by Oprah
+        Winfrey from her rose garden, in Adele’s first televised wide-ranging
+        conversation.</image:caption
+      >
+      <image:title>Adele One Night Only</image:title>
+    </image:image>
+  </url>
+</urlset>

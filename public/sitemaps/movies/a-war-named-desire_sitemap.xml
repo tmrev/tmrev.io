@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45410-A War Named Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45410-A War Named Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4MEaPRZ9swSq2yvH1YkKw1aPrHm.jpg</image:loc
+      >
+      <image:caption
+        >Younger brother from HK visits older brother, who is a mid-level
+        mobster in Thailand. He is looking to recoup money the brother took from
+        the family when he fled HK 15 years earlier. His pesky girlfriend,
+        refusing to stay in HK, learns the hard way that there's more to
+        Thailand than elephant rides. The elder brother is caught up in an
+        internal struggle within the mob. Someone is injecting drugs into their
+        gambling operation. His search leads to a tug of war, with the brother
+        and girlfriend caught in the middle.</image:caption
+      >
+      <image:title>A War Named Desire</image:title>
+    </image:image>
+  </url>
+</urlset>

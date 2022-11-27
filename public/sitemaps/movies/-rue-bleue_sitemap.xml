@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/326620-17, rue Bleue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/326620-17, rue Bleue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >17, rue Bleue is an autobiographical drama about an Algerian
+        immigrant's self-destruction in Paris. In it, director Chad Chenouga
+        recounts how his mother, Adda, came to France as an illegal alien,
+        hoping to escape the haunting secrets of her native land, and seeking a
+        new life of wealth. When Adda falls in love with her employer, a wealthy
+        Parisian named Merlin, she believes her fortune is within reach. But
+        troubles begin when Merlin suddenly dies, leaving behind no clear will.
+        Adda, believing in the Algerian superstition that a beauty mark on her
+        son's hand signifies great wealth to come, throws herself into a losing
+        court battle to win Merlin's estate. As legal defeats mount up, Adda
+        turns to drugs, driving away friends and family members, until she's
+        left with only her son, Chad. When he turns 16, his mother dies from her
+        many years of drug abuse.</image:caption
+      >
+      <image:title>17, rue Bleue</image:title>
+    </image:image>
+  </url>
+</urlset>

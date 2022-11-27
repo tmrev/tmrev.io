@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42872-Alien 2: On Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42872-Alien 2: On Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3LLfieDmGmfQ0PTJfNIaLR2y69C.jpg</image:loc
+      >
+      <image:caption
+        >A group of cave explorers are confronted in an underground cavern by a
+        mysterious living rock. Little do they know that it bears home to
+        deadly, flesh-eating creatures, intent on wiping out the entire human
+        population. An ultra low-budget, unofficial and unauthorized sequel to
+        the 1979 film Alien, although the plot has little connection to the
+        original film.</image:caption
+      >
+      <image:title>Alien 2: On Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

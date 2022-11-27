@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/129922-20 Nights and a Rainy Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/129922-20 Nights and a Rainy Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wiae90qhWLw3s0gLKTD0QiJmUlF.jpg</image:loc
+      >
+      <image:caption
+        >She was fleeing the West, and he the East. She was European,
+        light-skinned, on her way back from Java, at the edge of the world. Once
+        North-Vietnamese, now a proud Frenchman, he had an apartment in the
+        center of Paris. This film tells the story of their embrace, 20 nights
+        under the Parisian sky, in the shadow of Notre Dame. During these 20
+        nights they find refuge in each other's bodies.</image:caption
+      >
+      <image:title>20 Nights and a Rainy Day</image:title>
+    </image:image>
+  </url>
+</urlset>

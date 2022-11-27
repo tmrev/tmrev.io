@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/846614-11 de Septiembre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/846614-11 de Septiembre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >September 11, 1973, military coup in Chile. The video explores the
+        transtextuality of memory, while at the same time implicitly criticizing
+        the mass media and its representation of violence. The fissure between
+        these two aspects, the tension between present memory and historical
+        past, is the place from where the video is installed.</image:caption
+      >
+      <image:title>11 de Septiembre</image:title>
+    </image:image>
+  </url>
+</urlset>

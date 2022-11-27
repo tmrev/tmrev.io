@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/825446-Adolescents of Chymera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/825446-Adolescents of Chymera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s69OQgqekHt3zcR574VlrxFJV7p.jpg</image:loc
+      >
+      <image:caption
+        >Based on actual events about the harsh realities of teenagers living
+        life in a group home (where over 100,000 American juveniles live each
+        year). The story: Roy (Josh Keaton), a new kid and artist from the
+        suburbs is tested by Daryl (Carl Gilliard), the group home leader and
+        his military style rules, a forbidden romance with Laura (Chloe Taylor),
+        his streetwise and reactionary roommate (Danny Arroyo), and his own
+        troubled past as he tries to survive until 'graduation day'. In the end,
+        only his art can save his dreams of love, hope and
+        freedom.</image:caption
+      >
+      <image:title>Adolescents of Chymera</image:title>
+    </image:image>
+  </url>
+</urlset>

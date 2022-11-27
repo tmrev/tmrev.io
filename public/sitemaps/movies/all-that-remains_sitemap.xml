@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333068-All That Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333068-All That Remains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bqas3CVSB4sqYLlv6gVKce87n3F.jpg</image:loc
+      >
+      <image:caption
+        >Four peoplebound by the common thread of a deeply personal losstake to
+        the road at a pivotal moment in their lives, hoping to move ahead. Along
+        the way they unexpectedly intersect with one anotherthe result of which
+        forever alters their understanding of brotherhood, friendship, and
+        love.</image:caption
+      >
+      <image:title>All That Remains</image:title>
+    </image:image>
+  </url>
+</urlset>

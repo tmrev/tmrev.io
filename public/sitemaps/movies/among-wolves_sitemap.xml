@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515912-Among Wolves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515912-Among Wolves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6Q4oEPnv8ruXnFmU1AvP1LK1gci.jpg</image:loc
+      >
+      <image:caption
+        >An uncommon motorcycle club led by Bosnian War veterans finds
+        redemption helping their struggling small town heal and defending the
+        threatened herd of wild horses they first met on the front
+        line.</image:caption
+      >
+      <image:title>Among Wolves</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/985242-Alphaville - Do Lado de Dentro do Muro</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/985242-Alphaville - Do Lado de Dentro do Muro</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ejzMXdH5y66BwNTZXuzMH7L75Z.jpg</image:loc
+      >
+      <image:caption
+        >Alphaville is a slice of the lifestyle inside the wall. The portrait of
+        a Brazil surrounded, where danger, unwanted interactions, all kinds of
+        movement, heterogeneity and unpredictability of the streets are
+        supposedly kept away.</image:caption
+      >
+      <image:title>Alphaville - Do Lado de Dentro do Muro</image:title>
+    </image:image>
+  </url>
+</urlset>

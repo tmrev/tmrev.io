@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/930458-A Man Called Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/930458-A Man Called Hero</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg</image:loc
+      >
+      <image:caption
+        >In order to protect the Chinese Ao Jue and the Invincible War, Jin Ao
+        passed the Chinese Ao Jue guide to Hua Yingxiong when he met with
+        danger. Hua Yingxiong, who is destined to be an unlucky star, lost his
+        parents and wife. He left his children, relatives and friends. He
+        devoted himself to practice for 20 years, but he was still unable to
+        penetrate the Chinese Ao Jue. In the end, he had an epiphany in the
+        battle against Invincible and defeated Invincible.</image:caption
+      >
+      <image:title>A Man Called Hero</image:title>
+    </image:image>
+  </url>
+</urlset>

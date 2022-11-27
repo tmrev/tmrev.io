@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/169791-21 Up South Africa: Mandela's Children</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/169791-21 Up South Africa: Mandela's Children</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fBBixtUqZEUool354DaKav8alVv.jpg</image:loc
+      >
+      <image:caption
+        >Documentaries that revisit a group of children every seven years is
+        brought to post-apartheid South Africa. Here, filmmaker Angus Gibson
+        interviews 11 young people of various races and backgrounds as they turn
+        21. The result is an insightful look at how they've changed and the
+        issues they face such as crime, race relations, education and the AIDS
+        epidemic which has killed three of the original 14
+        children.</image:caption
+      >
+      <image:title>21 Up South Africa: Mandela's Children</image:title>
+    </image:image>
+  </url>
+</urlset>

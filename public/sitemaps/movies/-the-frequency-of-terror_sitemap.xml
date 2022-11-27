@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80448-99.9: The Frequency of Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80448-99.9: The Frequency of Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vXFxWbqoVNLf4ENGAPHR86AI0NI.jpg</image:loc
+      >
+      <image:caption
+        >Lara, the host of a radio call-in show dealing in psychic phenomena,
+        discovers that her estranged lover has been found dead in a small
+        Spanish village. She learns that he was conducting secret experiments
+        searching for tortured souls trapped behind the energy of the living
+        world.</image:caption
+      >
+      <image:title>99.9: The Frequency of Terror</image:title>
+    </image:image>
+  </url>
+</urlset>

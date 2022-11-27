@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/433567-Acid Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/433567-Acid Ocean</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oVGH1cioCEMQBsUXSskQ3dV5bf7.jpg</image:loc
+      >
+      <image:caption
+        >Marine scientists across the world are racing to tackle the most urgent
+        environmental challenge facing our planet today – ocean acidification.
+        From the icy polar seas to the world’s most pristine coral reefs we
+        track the latest scientific research. Heading the investigation is Dr
+        Katharina Fabricius from the Australian Institute of Marine Science.
+        She’s made a game-changing discovery. Nestled amongst Papua New Guinea’s
+        stunning coral gardens is a unique reef – a window to the future of our
+        oceans.</image:caption
+      >
+      <image:title>Acid Ocean</image:title>
+    </image:image>
+  </url>
+</urlset>

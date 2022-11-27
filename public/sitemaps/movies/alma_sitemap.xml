@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376111-Alma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376111-Alma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q5308YlaFVu7VwOoSIIYuXzpn6v.jpg</image:loc
+      >
+      <image:caption
+        >Fernando is married to Alma, a very funny woman with bipolar disorder,
+        which kicks him when she learns that he no longer supports her. When
+        Alma meets an Argentine suitor Fernando reacts discovering that still
+        love her. But it's too late.</image:caption
+      >
+      <image:title>Alma</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/204554-A Taste Of Jupiter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/204554-A Taste Of Jupiter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b4klPSdlhYDSOoahIPAanfCvoDx.jpg</image:loc
+      >
+      <image:caption
+        >Everybody and their brother in Little Italy has a story. But few bring
+        together a celestial event, a one of a kind ring, a mysterious man in a
+        white suit, petty jealousy, loving larceny, a would be gondolier, a
+        duel, and a very full spittoon. Eight people's lives are about to change
+        as Jupiter and Venus come together in the night sky for a once in a
+        lifetime event. A Taste of Jupiter is a whimsical romance set under the
+        stars.</image:caption
+      >
+      <image:title>A Taste Of Jupiter</image:title>
+    </image:image>
+  </url>
+</urlset>

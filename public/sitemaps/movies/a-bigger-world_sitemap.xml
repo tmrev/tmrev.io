@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490462-A Bigger World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490462-A Bigger World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9yRXSMZpRNmB7OeIxVhk4ckVWu5.jpg</image:loc
+      >
+      <image:caption
+        >In an attempt to move on from the death of Paul, the love of her life,
+        Korine leaves Paris to undertake a project in Mongolia. But after
+        meeting the shaman, Oyun, her trip takes a different direction. Korine
+        has a rare gift that Oyun intends to unveil. She agrees to initiate
+        herself in the practice of Shamanism, leading her to discover an ancient
+        and forgotten culture, but most importantly herself.</image:caption
+      >
+      <image:title>A Bigger World</image:title>
+    </image:image>
+  </url>
+</urlset>

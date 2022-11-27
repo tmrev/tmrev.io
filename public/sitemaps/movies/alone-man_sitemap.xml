@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/286258-Alone Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/286258-Alone Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/edeJIK4JhTzS4jvsgoPBzyWTTyD.jpg</image:loc
+      >
+      <image:caption
+        >The film tells the story of Arnaldo, that to get rid of his miserable
+        life, seeks of a clinic that promises to copy people. With a copy
+        occupying his place, he would take a new life. But, when having his
+        request denied, Arnaldo has no choice but to try and change the course
+        of his history. When he falls in love with Josie, the clerk of a pet
+        cemetery, Arnaldo believes that he found a chance to finally be happy.
+        But maybe he's wrong. A Lone Man is an urban fable that addresses the
+        complexity of relationships, with a good dose of irony, and
+        humor.</image:caption
+      >
+      <image:title>Alone Man</image:title>
+    </image:image>
+  </url>
+</urlset>

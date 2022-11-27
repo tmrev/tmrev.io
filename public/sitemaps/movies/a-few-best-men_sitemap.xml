@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/85435-A Few Best Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/85435-A Few Best Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4GUeDoAykxWNOLe5yah7AQQa6c9.jpg</image:loc
+      >
+      <image:caption
+        >A comedy about a groom and his three best men who travel to the
+        Australian outback for a wedding.</image:caption
+      >
+      <image:title>A Few Best Men</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/764770-American Bred</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/764770-American Bred</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nAorjQqPdhSNx4bRTClWgsZjjbz.jpg</image:loc
+      >
+      <image:caption
+        >In present day Detroit, where the influence of organized crime has
+        diminished; one of the lasting crime syndicates begins to unravel when
+        lies, mystery and betrayal devour the trust, which holds them
+        together.</image:caption
+      >
+      <image:title>American Bred</image:title>
+    </image:image>
+  </url>
+</urlset>

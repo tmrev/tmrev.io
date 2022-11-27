@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/14530-American Crude</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/14530-American Crude</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eeaTZU8Ous4BMDPIpc8uRvNVEAf.jpg</image:loc
+      >
+      <image:caption
+        >Quite a bit can happen over the course of a single day in L.A., and
+        when smooth-talking scam artist Johnny decides to throw a bachelor party
+        for his best friend Bill the events of the day take a bizarre turn. As
+        the festivities get underway, the appearance of a transvestite
+        prostitute, a trigger-happy ex-con, and a notorious porn king signal
+        that this isn't going to be a typical night out.</image:caption
+      >
+      <image:title>American Crude</image:title>
+    </image:image>
+  </url>
+</urlset>

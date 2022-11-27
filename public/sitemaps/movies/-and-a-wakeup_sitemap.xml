@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190161-21 and a Wake-Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190161-21 and a Wake-Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5sGRRBukCrru7Gtip6Zp932PJtn.jpg</image:loc
+      >
+      <image:caption
+        >"I learn that Chris McIntyre served in Vietnam and that "21 and a
+        Wakeup," set in an Army hospital in the waning days of the war, is based
+        on events that he experienced and heard about." - Roger
+        Ebert</image:caption
+      >
+      <image:title>21 and a Wake-Up</image:title>
+    </image:image>
+  </url>
+</urlset>

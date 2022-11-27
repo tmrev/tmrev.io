@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32222-American Desi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32222-American Desi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hklG9Ehe1Rt2dlgBplTIyov62qi.jpg</image:loc
+      >
+      <image:caption
+        >College freshman Krishna Reddy, who has never cared for his
+        Indian-American cultural heritage, looks forward to a new life on campus
+        but is surprised to find that he has been assigned Indian
+        roommates.</image:caption
+      >
+      <image:title>American Desi</image:title>
+    </image:image>
+  </url>
+</urlset>

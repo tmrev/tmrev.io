@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70736-A Bird of the Air</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70736-A Bird of the Air</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4g0zKGhVWrYOV0S6GHr9RxLJio4.jpg</image:loc
+      >
+      <image:caption
+        >A man in search of his past, and a woman who lives in the moment, are
+        brought together when they pursue the origins of a stray parrot in this
+        comedic and romantic drama.</image:caption
+      >
+      <image:title>A Bird of the Air</image:title>
+    </image:image>
+  </url>
+</urlset>

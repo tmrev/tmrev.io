@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335883-A Movie by Jen Proctor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335883-A Movie by Jen Proctor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hONzyJfPgPfnWszX2p8ir24BBEc.jpg</image:loc
+      >
+      <image:caption
+        >A loving remake of Bruce Conner’s seminal 1958 found footage film A
+        Movie using appropriated material from YouTube and LiveLeak. As a
+        remake, the video provides a parallel narrative that explores the
+        changes in historical and visual icons from 1958 to 2010 – and those
+        images that remain surprisingly, and delightfully, the same. The work
+        also comments on the pervasiveness of footage available for
+        appropriation in an online world, and the way disparate threads in the
+        YouTube and LiveLeak databases can be assembled to create “a
+        movie.”</image:caption
+      >
+      <image:title>A Movie by Jen Proctor</image:title>
+    </image:image>
+  </url>
+</urlset>

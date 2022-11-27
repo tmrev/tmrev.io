@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/535759-And Then I Was French</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/535759-And Then I Was French</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/KJ8wliwlyffcrJz9F71Sh6n6gz.jpg</image:loc
+      >
+      <image:caption
+        >Sensitive wallflower Cara exists in her humdrum life until the
+        appearance of charismatic Jay unlocks powerful desires within her. When
+        Jay's beautiful French lover arrives, Cara's journey to self-discovery
+        takes a dark and unexpected turn, with tragic
+        consequences.</image:caption
+      >
+      <image:title>And Then I Was French</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/605922-100% Human</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/605922-100% Human</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x2p1F5E0GS2Fon23ASkqJH7mTYo.jpg</image:loc
+      >
+      <image:caption
+        >When Monica was born, her parents thought she was a boy, and called her
+        Morten. Now she has had a cosmetically and gender changing operations.
+        This is all shown on camera in this documentary.</image:caption
+      >
+      <image:title>100% Human</image:title>
+    </image:image>
+  </url>
+</urlset>

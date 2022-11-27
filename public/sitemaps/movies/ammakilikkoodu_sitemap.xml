@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/546970-Ammakilikkoodu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/546970-Ammakilikkoodu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wkCx2KXCzuX4FMGPbEWlu8II19w.jpg</image:loc
+      >
+      <image:caption
+        >Saranalayam is an old-age home run by Eradi. He appoints Vivek as the
+        new manager to help him evict the inmates so that he can sell
+        it.</image:caption
+      >
+      <image:title>Ammakilikkoodu</image:title>
+    </image:image>
+  </url>
+</urlset>

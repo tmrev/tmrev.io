@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/343685-American Experience: JFK</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/343685-American Experience: JFK</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vObLfp4aDprH3U5WPdDll3fiWW1.jpg</image:loc
+      >
+      <image:caption
+        >Forever enshrined in myth by an assassin's bullet, Kennedy's presidency
+        long defied objective appraisal. Recent assessments have revealed an
+        administration long on promise and vigor, and somewhat lacking in
+        tangible accomplishment. His proposals for a tax cut and civil rights
+        legislation, however, promised significant gains in the months before
+        his assassination. While maturation, as evidenced in the handling of the
+        Cuban missile crisis, was apparent, the potential legacy of the New
+        Frontier will forever be left to speculation.</image:caption
+      >
+      <image:title>American Experience: JFK</image:title>
+    </image:image>
+  </url>
+</urlset>

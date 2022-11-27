@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/446663-Andre the Giant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/446663-Andre the Giant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n4t2g7NbHGu0c51jlQ2qlOZEhvr.jpg</image:loc
+      >
+      <image:caption
+        >An ambitious and wide-ranging documentary exploring Andre’s upbringing
+        in France, his celebrated career in WWE, and his forays in the
+        entertainment world.</image:caption
+      >
+      <image:title>Andre the Giant</image:title>
+    </image:image>
+  </url>
+</urlset>

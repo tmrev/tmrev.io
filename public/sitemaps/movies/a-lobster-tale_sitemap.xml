@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70749-A Lobster Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70749-A Lobster Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s3aZgfB1uxvd90bUPXLNGNxczrT.jpg</image:loc
+      >
+      <image:caption
+        >Cody Brewer, a quiet New England fisherman isn't doing too well for
+        himself. His wife feels neglected, and his son keeps getting picked on
+        by the school bully. While out collecting his lobster traps one day,
+        Cody finds a strange green moss that holds magical powers. Once word
+        gets out about the magical moss, the entire town suddenly becomes Cody's
+        best friend, all hoping to get a piece of it. With the townspeople
+        clamoring for some moss and the already delicate state of the Brewer
+        family, Cody has a tough time figuring out exactly what to
+        do.</image:caption
+      >
+      <image:title>A Lobster Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

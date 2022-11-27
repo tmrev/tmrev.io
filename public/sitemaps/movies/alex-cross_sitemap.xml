@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/94348-Alex Cross</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/94348-Alex Cross</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bQYXid9o6nunJBgmmjo6JFIQe1p.jpg</image:loc
+      >
+      <image:caption
+        >After Washington DC detective Alex Cross is told that a family member
+        has been murdered, he vows to track down the killer. He soon discovers
+        that she was not his first victim and that things are not what they
+        seem.</image:caption
+      >
+      <image:title>Alex Cross</image:title>
+    </image:image>
+  </url>
+</urlset>

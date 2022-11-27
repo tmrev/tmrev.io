@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/526237-A Doll's House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/526237-A Doll's House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jnTMW9HPZO0tIQjcW1aHSJulTnC.jpg</image:loc
+      >
+      <image:caption
+        >In Henrik Ibsen’s A Doll’s House, Nora Helmer, having fraudulently
+        borrowed money to save her husband, is forced to reveal her secret and,
+        in doing so, reassess her life as it stands. This production, directed
+        by Carrie Cracknell, was captured by Digital Theatre live at London’s
+        Young Vic theatre.</image:caption
+      >
+      <image:title>A Doll's House</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/874260-A Kiss Before Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/874260-A Kiss Before Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ma8NZSDDx7e7BnYS9Rca3oDknOd.jpg</image:loc
+      >
+      <image:caption
+        >Ethan, always the nice guy, wakes up in a new reality at Christmas.
+        Initially, he is enthralled with his new life but soon realizes that
+        it's not what he thought it would be.</image:caption
+      >
+      <image:title>A Kiss Before Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55998-A Quiet Outpost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55998-A Quiet Outpost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vIbq66qdDkQbA85InxIEAgqqTlB.jpg</image:loc
+      >
+      <image:caption
+        >On the edge of Dushanbe, in the Republic of Tajikistan, a quiet border
+        checkpoint under Russian control is attacked by Afghans and Tajiks who
+        want it under their control.</image:caption
+      >
+      <image:title>A Quiet Outpost</image:title>
+    </image:image>
+  </url>
+</urlset>

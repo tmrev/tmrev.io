@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/485034-A Very Merry Toy Store</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/485034-A Very Merry Toy Store</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/92A850UAQ502hSrwJMDY7SMjxZs.jpg</image:loc
+      >
+      <image:caption
+        >Two rival toy shop owners reluctantly join forces when an unscrupulous
+        toy magnate opens a box store in their town.</image:caption
+      >
+      <image:title>A Very Merry Toy Store</image:title>
+    </image:image>
+  </url>
+</urlset>

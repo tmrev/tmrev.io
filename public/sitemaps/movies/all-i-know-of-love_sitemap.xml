@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1039579-All I Know of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1039579-All I Know of Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qWM4IAvTLuEa0kF9x3QuYPANjjz.jpg</image:loc
+      >
+      <image:caption
+        >Combining footage from her 2022-tour and poetry, Emma Ruth Rundle's
+        short documentary gives insight into her creativity as well as
+        touring.</image:caption
+      >
+      <image:title>All I Know of Love</image:title>
+    </image:image>
+  </url>
+</urlset>

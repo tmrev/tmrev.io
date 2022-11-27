@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/481-7 Virgins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/481-7 Virgins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aIGNKsJFfaxIOtxjcLT0uy1HBLU.jpg</image:loc
+      >
+      <image:caption
+        >Tano is 16-years-old and is already sitting in jail. In 48 hours he’s a
+        free man and off to the wedding of his brother. In the two days he
+        recounts his neighborhood in a section of Sevilla.</image:caption
+      >
+      <image:title>7 Virgins</image:title>
+    </image:image>
+  </url>
+</urlset>

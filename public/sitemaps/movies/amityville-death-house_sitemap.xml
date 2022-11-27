@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/350751-Amityville Death House</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/350751-Amityville Death House</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/s9QQ4gQrHk2smErVQJDavUqm6qJ.jpg</image:loc
+      >
+      <image:caption
+        >A young woman and her friends are threatened by an ancient witch's
+        curse when they stop in the town of Amityville to check in on her sickly
+        grandmother.</image:caption
+      >
+      <image:title>Amityville Death House</image:title>
+    </image:image>
+  </url>
+</urlset>

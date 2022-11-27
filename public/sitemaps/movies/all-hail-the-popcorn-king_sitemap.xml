@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/627505-All Hail the Popcorn King!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/627505-All Hail the Popcorn King!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/okdgyOtJ4fiujWph46yXdd7iftb.jpg</image:loc
+      >
+      <image:caption
+        >Made in cooperation with Joe Lansdale, we explore his life growing up
+        in 1950's east Texas and how he has used his experiences to create what
+        can only be described as his own genre. Our interviews with Joe, his
+        family, friends, fans and colleagues gives us a glimpse into the man
+        behind Bubba Ho-tep, Hap and Leonard, and incident on and off a mountain
+        road among dozens of other books, films, comics and stories. We discover
+        his dedication to martial arts and his decades of generosity offering
+        advice to aspiring writers and creators.</image:caption
+      >
+      <image:title>All Hail the Popcorn King!</image:title>
+    </image:image>
+  </url>
+</urlset>

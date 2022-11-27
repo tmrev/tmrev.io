@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/757862-Amor Perdido</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/757862-Amor Perdido</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A story about two people (Clara and Tó), from different economic
+        backgrounds, who love each other, but whose love is not accepted by
+        everyone, especially by the father of Clara, who will do everything he
+        can to stop their love. Things go even worse when Clara becomes
+        pregnant.</image:caption
+      >
+      <image:title>Amor Perdido</image:title>
+    </image:image>
+  </url>
+</urlset>

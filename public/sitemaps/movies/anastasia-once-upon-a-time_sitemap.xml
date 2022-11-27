@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476389-Anastasia: Once Upon a Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476389-Anastasia: Once Upon a Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg</image:loc
+      >
+      <image:caption
+        >Anastasia Romanov escapes through a portal when her family is
+        threatened by Vladimir Lenin, and she finds herself in the year 1988,
+        befriended by a young American girl.</image:caption
+      >
+      <image:title>Anastasia: Once Upon a Time</image:title>
+    </image:image>
+  </url>
+</urlset>

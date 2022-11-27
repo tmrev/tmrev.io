@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/351683-Algeria from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/351683-Algeria from Above</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3KAZGeqFGink3q79ojFoY4Mwqcz.jpg</image:loc
+      >
+      <image:caption
+        >Algeria from above is the first documentary made entirely from the sky
+        on Algeria. Through the eye of the famous Yann Arthus-Bertrand this
+        documentary vividly depicts this great country, and its vibrant cultural
+        and natural treasures. From North to South and from West to East, it
+        shows us the entirety of Algeria, lives in the large hectic coastal
+        cities, Atlas mountains, oases of the Sahara or gentle hills of the
+        Sahel. With a rich past that seems to have crossed all civilizations,
+        and a territory where all natural environments amalgamate, Algeria
+        appears here in all its diversity and its unity.</image:caption
+      >
+      <image:title>Algeria from Above</image:title>
+    </image:image>
+  </url>
+</urlset>

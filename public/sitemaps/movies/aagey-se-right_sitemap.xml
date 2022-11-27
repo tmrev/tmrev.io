@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22101-Aagey Se Right</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22101-Aagey Se Right</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w4ymbZfWZKhry49BOYSvvK6mR8j.jpg</image:loc
+      >
+      <image:caption
+        >Aage Se Right is the story of chance, co-incidence and real life humor
+        based in the present day Mumbai. The film spans over five days of panic,
+        chaos and mayhem!!!</image:caption
+      >
+      <image:title>Aagey Se Right</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13448-Angels & Demons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13448-Angels & Demons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uRBapeuwV8yy4in4BkETHBDmWkH.jpg</image:loc
+      >
+      <image:caption
+        >Harvard symbologist Robert Langdon is recruited by the Vatican to
+        investigate the apparent return of the Illuminati - a secret,
+        underground organization - after four cardinals are kidnapped on the
+        night of the papal conclave.</image:caption
+      >
+      <image:title>Angels & Demons</image:title>
+    </image:image>
+  </url>
+</urlset>

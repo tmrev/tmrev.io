@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/460233-A Yiddish World Remembered</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/460233-A Yiddish World Remembered</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kOZ7tA04uONPsBV0mEN7JFM7VgF.jpg</image:loc
+      >
+      <image:caption
+        >Elliott Gould narrates this affectionate look at life in the shtetls of
+        Eastern Europe in the 19th and early 20th centuries. "It's unreal that
+        all this could have just disappeared," says Polish native Mariem Adler
+        Stok, one of the seniors whose memories of this "Yiddish world" give
+        this documentary its life. The hour traces Jewish history in Europe and
+        explores Jews' focus on education, their religious customs, clothing,
+        food, music and theater.</image:caption
+      >
+      <image:title>A Yiddish World Remembered</image:title>
+    </image:image>
+  </url>
+</urlset>

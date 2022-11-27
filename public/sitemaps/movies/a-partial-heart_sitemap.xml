@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444070-A Partial Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444070-A Partial Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8PRKJ9iJGkUHQpyuSHqB7nCXIaJ.jpg</image:loc
+      >
+      <image:caption
+        >James has never been close to his father Ellis. But he one day receives
+        word that Ellis was recently in the hospital. Vanessa, James's
+        girlfriend, convinces him to go visit for the weekend. While there,
+        James is confronted with Ellis's alcoholism and whether he can truly
+        mend their relationship.</image:caption
+      >
+      <image:title>A Partial Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

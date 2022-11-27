@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13803-Amusement</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13803-Amusement</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1XosEzjwTxL4NrVhn7ldunA3kfr.jpg</image:loc
+      >
+      <image:caption
+        >While being interrogated by a police psychiatrist, the near-catatonic
+        Tabitha tries to explain why she and two of her childhood friends are
+        being hunted by a serial killer. The truth that's dying to come out
+        weaves together three tragic secrets from their past. Two of the girls'
+        boyfriends become unwitting targets in their deadly game.</image:caption
+      >
+      <image:title>Amusement</image:title>
+    </image:image>
+  </url>
+</urlset>

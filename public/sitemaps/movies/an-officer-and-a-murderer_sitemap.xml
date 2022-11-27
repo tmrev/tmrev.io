@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121437-An Officer and a Murderer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121437-An Officer and a Murderer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bNK7D6y00PjwgnF23W50qmDXeFW.jpg</image:loc
+      >
+      <image:caption
+        >The true story of Colonel Russell Williams, one Canada’s most powerful
+        and respected Air Force Officers, who committed numerous brutal crimes
+        and was eventually brought down by a tenacious small town police
+        detective.</image:caption
+      >
+      <image:title>An Officer and a Murderer</image:title>
+    </image:image>
+  </url>
+</urlset>

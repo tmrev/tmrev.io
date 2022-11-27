@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/74237-A Skin Too Few: The Days of Nick Drake</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/74237-A Skin Too Few: The Days of Nick Drake</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/epGeEo59SRZzaWRFuxCgwrj2HNr.jpg</image:loc
+      >
+      <image:caption
+        >Profile of musician Nick Drake, who was only 26 when he died in 1974
+        but whose three albums have been deeply and increasingly influential on
+        the rock and pop world.</image:caption
+      >
+      <image:title>A Skin Too Few: The Days of Nick Drake</image:title>
+    </image:image>
+  </url>
+</urlset>

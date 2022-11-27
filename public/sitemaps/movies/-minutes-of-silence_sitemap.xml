@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/769954-3 Minutes of Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/769954-3 Minutes of Silence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/quBunBDRROghGsdC4McQ8dQJSS2.jpg</image:loc
+      >
+      <image:caption
+        >A troubled and anxious young girl, who feels shut out from the wider
+        world, finds a way to connect with it again when she finds an unlikely
+        haven of hope and friendship in a Manchester boxing gym.</image:caption
+      >
+      <image:title>3 Minutes of Silence</image:title>
+    </image:image>
+  </url>
+</urlset>

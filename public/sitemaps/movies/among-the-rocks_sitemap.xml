@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/767863-Among the Rocks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/767863-Among the Rocks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5mwE7khCz2rPwsqWVUYYXiAEyeK.jpg</image:loc
+      >
+      <image:caption
+        >Refers to the women who fought in the Greek Civil War 1946-1949, were
+        exiled or tortured.</image:caption
+      >
+      <image:title>Among the Rocks</image:title>
+    </image:image>
+  </url>
+</urlset>

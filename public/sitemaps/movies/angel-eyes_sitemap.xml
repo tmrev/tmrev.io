@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5852-Angel Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5852-Angel Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg</image:loc
+      >
+      <image:caption
+        >A story about a seemingly unlikely couple who cross paths under
+        life-threatening circumstances as though they are destined not only to
+        meet but to save each other's lives. Not once, but twice.</image:caption
+      >
+      <image:title>Angel Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

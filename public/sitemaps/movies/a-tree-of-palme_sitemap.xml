@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30491-A Tree of Palme</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30491-A Tree of Palme</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1TstH4AKPpxVOsdKlSyogMkRfMP.jpg</image:loc
+      >
+      <image:caption
+        >A Tree of Palme is an interpretation of the Pinocchio tale. It concerns
+        a small puppet, Palme, who was tasked by his creator to look over his
+        ailing wife, Xian. After her passing, Palme is visited by a mysterious
+        woman who he mistakenly believes to be Xian. Shaken out of his sadness,
+        Palme accepts her request to deliver something special to a far-off
+        place known as Tama. This sets Palme off on a journey to discover his
+        own emotions, and what it truly means to be human.</image:caption
+      >
+      <image:title>A Tree of Palme</image:title>
+    </image:image>
+  </url>
+</urlset>

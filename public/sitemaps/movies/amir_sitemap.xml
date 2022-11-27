@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509048-Amir</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509048-Amir</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ioaY4TI3txOn6DAlwD1lOlzXLQG.jpg</image:loc
+      >
+      <image:caption
+        >This film portrays aspects of an Afghan refugee's life - his living
+        conditions in Peshawar and his longing to return to Herat. It is also
+        about Amir's life as a professional musician and his relationships with
+        other musicians in Peshawar.</image:caption
+      >
+      <image:title>Amir</image:title>
+    </image:image>
+  </url>
+</urlset>

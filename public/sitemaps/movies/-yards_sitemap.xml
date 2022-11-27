@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587121-22 Yards</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587121-22 Yards</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xVzkEz7LxpDJirzYfh0UfGbT16O.jpg</image:loc
+      >
+      <image:caption
+        >Ron Sen is a successful sports agent who manages top players from the
+        Indian cricket team. After controversy ends the prospects of his career,
+        Ron mentors a down-on-luck cricketer, Shome to help achieve his
+        dream.</image:caption
+      >
+      <image:title>22 Yards</image:title>
+    </image:image>
+  </url>
+</urlset>

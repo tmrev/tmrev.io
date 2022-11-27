@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12573-A Serious Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12573-A Serious Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qElmjwRZuOQmzgmWRixFd7xEmPn.jpg</image:loc
+      >
+      <image:caption
+        >It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern
+        university, has just been informed by his wife Judith that she is
+        leaving him. She has fallen in love with one of his more pompous
+        acquaintances Sy Ableman.</image:caption
+      >
+      <image:title>A Serious Man</image:title>
+    </image:image>
+  </url>
+</urlset>

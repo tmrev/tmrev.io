@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1015134-All Right</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1015134-All Right</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4EaQeOcJyBqpOCDRnYoIyfethQy.jpg</image:loc
+      >
+      <image:caption
+        >A drama depicting an office lady who is not good at communicating with
+        others, but changes after reuniting with her high school
+        classmates.</image:caption
+      >
+      <image:title>All Right</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/70415-A Father… A Son… Once Upon a Time in
+      Hollywood</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/70415-A Father… A Son… Once Upon a Time in
+      Hollywood</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2O0mbMJk8m1Mqx1wxc2GKX42e3N.jpg</image:loc
+      >
+      <image:caption
+        >Kirk Douglas achieved the kind of cinematic stardom that dreams are
+        made of. As the torch was passed to his talented son Michael, it became
+        obvious to everyone that the Douglas dynasty would continue to
+        thrive…</image:caption
+      >
+      <image:title>A Father… A Son… Once Upon a Time in Hollywood</image:title>
+    </image:image>
+  </url>
+</urlset>

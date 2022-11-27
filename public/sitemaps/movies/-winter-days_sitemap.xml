@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105423-53 Winter Days</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105423-53 Winter Days</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bqEmHMeiaR8KF6m8K9DTz1Yp8r4.jpg</image:loc
+      >
+      <image:caption
+        >Three characters meet on a winter night at a bus stop and attend to the
+        abandonment of a dog. Mila, a teacher who has been a year off after
+        being attacked by one of his students. Celso, security guard, married,
+        father of a child with serious economic problems, about to learn that is
+        going to be father again, but this time with twins. And Valeria, a cello
+        student, with a murky relationship with her family and her love. The
+        three set out on a journey that will take them to confront their fears
+        and frustrations and to make each a decision that will change their
+        lives.</image:caption
+      >
+      <image:title>53 Winter Days</image:title>
+    </image:image>
+  </url>
+</urlset>

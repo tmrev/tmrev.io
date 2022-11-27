@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/957143-Albatross</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/957143-Albatross</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5h039bYRPxSABCSdv2R4Y66S1Nq.jpg</image:loc
+      >
+      <image:caption
+        >Worlds collide at an awkward dinner party in 1959 New England. Tables
+        turn when a progressive biracial couple attends dinner at the imposing
+        home of an unexceptional artist and questionable psychiatrist. By
+        daybreak, they find themselves pawns in a cynical game that exposes the
+        cracks in their facades.</image:caption
+      >
+      <image:title>Albatross</image:title>
+    </image:image>
+  </url>
+</urlset>

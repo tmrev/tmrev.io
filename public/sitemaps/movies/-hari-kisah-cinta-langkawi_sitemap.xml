@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/642265-7 Hari Kisah Cinta Langkawi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/642265-7 Hari Kisah Cinta Langkawi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k2W1WFXeP5SCISeF0TqflvAyPEw.jpg</image:loc
+      >
+      <image:caption
+        >A romantic comedy about Adira, a popular love-adviser-vlogger who wrote
+        a book; 'How To Win A Man's Heart in 7 Days' being challenged by another
+        vlogger, Joe, of how much the book will actually work in real
+        life.</image:caption
+      >
+      <image:title>7 Hari Kisah Cinta Langkawi</image:title>
+    </image:image>
+  </url>
+</urlset>

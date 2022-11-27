@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/606147-A Modest Defeat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/606147-A Modest Defeat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c50At3Y4cGTW2WaoyOnNJWa0pzz.jpg</image:loc
+      >
+      <image:caption
+        >It's civil war in suburbia between two young siblings. Big brother
+        Tommy never plays fair, but eight-year-old Tiny has an elaborate plan up
+        her sleeve and a faultless determination to put things
+        right.</image:caption
+      >
+      <image:title>A Modest Defeat</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/255419-Agent of Influence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/255419-Agent of Influence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x9ymOfP2WoMKmFA5KMCmtylInOn.jpg</image:loc
+      >
+      <image:caption
+        >This story of espionage and counter-espionage is based on the novel by
+        Ian Adams. Suspicious circumstances surrounded the mysterious death of a
+        Canadian diplomat. At the height of The Cold War in October 1964, John
+        Watkins, Canada's former ambassador to Moscow and a close friend of
+        Prime Minister Lester B. Pearson, is kidnapped and held in a hotel for
+        questioning by the RCMP at the urging of the CIA. Several days into the
+        interrogation he died. The official obituary claimed that he suffered a
+        heart attack in the company of friends during a farewell supper
+        celebrating his illustrious career.</image:caption
+      >
+      <image:title>Agent of Influence</image:title>
+    </image:image>
+  </url>
+</urlset>

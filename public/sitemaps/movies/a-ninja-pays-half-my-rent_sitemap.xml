@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/264134-A Ninja Pays Half My Rent</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/264134-A Ninja Pays Half My Rent</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >When your roommate dies from an allergic reaction to fruit and the rent
+        is due and you don't have the cash to cover it, there's no time to mess
+        around picking a new roommate. So it goes that our hero in this short
+        comes to share his home with a ninja.</image:caption
+      >
+      <image:title>A Ninja Pays Half My Rent</image:title>
+    </image:image>
+  </url>
+</urlset>

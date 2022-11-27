@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/632901-A Hand Full of Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/632901-A Hand Full of Dirt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2rlcTKvkIzEZLZEjoASmLcG3eGg.jpg</image:loc
+      >
+      <image:caption
+        >Three generations. One plantation. The men of the Redman family -
+        father, grandfather and son - will try desperately to break with the
+        past to pursue their dreams on their own terms.</image:caption
+      >
+      <image:title>A Hand Full of Dirt</image:title>
+    </image:image>
+  </url>
+</urlset>

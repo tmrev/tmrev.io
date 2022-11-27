@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/42384-A Tale of Legendary Libido</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/42384-A Tale of Legendary Libido</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4KbYzvJLpMm7GHD8RJ4hlbbY6Co.jpg</image:loc
+      >
+      <image:caption
+        >The women in Byeon’s village ridicule his lack of libido, but he has
+        the last laugh when a traveling monk imbues him with the ultimate male
+        power.</image:caption
+      >
+      <image:title>A Tale of Legendary Libido</image:title>
+    </image:image>
+  </url>
+</urlset>

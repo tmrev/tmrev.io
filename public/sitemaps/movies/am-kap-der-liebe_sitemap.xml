@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140384-Am Kap der Liebe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140384-Am Kap der Liebe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dRbrvzG0mEMtxDXQoZUFjLAuXfR.jpg</image:loc
+      >
+      <image:caption
+        >Paul receives a letter from one who claims to be his real father,
+        proposing a last meeting before dying. He will travel to Australia and
+        there he meets a woman that will be attracted.</image:caption
+      >
+      <image:title>Am Kap der Liebe</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5592-A Girl Cut in Two</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5592-A Girl Cut in Two</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z4WMZsWINlXbZmGZDgAoVa8Cd69.jpg</image:loc
+      >
+      <image:caption
+        >Gabrielle Deneige is an independent, ambitious TV weather girl torn
+        between her love of a distinguished author several decades her senior,
+        and the attentions of a headstrong, potentially unstable young suitor.
+        An unspoken past between the two men heightens tensions, and though
+        she's initially certain of her love for one them, the see-saw demands
+        and whims of both men keep confusing - and darkening - matters. Before
+        long she's encountering emotional and societal forces well beyond her
+        control, inexorably leading to a shocking clash of violence and
+        passion.</image:caption
+      >
+      <image:title>A Girl Cut in Two</image:title>
+    </image:image>
+  </url>
+</urlset>

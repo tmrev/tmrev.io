@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48328-Actors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48328-Actors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/w1jJJxyJJpJbmi8UjfHbLzkEj7L.jpg</image:loc
+      >
+      <image:caption
+        >Les Acteurs is the absurd story of Jean-Pierre Marielle desperately
+        waiting for a cup of hot water, the story of a conspiracy against
+        actors, the story of aging actors whose careers are slowly less active
+        than they used to be, but a stunning tribute to French actors and their
+        cinema.</image:caption
+      >
+      <image:title>Actors</image:title>
+    </image:image>
+  </url>
+</urlset>

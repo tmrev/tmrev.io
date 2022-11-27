@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1043488-A Private Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1043488-A Private Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A Private Death tells of the great love story between Haya Schreiber, a
+        sixth-generation Jaffa-born Jew and Tewfic Hanania, a Christian Orthodox
+        Jerusalem-born Arab that began in 1930s Jerusalem. Tewfic Hanania was a
+        wealthy man who came from Jerusalem's Arab aristocracy. Haya was a
+        kindergarten teacher from an orthodox Jewish family. Making use of rare
+        archival footage alongside excerpts from films made by Hanania during
+        the 1930s and interviews with historians and family members, the film
+        portrays life in Jerusalem during the British Mandate. The wealth of
+        materials and this intimate story show how history can ultimately impact
+        a private story and private death.</image:caption
+      >
+      <image:title>A Private Death</image:title>
+    </image:image>
+  </url>
+</urlset>

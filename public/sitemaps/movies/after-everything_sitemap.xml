@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/448557-After Everything</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/448557-After Everything</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5fwosV84f3BOV2h4kqcbpQplFLY.jpg</image:loc
+      >
+      <image:caption
+        >When Elliot, a brash 23-year-old living carefree in New York City,
+        meets the sensible Mia and receives a damning diagnosis all in the same
+        week, his world is turned completely upside down. But as their love
+        blossoms amidst the chaos of his treatment, they discover that Elliot's
+        illness is not the real test of their relationship – it's everything
+        else.</image:caption
+      >
+      <image:title>After Everything</image:title>
+    </image:image>
+  </url>
+</urlset>

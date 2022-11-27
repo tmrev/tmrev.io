@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112574-After Armageddon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112574-After Armageddon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/358qcwtq9ImrUvpXpVqkCfm2VgC.jpg</image:loc
+      >
+      <image:caption
+        >The plot centers around the Johnson family (consisting of Chris (Rob
+        Hartz) and Ellen (Kathleen Cameron) Johnson, and their son Casey (Hy
+        Rillero)) of Los Angeles, California, one of a small number of families
+        to survive a global pandemic that, according to the opening of the film,
+        occurs "sometime in the future..." The disease began as a particularly
+        virulent flu strain in Southeast Asia. Efforts made to contain the virus
+        in that portion of the world are ineffective as global transportation
+        networks carry infected individuals all around the world. Hospitals
+        become overloaded, and the public works infrastructure begins to shut
+        down. Eventually, the main characters leave L.A., encountering many
+        hardships along the way. They make it to a friendly small town, where
+        life begins again.</image:caption
+      >
+      <image:title>After Armageddon</image:title>
+    </image:image>
+  </url>
+</urlset>

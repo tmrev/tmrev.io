@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158864-American Milkshake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158864-American Milkshake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In mid-1990s America, we follow the tragic sex life of Jolie Jolson, a
+        wannabe thug (and great-great-grandson of legendary vaudevillian Al
+        Jolson) in suburban Washington as he strives to become something he can
+        never be – black.</image:caption
+      >
+      <image:title>American Milkshake</image:title>
+    </image:image>
+  </url>
+</urlset>

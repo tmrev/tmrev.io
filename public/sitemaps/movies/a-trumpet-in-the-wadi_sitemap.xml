@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/731525-A Trumpet in the Wadi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/731525-A Trumpet in the Wadi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ehNnGOzq0fhRmh5g3rRqDOa86L.jpg</image:loc
+      >
+      <image:caption
+        >An impossible love story - Huda, an Israeli Arab, and Alex, recently
+        immigrated to Israel, overcome all difficulties.</image:caption
+      >
+      <image:title>A Trumpet in the Wadi</image:title>
+    </image:image>
+  </url>
+</urlset>

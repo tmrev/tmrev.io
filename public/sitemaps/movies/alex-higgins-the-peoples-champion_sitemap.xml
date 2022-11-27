@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/378793-Alex Higgins: The People's Champion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/378793-Alex Higgins: The People's Champion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8VIDfab6NkweHi99idgUDzNEtQT.jpg</image:loc
+      >
+      <image:caption
+        >One man transfixed television viewers during snooker's golden age -
+        Alex 'Hurricane' Higgins. This poignant documentary charts the
+        remarkable rise and fall of the snooker genius, from his early days
+        growing up in Belfast to his climb to the top of the sport as two-time
+        world champion.</image:caption
+      >
+      <image:title>Alex Higgins: The People's Champion</image:title>
+    </image:image>
+  </url>
+</urlset>

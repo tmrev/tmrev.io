@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/287950-American Muscle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/287950-American Muscle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/il3fvnQ0xAUmq1hBWV3a2TOECSf.jpg</image:loc
+      >
+      <image:caption
+        >John Falcon did 10 years of hard time in prison. Now he's got 24 hours
+        to get revenge on every person who had a hand in sending him
+        there.</image:caption
+      >
+      <image:title>American Muscle</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/462520-Aabhaasam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/462520-Aabhaasam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mvK0DOf8rlDtJ85esS1ZYrWFRHU.jpg</image:loc
+      >
+      <image:caption
+        >The story of Aabhaasam is about an overnight bus journey from Bangalore
+        to Kerala where the travelers analyze the schizophrenic society and how
+        it has evolved through different times. It brings to audiences'
+        attention how the societal views are influenced by patriarchy. The movie
+        is director's attempt to show the bus as the metaphor for the system and
+        the travelers as the victims.</image:caption
+      >
+      <image:title>Aabhaasam</image:title>
+    </image:image>
+  </url>
+</urlset>

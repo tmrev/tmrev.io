@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/251630-A Kiss at Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/251630-A Kiss at Midnight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pt9yBVuzsn9H1VLIfW9cxbWVd8P.jpg</image:loc
+      >
+      <image:caption
+        >They say the cobbler's children go barefoot, but must the matchmaker's
+        children go motherless? After their widower father moves to a new town
+        and sets up a computerized matchmaking business, two girls set out to
+        find a stepmother. They create a dating application in the company
+        computer for him. Then they cull through all new women applicants to
+        hand pick the perfect woman for him and force the computer to match
+        them. They don't know the woman they picked is the proprietor of the
+        old-fashioned matchmaking service in town who is planning to prove the
+        computer matching is incompetent.</image:caption
+      >
+      <image:title>A Kiss at Midnight</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/75466-Aleister Crowley: The Other Loch Ness
+      Monster</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/75466-Aleister Crowley: The Other Loch Ness
+      Monster</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A quirky and fascinating short documentary on the “most wickedest man
+        in the world” and his time at Boleskine House, at the turn of the last
+        century.</image:caption
+      >
+      <image:title>Aleister Crowley: The Other Loch Ness Monster</image:title>
+    </image:image>
+  </url>
+</urlset>

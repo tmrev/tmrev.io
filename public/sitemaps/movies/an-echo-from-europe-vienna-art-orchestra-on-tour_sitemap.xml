@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/792746-An Echo from Europe - Vienna Art Orchestra
+      on Tour</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/792746-An Echo from Europe - Vienna Art Orchestra
+      on Tour</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eWR8YL5Kz5p3WAU86pLvOfs2k1e.jpg</image:loc
+      >
+      <image:caption
+        >This documentary road movie features the international jazz big band
+        Vienna Art Orchestra on its tour trough Europe and Canada. A search for
+        the truth of surviving and working in today's cultural world. The
+        musical program of Vienna Art Orchestra's 20th Anniversary Tour under
+        the direction of Mathias Rüegg is entitled "An Echo from Europe - From
+        Django Reinhardt to Django Bates" and is intended as an homage to
+        European jazz composers.</image:caption
+      >
+      <image:title
+        >An Echo from Europe - Vienna Art Orchestra on Tour</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

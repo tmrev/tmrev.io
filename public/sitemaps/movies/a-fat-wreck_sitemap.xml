@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392001-A Fat Wreck</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392001-A Fat Wreck</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ibUnVKvvfvixDWMYqZHK2TdrMn.jpg</image:loc
+      >
+      <image:caption
+        >Fat Wreck Chords... The influential music label proud to say they've
+        spent the past 25 years "ruining punk rock". A Fat Wreck tells the story
+        of founders Fat Mike (of the legendary punk band NOFX) and his ex-wife
+        Erin Kelly-Burkett, spanning the birth, growth, struggles, and survival
+        of the Fat Wreck Chords label.</image:caption
+      >
+      <image:title>A Fat Wreck</image:title>
+    </image:image>
+  </url>
+</urlset>

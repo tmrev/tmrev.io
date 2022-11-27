@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2770-American Pie 2</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2770-American Pie 2</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/854ZZxXdeabAs90mrV72NqShJqR.jpg</image:loc
+      >
+      <image:caption
+        >After a year apart - attending different schools, meeting different
+        people - the guys rent a beach house and vow to make this the best
+        summer ever. As it turns out, whether that will happen or not has a lot
+        to do with the girls. Between the wild parties, outrageous revelations
+        and yes, a trip to band camp, they discover that times change and people
+        change, but in the end, it's all about sticking together.</image:caption
+      >
+      <image:title>American Pie 2</image:title>
+    </image:image>
+  </url>
+</urlset>

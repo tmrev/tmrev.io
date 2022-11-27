@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/588204-Alien: Alone</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/588204-Alien: Alone</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lZxGgsrcseYs2nnVSwK3iQI7lwz.jpg</image:loc
+      >
+      <image:caption
+        >Hope, an abandoned crew member aboard the derelict chemical hauler
+        Otranto, has spent a year trying to keep her ship and herself alive as
+        both slowly fall apart. After discovering hidden cargo, she risks it all
+        to power up the broken ship in search of human life. Alien: Alone is one
+        of six short films produced to celebrate the 40th anniversary of 1979's
+        Alien.</image:caption
+      >
+      <image:title>Alien: Alone</image:title>
+    </image:image>
+  </url>
+</urlset>

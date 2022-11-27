@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/520089-Alison</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/520089-Alison</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gtl1K7AEf3hhttvntfJ9SdE8jtO.jpg</image:loc
+      >
+      <image:caption
+        >Raped. Disemboweled. Nearly decapitated. Dumped on the outskirts of a
+        nature reserve, dead - or so they thought. She needed a hero that night,
+        so that's what she became. This is Alison's tale. A tale of monsters,
+        miracles and hope.</image:caption
+      >
+      <image:title>Alison</image:title>
+    </image:image>
+  </url>
+</urlset>

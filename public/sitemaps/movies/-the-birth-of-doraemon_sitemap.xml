@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/280507-2112: The Birth of Doraemon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/280507-2112: The Birth of Doraemon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xjUixSHdBJVpi5FPZ1dhElEz3V1.jpg</image:loc
+      >
+      <image:caption
+        >A movie about the life of Doraemon from birth, before coming to Nobita.
+        The movie is sort of a prequel to the entire series, it showed the life
+        of Doraemon before traveling to the 20th century: How he was made, how
+        he was partially broken, how he lost his ears, how he met the Nobi
+        family and decides to return to the past to help Nobita.</image:caption
+      >
+      <image:title>2112: The Birth of Doraemon</image:title>
+    </image:image>
+  </url>
+</urlset>

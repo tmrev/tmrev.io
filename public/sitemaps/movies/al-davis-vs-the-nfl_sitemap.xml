@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/785483-Al Davis vs. The NFL</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/785483-Al Davis vs. The NFL</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8n1WO1JUoNmv9KLcuye5mjTSlVG.jpg</image:loc
+      >
+      <image:caption
+        >The maverick machinations of Oakland/Los Angeles Raiders owner Al Davis
+        and his many quarrels with the National Football League.</image:caption
+      >
+      <image:title>Al Davis vs. The NFL</image:title>
+    </image:image>
+  </url>
+</urlset>

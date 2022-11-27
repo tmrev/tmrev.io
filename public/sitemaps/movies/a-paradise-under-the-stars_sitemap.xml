@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/285759-A Paradise Under the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/285759-A Paradise Under the Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q8sly1kASxgnOScSfwPgQtlfI69.jpg</image:loc
+      >
+      <image:caption
+        >Like her mother before her, beautiful Sissy wants to be a dancer at the
+        Tropicana, Havana's famous cabaret. But her father, Candido, forbids her
+        to do so because of his ongoing grudge against Armando, his former rival
+        and choreographer at the nightclub.</image:caption
+      >
+      <image:title>A Paradise Under the Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/267064-Almost Salinas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/267064-Almost Salinas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1rQxyFItLBH1MvFIOjftO9q7tJi.jpg</image:loc
+      >
+      <image:caption
+        >Life takes a strange turn when a group of outsiders come to the small
+        town of Cholame, the famed site of James Dean's fatal car crash.
+        Cholame's only business, a diner owned by Max (John Mahoney), is overrun
+        by this glamorous group while the diner's short order cook (Ian Gomez)
+        and waitress (Virginia Madsen) get caught up into this new, exciting
+        world. Unknown to the rest, a magazine reporter (Linda Emond) arrives in
+        town to uncover a dark secret that Max has kept hidden for over forty
+        years</image:caption
+      >
+      <image:title>Almost Salinas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/126938-Acts of Death</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/126938-Acts of Death</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pPw7zHgIKxvus5Y5DOHSRETyAkK.jpg</image:loc
+      >
+      <image:caption
+        >A group of college theater students sneak into the Baxter University
+        theater at night to initiate the 'frosh meat'. Something goes terribly
+        wrong. The next night the same actors become locked into the theater,
+        each one of them has to face the consequences for their
+        actions.</image:caption
+      >
+      <image:title>Acts of Death</image:title>
+    </image:image>
+  </url>
+</urlset>

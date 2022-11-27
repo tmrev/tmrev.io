@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/118046-Anaconda: Queen of the Serpents</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/118046-Anaconda: Queen of the Serpents</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8fxTHwpkL17sYrLCauMFIeq0jts.jpg</image:loc
+      >
+      <image:caption
+        >Anaconda - the mere mention of its name brings images of an awesome and
+        terrifying killer snake! For Dr. Jesus Rivas and his wife, Dr Sarah
+        Corey, anacondas represent a challenge as they try to unravel the
+        mysteries surrounding these massive reptiles. Like most snakes,
+        anacondas have suffered greatly from exaggeration and scary folklore.
+        Pound for pound, the South American anaconda is the world’s largest
+        snake. But its reputation as a killer is wrapped in myth and
+        legend.</image:caption
+      >
+      <image:title>Anaconda: Queen of the Serpents</image:title>
+    </image:image>
+  </url>
+</urlset>

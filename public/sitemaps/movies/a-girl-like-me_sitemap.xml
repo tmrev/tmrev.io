@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427362-A Girl Like Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427362-A Girl Like Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7nq8eCk5TD7oHQGrVGR6eMaPuEA.jpg</image:loc
+      >
+      <image:caption
+        >Color is more than skin deep for young African-American women
+        struggling to define themselves.</image:caption
+      >
+      <image:title>A Girl Like Me</image:title>
+    </image:image>
+  </url>
+</urlset>

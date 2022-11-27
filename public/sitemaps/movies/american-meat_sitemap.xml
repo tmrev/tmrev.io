@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/185142-American Meat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/185142-American Meat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5zQvARlb5sRXY8X3x0Gc6G1ZcDc.jpg</image:loc
+      >
+      <image:caption
+        >American Meat is a solutions-oriented documentary chronicling the
+        current state of the U.S. meat industry. Featuring Joel Salatin, Chuck
+        Wirtz, Fred Kirschenmann, Steve Ells, Paul Willis, and farmers across
+        America, it takes an even-handed look at animal husbandry. First
+        explaining how America arrived at our current industrial system, the
+        story shifts to the present day, showing the feedlots and confinement
+        houses, not through hidden cameras but through the eyes of the farmers
+        who live and work there. From there, the documentary introduces the
+        revolution taking root in animal husbandry, led by the charismatic and
+        passionate Joel Salatin. Stories are shared of farmers across the
+        country who have changed their life to start grass-based farms, and
+        everyday solutions highlight actions people can make to support
+        America's agriculture.</image:caption
+      >
+      <image:title>American Meat</image:title>
+    </image:image>
+  </url>
+</urlset>

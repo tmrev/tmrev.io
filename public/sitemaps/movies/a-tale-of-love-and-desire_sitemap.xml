@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/820702-A Tale of Love and Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/820702-A Tale of Love and Desire</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gbSVjWsvReoiPqtyIiLQBoSFE6y.jpg</image:loc
+      >
+      <image:caption
+        >Ahmed, 18, is French of Algerian origin. He grew up in the Parisian
+        suburbs. On the benches of the university, he meets Farah, a young
+        Tunisian full of energy recently arrived from Tunis. While discovering a
+        body of sensual and erotic Arabic literature that he never knew existed,
+        Ahmed falls deeply in love with this girl, and although literally
+        overwhelmed by desire, he will try to resist it.</image:caption
+      >
+      <image:title>A Tale of Love and Desire</image:title>
+    </image:image>
+  </url>
+</urlset>

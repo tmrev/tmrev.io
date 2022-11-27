@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22520-Aachi and Ssipak</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22520-Aachi and Ssipak</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jIcYFF1l8y4mjogXwMhfn6kKGWc.jpg</image:loc
+      >
+      <image:caption
+        >Sometime in the future, mankind has depleted all energy and fuel
+        sources, however they have engineered a way to use human excrement as
+        fuel. To reward production, the government hands out extremely
+        addictive, popsicle-like "Juicybars", which in turn also act as a
+        laxative. Aachi and Ssipak are street hoodlums who struggle to survive
+        by trading these bars in the black market.</image:caption
+      >
+      <image:title>Aachi and Ssipak</image:title>
+    </image:image>
+  </url>
+</urlset>

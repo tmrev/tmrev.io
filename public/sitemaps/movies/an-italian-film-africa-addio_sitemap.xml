@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1015053-An Italian Film (Africa Addio)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1015053-An Italian Film (Africa Addio)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An Italian Film (Africa Addio) takes the title of Jacopetti and
+        Prosperi's famous 1960 film as the first step of a major revision
+        project of the past and present notions of colonialism and imperialist
+        nostalgia, analysing how they were transposed and pervade in the present
+        globalised contexts.</image:caption
+      >
+      <image:title>An Italian Film (Africa Addio)</image:title>
+    </image:image>
+  </url>
+</urlset>

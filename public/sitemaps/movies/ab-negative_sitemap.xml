@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272928-AB Negative</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272928-AB Negative</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pfjqZei6vZXboyCMa1nYyDgvUgI.jpg</image:loc
+      >
+      <image:caption
+        >When nice guy Woodster Carneal (Mitchell Rad) loses his wife, his job
+        and his house he gets extorted into harvesting human organs on demand.
+        With a pair of Brazen detectives (Leah Coffman and Cheryl Duncan) on his
+        trail, Carneal must stay a step ahead of everyone, including the organ
+        brokers he works for.</image:caption
+      >
+      <image:title>AB Negative</image:title>
+    </image:image>
+  </url>
+</urlset>

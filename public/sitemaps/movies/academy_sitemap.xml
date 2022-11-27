@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607656-Academy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607656-Academy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zdK2wdHHPEBkUcxU0g4ZVvV41pc.jpg</image:loc
+      >
+      <image:caption
+        >Michelle just wants to dance, Takashi aims to win an Oscar and Chiho
+        wants to return to Japan. They face their first gruelling year at the
+        Australian Arts Academy. Will the survive to reach the walls of the
+        famed alumni?</image:caption
+      >
+      <image:title>Academy</image:title>
+    </image:image>
+  </url>
+</urlset>

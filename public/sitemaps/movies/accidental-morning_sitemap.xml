@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1037151-Accidental Morning</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1037151-Accidental Morning</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zaFKp094lf34ePyl8kjsn31lFJH.jpg</image:loc
+      >
+      <image:caption
+        >Trying to get out of work so they can go to a party, two video store
+        employees make up a fake religious holiday called “National Mourning
+        Day.” Their boss believes them, but takes the holiday a little too
+        seriously.</image:caption
+      >
+      <image:title>Accidental Morning</image:title>
+    </image:image>
+  </url>
+</urlset>

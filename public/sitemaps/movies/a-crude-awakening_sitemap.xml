@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13670-A Crude Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13670-A Crude Awakening</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rQ16EIpBMQLSF95tDnGQoy3ncbA.jpg</image:loc
+      >
+      <image:caption
+        >Basil Gelpke and Ray McCormack's nonfiction treatise Crude Awakening
+        joins Maxed Out, An Inconvenient Truth, and other recent documentaries
+        devoted to unearthing and exploring forces that are untying the
+        connective threads of contemporary society. The subject at hand is crude
+        oil - specifically, the depletion of petroleum from the Earth, in an era
+        when consumption threatens to exceed supply.</image:caption
+      >
+      <image:title>A Crude Awakening</image:title>
+    </image:image>
+  </url>
+</urlset>

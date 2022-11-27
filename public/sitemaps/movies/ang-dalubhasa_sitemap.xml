@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/350893-Ang Dalubhasa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/350893-Ang Dalubhasa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jaime de Guzman, a military neurosurgeon, survives a massacre that
+        killed his wife and daughter. He hunts down all perpetrators and is able
+        to kill them except the boss. From returning to a normal life and to the
+        death of a girl after performing a brain operation to her, he hides his
+        guilt to his new life.</image:caption
+      >
+      <image:title>Ang Dalubhasa</image:title>
+    </image:image>
+  </url>
+</urlset>

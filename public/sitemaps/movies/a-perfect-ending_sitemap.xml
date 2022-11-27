@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/107257-A Perfect Ending</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/107257-A Perfect Ending</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3gjNfor0AZMdvmSJDqDoNOhyM5F.jpg</image:loc
+      >
+      <image:caption
+        >This intimate drama follows Rebecca, a woman who has kept her sexuality
+        a secret from her friends but chooses to reveal it to a stranger. While
+        Rebecca's revelations may not yield the results she expects, a perfect
+        ending is still in reach.</image:caption
+      >
+      <image:title>A Perfect Ending</image:title>
+    </image:image>
+  </url>
+</urlset>

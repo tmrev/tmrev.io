@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/426789-A Doggone Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/426789-A Doggone Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bl9g6iUZDahn0GbNQSTO32gPsb0.jpg</image:loc
+      >
+      <image:caption
+        >When the CIA discovers a cute orphan puppy with amazing telepathic
+        abilities, the powers-that-be in Washington immediately lock him down
+        and plan on forcing the poor dog to become a covert secret weapon. But
+        fate steps in and frees the pint-sized Jack Russel Terrier from
+        government clutches</image:caption
+      >
+      <image:title>A Doggone Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/302828-Against the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/302828-Against the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qtyq9UcYQL20BxtNYWYT7Q9YZ1s.jpg</image:loc
+      >
+      <image:caption
+        >A WWII pilot, bombardier, and radioman find themselves adrift on a
+        lifeboat without food or water after being forced to ditch their plane
+        during a scouting mission.</image:caption
+      >
+      <image:title>Against the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

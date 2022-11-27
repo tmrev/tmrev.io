@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/279552-Africa, Blood & Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/279552-Africa, Blood & Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cl2d1Lu2MkzVlTkDg6d1rjnBkNm.jpg</image:loc
+      >
+      <image:caption
+        >This film speaks of archaic peoples, their customs and mores, in an
+        attempt to make the last snapshots of their traditional lifestyles
+        before they are gone for good.</image:caption
+      >
+      <image:title>Africa, Blood & Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

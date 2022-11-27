@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/690044-And She Hisses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/690044-And She Hisses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8cueTgGX17LAdQv6nItypPgI6xo.jpg</image:loc
+      >
+      <image:caption
+        >Two small-town lovers spend their winter drinking cheap wine, throwing
+        darts and planning their escape to Florida. They keep forgetting the
+        name of their favorite color “Verdigris”, a hypnotic green that
+        penetrate the iris and only exist on the verge of its own
+        disappearing.</image:caption
+      >
+      <image:title>And She Hisses</image:title>
+    </image:image>
+  </url>
+</urlset>

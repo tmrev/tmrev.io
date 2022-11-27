@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427842-Alone with War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427842-Alone with War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dP16gC42w23c6JpPkqmG5Ljz3N2.jpg</image:loc
+      >
+      <image:caption
+        >Beirut is a wonderful town. It's like you're at the center of
+        everything. In Beirut, between 1975 and 1990, there was a civil war,
+        everybody wanted to exterminate everybody. Today, war is over. It
+        stopped a day, like that, after having corrupted our lives. I wanted to
+        shoot the void it had left. Its ghostly presence. That
+        wound...</image:caption
+      >
+      <image:title>Alone with War</image:title>
+    </image:image>
+  </url>
+</urlset>

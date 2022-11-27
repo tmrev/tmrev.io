@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1042111-A murder / Murder Kafka</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1042111-A murder / Murder Kafka</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The man intends to kill another man. While waiting for the man to get
+        off work, he was witnessed by another man. The first man killed his
+        target, completely seen by the second man. The second man told the first
+        man that he saw it without missing a single glance.</image:caption
+      >
+      <image:title>A murder / Murder Kafka</image:title>
+    </image:image>
+  </url>
+</urlset>

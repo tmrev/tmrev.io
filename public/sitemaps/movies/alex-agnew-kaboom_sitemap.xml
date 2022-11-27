@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25888-Alex Agnew: Ka-Boom!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25888-Alex Agnew: Ka-Boom!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ez0DZcuZVyNg25015GQheRcWgT4.jpg</image:loc
+      >
+      <image:caption
+        >Back in 2003, Alex Agnew was the first Belgian to win the prestigious
+        'Leids Cabaret Festival' in The Netherlands. He was the winner in both
+        categories: Jury and public. Alex is a mixture of an English father,
+        Belgian mother, an overdoses (action) movies, superheroes, comic books
+        and a lot of music. No quiet, sophisticated humour, but proud to be
+        loud! Rock'n'Roll comedy!</image:caption
+      >
+      <image:title>Alex Agnew: Ka-Boom!</image:title>
+    </image:image>
+  </url>
+</urlset>

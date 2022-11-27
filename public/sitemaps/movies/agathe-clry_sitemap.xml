@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20072-Agathe Cléry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20072-Agathe Cléry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kNJDjrXOEXegDnSpxJ9W3AILRuO.jpg</image:loc
+      >
+      <image:caption
+        >Agathe Clery, a marketing manager for a cosmetics company, is snobbish,
+        stubborn and racist. When she is diagnosed with Addison Syndrome, an
+        disorder that darkens the pigmentation of one's skin, she suddenly finds
+        herself resembling a black woman.</image:caption
+      >
+      <image:title>Agathe Cléry</image:title>
+    </image:image>
+  </url>
+</urlset>

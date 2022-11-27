@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/199315-A Time to Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/199315-A Time to Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7zqUStZKoJhUgYC749SnveAJGbf.jpg</image:loc
+      >
+      <image:caption
+        >Moon, a middle aged woman who works at a mart while raising a high
+        school daughter alone. Moon had come to Lake Sanjeong with her crush on
+        a picnic last fall, but now she visits the area alone. Jin-cheol wakes
+        up in the morning to find a stranger in bed with him. To make matters
+        worse, she is in high school! What will happen to the two? Will they
+        fall in love?</image:caption
+      >
+      <image:title>A Time to Love</image:title>
+    </image:image>
+  </url>
+</urlset>

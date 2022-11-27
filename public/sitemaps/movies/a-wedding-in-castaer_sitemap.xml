@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/357446-A Wedding in Castañer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/357446-A Wedding in Castañer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9lXSjYG8Ig1bg9AAwNgBFLq0TLa.jpg</image:loc
+      >
+      <image:caption
+        >Shortly before graduating from medical school, Mariana returns home to
+        fulfill her father's promise to celebrate the greatest wedding ever in
+        the history of Castañer. Complications arise when the bride's and the
+        groom's families come together for the wedding preparations and
+        festivities.</image:caption
+      >
+      <image:title>A Wedding in Castañer</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64935-A Private Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64935-A Private Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mPdnP2ts47ZWeMvPkktxiK0LUA8.jpg</image:loc
+      >
+      <image:caption
+        >Divorced private detective Francois Maneri is assigned by his agency to
+        investigate the disappearance of Rachel, a young student who has been
+        missing for six months. After interviewing Rachel's family, friends and
+        classmates, Francois is attacked and injured by an anonymous assailant
+        and becomes reluctant to continue his search. But when Rachel's body is
+        found, Francois is drawn deeper into the investigation as he discovers
+        the dead girl's secret life.</image:caption
+      >
+      <image:title>A Private Affair</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/605086-A Simple Kansas Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/605086-A Simple Kansas Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sMvgGLiwoAXeYmAIq37GZh7Ks4t.jpg</image:loc
+      >
+      <image:caption
+        >This is a short film about a simple man, Larry Petry who has had a hard
+        life for many years but finds content in the small town of Cuba
+        Kansas.</image:caption
+      >
+      <image:title>A Simple Kansas Man</image:title>
+    </image:image>
+  </url>
+</urlset>

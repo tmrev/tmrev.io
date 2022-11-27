@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/407723-Amores</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/407723-Amores</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Amores explores the world of acting from its most basic and solitary
+        form: the monologue. If only an actor, a text, and someone who hears it
+        are needed to make an acting exercise, then Amores offers fourteen
+        splendid acts from renowned professionals in Puerto Rico. Amores is
+        composed by different monologues that, in set, offer reflection on
+        aspects of love. In this manner, the title becomes a statement: amor
+        es... (love is...)</image:caption
+      >
+      <image:title>Amores</image:title>
+    </image:image>
+  </url>
+</urlset>

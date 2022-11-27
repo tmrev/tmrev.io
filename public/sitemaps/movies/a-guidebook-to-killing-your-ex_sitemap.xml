@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435172-A Guidebook to Killing Your Ex</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435172-A Guidebook to Killing Your Ex</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xiiCtmLBlvabNc4wM7jH9OvF0BK.jpg</image:loc
+      >
+      <image:caption
+        >A lonely man with an intention of documenting every important detail is
+        planning to kill his ex-girlfriend within 72 hours only to realize
+        things are not as easy as he previously imagined.</image:caption
+      >
+      <image:title>A Guidebook to Killing Your Ex</image:title>
+    </image:image>
+  </url>
+</urlset>

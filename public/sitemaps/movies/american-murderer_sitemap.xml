@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/774301-American Murderer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/774301-American Murderer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hSg5lgeGkDxW1iDfWRuo4nDxpw5.jpg</image:loc
+      >
+      <image:caption
+        >The True story of how charismatic con man Jason Derek Brown bankrolls
+        his extravagant lifestyle through a series of scams. On Brown’s trail:
+        Lance Leising, a dogged FBI special agent determined to put Brown behind
+        bars. When Brown’s funds run low and his past catches up with him, he
+        plots his most elaborate scheme yet, pitting himself against Leising in
+        a deadly game of cat and mouse — and becoming the most unlikely and
+        elusive fugitive on the FBI’s most-wanted list.</image:caption
+      >
+      <image:title>American Murderer</image:title>
+    </image:image>
+  </url>
+</urlset>

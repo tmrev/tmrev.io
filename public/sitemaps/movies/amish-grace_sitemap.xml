@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45792-Amish Grace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45792-Amish Grace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aaeACUbBtLYj97AaU7UXCHOwCW0.jpg</image:loc
+      >
+      <image:caption
+        >When a gunman killed five Amish children and injured five others in a
+        Nickel Mines, Pennsylvania schoolhouse shooting in October of 2006, the
+        world media attention rapidly turned from the tragic events to the
+        extraordinary forgiveness demonstrated by the Amish
+        community.</image:caption
+      >
+      <image:title>Amish Grace</image:title>
+    </image:image>
+  </url>
+</urlset>

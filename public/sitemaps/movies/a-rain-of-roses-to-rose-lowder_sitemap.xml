@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/497679-A Rain of Roses (To Rose Lowder)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/497679-A Rain of Roses (To Rose Lowder)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6D1oqvTbfPz9kbZkgLLxhlY2lcf.jpg</image:loc
+      >
+      <image:caption
+        >Images from the bridge over Canal Saint-Martin in Paris. The inland
+        waterway vessels Rose and Pluie de roses pass each other. Changes pile
+        up and the camera unravels them, through shooting, for a mise en abyme
+        of the fall.</image:caption
+      >
+      <image:title>A Rain of Roses (To Rose Lowder)</image:title>
+    </image:image>
+  </url>
+</urlset>

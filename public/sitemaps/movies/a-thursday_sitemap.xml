@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/897525-A Thursday</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/897525-A Thursday</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xnoyG3rPuKAHeRbNlwuyiC08Sya.jpg</image:loc
+      >
+      <image:caption
+        >When a kindergarten teacher takes her 16 students hostage and makes a
+        set of demands, it not only rattles the Mumbai police and the city but
+        also sends shockwaves through the country and its leaders as the motive
+        behind the hostage situation is unearthed.</image:caption
+      >
+      <image:title>A Thursday</image:title>
+    </image:image>
+  </url>
+</urlset>

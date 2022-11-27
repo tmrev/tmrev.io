@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/691020-Alal mad al basar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/691020-Alal mad al basar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gWnYpCnMNyaKayMgrcObqAK53Xb.jpg</image:loc
+      >
+      <image:caption
+        >Line of sight is the story of LAILA, a woman in her early twenties who
+        has to revisit the choices she made in her life after an encounter with
+        a car thief, who had made unusual choices himself.</image:caption
+      >
+      <image:title>Alal mad al basar</image:title>
+    </image:image>
+  </url>
+</urlset>

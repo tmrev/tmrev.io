@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68683-27 sekundmeter snö</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68683-27 sekundmeter snö</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In 1939 ten people on an outing are caught in a mountain cabin during a
+        snow storm together with the cabin's hostess. The first night one of
+        them is killed, and it can not have been someone from the outside so the
+        killer must be someone in the cabin...</image:caption
+      >
+      <image:title>27 sekundmeter snö</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/268318-A Farra do Circo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/268318-A Farra do Circo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/89uJG6Cf714KjbC55XzHjxlCr27.jpg</image:loc
+      >
+      <image:caption
+        >This documentary highlights the evolution of Brazil's Circo Voador
+        venue from homespun artists' performance space to national cultural
+        institution.</image:caption
+      >
+      <image:title>A Farra do Circo</image:title>
+    </image:image>
+  </url>
+</urlset>

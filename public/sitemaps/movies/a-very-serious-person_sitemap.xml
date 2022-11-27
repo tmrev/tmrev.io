@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29258-A Very Serious Person</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29258-A Very Serious Person</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cRvwszYjDHVzGSQxlQEaUAhiBbs.jpg</image:loc
+      >
+      <image:caption
+        >Jan, an itinerant male nurse from Denmark, takes a new job with Mrs. A,
+        a terminally ill Manhattan woman raising her parentless
+        thirteen-year-old grandson, Gil. Spending the summer by the shore, the
+        emotionally reserved Jan finds himself oddly cast as a mentor to Gil in
+        having to prepare the sensitive boy for life with his cousins in Florida
+        after his grandmother's death.</image:caption
+      >
+      <image:title>A Very Serious Person</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/660061-Al son que me toquen bailo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/660061-Al son que me toquen bailo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eTUTyuuOV0BqbBzx7N4S8ringBb.jpg</image:loc
+      >
+      <image:caption
+        >A man passionate about rumba learns its history — and lessons on love —
+        by dancing his way through various genres, from merengue to
+        reggaeton.</image:caption
+      >
+      <image:title>Al son que me toquen bailo</image:title>
+    </image:image>
+  </url>
+</urlset>

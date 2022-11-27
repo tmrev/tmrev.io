@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9487-A Bug's Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9487-A Bug's Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg</image:loc
+      >
+      <image:caption
+        >On behalf of "oppressed bugs everywhere," an inventive ant named Flik
+        hires a troupe of warrior bugs to defend his bustling colony from a
+        horde of freeloading grasshoppers led by the evil-minded
+        Hopper.</image:caption
+      >
+      <image:title>A Bug's Life</image:title>
+    </image:image>
+  </url>
+</urlset>

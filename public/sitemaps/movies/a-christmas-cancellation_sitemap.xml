@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/743151-A Christmas Cancellation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/743151-A Christmas Cancellation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h9FMJDgIdf325uwTSYz0mjp3FTQ.jpg</image:loc
+      >
+      <image:caption
+        >The fictional characters in a popular sitcom wake up to the realisation
+        that they're not real - and the show is ending. Now, with cancellation
+        approaching, they must find a way to keep the show going or they will
+        cease to exist.</image:caption
+      >
+      <image:title>A Christmas Cancellation</image:title>
+    </image:image>
+  </url>
+</urlset>

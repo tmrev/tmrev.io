@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51045-A Mother's Prayer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51045-A Mother's Prayer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eSl5osNrfho0Cxg7ro2XBLHV48t.jpg</image:loc
+      >
+      <image:caption
+        >A Mother's Prayer, starring Robin Givens (Tyler Perry's The Family That
+        Preys), Johnny Gill (legendary R&B singer), Shirley Murdock (Man of Her
+        Dreams) and Jermaine Crawford (HBO's The Wire), tells the compelling,
+        heartwarming tale of family members torn apart by their individual
+        struggles. The only thing that can truly bring the family back together
+        is a mother's dying wishes. With a lot of love, this family is about to
+        learn the true meaning of the saying: the family that prays together
+        stays together. Come along on an emotional journey through song,
+        laughter and triumph.</image:caption
+      >
+      <image:title>A Mother's Prayer</image:title>
+    </image:image>
+  </url>
+</urlset>

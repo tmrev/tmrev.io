@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636421-A Case of Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636421-A Case of Blue</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hpX04xo6927uRZ88gGPogl1BMup.jpg</image:loc
+      >
+      <image:caption
+        >Recently retired accountant Richard Flicker attends a life-drawing
+        class and his world is turned upside down when he encounters
+        free-spirited Amelia, the spitting image of a long lost love from
+        decades ago. Grappling with a troubled home front, Richard flirts with
+        the temptation of this second chance at romance.</image:caption
+      >
+      <image:title>A Case of Blue</image:title>
+    </image:image>
+  </url>
+</urlset>

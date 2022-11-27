@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49162-Alice Upside Down</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49162-Alice Upside Down</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2H9qk88DZ32eyYHSvFgKHnS37kK.jpg</image:loc
+      >
+      <image:caption
+        >Still mourning the death of her mother a few years back, Alice McKinley
+        finds her life seriously disrupted when her father Ben buys a store and
+        moves her and her older brother Lester to a new town.</image:caption
+      >
+      <image:title>Alice Upside Down</image:title>
+    </image:image>
+  </url>
+</urlset>

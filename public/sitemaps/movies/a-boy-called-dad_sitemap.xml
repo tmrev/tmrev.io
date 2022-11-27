@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44196-A Boy Called Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44196-A Boy Called Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/er1uSB5iR0mV6LCAy0vAdWWGlZp.jpg</image:loc
+      >
+      <image:caption
+        >When he becomes a father at the tender age of 14, Robbie's life quickly
+        spirals out of control. Feeling angry and neglected by his own dad, he
+        kick-starts a series of events that will catapult him at great speed
+        into adulthood.</image:caption
+      >
+      <image:title>A Boy Called Dad</image:title>
+    </image:image>
+  </url>
+</urlset>

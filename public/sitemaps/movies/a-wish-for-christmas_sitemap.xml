@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410314-A Wish for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410314-A Wish for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9z81XnaxHJ7LYptef6augvgwake.jpg</image:loc
+      >
+      <image:caption
+        >Sara Shaw is the type of woman who prefers to sit on the sidelines at
+        work, but when her big idea for a Christmas initiative is stolen, she
+        makes a wish to Santa that she'll finally have the courage to stand up
+        for herself. Santa grants her wish, but only gives her 48 hours. As the
+        clock ticks, Sara will discover how to channel the Christmas magic and
+        speak her mind all on her own.</image:caption
+      >
+      <image:title>A Wish for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

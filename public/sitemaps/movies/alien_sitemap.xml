@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/8077-Alien³</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/8077-Alien³</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hlabk6APJUeihZDaSD9N6iI0f4g.jpg</image:loc
+      >
+      <image:caption
+        >After escaping with Newt and Hicks from the alien planet, Ripley crash
+        lands on Fiorina 161, a prison planet and host to a correctional
+        facility. Unfortunately, although Newt and Hicks do not survive the
+        crash, a more unwelcome visitor does. The prison does not allow weapons
+        of any kind, and with aid being a long time away, the prisoners must
+        simply survive in any way they can.</image:caption
+      >
+      <image:title>Alien³</image:title>
+    </image:image>
+  </url>
+</urlset>

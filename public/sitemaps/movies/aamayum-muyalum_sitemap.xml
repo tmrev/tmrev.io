@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/327904-Aamayum Muyalum</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/327904-Aamayum Muyalum</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4zuw7Y5I2fDDq7zWa1JLaWorjKo.jpg</image:loc
+      >
+      <image:caption
+        >The film is set in a fictitious poverty-ridden village of Gowlipady,
+        which is virtually ruled by the ruthless zamindari Bhandaravathi
+        (Sukanya). Kashi (Nedumudi Venu) is a lottery salesman. He is the only
+        literate person of his village. Once, a lottery sold by him happens to
+        win the first prize of 5 Crore Indian Rupee. Greedy Kashi tries to get
+        back the lottery ticket but doesn't know to whom he has sold the ticket
+        to.</image:caption
+      >
+      <image:title>Aamayum Muyalum</image:title>
+    </image:image>
+  </url>
+</urlset>

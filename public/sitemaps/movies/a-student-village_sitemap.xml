@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/728053-A Student Village</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/728053-A Student Village</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6RTL9KTN7zWzmvJ8F7yY3kU4wug.jpg</image:loc
+      >
+      <image:caption
+        >In deep Hengduan Mountain Range, western Yunnan of China, there hides a
+        special village which is not known by people outside. All the villagers
+        inhabited here are children between 6 and 14. They live in the village
+        all year round to complete their six-year study in a primary
+        school.</image:caption
+      >
+      <image:title>A Student Village</image:title>
+    </image:image>
+  </url>
+</urlset>

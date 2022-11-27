@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/70668-An Ox's Tale: The John Entwistle Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/70668-An Ox's Tale: The John Entwistle Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wjrS1LZzMmM6gh4jUitDk57yIsl.jpg</image:loc
+      >
+      <image:caption
+        >An intimate portrait of the legendary bass guitarist for The Who. This
+        documentary includes the last footage ever recorded with John Entwistle,
+        and features interviews with Pete Townshend, as well as other major
+        figures in rock history.</image:caption
+      >
+      <image:title>An Ox's Tale: The John Entwistle Story</image:title>
+    </image:image>
+  </url>
+</urlset>

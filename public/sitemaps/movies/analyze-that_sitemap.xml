@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9932-Analyze That</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9932-Analyze That</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q3R6Hno3WFfIkHQg7CeVAEOcHQQ.jpg</image:loc
+      >
+      <image:caption
+        >The mafia's Paul Vitti is back in prison and will need some serious
+        counseling when he gets out. Naturally, he returns to his analyst Dr.
+        Ben Sobel for help and finds that Sobel needs some serious help himself
+        as he has inherited the family practice, as well as an excess stock of
+        stress.</image:caption
+      >
+      <image:title>Analyze That</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515099-A Year of Hope</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515099-A Year of Hope</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cvJhCxYnqssJ5KiMpb5yykqXZsg.jpg</image:loc
+      >
+      <image:caption
+        >A Year of Hope is about life on the streets of Manila. You will hear
+        the horrible stories of Pablo, Justin, and some of the other boys.
+        Thankfully their lives change during their year in Stairway Foundation.
+        It's an NGO located on an island in the Philippines far away from
+        Manila. They're there to get a proper education, eat nutritious food,
+        have fun, and be introduced to new things. But sadly even in a place
+        like Stairway, the gruesome streets of Manila are still lurking in the
+        backs of the children's minds.</image:caption
+      >
+      <image:title>A Year of Hope</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/857561-Abducted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/857561-Abducted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2MaDdo6qd5ivqdPL214AbEfOXBq.jpg</image:loc
+      >
+      <image:caption
+        >An inner-city teenage boy's life is turned upside-down when his
+        drug-running sister goes missing. Lakota's sudden disappearance leaves
+        Derrick to piece together the clues of her abduction. Derrick
+        experiences visions which he struggles to understand but which help him
+        on his quest to find her. As he gets close to finding his sister,
+        Derrick ends up in the fight of his life.</image:caption
+      >
+      <image:title>Abducted</image:title>
+    </image:image>
+  </url>
+</urlset>

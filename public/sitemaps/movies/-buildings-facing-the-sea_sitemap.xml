@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/187064-4 Buildings, Facing the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/187064-4 Buildings, Facing the Sea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/c2LSHiDEjTKyK6Fbo6HEUdnHSQZ.jpg</image:loc
+      >
+      <image:caption
+        >Three months after the March 2011 disaster in Fukushima, TEPCO, the
+        electric company operating the nuclear power plant, installed a livecam
+        on the facilities. The images, on which days and minutes add up, are
+        available online. Using them for sole visual material, such is the
+        daring challenge Philippe Rouy has taken up in 4 bâtiments, face à la
+        mer. (Nicola Féodoroff, FID 2012)</image:caption
+      >
+      <image:title>4 Buildings, Facing the Sea</image:title>
+    </image:image>
+  </url>
+</urlset>

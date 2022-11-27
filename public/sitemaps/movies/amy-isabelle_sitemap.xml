@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/122165-Amy & Isabelle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/122165-Amy & Isabelle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wU5kKUcBnd5mJwCHjMQeYKmE17Q.jpg</image:loc
+      >
+      <image:caption
+        >In 1971, in the small town of Shirley Falls, in Maine, the odd and
+        lonely secretary Isabelle Goodrow raises her teenager daughter Amy
+        alone. She has only two friends in her job among her gossiper
+        colleagues. When her overprotected daughter is seduced by her mathematic
+        teacher Peter Robertson, the world of Isabelle falls apart. She becomes
+        lost and loses her confidence on Amy, spoiling their relationship. Their
+        bond gets tied again when Isabelle discloses her inner secrets from the
+        past to Amy.</image:caption
+      >
+      <image:title>Amy & Isabelle</image:title>
+    </image:image>
+  </url>
+</urlset>

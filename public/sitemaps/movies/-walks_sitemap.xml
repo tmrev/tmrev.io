@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/719266-23 Walks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/719266-23 Walks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aGo4K0eUVGg3H7VrCOZsuTMUHUd.jpg</image:loc
+      >
+      <image:caption
+        >A gentle, sweet, funny, romantic story of love in later life. Following
+        a couple in their sixties, Dave and Fern who get to know one another
+        over the course of 23 dog walks. Set against the dramatic background of
+        the changing seasons of one year.</image:caption
+      >
+      <image:title>23 Walks</image:title>
+    </image:image>
+  </url>
+</urlset>

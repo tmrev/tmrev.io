@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/427506-A Miracle on Christmas Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/427506-A Miracle on Christmas Lake</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z9LqfzWzMrsfqYui8FMh6OQP5lC.jpg</image:loc
+      >
+      <image:caption
+        >After losing his best friend Charlie on Christmas Eve, Bobby Whiteside
+        ventures out onto the lake where they played games of winter hockey.
+        Upon shoveling the ice surface he discovers a magic, perfectly groomed
+        hockey rink that appears only at night in his presence. When a
+        development company starts purchasing lake frontage, Bobby joins forces
+        with his high school crush to rally the town to play one last game on
+        the night pond.</image:caption
+      >
+      <image:title>A Miracle on Christmas Lake</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/22349-Abilene Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/22349-Abilene Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/56wUpULMCeytbqgdNDCRksNjMkz.jpg</image:loc
+      >
+      <image:caption
+        >Marshall Dan Mitchell, who is the law in Abilene, has the job of
+        keeping peace between two groups. For a long time, the town had been
+        divided, with the cattlemen and cowboys having one end of town to
+        themselves, while townspeople occupied the other end. Mitchell liked it
+        this way, it made things easier for him, and kept problems from arising
+        between the two factions. However…</image:caption
+      >
+      <image:title>Abilene Town</image:title>
+    </image:image>
+  </url>
+</urlset>

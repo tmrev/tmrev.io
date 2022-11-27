@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29776-6 Guns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29776-6 Guns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nVTEw7k1dXx9nJ5HFLD4VjCKvBu.jpg</image:loc
+      >
+      <image:caption
+        >When her family is gunned down in cold blood, a young girl convinces a
+        bounty hunter to train her as a gunfighter so she can seek vengeance
+        with a six-shooter.</image:caption
+      >
+      <image:title>6 Guns</image:title>
+    </image:image>
+  </url>
+</urlset>

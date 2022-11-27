@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/136482-An Earthly Paradise for the Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/136482-An Earthly Paradise for the Eyes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cfAg7rHEOBsdfl54WCzvBWRkPRH.jpg</image:loc
+      >
+      <image:caption
+        >Adolescence is always a difficult time; it is doubly so for Gábina. For
+        one thing, she is growing up in the normalization years of the 1970s,
+        and then she also has to face the reality that her father is a
+        well-known actor disavowed by the regime. Although he abandoned the
+        family years before, his existence casts an ominous shadow over the
+        lives of not only Gábina, but also her older sister and mother, who are
+        trying to find a civilized way through the social mire of the
+        times.</image:caption
+      >
+      <image:title>An Earthly Paradise for the Eyes</image:title>
+    </image:image>
+  </url>
+</urlset>

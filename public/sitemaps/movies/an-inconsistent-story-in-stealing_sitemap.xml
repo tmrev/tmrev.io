@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/607532-An Inconsistent Story in Stealing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/607532-An Inconsistent Story in Stealing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oNcyf0KBPZjtkgovtSudukMHs1D.jpg</image:loc
+      >
+      <image:caption
+        >A former thief, Pan, hopes to escape her 'dull' existence in her
+        hometown but is forced into a mystery surrounding three different gangs
+        and the Gilded Ghost.</image:caption
+      >
+      <image:title>An Inconsistent Story in Stealing</image:title>
+    </image:image>
+  </url>
+</urlset>

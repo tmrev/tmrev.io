@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/296468-Amor Xtremo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/296468-Amor Xtremo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6ttDO60Dj7toWl9btU6NG062NCs.jpg</image:loc
+      >
+      <image:caption
+        >Two brothers travel from Mexico City to Las Vegas for the U.S.
+        Motocross Open.</image:caption
+      >
+      <image:title>Amor Xtremo</image:title>
+    </image:image>
+  </url>
+</urlset>

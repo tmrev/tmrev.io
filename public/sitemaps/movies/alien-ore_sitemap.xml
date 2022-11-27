@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/588211-Alien: Ore</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/588211-Alien: Ore</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zS6vvoRgy3v4FR0diWPydYanzvJ.jpg</image:loc
+      >
+      <image:caption
+        >As a hard-working miner of a planet mining colony, Lorraine longs to
+        make a better life for her daughter and grandchildren. When her shift
+        uncovers the death of a fellow miner under mysterious circumstances,
+        Lorraine is forced to choose between escape or defying management orders
+        and facing her fears to fight for the safety of her family. Alien: Ore
+        is one of six short films produced to celebrate the 40th anniversary of
+        1979's Alien.</image:caption
+      >
+      <image:title>Alien: Ore</image:title>
+    </image:image>
+  </url>
+</urlset>

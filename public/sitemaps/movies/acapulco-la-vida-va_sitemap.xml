@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295462-Acapulco La vida va</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295462-Acapulco La vida va</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q1kXaT7XQ1WLs3BwSYLHHnT44YW.jpg</image:loc
+      >
+      <image:caption
+        >Mariano has three reasons to invite Antonlín Fair to visit Acapulco
+        since the last 50 years. The first one because they were his best
+        friends during high school, the second one because he has serious
+        intentions to find Carmen Madrigal, a woman from Acapulco who was the
+        love of his youth, and the third one he rather not say, but it is the
+        reason he carries a pistol and three bullets in his
+        suitcase.</image:caption
+      >
+      <image:title>Acapulco La vida va</image:title>
+    </image:image>
+  </url>
+</urlset>

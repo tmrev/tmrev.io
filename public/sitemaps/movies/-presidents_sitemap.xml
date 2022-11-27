@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749904-4 Presidents</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749904-4 Presidents</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o6wnBc5lVoarVp9bvLkMiGRkzo7.jpg</image:loc
+      >
+      <image:caption
+        >What is the common thread among the only four U.S. Presidents who have
+        been assassinated - Lincoln, Garfield, McKinley, and Kennedy? They were
+        also the only four presidents to ever to take away money-issuing control
+        from the private banks and turn it over to the U.S. Treasury. Within
+        less than a year of each president doing so, they were murdered. And
+        within months of their vice president successors assuming their offices,
+        they returned the money issuing power back to the private banks. 4
+        PRESIDENTS provides the first-ever in depth analysis of this very likely
+        - and very frightening - historic conspiracy.</image:caption
+      >
+      <image:title>4 Presidents</image:title>
+    </image:image>
+  </url>
+</urlset>

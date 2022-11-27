@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/855293-Anatolian Leopard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/855293-Anatolian Leopard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3MbECWFM1I9jO40vEH28bDd3Qf6.jpg</image:loc
+      >
+      <image:caption
+        >At Turkey’s oldest zoo, a lonely manager and a neglected female officer
+        form an unlikely bond: as they hide the death of the zoo’s oldest
+        inhabitant, an Anatolian leopard, in order to stop the privatization
+        process and fake its escape, they set in motion an absurd charade that
+        spins out of control. In Turkey’s grey and quiet capital, the ghost of
+        the leopard persists.</image:caption
+      >
+      <image:title>Anatolian Leopard</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1035932-A Miracle Before Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1035932-A Miracle Before Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >With a little help from an angel, Mercedes Wright, a fast-talking
+        popular relationship therapist with all the answers when it comes to
+        fixing everyone else's marriage, must now use the magic of Christmas to
+        find the secret to save her own.</image:caption
+      >
+      <image:title>A Miracle Before Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

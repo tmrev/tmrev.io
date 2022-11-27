@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324500-72 Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324500-72 Hours</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story revolves around Chef Cleavon 'Von' Burkett, a former ladies'
+        man who was living the good life with a beautiful wife until one day he
+        wasn't. A heart attack brings Von face to face with God, and God offers
+        Von a second chance at life, if he atones to all of his exes. With the
+        help of his best friend and the determination to live, Von embarks on a
+        journey to seek redemption. But very soon he realizes that hell hath no
+        fury like the women he's scorned.</image:caption
+      >
+      <image:title>72 Hours</image:title>
+    </image:image>
+  </url>
+</urlset>

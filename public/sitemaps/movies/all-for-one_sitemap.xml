@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72054-All for One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72054-All for One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cKikIufxCbwfm3hURGQGQaoIZLT.jpg</image:loc
+      >
+      <image:caption
+        >Four rogues, who were best friends as kids, have one big problem:
+        they're sitting on both sides of the law. Martin is a policeman, while
+        Nikolai, Ralf, and Timo can't distinguish between personal possessions
+        and the possessions of others! When all four find themselves in a fix,
+        they're forced to return to their former tricks against a common foe, Mr
+        Niemeyer. Martin is not as successful, however, either at his job or
+        marriage, and thinks he deserves a better life. Now he sees an
+        opportunity to save his career by "playing" with his old friends on a
+        mission that is so crazy that even the two foolish brothers can do some
+        good.</image:caption
+      >
+      <image:title>All for One</image:title>
+    </image:image>
+  </url>
+</urlset>

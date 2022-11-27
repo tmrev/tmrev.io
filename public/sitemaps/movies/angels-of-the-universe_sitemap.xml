@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20152-Angels of the Universe</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20152-Angels of the Universe</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8RViMuKJVmRamRLaO1wl3a5a3EL.jpg</image:loc
+      >
+      <image:caption
+        >The story of an Icelandic man and his slow descent into madness. Along
+        his journey he meets Dagný, the initial cause of his breakdown. Other
+        people he meets in the asylum have been committed for various reasons,
+        such as signing cheques for Adolf Hitler and, believing themselves to be
+        writing songs for the Beatles and telepathically transmitting to the
+        band.</image:caption
+      >
+      <image:title>Angels of the Universe</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/218691-A Pact</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/218691-A Pact</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mftOeVtiK41hVFBhhzikkFOFTwU.jpg</image:loc
+      >
+      <image:caption
+        >A dark psychological thriller, A Pact tells the twisted story of a
+        contentious love triangle. As teenagers, Paul tricked Georg into handing
+        over his girlfriend Anna to him. Georg agrees, on the condition that he
+        can have her back whenever he wishes. After decades of silence, when
+        Anna and Paul have a family together, Georg suddenly re-appears. Strange
+        things start happening to Paul, and it soon becomes clear that Georg has
+        not forgotten the pact.</image:caption
+      >
+      <image:title>A Pact</image:title>
+    </image:image>
+  </url>
+</urlset>

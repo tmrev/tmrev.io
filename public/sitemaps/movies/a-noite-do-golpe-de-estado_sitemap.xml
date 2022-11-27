@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/697314-A Noite do Golpe de Estado</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/697314-A Noite do Golpe de Estado</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tIQnAKZA4eZdPhSItqB0sQrAjhR.jpg</image:loc
+      >
+      <image:caption
+        >The operational commander of the "Captains Movement", describes and
+        recreates a quarter of century later the crucial 24 hours of April 25,
+        1974, that would topple the Portuguese government and start a democratic
+        regime in Portugal - since another military coup, May 28, 1926,
+        installed a one-party dictatorship there. The scenes in the
+        claustrophobic operation room are recreated, with him alone and a few
+        voices.</image:caption
+      >
+      <image:title>A Noite do Golpe de Estado</image:title>
+    </image:image>
+  </url>
+</urlset>

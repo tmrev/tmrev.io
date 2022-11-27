@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/766534-A Go! Go! Cory Carson Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/766534-A Go! Go! Cory Carson Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fTsULguy08O7nRmkhifnGtAcDq9.jpg</image:loc
+      >
+      <image:caption
+        >When a familiar-looking stranger crashes in without a memory, cory
+        helps him remember the magic of Christmas to save the holiday for
+        everyone</image:caption
+      >
+      <image:title>A Go! Go! Cory Carson Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

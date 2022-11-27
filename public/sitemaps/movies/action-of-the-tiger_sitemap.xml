@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44870-Action of the Tiger</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44870-Action of the Tiger</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lR9crRlVqZUti3EPMyUyox24bsJ.jpg</image:loc
+      >
+      <image:caption
+        >A woman hires soldier-of-fortune Carson to smuggle her into Albania by
+        way of Greece. Their trouble is just beginning when they get
+        there.</image:caption
+      >
+      <image:title>Action of the Tiger</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/784647-Aaraattu</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/784647-Aaraattu</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qt5zIVjW1ThRhJkSetOFlnySsoW.jpg</image:loc
+      >
+      <image:caption
+        >Goparajan / Gopan, a native of Neyyattinkara and a real estate tycoon
+        buys a large piece of land in Chittur for a construction purpose, but on
+        his arrival, he learns that the residents are forcefully and unlawfully
+        evicted from their properties by an Andhra based real estate mafia using
+        illegal land acquisition rules with support from the local authorities
+        and government officials.</image:caption
+      >
+      <image:title>Aaraattu</image:title>
+    </image:image>
+  </url>
+</urlset>

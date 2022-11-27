@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/695576-A Soldier's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/695576-A Soldier's Revenge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tJkYXEfM2teq48u3HBcvvjgqIb1.jpg</image:loc
+      >
+      <image:caption
+        >Haunted by wartime horrors, Civil War soldier-turned-bounty-hunter
+        Frank Connor spends his time post-war polishing off two things: whiskey
+        and fugitives. When two desperate children arrive on his doorstep and
+        enlist his help to find their missing mother, Frank must face his past
+        in order to take down the notorious Major Briggs, with whom he has a
+        score all his own to settle.</image:caption
+      >
+      <image:title>A Soldier's Revenge</image:title>
+    </image:image>
+  </url>
+</urlset>

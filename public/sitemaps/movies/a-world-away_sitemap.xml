@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/548292-A World Away</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/548292-A World Away</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gLSF1Z9BMbCdbEorjqtOVp7B1DN.jpg</image:loc
+      >
+      <image:caption
+        >Six kids take a trip to the Grand Canyon, but instead find themselves
+        in a whole other world.</image:caption
+      >
+      <image:title>A World Away</image:title>
+    </image:image>
+  </url>
+</urlset>

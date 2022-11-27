@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/914899-A Wild Dog's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/914899-A Wild Dog's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This intimate film recreates the dramatic events in the life of “Newky”
+        - an African Wild Dog. It is a poignant tale of struggle, endurance and
+        triumph, and of one dog’s extraordinary spirit and the will to win
+        through against almost impossible odds. An emotionally powerful true
+        story that highlights the challenges facing one of the world's most
+        endangered carnivores. The story is told by Dr Tico McNutt who has spent
+        2 decades in Botswana fighting for the survival of this critically
+        endangered carnivore.</image:caption
+      >
+      <image:title>A Wild Dog's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

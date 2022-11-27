@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/788943-A Radiant Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/788943-A Radiant Girl</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/280rEPBBhrWbA3wdvYILZ7RBYz0.jpg</image:loc
+      >
+      <image:caption
+        >Paris, summer 1942. Irene is a young, bubbly, 19-year-old Jewish girl.
+        Her family watches her discover the world, friends, new love and a
+        passion for the theatre. The aspiring actress is living her youthful
+        life without a care in the world, but she does not know that time may be
+        running out.</image:caption
+      >
+      <image:title>A Radiant Girl</image:title>
+    </image:image>
+  </url>
+</urlset>

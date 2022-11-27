@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/767800-40 Sticks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/767800-40 Sticks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fWOZ9MhTCKU56yd8Al2M8U0RtzU.jpg</image:loc
+      >
+      <image:caption
+        >A group of prisoners trapped in a crashed prison bus strive to stay
+        alive when they realize there is a mysterious killer lurking in the
+        shadows.</image:caption
+      >
+      <image:title>40 Sticks</image:title>
+    </image:image>
+  </url>
+</urlset>

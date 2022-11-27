@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/529602-Allahu Akbar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/529602-Allahu Akbar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/28x0KS2DUQMPRrvsMG1ClDJ63Jn.jpg</image:loc
+      >
+      <image:caption
+        >Rhythm and repetition plays an important role in the animated film
+        Allahu Akbar by Usama Alshaibi. With this film, Alshaibi questions the
+        confrontation between tradition and modernity by drawing inspiration
+        from geometric motives of Islamic art. The artist offers a
+        re-interpretation of these motifs through computer animation. By turning
+        the shapes in different direction, new images are generated, freeing
+        them from their fixed state. Traditional spiritual values feed the
+        present and open up to a modern perspective.</image:caption
+      >
+      <image:title>Allahu Akbar</image:title>
+    </image:image>
+  </url>
+</urlset>

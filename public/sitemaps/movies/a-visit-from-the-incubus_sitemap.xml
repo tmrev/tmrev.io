@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298977-A Visit from the Incubus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298977-A Visit from the Incubus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Lucy, a young Victorian woman in the Old West, is being tormented by
+        nightly visits from an incubus. Her friend Madeleine tries to console
+        her, but is unable to help. A fallen woman, Lucy gets a job singing at
+        the local saloon. However, the Incubus has followed her there; and
+        things take an unexpected turn as Lucy and the Incubus, amidst the rowdy
+        cowboys and saucy can-can girls, have their final
+        showdown.</image:caption
+      >
+      <image:title>A Visit from the Incubus</image:title>
+    </image:image>
+  </url>
+</urlset>

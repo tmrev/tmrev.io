@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/321372-3 Indian Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/321372-3 Indian Tales</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In this ensemble film, Shayne travels back and forth between a sleepy
+        hamlet and a mining town while listening to classical music, Alicia,
+        Shandy Eve and Marie Claude worship the holy martyr, Kateri Tekakwitha,
+        together, and Erik builds a crude TV transmitter out of spare parts.
+        Three stories spread over four seasons that sketch a new generation of
+        Indians who are less resigned than their parents, for better and for
+        worse.</image:caption
+      >
+      <image:title>3 Indian Tales</image:title>
+    </image:image>
+  </url>
+</urlset>

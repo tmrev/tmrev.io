@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80170-A Russell Peters Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80170-A Russell Peters Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tOd167v2NBBBChPDIdmR4oiG2zX.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the variety shows of the 1970s, 'A Russell Peters
+        Christmas' is a sweet, silly, sentimental and, most of all, funny
+        Christmas special.</image:caption
+      >
+      <image:title>A Russell Peters Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

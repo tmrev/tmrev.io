@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37563-A Summer's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37563-A Summer's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wclKYRKex55MQQ0TrXP7UF0ddOC.jpg</image:loc
+      >
+      <image:caption
+        >A shy maths graduate takes a holiday in Dinard before starting his
+        first job. He hopes his sort-of girlfriend will join him, but soon
+        strikes up a friendship with another girl working in town. She in turn
+        introduces him to a further young lady who fancies him. Thus the quiet
+        young lad finds he is having to do some tricky juggling in territory new
+        to him.</image:caption
+      >
+      <image:title>A Summer's Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

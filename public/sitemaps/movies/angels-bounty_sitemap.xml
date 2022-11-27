@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/403724-Angel's Bounty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/403724-Angel's Bounty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A cynical and burnt-out Los Angeles bounty hunter (Angel Sommers)
+        spends her days surrounded by liars, gamblers, misogynists and other
+        social deviants. And those are just her co-workers. When a contract
+        comes in that's big enough to fund her dreams of leaving the bounty
+        hunting game and opening her own business, she jumps at the opportunity.
+        The only problem is, the contract is for Tommy Briggs...the man
+        responsible for her father's murder over a decade ago.</image:caption
+      >
+      <image:title>Angel's Bounty</image:title>
+    </image:image>
+  </url>
+</urlset>

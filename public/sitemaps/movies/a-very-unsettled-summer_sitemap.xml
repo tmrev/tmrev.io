@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/250360-A Very Unsettled Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/250360-A Very Unsettled Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k3Bz8PSjsQbx1OWRErUZXvXuaeS.jpg</image:loc
+      >
+      <image:caption
+        >A man becomes lured into a fictional game his ex-girlfriend has
+        initiated. Sexually ensnared by her, and now realizing the fragility of
+        the border between the real and the imagined, he begins to unravel. He
+        convinces himself that if he can only write an ending to his life story,
+        he can regain control of his life. But playing with fiction is not an
+        innocent game…</image:caption
+      >
+      <image:title>A Very Unsettled Summer</image:title>
+    </image:image>
+  </url>
+</urlset>

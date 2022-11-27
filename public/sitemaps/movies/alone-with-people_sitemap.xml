@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/298844-Alone With People</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/298844-Alone With People</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l0Zq38JDgysTrBITGb5prZuAHkk.jpg</image:loc
+      >
+      <image:caption
+        >Growing up gay in the South, a high school girl seeks the help of a
+        therapist to come out to her family and friends in this coming-of-age,
+        coming-of-gay story.</image:caption
+      >
+      <image:title>Alone With People</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489300-A Haunting Hitchhike</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489300-A Haunting Hitchhike</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aJ23Ih53iEBkK129bjhjl2nkG9C.jpg</image:loc
+      >
+      <image:caption
+        >Sixteen year-old girl Jeong-ae receives a letter from her mother, who
+        left home long ago. Jeong-ae is living with her father in the
+        redevelopment area of Seoul. He was diagnosed with an end-stage cancer
+        and is waiting for his death while giving up treatment. Jeongae is on
+        her way to find her long lost mother, thinking that it is her only hope
+        left.</image:caption
+      >
+      <image:title>A Haunting Hitchhike</image:title>
+    </image:image>
+  </url>
+</urlset>

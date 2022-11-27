@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44301-Alice and I</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44301-Alice and I</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cglRzWimjQigRH0grBiZfS3BIFd.jpg</image:loc
+      >
+      <image:caption
+        >Simon has to drive his old aunt Mala and two of her friends, Lydia and
+        Colette, to the seaside. While driving, he gets a call from his
+        girlfriend, Alice, which turns into an argument. Being the Jewish
+        grandmothers that they are, the three women slowly but surely interfere.
+        This, of course doesn't solve anything...</image:caption
+      >
+      <image:title>Alice and I</image:title>
+    </image:image>
+  </url>
+</urlset>

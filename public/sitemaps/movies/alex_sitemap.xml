@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/311237-Alex</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/311237-Alex</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Alex is a liberated, apparently sturdy yet vulnerable woman in her
+        thirties. She earns her living as a market trader and with building work
+        - she has no trouble matching up to the men. She works on renovating an
+        old dilapidated house, high up and lonely in the mountains of the
+        Ardèche, in the hope that her teenage son Xavier, who was not brought up
+        by her, will move in. The walls she is restoring are like her life,
+        which she wants to build up bit by bit. Because it's clear that she has
+        just lived through some difficult years - in her own defensive words,
+        she says to her son: 'I was unstable.' She is still easily upset and can
+        become angry and aggressive.</image:caption
+      >
+      <image:title>Alex</image:title>
+    </image:image>
+  </url>
+</urlset>

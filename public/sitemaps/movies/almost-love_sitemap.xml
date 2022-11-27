@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1011301-Almost Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1011301-Almost Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d6j7h53wfIOVSVtzPCzAEwtPmrr.jpg</image:loc
+      >
+      <image:caption
+        >Zhou Can moved to school in a small town from a big city, a place he
+        didn't like, and kept thinking about going back to where he had lived.
+        His grades are very excellent, so he doesn't have to worry about study
+        in the new school. In terms of personality, he is always quiet, doesn't
+        like to communicate with people, and his ability to make friends is
+        lacking. Yu Jiao Yang is a wild and cheerful girl who has very poor
+        grades in this small town. They are two people who are very different in
+        every way but as the two meet and form a very close friendship, they
+        stay together through every obstacle they go through.</image:caption
+      >
+      <image:title>Almost Love</image:title>
+    </image:image>
+  </url>
+</urlset>

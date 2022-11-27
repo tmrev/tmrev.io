@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/140477-A Band of Rogues</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/140477-A Band of Rogues</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A group of American musicians are stuck in Argentina after they are
+        arrested with the possession of drugs. Told in eleven chapters, each of
+        which coincides with a track on their album, this story follows their
+        adventures through rehab, across the country of Argentina, and finally
+        into Chile.</image:caption
+      >
+      <image:title>A Band of Rogues</image:title>
+    </image:image>
+  </url>
+</urlset>

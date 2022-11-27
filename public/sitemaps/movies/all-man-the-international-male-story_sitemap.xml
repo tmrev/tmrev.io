@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/965145-All Man: The International Male Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/965145-All Man: The International Male Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zXhB6wAUXRyF2xbwOvp6roS0RI3.jpg</image:loc
+      >
+      <image:caption
+        >A nostalgic and colorful peek behind the pages and personalities of
+        International Male, one of the most ubiquitous and sought-after
+        mail-order catalogs of the 80s and 90s.</image:caption
+      >
+      <image:title>All Man: The International Male Story</image:title>
+    </image:image>
+  </url>
+</urlset>

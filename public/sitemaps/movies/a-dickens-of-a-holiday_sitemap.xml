@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/877828-A Dickens of a Holiday!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/877828-A Dickens of a Holiday!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rqm52nuyi19lxFEHz4DCVsCmA6v.jpg</image:loc
+      >
+      <image:caption
+        >To make the 100th anniversary of her hometown's Victorian festival a
+        success, Cassie invites action movie star and former high school
+        classmate Jake to play Scrooge in A Christmas Carol.</image:caption
+      >
+      <image:title>A Dickens of a Holiday!</image:title>
+    </image:image>
+  </url>
+</urlset>

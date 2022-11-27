@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/724516-About Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/724516-About Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A visually based exploration and appreciation of the work of artist
+        Dorothy Cross, showing many of the highlights of her career to date,
+        framed by her evolving and passionate relationship with the sea. The
+        film follows her as she embarks on a new sea-based project in New
+        Ireland, an island off Papua New Guinea that is one of the last true
+        wildernesses left on Earth. This documentary marks the first time the
+        artist has agreed to participate in a film about her
+        work.</image:caption
+      >
+      <image:title>About Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/684583-Afro-Ken</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/684583-Afro-Ken</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rpFvDPW4LKewRNmm4R9fVe7eqd6.jpg</image:loc
+      >
+      <image:caption
+        >Afro-Ken, a dog with a rainbow-colored afro, is a happy dog that does
+        not speak. He likes things that look like him, such as cotton candy.
+        There are different types of Afro-Ken, with different hairstyles, such
+        as a mohawk (called Mohican-Ken), curls (Curly-Ken), and no hair
+        (Normal-Ken).</image:caption
+      >
+      <image:title>Afro-Ken</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/830135-A Água, a Mulher e o Regador</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/830135-A Água, a Mulher e o Regador</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u4uHrK3iBF610gVJgLDh5aeJmom.jpg</image:loc
+      >
+      <image:caption
+        >Experimental short, focusing on both a woman and a watering can sharing
+        the same swimming pool.</image:caption
+      >
+      <image:title>A Água, a Mulher e o Regador</image:title>
+    </image:image>
+  </url>
+</urlset>

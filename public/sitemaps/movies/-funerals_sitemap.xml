@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73395-20 Funerals</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73395-20 Funerals</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6aIKQdBSpG3jJBGnr5GUMQykkmb.jpg</image:loc
+      >
+      <image:caption
+        >After a fellow Officer's funeral, 4 Cops decide that the only way to
+        get rid of the criminal element is to stop arresting the criminals, and
+        start burying them.</image:caption
+      >
+      <image:title>20 Funerals</image:title>
+    </image:image>
+  </url>
+</urlset>

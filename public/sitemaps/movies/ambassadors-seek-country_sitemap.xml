@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/625405-Ambassadors Seek Country</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/625405-Ambassadors Seek Country</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9yVlJO2wDEaOc9wrVzth2f2qOya.jpg</image:loc
+      >
+      <image:caption
+        >Titi and Marius, two friends who fought together during the revolution
+        of 1989, follow very different social and political paths in its
+        aftermath.</image:caption
+      >
+      <image:title>Ambassadors Seek Country</image:title>
+    </image:image>
+  </url>
+</urlset>

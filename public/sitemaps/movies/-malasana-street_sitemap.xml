@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/639798-32 Malasana Street</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/639798-32 Malasana Street</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/neCS8vPAtsj9cJDGNaEH76ImSd7.jpg</image:loc
+      >
+      <image:caption
+        >Malasaña neighborhood, Madrid, Spain, 1976. While political turmoil
+        ravages the streets all over the country, the Olmedo family arrives in
+        the big city and settles into their new apartment. They soon discover
+        that they are not the only ones roaming its corridors.</image:caption
+      >
+      <image:title>32 Malasana Street</image:title>
+    </image:image>
+  </url>
+</urlset>

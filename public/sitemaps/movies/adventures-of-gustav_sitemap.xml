@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/277188-Adventures of Gustav</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/277188-Adventures of Gustav</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2vaq0NgeGCjlTdQ32WV9p5lxqMf.jpg</image:loc
+      >
+      <image:caption
+        >Adventures of Gustav is a spectacular CGI / live-action family film
+        with unique visuals. The main characters Gustav and Professor Easter
+        Christmassen are well known and beloved by local audiences from
+        educational and award winning TV series for family ‘Gustav’s
+        encyclopedia’ broadcast since 1999 on National Public Television Channel
+        in Lithuania. This show has been introducing children to the world and
+        its wonders for 20 years already.</image:caption
+      >
+      <image:title>Adventures of Gustav</image:title>
+    </image:image>
+  </url>
+</urlset>

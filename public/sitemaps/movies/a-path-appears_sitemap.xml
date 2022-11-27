@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/355635-A Path Appears</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/355635-A Path Appears</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bgI4cppt5CXD39SuxvipzjD29Sk.jpg</image:loc
+      >
+      <image:caption
+        >The film follows intrepid reporters Nicholas Kristof and Sheryl WuDunn
+        and actor/advocates Malin Akerman, Mia Farrow, Ronan Farrow, Jennifer
+        Garner, Regina Hall, Ashley Judd, Blake Lively, Eva Longoria, and Alfre
+        Woodard to Colombia, Haiti, Kenya, and throughout the United States as
+        they uncover the harshest forms of gender-based oppression and human
+        rights violations, as well as the effective solutions being implemented
+        to combat them.</image:caption
+      >
+      <image:title>A Path Appears</image:title>
+    </image:image>
+  </url>
+</urlset>

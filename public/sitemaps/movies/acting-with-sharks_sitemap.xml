@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/658083-Acting with Sharks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/658083-Acting with Sharks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cfBlE6q6UueZvoMCiZD6AifZRmh.jpg</image:loc
+      >
+      <image:caption
+        >Aspiring actors take a workshop to learn to act with live sharks but
+        bite off more than they can chew when the instructor turns out to be
+        crazy.</image:caption
+      >
+      <image:title>Acting with Sharks</image:title>
+    </image:image>
+  </url>
+</urlset>

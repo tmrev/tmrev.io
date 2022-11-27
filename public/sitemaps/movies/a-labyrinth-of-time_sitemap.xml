@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336892-A Labyrinth of Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336892-A Labyrinth of Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zn6xd1NqgyEbhzFPlswolIc0s4Z.jpg</image:loc
+      >
+      <image:caption
+        >Carefully composed portrait of prominent modern composer Elliott Carter
+        (1908-1912). Scheffer depicts both the person and the development in his
+        music and the musical tradition it grew out of, as well as the time in
+        which the American Carter grew up. The result: historical images of the
+        city of New York, old film footage, cinematographic finds to illustrate
+        the music and statements by conspicuous fellow-composers and musicians,
+        including Pierre Boulez and Daniel Barenboim.</image:caption
+      >
+      <image:title>A Labyrinth of Time</image:title>
+    </image:image>
+  </url>
+</urlset>

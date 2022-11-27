@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/533645-All Between Us</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/533645-All Between Us</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qx3bI1bUWQ3OOqOXGeTyoAYbW1i.jpg</image:loc
+      >
+      <image:caption
+        >Clara and Ray are newly engaged. As they gather family and friends
+        together for a dinner party to make an announcement, what begins as a
+        celebratory evening turns into disaster as secrets and skeletons
+        surface. One night, one mistake, one dinner changes the lives of four
+        people.</image:caption
+      >
+      <image:title>All Between Us</image:title>
+    </image:image>
+  </url>
+</urlset>

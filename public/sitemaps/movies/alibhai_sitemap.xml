@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/143385-Alibhai</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/143385-Alibhai</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wDYZoy3HylTbkNTlRr1A6qix6In.jpg</image:loc
+      >
+      <image:caption
+        >Anwar Ali aka Ali Bhai (Mohanlal) is the undisputed leader of Palayam
+        market in Kozhikode. But when his power is challenged by Danny Abraham,
+        the good-natured Ali Bhai turns into a demon to protect his
+        domain.</image:caption
+      >
+      <image:title>Alibhai</image:title>
+    </image:image>
+  </url>
+</urlset>

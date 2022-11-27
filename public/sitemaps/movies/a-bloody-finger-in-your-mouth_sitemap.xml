@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/497603-A Bloody Finger in Your Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/497603-A Bloody Finger in Your Mouth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uzrVFq6w4dUXbSwqphoBVwaKt7j.jpg</image:loc
+      >
+      <image:caption
+        >A short documentary about the making of Twin Peaks: The Return. This
+        time focused in the planing and technical execution of some particular
+        scenes.</image:caption
+      >
+      <image:title>A Bloody Finger in Your Mouth</image:title>
+    </image:image>
+  </url>
+</urlset>

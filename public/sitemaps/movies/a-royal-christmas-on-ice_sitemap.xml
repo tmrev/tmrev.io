@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1032517-A Royal Christmas on Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1032517-A Royal Christmas on Ice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e1uWynYNK16Pkzirm6MYVZYhqx1.jpg</image:loc
+      >
+      <image:caption
+        >Looking to escape his Royal life, a dashing prince comes to the United
+        States to start a business in a small town in upstate New York and winds
+        up falling for a former Olympic ice skater.</image:caption
+      >
+      <image:title>A Royal Christmas on Ice</image:title>
+    </image:image>
+  </url>
+</urlset>

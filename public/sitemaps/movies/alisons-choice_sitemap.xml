@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/488596-Alison's Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/488596-Alison's Choice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hBiYWJGV0KI8l1LA10Oy0MmSoeX.jpg</image:loc
+      >
+      <image:caption
+        >Alison, a teen, is facing pregnancy. With nowhere to turn, she finds
+        herself in a "clinic" about to end her baby's life. Suddenly a man
+        appears. His mop tells her he's the janitor. Conversation begins and it
+        quickly becomes clear that this man is no mere janitor, but Jesus
+        manifest. And he's come to save the life of her baby.</image:caption
+      >
+      <image:title>Alison's Choice</image:title>
+    </image:image>
+  </url>
+</urlset>

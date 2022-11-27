@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/445954-Acts of Vengeance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/445954-Acts of Vengeance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r5o6vWPYOQs6bv91gQ8kQs2zQYl.jpg</image:loc
+      >
+      <image:caption
+        >A fast-talking lawyer transforms his body and takes a vow of silence,
+        not to be broken until he finds out who killed his wife and daughter and
+        has his revenge.</image:caption
+      >
+      <image:title>Acts of Vengeance</image:title>
+    </image:image>
+  </url>
+</urlset>

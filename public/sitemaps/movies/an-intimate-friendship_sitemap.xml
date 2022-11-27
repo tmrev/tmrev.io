@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/430017-An Intimate Friendship</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/430017-An Intimate Friendship</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6EqNrsCXk3UZugvcCblltZh8XaK.jpg</image:loc
+      >
+      <image:caption
+        >A family of friends is forever changed when two of the friends realize
+        that their love for one another goes beyond the confines of their
+        conventional relationship.</image:caption
+      >
+      <image:title>An Intimate Friendship</image:title>
+    </image:image>
+  </url>
+</urlset>

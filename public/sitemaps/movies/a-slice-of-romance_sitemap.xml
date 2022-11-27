@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/822976-A Slice of Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/822976-A Slice of Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bWM8xhNi2bPXDe502ZRw50oq0bH.jpg</image:loc
+      >
+      <image:caption
+        >When unlucky in love PR Executive Mikayla meets coffee shop owner and
+        aspiring pastry chef Austin, the pair strike a deal: she’ll taste test
+        his creations if he gives her dating advice. Things are going well until
+        Mikayla starts to feel undermined at work and rent prices at the café
+        rise threatening Austin’s livelihood.</image:caption
+      >
+      <image:title>A Slice of Romance</image:title>
+    </image:image>
+  </url>
+</urlset>

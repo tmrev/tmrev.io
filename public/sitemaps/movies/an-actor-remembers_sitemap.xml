@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/640773-An Actor Remembers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/640773-An Actor Remembers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4IYDNWvqjWsWPnXAGln1tsx8zOz.jpg</image:loc
+      >
+      <image:caption
+        >In 1988 and 1989, the late Cesar Hernando, writer Ian Victoriano and I
+        started a series of interviews of LVN actors, directors and technicians
+        with the intention of publishing a book on the story of LVN Pictures,
+        one of the major studios of the studio era. One of our interviewees was
+        the great character actor, Joseph de Cordova. In 2006 I made a short
+        documentary using excerpts from that thoroughly engaging interview and
+        included it as an added feature to the privately authored DVD of “Biyaya
+        ng Lupa,” where Joseph plays Bruno, one of the actor’s most memorable
+        roles.</image:caption
+      >
+      <image:title>An Actor Remembers</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/912035-A Unicorn for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/912035-A Unicorn for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4uz5ifWfeh7ePQBcpFNezNKwBJ7.jpg</image:loc
+      >
+      <image:caption
+        >A heartwarming tale about young Izzy who is not happy about having to
+        move from the big city to the country when her family takes over an old
+        farm. Things change for Izzy when she finds a small white pony named
+        Snowflake and becomes convinced that the horse is a real
+        unicorn.</image:caption
+      >
+      <image:title>A Unicorn for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

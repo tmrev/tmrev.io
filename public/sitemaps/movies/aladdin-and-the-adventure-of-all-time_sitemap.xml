@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/223436-Aladdin and the Adventure of All Time</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/223436-Aladdin and the Adventure of All Time</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/968c9To4rpApSjDKyaBI5LioCyl.jpg</image:loc
+      >
+      <image:caption
+        >Aladdin and his new friend Paige visit English kings, Egyptian queens,
+        come face to face with a Tyrannosaurus Rex, and walk the gangplank with
+        Blackbeard the Pirate, in search of a stolen magic lamp.</image:caption
+      >
+      <image:title>Aladdin and the Adventure of All Time</image:title>
+    </image:image>
+  </url>
+</urlset>

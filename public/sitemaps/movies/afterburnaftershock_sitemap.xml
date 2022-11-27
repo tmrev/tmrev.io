@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/487284-Afterburn/Aftershock</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/487284-Afterburn/Aftershock</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tj6VwGIeuPXP2PWNFSSZqcBXe4U.jpg</image:loc
+      >
+      <image:caption
+        >Businesswoman Gia Rossi is determined to be successful in her new job,
+        but when her ex lover Jax Rutledge waltzes back into her life, their
+        passionate connection ignites not only in the boardroom, but the
+        bedroom.</image:caption
+      >
+      <image:title>Afterburn/Aftershock</image:title>
+    </image:image>
+  </url>
+</urlset>

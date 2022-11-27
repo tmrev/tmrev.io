@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15374-A Boy Named Charlie Brown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15374-A Boy Named Charlie Brown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sPkunzkWHqHXgmsj6JgfZ1AiD8K.jpg</image:loc
+      >
+      <image:caption
+        >Poor Charlie Brown. He can't fly a kite, and he always loses in
+        baseball. Having his faults projected onto a screen by Lucy doesn't help
+        him much either. Against the sage advice and taunting of the girls in
+        his class, he volunteers for the class spelling bee...and
+        wins!</image:caption
+      >
+      <image:title>A Boy Named Charlie Brown</image:title>
+    </image:image>
+  </url>
+</urlset>

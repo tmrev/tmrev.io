@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/849849-Amour neutre</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/849849-Amour neutre</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A fictional process. An amorous relationship in the process of falling
+        apart? A semblance of narrative, a sketch of diegesis, the fragments of
+        an encounter between a man and a woman: an 'encounter of the crossing',
+        marked by return, splitting, distance. Indecisive attitudes suddenly
+        suspended or contradictory, toneless voices. Figures, and not
+        characters. The figure is this form that approaches and frees itself
+        from the notion of character, which reduces presence to a borderline
+        state and ruins representation. The figure strays from the real. This
+        obliteration and ambiguity of the figure signal the vagueness of the
+        subject, the loss of its unity, a relationship to the world of order and
+        enigma. The figure as a simple appearance, a mental
+        projection.</image:caption
+      >
+      <image:title>Amour neutre</image:title>
+    </image:image>
+  </url>
+</urlset>

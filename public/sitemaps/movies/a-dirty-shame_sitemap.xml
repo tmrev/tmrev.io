@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13702-A Dirty Shame</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13702-A Dirty Shame</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uxJ2U0WrwME3zkqFHTBfB8ZqX1p.jpg</image:loc
+      >
+      <image:caption
+        >Sylvia Stickles runs a convenience store with her husband and
+        mother-in-law. One day, Sylvia is hit on the head and transforms from an
+        uptight prude to a sex-crazed lunatic. As she goes on a rampage through
+        town, Sylvia attracts the attention of Ray Ray, a sexual healer and tow
+        truck driver in search of the world's greatest orgasm. Their sexual
+        revolution, however, causes a class war in their tiny Baltimore
+        community.</image:caption
+      >
+      <image:title>A Dirty Shame</image:title>
+    </image:image>
+  </url>
+</urlset>

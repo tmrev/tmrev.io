@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13954-Alien Raiders</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13954-Alien Raiders</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gBz8ueJSWIVwB3LO80BiuUFpiWY.jpg</image:loc
+      >
+      <image:caption
+        >It's the end of yet another night at Hastings Supermarket, a grocery
+        store in Buck Lake, Arizona. But just before closing, a group of masked
+        and armed to the teeth militants invades the store and take everyone
+        hostage</image:caption
+      >
+      <image:title>Alien Raiders</image:title>
+    </image:image>
+  </url>
+</urlset>

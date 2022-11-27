@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105123-A Very Short War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105123-A Very Short War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m3m0puQcMZIRsAEkqh1LQp2pjaU.jpg</image:loc
+      >
+      <image:caption
+        >"A Very Short War" is a deeply personal story, exploring the
+        ramifications of loss. It follows the short life of early Australian
+        aviator, Cliff Carpenter, using his narrative as a template to speak for
+        all lives senselessly lost in wartime conflict. The documentary climaxes
+        in the skies over Oslo, Norway as two Messerschmitt Bf110's attack a RAF
+        Sunderland Flying Boat. Nine airmen perish and one miraculously
+        survives. The story is told through the eyes of Bill Young, the nephew
+        Cliff would never know.</image:caption
+      >
+      <image:title>A Very Short War</image:title>
+    </image:image>
+  </url>
+</urlset>

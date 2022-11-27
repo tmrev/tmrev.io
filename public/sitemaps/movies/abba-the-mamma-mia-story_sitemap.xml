@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/872219-ABBA: The Mamma Mia Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/872219-ABBA: The Mamma Mia Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9ZqumfEo2XEeifMCbZZENa1S8y4.jpg</image:loc
+      >
+      <image:caption
+        >A one-off documentary about hit Abba musical Mamma Mia! coinciding with
+        the release of a new movie production and including interviews with the
+        film’s stars Meryl Streep, Pierce Brosnan, Colin Firth and Julie
+        Walters. Also appearing are Abba members Bjorn Ulvaeus and Benny
+        Andersson.</image:caption
+      >
+      <image:title>ABBA: The Mamma Mia Story</image:title>
+    </image:image>
+  </url>
+</urlset>

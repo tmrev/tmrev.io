@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/95536-A Talking Picture</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/95536-A Talking Picture</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kVEWev0owMP6IYV1Y1wjyv0CkZH.jpg</image:loc
+      >
+      <image:caption
+        >A meditation on civilization. July, 2001: friends wave as a cruise ship
+        departs Lisbon for Mediterranean ports and the Indian Ocean. On board
+        and on day trips in Marseilles, Pompeii, Athens, Istanbul, and Cairo, a
+        professor tells her young daughter about myth, history, religion, and
+        wars. Men approach her; she's cool, on her way to her husband in Bombay.
+        After Cairo, for two evenings divided by a stop in Aden, the captain
+        charms three successful, famous (and childless) women, who talk with wit
+        and intellect, each understanding the others' native tongue, a European
+        union. The captain asks mother and child to join them. He gives the girl
+        a gift. Helena sings. Life can be sweet.</image:caption
+      >
+      <image:title>A Talking Picture</image:title>
+    </image:image>
+  </url>
+</urlset>

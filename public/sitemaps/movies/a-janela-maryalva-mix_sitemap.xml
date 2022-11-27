@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/169383-A Janela (Maryalva Mix)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/169383-A Janela (Maryalva Mix)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j7XpSSKp3iFFVBwFHJWxp3tXCAb.jpg</image:loc
+      >
+      <image:caption
+        >An experimental and surreal film, a mix of weird and unusual
+        "avant-gard" cinematography with some traditional icons of the
+        Portuguese culture, like Fado or the typical neighbourhoods of Lisbon,
+        in this case the "Bica" is a typical neighbourhood which is used as
+        setting to the plot.</image:caption
+      >
+      <image:title>A Janela (Maryalva Mix)</image:title>
+    </image:image>
+  </url>
+</urlset>

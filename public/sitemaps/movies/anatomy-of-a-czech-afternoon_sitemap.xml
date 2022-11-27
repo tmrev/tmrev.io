@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/810001-Anatomy of a Czech Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/810001-Anatomy of a Czech Afternoon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/plSgXOsKmd07Qo1wAYmVHyneVEI.jpg</image:loc
+      >
+      <image:caption
+        >The disappearance of two boys at a lake, during a scorching summer
+        afternoon, forces us to question who we really are in the face of our
+        own humanity.</image:caption
+      >
+      <image:title>Anatomy of a Czech Afternoon</image:title>
+    </image:image>
+  </url>
+</urlset>

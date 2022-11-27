@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/37417-A Son of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/37417-A Son of the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1lqbEPzOVYBuSfjHahlCyez7sYu.jpg</image:loc
+      >
+      <image:caption
+        >Although it sounds good in theory, the miracle of becoming the Son of
+        the Sun doesn't in practice turn out the way Fikri Şemsigil expects. His
+        whole life depends on this one "big" day, but the consequences of this
+        miracle disappoint Fikri as his life is turned upside down. To rid
+        himself of this so-called miracle, Fikri decides to explore its source
+        but there's still the big problem with the woman in the building across
+        the street!</image:caption
+      >
+      <image:title>A Son of the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

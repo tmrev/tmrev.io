@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/379880-A Melody to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/379880-A Melody to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j1T6bPSS8p7dgkpl6j3zhNhoQxL.jpg</image:loc
+      >
+      <image:caption
+        >Second Lieutenant Han Sang-yeol leads his platoon during the Korean War
+        in the early 1950s. He carries emotional scars and pain within. So when
+        he meets some children from a choir, who have lost everything in the
+        war, Sang-yeol is deeply moved and tries to protect to
+        them.</image:caption
+      >
+      <image:title>A Melody to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/466421-Amanda & Jack Go Glamping</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/466421-Amanda & Jack Go Glamping</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg</image:loc
+      >
+      <image:caption
+        >With his marriage and career against the ropes, dejected author Jack
+        Spencer travels with his wife, Amanda, to an isolated glamping retreat
+        in search of a spark. When a surprise double booking finds their private
+        retreat anything but private, Jack spins into a comedic exploration of
+        love, lost dreams, small-town-wisdom, and friendship with a miniature
+        donkey to get over himself before he loses all he holds
+        dear.</image:caption
+      >
+      <image:title>Amanda & Jack Go Glamping</image:title>
+    </image:image>
+  </url>
+</urlset>

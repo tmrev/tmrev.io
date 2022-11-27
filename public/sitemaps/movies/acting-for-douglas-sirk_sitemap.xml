@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/968016-Acting for Douglas Sirk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/968016-Acting for Douglas Sirk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The stars and director of 'Written on the Wind' and 'The Tarnished
+        Angels' talk about director Douglas Sirk's techniques. Archival
+        interviews originally appeared in the documentary "Douglas Sirk: Uber
+        Stars" (Eckhart Schmidt, 1980)</image:caption
+      >
+      <image:title>Acting for Douglas Sirk</image:title>
+    </image:image>
+  </url>
+</urlset>

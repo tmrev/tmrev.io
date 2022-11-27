@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/181894-An Easter Bunny Puppy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/181894-An Easter Bunny Puppy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oF3EYsQK7kbzS0Zf5HV4DNugioJ.jpg</image:loc
+      >
+      <image:caption
+        >A Mystery writer is not thrilled when she's assigned to write a
+        children's book, "An Easter Bunny Puppy." Out of ideas, she asks her
+        daughter for help. Meanwhile, her dog, RUSS, the narrator of the story,
+        digs up a priceless Faberge egg buried in the woods and takes it home
+        with him, unaware that he's trailing a thief who stole the
+        egg.</image:caption
+      >
+      <image:title>An Easter Bunny Puppy</image:title>
+    </image:image>
+  </url>
+</urlset>

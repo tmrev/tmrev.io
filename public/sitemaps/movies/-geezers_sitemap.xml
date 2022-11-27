@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/190967-3 Geezers!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/190967-3 Geezers!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xBjjItGr37WrsaptRuMecxbJiTW.jpg</image:loc
+      >
+      <image:caption
+        >Follow actor J Kimball as he researches what it's like to be old for a
+        role in an upcoming movie. When he meets the residents at The Coconuts
+        convalescent home, he quickly discovers that his perceptions of the
+        elderly may be off from today's reality. After being on the wrong end of
+        some pranks, J enlists the help of his Hollywood friends to turn the
+        tides. Mayhem ensues.</image:caption
+      >
+      <image:title>3 Geezers!</image:title>
+    </image:image>
+  </url>
+</urlset>

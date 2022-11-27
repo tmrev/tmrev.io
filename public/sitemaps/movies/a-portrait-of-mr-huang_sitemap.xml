@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/916146-A Portrait of Mr. Huang</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/916146-A Portrait of Mr. Huang</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pWuKhsAJrKy0t04WADq2pjLt9jh.jpg</image:loc
+      >
+      <image:caption
+        >Part of Qiu Jiongjiong’s 'chatterbox' oral history trilogy, this short
+        documentary focuses on current storyteller and ex-cop Huang Songnian.
+        Qiu playfully splices montage cuts between Huang’s wildly entertaining,
+        sometimes very dark stories of intrepid forensic police work (including
+        a super queasy tale of maggots and a body, and another of rural
+        cannibalism), and disruptive yet oddly suitable Sichuan opera excerpts,
+        pigeon portraits, and Qiu’s charming chalk drawings.</image:caption
+      >
+      <image:title>A Portrait of Mr. Huang</image:title>
+    </image:image>
+  </url>
+</urlset>

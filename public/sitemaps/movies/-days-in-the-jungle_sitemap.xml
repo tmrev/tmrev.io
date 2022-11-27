@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/97615-100 Days In The Jungle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/97615-100 Days In The Jungle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nOExe5JDbSVoDd69cB4eumwhIdt.jpg</image:loc
+      >
+      <image:caption
+        >100 Days in the Jungle tells the amazing true story of Canadian oil
+        workers who were kidnapped by Colombian rebels and marched through the
+        Ecuadorian jungle for 100 days.</image:caption
+      >
+      <image:title>100 Days In The Jungle</image:title>
+    </image:image>
+  </url>
+</urlset>

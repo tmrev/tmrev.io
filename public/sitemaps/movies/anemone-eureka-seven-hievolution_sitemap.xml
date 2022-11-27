@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550080-Anemone: Eureka Seven Hi-Evolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550080-Anemone: Eureka Seven Hi-Evolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u8aS3xb7m0ehCpYdjJcOkAXb55k.jpg</image:loc
+      >
+      <image:caption
+        >After her father is killed by the deadly coral menace, Anemone vows to
+        have her revenge. But the only way to fight back is from the
+        inside.</image:caption
+      >
+      <image:title>Anemone: Eureka Seven Hi-Evolution</image:title>
+    </image:image>
+  </url>
+</urlset>

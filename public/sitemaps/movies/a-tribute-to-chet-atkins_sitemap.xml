@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309078-A Tribute to Chet Atkins</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309078-A Tribute to Chet Atkins</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fwnAYvDZkgGkbyP7ECPWWIE0GmU.jpg</image:loc
+      >
+      <image:caption
+        >Chet Atkins was a gifted solo artist, but it was his stellar
+        musicianship and producing talents that allowed country music to cross
+        over into the mainstream. In 1980, Atkins gathered some musician friends
+        together for this unique television special. Selected guests include Don
+        Gibson, The Statler Brothers, The Charlie Daniels Band and Roger Miller.
+        Featured tracks include "Battle of New Orleans," "Sugarfoot Rag," "Bye
+        Bye Love" and more.</image:caption
+      >
+      <image:title>A Tribute to Chet Atkins</image:title>
+    </image:image>
+  </url>
+</urlset>

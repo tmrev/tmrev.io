@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435603-A Single Rider</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435603-A Single Rider</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8IOObR7vo4K1moBRv8AOMsg5J6U.jpg</image:loc
+      >
+      <image:caption
+        >Promising fund manager Jae-hoon is at the brink of losing everything
+        when his company goes bankrupt. Overwhelmed by despair, he takes an
+        impulsive trip to Australia where his wife and son live. As his trip
+        nears its unexpected end, Jae-hoon gets a chance to look back on his
+        life.</image:caption
+      >
+      <image:title>A Single Rider</image:title>
+    </image:image>
+  </url>
+</urlset>

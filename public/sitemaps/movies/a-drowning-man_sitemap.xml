@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/457216-A Drowning Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/457216-A Drowning Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pGzHw5Guzjoi9F4l3s4V05yY2d3.jpg</image:loc
+      >
+      <image:caption
+        >Alone and far from home, The Kid makes his way through a strange city
+        looking for the means to get through his day. Surrounded by predators he
+        is forced to make compromises merely to survive, his life of exile grows
+        one day longer.</image:caption
+      >
+      <image:title>A Drowning Man</image:title>
+    </image:image>
+  </url>
+</urlset>

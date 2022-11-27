@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/87793-A Trap for Lonely Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/87793-A Trap for Lonely Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aU3qXC8mJPJ0pGgHeSLl7aNmmDt.jpg</image:loc
+      >
+      <image:caption
+        >Daniel Corban reports his wife Elizabeth missing to the police. A
+        priest arrives and says he has found her. When he brings her in, Corban
+        insists she is not his wife. When several other people arrive and verify
+        she is Elizabeth, Daniel feel's he is loosing the grip on
+        reality.</image:caption
+      >
+      <image:title>A Trap for Lonely Man</image:title>
+    </image:image>
+  </url>
+</urlset>

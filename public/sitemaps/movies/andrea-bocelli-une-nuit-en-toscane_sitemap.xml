@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20084-Andrea Bocelli - Une nuit en Toscane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20084-Andrea Bocelli - Une nuit en Toscane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The celebrated Italian vocal artist returns home to Tuscany, where he
+        performs tracks from his albums "Romanza" and "Viaggio Italiano" and
+        reunites with his family in candid personal footage. A NIGHT IN TUSCANY
+        intersperses exclusive interviews, emotional performances, and gorgeous
+        travel photography of Tuscany, creating a fully realized world which
+        helps to the man behind the performer. Highlights of the video include
+        moving duets with renowned vocalist Sarah Brightman and Italian pop star
+        Zucchero.</image:caption
+      >
+      <image:title>Andrea Bocelli - Une nuit en Toscane</image:title>
+    </image:image>
+  </url>
+</urlset>

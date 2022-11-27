@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24793-A Knight in Camelot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24793-A Knight in Camelot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rCJICpvo6Av27x9Lfu65iwlNfED.jpg</image:loc
+      >
+      <image:caption
+        >Yet another variation on Mark Twain's "A Connecticut Yankee At King
+        Arthur's Court." Here, a computer malfunction causes a science
+        researcher to be sent back in time with her laptop, which she uses to
+        amaze the court.</image:caption
+      >
+      <image:title>A Knight in Camelot</image:title>
+    </image:image>
+  </url>
+</urlset>

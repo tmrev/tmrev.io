@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127739-1313: Frankenqueen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127739-1313: Frankenqueen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bMX3owPDehG9NNIWqUZuxHuOXOa.jpg</image:loc
+      >
+      <image:caption
+        >A group of young men agree to act as "test subjects" for plastic
+        surgeon Victoria Franks. But their getaway at Victoria's lavish Malibu
+        mansion turns deadly, as their mad scientist hostess implements a
+        nefarious and homicidal agenda.</image:caption
+      >
+      <image:title>1313: Frankenqueen</image:title>
+    </image:image>
+  </url>
+</urlset>

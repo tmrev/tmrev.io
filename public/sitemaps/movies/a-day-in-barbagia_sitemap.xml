@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/227289-A Day in Barbagia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/227289-A Day in Barbagia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vVHCq4HCm0Wznq6p0FtXN5dRG8C.jpg</image:loc
+      >
+      <image:caption
+        >Against the background of flocks of sheep at pasture, mules walking
+        down unpaved roads, tractors in the fields, and isolated figures in a
+        deserted village, a caption explains that Barbagia is a vast region in
+        Sardinia; Orgosolo, Oliena and Manoiana are villages of shepherds and
+        the men spend most of the year far away, with their flocks. This is why
+        the houses and the children are entrusted to the women, who cut the
+        wood, work the fields and prepare bread, shepherds’
+        bread.</image:caption
+      >
+      <image:title>A Day in Barbagia</image:title>
+    </image:image>
+  </url>
+</urlset>

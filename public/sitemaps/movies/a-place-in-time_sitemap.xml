@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/725409-A Place in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/725409-A Place in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jOmvPb4zEOOvDgTEXBcLwK5XOlm.jpg</image:loc
+      >
+      <image:caption
+        >The film takes a look at the daily lives of people in more than two
+        dozen countries around the world during the course of a week. In the
+        film, celebrity friends of Jolie visit orphanages, refugee camps and
+        other areas of concern in an effort to raise awareness and encourage
+        cultural understanding. It is an experimental documentary that seeks to
+        capture both the diversity of life around the globe and the similarities
+        of the human spirit by filming in many places in the world at precisely
+        the same moment.</image:caption
+      >
+      <image:title>A Place in Time</image:title>
+    </image:image>
+  </url>
+</urlset>

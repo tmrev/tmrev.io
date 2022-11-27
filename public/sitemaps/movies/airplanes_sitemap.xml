@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/724248-Airplanes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/724248-Airplanes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jen Heck's Airplanes tells the love story of two teenage girls from the
+        moment they first see each other to their eventual break-up. While an
+        educational-style voice-over discusses the science and art of flight,
+        the characters, like airplanes themselves, take off, struggle to fly,
+        and eventually come in for an emergency landing.</image:caption
+      >
+      <image:title>Airplanes</image:title>
+    </image:image>
+  </url>
+</urlset>

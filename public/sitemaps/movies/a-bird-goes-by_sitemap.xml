@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028071-A Bird Goes By</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028071-A Bird Goes By</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >On his son's first birthday, Siu-cheung takes his family to the
+        countryside for a family portrait when he suddenly receives a call from
+        his mother. His father, a bird photographer suffering from dementia, is
+        missing. Siu-cheung looks for him in the country parks where his father
+        visits to take photos of birds. He fails to find his father, but finds
+        himself getting closer to his father's inner world. He slowly gains more
+        appreciation and understanding of his father whom he considered
+        irresponsible. As he goes over his father’s works at home, a secret
+        unveiled……</image:caption
+      >
+      <image:title>A Bird Goes By</image:title>
+    </image:image>
+  </url>
+</urlset>

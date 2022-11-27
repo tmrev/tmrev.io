@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/831912-A Predator Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/831912-A Predator Returns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4STfDjIeY21UAtAd9t4MqsT76Nt.jpg</image:loc
+      >
+      <image:caption
+        >Killer and shark-obsessive Bruce Kane is in hiding, masquerading as a
+        shark researcher in the isolated lighthouse where high school student
+        Courtney and her friends have decided to go swimming. After a fling,
+        Courtney can’t shake Bruce from her life and has to take matters into
+        her own hands when his obsession turns deadly.</image:caption
+      >
+      <image:title>A Predator Returns</image:title>
+    </image:image>
+  </url>
+</urlset>

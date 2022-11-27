@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028938-A Hollywood Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028938-A Hollywood Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Jessica, a young, up-and-coming filmmaker in Hollywood has made a name
+        for herself directing Christmas movies. But when handsome network
+        executive Christopher shows up threatening to halt production on her
+        latest movie, Jessica’s assistant, Reena, points out the irony: Jessica
+        isn’t just trying to save her Christmas movie, she’s actually living in
+        one. Jessica must now juggle all the classic tropes—her actors falling
+        in and out of love, a wayward elf dog, and her own stirring romantic
+        feelings for her perceived nemesis—in order to get her movie and her
+        life to their happy endings.</image:caption
+      >
+      <image:title>A Hollywood Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

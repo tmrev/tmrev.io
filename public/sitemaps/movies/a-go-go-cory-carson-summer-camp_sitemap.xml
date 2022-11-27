@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/726658-A Go! Go! Cory Carson Summer Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/726658-A Go! Go! Cory Carson Summer Camp</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bcJgqj1iylRYUwSqg2NCfuhN2K2.jpg</image:loc
+      >
+      <image:caption
+        >Cory's spending the summer at Camp Friendship with his best friend,
+        Freddie. But jealousy flares when Freddie brings his cousin Rosie along
+        for the ride.</image:caption
+      >
+      <image:title>A Go! Go! Cory Carson Summer Camp</image:title>
+    </image:image>
+  </url>
+</urlset>

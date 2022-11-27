@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/479313-Al Otro Lado</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/479313-Al Otro Lado</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/acAdTezMRjGMaqzANKjO5GzNKGo.jpg</image:loc
+      >
+      <image:caption
+        >Told using Mexico's 200 year-old tradition of corrido music, To The
+        Other Side recounts the story of an aspiring corrido composer facing two
+        life-changing choices: to traffic drugs or unlawfully cross the border
+        into the United States.</image:caption
+      >
+      <image:title>Al Otro Lado</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527481-America's Longest War</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527481-America's Longest War</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ebfKKV6jCvBNiJwSGsiuTg6NWXL.jpg</image:loc
+      >
+      <image:caption
+        >AMERICA'S LONGEST WAR is a documentary about the extraordinary costs of
+        the US government's 40-year war on drugs. Drug prohibition has failed.
+        Drug usage rates have not declined, and illegal drugs are more
+        available-and cheaper-than ever before. At the same time, the costs of
+        the drug war are staggering. More than $1 trillion taxpayer dollars have
+        been spent. More than 50,000 SWAT raids occur each year. Hundreds of
+        thousands of non-violent drug offenders are wasting their lives away in
+        prison at our expense. And more than 60,000 people have been murdered in
+        Mexico over the past six years. AMERICA'S LONGEST WAR tells the stories
+        of some of the victims of the drug war and, more importantly, points to
+        a viable alternative approach to drug policy.</image:caption
+      >
+      <image:title>America's Longest War</image:title>
+    </image:image>
+  </url>
+</urlset>

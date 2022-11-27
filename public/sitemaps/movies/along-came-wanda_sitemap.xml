@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/820303-Along Came Wanda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/820303-Along Came Wanda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/70oazQLZTITstWWB0NsHs0An7AA.jpg</image:loc
+      >
+      <image:caption
+        >A memory jogged by a teapot from an old lover quickly turns into an
+        adventure of discovery for Mary Beth Higgins and her new found friend
+        Wanda as they hit the road in Wanda's RV/Soup Truck.</image:caption
+      >
+      <image:title>Along Came Wanda</image:title>
+    </image:image>
+  </url>
+</urlset>

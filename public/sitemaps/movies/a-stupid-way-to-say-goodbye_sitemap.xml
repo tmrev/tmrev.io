@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/600055-A stupid way to say goodbye</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/600055-A stupid way to say goodbye</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3ZufBhe91uzz46Cs3BCQ5OLkkGi.jpg</image:loc
+      >
+      <image:caption
+        >A man descends down a spiral of memories from an old relationship.
+        Melancholic set back? Or gateway to a new emotional
+        perception?</image:caption
+      >
+      <image:title>A stupid way to say goodbye</image:title>
+    </image:image>
+  </url>
+</urlset>

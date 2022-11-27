@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/108811-A Wicked Ghost II: The Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/108811-A Wicked Ghost II: The Fear</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2EpHTPm8IGvw0JDN8TNfXNHlJfF.jpg</image:loc
+      >
+      <image:caption
+        >Three police officers attempt to nab a serial rapist and pursue him to
+        a construction site. The suspect's body is found dismembered later, with
+        his limbs and torso scattered around three different locations at the
+        site.</image:caption
+      >
+      <image:title>A Wicked Ghost II: The Fear</image:title>
+    </image:image>
+  </url>
+</urlset>

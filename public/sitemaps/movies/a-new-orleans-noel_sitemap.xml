@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1031039-A New Orleans Noel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1031039-A New Orleans Noel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Grace and Anthony, who despite having gone to college to study
+        architecture together, are too different. But, when they're both hired
+        to work on the home of a New Orleans praline icon, things between them
+        change and they end up celebrating Christmas together.</image:caption
+      >
+      <image:title>A New Orleans Noel</image:title>
+    </image:image>
+  </url>
+</urlset>

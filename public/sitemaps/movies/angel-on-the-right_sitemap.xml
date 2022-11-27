@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125936-Angel on the Right</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125936-Angel on the Right</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iltZDPeOcmoa3WpkCrmbdwHiGP2.jpg</image:loc
+      >
+      <image:caption
+        >An unrepentant prodigal son straight out of a Russian jail returns to
+        his hometown, Asht, to help his mother die with dignity. But his debts
+        in his hometown are many and long overdue, the townspeople are tough as
+        nails, and he soon gets more than he expected from the quiet village. In
+        this dark comedy, his third feature, writer-director Jamshed Usmonov
+        cast the population of Asht as its own persuasive self and his own
+        mother and brother as the fractured yet formidable domestic
+        couple.</image:caption
+      >
+      <image:title>Angel on the Right</image:title>
+    </image:image>
+  </url>
+</urlset>

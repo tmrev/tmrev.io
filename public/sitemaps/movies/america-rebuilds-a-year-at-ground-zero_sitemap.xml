@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/512961-America Rebuilds: A Year at Ground
+      Zero</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/512961-America Rebuilds: A Year at Ground
+      Zero</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xSSUTklY5aTe2PoETeT91vGqg7d.jpg</image:loc
+      >
+      <image:caption
+        >Documents the clearing of the wreckage of the World Trade Center from
+        the perspective of the construction workers, firemen, and engineers who
+        accomplished the task in the nine months following the Sept. 2001
+        terrorist attacks.</image:caption
+      >
+      <image:title>America Rebuilds: A Year at Ground Zero</image:title>
+    </image:image>
+  </url>
+</urlset>

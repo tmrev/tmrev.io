@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/365771-Andre Rieu - Romantic Moments</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/365771-Andre Rieu - Romantic Moments</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ml8HLMa8DIpCsl8gM5Y2ZBbugSX.jpg</image:loc
+      >
+      <image:caption
+        >PBS' most successful artist of the 2003 season returns with one of his
+        most enchanting programs now on DVD. Romantic Moments is still one of
+        the most requested PBS programs to date and captures Andre and the
+        orchestra in some of the most enchanting and romantic locales in
+        Europe.</image:caption
+      >
+      <image:title>Andre Rieu - Romantic Moments</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/32302-3 Ninjas: High Noon at Mega Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/32302-3 Ninjas: High Noon at Mega Mountain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hro6QSAQ9s8slnDtB7SzhjcmTet.jpg</image:loc
+      >
+      <image:caption
+        >Three young boys, Rocky, Colt and Tum Tum together with their neighbor
+        girl, computer whiz Amanda are visiting Mega Mountain amusement park
+        when it is invaded by an army of ninjas led by evil Medusa, who wants to
+        take over the park and hold the owners for ransom. Kids and retired TV
+        star Dave Dragon, who made his farewell appearance at the park at the
+        time the ninjas appeared, have to break Medusa's vicious
+        plans.</image:caption
+      >
+      <image:title>3 Ninjas: High Noon at Mega Mountain</image:title>
+    </image:image>
+  </url>
+</urlset>

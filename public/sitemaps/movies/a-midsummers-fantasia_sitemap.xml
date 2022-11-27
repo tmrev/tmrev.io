@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297743-A Midsummer's Fantasia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297743-A Midsummer's Fantasia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x2Yp4jHGJFMp2Nk7tWaCLsjNZX7.jpg</image:loc
+      >
+      <image:caption
+        >Reality and fantasy melds as a Korean documentary film director
+        attempts to capture life in the small town of Gojo,
+        Japan.</image:caption
+      >
+      <image:title>A Midsummer's Fantasia</image:title>
+    </image:image>
+  </url>
+</urlset>

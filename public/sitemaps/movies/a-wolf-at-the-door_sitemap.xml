@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/214135-A Wolf at the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/214135-A Wolf at the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1aTMhlTtBWwEuZ0PRJeKah1YNby.jpg</image:loc
+      >
+      <image:caption
+        >Based on real events, and set in Rio de Janeiro, A Wolf at the Door is
+        the nerve-rattling tale of a kidnapped child and the terror of the
+        parents left behind. When Sylvia discovers her six-year-old daughter has
+        been picked up at school by an unknown woman, police summon her husband,
+        Bernardo, to the station for questioning. From that point on, the film
+        takes increasingly sinister turns as it delves into the events that led
+        to the girl’s kidnapping. With plot twists that will keep the audience
+        on the edge of their seats, A Wolf at the Door is a darkly disturbing
+        journey into the extreme limits of the human capacity for obsession and
+        revenge.</image:caption
+      >
+      <image:title>A Wolf at the Door</image:title>
+    </image:image>
+  </url>
+</urlset>

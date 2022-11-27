@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/569853-A Week in the Hole</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/569853-A Week in the Hole</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6xxzkVB3ZLp5Jx2fjz4CWklW5zG.jpg</image:loc
+      >
+      <image:caption
+        >A Week in the Hole chronicles a factory employee’s adjusting to the
+        materials, time, space and personnel during his first day of
+        work.</image:caption
+      >
+      <image:title>A Week in the Hole</image:title>
+    </image:image>
+  </url>
+</urlset>

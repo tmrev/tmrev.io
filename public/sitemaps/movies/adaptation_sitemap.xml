@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2757-Adaptation.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2757-Adaptation.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg</image:loc
+      >
+      <image:caption
+        >Nicolas Cage is Charlie Kaufman, a confused L.A. screenwriter
+        overwhelmed by feelings of inadequacy, sexual frustration,
+        self-loathing, and by the screenwriting ambitions of his freeloading
+        twin brother Donald. While struggling to adapt "The Orchid Thief," by
+        Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives
+        of Kaufman, Orlean's book, become strangely intertwined as each one's
+        search for passion collides with the others'.</image:caption
+      >
+      <image:title>Adaptation.</image:title>
+    </image:image>
+  </url>
+</urlset>

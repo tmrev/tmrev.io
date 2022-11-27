@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799461-Alias Kurban Saïd</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799461-Alias Kurban Saïd</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gbisIbSSC4cGfgkWzdNeY3yzt5g.jpg</image:loc
+      >
+      <image:caption
+        >The mystery of the author of the 1937 cult novel Ali and Nino - a
+        recently-rediscovered Romeo and Juliet of the Caucasus - is explored in
+        Alias Kurban Saïd. Renowned Dutch documaker Jos de Putter travels from
+        Azerbaijan to Austria to the U.S., chasing down who wrote the book under
+        the pseudonym Kurban Saïd.</image:caption
+      >
+      <image:title>Alias Kurban Saïd</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/714753-American Experience: Woodrow Wilson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/714753-American Experience: Woodrow Wilson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iiAROHwRaggx7lEe6hNpAitUcvq.jpg</image:loc
+      >
+      <image:caption
+        >A gifted orator, Woodrow Wilson was supremely confident before crowds,
+        yet uneasy in small groups. An intellectual with inflexible moral
+        principles, he led America into World War I, threatening all that he
+        cherished. This film recalls the transformation of a history professor
+        into one of America's greatest presidents, brought down by his stubborn
+        search for peace and an incapacitating stroke.</image:caption
+      >
+      <image:title>American Experience: Woodrow Wilson</image:title>
+    </image:image>
+  </url>
+</urlset>

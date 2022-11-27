@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/960600-A Wilderness of Elsewheres. Colony 1.</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/960600-A Wilderness of Elsewheres. Colony 1.</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/61N8tK3LCxmH29Q4wrsBjQvDmQS.jpg</image:loc
+      >
+      <image:caption
+        >"An evolutionary fever dream. Futurist, post apocalyptic . . . .
+        Animated collage emerging from fluid becomings. Evolution - evolution as
+        the uncontainability of change which is located in the destabilization
+        of relations between the concrete and the imagined. Science fiction is
+        produced out of cultural necessity- a liminal presence that inhabits
+        prediction and flux, resisting definition and containment. Science
+        fiction and technology are tools, as magic is, for transformation." -
+        Mer Maggie Roberts</image:caption
+      >
+      <image:title>A Wilderness of Elsewheres. Colony 1.</image:title>
+    </image:image>
+  </url>
+</urlset>

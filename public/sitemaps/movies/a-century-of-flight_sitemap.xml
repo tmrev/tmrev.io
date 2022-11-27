@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333998-A Century of Flight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333998-A Century of Flight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >From the Wright Brothers to Charles Lindbergh; from the DC-3 to the
+        F-117; the 20th century has been defined by remarkable aircraft and the
+        people who have flown them. We will explore the history of aviation: the
+        first flight at Kitty Hawk, The Spirit of St. Louis and the first
+        transatlantic solo fight, the world's first "invisible" aircraft. All
+        this plus much more as we take flight!</image:caption
+      >
+      <image:title>A Century of Flight</image:title>
+    </image:image>
+  </url>
+</urlset>

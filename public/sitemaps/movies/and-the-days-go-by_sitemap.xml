@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041699-And the days go by</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041699-And the days go by</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/454Pxfx8mUfIMhusHqRzFzz7Q3k.jpg</image:loc
+      >
+      <image:caption
+        >After a short vacation, Esther and Leonardo recall moments from their
+        youth and their relationship before they became parents. As they get
+        closer to the city, the coexistence becomes tense and Esther makes the
+        decision to confess to Leonardo that she regrets being a
+        mother.</image:caption
+      >
+      <image:title>And the days go by</image:title>
+    </image:image>
+  </url>
+</urlset>

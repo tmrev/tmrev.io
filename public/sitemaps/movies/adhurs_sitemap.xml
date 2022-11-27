@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/38677-Adhurs</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/38677-Adhurs</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zw17AxinuwVnOSlVs2TfkSL2pEo.jpg</image:loc
+      >
+      <image:caption
+        >Twin brothers who are separated at birth receive different upbringing.
+        After they grow up, they chance upon each other when one of them gets
+        kidnapped by hoodlums.</image:caption
+      >
+      <image:title>Adhurs</image:title>
+    </image:image>
+  </url>
+</urlset>

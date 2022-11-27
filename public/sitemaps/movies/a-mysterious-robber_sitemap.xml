@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418202-A Mysterious Robber</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418202-A Mysterious Robber</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h3KW0LHPJJHwXB6CVyLTXFTwxj4.jpg</image:loc
+      >
+      <image:caption
+        >Various parties and different motives all intersect at an inn on the
+        eve of closure; at the center of everything is an elusive and enigmatic
+        bandit. A band of mine robbers, a thief and some Japanese soldiers all
+        set out to find a lucrative gold mine, unaware that they're heading
+        right into a trap.</image:caption
+      >
+      <image:title>A Mysterious Robber</image:title>
+    </image:image>
+  </url>
+</urlset>

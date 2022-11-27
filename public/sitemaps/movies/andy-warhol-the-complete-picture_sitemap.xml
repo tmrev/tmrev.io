@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/313382-Andy Warhol: The Complete Picture</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/313382-Andy Warhol: The Complete Picture</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Andy Warhol, one of the most influential artists of the 20th century
+        (who also coined the immortal catchphrase "In the future, everyone will
+        be famous for 15 minutes"), gets the definitive treatment. This film
+        includes a look into his inner circle and examines both his artistic and
+        personal impact on society. From day-glo Marilyns and Elvises to
+        Campbell's Soup cans to the groovy 1960s and '70s, step into the
+        limelight of the Warhol world.</image:caption
+      >
+      <image:title>Andy Warhol: The Complete Picture</image:title>
+    </image:image>
+  </url>
+</urlset>

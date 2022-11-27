@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/337622-A Night on the Town</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/337622-A Night on the Town</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Witness Grammy Award-winning musician Bruce Hornsby performing with his
+        band in Los Angeles. Hornsby rocks the stage at Paramount Studios for
+        this concert recorded in 1990, which includes appearances by Joe
+        Henderson, Bela Fleck, Jerry Garcia, Shawn Colvin and Jimmie Wood for
+        renditions of his best-loved tunes: "A Night on the Town," "Fire on the
+        Cross," "Barren Ground," "Stranded on Easy Street," "The End of the
+        Innocence" and the chart-topping "The Way It Is."</image:caption
+      >
+      <image:title>A Night on the Town</image:title>
+    </image:image>
+  </url>
+</urlset>

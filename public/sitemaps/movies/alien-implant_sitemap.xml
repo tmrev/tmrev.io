@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/452762-Alien Implant</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/452762-Alien Implant</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zDoefPSi891tEwJeW37axppuXnL.jpg</image:loc
+      >
+      <image:caption
+        >A brilliant female recluse sends a distress signal into outer space
+        from a remote location. When the Aliens arrive, they realize it's not a
+        distress signal, it's an ingenious trap designed to exact revenge on the
+        extraterrestrials who abducted her as a child.</image:caption
+      >
+      <image:title>Alien Implant</image:title>
+    </image:image>
+  </url>
+</urlset>

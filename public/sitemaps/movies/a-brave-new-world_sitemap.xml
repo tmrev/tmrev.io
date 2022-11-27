@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/790034-A Brave New World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/790034-A Brave New World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i8qvcAmJfmcycbEQTVsZP9q2qi6.jpg</image:loc
+      >
+      <image:caption
+        >A geek is left home alone and his negligence causes the spread of a
+        deadly contamination that infects the entire local population and turns
+        them into flesh-eating zombies.</image:caption
+      >
+      <image:title>A Brave New World</image:title>
+    </image:image>
+  </url>
+</urlset>

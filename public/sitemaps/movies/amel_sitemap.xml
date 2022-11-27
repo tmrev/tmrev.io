@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/307110-Amel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/307110-Amel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Amel is an actress who seeks for her destiny in an audition organized
+        by a foreign production. Finally she gets announced that she got a part
+        in the movie. Amel feels lucky, however, is she going to have the same
+        luck also in the world of movies? Her path towards an acting career will
+        be difficult.</image:caption
+      >
+      <image:title>Amel</image:title>
+    </image:image>
+  </url>
+</urlset>

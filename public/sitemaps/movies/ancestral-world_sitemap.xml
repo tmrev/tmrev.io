@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/711573-Ancestral World</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/711573-Ancestral World</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cm6lzogqd5WqK70QjBF15zS6aSx.jpg</image:loc
+      >
+      <image:caption
+        >A prince must learn to be a hero. In a time of demons and Gods warring
+        for domination, a prince is sent on a mission to rescue his brother and
+        recover a magical armor stolen by the God of Destruction.</image:caption
+      >
+      <image:title>Ancestral World</image:title>
+    </image:image>
+  </url>
+</urlset>

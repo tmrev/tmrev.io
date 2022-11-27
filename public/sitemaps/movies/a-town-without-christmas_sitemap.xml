@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13755-A Town Without Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13755-A Town Without Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mOfTdPm3rGaxAQlqd9qi750sKYG.jpg</image:loc
+      >
+      <image:caption
+        >In the small town of Seacliff, Wash., a child's letter to Santa Claus
+        captures the nation's attention. When the little boy, Chris, writes that
+        he wishes to leave this world so he will no longer be a burden to his
+        divorcing parents, a race begins to find him before he harms
+        himself.</image:caption
+      >
+      <image:title>A Town Without Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

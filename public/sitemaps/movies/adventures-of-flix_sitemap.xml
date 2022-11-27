@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21488-Adventures of Félix</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21488-Adventures of Félix</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/62DDLzTOsqRYX5vWi9v2KflNykS.jpg</image:loc
+      >
+      <image:caption
+        >A charming comedy about going on a rather long walk. Félix is a
+        laid-back guy living in the bleak northern coastal town of Dieppe. He
+        lives happily with his lover Daniel and is a soap opera enthusiast and
+        HIV-positive. After losing his job, Félix decides to find the father he
+        never knew in Marseilles. Agreeing to meet Daniel in the southern port
+        city in a week's time, Félix throws on his backpack and starts hiking.
+        On his way, he discovers that family need not always be connected by
+        blood.</image:caption
+      >
+      <image:title>Adventures of Félix</image:title>
+    </image:image>
+  </url>
+</urlset>

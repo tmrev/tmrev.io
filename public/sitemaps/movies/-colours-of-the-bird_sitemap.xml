@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/670334-11 Colours of the Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/670334-11 Colours of the Bird</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vUT6pKrM81Q0QdimncbvIou6QU3.jpg</image:loc
+      >
+      <image:caption
+        >A behind-the-scenes look at the 11-year process it took to make The
+        Painted Bird, which has left its mark on European and world festivals.
+        The narratives of director Václav Marhoul and actor Petr Kotlár weave
+        their way through the various periods of the film's creation, offering
+        their subjective views from the beginning to the last flap of a year and
+        a half long shoot.</image:caption
+      >
+      <image:title>11 Colours of the Bird</image:title>
+    </image:image>
+  </url>
+</urlset>

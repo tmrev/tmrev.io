@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/435473-American Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/435473-American Violence</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9sz8A6szYGiX4UQlrUn31oFkRg6.jpg</image:loc
+      >
+      <image:caption
+        >A psychologist interviews a death row inmate to determine whether or
+        not a stay of execution should be granted.</image:caption
+      >
+      <image:title>American Violence</image:title>
+    </image:image>
+  </url>
+</urlset>

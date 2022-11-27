@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/768336-A String of Pearls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/768336-A String of Pearls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6gnZ6L5pEek2UExCxkFEtrl3TMR.jpg</image:loc
+      >
+      <image:caption
+        >The last in Camille Billops' family trilogy in which she turns the
+        camera to four generations of men in her family and considers why their
+        fathers died so young.</image:caption
+      >
+      <image:title>A String of Pearls</image:title>
+    </image:image>
+  </url>
+</urlset>

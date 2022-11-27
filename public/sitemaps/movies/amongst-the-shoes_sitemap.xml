@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336482-Amongst the Shoes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336482-Amongst the Shoes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3eH4MQ0I9HNL16ILfRoT8Fqpd8I.jpg</image:loc
+      >
+      <image:caption
+        >A boy suspects that something lives in his closet, the moment for
+        confirming it, has arrived.</image:caption
+      >
+      <image:title>Amongst the Shoes</image:title>
+    </image:image>
+  </url>
+</urlset>

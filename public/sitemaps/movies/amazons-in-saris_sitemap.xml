@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/634922-Amazons in Saris</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/634922-Amazons in Saris</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A 2001 study shows that more than half of the 80 million Dalit women in
+        India experience violence and abuse in their daily lives, primarily from
+        dominant caste males. When French-Indian filmmaker Rani Khanna came
+        across an image of a group of Dalit women in Bihar, who had embarked on
+        an armed struggle against their oppressors, she was struck by their
+        resistance and embarked on a quest to find them.</image:caption
+      >
+      <image:title>Amazons in Saris</image:title>
+    </image:image>
+  </url>
+</urlset>

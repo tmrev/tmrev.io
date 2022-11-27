@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332410-An Irish Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332410-An Irish Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In her final year at school, Anthropology student Lorraine decides to
+        film her final project - the subject of exorcism within the Catholic
+        Church. Recording interviews with priests from the local diocese, she
+        stumbles upon Fr. Byrne, an older priest who is currently helping a
+        young mother whose daughter is apparently possessed by a demonic force.
+        The curiosity of Lorraine, along with her camera operator, Cathal, leads
+        them down a dark path of discovering the terrifying truth, and things go
+        from strange to worse as all involved become entangled into a frightful
+        journey to save a little girl's life.</image:caption
+      >
+      <image:title>An Irish Exorcism</image:title>
+    </image:image>
+  </url>
+</urlset>

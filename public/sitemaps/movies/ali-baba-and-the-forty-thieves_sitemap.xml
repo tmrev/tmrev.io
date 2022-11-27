@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/119426-Ali Baba and the Forty Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/119426-Ali Baba and the Forty Thieves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3RhiQGROwtO1Xmfwoy3f5eQSFfU.jpg</image:loc
+      >
+      <image:caption
+        >Ali Baba is a poor woodcutter who unexpectedly discovers the secret
+        hideout of a gang of thieves. In a magical cave of thieves keep the
+        immense treasures that have been usurped over the years.</image:caption
+      >
+      <image:title>Ali Baba and the Forty Thieves</image:title>
+    </image:image>
+  </url>
+</urlset>

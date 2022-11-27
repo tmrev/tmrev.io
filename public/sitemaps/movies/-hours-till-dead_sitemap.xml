@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451697-3 Hours till Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451697-3 Hours till Dead</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8362Sfkf6Ln11vCs8yW5EKwMQht.jpg</image:loc
+      >
+      <image:caption
+        >An AWOL soldier with PTSD goes into hiding along with his brother and a
+        few friends. They retreat into a rural farm area unaware that the
+        outside world has ceased to function. On their way back to civilization,
+        his brother is attacked by an infected farmer. He quickly morphs into a
+        rabid animal and lives for exactly three hours. Realizing they are in
+        grave danger, they head back to the forest trying to outlive the legions
+        of the infected.</image:caption
+      >
+      <image:title>3 Hours till Dead</image:title>
+    </image:image>
+  </url>
+</urlset>

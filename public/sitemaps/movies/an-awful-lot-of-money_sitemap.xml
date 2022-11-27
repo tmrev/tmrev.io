@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/992249-An Awful Lot of Money</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/992249-An Awful Lot of Money</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qfiau9cm4zt3yfXHRCzwxYCRPVV.jpg</image:loc
+      >
+      <image:caption
+        >Livia watches her life fall apart before her eyes. When she's reached
+        the absolute bottom she remembers what her father told her as a child:
+        'As long as you have money you are happy. As long as you have an awful,
+        awful lot of money.' She sets out to pursue happiness by acquiring an
+        awful lot of money.</image:caption
+      >
+      <image:title>An Awful Lot of Money</image:title>
+    </image:image>
+  </url>
+</urlset>

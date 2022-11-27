@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/641363-15 Minutes of Shame</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/641363-15 Minutes of Shame</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lQrJOZbNUrzJLwXqPUKqZGJ5NoC.jpg</image:loc
+      >
+      <image:caption
+        >Monica Lewinsky and filmmaker Max Joseph (Catfish) examine the human
+        price of public shaming and cyber-harassment, profiling people who have
+        experienced them first-hand - while investigating the bullies,
+        bystanders, and experts in between.</image:caption
+      >
+      <image:title>15 Minutes of Shame</image:title>
+    </image:image>
+  </url>
+</urlset>

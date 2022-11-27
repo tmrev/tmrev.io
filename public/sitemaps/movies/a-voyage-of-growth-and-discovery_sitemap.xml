@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/977126-A Voyage of Growth and Discovery</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/977126-A Voyage of Growth and Discovery</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nnHVh4bS3SUmPQXS3tXhgnBkrsi.jpg</image:loc
+      >
+      <image:caption
+        >Mike Kelley and Michael Smith's feature-length video A Voyage of Growth
+        and Discovery follows the existential journey of Baby IKKI over several
+        days at Burning Man, a festival of "radical self-expression," famous for
+        its presentations of large-scale displays of fire, held in the remote
+        Black Rock Desert of Nevada. Baby IKKI, pre-lingual and of ambiguous
+        age, is a character that artist Michael Smith has been performing for
+        over thirty years.</image:caption
+      >
+      <image:title>A Voyage of Growth and Discovery</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/27190-A Muppets Christmas: Letters to Santa</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/27190-A Muppets Christmas: Letters to Santa</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zDxpOQi7kkokDLxZkVQhejp2VHu.jpg</image:loc
+      >
+      <image:caption
+        >When Gonzo forgets to mail three letters to Santa, he convinces Kermit
+        and the gang to help him deliver the notes to the North Pole. Along the
+        way, they discover that Christmas is the time to be with those you care
+        about most, as they dash home to make a friends Christmas wish come
+        true.</image:caption
+      >
+      <image:title>A Muppets Christmas: Letters to Santa</image:title>
+    </image:image>
+  </url>
+</urlset>

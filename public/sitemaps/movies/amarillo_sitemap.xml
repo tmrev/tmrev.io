@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/39796-Amarillo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/39796-Amarillo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kZZ3YzmXLdfj7VPkrrnzyfFDMLs.jpg</image:loc
+      >
+      <image:caption
+        >Amaryllis Campos is a young, classically trained Puerto Rican
+        ballerina, who dreams of leaving her impoverished home in Puerto Rico to
+        pursue fame and fortune as a dancer. Amaryllis heads for New York City,
+        where she is forced to work in a seedy strip club to make ends meet.
+        Setting audiences afire with her erotic moves, Amaryllis quickly becomes
+        the strip club's hottest attraction, but must finally decide between
+        true love and realizing her dream of becoming a star.</image:caption
+      >
+      <image:title>Amarillo</image:title>
+    </image:image>
+  </url>
+</urlset>

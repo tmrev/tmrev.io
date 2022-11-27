@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/738057-616 Wilford Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/738057-616 Wilford Lane</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rugsj14joeOgy08WpHr3AvjCYSv.jpg</image:loc
+      >
+      <image:caption
+        >A grieving man relocates his two teen daughters to a charming town and
+        into their dream home. Quickly the dream becomes an inescapable
+        nightmare.</image:caption
+      >
+      <image:title>616 Wilford Lane</image:title>
+    </image:image>
+  </url>
+</urlset>

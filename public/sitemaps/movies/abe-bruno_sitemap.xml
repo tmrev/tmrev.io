@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/177475-Abe & Bruno</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/177475-Abe & Bruno</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Abe has secretly been living in his woodland home, which he shields by
+        scaring off ids, happily together with Bruno, a mountain gorilla he
+        saved from zoo captivity. When Abe gets cardiac problems, Bruno seeks
+        help in town, but scares the hell out of everyone. Sheriff Kilgore's
+        posse tracks the ape all the way to their home, just in time to save
+        Abe. Bruno however remains a 'dangerous fugitive'.</image:caption
+      >
+      <image:title>Abe & Bruno</image:title>
+    </image:image>
+  </url>
+</urlset>

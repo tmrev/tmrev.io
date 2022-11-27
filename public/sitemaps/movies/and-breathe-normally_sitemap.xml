@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/489982-And Breathe Normally</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/489982-And Breathe Normally</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nPdCkHimzA3cem2aeRbioecUXO9.jpg</image:loc
+      >
+      <image:caption
+        >At the edge of Iceland’s Reykjanes peninsula, two women’s lives will
+        intersect – for a brief moment – while trapped in circumstances
+        unforeseen. Between a struggling Icelandic mother and an asylum seeker
+        from Guinea-Bissau, a delicate bond will form as both strategize to get
+        their lives back on track.</image:caption
+      >
+      <image:title>And Breathe Normally</image:title>
+    </image:image>
+  </url>
+</urlset>

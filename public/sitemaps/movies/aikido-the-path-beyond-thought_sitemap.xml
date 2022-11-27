@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/55048-Aikido: The Path Beyond Thought</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/55048-Aikido: The Path Beyond Thought</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This documentary shows footage taken from Seagal Senseis days in Japan
+        at the Tenshin Dojo in Osaka, early days in America and some from the
+        recent seminar in Santa Barbara. We can see him demonstrating, teaching
+        and administering tests. It includes also many interviews of Seagal
+        Senseis former students.</image:caption
+      >
+      <image:title>Aikido: The Path Beyond Thought</image:title>
+    </image:image>
+  </url>
+</urlset>

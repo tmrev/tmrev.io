@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78806-A Wonderful Spell</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78806-A Wonderful Spell</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Set in the summer of 1942 during WWII, the film traces the trajectory
+        of simple people thrown into extraordinary lives, revealing the
+        heart-warming flame of hope and humanity that endures, even in times of
+        war and dispair. As young Julien, his family and a group of friends
+        traverse the French countryside after fleeing the institution they
+        called home, Julien must deal with his father's extreme violence and his
+        mother's rosy fantasies and once again form a family that society tries
+        to forget.</image:caption
+      >
+      <image:title>A Wonderful Spell</image:title>
+    </image:image>
+  </url>
+</urlset>

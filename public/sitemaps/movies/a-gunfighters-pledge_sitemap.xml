@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125400-A Gunfighter's Pledge</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125400-A Gunfighter's Pledge</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u0BWQkfwrD5MD6lQlFgLACmrBya.jpg</image:loc
+      >
+      <image:caption
+        >After killing former sheriff Matt Austin's wife and son for revenge, a
+        quest begins. An escaped prisoner shows that he remembers who sent him
+        to do time in jail so long ago. In a small town saloon Austin's mission
+        to locate his family's murderer comes to an end. The pursuit was long
+        and difficult. Upon discovering the killer a gunfight ensues,
+        unfortunately in the crossfire an innocent bystander is shot and
+        injured. Once again the murderer made a quick getaway.</image:caption
+      >
+      <image:title>A Gunfighter's Pledge</image:title>
+    </image:image>
+  </url>
+</urlset>

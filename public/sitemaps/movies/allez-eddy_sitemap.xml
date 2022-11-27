@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/123005-Allez, Eddy!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/123005-Allez, Eddy!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dLP9gmTasUge0KpjIdafgGtkeQt.jpg</image:loc
+      >
+      <image:caption
+        >When the village’s first supermarket opens its doors in 1975, Freddy’s
+        isolated life is turned upside down. To celebrate its opening, the
+        supermarket organises a bicycle race of which the winner will get to
+        meet Eddy Merckx. Freddy’s father, a fervent opponent of the
+        supermarket, wants nothing to do with the race. Freddy enters
+        secretly.</image:caption
+      >
+      <image:title>Allez, Eddy!</image:title>
+    </image:image>
+  </url>
+</urlset>

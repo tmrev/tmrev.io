@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1034332-Alborada Carmesí</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1034332-Alborada Carmesí</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dksV4saoWIgFJaMCUYTc352u9AH.jpg</image:loc
+      >
+      <image:caption
+        >Three friends, actresses from Colombia, Venezuela and Cuba, first met
+        while acting in a soap opera. Years later, they meet again for vacation
+        in a farm in eastern Colombia. Sitting around a bonfire and thanks to
+        the arrival of an unknown cowhand, they begin to tell frightening
+        stories.</image:caption
+      >
+      <image:title>Alborada Carmesí</image:title>
+    </image:image>
+  </url>
+</urlset>

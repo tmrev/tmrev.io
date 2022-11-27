@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/534235-14 Cameras</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/534235-14 Cameras</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dzitlCN6BSddbhOyyLetgCmkjAQ.jpg</image:loc
+      >
+      <image:caption
+        >When a family of four rent a beautiful house for their summer vacation,
+        the price seems too good to be true. Unbeknownst to them, the lascivious
+        owner has set up a series of spy cams throughout the house, documenting
+        their most intimate moments and live streaming them to the dark
+        web.</image:caption
+      >
+      <image:title>14 Cameras</image:title>
+    </image:image>
+  </url>
+</urlset>

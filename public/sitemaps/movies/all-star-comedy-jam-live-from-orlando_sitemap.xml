@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/134642-All Star Comedy Jam: Live from Orlando</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/134642-All Star Comedy Jam: Live from Orlando</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sz1qyULyTb0iIUhK2yCZGt2dp0m.jpg</image:loc
+      >
+      <image:caption
+        >The best-selling comedy franchise returns and features some of the most
+        raw and hilarious talent including: Capone (TV's "Showtime at the
+        Apollo"), Lil' Duval (TV's "BET's Comicview"), Tony Roberts (Comedy Only
+        in da Hood) and Jay Pharoah (TV's "Saturday Night Live"). 'All Star
+        Comedy Jam - Live from Orlando' was filmed at Hard Rock Live, in front
+        of a live audience during the All-Star Weekend in Orlando,
+        FL.</image:caption
+      >
+      <image:title>All Star Comedy Jam: Live from Orlando</image:title>
+    </image:image>
+  </url>
+</urlset>

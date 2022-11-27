@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/51549-All Around Us</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/51549-All Around Us</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oviXQSqyaCV8CWp1wse8eN5BMTZ.jpg</image:loc
+      >
+      <image:caption
+        >Kanao, a courtroom portrait artist, observes crimes, scandals and the
+        decline of Japanese values without passing judgement. As he and his wife
+        endure the tragedy of their first child’s death, hope slowly unfolds and
+        their love story flickers to life once again.</image:caption
+      >
+      <image:title>All Around Us</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82374-Alien Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82374-Alien Adventure</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wcqF8UL0mxpsJit8iqpGlT83INg.jpg</image:loc
+      >
+      <image:caption
+        >The movie begins with an extraterrestrial humanoid species, the
+        Glegoliths, wandering through space in search of a new world.
+        Encountering an unknown planet (which turns out to be Earth), the
+        Glegolith leader (Cyrillus) sends two "manned" probes to the surface to
+        determine if it is suitable for colonisation. The scouts in the probes
+        think they have arrived at a great city, but in fact they have arrived
+        at a new amusement park that is not yet open to the public. They proceed
+        to explore four amusement rides.</image:caption
+      >
+      <image:title>Alien Adventure</image:title>
+    </image:image>
+  </url>
+</urlset>

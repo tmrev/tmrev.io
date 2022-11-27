@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19180-A Different Loyalty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19180-A Different Loyalty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/obu4OZkal5ba3qO4hhyGxwEojza.jpg</image:loc
+      >
+      <image:caption
+        >In January 1963, British journalist Leo Cauffield suddenly disappears
+        from his home in Beirut. His wife Sally knew that he was working
+        part-time for British intelligence, but was not prepared to be told by
+        the British embassy that they suspect he has defected to Communist
+        Russia. As his wife puts together the pieces of the mysterious jigsaw of
+        the past, tracking her passionate relationship with her husband and his
+        history as former head of MI6’s counter-espionage section, her
+        relentless search for the truth takes her to London, New York and
+        finally Moscow.</image:caption
+      >
+      <image:title>A Different Loyalty</image:title>
+    </image:image>
+  </url>
+</urlset>

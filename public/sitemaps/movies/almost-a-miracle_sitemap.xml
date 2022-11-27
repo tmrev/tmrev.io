@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/580496-Almost a Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/580496-Almost a Miracle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3bfP5JfqqlYtnfNGGhyjCLMb9Pg.jpg</image:loc
+      >
+      <image:caption
+        >High school boy Machida is a loner who is not particularly good at his
+        studies or extracurricular activities. He does seem to have his heart in
+        the right place however. When he is injured at school instead of the
+        school nurse at the infirmary a school-mate tends to him. He develops a
+        crush for her and soon enough the feelings are returned.</image:caption
+      >
+      <image:title>Almost a Miracle</image:title>
+    </image:image>
+  </url>
+</urlset>

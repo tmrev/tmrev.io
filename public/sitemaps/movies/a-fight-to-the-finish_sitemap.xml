@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271221-A Fight To The Finish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271221-A Fight To The Finish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Action - When the SDU special force kills the leader of a gang of
+        thieves, the surviving robbers vow revenge on all SDU members. To stop
+        the carnage, SDU leader Mike must use himself as bait to lure the
+        killers in a desperate fight to the finish. - Wah Leung Hung - Director,
+        Michael Wong, Ken Wong, Pinky Cheung</image:caption
+      >
+      <image:title>A Fight To The Finish</image:title>
+    </image:image>
+  </url>
+</urlset>

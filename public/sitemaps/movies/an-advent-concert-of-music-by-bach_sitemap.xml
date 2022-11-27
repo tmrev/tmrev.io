@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/319691-An Advent Concert of Music by Bach</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/319691-An Advent Concert of Music by Bach</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Nikolaus Harnoncourt leads the Concentus Musicus Vienna and Arnold
+        Schoenberg Choir in a concert of Bach music at Austria's Kloster Melk
+        Benedictine Monastery. Works included in this celebration of the coming
+        of Christmas are Cantata BWV 61, "Nun Komm, der Heiden Heiland"; Cantata
+        BWV 147, "Herz und Mund"; and Magnificat in D Major BWV 243. Soloists
+        are Christine Schafer, Anna Korondi, Bernarda Fink, Ian Bostridge,
+        Christopher Maltman. With the Concentus Musicus Vienna and the Arnold
+        Schoenberg Choir.</image:caption
+      >
+      <image:title>An Advent Concert of Music by Bach</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/707-A View to a Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/707-A View to a Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/arJF829RP9cYvh0NU70dC5TtXSa.jpg</image:loc
+      >
+      <image:caption
+        >A newly-developed microchip designed by Zorin Industries for the
+        British Government that can survive the electromagnetic radiation caused
+        by a nuclear explosion has landed in the hands of the KGB. James Bond
+        must find out how and why. His suspicions soon lead him to big industry
+        leader Max Zorin.</image:caption
+      >
+      <image:title>A View to a Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

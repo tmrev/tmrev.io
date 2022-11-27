@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/476604-A Tiger in Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/476604-A Tiger in Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/53DYTgDdG00jBqaq7WOvEnJvGHR.jpg</image:loc
+      >
+      <image:caption
+        >On a winter day, when a tiger escapes from the zoo, a man is kicked out
+        of his girlfriend’s house. Having no place to go, he wanders from here
+        to there while working as a substitute driver and meets his old
+        girlfriend. Can they start again?</image:caption
+      >
+      <image:title>A Tiger in Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

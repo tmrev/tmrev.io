@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/629442-3 Days with Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/629442-3 Days with Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/elwluzKR6BvB5WKBJqiLr5iv2hN.jpg</image:loc
+      >
+      <image:caption
+        >The last thing Eddie Mills wants to do is go home to deal with his
+        dying Dad. But the Catholic guilt gnaws at him, and he returns home to
+        his crazy family, an overbearing step-mother, and his bear of a father.
+        Once there, Eddie is confronted with a revelation that forces him to
+        deal with the past he has always avoided.</image:caption
+      >
+      <image:title>3 Days with Dad</image:title>
+    </image:image>
+  </url>
+</urlset>

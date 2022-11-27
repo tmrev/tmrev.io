@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19610-A Star Is Born</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19610-A Star Is Born</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oVpUzCimMZ0ecni7lDuYPuRdxoQ.jpg</image:loc
+      >
+      <image:caption
+        >Drunken, has-been rock star John Norman Howard falls in love with
+        unknown singer, Esther Hoffman, after seeing her perform at a club. He
+        lets her sing a few songs at one of his shows and she becomes the talk
+        of the music industry. Esther's star begins to rise, while John's
+        continues to fall. She tries desperately to get John to sober up and
+        focus on his music, but it may be too late to save him.</image:caption
+      >
+      <image:title>A Star Is Born</image:title>
+    </image:image>
+  </url>
+</urlset>

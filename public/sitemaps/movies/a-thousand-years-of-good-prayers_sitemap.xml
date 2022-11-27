@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/4890-A Thousand Years of Good Prayers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/4890-A Thousand Years of Good Prayers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vBc0NbqTZb1MBOnKNlBHgx1YNvR.jpg</image:loc
+      >
+      <image:caption
+        >The film follows Mr. Shi, a retired widower from Beijing. When his only
+        daughter, Yilan, who lives in Spokane, Washington and works as a
+        librarian, gets divorced, he decides to visit her to help her heal.
+        However, Yilan is not interested. She tries keeping an emotional
+        distance but when this finally fails she begins physically avoiding her
+        father. He confronts her about an affair with a married Russian man and
+        she, in turn, lets loose about all the gossip she'd heard as a young
+        girl about his alleged affair with a female colleague back in
+        China.</image:caption
+      >
+      <image:title>A Thousand Years of Good Prayers</image:title>
+    </image:image>
+  </url>
+</urlset>

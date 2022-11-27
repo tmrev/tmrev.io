@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/243712-A Life Without Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/243712-A Life Without Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vRcdVaRrWQJiarzi7ovuvLuQJk3.jpg</image:loc
+      >
+      <image:caption
+        >The film explores the daily lives of three children with Congenital
+        insensitivity to pain, a rare genetic disorder shared by just a hundred
+        people in the world. Three-year-old Gabby from Minnesota, 7-year-old
+        Miriam from Norway and 10-year-old Jamilah from Germany have to be
+        carefully guarded by their parents so they don't suffer serious,
+        life-altering injuries.</image:caption
+      >
+      <image:title>A Life Without Pain</image:title>
+    </image:image>
+  </url>
+</urlset>

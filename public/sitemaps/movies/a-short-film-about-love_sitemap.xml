@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/31056-A Short Film About Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/31056-A Short Film About Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2sdDzstQtN0eMOtmqVmtUyknKeH.jpg</image:loc
+      >
+      <image:caption
+        >19-year-old Tomek whiles away his lonely life by spying on his opposite
+        neighbour Magda through binoculars. She's an artist in her mid-thirties,
+        and appears to have everything - not least a constant stream of men at
+        her beck and call. But when the two finally meet, they discover that
+        they have a lot more in common than appeared at first
+        sight...</image:caption
+      >
+      <image:title>A Short Film About Love</image:title>
+    </image:image>
+  </url>
+</urlset>

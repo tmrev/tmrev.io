@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/323028-Adventures in Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/323028-Adventures in Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yG7H9SRkVUyJCWvVt8AK3BQKnWV.jpg</image:loc
+      >
+      <image:caption
+        >A mockumentary that takes place in the cut throat world of stand-up
+        comedy. It follows the struggles one comic faces as he gives his dream
+        one last shot.</image:caption
+      >
+      <image:title>Adventures in Comedy</image:title>
+    </image:image>
+  </url>
+</urlset>

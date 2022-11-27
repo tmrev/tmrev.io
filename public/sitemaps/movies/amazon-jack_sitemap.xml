@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16049-Amazon Jack</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16049-Amazon Jack</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7sECTinoW9DkTkiRdLObtv8lM0R.jpg</image:loc
+      >
+      <image:caption
+        >Jungo is the rarest creature in the world, but also the most popular!
+        Can his best buddies Rita the fox, Zik and Zak the monkeys, and an eager
+        young puppy help him escape the clutches of a mad scientist intent on
+        cloning him, a senseless psychologist who wants to analyze him, and a
+        talk show hostess who wants Jungo to advertise her
+        perfume?</image:caption
+      >
+      <image:title>Amazon Jack</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/921106-Aa Ammayi Gurinchi Meeku Cheppali</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/921106-Aa Ammayi Gurinchi Meeku Cheppali</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A6y1kPTeGswSzAie1XTisDV6TB2.jpg</image:loc
+      >
+      <image:caption
+        >A successful commercial film director finds a reel that changes his
+        life forever. Will he finally make a movie that touches people’s
+        hearts?</image:caption
+      >
+      <image:title>Aa Ammayi Gurinchi Meeku Cheppali</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/770798-Added Attractions: The Hollywood Shorts
+      Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/770798-Added Attractions: The Hollywood Shorts
+      Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/j0ARsTQi2I3YJyP7AmuLYuXgtJU.jpg</image:loc
+      >
+      <image:caption
+        >The story of the short film from the beginning of the movies in the
+        1890s, when all movies were shorts, through the 1950s when short
+        subjects virtually disappeared from theaters.</image:caption
+      >
+      <image:title>Added Attractions: The Hollywood Shorts Story</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/940175-A Tale of Two Guns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/940175-A Tale of Two Guns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg</image:loc
+      >
+      <image:caption
+        >In the lawless West, The Cowboys, a notorious brotherhood of killers
+        and thieves, reigned over the land with brutal fists and fast guns. Fate
+        had finally caught up with them and now the merciless gang has but a
+        single surviving member. When a deputized gunslinger takes up the call
+        to hunt down the last Cowboy, the chase is on and the bullets fly, and
+        only one of these hardened men can survive.</image:caption
+      >
+      <image:title>A Tale of Two Guns</image:title>
+    </image:image>
+  </url>
+</urlset>

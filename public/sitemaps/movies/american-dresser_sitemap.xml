@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/548786-American Dresser</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/548786-American Dresser</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2pMa2JE77EoSgSvya3ifHTOu9wv.jpg</image:loc
+      >
+      <image:caption
+        >When a recent widower consumed with regret seeks absolution in riding
+        his motorcycle cross-country to confront the mistakes of his past, he
+        unexpectedly discovers that life is about moving forward, one mile at a
+        time.</image:caption
+      >
+      <image:title>American Dresser</image:title>
+    </image:image>
+  </url>
+</urlset>

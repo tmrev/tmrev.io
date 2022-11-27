@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/91052-18 Years Old and Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/91052-18 Years Old and Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aZu7LcBkEcxdXefAqwJzVQ5TU3h.jpg</image:loc
+      >
+      <image:caption
+        >Primo is an ordinary middle-class youngster studying for his
+        baccalaureate, who gets side-tracked when he falls in love with a rich
+        girl. They soon learn they have to deal with her condescending friends
+        who look down upon this upstart.</image:caption
+      >
+      <image:title>18 Years Old and Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

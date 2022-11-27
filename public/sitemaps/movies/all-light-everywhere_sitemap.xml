@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574086-All Light, Everywhere</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574086-All Light, Everywhere</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4T7c2Sc6TWXo2KJeGPzp4Izr9Y3.jpg</image:loc
+      >
+      <image:caption
+        >The film explores the past, present, and future relationships between
+        technology, vision, and power. From arcane theories of sight to the
+        emergence of virtual reality and police body camera programs, the film
+        takes a kaleidoscopic investigation into how the reality of what we see
+        is constructed through the tools that we use to see.</image:caption
+      >
+      <image:title>All Light, Everywhere</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/638688-Aj Zombies!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/638688-Aj Zombies!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dNyoezgLnyVDuPqZloKrG6njlq7.jpg</image:loc
+      >
+      <image:caption
+        >Claudia and Felipe can't be any more different. Only a zombie
+        apocalypse could bring them together. A hilarious love story set in
+        zombie times. Claudia, Felipe, a drunkard and a security guard must
+        escape Lima together in search of safety.</image:caption
+      >
+      <image:title>Aj Zombies!</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47964-A Good Day to Die Hard</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47964-A Good Day to Die Hard</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg</image:loc
+      >
+      <image:caption
+        >Iconoclastic, take-no-prisoners cop John McClane, finds himself for the
+        first time on foreign soil after traveling to Moscow to help his wayward
+        son Jack - unaware that Jack is really a highly-trained CIA operative
+        out to stop a nuclear weapons heist. With the Russian underworld in
+        pursuit, and battling a countdown to war, the two McClanes discover that
+        their opposing methods make them unstoppable heroes.</image:caption
+      >
+      <image:title>A Good Day to Die Hard</image:title>
+    </image:image>
+  </url>
+</urlset>

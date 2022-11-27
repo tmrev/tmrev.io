@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/460964-1, 2, 3, Whiteout</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/460964-1, 2, 3, Whiteout</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vLMkPBFa5WqtzrVhmOf9uOWCkqB.jpg</image:loc
+      >
+      <image:caption
+        >In a future present, a rebellious Veronique finds herself working for
+        an inventor who has dedicated himself to the cause of a positive
+        darkness; he is working to counter the tide of a bright, diffuse, and
+        technologically oriented time as represented in the film by man-made
+        light. Veronique's brother Alix works for an agency that is attempting
+        to thwart the process.</image:caption
+      >
+      <image:title>1, 2, 3, Whiteout</image:title>
+    </image:image>
+  </url>
+</urlset>

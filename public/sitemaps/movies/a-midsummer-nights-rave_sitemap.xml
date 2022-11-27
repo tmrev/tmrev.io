@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21367-A Midsummer Night's Rave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21367-A Midsummer Night's Rave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bhzZn6IIMh2v69mW3jw40Ygktha.jpg</image:loc
+      >
+      <image:caption
+        >Life begins when the sun goes down for a group of party-prone friends
+        attending an L.A. rave. The music starts and the dream begins as
+        party-goer Puck gives them each a sample of his "love potion". This
+        glowing green liquid fuels their inner desires and allows the friends to
+        connect with their long secret loves during this night of dancing,
+        lights, and unadulterated fun. The weather is hot, the music is
+        pounding, the mood is electric and the stakes are high in this modern
+        adaptation of Shakespeare's most popular play.</image:caption
+      >
+      <image:title>A Midsummer Night's Rave</image:title>
+    </image:image>
+  </url>
+</urlset>

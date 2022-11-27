@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/941520-Alien Sniperess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/941520-Alien Sniperess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bI1ZDRkerXrcaFa5kWjEMw80aqE.jpg</image:loc
+      >
+      <image:caption
+        >A female sniper on military leave promises to fulfill her fiancé’s
+        dying wish until she encounters a hostile alien invasion and is tasked
+        with saving countless lives.</image:caption
+      >
+      <image:title>Alien Sniperess</image:title>
+    </image:image>
+  </url>
+</urlset>

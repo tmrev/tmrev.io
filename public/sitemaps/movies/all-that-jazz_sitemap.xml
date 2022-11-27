@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16858-All That Jazz</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16858-All That Jazz</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg</image:loc
+      >
+      <image:caption
+        >Joe Gideon is at the top of the heap, one of the most successful
+        directors and choreographers in musical theater. But he can feel his
+        world slowly collapsing around him - his obsession with work has almost
+        destroyed his personal life, and only his bottles of pills keep him
+        going.</image:caption
+      >
+      <image:title>All That Jazz</image:title>
+    </image:image>
+  </url>
+</urlset>

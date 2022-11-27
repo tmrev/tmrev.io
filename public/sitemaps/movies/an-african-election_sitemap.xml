@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/95742-An African Election</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/95742-An African Election</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lV42XNuRBtPSRNDbfq8lEtzrxll.jpg</image:loc
+      >
+      <image:caption
+        >Filmmaker Jarreth Merz directs this eye-opening documentary about the
+        2008 presidential elections in Ghana, chronicling the start-to-finish
+        drama of campaigning in a nation that's long served as a measure of the
+        continent's political stability.</image:caption
+      >
+      <image:title>An African Election</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/99658-A.F. Archetypes Forces</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/99658-A.F. Archetypes Forces</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1ZdpgXext9u7noT8FcH1kguXDHc.jpg</image:loc
+      >
+      <image:caption
+        >It is the year 2124, and the crew of a medical transport ship are
+        carrying dangerous cargo to its destination. The contents, though mostly
+        unknown, are rumored to be viral in nature, and must not be let out
+        under any circumstances. But when a leak occurs, the ship, as well as
+        the crew, is at risk of being destroyed. With only two robotic space
+        suits and limited ammo, can they escape in time, or are their fates
+        sealed?</image:caption
+      >
+      <image:title>A.F. Archetypes Forces</image:title>
+    </image:image>
+  </url>
+</urlset>

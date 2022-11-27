@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69968-Albert's Memorial</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69968-Albert's Memorial</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xo2Ycvg2woOBO49gTSsR0bTVhD.jpg</image:loc
+      >
+      <image:caption
+        >One-off comedy drama that follows the story of three World War II
+        veterans: Harry, Frank and Albert. It is October 2000 and, at the age of
+        76, Albert's dying wish is to be buried on the little hill outside
+        Hinderburg in Germany where he watched the Russians take position in the
+        closing stages of the Battle for Berlin. The notion of Harry and Frank
+        transporting Albert's body after his death is a crazy one, but life is
+        short, friendship precious and, after all, the trio have known each
+        other for more than half a century.</image:caption
+      >
+      <image:title>Albert's Memorial</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/408422-4 Days in France</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/408422-4 Days in France</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d7VXVRhfVhwBHYZft9o9jj4qOZr.jpg</image:loc
+      >
+      <image:caption
+        >A man leaves everything behind to travel aimlessly through France,
+        letting himself be guided only by the people and landscapes he
+        encounters: four days and four nights of wandering, during which his
+        lover tries to locate him via Grindr, a smartphone dating
+        app.</image:caption
+      >
+      <image:title>4 Days in France</image:title>
+    </image:image>
+  </url>
+</urlset>

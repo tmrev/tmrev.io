@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/667040-Alex Fernández: The Best Comedian in the
+      World</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/667040-Alex Fernández: The Best Comedian in the
+      World</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wLVLqchowS6XgoXHko4K1rP5nmm.jpg</image:loc
+      >
+      <image:caption
+        >Comic Alex Fernández performs his familiar autobiographical stories but
+        goes a little deeper this time with a tender tale about one of his six
+        siblings.</image:caption
+      >
+      <image:title>Alex Fernández: The Best Comedian in the World</image:title>
+    </image:image>
+  </url>
+</urlset>

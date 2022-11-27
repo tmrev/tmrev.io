@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121965-Angela</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121965-Angela</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/riUVn8rIujFj6IuTwxZeXG0tiRl.jpg</image:loc
+      >
+      <image:caption
+        >Manhattan- as it is every day of the week, year in, year out. Life is
+        pretty routine for Bob, about to turn 70, yet aching for one last fling.
+        Maybe his shrink is right: he should place an ad in the paper and just
+        go out and look for someone. Someone like Angela. Because: This is New
+        York.... Anything can happen... The sky's the limit...</image:caption
+      >
+      <image:title>Angela</image:title>
+    </image:image>
+  </url>
+</urlset>

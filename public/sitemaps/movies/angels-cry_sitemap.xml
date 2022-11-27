@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/791944-Angel's Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/791944-Angel's Cry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Bulan is a street hawker whose parents were killed during the Bali
+        Bombing in 2002. A talented sculptor, she secretly carves a statue
+        inside a cave that she names the Angel's Cry. She gives the statue as a
+        gift to her friend, Kevin, a mixed Balinese Caucasian, who wants to help
+        by displaying the sculpture at his father’s gallery. An Australian
+        tourist buys the statue and more so Bulan’s secret talent is revealed.
+        The success brings a dramatic turn to her life and Kevin’s parents also
+        adopt her.</image:caption
+      >
+      <image:title>Angel's Cry</image:title>
+    </image:image>
+  </url>
+</urlset>

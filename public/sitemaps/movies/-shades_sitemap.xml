@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47171-48 Shades</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47171-48 Shades</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jQRelGvE7Sjigcndh8Bz1PE64xA.jpg</image:loc
+      >
+      <image:caption
+        >A teenager moves in with his 20-something Aunt to finish his final year
+        at school and falls for her house-mate.</image:caption
+      >
+      <image:title>48 Shades</image:title>
+    </image:image>
+  </url>
+</urlset>

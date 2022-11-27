@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/602158-A Very Country Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/602158-A Very Country Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ohIWLKfn6140oVCio7ePLm29NCh.jpg</image:loc
+      >
+      <image:caption
+        >Zane and Jeannette’s wedding is delayed due to Zane’s crazy tour
+        schedule and the two must overcome paparazzi and rumors to find their
+        way back together.</image:caption
+      >
+      <image:title>A Very Country Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/451003-A Flower Aflame</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/451003-A Flower Aflame</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jQns5P59ZuSKL1XfOAGAqfKJewz.jpg</image:loc
+      >
+      <image:caption
+        >When Sonoko enters a traditional Japanese arranged marriage with
+        Amamiya facilitated by her parents the resulting union is loveless
+        including the functional and goal-oriented sex. When the husband and
+        wife move for his work she falls for her husband's boss and takes on the
+        role of a betrayer.</image:caption
+      >
+      <image:title>A Flower Aflame</image:title>
+    </image:image>
+  </url>
+</urlset>

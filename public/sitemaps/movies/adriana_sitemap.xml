@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/388568-Adriana</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/388568-Adriana</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uk4qqpVCmneR6BZRH1zZqFe2nke.jpg</image:loc
+      >
+      <image:caption
+        >In a remote island where mourning was settled, a man decreed that there
+        will never be sex or children anymore... The island gets desolate and he
+        decided to send his daughter, Adriana, to the mainland to form a family
+        by natural methods.</image:caption
+      >
+      <image:title>Adriana</image:title>
+    </image:image>
+  </url>
+</urlset>

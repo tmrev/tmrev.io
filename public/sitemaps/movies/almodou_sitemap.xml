@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/530331-Almodou</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/530331-Almodou</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fNDZqyXMenTStuFw2VJCqgMi5iU.jpg</image:loc
+      >
+      <image:caption
+        >Sometimes distasteful practices are most effectively criticized with a
+        good sense of humor. Meet Modou, a young, courageous and determined
+        talibé - a pupil in a Koranic school - who manages to escape from his
+        corrupt and abusive teacher to find a better life in contemporary Dakar,
+        Senegal.</image:caption
+      >
+      <image:title>Almodou</image:title>
+    </image:image>
+  </url>
+</urlset>

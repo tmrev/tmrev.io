@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/943000-A Stasi Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/943000-A Stasi Comedy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ifcAHWaJuTjKkbsZyITr3paadR.jpg</image:loc
+      >
+      <image:caption
+        >East Berlin, early 1980s: Ludger is hired by the Stasi to spy on the
+        oppositional arts scene in Prenzlauer Berg. But when he falls in love
+        with the mysterious Nathalie, he has to choose between a life as a
+        celebrated underground poet and his career as a Stasi agent. A choice
+        that will turn back on him 30 years later.</image:caption
+      >
+      <image:title>A Stasi Comedy</image:title>
+    </image:image>
+  </url>
+</urlset>

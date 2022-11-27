@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/410778-American Experience: George H. W. Bush</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/410778-American Experience: George H. W. Bush</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ojKBq6Un0LJayssSxVVPO5xSl4g.jpg</image:loc
+      >
+      <image:caption
+        >The life and career of our 41st president, from his service in World
+        War II and his early career in Texas to his days in the Oval Office,
+        first as vice president to Ronald Reagan, then as the leader who
+        presided over the first Gulf War. Drawing upon Bush's personal diaries
+        and interviews with his closest advisors and most prominent critics, the
+        film also explores Bush's role as the patriarch of a political family
+        whose influence is unequaled in modern American life.</image:caption
+      >
+      <image:title>American Experience: George H. W. Bush</image:title>
+    </image:image>
+  </url>
+</urlset>

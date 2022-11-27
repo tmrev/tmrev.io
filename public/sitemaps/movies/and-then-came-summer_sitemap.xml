@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/23430-And Then Came Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/23430-And Then Came Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Asty9vBppkHOQwLvw8x1mVV8R2B.jpg</image:loc
+      >
+      <image:caption
+        >A reunion of family and friends becomes an unforgettable vacation when
+        two teenage boys discover their secret feelings toward one another. The
+        relationship is eventually exposed to their families - leading to denial
+        and a questioning of self-worth from each of the boys. The exposed
+        relationship brings to light that one of the boys was previously
+        institutionalized for his homosexuality by his older
+        brother.</image:caption
+      >
+      <image:title>And Then Came Summer</image:title>
+    </image:image>
+  </url>
+</urlset>

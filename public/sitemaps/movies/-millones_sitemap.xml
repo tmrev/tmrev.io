@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/240910-3 Millones</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/240910-3 Millones</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pmGscaKjK3cOPSX90zVlctOy2AQ.jpg</image:loc
+      >
+      <image:caption
+        >In this joyous documentary about the passion of soccer, the iconic
+        Uruguayan musician Jaime Roos and his son reunite to embark on a journey
+        to the South African World Cup with the Uruguayan national soccer
+        team.</image:caption
+      >
+      <image:title>3 Millones</image:title>
+    </image:image>
+  </url>
+</urlset>

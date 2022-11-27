@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/100728-A Step into the Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/100728-A Step into the Darkness</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yShQTSOPWwCryqUVNsKq7rpAWf.jpg</image:loc
+      >
+      <image:caption
+        >The film tells the tragic story of an Iraqi-Turkish girl, Cennet, who
+        loses her entire family during a US-led operation against insurgents in
+        her village in US-occupied Iraq. She makes a distressing journey through
+        the border between Turkey and Iraq to find her brother who had been sent
+        to Turkey for treatment.</image:caption
+      >
+      <image:title>A Step into the Darkness</image:title>
+    </image:image>
+  </url>
+</urlset>

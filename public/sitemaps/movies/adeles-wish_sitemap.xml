@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/843533-Adele's Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/843533-Adele's Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vMES7h6TvFkgjI5Wd8FrtMOYL3Y.jpg</image:loc
+      >
+      <image:caption
+        >An indepth account of Maria Altmans pursuit of Gustav Klimt's,
+        "Portrait Of Adele Bloch-Bauer I", from the Republic Of
+        Austria.</image:caption
+      >
+      <image:title>Adele's Wish</image:title>
+    </image:image>
+  </url>
+</urlset>

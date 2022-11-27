@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/16956-A Shot in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/16956-A Shot in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/agTMDKm9qvRdX0SGaOV2IkXS8EY.jpg</image:loc
+      >
+      <image:caption
+        >A baby is kidnapped in a Brazilian airport. Years later, the mother
+        lives in Lisbon and works in a strip-tease bar so she can survive. When
+        she is fired, she joins a gang of bank robbers...</image:caption
+      >
+      <image:title>A Shot in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

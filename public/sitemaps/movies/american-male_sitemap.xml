@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/586582-American Male</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/586582-American Male</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jWTvQoeXhEGHdr9j18b7GIOBjb8.jpg</image:loc
+      >
+      <image:caption
+        >Ever felt pressure to “be a man?” American Male, a short film from
+        MTV’s Look Different Creator Competition, is a gritty look at how gender
+        norms make it hard for us to be who we really are. Head to
+        privilege.lookdifferent.org for more on the issue and how to take
+        action.</image:caption
+      >
+      <image:title>American Male</image:title>
+    </image:image>
+  </url>
+</urlset>

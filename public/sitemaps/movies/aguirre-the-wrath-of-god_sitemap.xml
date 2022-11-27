@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/2000-Aguirre, the Wrath of God</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/2000-Aguirre, the Wrath of God</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg</image:loc
+      >
+      <image:caption
+        >A few decades after the destruction of the Inca Empire, a Spanish
+        expedition led by the infamous Aguirre leaves the mountains of Peru and
+        goes down the Amazon River in search of the lost city of El Dorado. When
+        great difficulties arise, Aguirre’s men start to wonder whether their
+        quest will lead them to prosperity or certain death.</image:caption
+      >
+      <image:title>Aguirre, the Wrath of God</image:title>
+    </image:image>
+  </url>
+</urlset>

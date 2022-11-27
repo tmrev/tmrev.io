@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/671789-Agramon's Gate</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/671789-Agramon's Gate</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kQAZ3ezYRep5AxL2Hvp2dd26Cfs.jpg</image:loc
+      >
+      <image:caption
+        >A psychic reader and Medium is invited to a party. Something goes very
+        wrong and something comes over from the other side to haunt the people
+        from the party. They must solve the mystery before it's too late.
+        Agramon will not be easy to stop.</image:caption
+      >
+      <image:title>Agramon's Gate</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/289241-American Colour</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/289241-American Colour</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >American Colour was funded by the Images Festival and the Deluxe
+        Cinematic Vision Award. "Joshua Bonnetta’s American Colour (note the
+        bi-national spelling), was shot on old rolls of 16mm Kodachrome during a
+        pilgrimage from the stock’s birthplace in upstate New York to Kansas,
+        where its final rolls were processed earlier this year. Like a
+        postscript to Dean’s Kodak, American Colour explores Kodachrome’s
+        historic use and singular hues, doing so with digital means in the wake
+        of its obsolescence.</image:caption
+      >
+      <image:title>American Colour</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571346-American Kamasutra</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571346-American Kamasutra</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bPcm6NnEBiZCqnpLUVg5COd95AS.jpg</image:loc
+      >
+      <image:caption
+        >A young woman finds herself involved in a dangerous love triangle when
+        she gets involved with the writer of a popular steamy
+        novel.</image:caption
+      >
+      <image:title>American Kamasutra</image:title>
+    </image:image>
+  </url>
+</urlset>

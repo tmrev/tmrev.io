@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/884622-A Match Made at Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/884622-A Match Made at Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/crOCefRH9PpkRQRh1laVDBnZWsO.jpg</image:loc
+      >
+      <image:caption
+        >Romantic, small-town girl Holly and realistic, career-driven Chris
+        aren't a likely pair, but when 'matched' together by Holly's all-knowing
+        great-aunt, they don't seem to have much of a choice.</image:caption
+      >
+      <image:title>A Match Made at Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

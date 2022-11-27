@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304602-Ainoa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304602-Ainoa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The story of the love between a female robot named Ainoa that discovers
+        how valuable and precious life is and the young resistance fighter Yuri.
+        Thanks to his love of Ainoa he overcomes his fanaticism and, like her,
+        becomes human.</image:caption
+      >
+      <image:title>Ainoa</image:title>
+    </image:image>
+  </url>
+</urlset>

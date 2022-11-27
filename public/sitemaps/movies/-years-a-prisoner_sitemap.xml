@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/736536-40 Years a Prisoner</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/736536-40 Years a Prisoner</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oHck2ym9kmwYaHCzmaj4BIxtrYs.jpg</image:loc
+      >
+      <image:caption
+        >A chronicle of the controversial 1978 Philadelphia police raid on the
+        radical back-to-nature group MOVE and the aftermath that led to a son’s
+        decades-long fight to free his parents. Through eyewitness accounts and
+        archival footage of the escalating tension that resulted in the
+        controversial confrontation between police and MOVE members, the film
+        illuminates the story of a city grappling with racial tension and police
+        brutality with alarming topicality and modern-day
+        relevance.</image:caption
+      >
+      <image:title>40 Years a Prisoner</image:title>
+    </image:image>
+  </url>
+</urlset>

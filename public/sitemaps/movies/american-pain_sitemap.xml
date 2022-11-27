@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/965358-American Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/965358-American Pain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ak3b0rYSN7RhM1LV4tZveDWaDcr.jpg</image:loc
+      >
+      <image:caption
+        >American Pain tells the jaw-dropping story of twin brothers Chris and
+        Jeff George who open up a chain of pain clinics in Florida where they
+        hand out pain pills like candy.</image:caption
+      >
+      <image:title>American Pain</image:title>
+    </image:image>
+  </url>
+</urlset>

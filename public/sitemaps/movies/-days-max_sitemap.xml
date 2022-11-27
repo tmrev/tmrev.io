@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/613377-30 Days Max</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/613377-30 Days Max</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/okepE7ytt7bWyFdD77Et273sAtt.jpg</image:loc
+      >
+      <image:caption
+        >Rayane is a scared and clumsy young cop who is constantly mocked by
+        other cops. The day his doctor wrongly tells him that he has only thirty
+        days to live, he understands that this is his last chance to become a
+        hero within his police station and impress his colleague Stéphanie. The
+        eternal fearful man then turns into a real hothead who will take all the
+        risks to catch a big drug lord...</image:caption
+      >
+      <image:title>30 Days Max</image:title>
+    </image:image>
+  </url>
+</urlset>

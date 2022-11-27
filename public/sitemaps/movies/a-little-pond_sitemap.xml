@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/120247-A Little Pond</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/120247-A Little Pond</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aEpUvhSrIEzf9XxlptDwKtRLmB5.jpg</image:loc
+      >
+      <image:caption
+        >The Korean war does not start well for the US. They are being routed by
+        the North Koreans and In July 1950, the early stage of the Korean War,
+        at the Jugok Village in the middle of the Korean Peninsula, Chang-yee
+        and his friends grow excited over the amateur singing contest knowing
+        nothing about what is going on around them. At the time, the US Army
+        keeps losing and are pushed back to the village, evacuating all
+        villagers to head south. The villagers took refuge like going on a
+        picnic believing that the US Army is protecting them, they just follow
+        their orders moving south bound.</image:caption
+      >
+      <image:title>A Little Pond</image:title>
+    </image:image>
+  </url>
+</urlset>

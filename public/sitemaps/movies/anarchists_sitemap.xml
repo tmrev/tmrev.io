@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/344696-Anarchists</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/344696-Anarchists</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A1rFE2oX6YZBOArrGXDoFD5rh3P.jpg</image:loc
+      >
+      <image:caption
+        >Armed based on photography, period films, archival materials and
+        testimonies of survivors, family members and historians, the documentary
+        accurately and exquisitely reconstructs the course of the “expropriating
+        anarchists” in the Río de la Plata and specifically in Montevideo del
+        First third of the 20th century.</image:caption
+      >
+      <image:title>Anarchists</image:title>
+    </image:image>
+  </url>
+</urlset>

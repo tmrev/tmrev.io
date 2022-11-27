@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/590372-A Daughter's Deception</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/590372-A Daughter's Deception</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/et5sC9U1RvXQYuAjstL8BUbAo57.jpg</image:loc
+      >
+      <image:caption
+        >Forced to give up her daughter for adoption when she's underage, a
+        woman is thrilled to welcome her back into her life as an adult. She
+        discovers her daughter is a sociopath who has murderous tendencies and
+        poses a danger to everyone.</image:caption
+      >
+      <image:title>A Daughter's Deception</image:title>
+    </image:image>
+  </url>
+</urlset>

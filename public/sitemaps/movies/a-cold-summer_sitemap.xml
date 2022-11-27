@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271466-A Cold Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271466-A Cold Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gb0f8c5joWjzdNJP0KTsUVgWEpr.jpg</image:loc
+      >
+      <image:caption
+        >A Cold Summer constructs three truthful portraits of people dealing
+        with death in their lives in radically different ways and creates an
+        environment, in which after unpeeling the layers, they expose their
+        lives before the camera. The film makes a positive statement through two
+        very selfish and cynical characters and how someone who still believes
+        in honesty and love touches their lives.</image:caption
+      >
+      <image:title>A Cold Summer</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56012-Agatha Christie's The Pale Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56012-Agatha Christie's The Pale Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/HIyF3TOuQPSPmdpzRqfJoLqF1W.jpg</image:loc
+      >
+      <image:caption
+        >Writer Mark Easterbrook has a vested interest in solving the murder of
+        a priest. That's because Mark himself is under suspicion. But to save
+        his reputation and put the real killer behind bars, he'll have to go
+        through a mysterious list of names that's suddenly turned up and may
+        hold the key to the murderer's identity.</image:caption
+      >
+      <image:title>Agatha Christie's The Pale Horse</image:title>
+    </image:image>
+  </url>
+</urlset>

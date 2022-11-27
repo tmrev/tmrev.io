@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/286929-Almaz Black Box</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/286929-Almaz Black Box</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hRouUuYtKvWYCXJRHyYW4BVeAia.jpg</image:loc
+      >
+      <image:caption
+        >In 1998 a Russian Military Space Station received a powerful signal of
+        unknown origin. Sixty-seven hours later the Station broke up in the
+        Earth's atmosphere. The Russian Government initiated an extensive
+        cover-up. They were unable to find the Station's Black Box and assumed
+        it was destroyed on reentry. They were wrong. This year, the disturbing
+        contents of the Black Box will be revealed.</image:caption
+      >
+      <image:title>Almaz Black Box</image:title>
+    </image:image>
+  </url>
+</urlset>

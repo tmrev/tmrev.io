@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/810223-An Autumn Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/810223-An Autumn Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wvJzRrdivLX3QYoG0UHQhA5QOyV.jpg</image:loc
+      >
+      <image:caption
+        >When librarian Taylor Harris suddenly loses her job, she decides to
+        visit her brother in a small town in Montana. There, she gets involved
+        in the fight to help save her brother's hotel from tycoon Joel Sheenan,
+        who wants to renovate it.</image:caption
+      >
+      <image:title>An Autumn Romance</image:title>
+    </image:image>
+  </url>
+</urlset>

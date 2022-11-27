@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/258436-Amélia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/258436-Amélia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/moyB6dB3MoR8f1xrTrrBZLYJU49.jpg</image:loc
+      >
+      <image:caption
+        >Fictional story based on Sarah Bernhard's visit to Brazil in 1905. The
+        actress, experiencing a personal and professional crisis at the time, is
+        induced by her personal Brazilian maid, Amélia, to make a performance in
+        Rio de Janeiro. After arriving, she is forced to stand the company of
+        Amélia's exotic sisters.</image:caption
+      >
+      <image:title>Amélia</image:title>
+    </image:image>
+  </url>
+</urlset>

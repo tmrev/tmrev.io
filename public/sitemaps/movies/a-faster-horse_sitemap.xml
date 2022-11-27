@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/333350-A Faster Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/333350-A Faster Horse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h0wqRE85J7N1UDfNr1LEQVKv5jN.jpg</image:loc
+      >
+      <image:caption
+        >David Gelb (Jiro Dreams of Sushi) tackles another venerable, beloved,
+        and long-standing institution: the Mustang, crown jewel of the Ford
+        fleet. Only this institution is in turmoil. As the fiftieth anniversary
+        of the Mustang approaches and the car industry struggles through the
+        deepest trough of the financial crisis, Ford launches a redesign. Now
+        the jobs of workers at Ford’s Flat Rock Assembly Plant, the expectations
+        of the thousands of Mustang devotees, and the livelihood of the city of
+        Detroit are all placed squarely on the shoulders of Dave Pericak. As
+        chief program engineer, he will guide the 2015 Mustang from assembly
+        floor to showroom—if only he can get that vibration out of the steering
+        wheel.</image:caption
+      >
+      <image:title>A Faster Horse</image:title>
+    </image:image>
+  </url>
+</urlset>

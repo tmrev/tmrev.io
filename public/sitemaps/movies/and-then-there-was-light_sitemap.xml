@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/478962-And Then There Was Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/478962-And Then There Was Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lIhDpVoDWXTbipTZO8Kvk9AYXKd.jpg</image:loc
+      >
+      <image:caption
+        >On Mihama, one of Tokyo's outlying islands, Shinji witnesses the rape
+        of his girlfriend and middle-school classmate, Haruka, then commits an
+        irreversible crime. But the following day, the island is besieged by a
+        tidal wave which wipes out everything. Twenty-five years later, Shinji
+        (Iura Arata) has a wife (Hashimoto Manami) and daughter. A childhood
+        friend, Tasuku (Eita), presents himself to Shinji and discloses the real
+        truth of his hidden past. Shinji will have to try and protect Haruka
+        (Hasegawa Kyoko) again.</image:caption
+      >
+      <image:title>And Then There Was Light</image:title>
+    </image:image>
+  </url>
+</urlset>

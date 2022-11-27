@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/147485-21 Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/147485-21 Brothers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o6W8Hw46WJN53QfxviD2ZtKEdnh.jpg</image:loc
+      >
+      <image:caption
+        >21 Brothers tells the story of the Canadian 21st Battalion as they
+        prepare for the battle of Courcellette in WWI. Taking place in real
+        time, the film follows Sgt. Reid as he must get his men ready for the
+        impending battle. Not only must he prep his battalion Sgt. Reid must
+        also deal with the day to day difficulties of Life in the trenches,
+        including injuries to his men, supply issues, and an underage recruit
+        who has recently been sent into the front lines.</image:caption
+      >
+      <image:title>21 Brothers</image:title>
+    </image:image>
+  </url>
+</urlset>

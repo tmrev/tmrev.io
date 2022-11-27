@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541739-A Bullet for Che</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541739-A Bullet for Che</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nPIpNfDr8RPmOLP7GYKfJsm7OJL.jpg</image:loc
+      >
+      <image:caption
+        >Ethel is a 60-year-old psychoanalyst who chose to access documents
+        declassified by the Uruguayan goverment to know the identity of the
+        perpetrators of the death of her husband. His death occured on August
+        17th 1961 at a University ceremony where Che Guevara delivered one of
+        his first speeches after the revolutionary triumph of the Cuban
+        revolution. The bullet that killed a history teacher was considered a
+        failed attack against Che Guevara planned by the CIA.</image:caption
+      >
+      <image:title>A Bullet for Che</image:title>
+    </image:image>
+  </url>
+</urlset>

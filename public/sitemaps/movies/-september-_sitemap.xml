@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1926-11'09''01 September 11</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1926-11'09''01 September 11</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gbOFmoHalRCZgePhSJLH1ChIn2q.jpg</image:loc
+      >
+      <image:caption
+        >Filmmakers from all over the world provide short films – each of which
+        is eleven minutes, nine seconds, and one frame of film in length – that
+        offer differing perspectives on the 9/11 terrorist
+        attacks.</image:caption
+      >
+      <image:title>11'09''01 September 11</image:title>
+    </image:image>
+  </url>
+</urlset>

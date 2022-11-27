@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/482193-Aita</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/482193-Aita</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cQyBtqEABwNiHXyYzK0e5HSqNkt.jpg</image:loc
+      >
+      <image:caption
+        >Middle-aged Late is building a fence in his family home for a summer
+        break, but he falls in love with his daughter's new friend, 16-year old
+        flirtatious Saija.</image:caption
+      >
+      <image:title>Aita</image:title>
+    </image:image>
+  </url>
+</urlset>

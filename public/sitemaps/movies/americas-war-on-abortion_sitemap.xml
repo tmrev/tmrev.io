@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/837574-America’s War on Abortion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/837574-America’s War on Abortion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t6aEKEj0DljdRy1L4vG0hBXBBx3.jpg</image:loc
+      >
+      <image:caption
+        >Deeyah Khan examines the alarming erosion of reproductive rights in the
+        US. Featuring powerful accounts from activists fighting for - and
+        against - women's right to choose.</image:caption
+      >
+      <image:title>America’s War on Abortion</image:title>
+    </image:image>
+  </url>
+</urlset>

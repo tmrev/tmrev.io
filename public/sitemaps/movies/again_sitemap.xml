@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353324-Again</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353324-Again</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9J3kAs3BsQdrXEgRVra2HbGYSEa.jpg</image:loc
+      >
+      <image:caption
+        >Mie’s father died during the aftermath of the 2011 Tōhoku earthquake
+        and tsunami. One day, she finds a bundle of unsent New Year’s cards,
+        which languished there for 28 years. To find out why the cards were
+        never sent, Mie tracks down Haruhiko Sakacho. Haruhiko played on the
+        same high school baseball team with her father. Mie eventually gathers
+        together her father's former teammates to play in the Masters Koshien (a
+        senior league baseball tournament). Mie also uncovers a truth about her
+        father and the baseball team.</image:caption
+      >
+      <image:title>Again</image:title>
+    </image:image>
+  </url>
+</urlset>

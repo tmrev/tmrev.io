@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/115933-Anamika</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/115933-Anamika</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dP8S2mrlq9R3XaTQkDcWLn6OuJX.jpg</image:loc
+      >
+      <image:caption
+        >Anamika is a Bollywood film starring Dino Morea, Minissha Lamba and
+        Koena Mitra in the lead roles. It is written and directed by Anant
+        Mahadevan and produced by Bhanwar Lal Sharma. It is a remake of Alfred
+        Hitchcock's film Rebecca (1940)</image:caption
+      >
+      <image:title>Anamika</image:title>
+    </image:image>
+  </url>
+</urlset>

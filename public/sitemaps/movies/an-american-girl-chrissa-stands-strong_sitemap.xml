@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/18182-An American Girl: Chrissa Stands Strong</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/18182-An American Girl: Chrissa Stands Strong</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zBrOirXNgvm2YsaydZhZCEiKKPJ.jpg</image:loc
+      >
+      <image:caption
+        >A fourth grader and her friends deal with bullying from a more popular
+        girl in their class.</image:caption
+      >
+      <image:title>An American Girl: Chrissa Stands Strong</image:title>
+    </image:image>
+  </url>
+</urlset>

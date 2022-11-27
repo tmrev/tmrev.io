@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/673976-A Prayer for the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/673976-A Prayer for the Damned</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/145rfYd3bwaXm6uBAXGyYQ8YMYa.jpg</image:loc
+      >
+      <image:caption
+        >13 yrs after the American Civil War, in a strange town in New Mexico, a
+        gunfighter and his gambler woman search for the lost Confederate
+        fortune. Things turn deadly when they cross paths with a demented
+        preacher who has other plans.</image:caption
+      >
+      <image:title>A Prayer for the Damned</image:title>
+    </image:image>
+  </url>
+</urlset>

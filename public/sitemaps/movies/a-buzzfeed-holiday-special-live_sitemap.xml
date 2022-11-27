@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/767478-A BuzzFeed Holiday Special: Live!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/767478-A BuzzFeed Holiday Special: Live!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/VvzM0v3ytiepkSefjiUO9YSAqf.jpg</image:loc
+      >
+      <image:caption
+        >Aria Inthavong is visited by a whole host of BuzzFeed's most popular
+        personalities to celebrate the holidays in a vibrant live special
+        streamed to audiences worldwide.</image:caption
+      >
+      <image:title>A BuzzFeed Holiday Special: Live!</image:title>
+    </image:image>
+  </url>
+</urlset>

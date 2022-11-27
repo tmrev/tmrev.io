@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84169-Ai Weiwei: Never Sorry</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84169-Ai Weiwei: Never Sorry</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5bkXKjsaBYmvbCt6LLRcqsd74jG.jpg</image:loc
+      >
+      <image:caption
+        >An account of the many tribulations that Chinese artist Ai Weiwei,
+        known for his subversive art and political activism, endured between
+        2008 and 2011, from his rise to world fame via the Internet to his
+        highly publicized arrest due to his frequent and daring confrontations
+        with the Chinese authorities.</image:caption
+      >
+      <image:title>Ai Weiwei: Never Sorry</image:title>
+    </image:image>
+  </url>
+</urlset>

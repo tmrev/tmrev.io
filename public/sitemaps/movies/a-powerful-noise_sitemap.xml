@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/883673-A Powerful Noise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/883673-A Powerful Noise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iKv6GBFiOo9XMjIuE40LwwneO1k.jpg</image:loc
+      >
+      <image:caption
+        >Bookended by call-to-action quotes from Margaret Mead and Mahatma
+        Gandhi, this inspiring documentary follows three extraordinary women --
+        in Bosnia-Herzegovina, Mali, and Vietnam -- as they lead day-to-day
+        battles against ignorance, poverty, oppression, and ethnic
+        strife.</image:caption
+      >
+      <image:title>A Powerful Noise</image:title>
+    </image:image>
+  </url>
+</urlset>

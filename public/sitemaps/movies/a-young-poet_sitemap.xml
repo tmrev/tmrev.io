@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/295926-A Young Poet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/295926-A Young Poet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nogXPuZ9nAEvsvX4aqsK15GrE1g.jpg</image:loc
+      >
+      <image:caption
+        >Barely out of his teens, Rémi dreams of becoming a poet and thrilling
+        the world with his powerful and unforgettable verse. Seeking inspiration
+        in the oppressively hot city of Sète, pen and notebook in hand, Rémi is
+        determined to write his poem... But where to begin? By spending hours
+        contemplating the sea? Climbing a mountain? Listening to the birds
+        singing? Going to the library? Finding his muse? In bars? In the
+        cemetery? Underwater? And if none of that works, then by drinking,
+        drinking and drinking some more until that spark of inspiration
+        strikes.</image:caption
+      >
+      <image:title>A Young Poet</image:title>
+    </image:image>
+  </url>
+</urlset>

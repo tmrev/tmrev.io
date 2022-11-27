@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62030-A+ Pollux</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62030-A+ Pollux</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qQhH9NMR754Tzwzn6ddyj5eRhNb.jpg</image:loc
+      >
+      <image:caption
+        >Halvard Sanz believes in the principle according to which we always
+        meet people who really interest us twice. It’s written in the tables of
+        how the world works, right next to the law of series and the constant
+        speed of light. Halvard therefore believes that he’ll be able to find
+        Pollux again. She’s the woman of his dreams, but he didn’t get the time
+        to tell her so. Dizzy as a bee, he’ll charge head first into the plate
+        glass window of life.</image:caption
+      >
+      <image:title>A+ Pollux</image:title>
+    </image:image>
+  </url>
+</urlset>

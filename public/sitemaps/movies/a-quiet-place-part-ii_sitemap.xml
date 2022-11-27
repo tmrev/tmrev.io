@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/520763-A Quiet Place Part II</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/520763-A Quiet Place Part II</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg</image:loc
+      >
+      <image:caption
+        >Following the events at home, the Abbott family now face the terrors of
+        the outside world. Forced to venture into the unknown, they realize that
+        the creatures that hunt by sound are not the only threats that lurk
+        beyond the sand path.</image:caption
+      >
+      <image:title>A Quiet Place Part II</image:title>
+    </image:image>
+  </url>
+</urlset>

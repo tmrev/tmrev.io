@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/92757-A Family Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/92757-A Family Lost</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xjt63JoubgzT6sXbwyGjC098GU.jpg</image:loc
+      >
+      <image:caption
+        >Valerie, a single mom and her 13-year old diabetic daughter Claire
+        board a small plane in Kodiak Falls, with the intention of meeting the
+        mother's new fiance Jordan. But when the plane crashes, the only
+        survivors are the mother, daughter, and a suspicious passenger, leaving
+        Valerie and Claire in harm's way.</image:caption
+      >
+      <image:title>A Family Lost</image:title>
+    </image:image>
+  </url>
+</urlset>

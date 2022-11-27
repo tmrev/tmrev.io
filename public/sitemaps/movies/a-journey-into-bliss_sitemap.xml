@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76817-A Journey Into Bliss</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76817-A Journey Into Bliss</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/esTSHygQHUIPTrliCLYSgiW3L1Q.jpg</image:loc
+      >
+      <image:caption
+        >The film deals loosely with the adventures of the grizzled Gustav who
+        captains a ship – a giant floating ‘snailboat’ – with a crew of talking
+        animals and lumbering sailors in blackface. It unspools like a perverse
+        children’s story book, all at once cuddly cute, grotesquely obscene and
+        beyond absurd as normal narrative logic shatters, giving way to an
+        episodic, free-associative structure that one critic likened to
+        “cinematic memory association.” (joergbuttgereit.com)</image:caption
+      >
+      <image:title>A Journey Into Bliss</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/685899-A Child of Light</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/685899-A Child of Light</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9lQWuAuNAAcHSsC49oduiM0nm3k.jpg</image:loc
+      >
+      <image:caption
+        >1983. Lucas is 12 years old. He must keep company, during the holidays,
+        with Erwan (15 years) whose parents left alone on a trip. Erwan
+        transfers his bitterness at being neglected to Lucas. He treats him like
+        a dog, forcing him to eat only bread and cheese, and to live without
+        clothes, "like a dog".</image:caption
+      >
+      <image:title>A Child of Light</image:title>
+    </image:image>
+  </url>
+</urlset>

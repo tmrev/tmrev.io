@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/596870-A White, White Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/596870-A White, White Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vsx5tFeL3UuWa5ITqu6l8uLc7q5.jpg</image:loc
+      >
+      <image:caption
+        >In a remote Icelandic town, an off duty police chief begins to suspect
+        a local man to have had an affair with his wife, who has recently died
+        in a car accident. Gradually his obsession for finding out the truth
+        accumulates and inevitably begins to endanger himself and his loved
+        ones. A story of grief, revenge and unconditional love.</image:caption
+      >
+      <image:title>A White, White Day</image:title>
+    </image:image>
+  </url>
+</urlset>

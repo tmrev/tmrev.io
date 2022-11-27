@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361350-Ancient Computer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361350-Ancient Computer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5h16YVEwB1K6koImkocGtKnY1f.jpg</image:loc
+      >
+      <image:caption
+        >In 1900, a storm blew a boatload of sponge divers off course and forced
+        them to take shelter by the tiny Mediterranean island of Antikythera.
+        Diving the next day, they discovered a 2,000 year-old Greek shipwreck.
+        Among the ship's cargo they hauled up was an unimpressive green lump of
+        corroded bronze. Rusted remnants of gear wheels could be seen on its
+        surface, suggesting some kind of intricate mechanism. The first X-ray
+        studies confirmed that idea, but how it worked and what it was for
+        puzzled scientists for decades. Recently, hi-tech imaging has revealed
+        the extraordinary truth: this unique clockwork machine was the world's
+        first computer.</image:caption
+      >
+      <image:title>Ancient Computer</image:title>
+    </image:image>
+  </url>
+</urlset>

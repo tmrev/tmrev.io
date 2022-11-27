@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/157925-American Black Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/157925-American Black Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nLj3HfUSMTYW4RfjBpnal6Up1Xk.jpg</image:loc
+      >
+      <image:caption
+        >After her father dies in a horse riding accident, a displaced city girl
+        named Cheryl is sent to live with a foster family on a farm in the
+        country. Here she meets a magnificent horse. Cheryl learns to face her
+        fear of horses and manages to race once again.</image:caption
+      >
+      <image:title>American Black Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

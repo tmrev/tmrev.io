@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/59722-2012: Ice Age</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/59722-2012: Ice Age</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/axj9DrtSXe3yxXogoeU0BL40nN5.jpg</image:loc
+      >
+      <image:caption
+        >A volcanic eruption in Iceland sends a glacier towards North America,
+        causing everything in it's path to freeze. A family man struggles to
+        escape the onslaught of the coming ice age.</image:caption
+      >
+      <image:title>2012: Ice Age</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104634-Angels of Sex</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104634-Angels of Sex</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/syUzYJh4GaqoY6lRKBtlnFUqoYa.jpg</image:loc
+      >
+      <image:caption
+        >Struggling martial artist and dancer Bruno loves his girlfriend Carla,
+        but when he meets fellow dancer Rai, serious sparks begin to fly,
+        opening the couple up to new possibilities. A new generation navigates
+        sexual fluidity, torn affections, and open relationships in this
+        complicated love triangle.</image:caption
+      >
+      <image:title>Angels of Sex</image:title>
+    </image:image>
+  </url>
+</urlset>

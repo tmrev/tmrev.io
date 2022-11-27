@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/551554-American Nightmares</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/551554-American Nightmares</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/616M7qnzLRb15ZdIJu3SpH1Obs0.jpg</image:loc
+      >
+      <image:caption
+        >Two voyeuristic nerds are hacking the devices of people as they
+        themselves are hacked by the feed from story tellers Mister Malevolent
+        and Mystic Woman who have seven moralistic horror stories to
+        tell.</image:caption
+      >
+      <image:title>American Nightmares</image:title>
+    </image:image>
+  </url>
+</urlset>

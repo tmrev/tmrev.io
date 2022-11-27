@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541822-+ bien</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541822-+ bien</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zwUKYpKHs4GTB67Y2HRMmob83y8.jpg</image:loc
+      >
+      <image:caption
+        >The actions of three medical friends to face situations in a context of
+        boredom. Original music by Gustavo Cerati.</image:caption
+      >
+      <image:title>+ bien</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/105772-Alien Lockdown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/105772-Alien Lockdown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bxPHGowEYrQcbKs4HAFihw2xpXA.jpg</image:loc
+      >
+      <image:caption
+        >After an experiment to make the ultimate weapon goes wrong, a team of
+        commandos is sent into a genetic research lab and end up getting stalked
+        by a creature that looks a lot like the Predator</image:caption
+      >
+      <image:title>Alien Lockdown</image:title>
+    </image:image>
+  </url>
+</urlset>

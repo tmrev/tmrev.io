@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121106-A Bitter Taste of Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121106-A Bitter Taste of Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tB1xkFLolVYgndCyzBc7E6l7BHM.jpg</image:loc
+      >
+      <image:caption
+        >In her quest to uncover the wrongdoings of the Russian authorities,
+        Anna Politkovskaya inspired awe in some and fear in countless others. At
+        age 48 she was assassinated for simply doing her job. This documentary
+        is based on Anna's conversations with filmmaker Marina Goldovskaya,
+        Anna's former university professor and personal friend. Shot over a
+        period of 20 years, this exclusive footage creates an incredible story
+        of a woman who consciously gave her life for her
+        convictions.</image:caption
+      >
+      <image:title>A Bitter Taste of Freedom</image:title>
+    </image:image>
+  </url>
+</urlset>

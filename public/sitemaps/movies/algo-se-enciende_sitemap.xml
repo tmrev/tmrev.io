@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/805128-Algo se enciende</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/805128-Algo se enciende</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h1aAks12VoVJ62O9PCuKeQdyYvC.jpg</image:loc
+      >
+      <image:caption
+        >After the disappearance of a student, their classmates mobilize for the
+        case to be solved. A disturbing record about how physical absence causes
+        a disaster in which astonishment seems to have the last
+        word.</image:caption
+      >
+      <image:title>Algo se enciende</image:title>
+    </image:image>
+  </url>
+</urlset>

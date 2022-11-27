@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/346589-After the Last Round</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/346589-After the Last Round</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vVvQFgGJioBnDwMo8RuZqKtC60u.jpg</image:loc
+      >
+      <image:caption
+        >Few other sports encompass the theatrical displays of human struggle,
+        strength, and violence that have come to define boxing. This documentary
+        that takes you inside the sport of boxing, exposing its life changing
+        effects on the fighters and their families.</image:caption
+      >
+      <image:title>After the Last Round</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49846-A Sunday in Kigali</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49846-A Sunday in Kigali</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2LJi7vwBWxqxgv5NBxC82XZp6Wx.jpg</image:loc
+      >
+      <image:caption
+        >In April 1994, the middle-aged Canadian journalist Bernard Valcourt is
+        making a documentary in Kigali about AIDS. He secretly falls in love for
+        the Tutsi waitress of his hotel Gentille, who is younger than him, in a
+        period of violent racial conflicts. When the genocide of the Tutsis by
+        the Hutus in Rwanda begins, Bernard does not succeed in escaping with
+        Gentille to Canada. When the genocide finishes in July 1994, Bernard
+        returns to the chaotic Kigali seeking out Gentille in the middle of
+        destruction and dead bodies.</image:caption
+      >
+      <image:title>A Sunday in Kigali</image:title>
+    </image:image>
+  </url>
+</urlset>

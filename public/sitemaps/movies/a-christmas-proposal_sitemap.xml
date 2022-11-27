@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/896071-A Christmas Proposal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/896071-A Christmas Proposal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/f6352S1TfhDSgGhm39G1X9dkoj5.jpg</image:loc
+      >
+      <image:caption
+        >When work moves Jason across the world, the only way he can bring his
+        love Carla, is if they are married by Christmas.</image:caption
+      >
+      <image:title>A Christmas Proposal</image:title>
+    </image:image>
+  </url>
+</urlset>

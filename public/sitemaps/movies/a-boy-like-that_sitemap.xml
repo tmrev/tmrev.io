@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/853670-A Boy Like That</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/853670-A Boy Like That</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mwpM9vZ2sT5e7D1eP3HsjValfC3.jpg</image:loc
+      >
+      <image:caption
+        >Harold, a middle-aged Mexican theatre acting coach, travels to New York
+        and finds himself obsessing over a precocious teenage boy named Felix,
+        who he believes is the reincarnation of his first childhood
+        love.</image:caption
+      >
+      <image:title>A Boy Like That</image:title>
+    </image:image>
+  </url>
+</urlset>

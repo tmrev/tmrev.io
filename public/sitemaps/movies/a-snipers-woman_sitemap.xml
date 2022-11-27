@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/537711-A Sniper's Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/537711-A Sniper's Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ibrIRNck6ijL9fUXHFaroIbgov7.jpg</image:loc
+      >
+      <image:caption
+        >Noriko is an ex-prostitute married to Satake, a charismatic,
+        wise-cracking lady-loving Yakuza. But when Satake is called upon to
+        murder a rival, Noriko must take up the mantle to lead his
+        gang.</image:caption
+      >
+      <image:title>A Sniper's Woman</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/335003-A Room to Die For</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/335003-A Room to Die For</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7MSPDL6HbbTcQ7hf7zC5f51zvG6.jpg</image:loc
+      >
+      <image:caption
+        >When a broke young couple rent a room in an elderly couples London
+        house it becomes apparent no one is what they really
+        seem.</image:caption
+      >
+      <image:title>A Room to Die For</image:title>
+    </image:image>
+  </url>
+</urlset>

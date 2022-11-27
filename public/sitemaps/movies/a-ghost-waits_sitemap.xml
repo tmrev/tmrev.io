@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/665109-A Ghost Waits</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/665109-A Ghost Waits</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vPxTfepSqLgwBFqzqfksTG2Ncwy.jpg</image:loc
+      >
+      <image:caption
+        >Jack's job is to fix up the house. Spectral agent Muriel's eternal task
+        is to haunt it. They should be enemies, but they become fascinated by
+        one another and eventually smitten, leading them to question everything
+        about their work, lives, and decisions. But as pressure mounts for them
+        to fulfil their duties, something’s got to give for them to have the
+        time together they both so desperately want.</image:caption
+      >
+      <image:title>A Ghost Waits</image:title>
+    </image:image>
+  </url>
+</urlset>

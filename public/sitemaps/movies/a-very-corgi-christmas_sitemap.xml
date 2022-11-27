@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/637879-A Very Corgi Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/637879-A Very Corgi Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bpB0YjuDcwrZc4pDlzXI76PPjNm.jpg</image:loc
+      >
+      <image:caption
+        >All Lauren Bradley, a single mom and confirmed workaholic, wants this
+        holiday is a much deserved break. Those hopes are dashed when she runs
+        into fellow single dad Ben who enlists her help in taking care of a cute
+        and cuddly christmas present he plans to give his daughter. Through all
+        the chaos and calls from work, Lauren just might get the best gift of
+        all, the holiday spirit.</image:caption
+      >
+      <image:title>A Very Corgi Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

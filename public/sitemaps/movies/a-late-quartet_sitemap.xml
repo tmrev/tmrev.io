@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/121879-A Late Quartet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/121879-A Late Quartet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jZkQNyvXEqaq6y3L6iM1I1wRemb.jpg</image:loc
+      >
+      <image:caption
+        >When the beloved cellist of a world-renowned string quartet is
+        diagnosed with a life threatening illness, the group's future suddenly
+        hangs in the balance as suppressed emotions, competing egos and
+        uncontrollable passions threaten to derail years of friendship and
+        collaboration. As they are about to play their 25th anniversary concert
+        — quite possibly their last — only their intimate bond and the power of
+        music can preserve their legacy.</image:caption
+      >
+      <image:title>A Late Quartet</image:title>
+    </image:image>
+  </url>
+</urlset>

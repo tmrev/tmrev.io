@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/84379-A Christmoose Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/84379-A Christmoose Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iydafDq513Oq8T34qaQL9Fxm1dz.jpg</image:loc
+      >
+      <image:caption
+        >A bullied young boy befriends a flying, talking moose that crashed
+        through his ceiling after a test-flight with Santa went terribly awry in
+        this holiday film for the whole family. But later, just as Mr. Moose and
+        Beril strike up a friendship, the young boy's nefarious landlord Mr.
+        Pannecke decides a mounted moose head would make a fine new addition to
+        his trophy wall. But Santa has other plans for Mr. Moose, and when he
+        turns up looking for his lost pal, Beril is faced with the prospect of
+        losing his one and only friend.</image:caption
+      >
+      <image:title>A Christmoose Carol</image:title>
+    </image:image>
+  </url>
+</urlset>

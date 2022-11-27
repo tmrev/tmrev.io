@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/560726-A March to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/560726-A March to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ckjExjbtDUycmcv4qIJhqQFSGnd.jpg</image:loc
+      >
+      <image:caption
+        >Vitoria, Basque Country, Spain, March 3rd, 1976. After several months
+        of protests demanding decent working conditions, representatives of
+        struggling workers call for a general strike. In the church of San
+        Francisco, in the working class neighborhood of Zaramaga, thousands of
+        workers fill the temple in assembly. Outside, many more people gather
+        and, in the middle, about a hundred heavily armed police officers wait
+        to act.</image:caption
+      >
+      <image:title>A March to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

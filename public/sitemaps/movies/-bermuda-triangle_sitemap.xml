@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/103710-1313: Bermuda Triangle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/103710-1313: Bermuda Triangle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gYkNoaAzZmg3PgjoHo7bF0MzHAh.jpg</image:loc
+      >
+      <image:caption
+        >Treasure hunter Sean stumbles across a trove of priceless artifacts off
+        the coast of a remote Caribbean island. To help him, he assembles a team
+        of experts to authenticate his finds, only to discover one of the
+        "experts" has a different agenda.</image:caption
+      >
+      <image:title>1313: Bermuda Triangle</image:title>
+    </image:image>
+  </url>
+</urlset>

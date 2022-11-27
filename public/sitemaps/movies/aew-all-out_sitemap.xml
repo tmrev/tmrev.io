@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/995546-AEW All Out</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/995546-AEW All Out</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6PX85PjLQHgoNjzaGRhX6AWdheJ.jpg</image:loc
+      >
+      <image:caption
+        >The 2022 All Out is the upcoming fourth annual All Out professional
+        wrestling pay-per-view (PPV) event produced by All Elite Wrestling
+        (AEW). It is scheduled to take place during Labor Day weekend on
+        September 4, 2022, at the Now Arena in the Chicago suburb of Hoffman
+        Estates, Illinois.</image:caption
+      >
+      <image:title>AEW All Out</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/47316-Airtight</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/47316-Airtight</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vnUIEkO1QCoI4Zj6AMX7qNbDcIw.jpg</image:loc
+      >
+      <image:caption
+        >Set in the nuclear war-torn world of 2040, a congested city is shrouded
+        in a deadly smog, where breathable air is obtainable only through
+        labyrinth shafts that transport the precious gas from high in the
+        atmosphere. These passages are kept functioning by an elite 'Air Force'.
+        The team risk annihilation to expose a deadly blackmail
+        scheme.</image:caption
+      >
+      <image:title>Airtight</image:title>
+    </image:image>
+  </url>
+</urlset>

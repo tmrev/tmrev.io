@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/373859-A Very Larry Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/373859-A Very Larry Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Larry is a good natured guy with a spotty work history. Santa picks
+        Larry to fill in when he breaks his leg. Larry`s old boss and Santa`s PR
+        assistant doubt Larry and his ability. Even Larry has misgivings but
+        Santa and Larry`s dad believe Larry`s Christmas spirit and good heart
+        will save the day.</image:caption
+      >
+      <image:title>A Very Larry Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304861-Aleppo. Notatki z ciemnosci</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304861-Aleppo. Notatki z ciemnosci</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Aleppo, a city that never sleeps for fear of the horrors that now rage
+        within its walls. Sons fight alongside fathers in a place where everyone
+        is a soldier and becoming a martyr is considered easier than
+        living.</image:caption
+      >
+      <image:title>Aleppo. Notatki z ciemnosci</image:title>
+    </image:image>
+  </url>
+</urlset>

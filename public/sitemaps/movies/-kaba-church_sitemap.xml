@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472985-13-30 Kaba Church</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472985-13-30 Kaba Church</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A child is born with a cross in her hand. Her fate is intertwined with
+        the lost original version of the Holy Bible, whose forgotten verses hold
+        powerful secrets; however, demon soldiers threaten to destroy her while
+        the members of the mysterious New Generation Kaba Church wish to obtain
+        the original Bible for themselves.</image:caption
+      >
+      <image:title>13-30 Kaba Church</image:title>
+    </image:image>
+  </url>
+</urlset>

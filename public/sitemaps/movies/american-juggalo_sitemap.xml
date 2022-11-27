@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/138061-American Juggalo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/138061-American Juggalo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2c0IMFRdJ86tLIwakpiE4uO1vsl.jpg</image:loc
+      >
+      <image:caption
+        >A look at the often mocked and misunderstood subculture of Juggalos,
+        hardcore Insane Clown Posse fans, who meet once a year for 4 days at The
+        Gathering of the Juggalos.</image:caption
+      >
+      <image:title>American Juggalo</image:title>
+    </image:image>
+  </url>
+</urlset>

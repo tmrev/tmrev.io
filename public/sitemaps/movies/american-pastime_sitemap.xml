@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17274-American Pastime</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17274-American Pastime</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kLgsnWhBLVBDPggYeURIfr5dc5Z.jpg</image:loc
+      >
+      <image:caption
+        >American Pastime tells a poignant story set against the
+        Japanese-American internment camps during World War II. Rounded up and
+        uprooted from their everyday lives, they remained loyal to the United
+        States and ironically turned to that most American of sports - baseball
+        - as a way to deal with their plight.</image:caption
+      >
+      <image:title>American Pastime</image:title>
+    </image:image>
+  </url>
+</urlset>

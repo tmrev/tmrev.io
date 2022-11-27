@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1012291-A Trip to the Barbershop</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1012291-A Trip to the Barbershop</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d7k0kUfNDDqD53OKDpVpMmZ1o42.jpg</image:loc
+      >
+      <image:caption
+        >Text messages to a boyfriend in Roanne, everyday conversation with
+        parents in Beirut, the life in Copenhagen. A love letter painted with
+        isolation of living in a foreign land and the intimate time spent
+        together with the director's loved ones.</image:caption
+      >
+      <image:title>A Trip to the Barbershop</image:title>
+    </image:image>
+  </url>
+</urlset>

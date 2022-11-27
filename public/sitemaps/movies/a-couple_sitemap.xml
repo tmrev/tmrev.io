@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1004657-A Couple</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1004657-A Couple</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jbhJOCU46UdHsbE65l0xkLX1HFb.jpg</image:loc
+      >
+      <image:caption
+        >"A Couple" is a film about a long term relationship between a man and a
+        woman. The man is Leo Tolstoy. The woman is his wife, Sophia. They were
+        married for 36 years, had 13 children nine of whom survived. Each kept a
+        diary. Although they lived together, in the same house, they wrote
+        letters frequently to each other. Leo Tolstoy insisted that they read
+        their diaries aloud to guests at dinner parties. The Tolstoy’s were also
+        a dysfunctional couple, arguing frequently and being very unhappy with
+        each other while occasionally enjoying passionate moments of
+        reconciliation. The film is Sophia’s monologue about the joys and
+        struggles of their life together, loosely drawn from their letters to
+        each other and their diary entries.</image:caption
+      >
+      <image:title>A Couple</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/63550-A Tale of Two Donkeys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/63550-A Tale of Two Donkeys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pw7yjIiETk1hhcCjMCIu8F3H93.jpg</image:loc
+      >
+      <image:caption
+        >An involving, beautifully modulated yarn about a young intellectual's
+        "war" with two equines in a mountain village during the Cultural
+        Revolution. A young student, Ma Jie, who is sent to a tiny Beigao
+        village in Shanxi Province and has the mundane task of watching over
+        livestock during the Great Cultural Revolution. Surrounded only by the
+        extreme boredom, he initiates a war against two donkeys. What ensues as
+        a result, is an impressive feature debut by director Li Dawei who
+        manages to infuse a believable quirky and black humorous universe within
+        a realistically grim setting.</image:caption
+      >
+      <image:title>A Tale of Two Donkeys</image:title>
+    </image:image>
+  </url>
+</urlset>

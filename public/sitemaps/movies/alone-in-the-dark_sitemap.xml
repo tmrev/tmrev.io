@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1027160-Alone in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1027160-Alone in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/huwSsxRnIiFuoxfrFWqUnA2vKRn.jpg</image:loc
+      >
+      <image:caption
+        >Bri is recently divorced and under house arrest due to her ex-husband's
+        crimes, but when a stalker shows up, seems to have control over his
+        surroundings.</image:caption
+      >
+      <image:title>Alone in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

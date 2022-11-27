@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/795884-A Goat's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/795884-A Goat's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3q87iGx7b4yDGL2Ks17eNT3Uut9.jpg</image:loc
+      >
+      <image:caption
+        >Kojo meets a vacationer named Cynthia who, after a sexual encounter,
+        reluctantly promises to invite him to England, but while there, he
+        learns people are not what they seem.</image:caption
+      >
+      <image:title>A Goat's Tail</image:title>
+    </image:image>
+  </url>
+</urlset>

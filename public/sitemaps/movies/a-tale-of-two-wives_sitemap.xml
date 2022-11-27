@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382002-A Tale of Two Wives</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382002-A Tale of Two Wives</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e2RLfyWpwVKaRSgVt7z5SU97Uua.jpg</image:loc
+      >
+      <image:caption
+        >Bill Goodman is a slick, wealthy, celebrated psychiatrist, who leads a
+        double life. He has a wife and daughter in New York. At the same time,
+        the bigamist has another wife in London. Despite his long absences on
+        'business trips', both little families lived in domestic bliss, totally
+        oblivious of each-others existence. Alas the wives find out about
+        each-other place in Bill's well-organized life, and let jealousy get the
+        better of happiness; they even team up and turn on the man who so
+        cunningly made everyone happy for so long...</image:caption
+      >
+      <image:title>A Tale of Two Wives</image:title>
+    </image:image>
+  </url>
+</urlset>

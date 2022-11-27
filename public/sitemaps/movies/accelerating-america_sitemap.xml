@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/891056-Accelerating America</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/891056-Accelerating America</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Tells the story of a revolutionary school in Rhode Island that gives
+        inner-city youths who are at risk of dropping out a second chance by
+        accelerating their studies. At the head of the school is a fearless
+        principal, Robert DeBlois, who as a quadriplegic knows something about
+        overcoming adversity. If the word "inspiring" gets overused, it rarely
+        feels as apt as when watching DeBlois apply his tough love educational
+        techniques on hardened teens. We watch three students - America, Jason
+        and Yazmine - as they struggle through a make-or-break year, drawing
+        upon conviction, pride and humor in order to survive.</image:caption
+      >
+      <image:title>Accelerating America</image:title>
+    </image:image>
+  </url>
+</urlset>

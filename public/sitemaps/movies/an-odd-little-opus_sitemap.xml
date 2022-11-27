@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/277554-An Odd Little Opus</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/277554-An Odd Little Opus</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"Taste in the human tongue has five receptors: Salty, Bitter, Sour,
+        Sweet and Umami. Umami is to be found in bacon. I imagined a great deal
+        of this film while sitting on the end of Southend Pier which in itself
+        is a kind of tongue or spit. I always set out to make jolly films but
+        somehow they always go sinister on me. This one is no exception." Chris
+        Newby</image:caption
+      >
+      <image:title>An Odd Little Opus</image:title>
+    </image:image>
+  </url>
+</urlset>

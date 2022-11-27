@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/309309-A Noite da Virada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/309309-A Noite da Virada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9R0a85in6KPsNVRt7qcmhXwrzBY.jpg</image:loc
+      >
+      <image:caption
+        >Ana and Duda, a couple who's in the verge of taking a break from their
+        marriage, throw a New Year's party at their house. The party gets
+        overcrowded with all kinds of people, and it's in the bathroom that most
+        things will happen between them both and many other
+        guests.</image:caption
+      >
+      <image:title>A Noite da Virada</image:title>
+    </image:image>
+  </url>
+</urlset>

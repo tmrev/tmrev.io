@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480750-A Haunting at the Hoyt Library</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480750-A Haunting at the Hoyt Library</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Aro83qPAgWi4WZmiU6c8GxVJfO2.jpg</image:loc
+      >
+      <image:caption
+        >For years, the Hoyt Library has made headlines as one of the most
+        haunted locations in the entire Midwest. Finally, a documentary film
+        crew was allowed complete access to investigate the numerous claims of
+        paranormal activity. What they captured on audio and video will leave no
+        room for doubt. Rooted in the heart of downtown Saginaw, the historic
+        Hoyt Library has guarded its citizens' history and lineage for over 125
+        years. A literal gateway to the past, this stately and opulent landmark
+        houses one of Michigan's largest collections of literature, artifacts,
+        and documents... but according to patrons and staff, it also houses a
+        collection of lost and restless souls.</image:caption
+      >
+      <image:title>A Haunting at the Hoyt Library</image:title>
+    </image:image>
+  </url>
+</urlset>

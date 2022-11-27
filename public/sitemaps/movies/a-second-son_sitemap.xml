@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/757740-A Second Son</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/757740-A Second Son</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/744m4IVoYZoo4vckUTYs07D8C7N.jpg</image:loc
+      >
+      <image:caption
+        >The leaked 2012 video diary of schoolgirl Emily Turner, documenting her
+        life as she faces the consequences of an underage pregnancy. But a
+        private domestic drama soon turns into an extraordinary record of
+        international importance with a series of mysterious events that force
+        Emily and her family to recognize the significance of what has befallen
+        her, heralding the end of days as we know them today.</image:caption
+      >
+      <image:title>A Second Son</image:title>
+    </image:image>
+  </url>
+</urlset>

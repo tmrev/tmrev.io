@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/799294-And Now Happiness...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/799294-And Now Happiness...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tW0Kjn1LHkcRdslOAKLI9atZXHd.jpg</image:loc
+      >
+      <image:caption
+        >A young man works out his hostility towards his deceased mother by
+        dressing up as her and asking strangers to scold him.</image:caption
+      >
+      <image:title>And Now Happiness...</image:title>
+    </image:image>
+  </url>
+</urlset>

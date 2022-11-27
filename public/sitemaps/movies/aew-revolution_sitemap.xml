@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913880-AEW Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913880-AEW Revolution</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5vYQCT571qqMcMb5sgzwpvBvadz.jpg</image:loc
+      >
+      <image:caption
+        >AEW Revolution is a professional wrestling pay-per-view (PPV) event
+        produced by All Elite Wrestling (AEW). The 2022 event is being held in
+        Orlando Florida at the Addition Financial Arena.</image:caption
+      >
+      <image:title>AEW Revolution</image:title>
+    </image:image>
+  </url>
+</urlset>

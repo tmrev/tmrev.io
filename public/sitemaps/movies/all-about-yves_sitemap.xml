@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/570258-All About Yves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/570258-All About Yves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/21HCuYOd3qm6KYMZxQGEXa0xNNP.jpg</image:loc
+      >
+      <image:caption
+        >Jerem decides to settle at his grandma’s place to compose his first
+        album. There he meets So, a mysterious investigator working on behalf of
+        the startup Digital Cool. She will persuade Jerem to try out Yves, a new
+        kind of smart refrigerator gifted with an IA.</image:caption
+      >
+      <image:title>All About Yves</image:title>
+    </image:image>
+  </url>
+</urlset>

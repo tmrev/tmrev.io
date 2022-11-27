@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/520321-An Anatomy of Melancholy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/520321-An Anatomy of Melancholy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wccV1OIeGvtP3ooYRWH3s26Xibx.jpg</image:loc
+      >
+      <image:caption
+        >"An Anatomy of Melancholy" is a cinematic meditation on mortality which
+        takes the form of a special anatomy book - one in the process of being
+        made. As hand-drawn illustrations appear slowly and painfully on the
+        pages of the book, showing us parts of a dissected human body, we
+        witness both the act of creation and a testament to our own passing.
+        Accompanying the simple but powerful images of the human body, we hear
+        the words of Keats' Ode on Melancholy: "Ay, in the very temple of
+        Delight. Veiled Melancholy has her sovran shrine..."</image:caption
+      >
+      <image:title>An Anatomy of Melancholy</image:title>
+    </image:image>
+  </url>
+</urlset>

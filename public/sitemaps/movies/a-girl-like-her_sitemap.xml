@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/325113-A Girl Like Her</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/325113-A Girl Like Her</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1jLewqKtMcoGaWHbxdRwUl9ND1B.jpg</image:loc
+      >
+      <image:caption
+        >Sophomore year has been a nightmare for Jessica Burns. Relentlessly
+        harassed by her former friend Avery Keller, Jessica doesn't know what
+        she did to deserve the abuse from one of South Brookdale High's most
+        popular and beautiful students. But when a shocking event changes both
+        of their lives, a documentary film crew, a hidden digital camera, and
+        the attention of a reeling community begin to reveal the powerful truth
+        about A Girl Like Her.</image:caption
+      >
+      <image:title>A Girl Like Her</image:title>
+    </image:image>
+  </url>
+</urlset>

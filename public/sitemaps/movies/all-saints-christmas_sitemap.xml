@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1028176-All Saints Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1028176-All Saints Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ktt31lbOXH5arOprUB1KHhwcMPN.jpg</image:loc
+      >
+      <image:caption
+        >Lisette is a popular R&B singer who’s getting ready to travel home to
+        New Orleans for Christmas. When the media mistake a photo of her with
+        her music producer ex as an engagement announcement, her family insists
+        that he join her on the trip.</image:caption
+      >
+      <image:title>All Saints Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

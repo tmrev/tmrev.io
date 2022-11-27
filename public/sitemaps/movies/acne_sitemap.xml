@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71917-Acne</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71917-Acne</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2dC2qNbNSoGDNenGTKco9TPxKAD.jpg</image:loc
+      >
+      <image:caption
+        >At the age of 13, Rafael Bregman has already lost his virginity, but
+        has never kissed a girl. With his pimple-riddled face, his dysfunctional
+        family, and a lowered self-esteem, getting this much anticipated first
+        kiss proves trickier than expected. It's now time for Rafa to build up
+        some self confidence and attract the attention of his class mate,
+        Nicole...</image:caption
+      >
+      <image:title>Acne</image:title>
+    </image:image>
+  </url>
+</urlset>

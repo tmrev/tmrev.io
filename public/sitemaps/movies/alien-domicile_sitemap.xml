@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450642-Alien Domicile</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450642-Alien Domicile</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pmYjsnIgIjCigMjffecTfvbQAdI.jpg</image:loc
+      >
+      <image:caption
+        >Five government contractors wake up to find themselves contained under
+        the infamous Area 51. They are forced to confront a sinister government
+        experiment and a horrifying Alien host.</image:caption
+      >
+      <image:title>Alien Domicile</image:title>
+    </image:image>
+  </url>
+</urlset>

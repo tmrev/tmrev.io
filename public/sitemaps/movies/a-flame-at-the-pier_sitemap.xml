@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/135571-A Flame at the Pier</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/135571-A Flame at the Pier</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ckguGMiuErPJKQoBuwDM4Srf3O9.jpg</image:loc
+      >
+      <image:caption
+        >Takashi Fujiki stars as a rebel in this drama about life on the
+        Yokohama waterfront by New Wave director Masahiro Shinoda. The rebel
+        works as an errand boy for a shipping company and vents his frustrations
+        by plucking on the guitar. His interpretations of popular trends in
+        music are sometimes right-on, and sometimes not exactly. Bereft of his
+        guitar, the rebel's modes of expression are not as effective in
+        generating interest as the Yokohama docks themselves, a fascinating
+        world in their own right.</image:caption
+      >
+      <image:title>A Flame at the Pier</image:title>
+    </image:image>
+  </url>
+</urlset>

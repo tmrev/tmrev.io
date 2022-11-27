@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/680022-A Skeleton in the Closet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/680022-A Skeleton in the Closet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4NNyjfUy5IldHpEWaapwOuRH3F1.jpg</image:loc
+      >
+      <image:caption
+        >Manuel goes back to his hometown for his parents’ wedding anniversary,
+        but he actually wants to ask money to move to Denmark with his
+        boyfriend. Last time he saw his family, he came out of the closet. Since
+        then, their relationship became tense. Manuel’s plans get ruined when
+        his boyfriend dumps him.</image:caption
+      >
+      <image:title>A Skeleton in the Closet</image:title>
+    </image:image>
+  </url>
+</urlset>

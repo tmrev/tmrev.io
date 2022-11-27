@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/551387-A Boy and Sungreen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/551387-A Boy and Sungreen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aUhzHDnFRWN2LKAjuS0VcDCspE4.jpg</image:loc
+      >
+      <image:caption
+        >Bohee, a middle school student who lives with his mother learns one day
+        that his father is alive. Feeling betrayed by his own mother, Bohee runs
+        away from home and visits his half-sister Namhee with his best friend
+        Nokyang to collect clues about his father.</image:caption
+      >
+      <image:title>A Boy and Sungreen</image:title>
+    </image:image>
+  </url>
+</urlset>

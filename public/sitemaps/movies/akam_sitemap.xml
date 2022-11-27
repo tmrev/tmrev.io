@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/219437-Akam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/219437-Akam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ktsAFIai4fGizJMNYim8wEvkKyE.jpg</image:loc
+      >
+      <image:caption
+        >Srinivasan is a young architect. He is happy when he gets a good job
+        and a beautiful girlfriend, Tara. But then an accident disfigures him.
+        Tara leaves him and Srinivasan, now sans his confidence, withdraws into
+        his shell. Then he meets the beautiful Ragini who is willing to accept
+        him despite his disfigurement. They get married, but after a while, he
+        begins to doubt her true identity.</image:caption
+      >
+      <image:title>Akam</image:title>
+    </image:image>
+  </url>
+</urlset>

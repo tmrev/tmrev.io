@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545573-All the Gods in the Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545573-All the Gods in the Sky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1a1YQiCaTlhCql1o1bz12f2Mfit.jpg</image:loc
+      >
+      <image:caption
+        >30-year-old factory worker Simon lives a solitary existence on a
+        decrepit farm in the remote French countryside. Devoting his time to
+        caring for his sister Estelle, who was left severely disabled when a
+        childhood game went horribly wrong, Simon is plagued by guilt and
+        depression. But he sees a way out, looking to otherworldly forces as a
+        means of liberating both himself and his sister from the corporeal
+        prisons in which they are confined.</image:caption
+      >
+      <image:title>All the Gods in the Sky</image:title>
+    </image:image>
+  </url>
+</urlset>

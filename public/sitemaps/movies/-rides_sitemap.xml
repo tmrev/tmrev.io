@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381031-9 Rides</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381031-9 Rides</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jB5oAIdwEaq0fVTExcL26AuwHT4.jpg</image:loc
+      >
+      <image:caption
+        >An Uber driver gets word that his fiancé might be cheating on him on
+        New Years Eve and proceeds to give nine different groups of people rides
+        and they influence his decision on how he handles the
+        situation.</image:caption
+      >
+      <image:title>9 Rides</image:title>
+    </image:image>
+  </url>
+</urlset>

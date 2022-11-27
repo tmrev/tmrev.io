@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/356187-A Patch of Fog</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/356187-A Patch of Fog</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3uCl1EoSwBeSqvnBrKsSPPvfI6B.jpg</image:loc
+      >
+      <image:caption
+        >A university teacher gets caught shoplifting by a security guard, who
+        won’t let him go. He becomes his new best friend and says ‘I won’t call
+        the cops if you come and have a pint with me’. From there a twisted
+        romance of sorts unfolds.</image:caption
+      >
+      <image:title>A Patch of Fog</image:title>
+    </image:image>
+  </url>
+</urlset>

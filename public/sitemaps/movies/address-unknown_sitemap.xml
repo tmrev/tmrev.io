@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25650-Address Unknown</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25650-Address Unknown</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bs8Ev9ZLi4n3gKo23rhGI9InBDu.jpg</image:loc
+      >
+      <image:caption
+        >Romances end in blood and the frail hopes of individuals are torn apart
+        in a vile karmic continuity of colonialism, civil war and occupation.
+        After surviving Japanese colonization, Korea became the first war zone
+        of the Cold War. The legacy of war remains today in this divided
+        country.</image:caption
+      >
+      <image:title>Address Unknown</image:title>
+    </image:image>
+  </url>
+</urlset>

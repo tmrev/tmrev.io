@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/17157-Ace of Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/17157-Ace of Hearts</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3rpukaj6PutyrE3mhHYYU0jnd1n.jpg</image:loc
+      >
+      <image:caption
+        >Officer Daniel Harding is a distinguished member of the K-9 police
+        unit. His partner and best friend is Ace, a police dog. When Ace is
+        accused of mauling a suspect, an overzealous DA convinces police
+        authorities that Ace should be euthanized.</image:caption
+      >
+      <image:title>Ace of Hearts</image:title>
+    </image:image>
+  </url>
+</urlset>

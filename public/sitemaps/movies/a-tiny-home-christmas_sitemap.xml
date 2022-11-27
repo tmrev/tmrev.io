@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1029110-A Tiny Home Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1029110-A Tiny Home Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In order to save her family’s contracting business, Blair reluctantly
+        teams up with her ex-boyfriend and former co-star of a hit home design
+        reality show to build a tiny home for the unsheltered in the community,
+        rekindling old sparks in the process… and just in time for
+        Christmas.</image:caption
+      >
+      <image:title>A Tiny Home Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

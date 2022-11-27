@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/171433-A Century of Black Cinema</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/171433-A Century of Black Cinema</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hQGvyoipHKS9iPfr9XYQ7RU8z1Z.jpg</image:loc
+      >
+      <image:caption
+        >This film highlights moments in the long and rich African American
+        cinema history in relation to social and political events, and how it
+        affected Black viewers of the time.</image:caption
+      >
+      <image:title>A Century of Black Cinema</image:title>
+    </image:image>
+  </url>
+</urlset>

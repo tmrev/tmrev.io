@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/499556-An Elephant Sitting Still</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/499556-An Elephant Sitting Still</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bJfkDnsY9z9ohWdyzyCAqYZxbnS.jpg</image:loc
+      >
+      <image:caption
+        >In the northern Chinese city of Manzhouli, they say there is an
+        elephant that simply sits and ignores the world. Manzhouli becomes an
+        obsession for the protagonists of this film, a longed-for escape from
+        the downward spiral in which they find themselves.</image:caption
+      >
+      <image:title>An Elephant Sitting Still</image:title>
+    </image:image>
+  </url>
+</urlset>

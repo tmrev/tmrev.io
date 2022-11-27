@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/359483-Adidas Vs. Puma: The Brother's Feud</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/359483-Adidas Vs. Puma: The Brother's Feud</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tpONaTUC5J8DzoGZ0dKmRtENlwz.jpg</image:loc
+      >
+      <image:caption
+        >Two brothers start a sportswear company in the 1920s, hoping to make
+        the best shoes in the world. Their relationship deteriorates until they
+        become bitter rivals.</image:caption
+      >
+      <image:title>Adidas Vs. Puma: The Brother's Feud</image:title>
+    </image:image>
+  </url>
+</urlset>

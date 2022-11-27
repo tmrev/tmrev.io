@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699490-Anastasia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699490-Anastasia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lguRaJvaJ9FDtQdXMbXm181fkMX.jpg</image:loc
+      >
+      <image:caption
+        >Royal Ballet Principal Natalia Osipova dances the title role in Kenneth
+        MacMillan’s haunting ballet, to atmospheric music by Tchaikovsky and
+        Martinů. Anastasia tells the story of Anna Anderson who, following the
+        Russian Revolution and the murder of the royal family, claimed she was
+        the surviving Grand Duchess Anastasia. Many believed her to be an
+        imposter; others hoped she was Anastasia, a remnant of a lost world. A
+        powerful, psychological challenge for the lead dancer, Anastasia
+        explores one of the great historical mysteries of the 20th century, only
+        recently solved, and the distorting mirror of memory, time and
+        place.</image:caption
+      >
+      <image:title>Anastasia</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376009-A Perfect Chord</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376009-A Perfect Chord</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mVAWrA75XjMPah4HcORREoAss5U.jpg</image:loc
+      >
+      <image:caption
+        >Cadence has an incredible gift for music. The only problem is no one
+        knows it. She struggles to deal with the weight of expectations, as she
+        wrestles with her talent and the style of music her heart yearns to
+        play.</image:caption
+      >
+      <image:title>A Perfect Chord</image:title>
+    </image:image>
+  </url>
+</urlset>

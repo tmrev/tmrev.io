@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19828-10 Attitudes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19828-10 Attitudes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4xp8dLYDrT8E0MmxwD8F9DJDZai.jpg</image:loc
+      >
+      <image:caption
+        >A Jewish man discovers his boyfriend of 10 years has been cheating on
+        him, and decides to embark on a dating spree.</image:caption
+      >
+      <image:title>10 Attitudes</image:title>
+    </image:image>
+  </url>
+</urlset>

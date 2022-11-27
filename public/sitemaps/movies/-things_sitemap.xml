@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416772-3 Things</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416772-3 Things</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3rjJax1eqaSwmYZMB9AcvseUMsF.jpg</image:loc
+      >
+      <image:caption
+        >Before entering the witness protection program, bank robber Mikael
+        demands 3 things from the police. 3 things that cast a whole new light
+        on the robbery he and his partners have been jailed for.</image:caption
+      >
+      <image:title>3 Things</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/738168-A Dark Path</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/738168-A Dark Path</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oA9BhUFjCwhME0Q9xgUSIGV1pf5.jpg</image:loc
+      >
+      <image:caption
+        >On their way home from a party in eastern Europe, sisters Abi and Lily
+        get lost. With no signal and an unreliable GPS, they try to navigate
+        their way out using road signs. Along a narrow road, through a deep
+        forest, their front tire suddenly blows out. With no spare or cell
+        service, they are completely cut off. Soon they discover that this is no
+        ordinary forest and there is a reason no cars come up here, for the
+        locals know of what lives deep in the woods and if they’re woken, there
+        is nowhere to run.</image:caption
+      >
+      <image:title>A Dark Path</image:title>
+    </image:image>
+  </url>
+</urlset>

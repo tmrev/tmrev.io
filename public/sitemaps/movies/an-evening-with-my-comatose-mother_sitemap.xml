@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/168405-An Evening With My Comatose Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/168405-An Evening With My Comatose Mother</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Dorothy Pritchard thought it would be easy: Housesit for the Poe's on
+        Halloween while making out with her hot boyfriend. But when the Poe's
+        comatose mother ends up needing a bit of babysitting, Dorothy's night
+        just went from good to bad... and it's about to get worse after she
+        discovers she'll be spending it with the hosts of hell.</image:caption
+      >
+      <image:title>An Evening With My Comatose Mother</image:title>
+    </image:image>
+  </url>
+</urlset>

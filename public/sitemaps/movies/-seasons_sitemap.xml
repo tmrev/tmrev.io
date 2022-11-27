@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/433180-66 Seasons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/433180-66 Seasons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5szgPvHu3nio70YyvySEM74FY7k.jpg</image:loc
+      >
+      <image:caption
+        >A documentary film about the Kosice swimming pool where history came to
+        bathe. Seen through several stories which unfolded between the years
+        1936 and 2002, the film captures 66 seasons at the popular swimming
+        pool, and the same number of years in the history of Central and Eastern
+        Europe.</image:caption
+      >
+      <image:title>66 Seasons</image:title>
+    </image:image>
+  </url>
+</urlset>

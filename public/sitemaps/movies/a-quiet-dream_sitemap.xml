@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416727-A Quiet Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416727-A Quiet Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rQgTNLPtucpInmkjMDrx9FgCZtw.jpg</image:loc
+      >
+      <image:caption
+        >They’re losers, but nice ones. Every day they sit at Yeri’s bar,
+        smitten by the young Chinese-Korean woman. Yeri doesn’t have a
+        preference. To her, they are equally sweet: Jongbin, a milk-drinking
+        epileptic, Ikjune, a former petty criminal, and the introverted Jungbum,
+        who fled from North Korea.</image:caption
+      >
+      <image:title>A Quiet Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

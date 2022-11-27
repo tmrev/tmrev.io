@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/436338-A Warrior's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/436338-A Warrior's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jH0YgldNGyHJQNoTsrBoGETMYJg.jpg</image:loc
+      >
+      <image:caption
+        >A Warrior's Dream is a 3D animated short film with photorealistic
+        visual style. The length of the film is 3'18' .The story is about a
+        martial artist's combat with his imaginary opponent. The martial artist
+        finally realized that the mightiest opponent is himself. The film ends
+        with Bruce Lee's calligraphy 'Walk On'. Thus the director wishes Donnie
+        Yen can walk on as a martial artist like Bruce Lee, the idol of Donnie
+        Yen himself.</image:caption
+      >
+      <image:title>A Warrior's Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/878111-A Christmas Number One</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/878111-A Christmas Number One</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg</image:loc
+      >
+      <image:caption
+        >Meg, a music manager, travels from New York to London to manage a boy
+        band, Five Together, and find them a Christmas number one to bolster
+        their flagging career. She finds a song on the internet posted by an
+        ailing thirteen-year-old girl, Nina, and tries to obtain permission to
+        have the song re-recorded by Five Together, but she discovers she has
+        competition from the songwriter, Nina’s uncle Blake. What follows is a
+        romantic comedy about two worlds colliding – with a young woman at the
+        centre who desperately wants her uncle to find love and for his song to
+        hit the number one spot by Christmas Day.</image:caption
+      >
+      <image:title>A Christmas Number One</image:title>
+    </image:image>
+  </url>
+</urlset>

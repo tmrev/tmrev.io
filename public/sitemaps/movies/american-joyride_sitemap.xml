@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/254282-American Joyride</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/254282-American Joyride</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ipBbOIg67jrx9TRG9MKr0L9glGd.jpg</image:loc
+      >
+      <image:caption
+        >A down on their luck couple from South Georgia go on the run to get the
+        money to repay a gambling debt, and decide to film their escapade, in
+        hopes of selling their 'reality movie' to Hollywood for a quick buck.
+        However, the danger becomes very real when their misguided foray into
+        drug dealing does not go as planned, and they quickly find out they are
+        in over their heads.</image:caption
+      >
+      <image:title>American Joyride</image:title>
+    </image:image>
+  </url>
+</urlset>

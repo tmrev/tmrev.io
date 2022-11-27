@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/938173-A Close Embrace</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/938173-A Close Embrace</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >About the relationship of a man and a woman who, despite the trials
+        that fell to their lot, even in adulthood managed to maintain a taste
+        for life and faith in love. Their feelings have survived the pain of
+        loss and separation, but still have not lost their strength. And
+        although at first the characters try to hide their emotions and
+        experiences, deceive not only each other, but also themselves, as a
+        result, love wins and puts everything in its place...</image:caption
+      >
+      <image:title>A Close Embrace</image:title>
+    </image:image>
+  </url>
+</urlset>

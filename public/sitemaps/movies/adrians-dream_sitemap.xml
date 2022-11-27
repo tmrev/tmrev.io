@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/508364-Adrian's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/508364-Adrian's Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/joZvBy7CBEHvCpBiAye7vt6CCfT.jpg</image:loc
+      >
+      <image:caption
+        >Adrian is living his dream. Since early childhood he has wanted to be a
+        ballet star. The elite state ballet school in Berlin, however, is tough
+        and Adrian's father, a bulldozer operator, doesn't understand his son's
+        goals at all. For eight years, from Adrian's childhood through puberty,
+        Manuel Fenn accompanied him on his arduous journey.</image:caption
+      >
+      <image:title>Adrian's Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

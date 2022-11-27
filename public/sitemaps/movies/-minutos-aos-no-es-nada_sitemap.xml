@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/812780-2 Minutos: 20 años no es nada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/812780-2 Minutos: 20 años no es nada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fkbNNJcRVEvm9doUEEtKOiJlup1.jpg</image:loc
+      >
+      <image:caption
+        >2 Minutos reviews his career in a live show framed in the celebrations
+        for the twenty years of the band. Registered on August 25, 2007 at the
+        Obras Stadium, Buenos Aires, Argentina.</image:caption
+      >
+      <image:title>2 Minutos: 20 años no es nada</image:title>
+    </image:image>
+  </url>
+</urlset>

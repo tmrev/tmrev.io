@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/985147-AMARGASM</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/985147-AMARGASM</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/87Cz90Pk6JnDH8r2FYYvn7KH1Jd.jpg</image:loc
+      >
+      <image:caption
+        >"This (piece of) work was produced as thesis film project. I shot by
+        8mm film camera and printed it to 16 mm film by very old optical
+        printer. I expressed a theme called “opposition”, “fusion”, and “ruin”
+        represented by multiple exposure."</image:caption
+      >
+      <image:title>AMARGASM</image:title>
+    </image:image>
+  </url>
+</urlset>

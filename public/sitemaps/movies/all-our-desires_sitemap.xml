@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71179-All Our Desires</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71179-All Our Desires</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wg7LsueKucrGJNA1tjocsQuyJw4.jpg</image:loc
+      >
+      <image:caption
+        >Claire and Stéphane are two Lyon-based judges who could hardly be more
+        different. She is young and enthusiastic, committed to helping those
+        unfortunates who find themselves in debt. He is older, wiser, but
+        disillusioned with his work and his life. Under Claire’s influence,
+        Stéphane discovers a new lease of life and at last finds a cause that is
+        worth fighting for...</image:caption
+      >
+      <image:title>All Our Desires</image:title>
+    </image:image>
+  </url>
+</urlset>

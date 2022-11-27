@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/473881-Addictions for a Happy Family</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/473881-Addictions for a Happy Family</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z03U4V07y3teOxWYUyVzo3VoWRY.jpg</image:loc
+      >
+      <image:caption
+        >Mariana, a thirty-year-old woman, is hidden in a coats room, during a
+        Christmas party. A distant cousin discovers her and they establish a
+        relationship where some painful truths about life and their family
+        history come to surface for the first time.</image:caption
+      >
+      <image:title>Addictions for a Happy Family</image:title>
+    </image:image>
+  </url>
+</urlset>

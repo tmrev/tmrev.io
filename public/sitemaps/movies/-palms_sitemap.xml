@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/58631-29 Palms</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/58631-29 Palms</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hDNBHNJ0pu1ey6FRtJ0MwcU0Mcf.jpg</image:loc
+      >
+      <image:caption
+        >When a bag filled with money goes missing from a casino, the Hitman
+        (Chris O'Donnell) must retrieve it. While he tracks the stash down, the
+        bag changes hands numerous times, finding its way to the Drifter (Jeremy
+        Davies) and the Waitress (Rachael Leigh Cook), among others. As the
+        bag's journey continues, more characters, including the Cop (Michael
+        Rapaport) and the Sheriff (Keith David), get drawn into the winding
+        crime tale, and the search becomes increasingly
+        desperate.</image:caption
+      >
+      <image:title>29 Palms</image:title>
+    </image:image>
+  </url>
+</urlset>

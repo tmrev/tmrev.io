@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545598-An Hour To Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545598-An Hour To Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/NzFApOshG0JslkOMJGOs9xzPd9.jpg</image:loc
+      >
+      <image:caption
+        >Two assassins-for-hire have an hour to kill (so to speak) before their
+        next hit. To help pass the time, they entertain themselves by regaling
+        horror stories to one another. With bizarre titles such as "Valkyrie's
+        Bunker" "Assacre" and "Hog Hunters" - which hit-man's story will be
+        deemed most disturbing when all is said and done?</image:caption
+      >
+      <image:title>An Hour To Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

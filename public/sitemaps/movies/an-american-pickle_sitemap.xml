@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/628917-An American Pickle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/628917-An American Pickle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg</image:loc
+      >
+      <image:caption
+        >An immigrant worker at a pickle factory is accidentally preserved for
+        100 years and wakes up in modern day Brooklyn. He learns his only
+        surviving relative is his great grandson, a computer coder who he can’t
+        connect with.</image:caption
+      >
+      <image:title>An American Pickle</image:title>
+    </image:image>
+  </url>
+</urlset>

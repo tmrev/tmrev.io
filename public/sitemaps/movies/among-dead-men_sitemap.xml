@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73107-Among Dead Men</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73107-Among Dead Men</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/52PBps3GMra3DXnxyICi0vuVsHN.jpg</image:loc
+      >
+      <image:caption
+        >Bobby Delgado, undefeated MMA World Champion is incarcerated for eight
+        years after accidentally killing his opponent. During this period of
+        purgatory, Bobby experiences a paranormal 'life changing' event that
+        will dictate his future path to redemption. Infuriated by the financial
+        loss and the death of his master fighter, Jarvis Sweet swears vengeance
+        on Delgado and finds himself a new hitter in the form of Wade Bull, a
+        vicious ex underworld enforcer with killing skills few men can
+        match.</image:caption
+      >
+      <image:title>Among Dead Men</image:title>
+    </image:image>
+  </url>
+</urlset>

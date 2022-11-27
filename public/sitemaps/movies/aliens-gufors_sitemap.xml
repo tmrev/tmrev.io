@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/472493-Aliens & Gufors</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/472493-Aliens & Gufors</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/QNkOZWXhSxEwPsqwjqFZlzDASN.jpg</image:loc
+      >
+      <image:caption
+        >Three aspiring ufologists set up a zany UFO shop (Global Unidentified
+        Flying Object Research and Services) and unwittingly ignite the biggest
+        UFO encounter since Roswell.</image:caption
+      >
+      <image:title>Aliens & Gufors</image:title>
+    </image:image>
+  </url>
+</urlset>

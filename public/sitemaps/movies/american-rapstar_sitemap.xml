@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/682744-American Rapstar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/682744-American Rapstar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/n9cU50Y7c6wAgvwgXGoTySa9daa.jpg</image:loc
+      >
+      <image:caption
+        >A new scene of troubled, lo-fi young rappers have emerged from Trump’s
+        America, utilizing the SoundCloud streaming platform to quickly become
+        the most culturally disruptive force in hip hop, shocking the world with
+        their rambunctious antics, prescription drug use, facial tattoos, and
+        rebellious punk energy. What do these newly minted millionaire artists
+        say about the state of youth culture today and the future of the music
+        streaming economy? We examine the SoundCloud rap scene’s biggest stars
+        from within the culture as well placing them in the broader musical
+        context in an attempt to understand how we arrived here and where we are
+        headed.</image:caption
+      >
+      <image:title>American Rapstar</image:title>
+    </image:image>
+  </url>
+</urlset>

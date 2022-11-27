@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1031908-A Beautiful Wildflower Meadow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1031908-A Beautiful Wildflower Meadow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/78glSgivbuEq2HQQmqAPKHMkiN0.jpg</image:loc
+      >
+      <image:caption
+        >Landscape architect Emil is fighting an uneven battle with those
+        indifferent to the beauty of nature. He is trying to be a good father,
+        but his neurotic rigidity pushes him into a spiral of absurd
+        events.</image:caption
+      >
+      <image:title>A Beautiful Wildflower Meadow</image:title>
+    </image:image>
+  </url>
+</urlset>

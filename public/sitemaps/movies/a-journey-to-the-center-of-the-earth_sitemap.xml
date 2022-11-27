@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/277341-A Journey to the Center of the Earth</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/277341-A Journey to the Center of the Earth</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qAv3qaTDThfxMR9TOot37698imZ.jpg</image:loc
+      >
+      <image:caption
+        >Following the instructions on a mysterious parchment, Prof. Lindenbrock
+        and his companion, Alex, discover and explore the center of the Earth, a
+        mysterious place full of dangerous electrical storms, prehistoric
+        reptiles and swamp monsters. Based on author Jules Verne's fantasy
+        novel, this animated adventure follows the explorers' struggles to
+        survive and prove their findings to the rest of the
+        world.</image:caption
+      >
+      <image:title>A Journey to the Center of the Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

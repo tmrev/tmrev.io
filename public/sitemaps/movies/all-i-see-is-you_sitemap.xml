@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/345923-All I See Is You</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/345923-All I See Is You</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg</image:loc
+      >
+      <image:caption
+        >A blind woman's relationship with her husband changes when she regains
+        her sight and discovers disturbing details about
+        themselves.</image:caption
+      >
+      <image:title>All I See Is You</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/76784-All Stars 2: Old Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/76784-All Stars 2: Old Stars</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uw4gKQiU49mkEUPGWqllGASHD2m.jpg</image:loc
+      >
+      <image:caption
+        >In All Stars 2 Old Stars, the unexpected wedding of one of the boys
+        means they treat themselves to an ‘old-fashioned training camp’ in the
+        form of a long weekend in Barcelona. The match between Barcelona and
+        Real Madrid is meant to be the high point of the trip. But of course not
+        everything goes according to plan for the Swift Boys.</image:caption
+      >
+      <image:title>All Stars 2: Old Stars</image:title>
+    </image:image>
+  </url>
+</urlset>

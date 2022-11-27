@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/913786-All Madden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/913786-All Madden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sAtcjLD75xttkA328IJcJWNFGbq.jpg</image:loc
+      >
+      <image:caption
+        >Centered largely on the 30 years after his Hall of Fame coaching
+        career, this FOX Sports documentary explores football icon John Madden’s
+        extraordinary impact on America’s most popular sport, the indelible mark
+        he made on broadcast television and how he revolutionized the video game
+        industry.</image:caption
+      >
+      <image:title>All Madden</image:title>
+    </image:image>
+  </url>
+</urlset>

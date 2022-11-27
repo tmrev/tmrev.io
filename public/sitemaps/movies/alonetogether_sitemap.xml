@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/576225-Alone/Together</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/576225-Alone/Together</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nTXH7zhS2qBT9VJBE3bnqlK86dT.jpg</image:loc
+      >
+      <image:caption
+        >Christine an Art Studies major student at University of the Philippines
+        Diliman a smart and very ambitious who is in a relationship with a
+        Biology student at University of Santo Tomas, Raf a very total opposite
+        character of Christine.</image:caption
+      >
+      <image:title>Alone/Together</image:title>
+    </image:image>
+  </url>
+</urlset>

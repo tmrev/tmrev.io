@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/766119-Adversity Raid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/766119-Adversity Raid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cJuwap66yvMFSa8faWx1nYPSFVm.jpg</image:loc
+      >
+      <image:caption
+        >The film is a sequel to "Out of Bullets," and tells the story of Boss,
+        who is released from prison, and Echo, who leaves his post and takes on
+        a new mission to solve a thorny problem with his former commander "The
+        General," unaware that they have walked into a trap and are fighting to
+        the death against trust and betrayal.</image:caption
+      >
+      <image:title>Adversity Raid</image:title>
+    </image:image>
+  </url>
+</urlset>

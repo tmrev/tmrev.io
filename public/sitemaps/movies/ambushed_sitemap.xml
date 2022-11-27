@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/216541-Ambushed</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/216541-Ambushed</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/r7BKxa5auOnvbEMD1SNaQObQ5Nn.jpg</image:loc
+      >
+      <image:caption
+        >In the frenetic underbelly of Los Angeles, Agent Maxwell closes in on
+        an international cocaine smuggling operation run by criminal mastermind
+        Vincent Camastra. When Agent Beverly Royce goes undercover with the drug
+        dealers and finds herself deeper then she can handle - the case becomes
+        personal for Maxwell who has to combat ruthless killers and dirty cops
+        in an all-out action filled finale to bring the criminals to
+        justice.</image:caption
+      >
+      <image:title>Ambushed</image:title>
+    </image:image>
+  </url>
+</urlset>

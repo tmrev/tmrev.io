@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/492963-American Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/492963-American Moon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rWNn2wm1sbAxoAIjPbrFO64E9uj.jpg</image:loc
+      >
+      <image:caption
+        >Has man really been to the moon? It’s been 50 years, and the debate
+        rages on. For the firs time, a film compiles in a single piece of work,
+        all the best evidence in favor of the moon landings and the evidence
+        contrary to them. For the first time we can also analyze the Apollo
+        pictures in detail, with the aid of some among the top photographers in
+        the world. What was the Apollo project really? The biggest achievement
+        in the history of mankind, or the biggest fakery of all times, watched
+        on live television by more than half a billion people?</image:caption
+      >
+      <image:title>American Moon</image:title>
+    </image:image>
+  </url>
+</urlset>

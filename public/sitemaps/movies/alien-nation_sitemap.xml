@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10128-Alien Nation</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10128-Alien Nation</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2wEyQkFXX6ReyW44YQa1kLQYkCg.jpg</image:loc
+      >
+      <image:caption
+        >A few years from now, Earth will have the first contact with an alien
+        civilisation. These aliens, known as Newcomers, slowly begin to be
+        integrated into human society after years of quarantine.</image:caption
+      >
+      <image:title>Alien Nation</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/73368-Air Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/73368-Air Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5AZAIVhkhYkkcOxHe3T82BCBu9F.jpg</image:loc
+      >
+      <image:caption
+        >When a Marine Colonel orders his men to massacre a village they were
+        sent to rescue some hostages but when they found them dead they decide
+        to get some payback. Upon returning to the States the Colonel would be
+        court-martialed and made a plea agreement wherein all the blame is on
+        him and his men would be discharged and receive any benefits they're
+        entitled. But the General presiding over his trial chooses not to agree
+        to the agreement and throws the book at the Colonel and has his men
+        dishonorably discharged thus eliminating all their
+        benefits.</image:caption
+      >
+      <image:title>Air Rage</image:title>
+    </image:image>
+  </url>
+</urlset>

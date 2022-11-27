@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/461291-A Tale of Two Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/461291-A Tale of Two Sisters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/62AnsTMuhw7mg192SEgOMFcIHrD.jpg</image:loc
+      >
+      <image:caption
+        >This brand new and exclusive three-part series delves into the
+        relationships of six prominent women from world history - sisters by
+        birth, all enjoying very different relationships with each other. The
+        series explores the fascinating but sometimes fractious lives of
+        aviation hero Amelia Earhart, Jackie Kennedy Onassis, and the infamous
+        Mitford sisters.</image:caption
+      >
+      <image:title>A Tale of Two Sisters</image:title>
+    </image:image>
+  </url>
+</urlset>

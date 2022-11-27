@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587693-A Christmas Prince: The Royal Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587693-A Christmas Prince: The Royal Baby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4RErLw0APt8qQiee0d8VCKasWwl.jpg</image:loc
+      >
+      <image:caption
+        >Christmas brings the ultimate gift to Aldovia: a royal baby. But first,
+        Queen Amber must help her family and kingdom by finding a missing peace
+        treaty.</image:caption
+      >
+      <image:title>A Christmas Prince: The Royal Baby</image:title>
+    </image:image>
+  </url>
+</urlset>

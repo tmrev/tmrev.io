@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83189-All She Can</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83189-All She Can</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sMMGcQqUb2ZBksdmrfQokDdcZWy.jpg</image:loc
+      >
+      <image:caption
+        >Luz Garcia, a high school senior in a forgotten Texas town, wants
+        something different than the options awaiting her after graduation.
+        She's earned a ticket out with admission to the University of Texas at
+        Austin, but she can't afford to go. Her one shot is a scholarship for
+        winning the State Powerlifting Championship. It's all or nothing for Luz
+        . . . until nothing stares her in the face.</image:caption
+      >
+      <image:title>All She Can</image:title>
+    </image:image>
+  </url>
+</urlset>

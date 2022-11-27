@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/210947-Afflicted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/210947-Afflicted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bMkRWgAvwe0XkpL8swG7UA4N4Q8.jpg</image:loc
+      >
+      <image:caption
+        >Two friends' tour of Europe takes a dark turn when one of them
+        contracts a mysterious illness. They race to find out what it is and how
+        to cure it before the sickness consumes him completely.</image:caption
+      >
+      <image:title>Afflicted</image:title>
+    </image:image>
+  </url>
+</urlset>

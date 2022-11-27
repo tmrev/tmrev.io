@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/704231-A Clear Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/704231-A Clear Shot</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cW4JsPlwKJOXh3ijnHJxOjia0jM.jpg</image:loc
+      >
+      <image:caption
+        >An electronics store erupts into chaos as four young Vietnamese gunmen
+        storm the premises, setting the stage for the largest hostage situation
+        in US history. Rick Gomez, SAC PD's top hostage negotiator, quickly
+        realizes that his job is not simply to talk down the gunman and keep
+        everyone safe, but must also juggle the politics of an arrogant sheriff
+        and a trigger-happy SWAT commander to prevent a national
+        tragedy.</image:caption
+      >
+      <image:title>A Clear Shot</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10241-A Tale of Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10241-A Tale of Winter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uHmgUZXl7qkgu97E5ruDetLyDPt.jpg</image:loc
+      >
+      <image:caption
+        >Felicie and Charles have a whirlwind holiday romance. Due to a mix-up
+        on addresses they lose contact, and five years later at Christmas-time
+        Felicie is living with her mother in a cold Paris with a daughter as a
+        reminder of that long-ago summer. For male companionship she oscillates
+        between hairdresser Maxence and the intellectual Loic, but seems unable
+        to commit to either as the memory of Charles and what might have been
+        hangs over everything.</image:caption
+      >
+      <image:title>A Tale of Winter</image:title>
+    </image:image>
+  </url>
+</urlset>

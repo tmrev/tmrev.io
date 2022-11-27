@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/917228-Aloha with Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/917228-Aloha with Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zjUFr6MHaRL9hpaJR7FMp7CwDnc.jpg</image:loc
+      >
+      <image:caption
+        >Gemma, a big city architect, must fly to the Hawaii in order to handle
+        the estate of her late Aunt. At her Aunt's request, she must first
+        renovate the house. Ben, a handsome country-boy contractor helps her
+        revive the home and in the process revitalizes Gemma.</image:caption
+      >
+      <image:title>Aloha with Love</image:title>
+    </image:image>
+  </url>
+</urlset>

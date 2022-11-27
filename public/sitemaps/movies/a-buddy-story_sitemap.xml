@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/107863-A Buddy Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/107863-A Buddy Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ooUROEv4VGMCNo0wNm64bonTpuA.jpg</image:loc
+      >
+      <image:caption
+        >Buddy Gilbert (Gavin Bellour) is a struggling musician living in NYC.
+        He spends his days touring the northeast with his pet turtle, playing
+        community centers, dive bars and coffee shops because, he says, it beats
+        a 9-to-5. One day, Buddy overhears his neighbor Susan (Elisabeth Moss)
+        get in a particularly bad argument with her boyfriend and, although he
+        barely knows her, he finds himself taking her out for some cheer-me-up
+        ice cream.</image:caption
+      >
+      <image:title>A Buddy Story</image:title>
+    </image:image>
+  </url>
+</urlset>

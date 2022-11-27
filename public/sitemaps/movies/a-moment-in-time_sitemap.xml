@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/571331-A Moment in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/571331-A Moment in Time</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qbGpPQPlBxaZvnD7YRVqM1UH6oO.jpg</image:loc
+      >
+      <image:caption
+        >Documentary about the experience of the Chinese in San Francisco's
+        Chinatown, told through the films they loved. This retrospective film
+        retells the immigrant story, and revives the emotions felt by audiences
+        in Chinatown's theaters. An uplifting reflection on how cinema shaped
+        the community, and a tribute to the Chinatown theater
+        movie-goers.</image:caption
+      >
+      <image:title>A Moment in Time</image:title>
+    </image:image>
+  </url>
+</urlset>

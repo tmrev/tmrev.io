@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13199-American Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13199-American Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg</image:loc
+      >
+      <image:caption
+        >During his 18 years in Folsom Prison, street-gang leader Santana rules
+        over all the drug-and-murder activities behind bars. Upon his release,
+        Santana goes back to his old neighborhood, intending to lead a peaceful,
+        crime-free life. But his old gang buddies force him back into his old
+        habits.</image:caption
+      >
+      <image:title>American Me</image:title>
+    </image:image>
+  </url>
+</urlset>

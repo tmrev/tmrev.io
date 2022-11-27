@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/877669-A World For Julius</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/877669-A World For Julius</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tcXyHceQxSvViCKgI8XvGV8rDqp.jpg</image:loc
+      >
+      <image:caption
+        >Julius is an upper-class boy in Lima in the 1940s. He lives in a palace
+        with his aristocratic family and extensive servants. As the years go by,
+        Julius will gradually lose his innocence, discovering and never
+        understanding an adult world full of inequalities and
+        injustices.</image:caption
+      >
+      <image:title>A World For Julius</image:title>
+    </image:image>
+  </url>
+</urlset>

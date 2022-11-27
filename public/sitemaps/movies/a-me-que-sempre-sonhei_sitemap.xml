@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/935438-A Mãe que Sempre Sonhei</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/935438-A Mãe que Sempre Sonhei</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t2OULqhig6kuNjmUs7X61km1XbP.jpg</image:loc
+      >
+      <image:caption
+        >João's mother mysteriously disappeared when he was a baby. Having grown
+        up without the guidance of a mother, João ends up living in Porto, where
+        he meets a girl with whom he falls in love. Despite this, bad influences
+        make João enter a cycle of self-destruction.</image:caption
+      >
+      <image:title>A Mãe que Sempre Sonhei</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/698102-63 Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/698102-63 Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gM2rFuG7woFMPpvh7WxGJ47HdYn.jpg</image:loc
+      >
+      <image:caption
+        >Director Michael Apted revisits the same group of British-born adults
+        after a 7 year wait. The subjects are interviewed as to the changes that
+        have occurred in their lives during the last seven years.</image:caption
+      >
+      <image:title>63 Up</image:title>
+    </image:image>
+  </url>
+</urlset>

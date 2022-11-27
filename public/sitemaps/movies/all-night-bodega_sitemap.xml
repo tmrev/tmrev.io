@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/207494-All Night Bodega</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/207494-All Night Bodega</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hikYIhQPLhPwdehgd81bhLH8N5c.jpg</image:loc
+      >
+      <image:caption
+        >spSeeking a better life for herself, 15-year-old Venus breaks away from
+        her Spanish Harlem neighborhood and gets caught up in a world of
+        violence and crime. While on the run, she meets a cop whose
+        father-figure role may save the troubled youngster.</image:caption
+      >
+      <image:title>All Night Bodega</image:title>
+    </image:image>
+  </url>
+</urlset>

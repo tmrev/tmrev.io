@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15338-Ace Ventura Jr: Pet Detective</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15338-Ace Ventura Jr: Pet Detective</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wnLBkPxGn2w8GwHw44MDDFX4R95.jpg</image:loc
+      >
+      <image:caption
+        >"I will try to be normal" 12-year-old Ace Ventura Jr. promises. Thats
+        cool, except whats normal for him is finding missing mutts, kidnapped
+        kitties or gone gators and creating hilarious chaos every step of the
+        way.</image:caption
+      >
+      <image:title>Ace Ventura Jr: Pet Detective</image:title>
+    </image:image>
+  </url>
+</urlset>

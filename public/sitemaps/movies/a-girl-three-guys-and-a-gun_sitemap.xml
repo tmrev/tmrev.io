@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82073-A Girl, Three Guys, and a Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82073-A Girl, Three Guys, and a Gun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Three smalltown friends looking to leave their troubles behind come up
+        with a robbery scheme to fund their trip to the big city. But as their
+        plan goes awry and the authorities become involved, they are left with
+        no other alternative but to take hostage a pair of traveling young
+        lovebirds, with no shortage of problems of their own.</image:caption
+      >
+      <image:title>A Girl, Three Guys, and a Gun</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/641445-Anachronox: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/641445-Anachronox: The Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/e7LTU7YfwwpsnYgQ8aQrL3J6GVN.jpg</image:loc
+      >
+      <image:caption
+        >Based on the computer role-playing game (RPG) of the same name,
+        Anachronox: The Movie is a feature-length "machinima" motion picture. In
+        the 2002 Annual Machinima Awards, Anachronox was awarded first place for
+        best picture, first place for best writing, first place for best
+        technical achievement, first place for best visual design, and first
+        place for best editing.</image:caption
+      >
+      <image:title>Anachronox: The Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

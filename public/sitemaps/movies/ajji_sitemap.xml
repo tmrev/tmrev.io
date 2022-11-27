@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/482154-Ajji</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/482154-Ajji</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/phifLaxIJWttqPM3wcgeHiVDtD.jpg</image:loc
+      >
+      <image:caption
+        >After her 10-year-old granddaughter Manda is brutally raped by a serial
+        sex offender, the young girl's Ajji sets out to seek revenge, after
+        custodians of law refuse to bring the rapist to book, thanks to his
+        influential political background.</image:caption
+      >
+      <image:title>Ajji</image:title>
+    </image:image>
+  </url>
+</urlset>

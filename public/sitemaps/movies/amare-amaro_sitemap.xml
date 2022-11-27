@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/591224-Amare Amaro</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/591224-Amare Amaro</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/a6pyxPlTOMwkZtNTjGEWu2ztfIA.jpg</image:loc
+      >
+      <image:caption
+        >Gaetano decided that he would bury his deceased brother with his family
+        at all costs, even if it meant defying the laws of his Sicilian village
+        and putting himself and his family in danger.</image:caption
+      >
+      <image:title>Amare Amaro</image:title>
+    </image:image>
+  </url>
+</urlset>

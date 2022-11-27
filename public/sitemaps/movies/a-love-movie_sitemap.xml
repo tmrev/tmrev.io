@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83185-A Love Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83185-A Love Movie</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKWbkCI1f2fvafoK1bnptzDEMmc.jpg</image:loc
+      >
+      <image:caption
+        >Three friends, Hilda, Matilda and Gaspar, meet in a rundown downtown
+        apartment during a weekend to chat, drink and experience
+        pleasure.</image:caption
+      >
+      <image:title>A Love Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

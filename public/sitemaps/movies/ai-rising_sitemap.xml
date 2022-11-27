@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/505914-A.I. Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/505914-A.I. Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aXosp6MFBxYi4m6ZmE4u1auReHc.jpg</image:loc
+      >
+      <image:caption
+        >On a lonely mission to Alpha Centauri, Milutin is teamed up with Nimani
+        1345, a female cyborg designed to fulfill his every need. At first
+        thrilled to be able to control her, Sebastian grows tired of having his
+        desires fulfilled so easily. Longing for human intimacy, Sebastian
+        alters Nimani's programmed responses, but in doing so he risks the
+        mission's security — and his own life.</image:caption
+      >
+      <image:title>A.I. Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

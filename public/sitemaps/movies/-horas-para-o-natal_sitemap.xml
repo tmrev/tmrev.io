@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/714511-10 Horas Para o Natal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/714511-10 Horas Para o Natal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zQF84E6xXSPur1gEbyKJ2P1BECp.jpg</image:loc
+      >
+      <image:caption
+        >Three siblings devise a plan to get their divorced parents to spend
+        Christmas together.</image:caption
+      >
+      <image:title>10 Horas Para o Natal</image:title>
+    </image:image>
+  </url>
+</urlset>

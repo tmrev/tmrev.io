@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/652295-A Star Named Sonja</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/652295-A Star Named Sonja</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aBNA751OTxQLRPcf2O8AG6l603k.jpg</image:loc
+      >
+      <image:caption
+        >The rise and fall of the biggest star of travesty show in Prague in the
+        nineties. The film tells the story of a man with shocking sincerity and
+        openness in confession of two different personalities, woman and man
+        living in one body.</image:caption
+      >
+      <image:title>A Star Named Sonja</image:title>
+    </image:image>
+  </url>
+</urlset>

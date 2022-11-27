@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/334493-Aki no Kanade</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/334493-Aki no Kanade</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bl9Ahw3zEeGQ4XeHQnYjuEncjIf.jpg</image:loc
+      >
+      <image:caption
+        >Aki Miyagawa moved to Tokyo to pursue her dream to be a taiko drummer,
+        but had a hard time balancing her strict training regimen with her
+        part-time job. Now, after 15 years, she's returning to coach others for
+        a taiko festival.</image:caption
+      >
+      <image:title>Aki no Kanade</image:title>
+    </image:image>
+  </url>
+</urlset>

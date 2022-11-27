@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/860661-A European Journey to Encounter Miyazaki's
+      Works</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/860661-A European Journey to Encounter Miyazaki's
+      Works</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sWfR31GWIJc1yQ88Ko1v6DYYRAv.jpg</image:loc
+      >
+      <image:caption
+        >Actors Yui Natsukawa and Tetta Sugimoto travel Europe.</image:caption
+      >
+      <image:title
+        >A European Journey to Encounter Miyazaki's Works</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

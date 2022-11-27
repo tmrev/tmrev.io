@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30365-An Unreasonable Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30365-An Unreasonable Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nLrgi4TD6GLfJjzcWVfCmowPXLr.jpg</image:loc
+      >
+      <image:caption
+        >An Unreasonable Man is a 2006 documentary film that traces the life and
+        career of political activist Ralph Nader, the founder of modern consumer
+        protection. The film examines Nader's advocacy for auto safety features,
+        such as federally mandated seat belts and air bags, as well as his rise
+        to national prominence following an invasion of privacy lawsuit against
+        General Motors.</image:caption
+      >
+      <image:title>An Unreasonable Man</image:title>
+    </image:image>
+  </url>
+</urlset>

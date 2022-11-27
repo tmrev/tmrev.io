@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/216658-A Little Monastery in Tuscany</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/216658-A Little Monastery in Tuscany</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yEpdUPztMOnMjPwasl3YYYRKkr7.jpg</image:loc
+      >
+      <image:caption
+        >It is a brief documentary which records the life of five Augustinian
+        monks in the little monastery of Castelnuovo dell'Abate, a Tuscan
+        village, as well as the everyday life of people in the small town, from
+        farmers to meat-hackers, from wine-makers to wild boar
+        hunters.</image:caption
+      >
+      <image:title>A Little Monastery in Tuscany</image:title>
+    </image:image>
+  </url>
+</urlset>

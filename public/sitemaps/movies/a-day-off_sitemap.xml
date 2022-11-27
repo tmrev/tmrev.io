@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/267874-A Day Off</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/267874-A Day Off</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5udZmgmpYi35HBKqjlbzwWJcryt.jpg</image:loc
+      >
+      <image:caption
+        >With superb artistic sensibility, the film depicts the bleak reality
+        faced by Korea’s youth during the late 1960s, when the country was
+        hurtling toward the Constitutional revision enforced by President Park
+        Chung-hee to ensure the longevity of his government.</image:caption
+      >
+      <image:title>A Day Off</image:title>
+    </image:image>
+  </url>
+</urlset>

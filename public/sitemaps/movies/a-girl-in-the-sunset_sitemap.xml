@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/535125-A Girl in the Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/535125-A Girl in the Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o7BzM0q8UfuMG9OsXTSdmnjDaSh.jpg</image:loc
+      >
+      <image:caption
+        >Based on four early novellas by Noble Prize winner Yasunari Kawabata,
+        this omnibus of four short films are by emerging directors from the
+        second graduating class of the new Graduate School of Film and New Media
+        at Japan’s top art school, Tokyo National University of Fine Arts and
+        Music (Tokyo Geidai), where famed directors Takeshi Kitano and Kiyoshi
+        Kurosawa teach.</image:caption
+      >
+      <image:title>A Girl in the Sunset</image:title>
+    </image:image>
+  </url>
+</urlset>

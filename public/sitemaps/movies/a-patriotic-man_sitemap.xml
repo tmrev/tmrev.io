@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/264048-A Patriotic Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/264048-A Patriotic Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zkA3dD1KZqsrhirsSTdG3blwQoh.jpg</image:loc
+      >
+      <image:caption
+        >Every nation gets the heroes it deserves. A man with a special blood
+        type is used as a device for human doping athletes skiing national
+        team.</image:caption
+      >
+      <image:title>A Patriotic Man</image:title>
+    </image:image>
+  </url>
+</urlset>

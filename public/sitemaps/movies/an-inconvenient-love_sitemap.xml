@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1012906-An Inconvenient Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1012906-An Inconvenient Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/b4ktC7OCLXwnhcjNsHfmC7lipCd.jpg</image:loc
+      >
+      <image:caption
+        >Convenience store staff Ayef dreams of becoming an international
+        animator someday. Focused on her dream, she has no time for love until
+        she meets Manny, a young man who is up for anything, even contractual
+        flings. Both believing that love is just another inconvenience, they
+        agree to a convenient relationship that will expire on the month Ayef is
+        set to leave for Singapore. As her departure date nears, will Ayef and
+        Manny end their contractual love or will love end their inconvenient
+        beliefs?</image:caption
+      >
+      <image:title>An Inconvenient Love</image:title>
+    </image:image>
+  </url>
+</urlset>

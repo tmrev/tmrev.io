@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/853020-Am Rande der Arena</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/853020-Am Rande der Arena</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The movie is about the encounter of a man and a woman who meet for the
+        first time in a foreign city. Together they embark on a journey which
+        leads them to the edges, the peripheries of society, to places bloked
+        from our vision, to marginal zones, wasteland, ghettos, urban slums, or
+        the remnants of a dying rural culture.</image:caption
+      >
+      <image:title>Am Rande der Arena</image:title>
+    </image:image>
+  </url>
+</urlset>

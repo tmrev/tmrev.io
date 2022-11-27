@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/912550-American Experience: Victory in the
+      Pacific</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/912550-American Experience: Victory in the
+      Pacific</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The last year or so of the war in the Pacific during WWII. It picks up
+        at the point where the inevitability of an American victory seems
+        certain--it's only a matter of time. It then discusses the ferocity of
+        the Japanese defense, the American bombing campaign, the kamikaze, the
+        Emperor and his resistance to surrender and the American feelings
+        towards a negotiated peace.</image:caption
+      >
+      <image:title>American Experience: Victory in the Pacific</image:title>
+    </image:image>
+  </url>
+</urlset>

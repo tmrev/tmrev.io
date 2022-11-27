@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/501712-A Bird in the Bush</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/501712-A Bird in the Bush</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/runt4dhfMFGmhmETcZW8yHVJly9.jpg</image:loc
+      >
+      <image:caption
+        >Out-of-work college professor Grant Oldman gets more than he bargains
+        for when he brings an unknown woman to pose as his wife for a dinner
+        party. After a disastrous evening, Grant finds himself homeless and
+        unemployed with the unwanted task of supervising his unstable date that
+        has inadvertently kidnapped the key witness to a fatal mob massacre.
+        With federal agents hot on their trail, they must escort the witness to
+        safety and escape the city before the mafia can execute its deadly
+        plans.</image:caption
+      >
+      <image:title>A Bird in the Bush</image:title>
+    </image:image>
+  </url>
+</urlset>

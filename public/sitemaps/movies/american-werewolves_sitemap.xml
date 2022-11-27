@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/987853-American Werewolves</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/987853-American Werewolves</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3sk4Rm18vwvxh6zAlx0tIQnjp2s.jpg</image:loc
+      >
+      <image:caption
+        >Each year dozens of encounters with upright canids are reported in
+        North America. These beings often behave in similar ways with many
+        reports recounting a creature that is aggressive, ghastly, and
+        disturbing. While many theorize that the Dogman is some sort of
+        unidentified species of animal, many believe that what they were
+        confronted by was something else. Something more.</image:caption
+      >
+      <image:title>American Werewolves</image:title>
+    </image:image>
+  </url>
+</urlset>

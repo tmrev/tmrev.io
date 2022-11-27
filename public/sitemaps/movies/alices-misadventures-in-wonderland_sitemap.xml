@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/572926-Alice's Misadventures in Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/572926-Alice's Misadventures in Wonderland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zOSiHrOhFhUK6pdQ3OhGEYQdXSa.jpg</image:loc
+      >
+      <image:caption
+        >A contemporary remake of Lewis Carroll's classic "Alice's Adventures in
+        Wonderland", Alice finds herself bored and fed up with the world around
+        her. When she is offered the chance to know all the answers to all her
+        life's questions, she takes it, and falls deep into the demented world
+        of Wonderland.</image:caption
+      >
+      <image:title>Alice's Misadventures in Wonderland</image:title>
+    </image:image>
+  </url>
+</urlset>

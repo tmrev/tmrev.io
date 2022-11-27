@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/399579-Alita: Battle Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/399579-Alita: Battle Angel</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg</image:loc
+      >
+      <image:caption
+        >When Alita awakens with no memory of who she is in a future world she
+        does not recognize, she is taken in by Ido, a compassionate doctor who
+        realizes that somewhere in this abandoned cyborg shell is the heart and
+        soul of a young woman with an extraordinary past.</image:caption
+      >
+      <image:title>Alita: Battle Angel</image:title>
+    </image:image>
+  </url>
+</urlset>

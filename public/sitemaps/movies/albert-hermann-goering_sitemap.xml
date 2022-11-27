@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376971-Albert & Hermann Goering</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376971-Albert & Hermann Goering</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oBCgkTCjpubPcI1rKKqlcxr4KbV.jpg</image:loc
+      >
+      <image:caption
+        >Two brothers who could not have been more different. The eldest,
+        Hermann Göring (1893-1946), was a prominent member of the Nazi regime,
+        head of the German Air Force, and a war criminal. The youngest, Albert
+        Göring (1895-1966), opposed tyranny and was persecuted, but today he is
+        still unjustly forgotten, although he saved many lives while his brother
+        and his accomplices ravaged Europe.</image:caption
+      >
+      <image:title>Albert & Hermann Goering</image:title>
+    </image:image>
+  </url>
+</urlset>

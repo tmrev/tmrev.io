@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/852724-A Spark Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/852724-A Spark Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6D4zuSu9gkOsOki1KWl6tN0uQjE.jpg</image:loc
+      >
+      <image:caption
+        >A documentary film providing an exclusive and immersive look at the
+        process of Pixar Animation Studios filmmakers as they step into a
+        leadership role and strive to bring their uniquely personal SparkShorts
+        visions to the screen.</image:caption
+      >
+      <image:title>A Spark Story</image:title>
+    </image:image>
+  </url>
+</urlset>

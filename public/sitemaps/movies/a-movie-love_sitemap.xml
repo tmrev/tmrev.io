@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/622769-A Movie Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/622769-A Movie Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qqPanbVEj17mDvT7klQqoP4mfw2.jpg</image:loc
+      >
+      <image:caption
+        >A romantic comedy in a romantic comedy about love and how to build it.
+        He is romantic, shy. She is realistic, energetic. After twists and
+        turns, together they go home. While those credits are shown, he and she,
+        5 years later, end up watching the movie. They both met during the
+        filming of a movie he directed. Currently, they are a stable couple, but
+        going through a crisis.</image:caption
+      >
+      <image:title>A Movie Love</image:title>
+    </image:image>
+  </url>
+</urlset>

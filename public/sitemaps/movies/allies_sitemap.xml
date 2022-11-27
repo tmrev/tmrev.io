@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/302348-Allies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/302348-Allies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oIdmOkEkLqwNgaHnhzt723WZmld.jpg</image:loc
+      >
+      <image:caption
+        >August 1944 two months after D-Day, the Allies are advancing across
+        France. A team of British and American commandos are dropped behind
+        enemy lines on a secret mission to ambush a German Officer and steal
+        maps charting the location of the enemy artillery along the front
+        line.</image:caption
+      >
+      <image:title>Allies</image:title>
+    </image:image>
+  </url>
+</urlset>

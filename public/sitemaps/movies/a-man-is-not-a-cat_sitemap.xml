@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1036063-A Man is not a Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1036063-A Man is not a Cat</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4Lqdci1gCVmB2uxVIsDfPxlej1t.jpg</image:loc
+      >
+      <image:caption
+        >A woman gets into a fight with her boyfriend, concerning her lack of
+        humanism. Leaving him abruptly at the Santa Apolónia Station, she
+        strikes a conversation with an interesting homeless man whom she decides
+        to take home to just to show her boyfriend that she
+        cares.</image:caption
+      >
+      <image:title>A Man is not a Cat</image:title>
+    </image:image>
+  </url>
+</urlset>

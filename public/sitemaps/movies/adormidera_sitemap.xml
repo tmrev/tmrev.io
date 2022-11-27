@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/297460-Adormidera</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/297460-Adormidera</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1Ma8zFEzyOJkW3RL1JmPZOufzFL.jpg</image:loc
+      >
+      <image:caption
+        >Malta, the late 1300s. Five soldiers are returning home from battle.
+        Hungry and exhausted, they stumble upon a fort. What was meant to be a
+        one-night stopover rapidly escalades into a whirlwind of intrigue and an
+        epic sword fight for retribution. Will a beautiful woman change their
+        destiny? Or are they doomed to die in their ever quest to protect their
+        land against invaders?</image:caption
+      >
+      <image:title>Adormidera</image:title>
+    </image:image>
+  </url>
+</urlset>

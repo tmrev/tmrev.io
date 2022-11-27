@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324252-A Woman Like Me</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324252-A Woman Like Me</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xrWOXYAS7LaKb4oiyWOaybPnOwI.jpg</image:loc
+      >
+      <image:caption
+        >A WOMAN LIKE ME is a hybrid documentary that interweaves the real story
+        of director Alex Sichel, diagnosed with metastatic breast cancer in
+        2011, with the fictional story of Anna Seashell, who struggles to find
+        the glass half full when faced with the same diagnosis. The film follows
+        Alex as she uses her craft to explore what is foremost on her mind while
+        confronting a terminal disease: parenting, marriage, faith, life, and
+        death. When we are stuck between a rock and hard place, can our
+        imagination get us out?</image:caption
+      >
+      <image:title>A Woman Like Me</image:title>
+    </image:image>
+  </url>
+</urlset>

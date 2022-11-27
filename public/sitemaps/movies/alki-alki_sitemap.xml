@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/354803-Alki Alki</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/354803-Alki Alki</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zSRPJ6KhnkgGRnux4z7eXOSx3E4.jpg</image:loc
+      >
+      <image:caption
+        >Tobias and Flasche are childhood friends. However, their alcoholic
+        friendship is doing more harm than good to Tobias, who realizes he
+        should focus on his family and career. Everything changes when Tobias
+        tells this to Flasche.</image:caption
+      >
+      <image:title>Alki Alki</image:title>
+    </image:image>
+  </url>
+</urlset>

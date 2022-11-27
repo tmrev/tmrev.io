@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/48752-2012: Time for Change</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/48752-2012: Time for Change</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1MXvLCiB2zjX43wYasmjh2a1Yh6.jpg</image:loc
+      >
+      <image:caption
+        >2012: Time For Change is a documentary feature that presents ways to
+        transform our unsustainable society into a regenerative planetary
+        culture. This can be achieved through a personal and global change of
+        consciousness and the systemic implementation of ecological
+        design.</image:caption
+      >
+      <image:title>2012: Time for Change</image:title>
+    </image:image>
+  </url>
+</urlset>

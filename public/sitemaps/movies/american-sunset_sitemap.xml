@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/247987-American Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/247987-American Sunset</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >On a trip back to Canada to celebrate their fifth wedding anniversary,
+        Tom Marlow (Corey Haim) wakes to find his beloved wife missing. Their
+        vacation home - now a crime scene - is now littered with clues to his
+        wife's whereabouts. In order to ensure her safe return, Tom, now a
+        stranger in the land of his birth is forced to cooperate with the
+        practices of local authorities, the political rhetoric of the American
+        Embassy and the unorthodox methods of a Private Investigator he hired to
+        help him.</image:caption
+      >
+      <image:title>American Sunset</image:title>
+    </image:image>
+  </url>
+</urlset>

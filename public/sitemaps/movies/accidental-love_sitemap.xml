@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/316002-Accidental Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/316002-Accidental Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/znPsDmQVKW0BuBnaErIAPo49X3i.jpg</image:loc
+      >
+      <image:caption
+        >A small town waitress gets a nail accidentally lodged in her head
+        causing unpredictable behavior that leads her to Washington, DC. Sparks
+        fly when she meets a clueless young senator who takes up her cause - but
+        what happens when love interferes with what you stand
+        for?</image:caption
+      >
+      <image:title>Accidental Love</image:title>
+    </image:image>
+  </url>
+</urlset>

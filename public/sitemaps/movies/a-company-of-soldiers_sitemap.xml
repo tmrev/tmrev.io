@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/659103-A Company Of Soldiers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/659103-A Company Of Soldiers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kA15F0pwttuidcvPIui2u4PLWAL.jpg</image:loc
+      >
+      <image:caption
+        >In November 2004, Tom Roberts spent 30 days with the US Army in south
+        Baghdad. Filming started just after the Fallujah campaign was launched,
+        heralding reprisal ambushes. Travelling with the patrols, Roberts
+        witnessed the fatal escalation of tension.</image:caption
+      >
+      <image:title>A Company Of Soldiers</image:title>
+    </image:image>
+  </url>
+</urlset>

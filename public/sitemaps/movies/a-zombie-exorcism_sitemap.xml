@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/69736-A Zombie Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/69736-A Zombie Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tle7K5XCsWj3el7kQmapWRsR9ox.jpg</image:loc
+      >
+      <image:caption
+        >Opstandelsen brings the zombie apocalypse into the house of God.
+        Simon's three siblings gather at his funeral - where all hell breaks
+        loose as the undead rise from their graves, driving the siblings down
+        into the deep dark catacombs below the church. Surrounded by death, they
+        now have to face the congregation of zombies in order to escape the
+        house of God alive...</image:caption
+      >
+      <image:title>A Zombie Exorcism</image:title>
+    </image:image>
+  </url>
+</urlset>

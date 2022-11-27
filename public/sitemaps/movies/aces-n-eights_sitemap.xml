@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/19989-Aces 'N' Eights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/19989-Aces 'N' Eights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lmSyojTPQFhmPwkrnkgoapUe4dD.jpg</image:loc
+      >
+      <image:caption
+        >Already taking a gamble settling in the uncharted west, the peaceful
+        settlers of a town destined for railroad greatness suddenly find
+        themselves being ruthlessly gunned down. With no law and order to be
+        found, justice falls onto the shoulders of an elderly rancher and an
+        accomplished, but retired, gunslinger.</image:caption
+      >
+      <image:title>Aces 'N' Eights</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30262-1 Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30262-1 Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qZkSK03KICkyreBhIv764AmtAL3.jpg</image:loc
+      >
+      <image:caption
+        >This searing British thriller follows Flash (Dylan Duffus), who's
+        safeguarding his buddy Angel's (Yohance Watson) cash until his release
+        from prison. Now Angel is out -- and Flash is 100 pounds short. He turns
+        to a lowlife named Evil (Tobias Duncan) for help, the first in a series
+        of mistakes. Now, Flash has more than just Angel hunting him down.
+        Directed by Penny Woolcock (Mischief Night), the film co-stars Ohran
+        Whyte and Chris Wilson</image:caption
+      >
+      <image:title>1 Day</image:title>
+    </image:image>
+  </url>
+</urlset>

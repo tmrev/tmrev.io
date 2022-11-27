@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/104752-A Second Knock at the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/104752-A Second Knock at the Door</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In the works for over two years, A Second Knock at the Door offers a
+        rare glimpse into the lives of military families dealing with the loss
+        of loved ones to friendly fire. Through interviews and investigative
+        reports obtained through the Freedom of Information Act, this
+        documentary explores several key incidents in which the families of the
+        fallen were forced to embark on a quest for the truth after the Army
+        attempted to bury the true cause of death within the 'fog of
+        war.'</image:caption
+      >
+      <image:title>A Second Knock at the Door</image:title>
+    </image:image>
+  </url>
+</urlset>

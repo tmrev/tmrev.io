@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/13479-A Charlie Brown Thanksgiving</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/13479-A Charlie Brown Thanksgiving</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tY4cDYOffWb9FKgp8223DXPJznr.jpg</image:loc
+      >
+      <image:caption
+        >Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them
+        with. This is going to be the greatest Thanksgiving ever! The fun begins
+        when Peppermint Patty invites herself and her pals to Charlie Brown's
+        house for a REALLY big turkey party. Good grief! All our hero can cook
+        is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus,
+        Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such
+        good friends, Charlie Brown - and all of us - have so many reasons to be
+        thankful.</image:caption
+      >
+      <image:title>A Charlie Brown Thanksgiving</image:title>
+    </image:image>
+  </url>
+</urlset>

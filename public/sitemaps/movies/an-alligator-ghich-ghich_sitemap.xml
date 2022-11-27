@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041010-An Alligator Ghich Ghich</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041010-An Alligator Ghich Ghich</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Near a village, the river’ water level has dropped due to a dam,
+        upsetting the ecological balance. So that lack of water and food has
+        made an alligator comes around the village. The villagers are very
+        scared but a wise man understands the matter and tries to guide the
+        alligator to a suitable place to live.</image:caption
+      >
+      <image:title>An Alligator Ghich Ghich</image:title>
+    </image:image>
+  </url>
+</urlset>

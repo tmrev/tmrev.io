@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/527438-Almost a Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/527438-Almost a Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8ZiG7V17RPI2zdIZXWKbXgDLd03.jpg</image:loc
+      >
+      <image:caption
+        >The film follows the long-distance relationship between Baneng (Barbie
+        Forteza) and Iggy (Derrick Monasterio), two childhood friends who grew
+        up in different parts of the world.</image:caption
+      >
+      <image:title>Almost a Love Story</image:title>
+    </image:image>
+  </url>
+</urlset>

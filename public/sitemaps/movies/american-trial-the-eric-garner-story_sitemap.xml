@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/629745-American Trial: The Eric Garner Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/629745-American Trial: The Eric Garner Story</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/no05R5OiUiHAWoLb2ypv9nNyNKq.jpg</image:loc
+      >
+      <image:caption
+        >By depicting real-life witnesses and actual evidence in a courtroom
+        setting, American Trial will tell the story of the trial that may have
+        occurred had NYPD Officer Daniel Pantaleo been indicted for the killing
+        of Eric Garner in Staten Island, New York. Using the trial as a conduit,
+        this documentary will examine accountability, race and police/civilian
+        relations in New York City and beyond.</image:caption
+      >
+      <image:title>American Trial: The Eric Garner Story</image:title>
+    </image:image>
+  </url>
+</urlset>

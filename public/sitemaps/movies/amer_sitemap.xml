@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/43950-Amer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/43950-Amer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/93XYVtdMvk05WLvjGs5qeyHtFVL.jpg</image:loc
+      >
+      <image:caption
+        >Ana is confronted with body and desire at three key moments of her
+        life. As a young girl, she brings her dead grandpa back to life. In her
+        puberty, she discovers the power of decay and sexuality. Finally, she
+        wrestles with loss and loneliness when she returns to her parental home,
+        now derelict.</image:caption
+      >
+      <image:title>Amer</image:title>
+    </image:image>
+  </url>
+</urlset>

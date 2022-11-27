@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/113693-Adventures in the Sin Bin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/113693-Adventures in the Sin Bin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yDNWkwuG8Fe7Hb2PxXikycm92h1.jpg</image:loc
+      >
+      <image:caption
+        >Brian is a private school student who routinely lends his van out so
+        fellow students can have sex in it. When he is invited to become friends
+        with Tony, the school's big man on campus, he hopes to get some romantic
+        pointers so that he might use his van himself with dream girl Suzie.
+        Things become more complicated, however, when he discovers Tony is
+        sleeping with Suzie himself.</image:caption
+      >
+      <image:title>Adventures in the Sin Bin</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/732874-'68: The Year Nebraska Mattered</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/732874-'68: The Year Nebraska Mattered</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The NET original production, "68: The Year Nebraska Mattered," is a
+        close up view of the 1968 Presidential election and how Nebraska played
+        a key role in shaping the outcome. The program features video from the
+        era along with present-day interviews. It covers all of the main players
+        like Richard Nixon, Robert Kennedy, Hubert Humphrey, Eugene McCarthy,
+        Nelson Rockefeller and George Wallace.</image:caption
+      >
+      <image:title>'68: The Year Nebraska Mattered</image:title>
+    </image:image>
+  </url>
+</urlset>

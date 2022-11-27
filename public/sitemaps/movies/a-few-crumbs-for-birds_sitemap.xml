@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/798232-A Few Crumbs For Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/798232-A Few Crumbs For Birds</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eWqCgtUbQUOfHVgMWbp4uQ3iDjw.jpg</image:loc
+      >
+      <image:caption
+        >Ruwaysched is a no man's land at the border. The last village in Jordan
+        before Iraq... I went there without a real scenario. I was looking for a
+        story for my film for a couple of days until Anne-Marie, the director of
+        photography, played a song for me from an Iraqi-Palestinian band while
+        our car stalled at the Iraqi border. (Nassim Amaouche)</image:caption
+      >
+      <image:title>A Few Crumbs For Birds</image:title>
+    </image:image>
+  </url>
+</urlset>

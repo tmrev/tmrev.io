@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/729612-A Murder to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/729612-A Murder to Remember</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wW0QaPUU3i86Fi0muh3bVAMk1Qu.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by Ann Rule’s true crime collection Empty Promises. Javier and
+        Robin Rivera are celebrating their one-year anniversary on a camping
+        trip. But when Javier ends up dead, Robin finds herself alone in the
+        rough wilderness. She accepts help from another camper, a mysterious
+        stranger named Sam and slowly places her life in his hands. But is Sam
+        there to protect Robin? Or does she need protecting from
+        him?</image:caption
+      >
+      <image:title>A Murder to Remember</image:title>
+    </image:image>
+  </url>
+</urlset>

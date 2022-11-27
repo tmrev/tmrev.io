@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/191698-2 Jacks</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/191698-2 Jacks</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zC4pmYNBjSu9aO5ErJyGtjSGcT9.jpg</image:loc
+      >
+      <image:caption
+        >Jack Hussar is a legendary Hollywood director, whose persona commands
+        respect and adoration from his fans. Can his son, Jack Jr. maintain his
+        legacy?</image:caption
+      >
+      <image:title>2 Jacks</image:title>
+    </image:image>
+  </url>
+</urlset>

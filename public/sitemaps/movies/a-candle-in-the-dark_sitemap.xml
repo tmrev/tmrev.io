@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/215490-A Candle in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/215490-A Candle in the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A series of "vampire" style murders on campus has Sarah scared of her
+        own shadow - It doesn't help that her new dorm mate Lilith wears only
+        gothic clothing, is afraid of crosses, avoids daylight and resembles a
+        member of the undead. Sarah becomes convinced that Lilith has something
+        to do with the horrendous murders. When Sarah can't convince others of
+        her outlandish theory...she becomes the next target.</image:caption
+      >
+      <image:title>A Candle in the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

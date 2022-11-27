@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/77858-Al-Hijab</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/77858-Al-Hijab</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h4gO1tE8Vu6sEpHUmGRXUVi1UAg.jpg</image:loc
+      >
+      <image:caption
+        >Rafael (Pierre Andre) is an actor who doesn’t believe in ghosts. One
+        day, he’s offered the lead role in a horror movie and is very excited to
+        carry it but fails to get into the groove due to his beliefs. He travels
+        to many apparently haunted places but sees nothing that will help him
+        act the part. His girlfriend Qiss (Fathia) tells her mother about
+        Rafael’s plight and finally she reveals to him what “hijab” is. It is
+        said that Rafael will finally “see”, if his “hijab” is
+        open.</image:caption
+      >
+      <image:title>Al-Hijab</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/626285-A Christmas Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/626285-A Christmas Wish</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bLMbRhRZwWQ37ku2Ca9yV2ALhJy.jpg</image:loc
+      >
+      <image:caption
+        >Every December in the small town of Ponchatoula, Louisiana a wooden
+        wishing box is placed in the park as a Christmas tradition. After a
+        night out together, Maddie encourages her sister Faith to put a wish in
+        the box - a wish to experience true love for the first time. Faith and
+        Maddie are surprised the next day when she meets the very handsome and
+        eligible Andrew. As Christmas nears, Faith begins to wonder if Andrew is
+        really perfect for her, or if the wish is leading her to her best
+        friend, Wyatt.</image:caption
+      >
+      <image:title>A Christmas Wish</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11247-A Cinderella Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11247-A Cinderella Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3d6Nu5c7BSo5BrH2xE1pnj3yNrc.jpg</image:loc
+      >
+      <image:caption
+        >Routinely exploited by her wicked stepmother, the downtrodden Samantha
+        Montgomery is excited about the prospect of meeting her Internet beau at
+        the school's Halloween dance.</image:caption
+      >
+      <image:title>A Cinderella Story</image:title>
+    </image:image>
+  </url>
+</urlset>

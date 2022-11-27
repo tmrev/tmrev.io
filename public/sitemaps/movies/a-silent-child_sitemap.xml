@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/300927-A Silent Child</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/300927-A Silent Child</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yHXkb8tgUZ5BvqO3LHV2tdXs99A.jpg</image:loc
+      >
+      <image:caption
+        >A child never cries nor screams when it gets injured. All the terrible
+        consequences involved.</image:caption
+      >
+      <image:title>A Silent Child</image:title>
+    </image:image>
+  </url>
+</urlset>

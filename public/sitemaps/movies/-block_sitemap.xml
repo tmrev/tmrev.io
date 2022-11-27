@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/253645-17000 Block</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/253645-17000 Block</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l8rkbw5WSrM8WGDTrKo191xo8an.jpg</image:loc
+      >
+      <image:caption
+        >Set against the backdrop of Detroit's underworld, 17000 Block tells the
+        story of Buck, a young man trapped in the middle of a street family
+        rivalry - he is coerced, by his unscrupulous Uncle Eddie, to pull a
+        robbery. When the job goes bad Buck finds himself running from the law,
+        and the streets.</image:caption
+      >
+      <image:title>17000 Block</image:title>
+    </image:image>
+  </url>
+</urlset>

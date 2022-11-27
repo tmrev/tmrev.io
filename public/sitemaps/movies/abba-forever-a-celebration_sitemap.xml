@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/673572-ABBA Forever: A Celebration</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/673572-ABBA Forever: A Celebration</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pgtD4eoLg0JCQ0022B6WxUN0zLd.jpg</image:loc
+      >
+      <image:caption
+        >This definitive music documentary, featuring a greatest hits soundtrack
+        and bounty of classic performance clips, provides an inside look into
+        how Swedish pop group ABBA's music was made, as the former members and
+        various colleagues tell their story from pre-ABBA days
+        onward.</image:caption
+      >
+      <image:title>ABBA Forever: A Celebration</image:title>
+    </image:image>
+  </url>
+</urlset>

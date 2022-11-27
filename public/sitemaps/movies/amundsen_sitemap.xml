@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/545836-Amundsen</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/545836-Amundsen</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yvz9rsCnqq1F0MauURPzps11Y6S.jpg</image:loc
+      >
+      <image:caption
+        >The story of Norwegian explorer Roald Amundsen, the leader of the first
+        expedition to reach the South Pole in 1911, and the first person to
+        reach both the North and South Poles in 1926. Follows his all-consuming
+        drive as a polar explorer and the tragedy he brought on himself and
+        others by sacrificing everything in the icy wastelands to achieve his
+        dream.</image:caption
+      >
+      <image:title>Amundsen</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/183149-A Near Death Experience</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/183149-A Near Death Experience</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rgv8BxWchnNZLfwWm1IvvPmkUqT.jpg</image:loc
+      >
+      <image:caption
+        >Ellie is shocked to discover that, after suffering a near-death
+        experience, she can now hear voices from beyond. She soon realizes that
+        it is a gift with which you can help others.</image:caption
+      >
+      <image:title>A Near Death Experience</image:title>
+    </image:image>
+  </url>
+</urlset>

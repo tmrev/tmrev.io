@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/125730-All That You Possess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/125730-All That You Possess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/54ieiy8WMaBsoI64USnkhWTqi2b.jpg</image:loc
+      >
+      <image:caption
+        >An obsessed scholar attempts to withdraw from the world but finds
+        personal ties drawing him back into the family he had left behind, in
+        this novelistic, beautifully modulated drama from acclaimed Québécois
+        filmmaker Bernard Émond.</image:caption
+      >
+      <image:title>All That You Possess</image:title>
+    </image:image>
+  </url>
+</urlset>

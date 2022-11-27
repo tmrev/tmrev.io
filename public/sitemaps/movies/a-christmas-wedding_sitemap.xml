@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273905-A Christmas Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273905-A Christmas Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g5DJdu0Pm4YCaZXJUQR1r7ywiXL.jpg</image:loc
+      >
+      <image:caption
+        >Tiffany and Marcus decide to wed during the holiday season in the rural
+        town where Tiffany grew up. Tiffany's older sisters and their husbands
+        are visiting as well. Coming together may not have been such a good idea
+        as the married couples bring along some baggage that may cause the
+        unmarried to think twice before making a life changing
+        decision.</image:caption
+      >
+      <image:title>A Christmas Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

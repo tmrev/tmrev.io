@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/497571-Actor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/497571-Actor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yzo6mj5er5PhK9fEwvW9VJcWXdi.jpg</image:loc
+      >
+      <image:caption
+        >Bronze is a down on his luck thespian who needs a break badly.
+        Literally living off his one recognizable moment in the TV cop show Boys
+        in Blue (he played a TV stealing criminal), he spends his days hustling,
+        his nights arguing with his live-in companion, a transvestite Christian
+        rock wannabe. After a beer can robbery goes wrong, Bronze gets his
+        songwriting pal an audition. When that falls through, he hits rock
+        bottom. A bout with cellphone-induced ear cancer and an incident with a
+        haphazardly thrown can of soup seals his sad fate.</image:caption
+      >
+      <image:title>Actor</image:title>
+    </image:image>
+  </url>
+</urlset>

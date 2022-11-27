@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25744-A Slit-Mouthed Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25744-A Slit-Mouthed Woman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mUwHLq5SFq0rQF9DhvoOEKt8AIi.jpg</image:loc
+      >
+      <image:caption
+        >Legend holds that 30 years ago, a suburban town was terrorized by the
+        spirit of a woman whose horrid face had been grotesquely disfigured.
+        Roaming the streets wearing a long coat and carrying large scissors, the
+        spirit would approach her young victims and, while removing the mask,
+        ask if she was pretty. The victim’s response would almost always lead to
+        their violent death.</image:caption
+      >
+      <image:title>A Slit-Mouthed Woman</image:title>
+    </image:image>
+  </url>
+</urlset>

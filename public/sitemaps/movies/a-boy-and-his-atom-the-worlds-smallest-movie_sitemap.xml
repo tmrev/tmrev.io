@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/198060-A Boy and His Atom: The World's Smallest
+      Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/198060-A Boy and His Atom: The World's Smallest
+      Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6xBzNnvVxa7XnTn7JehFaV78fwE.jpg</image:loc
+      >
+      <image:caption
+        >A wayward atom escapes life in a bit and encounters a friend he can
+        dance, laugh, and play with.</image:caption
+      >
+      <image:title>A Boy and His Atom: The World's Smallest Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

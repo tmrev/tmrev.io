@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/640020-A Brother's Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/640020-A Brother's Honor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/d8Jhdzwk76BxZ91pL9Z8FDQD0v9.jpg</image:loc
+      >
+      <image:caption
+        >3 brothers are reunited after their grandfather suffers a heart attack.
+        The Granger men, Jace, Caden and Dalton promise their dying grandfather
+        that they will work together to save the family's failing business,
+        Granger Aeronautics. The we brothers also find themselves banding
+        together to find out who really killed their mother and subsequently,
+        free their father, Sheppard who is serving a 30 year prison sentence for
+        her murder. Family secrets, business mismanagement, intrigue and a
+        little romance help to make this a great story.</image:caption
+      >
+      <image:title>A Brother's Honor</image:title>
+    </image:image>
+  </url>
+</urlset>

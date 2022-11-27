@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/456715-A Boyfriend for My Wife</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/456715-A Boyfriend for My Wife</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fZKVYWy9cTwd0LKdpWUHNxSNhOF.jpg</image:loc
+      >
+      <image:caption
+        >Daniel reached the limit of his patience with his wife. The extremely
+        temperamental Natalia is always protesting. But Daniel does not have the
+        courage to ask for a divorce. Thus, he accepts the advice of his friends
+        to hire a famous local Don Juan to seduce his wife and be she who
+        deserted him.</image:caption
+      >
+      <image:title>A Boyfriend for My Wife</image:title>
+    </image:image>
+  </url>
+</urlset>

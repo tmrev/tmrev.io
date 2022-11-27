@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/5902-A Bridge Too Far</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/5902-A Bridge Too Far</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg</image:loc
+      >
+      <image:caption
+        >Operation Market Garden, September 1944. The Allies attempt to capture
+        several strategically important bridges in the Netherlands in the hope
+        of breaking the German lines.</image:caption
+      >
+      <image:title>A Bridge Too Far</image:title>
+    </image:image>
+  </url>
+</urlset>

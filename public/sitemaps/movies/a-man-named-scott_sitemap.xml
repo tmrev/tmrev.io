@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/890228-A Man Named Scott</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/890228-A Man Named Scott</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sihn5PoMqS4EvVOqO5zRtPKJjns.jpg</image:loc
+      >
+      <image:caption
+        >In 2009, Scott Mescudi aka Kid Cudi released his debut LP, Man on the
+        Moon: The End of Day. A genre-bending album that broke barriers by
+        featuring songs dealing with depression, anxiety and loneliness, it
+        resonated deeply with young listeners and launched Cudi as a musical
+        star and cultural hero. A Man Named Scott explores Cudi’s journey over a
+        decade of creative choices, struggles and breakthroughs, making music
+        that continues to move and empower his millions of fans around the
+        world.</image:caption
+      >
+      <image:title>A Man Named Scott</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/222668-A Sumo Wrestler's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/222668-A Sumo Wrestler's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lHW6PyOB7XSjkvROUWdvQuWqdu8.jpg</image:loc
+      >
+      <image:caption
+        >Chu Zumo is the story of an old farmer who discovers a group of rats
+        heading to a sumo wrestling bout. After they lose miserably he decides
+        to feed the rats to boost their chances of winning.</image:caption
+      >
+      <image:title>A Sumo Wrestler's Tail</image:title>
+    </image:image>
+  </url>
+</urlset>

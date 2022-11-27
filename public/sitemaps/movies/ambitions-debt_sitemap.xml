@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/565339-Ambition's Debt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/565339-Ambition's Debt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nt9ZUDEXsnOg0sxpA5BFsqoiHfg.jpg</image:loc
+      >
+      <image:caption
+        >Adapted from William Shakespeare's epic tale of honor, ambition,
+        betrayal, hubris, and the supernatural. The story follows the downfall
+        of Rome's most honored citizen, Marcus Brutus, as he conspires to
+        assassinate Julius Caesar, in order to forestall tyranny and preserve
+        democracy.</image:caption
+      >
+      <image:title>Ambition's Debt</image:title>
+    </image:image>
+  </url>
+</urlset>

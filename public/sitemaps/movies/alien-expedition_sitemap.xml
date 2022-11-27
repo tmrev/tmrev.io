@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550844-Alien Expedition</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550844-Alien Expedition</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/alHSQQMgJUAyHxVHzH1i8VXk6hu.jpg</image:loc
+      >
+      <image:caption
+        >After a deep space exploration vessel discovers a potentially habitable
+        planet, a scouting team composed of human and biorobotic individuals is
+        dispatched to investigate the planet's resources. Once on the ground,
+        their reconnaissance mission soon turns into a battle for survival
+        against the planet's hostile alien lifeforms.</image:caption
+      >
+      <image:title>Alien Expedition</image:title>
+    </image:image>
+  </url>
+</urlset>

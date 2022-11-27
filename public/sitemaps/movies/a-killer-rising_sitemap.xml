@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/753565-A Killer Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/753565-A Killer Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ewBeokrQZTIC6UpdCJimbHVO3dr.jpg</image:loc
+      >
+      <image:caption
+        >A troubled federal agent with a bloody past struggles to suppress her
+        demons while being taunted by a serial killer. A near death experience
+        threatens to unleash her madness and put her on a collision course with
+        her own FBI team and her nemesis. After a lifetime of being abused and
+        left for dead, will the killer inside finally rise?</image:caption
+      >
+      <image:title>A Killer Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

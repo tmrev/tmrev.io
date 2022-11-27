@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/210908-All Cheerleaders Die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/210908-All Cheerleaders Die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jAODNlyH9XnjO17j6P72ZaLndAI.jpg</image:loc
+      >
+      <image:caption
+        >When tragedy rocks Blackfoot High, rebellious outsider Mäddy Killian
+        shocks the student body by joining the cheerleading squad. After a
+        confrontation with the football team, Mäddy and her new cheerleader
+        friends are sent on a supernatural roller coaster ride which leaves a
+        path of destruction none of them may be able to escape.</image:caption
+      >
+      <image:title>All Cheerleaders Die</image:title>
+    </image:image>
+  </url>
+</urlset>

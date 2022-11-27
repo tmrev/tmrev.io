@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/736146-A Family</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/736146-A Family</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tglfGYH372S7Pft0hUyYLsO8M2B.jpg</image:loc
+      >
+      <image:caption
+        >A story of yakuza family from 1999 to 2019. Kenji Yamamoto’s father
+        died from using a stimulant drug. His life fell into desperation. Kenji
+        Yamamoto then joined a crime syndicate. There, he meets the gang's boss
+        Hiroshi Shibasaki. Hiroshi Shibasaki reaches out to Kenji Yamamoto and
+        they developed a relationship like father and son. As time passes, Kenji
+        Yamamoto has his own family.</image:caption
+      >
+      <image:title>A Family</image:title>
+    </image:image>
+  </url>
+</urlset>

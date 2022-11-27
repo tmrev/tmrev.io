@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29134-Amreeka</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29134-Amreeka</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8iY86p7DHsiLHYcSiWxSVE1huLG.jpg</image:loc
+      >
+      <image:caption
+        >Eager to provide a better future for her son, Fadi, divorcée Muna Farah
+        leaves her Palestinian homeland and takes up residence in rural Illinois
+        -- just in time to encounter the domestic repercussions of America's
+        disastrous war in Iraq. Now, the duo must reinvent their lives with some
+        help from Muna's sister, Raghda, and brother-in-law,
+        Nabeel.</image:caption
+      >
+      <image:title>Amreeka</image:title>
+    </image:image>
+  </url>
+</urlset>

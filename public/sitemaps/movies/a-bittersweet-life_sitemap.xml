@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/11344-A Bittersweet Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/11344-A Bittersweet Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nXxEcDxMSC0x2LtGfZs701FYHyN.jpg</image:loc
+      >
+      <image:caption
+        >Kim Sun-woo is an enforcer and manager for a hotel owned by a cold,
+        calculative crime boss, Kang who assigns Sun-Woo to a simple errand
+        while he is away on a business trip; to shadow his young mistress,
+        Heesoo, for fear that she may be cheating on him with a younger man with
+        the mandate that he must kill them both if he discovers their
+        affair.</image:caption
+      >
+      <image:title>A Bittersweet Life</image:title>
+    </image:image>
+  </url>
+</urlset>

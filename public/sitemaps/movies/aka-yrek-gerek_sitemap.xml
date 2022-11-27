@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/694351-Aşka Yürek Gerek</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/694351-Aşka Yürek Gerek</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sUplk6P2TkYcxZ4s8NBnOLRi9jj.jpg</image:loc
+      >
+      <image:caption
+        >Mustapha Sandal, who's a critically acclaimed singer/songwriter in
+        Turkey dances wildly with his partner Natalia</image:caption
+      >
+      <image:title>Aşka Yürek Gerek</image:title>
+    </image:image>
+  </url>
+</urlset>

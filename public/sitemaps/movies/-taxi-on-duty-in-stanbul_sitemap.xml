@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/850123-34 Taxi “On Duty in İstanbul”</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/850123-34 Taxi “On Duty in İstanbul”</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Video-documentary about Istanbul taxi drivers. Traffic reveals the
+        character of the big city, reflects the behavior patterns. For many
+        people it is part of the boring routine, but for others it is a way of
+        life. 34 Taxi is a video-documentary work that tells Istanbul from the
+        point of view of taxi drivers. The film, shot mostly during the
+        journeys, is based on the conversations of taxi drivers with their
+        customers.</image:caption
+      >
+      <image:title>34 Taxi “On Duty in İstanbul”</image:title>
+    </image:image>
+  </url>
+</urlset>

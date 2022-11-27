@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/556881-A Room Full of Nothing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/556881-A Room Full of Nothing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qmuMQKCujZYd6qS41ubDP1QVMOO.jpg</image:loc
+      >
+      <image:caption
+        >An artistic couple living in Austin, Texas, wake up one day to discover
+        they are the last two people left on Earth.</image:caption
+      >
+      <image:title>A Room Full of Nothing</image:title>
+    </image:image>
+  </url>
+</urlset>

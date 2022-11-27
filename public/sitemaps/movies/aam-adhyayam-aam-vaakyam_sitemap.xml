@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/357969-32aam Adhyayam 23aam Vaakyam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/357969-32aam Adhyayam 23aam Vaakyam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1xkDKfeRj2f22yslyo4cr99bRKK.jpg</image:loc
+      >
+      <image:caption
+        >Story is about a young couple who receives a mysterious book which lead
+        them to find the truth about an unsolved murder case which had happened
+        5 years back.</image:caption
+      >
+      <image:title>32aam Adhyayam 23aam Vaakyam</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/592480-Alice and the Mayor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/592480-Alice and the Mayor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/i6dlspGA6PS7eM2lOj4BMY65ndS.jpg</image:loc
+      >
+      <image:caption
+        >The mayor of Lyon, Paul Théraneau, is in a delicate position. After 30
+        years in politics, he is running out of ideas and is faced with a
+        feeling of existential emptiness. To overcome this, Paul hires a young
+        and brilliant philosopher, Alice Heimann. Then follows a dialogue
+        between two diametrically opposed personalities who will turn their
+        certainties upside down.</image:caption
+      >
+      <image:title>Alice and the Mayor</image:title>
+    </image:image>
+  </url>
+</urlset>

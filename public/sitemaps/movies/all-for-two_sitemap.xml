@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/168510-All for Two</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/168510-All for Two</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wbLVedzlKgNa6qKuLRozQpSs3b.jpg</image:loc
+      >
+      <image:caption
+        >This sequel to the box office hit All for One finds the previously
+        tight-knit trio dispersed: Nikolai is on parole, while brothers Ralf and
+        Timo are planning a heist involving the unlikely combination of unsalted
+        butter, a strict diet and a helicopter. When their seemingly impossible
+        heist succeeds, Nikolai asks to borrow some money to start over. The
+        brothers reject him, but when all three of them are tricked by a
+        fish-loving banking executive, they are forced to team up
+        again.</image:caption
+      >
+      <image:title>All for Two</image:title>
+    </image:image>
+  </url>
+</urlset>

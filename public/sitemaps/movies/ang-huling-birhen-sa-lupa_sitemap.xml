@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/370202-Ang Huling Birhen sa Lupa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/370202-Ang Huling Birhen sa Lupa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rBQGgjrAZlqa5jNLyNxZOo0z6YD.jpg</image:loc
+      >
+      <image:caption
+        >A priest visits a small seaside town. Miling a former nun who now
+        teaches catechism on the island thinks that father Emman is the priest
+        she sent for. She believes that a priest would help revive the
+        townspeople's faith in God by putting up bars and girly
+        joints.</image:caption
+      >
+      <image:title>Ang Huling Birhen sa Lupa</image:title>
+    </image:image>
+  </url>
+</urlset>

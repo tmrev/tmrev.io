@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/765426-A La Calle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/765426-A La Calle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9Yn0iOZCN5FhnLy7DEza9qhEKji.jpg</image:loc
+      >
+      <image:caption
+        >A firsthand account of the extraordinary efforts of ordinary
+        Venezuelans to reclaim their democracy from the dictatorship of Nicolás
+        Maduro, whose corrupt and brutal policies have plunged the country into
+        economic ruin. Working with a network of clandestine camera crews, the
+        filmmakers spent three years recording exclusive interviews with key
+        opposition figures including Leopoldo López and grassroots activist
+        Nixon Leal, as well as a host of everyday citizens, and captured the
+        remarkable courage of the Venezuelan people as they unite to restore
+        liberty to their country.</image:caption
+      >
+      <image:title>A La Calle</image:title>
+    </image:image>
+  </url>
+</urlset>

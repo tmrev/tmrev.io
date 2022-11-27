@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/501502-Adventure Without a Map</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/501502-Adventure Without a Map</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jLUUOVIlMryJfG785dVVKqKtSGU.jpg</image:loc
+      >
+      <image:caption
+        >Miki and Kazuki are both struggling at their jobs. Miki's bakery isn't
+        getting business, and there is something missing from her desserts.
+        Kazuki is working on a report related to curry for his company, but a
+        coworker tells him he has the wrong approach to the project. Will they
+        be able to succeed in their professions?</image:caption
+      >
+      <image:title>Adventure Without a Map</image:title>
+    </image:image>
+  </url>
+</urlset>

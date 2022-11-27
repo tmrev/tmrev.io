@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490285-Alone with Mr. Carter</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490285-Alone with Mr. Carter</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gvVepCCOm5b8xxOTFEE2RU70n82.jpg</image:loc
+      >
+      <image:caption
+        >In 1997, the year Ellen DeGeneres comes out, John is a boy who dreams
+        of becoming a cop. He wants to confide in his neighbor, Mr. Carter, that
+        he is secretly in love with him. Time is of the essence as the
+        65-year-old heterosexual detective is moving away
+        forever.</image:caption
+      >
+      <image:title>Alone with Mr. Carter</image:title>
+    </image:image>
+  </url>
+</urlset>

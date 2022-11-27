@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324298-An Autumn Without Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324298-An Autumn Without Berlin</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iaa7e6EhBrhdGj6BkqsHkpGOkdb.jpg</image:loc
+      >
+      <image:caption
+        >After traveling far from home in pursuit of a better future, June comes
+        back to her hometown to try to restore broken bonds with Diego, her
+        first love, and her father. She will try to bring back their teenage
+        years dream of moving to Berlin. However, she will soon realize that
+        years have changed Diego, he is now reclusive and never leaves his
+        house.</image:caption
+      >
+      <image:title>An Autumn Without Berlin</image:title>
+    </image:image>
+  </url>
+</urlset>

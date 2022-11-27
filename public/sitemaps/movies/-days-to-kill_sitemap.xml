@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/192102-3 Days to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/192102-3 Days to Kill</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sliYPOgeUuf62qktgXbfMBmYvj1.jpg</image:loc
+      >
+      <image:caption
+        >A dangerous international spy is determined to give up his high stakes
+        life to finally build a closer relationship with his estranged wife and
+        daughter. But first, he must complete one last mission - even if it
+        means juggling the two toughest assignments yet: hunting down the
+        world's most ruthless terrorist and looking after his teenage daughter
+        for the first time in ten years, while his wife is out of
+        town.</image:caption
+      >
+      <image:title>3 Days to Kill</image:title>
+    </image:image>
+  </url>
+</urlset>

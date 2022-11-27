@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/360606-Adventures in Babysitting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/360606-Adventures in Babysitting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xuCPo0krpAcK2s1uMCZs93turdk.jpg</image:loc
+      >
+      <image:caption
+        >Two teen rival babysitters, Jenny and Lola, team up to hunt down one of
+        their kids who accidentally ran away into the big city without any
+        supervision.</image:caption
+      >
+      <image:title>Adventures in Babysitting</image:title>
+    </image:image>
+  </url>
+</urlset>

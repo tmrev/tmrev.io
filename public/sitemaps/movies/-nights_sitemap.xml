@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509370-40 Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509370-40 Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g2VYEPAzOpQdGOPhA3UmVr26coA.jpg</image:loc
+      >
+      <image:caption
+        >Examines the pre-ministry life of Jesus starting with his baptism with
+        John the Baptist. From there Jesus embarks on his self- exploration
+        journey into the wilderness for 40 nights. He is tempted by the Devil
+        thrice in various forms.</image:caption
+      >
+      <image:title>40 Nights</image:title>
+    </image:image>
+  </url>
+</urlset>

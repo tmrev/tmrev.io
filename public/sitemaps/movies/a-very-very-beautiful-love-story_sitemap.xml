@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44962-A Very Very Beautiful Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44962-A Very Very Beautiful Love Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8FJNEffv07QrKAgkUCnFiF23TjS.jpg</image:loc
+      >
+      <image:caption
+        >Dorothée and Nicolas fall in love at first sight. Together, they’re
+        going to live a very beautiful love story... they know it. But life
+        always finds a way to compromise the best resolutions, the best script,
+        and nothing will happen as expected. Nicolas and Dorothée will be
+        carried into a stormy comedy as crazy as their passion for each
+        other…</image:caption
+      >
+      <image:title>A Very Very Beautiful Love Story</image:title>
+    </image:image>
+  </url>
+</urlset>

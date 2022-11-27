@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/503242-40 Years in the Making: The Magic Music
+      Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/503242-40 Years in the Making: The Magic Music
+      Movie</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/225wUoueqae5lCxkcZiSoc8pAO8.jpg</image:loc
+      >
+      <image:caption
+        >TV writer/producer Lee Aronsohn tracks down the scattered members of a
+        beloved early 1970's band with the hope that, 40 years after they broke
+        up, he can get them to play one last show.</image:caption
+      >
+      <image:title>40 Years in the Making: The Magic Music Movie</image:title>
+    </image:image>
+  </url>
+</urlset>

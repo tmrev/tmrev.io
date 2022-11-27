@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1036917-A Bump In The Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1036917-A Bump In The Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u6V661rnK2j8EqNhaCKsLUOfGih.jpg</image:loc
+      >
+      <image:caption
+        >When getting a drink from his kitchen, a man hears footsteps in the
+        empty room adjacent. He is presented with his own fear and must decide
+        what to do.</image:caption
+      >
+      <image:title>A Bump In The Night</image:title>
+    </image:image>
+  </url>
+</urlset>

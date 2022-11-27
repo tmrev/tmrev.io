@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/345725-A Fool</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/345725-A Fool</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rd2h8efnjfVyDuPmh1eIUcJcKaT.jpg</image:loc
+      >
+      <image:caption
+        >With his directorial debut actor Chen Jianbin walks in the footsteps of
+        A Touch of Sin, No Man’s Land, and Black Coal, Thin Ice and offers a
+        hard-edged mainland noir where kindness and cruelty, madness and reason,
+        greed and humanity all struggle for dominance and the fool might not be
+        who you think . The hook here is Chen’s amazing performance as the
+        simple, slightly crude Latioazi, a goat farmer who has a son in jail.
+        When a young mentally handicapped man follows him home one day and
+        enters his life, it sets off a blaze and a chain of events follows,
+        which bares China’s class divide raw. His random act of reluctant
+        kindness invites a parade of strangers and grifters all intent on
+        draining Latioazi of what little he has.</image:caption
+      >
+      <image:title>A Fool</image:title>
+    </image:image>
+  </url>
+</urlset>

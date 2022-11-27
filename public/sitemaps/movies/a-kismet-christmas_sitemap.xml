@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1027351-A Kismet Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1027351-A Kismet Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iQE2kNsCX7qCZ6NXBlguIYW1uHa.jpg</image:loc
+      >
+      <image:caption
+        >Sarah is a children’s book author who returns to her hometown, where
+        she reconnects with her family and Travis, her teenage crush. She soon
+        discovers that a long-held family legend might actually be
+        true.</image:caption
+      >
+      <image:title>A Kismet Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

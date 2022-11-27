@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/978596-ABBA: The Missing 40 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/978596-ABBA: The Missing 40 Years</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7hVHVprcpSpc8ric1IAhOpcXJfC.jpg</image:loc
+      >
+      <image:caption
+        >We reveal the secrets of ABBA's missing 40 years and uncover the
+        rollercoaster story of what happened to the band members after going
+        their separate ways in 1982.</image:caption
+      >
+      <image:title>ABBA: The Missing 40 Years</image:title>
+    </image:image>
+  </url>
+</urlset>

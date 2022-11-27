@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/428630-Alexander IRL</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/428630-Alexander IRL</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/exDKQzOcUHrPidKG9fXQxDiGrW.jpg</image:loc
+      >
+      <image:caption
+        >Tommy and EJ are brothers with nothing in common. Tommy is a straight A
+        student who desperately wants to be cool and EJ is a former high school
+        legend living at home, wasting away in middle management in GE's
+        innovation lab with dreams of becoming the next Mark Zuckerberg. When
+        Tommy and EJ's parents leave town for their second honeymoon, the boys
+        join forces to throw a legendary high school party with hopes of making
+        Tommy the king of his class and EJ the next great app
+        developer.</image:caption
+      >
+      <image:title>Alexander IRL</image:title>
+    </image:image>
+  </url>
+</urlset>

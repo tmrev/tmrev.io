@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/271476-Accessing the Mystic</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/271476-Accessing the Mystic</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Science and spirituality converge when Matthew Fox and Rupert Sheldrake
+        team-up for a profound discussion on the practical aspects of mysticism,
+        and the attainment of higher levels of consciousness.</image:caption
+      >
+      <image:title>Accessing the Mystic</image:title>
+    </image:image>
+  </url>
+</urlset>

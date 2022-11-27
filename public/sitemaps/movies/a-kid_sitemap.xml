@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382503-A Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382503-A Kid</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fKcANo9s8vpCLZpD5RctEoIr9bc.jpg</image:loc
+      >
+      <image:caption
+        >Matthieu, a 33 year old Parisian who finds out that the father he never
+        knew has died and decides to go to his funeral in order to meet his two
+        siblings in Quebec. But once in Montréal, he realizes that nobody is
+        aware of his existence or even interested in it. He is alone, in hostile
+        territory…Filled with secrets, this story about one man’s coming to term
+        with the foreign family he never knew he had is complex with
+        interconnected themes such as masculinity, family, paternity and filial
+        devotion coiling in the layers underneath.</image:caption
+      >
+      <image:title>A Kid</image:title>
+    </image:image>
+  </url>
+</urlset>

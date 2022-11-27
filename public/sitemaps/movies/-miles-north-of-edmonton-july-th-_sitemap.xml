@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/877885-30 Miles North of Edmonton - July 16th,
+      1969</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/877885-30 Miles North of Edmonton - July 16th,
+      1969</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mGL1bP5xqTIoha809fUY0kNYQBj.jpg</image:loc
+      >
+      <image:caption
+        >While Armstrong, Aldrin and Collins are preparing for their journey to
+        the moon, somewhere, 30 miles north of Edmonton a solitary caravan is
+        drifting through time.</image:caption
+      >
+      <image:title>30 Miles North of Edmonton - July 16th, 1969</image:title>
+    </image:image>
+  </url>
+</urlset>

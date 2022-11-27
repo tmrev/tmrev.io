@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/967183-38 at the Garden</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/967183-38 at the Garden</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Ai9grEV0CaKDet0GEG2fFyuP99W.jpg</image:loc
+      >
+      <image:caption
+        >In a hostile time for Asian Americans, the revisiting of an unlikely
+        athlete's story 10 years later gives hope and shatters stereotypes on
+        sport's biggest stage.</image:caption
+      >
+      <image:title>38 at the Garden</image:title>
+    </image:image>
+  </url>
+</urlset>

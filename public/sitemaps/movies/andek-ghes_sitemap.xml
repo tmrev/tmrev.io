@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/382222-And-Ek Ghes...</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/382222-And-Ek Ghes...</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/whiEYQZe1xqNK1EzEx27qC9X0u4.jpg</image:loc
+      >
+      <image:caption
+        >(Self-)portrait of a Roma family living in Berlin,
+        Germany.</image:caption
+      >
+      <image:title>And-Ek Ghes...</image:title>
+    </image:image>
+  </url>
+</urlset>

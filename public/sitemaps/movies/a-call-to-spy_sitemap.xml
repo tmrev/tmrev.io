@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/589612-A Call to Spy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/589612-A Call to Spy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cK5D0ss2LLSZtOZKvgOVTcCdXIE.jpg</image:loc
+      >
+      <image:caption
+        >The story of Vera Atkins, a crafty spy recruiter, and two of the first
+        women she selects for Churchill's "secret army": Virginia Hall, a daring
+        American undaunted by a disability and Noor Inayat Khan, a pacifist.
+        These civilian women form an unlikely sisterhood while entangled in
+        dangerous missions to turn the tide of the war.</image:caption
+      >
+      <image:title>A Call to Spy</image:title>
+    </image:image>
+  </url>
+</urlset>

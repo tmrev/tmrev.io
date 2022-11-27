@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/103739-After the Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/103739-After the Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/v8kneI2UaQFHtoFGrRPt4biMl8Z.jpg</image:loc
+      >
+      <image:caption
+        >Reem is a young political activist who works for an advertisement
+        company. As she tries to uncover the truth behind the incide of the
+        Battle of the Camel, she accompanies her friend Farah to Nazlet Al Seman
+        where she meets and falls for Mahmoud, one of the people involved in the
+        incident.</image:caption
+      >
+      <image:title>After the Battle</image:title>
+    </image:image>
+  </url>
+</urlset>

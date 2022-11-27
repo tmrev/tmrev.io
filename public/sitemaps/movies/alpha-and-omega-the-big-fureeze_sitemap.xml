@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/424105-Alpha and Omega: The Big Fureeze</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/424105-Alpha and Omega: The Big Fureeze</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hDyRA2qPS9iR2elCxjOsQFnGYGs.jpg</image:loc
+      >
+      <image:caption
+        >Kate and Humphrey head out into the woods to look for food to stock up
+        on for winter, and they leave their three pups with their parents. But
+        the pups and the rest of the pack must venture out in search of them
+        after the duo get caught in a blizzard.</image:caption
+      >
+      <image:title>Alpha and Omega: The Big Fureeze</image:title>
+    </image:image>
+  </url>
+</urlset>

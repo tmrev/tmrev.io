@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/460102-American Valhalla</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/460102-American Valhalla</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iAkpSmlzT261e2eK2zA1PCZQJxR.jpg</image:loc
+      >
+      <image:caption
+        >The film takes you on a journey from the conception of this musical
+        partnership and the first demos recorded in Californian desert by - what
+        became - the Post Pop Depression band that included Dean Fertita (QOTSA)
+        and drummer Matt Helders (Arctic Monkeys), and onto the release of the
+        album, proceeded by a sold-out American and European Tour that featured
+        the epic performance at the Royal Albert Hall in London.</image:caption
+      >
+      <image:title>American Valhalla</image:title>
+    </image:image>
+  </url>
+</urlset>

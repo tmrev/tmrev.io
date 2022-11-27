@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454016-A Fantastic Ghost Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454016-A Fantastic Ghost Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uCQMijrrfNcKpe4UNpIcQ7H4agH.jpg</image:loc
+      >
+      <image:caption
+        >A Fantastic Ghost Wedding is the story of a young popular spirit
+        medium, who is hired to find a spouse for a dead teenage boy. The chosen
+        bride turns out to be an unexpected person, and this snowballs into a
+        series of events culminating in a Chinese ghost wedding.</image:caption
+      >
+      <image:title>A Fantastic Ghost Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

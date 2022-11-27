@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/83214-A Gentle Breeze in the Village</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/83214-A Gentle Breeze in the Village</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5zNN1HT6CGIgy69qKUk3l4QmXSo.jpg</image:loc
+      >
+      <image:caption
+        >Based on a popular manga, the film is a tender coming-of-age love story
+        set deep in Japan's countryside. When eighth grade cool guy Hiromi
+        transfers from Tokyo to a small elementary/middle school with only six
+        kids enrolled, wholesome and honest Soyo becomes enthralled with his
+        sophisticated world.</image:caption
+      >
+      <image:title>A Gentle Breeze in the Village</image:title>
+    </image:image>
+  </url>
+</urlset>

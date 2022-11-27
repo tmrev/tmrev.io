@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25682-American Ninja 3: Blood Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25682-American Ninja 3: Blood Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nNiiaiHy4u0PWactr2thWHxOMXK.jpg</image:loc
+      >
+      <image:caption
+        >Jackson is back, and now he has a new partner, karate champion Sean, as
+        they must face a deadly terrorist known as "The Cobra", who has infected
+        Sean with a virus. Sean and Jackson have no choice but to fight the
+        Cobra and his bands of ninjas.</image:caption
+      >
+      <image:title>American Ninja 3: Blood Hunt</image:title>
+    </image:image>
+  </url>
+</urlset>

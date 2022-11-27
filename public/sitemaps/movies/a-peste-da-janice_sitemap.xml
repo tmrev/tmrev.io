@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636335-A Peste da Janice</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636335-A Peste da Janice</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/voXsBJygfytKri0oUIBXJPhjt32.jpg</image:loc
+      >
+      <image:caption
+        >The history of Virginia and Janice. Two 8 year olds starting a new
+        school year. Janice, the daughter of the school cleaning lady, is a
+        victim of the prejudice of all girl, excpet Virginia, with who she
+        begins to sketch out a relationship. Virginia manages, for example, to
+        reconcile the relationship with the class and the secret friendship with
+        Janice. But when you get caught up in the gang's cruel jokes with
+        Janice, you have to take sides: you must make it clear, after all, where
+        you stand.</image:caption
+      >
+      <image:title>A Peste da Janice</image:title>
+    </image:image>
+  </url>
+</urlset>

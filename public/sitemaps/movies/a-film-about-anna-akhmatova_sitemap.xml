@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/797982-A Film about Anna Akhmatova</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/797982-A Film about Anna Akhmatova</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hAbVReEbh3HUwxZlIXUWlEikfld.jpg</image:loc
+      >
+      <image:caption
+        >A Film about Anna Akhmatova is not a biopic. Rather, it is a live
+        process of recreating a story akin to ancient tragedy. Before the
+        viewer's eyes it emerges from archival and modern footage, unique sound
+        recordings of Akhmatova's voice, her poems and photographs, and the many
+        paintings and portraits of her, with the commentary of the poet Anatoly
+        Naiman, who knew Akhmatova in her last years.</image:caption
+      >
+      <image:title>A Film about Anna Akhmatova</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/577767-All We Are</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/577767-All We Are</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/iQwEWTeMAOdGDJPGkFYIMRRbR28.jpg</image:loc
+      >
+      <image:caption
+        >After meeting through a personal ad, two men embark on what they
+        believe will be nothing more than a fantasy-motivated fling-no names, no
+        information. But intense chemistry and real feelings put a wrench in
+        their plans and a true relationship begins to feel like a possibility,
+        until a confession threatens to pull them apart.</image:caption
+      >
+      <image:title>All We Are</image:title>
+    </image:image>
+  </url>
+</urlset>

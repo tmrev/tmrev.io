@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44269-All That Glitters</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44269-All That Glitters</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fh4CtNqSwGElNMOpIFbLeTSgipw.jpg</image:loc
+      >
+      <image:caption
+        >Best friends Ely and Lila share everything together, including their
+        dream of a life beyond the Paris suburb they've lived in since
+        childhood. One night they venture into the capital and meet a pair of
+        wealthy young friends at a night club. Ashamed of their working-class
+        background, and seeing an opportunity to escape, Ely and Lila begin to
+        lie their way into this glamorous new world. Falling deeper into their
+        web of lies, the young women begin to lose sight of themselves as their
+        friendship is pushed to the limit.</image:caption
+      >
+      <image:title>All That Glitters</image:title>
+    </image:image>
+  </url>
+</urlset>

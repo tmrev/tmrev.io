@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/71206-Adios Sabata</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/71206-Adios Sabata</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/npA2XK7Gad36fUjPgQbhDB6zxgq.jpg</image:loc
+      >
+      <image:caption
+        >Set in Mexico under the rule of Emperor Maximilian I, Sabata is hired
+        by the guerrilla leader Señor Ocaño to steal a wagonload of gold from
+        the Austrian army. However, when Sabata and his partners Escudo and
+        Ballantine obtain the wagon, they find it is not full of gold but of
+        sand, and that the gold was taken by Austrian Colonel Skimmel. So Sabata
+        plans to steal back the gold.</image:caption
+      >
+      <image:title>Adios Sabata</image:title>
+    </image:image>
+  </url>
+</urlset>

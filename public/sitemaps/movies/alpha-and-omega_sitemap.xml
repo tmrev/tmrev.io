@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/12819-Alpha and Omega</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/12819-Alpha and Omega</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7YVyH5sS6kLQRsSDF5dhhR0BWeh.jpg</image:loc
+      >
+      <image:caption
+        >Two young wolves at opposite ends of their pack's social order are
+        thrown together into a foreign land and need each other to return home,
+        but love complicates everything.</image:caption
+      >
+      <image:title>Alpha and Omega</image:title>
+    </image:image>
+  </url>
+</urlset>

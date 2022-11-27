@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/890847-A Decent Home</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/890847-A Decent Home</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xmC3BeAehq00xqyAODEvCD6FuM6.jpg</image:loc
+      >
+      <image:caption
+        >Mobile homes have long been an affordable option for people who
+        struggle with the cost of other housing in the United States. But now
+        the economy of mobile home parks is under threat as private equity firms
+        are buying up properties and looking to squeeze more money out of mobile
+        home owners. Filmmaker Sara Terry uses this backdrop to explore urgent
+        class issues that resonate across America, and especially in the
+        high-priced rental market of New York City.</image:caption
+      >
+      <image:title>A Decent Home</image:title>
+    </image:image>
+  </url>
+</urlset>

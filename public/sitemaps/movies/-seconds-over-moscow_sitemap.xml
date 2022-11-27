@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/595964-30 Seconds Over Moscow</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/595964-30 Seconds Over Moscow</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5xSsed6AnxkMFjnwSqkJcDKKeJV.jpg</image:loc
+      >
+      <image:caption>30 scenes of Moscow's street life.</image:caption>
+      <image:title>30 Seconds Over Moscow</image:title>
+    </image:image>
+  </url>
+</urlset>

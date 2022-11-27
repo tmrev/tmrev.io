@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/578778-A Wave of Compassion</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/578778-A Wave of Compassion</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jsYtCE5QNsdGcdfQTIrKomRJZIC.jpg</image:loc
+      >
+      <image:caption
+        >A journey into the heart of addiction following summer days in the life
+        of Jimmy, a surfer, whose honesty sets the tone for the film, and the
+        resilience of his addiction sets its challenge.</image:caption
+      >
+      <image:title>A Wave of Compassion</image:title>
+    </image:image>
+  </url>
+</urlset>

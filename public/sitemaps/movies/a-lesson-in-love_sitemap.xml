@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/64782-A Lesson in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/64782-A Lesson in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/y2033AA89qdxgJMASAfmuZ17GoA.jpg</image:loc
+      >
+      <image:caption
+        >After 15 years of marriage, David and Marianne have grown apart. David
+        has had an affair with a patient of his and Marianne has got herself
+        involved with her former lover Carl-Adam, who's also David's best
+        friend. When she travels to Copenhagen to meet Carl-Adam, David takes
+        the same train as she does, making it look coincidental. Spending time
+        together remembering their past and talking about their future, they
+        come to understand each other again, which leads to a
+        reconciliation.</image:caption
+      >
+      <image:title>A Lesson in Love</image:title>
+    </image:image>
+  </url>
+</urlset>

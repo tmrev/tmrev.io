@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/169794-All That I Am</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/169794-All That I Am</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nVYdMiRGew41h2EdIoV4wOT5eXH.jpg</image:loc
+      >
+      <image:caption
+        >On the eve of an annual sibling reunion, a troubled young writer is
+        sent reeling with the arrival of an unexpected guest.</image:caption
+      >
+      <image:title>All That I Am</image:title>
+    </image:image>
+  </url>
+</urlset>

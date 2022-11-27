@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/44090-1000 Mabrouk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/44090-1000 Mabrouk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7Dsxc1YpF95yca8aEKrSAq6y3wM.jpg</image:loc
+      >
+      <image:caption
+        >About a man who wakes up one morning to discover that the day repeats,
+        a carbon copy of the day before, trapping him in an inescapable vicious
+        circle. This man has a dream to live for 100 years, however he is living
+        for one day only and that day keep repeating to show him the negative
+        and positive things in his life.</image:caption
+      >
+      <image:title>1000 Mabrouk</image:title>
+    </image:image>
+  </url>
+</urlset>

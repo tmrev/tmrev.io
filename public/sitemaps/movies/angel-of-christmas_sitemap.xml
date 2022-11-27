@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/363484-Angel of Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/363484-Angel of Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dF1gYqp1I4adhYGFUcp3Cxv0B78.jpg</image:loc
+      >
+      <image:caption
+        >Susan is a newspaper staffer who decides to generate some Christmas
+        spirit by writing an article about her family’s storied 100-year-old,
+        hand-carved, heirloom Christmas angel. This leads her to accidentally
+        meet Brady, a cute, upbeat artist who insists that he and Susan become
+        fast friends (at least). It turns out that this angel also has the
+        spiritual power to bring people together – as it seems to be doing with
+        Susan and Brady. What’s behind this enchanted ornament? As time moves
+        on, more about this captivating artifact is revealed.</image:caption
+      >
+      <image:title>Angel of Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/587813-Against the Tides</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/587813-Against the Tides</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5LYsRoKTS0Co9HUxdG7YuN0l74x.jpg</image:loc
+      >
+      <image:caption
+        >The story of an extraordinary woman, marathon swimmer Beth French,
+        attempting the world’s most extreme swimming challenge. Driven to be a
+        role model for her autistic son, and by her battle with lifelong illness
+        (ME), Beth confronts jellyfish, sharks, wild weather and reluctant
+        skippers. But as her journey unfolds, dangers of the sea prove easier to
+        conquer than upheavals of the heart.</image:caption
+      >
+      <image:title>Against the Tides</image:title>
+    </image:image>
+  </url>
+</urlset>

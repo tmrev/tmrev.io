@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/517336-An Image Maker</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/517336-An Image Maker</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h3nYZARck28xNM3oNmp3nB7bNMv.jpg</image:loc
+      >
+      <image:caption
+        >Making of-documentary about Ingmar Bergman's The Image Makers,
+        featuring behind the scenes footage and an interview with its writer,
+        Per Olov Enquist.</image:caption
+      >
+      <image:title>An Image Maker</image:title>
+    </image:image>
+  </url>
+</urlset>

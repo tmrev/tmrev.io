@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/198057-3 Days of Normal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/198057-3 Days of Normal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Vik6lnnA2oxwCcmxxh3RhfAXzP.jpg</image:loc
+      >
+      <image:caption
+        >3 Days of Normal follows the story of straight-laced deputy Bill Morgan
+        who is quite content literally living within the quaint boundaries of
+        Washington, New Hampshire. Bill’s stable and rather uneventful life is
+        thrown for a loop when he finds and arrests a woman, Nikki Gold, passed
+        out in her car from inebriation. Unbeknownst to him, the woman happens
+        to be a popular movie actress longing for some normalcy in her hectic
+        life.</image:caption
+      >
+      <image:title>3 Days of Normal</image:title>
+    </image:image>
+  </url>
+</urlset>

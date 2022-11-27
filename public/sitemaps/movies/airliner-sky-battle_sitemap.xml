@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/763920-Airliner Sky Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/763920-Airliner Sky Battle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9UIGuSIvZY5W8OD1tASIojlZ7ES.jpg</image:loc
+      >
+      <image:caption
+        >Russian operatives hijack a commercial American jet, planning to crash
+        it into a nuclear power plant near Washington, D.C. resulting in fallout
+        that will devastate the Eastern seaboard. With little time for Air Force
+        fighters to shoot it down, the passengers and crew aboard the aircraft
+        must rely on their own military and civilian training to stop the
+        terrorists before it's too late.</image:caption
+      >
+      <image:title>Airliner Sky Battle</image:title>
+    </image:image>
+  </url>
+</urlset>

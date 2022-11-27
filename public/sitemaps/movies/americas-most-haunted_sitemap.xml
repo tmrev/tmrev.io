@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/273651-America's Most Haunted</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/273651-America's Most Haunted</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jyHi5eZl0GvLqscJVtQoDhgrPni.jpg</image:loc
+      >
+      <image:caption
+        >The crew of a popular ghost hunting show gets more than they bargained
+        for when they come across a location that's actually
+        haunted.</image:caption
+      >
+      <image:title>America's Most Haunted</image:title>
+    </image:image>
+  </url>
+</urlset>

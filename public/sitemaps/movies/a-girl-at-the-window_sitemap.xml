@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/242888-A Girl at the Window</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/242888-A Girl at the Window</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8CT7SNteYpkotBw2sqN8qFaxUcy.jpg</image:loc
+      >
+      <image:caption
+        >Imprisoned by an illness, a young country girl decides to leave for
+        Quebec City in order to study piano and discover an animated and
+        enthralling lifestyle.</image:caption
+      >
+      <image:title>A Girl at the Window</image:title>
+    </image:image>
+  </url>
+</urlset>

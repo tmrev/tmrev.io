@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/763662-Acordar do Dia</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/763662-Acordar do Dia</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zNXKxWBuKahGjnUDp9JZQlMvnoA.jpg</image:loc
+      >
+      <image:caption
+        >It's morning in a Tikmu'un - Maxakali indigenous village. The air is
+        filled by fog, smoke from bonfires, and the smell of strained coffee -
+        the people live go through their together and slowly. Later, they head
+        towads the city in the back of a truck. Their presence at a market
+        exposes a clash of two worlds.</image:caption
+      >
+      <image:title>Acordar do Dia</image:title>
+    </image:image>
+  </url>
+</urlset>

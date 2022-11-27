@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/278095-A Gift with a Character</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/278095-A Gift with a Character</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7ouoFi9UspiJ7U3qksVtTDTTdZQ.jpg</image:loc
+      >
+      <image:caption
+        >Is it fun to be panda? May be... But not for Misha whose job is to work
+        as a panda during birthday parties.</image:caption
+      >
+      <image:title>A Gift with a Character</image:title>
+    </image:image>
+  </url>
+</urlset>

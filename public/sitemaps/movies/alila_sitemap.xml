@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30735-Alila</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30735-Alila</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uerxmE0NOP5YTsPls7nqEDb9rlL.jpg</image:loc
+      >
+      <image:caption
+        >Life in a Tel Aviv apartment complex, an urban mosaic whose seedy
+        characters, try as they might, can't get out of one another's faces.
+        Gabi, a bobbed haired sexpot, and her lover Hezi—who's older, balding
+        and married—rent a room to have an affair, while Ezra, a pot bellied
+        divorcee, supervises an illegal construction site next door. All this
+        racket drives Schwartz, a Holocaust survivor, to a mental breakdown.
+        Other characters include illegal Chinese immigrants, a teenage boy who's
+        afraid to serve in the army, and a corrupt police
+        detective.</image:caption
+      >
+      <image:title>Alila</image:title>
+    </image:image>
+  </url>
+</urlset>

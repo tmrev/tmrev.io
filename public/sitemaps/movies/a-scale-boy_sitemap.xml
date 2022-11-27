@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/870645-A Scale Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/870645-A Scale Boy</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lmDaIfmAwnl2G2plFjEhmSR54D2.jpg</image:loc
+      >
+      <image:caption
+        >Kavich Neang’s first film is a short documentary following Sory Chan, a
+        14-year-old boy who is living in Phnom Penh apart from his family. A
+        student of Cambodian classical music, Sory lives with his mother’s
+        friend after his mother fled a debt she couldn’t afford to pay back.
+        Each evening after class, he carries a scale outside in a popular part
+        of the city and asks people to weigh themselves for a small amount of
+        money. In this urgent film, we witness Sory’s day in class, his nightly
+        routine and a particularly difficult conversation with his mother who he
+        meets on the street.</image:caption
+      >
+      <image:title>A Scale Boy</image:title>
+    </image:image>
+  </url>
+</urlset>

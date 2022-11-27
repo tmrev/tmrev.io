@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/290298-African Metropolis</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/290298-African Metropolis</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The vitality of the African city has provided local filmmakers with a
+        rich array of stories for their films. African Metropolis presents six
+        short films that examine the complexity of urban life in Abidjan, Cairo,
+        Dakar, Johannesburg, Lagos and Nairobi. They run the gamut of genres,
+        but in all the central character is the city itself. A Jewish pensioner
+        lives alone in a Johannesburg apartment, the last resident of an
+        ever-changing city. In a Nairobi of the future, one man searches for the
+        girl of his dreams. Dakar is the backdrop to an intimate conversation
+        between two women. Abidjan once played host to the American artist
+        Jean-Michel Basquiat. In Cairo a musician sees the gap between rich and
+        poor expand. And a final film confronts the perils of the poverty
+        trap.</image:caption
+      >
+      <image:title>African Metropolis</image:title>
+    </image:image>
+  </url>
+</urlset>

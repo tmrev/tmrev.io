@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/398703-Andreas Baader - Das Leben eines
+      Staatsfeindes</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/398703-Andreas Baader - Das Leben eines
+      Staatsfeindes</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >How could the son of a graduate historian and a secretary, who liked to
+        adorn himself with fast cars, fake eyelashes and expensive clothes, who
+        wanted to become an artist, journalist or film director, become the
+        "public enemy No. 1"?</image:caption
+      >
+      <image:title>Andreas Baader - Das Leben eines Staatsfeindes</image:title>
+    </image:image>
+  </url>
+</urlset>

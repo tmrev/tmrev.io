@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/519717-American Huaso</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/519717-American Huaso</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bWUkRuOQvEb1HfV50X7gmpyarKO.jpg</image:loc
+      >
+      <image:caption
+        >When the woman he loves commits herself with another, Joe, a ridiculous
+        huaso who thinks he is a cowboy, steals from him a valued horse in which
+        he embarks on a journey where he meets singular characters who convince
+        him to fight again for her.</image:caption
+      >
+      <image:title>American Huaso</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/710217-A Werewolf in England</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/710217-A Werewolf in England</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tkCUc5l4vPrW09D0ipdnTQusC68.jpg</image:loc
+      >
+      <image:caption
+        >In Victorian-Era England, a Parish Councillor and criminal take refuge
+        from a storm, at a remote countryside Inn. Forced to stay the night,
+        they soon uncover a deadly pact between the strange Innkeepers and the
+        flesh-hungry werewolves that inhabit the surrounding woodlands... now,
+        as the werewolves close in, the guests must band together and fight
+        tooth and nail to survive the night!</image:caption
+      >
+      <image:title>A Werewolf in England</image:title>
+    </image:image>
+  </url>
+</urlset>

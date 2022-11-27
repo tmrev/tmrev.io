@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/817369-American Insurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/817369-American Insurrection</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9fbKki3vl4tRNqm3G4B0wMak7Vk.jpg</image:loc
+      >
+      <image:caption
+        >Over the last three years, FRONTLINE has collaborated with ProPublica
+        to investigate the rise of extremism in America. In the aftermath of the
+        assault on the U.S. Capitol, FRONTLINE and ProPublica team up again to
+        examine how far-right groups were emboldened and encouraged by former
+        President Trump and how individuals were radicalized and brought into
+        the political landscape.</image:caption
+      >
+      <image:title>American Insurrection</image:title>
+    </image:image>
+  </url>
+</urlset>

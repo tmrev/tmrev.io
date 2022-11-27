@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/609932-Africa Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/609932-Africa Rising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yzShpEZ9DDXNtDAycLVgFmXms0y.jpg</image:loc
+      >
+      <image:caption
+        >How African artists have spread African culture all over the world,
+        especially music, since the harsh years of decolonization, trying to
+        offer a nicer portrait of this amazing continent, historically known for
+        tragic subjects, such as slavery, famine, war and political
+        chaos.</image:caption
+      >
+      <image:title>Africa Rising</image:title>
+    </image:image>
+  </url>
+</urlset>

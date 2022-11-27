@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/583090-Ainu Mosir</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/583090-Ainu Mosir</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bZJnqjxLY5zUVVImrwvXEulCqG2.jpg</image:loc
+      >
+      <image:caption
+        >Kanto, 14, a descendant of Japan's indigenous Ainu people, decides to
+        visit a hole in the forest -- a path to the other side of the world
+        where dead people live, hoping to see his deceased
+        father.</image:caption
+      >
+      <image:title>Ainu Mosir</image:title>
+    </image:image>
+  </url>
+</urlset>

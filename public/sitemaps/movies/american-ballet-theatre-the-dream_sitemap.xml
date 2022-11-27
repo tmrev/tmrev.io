@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/313483-American Ballet Theatre: The Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/313483-American Ballet Theatre: The Dream</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4L2JAifqbGmTLkRzMaKgkZ7cW87.jpg</image:loc
+      >
+      <image:caption
+        >Choreographed by Frederick Ashton in honor of William Shakespeare's
+        400th birthday, this magical production -- based on the Bard's play "A
+        Midsummer Night's Dream" -- features Felix Mendelssohn's famed score and
+        sublime sets that add to the charm. Ethan Stiefel delivers an impressive
+        performance as the lordly Oberon, Alessandra Ferri shines as fairy queen
+        Titania, and Herman Cornejo is pitch-perfect as the impish
+        Puck.</image:caption
+      >
+      <image:title>American Ballet Theatre: The Dream</image:title>
+    </image:image>
+  </url>
+</urlset>

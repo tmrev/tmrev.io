@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/656981-An Imperfect Solution: A Tale of the
+      Re-Animator</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/656981-An Imperfect Solution: A Tale of the
+      Re-Animator</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In 1920, Dr. Herbert West and Dr. Simon Helder are experimenting with
+        methods to revive the dead, but Dr. West is prepared to go much farther
+        than Dr. Helder to achieve this goal.</image:caption
+      >
+      <image:title
+        >An Imperfect Solution: A Tale of the Re-Animator</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

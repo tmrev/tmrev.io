@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/26134-A Cruel Attendance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/26134-A Cruel Attendance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jRl4zAPL7V2lrLRZA2uT3s7Gsff.jpg</image:loc
+      >
+      <image:caption
+        >A financially desperate salaryman teams up with his friend to kidnap a
+        rich girl to make a quick buck. But then he gets a call and learns that
+        his own daughter has been kidnapped as well.</image:caption
+      >
+      <image:title>A Cruel Attendance</image:title>
+    </image:image>
+  </url>
+</urlset>

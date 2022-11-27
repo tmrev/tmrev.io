@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/402515-American Beast</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/402515-American Beast</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ivQ9rzNV3HzGlwbWNS6bavjsOJk.jpg</image:loc
+      >
+      <image:caption
+        >After his mother's death, James Erikson discovers her old storage
+        locker filled with journals and newspapers of his family's history. As
+        he researches it, he finds out about the evil creature that his family
+        has tried to contain for several generations, beginning in 1939 on a
+        mysterious piece of property in an American small town.</image:caption
+      >
+      <image:title>American Beast</image:title>
+    </image:image>
+  </url>
+</urlset>

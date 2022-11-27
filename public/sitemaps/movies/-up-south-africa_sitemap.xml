@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/250220-28 Up South Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/250220-28 Up South Africa</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pjEunBtvAv00aeRMpdMXX5WkXxI.jpg</image:loc
+      >
+      <image:caption
+        >Documentary in the traditions of Michael Apted's 7 Up, following the
+        lives of a group of children in South Africa and offering an insight
+        into life in a country that has gone through momentous change. In 1992,
+        when they turned seven, Nelson Mandela had only been out of prison for
+        two years. By the time they were 14, he had become their president and
+        the regime of apartheid had been consigned to history. Chosen from
+        separate communities, the six characters have had starkly differing life
+        experiences.</image:caption
+      >
+      <image:title>28 Up South Africa</image:title>
+    </image:image>
+  </url>
+</urlset>

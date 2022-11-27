@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/574111-Amanda Seales: I Be Knowin'</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/574111-Amanda Seales: I Be Knowin'</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qIojZieFy7jCphtiFa6GEHfug67.jpg</image:loc
+      >
+      <image:caption
+        >Comedian/actor Amanda Seales stars in her first HBO stand-up special,
+        taped in front of a live audience at the Edison Ballroom in
+        NYC.</image:caption
+      >
+      <image:title>Amanda Seales: I Be Knowin'</image:title>
+    </image:image>
+  </url>
+</urlset>

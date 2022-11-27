@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/369912-A Night of Horror Volume 1</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/369912-A Night of Horror Volume 1</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2ERWbXHS05PrPFDs9MS1rVA1OV6.jpg</image:loc
+      >
+      <image:caption
+        >Whether you’re a fan of Sydney's iconic genre film festival A Night of
+        Horror, or just a fan of the best and bloodiest in new horror cinema,
+        you can’t afford to miss this fright-filled anthology. Zombies, demonic
+        entities, self-surgery, cannibalism and more await in the dark corners
+        of this terrifying offering from some of the most talented filmmakers
+        working in the genre today.</image:caption
+      >
+      <image:title>A Night of Horror Volume 1</image:title>
+    </image:image>
+  </url>
+</urlset>

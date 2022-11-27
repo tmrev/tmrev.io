@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/702937-Amigas en Bach</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/702937-Amigas en Bach</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Elena, a young writer who returns to Chile after five years and meets
+        her great friend Fernanda and her husband, Alejandro, who tries to
+        seduce Elena without knowing that she is a lesbian. When Fernanda
+        discovers that Alejandro is being unfaithful, she pretends to have an
+        affair with Elena in a way to punish him.</image:caption
+      >
+      <image:title>Amigas en Bach</image:title>
+    </image:image>
+  </url>
+</urlset>

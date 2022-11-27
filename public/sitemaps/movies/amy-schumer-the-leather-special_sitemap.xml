@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/444513-Amy Schumer: The Leather Special</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/444513-Amy Schumer: The Leather Special</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ilM07h1EfcudkfRhmTjelpRl5IQ.jpg</image:loc
+      >
+      <image:caption
+        >Comic sensation Amy Schumer riffs on sex, dating and the absurdities of
+        fame in a bold and uncensored stand-up set at Denver's Bellco
+        Theater.</image:caption
+      >
+      <image:title>Amy Schumer: The Leather Special</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/114080-Al cuore si comanda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/114080-Al cuore si comanda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yxNwDsselTptcp7MB5K08dzMk7M.jpg</image:loc
+      >
+      <image:caption
+        >Lorenza is 30 years old and has not yet found the man of her life. Not
+        wanting to be alone, she decides to take the penniless Riccardo as her
+        husband "for rent".</image:caption
+      >
+      <image:title>Al cuore si comanda</image:title>
+    </image:image>
+  </url>
+</urlset>

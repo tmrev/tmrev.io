@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65007-A Tale of Two Mozzies</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65007-A Tale of Two Mozzies</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gI7veh1PMNmqitpBse8FjfH1pvW.jpg</image:loc
+      >
+      <image:caption
+        >Dagmar the dancing mosquito has the hots for Egon. But Egon, putting
+        love on hold, is busy achieving the ultimate sprint on his bike and
+        wants to see the world. When wicked red ant queen Dominella and her
+        soldiers kill the black ant queen and take over her heap, our heroes are
+        drawn into an exciting forest floor drama that puts their friendship to
+        the test and forces them to use their talents to the
+        utmost.</image:caption
+      >
+      <image:title>A Tale of Two Mozzies</image:title>
+    </image:image>
+  </url>
+</urlset>

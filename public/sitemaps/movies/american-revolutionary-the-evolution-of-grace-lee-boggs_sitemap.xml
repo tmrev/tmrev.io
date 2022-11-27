@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/201361-American Revolutionary: The Evolution of
+      Grace Lee Boggs</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/201361-American Revolutionary: The Evolution of
+      Grace Lee Boggs</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Grace Lee Boggs is an activist and philosopher in Detroit who has
+        dedicated her life to the next American Revolution and the possibility
+        of a better, more just future for all of humanity. At age 97, she has
+        been building movements and developing strategies for social change for
+        most of her life -- reminding us that revolution is not only possible
+        and necessary, but a process that must always be in
+        motion.</image:caption
+      >
+      <image:title
+        >American Revolutionary: The Evolution of Grace Lee Boggs</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

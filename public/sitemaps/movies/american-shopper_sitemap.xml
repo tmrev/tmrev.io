@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/209333-American Shopper</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/209333-American Shopper</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"American Shopper" is a feature-length film about one man's passionate
+        and comic struggle to start an unlikely new sport, and about the
+        citizens of a small town who overcome their initial skepticism and get
+        swept up in his crazy dream. The film follows the stories of several
+        townspeople who decide to participate in the sport and compete in the
+        1st National Aisling Championship, and whose lives are turned upside
+        down in the process.</image:caption
+      >
+      <image:title>American Shopper</image:title>
+    </image:image>
+  </url>
+</urlset>

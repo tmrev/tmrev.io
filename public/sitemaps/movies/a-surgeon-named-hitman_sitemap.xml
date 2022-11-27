@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/941085-A Surgeon Named Hitman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/941085-A Surgeon Named Hitman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/h8dqnxHLd4Kq3PEtADynxtSCgxc.jpg</image:loc
+      >
+      <image:caption
+        >A trainee at a university hospital named Yoshioka, was in charge of a
+        patient but the patient dies due to a failure with a heart transplant.
+        One day, someone stabs his sister and dies. In front of the annoying
+        Yoshioka, a mysterious doctor, Shimizu, appears. , who used to stop by
+        the hospital.</image:caption
+      >
+      <image:title>A Surgeon Named Hitman</image:title>
+    </image:image>
+  </url>
+</urlset>

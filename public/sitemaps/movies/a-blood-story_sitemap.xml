@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/336112-A Blood Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/336112-A Blood Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Three strangers find themselves at a villa, each with the same goal of
+        discovering the Fountain of Youth, rumored to be nearby. One by one they
+        succumb to the carnal perversions and depraved delights provided by the
+        villa, unaware they are pawns in the resurrection of a centuries old
+        evil.</image:caption
+      >
+      <image:title>A Blood Story</image:title>
+    </image:image>
+  </url>
+</urlset>

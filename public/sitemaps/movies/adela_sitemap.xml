@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/75627-Adela</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/75627-Adela</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8prJqgWTogDP9La40a26iiFjFx0.jpg</image:loc
+      >
+      <image:caption
+        >Adela, a former radio personality, celebrates her 80th birthday. Alone,
+        and without support, she longs for the family and stability of years
+        gone by. Mundane events take on heightened meaning as Adela gauges her
+        life against those of the sea of humanity. Adela is about the quiet
+        moments in life that can fill us with either joy or
+        sorrow.</image:caption
+      >
+      <image:title>Adela</image:title>
+    </image:image>
+  </url>
+</urlset>

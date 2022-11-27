@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/758392-Al's Brain in 3-D</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/758392-Al's Brain in 3-D</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >"Weird Al" Yankovic guides the audience through a 3-D lesson on the
+        human brain. Al answers "man on the street" questions, provides
+        interesting trivia, and even recounts the unfortunate mishap of Phineaus
+        Cage. The film ends with "The Brain Song," which details exactly how the
+        brain works.</image:caption
+      >
+      <image:title>Al's Brain in 3-D</image:title>
+    </image:image>
+  </url>
+</urlset>

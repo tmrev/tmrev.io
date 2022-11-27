@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/89536-All Your Dead Ones</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/89536-All Your Dead Ones</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jQIPRREqEwTQar9955NTO0ZalTW.jpg</image:loc
+      >
+      <image:caption
+        >Salvador is a peasant who one day wakes up as usual to work on his land
+        but instead finds a pile of corpses in the middle of his crops. He runs
+        to notify the authorities but is Sunday and Election Day so the dead
+        ones end up being a nuisance that nobody wants to deal
+        with.</image:caption
+      >
+      <image:title>All Your Dead Ones</image:title>
+    </image:image>
+  </url>
+</urlset>

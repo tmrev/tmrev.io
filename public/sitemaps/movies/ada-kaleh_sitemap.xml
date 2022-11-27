@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/542374-Ada Kaleh</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/542374-Ada Kaleh</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zPLftUkB8J11Rvg00NsJNiFUu8j.jpg</image:loc
+      >
+      <image:caption
+        >This precisely calibrated domestic diorama alights upon the imagined
+        futures of a group of anonymous young adults. In Helena Wittmann’s
+        warmly rendered feat of formalist filmmaking, questions of time and the
+        realities of space convene in languid interior pans, incremental shifts
+        in light, and the private reflections of her subjects.</image:caption
+      >
+      <image:title>Ada Kaleh</image:title>
+    </image:image>
+  </url>
+</urlset>

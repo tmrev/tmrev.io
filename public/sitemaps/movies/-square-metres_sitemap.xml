@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/953432-0,8 Square Metres</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/953432-0,8 Square Metres</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Kristina Norman works with the physical and emotional dimension of the
+        concept of imprisonment. She draws a parallel between the contemporary
+        experiences of political imprisonment and the conditions in the
+        concentration camp set up on Suomenlinna island in Helsinki in the
+        aftermath of the Finnish Civil War (1918–1919).</image:caption
+      >
+      <image:title>0,8 Square Metres</image:title>
+    </image:image>
+  </url>
+</urlset>

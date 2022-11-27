@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127847-7 Boxes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127847-7 Boxes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tprstOzPHq159to7PaWksuyFmYG.jpg</image:loc
+      >
+      <image:caption
+        >It’s Friday night in Asunción and the temperature is 40ºC. Víctor, a
+        17-year-old wheelbarrow-boy, dreams of becoming famous and covets a cell
+        phone in Mercado 4. He is offered the chance to deliver seven boxes with
+        unknown contents in exchange for $100. This sounds like an easy job but
+        it soon gets complicated. Something in the boxes is highly coveted.
+        Víctor and his persecutors find themselves caught up in a crime they
+        know nothing about.</image:caption
+      >
+      <image:title>7 Boxes</image:title>
+    </image:image>
+  </url>
+</urlset>

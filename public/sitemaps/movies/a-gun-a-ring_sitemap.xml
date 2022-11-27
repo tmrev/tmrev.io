@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/191751-A Gun & a Ring</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/191751-A Gun & a Ring</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This film is about six different seemingly ordinary people and how
+        their paths cross during a two-week period in Toronto. A young man,
+        Gnanam, who attributes all of his failures to his dark past and tries to
+        confront it; a dedicated detective, John, who questions his integrity
+        after making a fateful call; a teenager, Aathi, who struggles to cope
+        with the death of his lover; a compassionate widower, Sornam, who is too
+        busy helping others to pay attention to his daughter; a hardworking man,
+        Ariyam, who struggles to find purpose after the death of his only son;
+        and a brave young war victim, Aby, who tries to have a fresh start after
+        being abandoned by her fiancé.</image:caption
+      >
+      <image:title>A Gun & a Ring</image:title>
+    </image:image>
+  </url>
+</urlset>

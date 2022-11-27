@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/550986-A Dangerous Idea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/550986-A Dangerous Idea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mV3NLk4tEY0rxVyvPrTBHvGVCV0.jpg</image:loc
+      >
+      <image:caption
+        >A dangerous idea has threatened the American Dream from the beginning -
+        the belief that some groups and individuals are inherently superior to
+        others and more deserving of fundamental rights. Such biological
+        determinism provided an excuse for some of America's most shameful
+        history. And now it's back. This documentary reveals how biologically
+        determined politics has disenfranchised women and people of color,
+        provided a rationale for state sanctioned crimes committed against
+        America's most vulnerable citizens, and now gains new traction under the
+        Trump administration.</image:caption
+      >
+      <image:title>A Dangerous Idea</image:title>
+    </image:image>
+  </url>
+</urlset>

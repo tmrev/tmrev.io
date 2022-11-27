@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/293006-Aliens on the Moon: The Truth Exposed</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/293006-Aliens on the Moon: The Truth Exposed</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5mTXHn7BkPUUg2ySrpTe990ZCht.jpg</image:loc
+      >
+      <image:caption
+        >Never-before-aired NASA footage presents evidence that the Moon is
+        being used as a base.</image:caption
+      >
+      <image:title>Aliens on the Moon: The Truth Exposed</image:title>
+    </image:image>
+  </url>
+</urlset>

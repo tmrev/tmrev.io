@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/304463-Alpine Lakes - Quiet Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/304463-Alpine Lakes - Quiet Beauty</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xFs9aPuWcuLLDmptiN7FXaI4qGi.jpg</image:loc
+      >
+      <image:caption
+        >The film retraces the water's journey - from the glacier down into the
+        valley, through the mountains to its source, illustrating the beauty of
+        natural, smaller lakes in Austria with their fascinating world of flora
+        and fauna and tells the story of enchanted cliffs, a spectacular
+        underwater world, dragons, ancient species of fish, as well as of
+        speleologists and modern science.</image:caption
+      >
+      <image:title>Alpine Lakes - Quiet Beauty</image:title>
+    </image:image>
+  </url>
+</urlset>

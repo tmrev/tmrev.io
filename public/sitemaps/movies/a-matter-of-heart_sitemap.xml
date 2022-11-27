@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/56400-A Matter of Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/56400-A Matter of Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/imy57oW4ZCS4SiuvrldqVPBFhcS.jpg</image:loc
+      >
+      <image:caption
+        >Garage owner Angelo and big-time film producer Alberto find themselves
+        occupying neighbouring beds in a Rome hospital after suffering heart
+        attacks. Alberto is a gregarious joker - and chain smoker - who has a
+        strong effect on the impressionable Angelo. However, as one of the men's
+        condition deteriorates, the other becomes more deeply involved in his
+        personal life.</image:caption
+      >
+      <image:title>A Matter of Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1035962-Adios Amor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1035962-Adios Amor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >In Adios Amor, the discovery of lost photographs sparks the search for
+        a hero that history forgot—Maria Moreno, a migrant mother driven to
+        speak out by her twelve children’s hunger. Years before Cesar Chavez and
+        Dolores Huerta launched the United Farm Workers, Maria picked up the
+        only weapon she had—her voice—and became an outspoken leader in an era
+        when women were relegated to the background. The first farm worker woman
+        in America to be hired as a union organizer, Maria’s story was silenced
+        and her legacy buried—until now.</image:caption
+      >
+      <image:title>Adios Amor</image:title>
+    </image:image>
+  </url>
+</urlset>

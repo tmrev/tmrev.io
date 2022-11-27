@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/759609-All Work No Play</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/759609-All Work No Play</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pbKOTK3zfFO2FHCLVbdnMwPzjBD.jpg</image:loc
+      >
+      <image:caption
+        >Mixes fiction and documentary to tell the story of Marc Helt and his
+        first sexual experience with other men, as a healing ritual after a
+        violent hate crime.</image:caption
+      >
+      <image:title>All Work No Play</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/541469-A Stone's Throw</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/541469-A Stone's Throw</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wTr0mhf6etAJmuKgwTYui6LNMzz.jpg</image:loc
+      >
+      <image:caption
+        >With their comatose daughter suspected of manslaughter, and police on
+        their way to the hospital, two troubled parents must decide whether to
+        lie to protect her.</image:caption
+      >
+      <image:title>A Stone's Throw</image:title>
+    </image:image>
+  </url>
+</urlset>

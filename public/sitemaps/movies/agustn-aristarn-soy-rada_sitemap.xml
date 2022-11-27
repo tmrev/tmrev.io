@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/506246-Agustín Aristarán: Soy Rada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/506246-Agustín Aristarán: Soy Rada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7FaK61Td0OIk9TUNUZWMYEooLFH.jpg</image:loc
+      >
+      <image:caption
+        >Argentine comedian Agustín "Radagast" Aristarán adds doses of magic,
+        music and acting to his high-energy stand-up routine.</image:caption
+      >
+      <image:title>Agustín Aristarán: Soy Rada</image:title>
+    </image:image>
+  </url>
+</urlset>

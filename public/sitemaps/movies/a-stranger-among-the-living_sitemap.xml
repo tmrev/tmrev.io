@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/645513-A Stranger Among The Living</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/645513-A Stranger Among The Living</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zOyr5rxYLtC8dNg4fw26OfZD2OZ.jpg</image:loc
+      >
+      <image:caption
+        >After narrowly avoiding a school shooting, a young teacher begins to
+        suspect death has more sinister plans for him.</image:caption
+      >
+      <image:title>A Stranger Among The Living</image:title>
+    </image:image>
+  </url>
+</urlset>

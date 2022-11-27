@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/177200-A Passagem da Noite</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/177200-A Passagem da Noite</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t5g8NJVldvjTTSTcSXWkK37bXfh.jpg</image:loc
+      >
+      <image:caption
+        >Mariana is a 17 year old girl, who, after being rapped by drug addict,
+        finds out she's pregnant and, in her path, discovers how difficult it
+        can be entering adulthood.</image:caption
+      >
+      <image:title>A Passagem da Noite</image:title>
+    </image:image>
+  </url>
+</urlset>

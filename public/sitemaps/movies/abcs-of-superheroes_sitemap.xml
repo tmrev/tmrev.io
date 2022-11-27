@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/347457-ABCs of Superheroes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/347457-ABCs of Superheroes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lZ9ymB11Xen1sOrTW7NCYs1c6Wh.jpg</image:loc
+      >
+      <image:caption
+        >ABCs of Superheroes brings you not only one or two or five, but no less
+        than twenty-six of the most heroic and outrageous Superheroes and
+        Supervillains of all time. From the Almighty Ape to the fabulous
+        Zee-Men, this anthology feature film will have you laughing and
+        screaming for more. The ultimate experience in
+        Superpower!</image:caption
+      >
+      <image:title>ABCs of Superheroes</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/305704-And So Angels Die</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/305704-And So Angels Die</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/vIQPLmL94wuICPGZShiJwE8J6g0.jpg</image:loc
+      >
+      <image:caption
+        >A Senegalese man living in Paris with his French wife and children
+        receives a letter from his father back home saying he has arranged for
+        him to take a second wife. The man's indecision outrages his French wife
+        and leads to the end of his marriage, his return to Senegal and his
+        reflection about how his life has ended up.</image:caption
+      >
+      <image:title>And So Angels Die</image:title>
+    </image:image>
+  </url>
+</urlset>

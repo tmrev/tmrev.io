@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/133738-186 Dollars to Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/133738-186 Dollars to Freedom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kU6dAzrm5nO5gBv6ohNd6nJDBzc.jpg</image:loc
+      >
+      <image:caption
+        >A young California surfer has to grow up in a hurry when he is thrown
+        into a Peruvian political prison in 1980.</image:caption
+      >
+      <image:title>186 Dollars to Freedom</image:title>
+    </image:image>
+  </url>
+</urlset>

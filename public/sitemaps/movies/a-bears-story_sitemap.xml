@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/694752-A Bear's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/694752-A Bear's Story</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sS43rqPOIoLzTYHZJwAvVgJF2uV.jpg</image:loc
+      >
+      <image:caption
+        >When a gay man is invited to what he mistakenly thinks is a pool party
+        benefit to "Save the Polar Bears" he discovers that not all gay men go
+        for sleek, svelte younger men and his social and sex lives improve
+        immensly.</image:caption
+      >
+      <image:title>A Bear's Story</image:title>
+    </image:image>
+  </url>
+</urlset>

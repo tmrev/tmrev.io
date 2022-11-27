@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/80120-6 Points About Emma</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/80120-6 Points About Emma</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cPvFs8zFsOiDwX7tuaU7fXExvvZ.jpg</image:loc
+      >
+      <image:caption
+        >Emma's eyes are blind but she believes to see everything very clear:
+        she wants to be a mother. She longs to obsessively. After discovering
+        that her boyfriend can not get her pregnant, she breaks with him and
+        goes in search of a perfect sperm. Without falling in love, no feelings.
+        Sounds easy, but quickly discovers that her blindness is not only in her
+        eyes.</image:caption
+      >
+      <image:title>6 Points About Emma</image:title>
+    </image:image>
+  </url>
+</urlset>

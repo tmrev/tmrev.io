@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/329510-All I Wanna Do</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/329510-All I Wanna Do</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bgeCcMfytL1syd15jsOc444zbaO.jpg</image:loc
+      >
+      <image:caption
+        >'All I Wanna Do' follows the dreams of a 48-year-old Simohamed who
+        works as a parking guard and his 17-year-old son who acts in Hollywood
+        films such as 'Charlie Wilson's War' posing as the crippled Afghan boy
+        or Iraqi war victim. When his dreams of going to Hollywood are dashed he
+        turns to music and forms a hip hop group with his father leaving his
+        slum. Like fish out of water, the duo set out to meet their heroes,
+        enter studios and radio stations for the first time in an adventure
+        through the music industry of Casablanca.</image:caption
+      >
+      <image:title>All I Wanna Do</image:title>
+    </image:image>
+  </url>
+</urlset>

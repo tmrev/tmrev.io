@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376581-Amateur Night</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376581-Amateur Night</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg</image:loc
+      >
+      <image:caption
+        >Guy Carter, an insecure expectant father unable to find work in his
+        field, accepts a job driving hookers around Los Angeles. One long and
+        crazy evening proves to our hero that he is, in fact, up to the task of
+        fatherhood.</image:caption
+      >
+      <image:title>Amateur Night</image:title>
+    </image:image>
+  </url>
+</urlset>

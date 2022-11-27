@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/390603-14 Minutes from Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/390603-14 Minutes from Earth</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1xzsB3GNliuDfK8Fr7QKfmwOwWe.jpg</image:loc
+      >
+      <image:caption
+        >At the break of dawn on October 24, 2014, 57-year old Google Executive
+        Alan Eustace slowly rises into the air dangling below a helium balloon.
+        This ascent is the culmination of three years of planning under an
+        utmost secret mission which started as a scribble on a paper napkin.
+        Eustace realized that as a private citizen you cannot merely walk into a
+        store and buy a spacesuit. He determined that he would have to call upon
+        the brightest minds in the country to pioneer a new technological
+        invention in order to make his dream come true.</image:caption
+      >
+      <image:title>14 Minutes from Earth</image:title>
+    </image:image>
+  </url>
+</urlset>

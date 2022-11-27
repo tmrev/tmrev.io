@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/636879-A Nun's Curse</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/636879-A Nun's Curse</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eutNRwSguV0NCx7BNAXOibWzjP6.jpg</image:loc
+      >
+      <image:caption
+        >A group of travelers are forced to seek shelter inside an abandoned
+        jail where a notorious nun named Sister Monday had once been assigned
+        and was suspected of murdering prisoners.</image:caption
+      >
+      <image:title>A Nun's Curse</image:title>
+    </image:image>
+  </url>
+</urlset>

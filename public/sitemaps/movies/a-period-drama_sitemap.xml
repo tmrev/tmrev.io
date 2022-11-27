@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/522243-A Period Drama</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/522243-A Period Drama</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mZ3bvMQYcSaMqQqFuxH3aFasWpZ.jpg</image:loc
+      >
+      <image:caption
+        >A comedic short about the rough relationship between a woman and her
+        personified period. Chloe is your average menstruating female who
+        believes that she has the worst period ever. Big Red, her period, who
+        takes the form of a childlike, seemingly harmless, yet completely
+        dangerous woman, always shows up when she’s least expected. This time
+        she’s early and she happens to be interrupting an extremely intimate
+        moment between Chloe and her new-ish boyfriend, Adam. This causes their
+        romantic night to end and a week of tough love with Big Red to begin.
+        But something happens during the course of this week that changes the
+        way Chloe sees her period forever.</image:caption
+      >
+      <image:title>A Period Drama</image:title>
+    </image:image>
+  </url>
+</urlset>

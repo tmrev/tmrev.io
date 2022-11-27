@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/454546-American Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/454546-American Exorcism</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/tnKxcSiwXEYuuc1oriwYLG7021.jpg</image:loc
+      >
+      <image:caption
+        >Damon Richter thought he left the world of possessions, exorcisms, and
+        evil behind until an old friend arrives with frightening information
+        about his estranged daughter knowing that only his otherworldly skills
+        can save her.</image:caption
+      >
+      <image:title>American Exorcism</image:title>
+    </image:image>
+  </url>
+</urlset>

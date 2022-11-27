@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/153102-12 Days Of Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/153102-12 Days Of Terror</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5H1p1ljwpDuXQgbzesb5kYoXoVl.jpg</image:loc
+      >
+      <image:caption
+        >July of 1916 was a time of record heat, a polio epidemic, and a World
+        War in Europe. But beachgoers in New Jersey are threatened by a even
+        greater terror: a shark that has suddenly developed a taste for human
+        flesh. Starting July 1st and lasting over a period of 12 days, the
+        unidentified shark kills four people and seriously injures a fifth
+        before the attacks stop, and threatens New Jersey's thriving tourist
+        industry. Based on true events, and one of the inspirations behind Peter
+        Benchley's Jaws.</image:caption
+      >
+      <image:title>12 Days Of Terror</image:title>
+    </image:image>
+  </url>
+</urlset>

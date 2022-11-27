@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/40074-Alucarda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/40074-Alucarda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3iWNq4audJN2KRMJxxMmXFTEm8j.jpg</image:loc
+      >
+      <image:caption
+        >A young girl's arrival at a convent after the death of her parents
+        marks the beginning of a series of events that unleash an evil presence
+        on the girl and her mysterious new friend, an enigmatic figure known as
+        Alucarda. Demonic possession, Satan worship, and vampirism
+        follows.</image:caption
+      >
+      <image:title>Alucarda</image:title>
+    </image:image>
+  </url>
+</urlset>

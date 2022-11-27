@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/418733-Alerik</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/418733-Alerik</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Alerik, a dreamy 16-year-old boy, lives with his grandfather in a
+        country that is at war. When the old man is killed in a bomb attack,
+        Alerik becomes obsessed by the wish to take revenge. From now on, the
+        war has him firmly in its clutches.</image:caption
+      >
+      <image:title>Alerik</image:title>
+    </image:image>
+  </url>
+</urlset>

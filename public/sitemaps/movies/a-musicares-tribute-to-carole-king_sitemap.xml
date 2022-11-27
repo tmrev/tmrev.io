@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/353598-A MusiCares Tribute to Carole King</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/353598-A MusiCares Tribute to Carole King</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4a3I9h25ZZZb2rTj0AKl79dvNX6.jpg</image:loc
+      >
+      <image:caption
+        >On January 24, 2014, Carole King was honored as the 2014 MusiCares
+        Person of the Year. At a gala event in Los Angeles, Carole and a cast of
+        superstar guests performed some of the quintessential songs from her
+        renowned and celebrated career.</image:caption
+      >
+      <image:title>A MusiCares Tribute to Carole King</image:title>
+    </image:image>
+  </url>
+</urlset>

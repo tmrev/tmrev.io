@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/490087-Adam: The Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/490087-Adam: The Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/z9ybHWqPlZRfkKWrTra3YdDx6Ee.jpg</image:loc
+      >
+      <image:caption
+        >What are you willing to do, to be saved? Oats Studios presents a new
+        chapter of ADAM and a new tribe of human survivors in this
+        post-apocalyptic world. Created entirely in real time using Unity, check
+        out Episode 3. For more info, check out :
+        https://unity.com/madewith/adam</image:caption
+      >
+      <image:title>Adam: The Prophet</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/272519-Aal</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/272519-Aal</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rvMMyhp2vTQeTvcSUJadMMcPCTf.jpg</image:loc
+      >
+      <image:caption
+        >A man returns from vacation to find that his family has been kidnapped.
+        He is handed over a cell phone, the caller on which gives him a set of
+        instructions that he must follow to save his family. However, he soon
+        realizes that he has been implicated in a bombing.</image:caption
+      >
+      <image:title>Aal</image:title>
+    </image:image>
+  </url>
+</urlset>

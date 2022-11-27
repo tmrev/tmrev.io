@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/52411-Action Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/52411-Action Boys</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/myghVgy9N7XUobHefMz0z1gbq5Y.jpg</image:loc
+      >
+      <image:caption
+        >Only eight out of 36 boys pass the rigorous training at Seoul Action
+        School. They all have different dreams but all wish to become stuntmen.
+        Despite frequent accidents and injuries, they never give up their dream,
+        and the movie follows their hopeful desperation.</image:caption
+      >
+      <image:title>Action Boys</image:title>
+    </image:image>
+  </url>
+</urlset>

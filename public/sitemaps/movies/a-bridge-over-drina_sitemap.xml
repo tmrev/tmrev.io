@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/410075-A bridge over Drina</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/410075-A bridge over Drina</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Yugoslav Nobel Prize winner Ivo Andrić’s novel ‘A Bridge over the
+        Drina’ describes a yearslong conflict of the local people of the Bosnian
+        region around the town of Višegrad. This short documentary rightly
+        evokes associations with the novel. As a kind of annex to the novel, the
+        film combines the scenes of the bridge with the testimony of Mevsud
+        Poljo from the nearby village of Vlahovići, who was pulling dead bodies
+        out of the Drina in order to identify them. Although we do not see
+        Mevsud, we get to know how many men and how many women were among the
+        dead, whether there were traces of violence or rape on them... And the
+        Drina keeps fl owing under the bridge...</image:caption
+      >
+      <image:title>A bridge over Drina</image:title>
+    </image:image>
+  </url>
+</urlset>

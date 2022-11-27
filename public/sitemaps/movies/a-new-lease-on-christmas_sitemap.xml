@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/890340-A New Lease on Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/890340-A New Lease on Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5vtC5qY3dGApaGLtZQU7D2AnK1p.jpg</image:loc
+      >
+      <image:caption
+        >A single real estate agent falls for a handsome coffee shop owner -
+        only to discover that the job she just took requires her to evict him
+        from his shop.</image:caption
+      >
+      <image:title>A New Lease on Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

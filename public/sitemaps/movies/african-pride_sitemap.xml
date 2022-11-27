@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/509780-African Pride</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/509780-African Pride</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gBRgbU7b0uIzHW0t20xe9LMDV0J.jpg</image:loc
+      >
+      <image:caption
+        >Meeting homophobic violence with visibility. African Pride is the story
+        of those who are taking to the streets in South Africa's townships for
+        demonstrations, protests and township prides.</image:caption
+      >
+      <image:title>African Pride</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/976880-ALFI (Shevi)</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/976880-ALFI (Shevi)</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/itU0KRWNm98eV2BI8fZfGCITwG7.jpg</image:loc
+      >
+      <image:caption
+        >Sixteen year old Noga is trying to write her speech for ALFI, the
+        Animal-Liberation-Front-Israel, with the help of Lea, an older, true
+        activist. Noga imagines freedom for herself and for all living beings,
+        but in the meantime she is struggling with her own words.</image:caption
+      >
+      <image:title>ALFI (Shevi)</image:title>
+    </image:image>
+  </url>
+</urlset>

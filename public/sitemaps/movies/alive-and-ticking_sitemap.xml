@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70757-Alive and Ticking</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70757-Alive and Ticking</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7WbUDNVIr5q01mtvuh0XqKzHEPp.jpg</image:loc
+      >
+      <image:caption
+        >Eva lives a happy life with her ​​father, an unsuccessful but always
+        optimistic car salesman, her consumerist mother, and her quirky
+        grandmother. But Eva is a tad different - she suffers from Tourette's
+        syndrome. Her family has long been accustomed to her tics and the
+        accompanying insults and bullying, and Eva has come to grips with her
+        role as an outsider. When her father gets a job offer to work in Berlin,
+        they must suddenly leave their familiar surroundings. But Eva won't have
+        it, this move must be prevented - at any price!</image:caption
+      >
+      <image:title>Alive and Ticking</image:title>
+    </image:image>
+  </url>
+</urlset>

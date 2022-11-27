@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/828948-Amiko</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/828948-Amiko</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/l4Flbo07SsidWlh0NWeCdlJBRb2.jpg</image:loc
+      >
+      <image:caption
+        >Amiko lives in Hiroshima, Japan. She is a little different from other
+        girls. Her family consists of her father, pregnant mother, and an older
+        brother. Her father is nice to other people and her mother teaches
+        calligraphy. Amiko has classmate Ri-kun, whom she likes. Amiko is honest
+        and naive. Her behavior sometimes makes people feel
+        embarrassed.</image:caption
+      >
+      <image:title>Amiko</image:title>
+    </image:image>
+  </url>
+</urlset>

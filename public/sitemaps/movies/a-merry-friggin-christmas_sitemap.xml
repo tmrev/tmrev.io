@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/286532-A Merry Friggin' Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/286532-A Merry Friggin' Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/eR9muFXkNCknGdfTQSeDS6tdPdZ.jpg</image:loc
+      >
+      <image:caption
+        >Boyd Mitchler and his family must spend Christmas with his estranged
+        family of misfits. Upon realizing that he left all his son's gifts at
+        home, he hits the road with his dad in an attempt to make the 8-hour
+        round trip before sunrise.</image:caption
+      >
+      <image:title>A Merry Friggin' Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

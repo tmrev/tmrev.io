@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/441763-Alien Earths</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/441763-Alien Earths</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/o14BZcvK64k1s1e3Ka4Zr8fUqVb.jpg</image:loc
+      >
+      <image:caption
+        >Join leading astronomers on a visual journey beyond our solar system in
+        search of planets like Earth. Using CGI animation, we'll explore bizarre
+        worlds that stretch our imagination: planets with iron rain and hot ice,
+        with diamonds everywhere, and endless oceans of gas. Planets with
+        abnormal orbital patterns and planets with no pattern at all that drift
+        alone in the Milky Way. Planets so strange we never could have predicted
+        them before. Could life exist there?</image:caption
+      >
+      <image:title>Alien Earths</image:title>
+    </image:image>
+  </url>
+</urlset>

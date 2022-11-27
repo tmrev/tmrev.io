@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/72358-A Thousand Words</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/72358-A Thousand Words</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4BoeDiKFqKwq4mfU8ITDLglFyoc.jpg</image:loc
+      >
+      <image:caption
+        >Jack McCall is a fast-talking literary agent, who can close any deal,
+        any time, any way. He has set his sights on New Age guru Dr. Sinja for
+        his own selfish purposes. But Dr. Sinja is on to him, and Jack’s life
+        comes unglued after a magical Bodhi tree mysteriously appears in his
+        backyard. With every word Jack speaks, a leaf falls from the tree and he
+        realizes that when the last leaf falls, both he and the tree are toast.
+        Words have never failed Jack McCall, but now he’s got to stop talking
+        and conjure up some outrageous ways to communicate or he’s a
+        goner.</image:caption
+      >
+      <image:title>A Thousand Words</image:title>
+    </image:image>
+  </url>
+</urlset>

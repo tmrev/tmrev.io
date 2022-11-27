@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/297610-Abraham Lincoln Vampire Hunter: The Great
+      Calamity</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/297610-Abraham Lincoln Vampire Hunter: The Great
+      Calamity</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9kD8bohNKE1truudhmeOtOjfNeH.jpg</image:loc
+      >
+      <image:caption
+        >A motion comic follow-up to a chapter from Abraham Lincoln Vampire
+        Hunter novel where Abe's friend, Edgar Allan Poe, tells him the tale of
+        historical Hungarian countess Elizabeth Bathory, often tied to vampire
+        legends due to her brutality.</image:caption
+      >
+      <image:title
+        >Abraham Lincoln Vampire Hunter: The Great Calamity</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

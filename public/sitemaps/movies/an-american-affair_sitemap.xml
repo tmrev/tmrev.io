@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/20263-An American Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/20263-An American Affair</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qvvxmZJich3ai0f8T65PAXPMeYi.jpg</image:loc
+      >
+      <image:caption
+        >In the early 1960s, teenager Adam Stafford (Cameron Bright) becomes
+        obsessed with his new neighbor, Catherine Caswell (Gretchen Mol), a
+        divorcée and free spirit. Stafford spies on Caswell as she meets with
+        strange men, and, despite the warnings of his conservative parents, he
+        begins working for her as a gardener. Amid rumors of her affair with
+        President Kennedy, the two become close, but political intrigue
+        surrounding her acquaintances soon infringes on their
+        friendship.</image:caption
+      >
+      <image:title>An American Affair</image:title>
+    </image:image>
+  </url>
+</urlset>

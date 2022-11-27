@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1041318-Andryusha's Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1041318-Andryusha's Diary</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Andrew, like everyone else, worries about problems, rejoices when he
+        helps his loved ones, and looks forward to his birthday. The cartoon
+        unobtrusively exposes myths about people with Down syndrome, showing
+        them interesting, talented and multifaceted
+        personalities.</image:caption
+      >
+      <image:title>Andryusha's Diary</image:title>
+    </image:image>
+  </url>
+</urlset>

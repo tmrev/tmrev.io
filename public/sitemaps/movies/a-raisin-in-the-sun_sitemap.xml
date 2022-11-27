@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/25781-A Raisin in the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/25781-A Raisin in the Sun</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pUoE6wFKPTm9fWy0Qio38OqUDFG.jpg</image:loc
+      >
+      <image:caption
+        >Dreams can make a life worth living, but they can also be dashed by bad
+        decisions. This is the crossroads whare the Younger family find
+        themselves when their father passes away and leaves them with $10,000 in
+        life insurance money. Should they buy a new home for the family? Perhaps
+        a liquor store? While no choice is easy, life on the South Side of
+        Chicago in the 1950s is even harder.</image:caption
+      >
+      <image:title>A Raisin in the Sun</image:title>
+    </image:image>
+  </url>
+</urlset>

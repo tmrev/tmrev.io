@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/135962-A Summer in the Mountains</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/135962-A Summer in the Mountains</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kLueBW1Mw7YH3H7uvIzXhnaCK1Y.jpg</image:loc
+      >
+      <image:caption
+        >Hamburg boy Leo Vandenbroek is not amused when his mother, ER surgeon
+        Pia, drags him to a godforsaken Bavarian village for her 'long overdue
+        relaxing holiday'. In fact she rented from local doctor Peter Huber
+        because he's married to Maria, who she learned in her recently deceased
+        father's testament to be her illegitimate half-sister. Leo, who misses
+        his daddy since Pia's career ruined her marriage, instantly bonds with
+        Peter, and ultimately even becomes the glue to reconcile him with his
+        father Karl, who is embittered since his wife's fatal
+        disease.</image:caption
+      >
+      <image:title>A Summer in the Mountains</image:title>
+    </image:image>
+  </url>
+</urlset>

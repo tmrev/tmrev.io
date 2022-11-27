@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/332813-Allende en su laberinto</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/332813-Allende en su laberinto</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/3ht74NTSHSNE0dEATQP4drUA61s.jpg</image:loc
+      >
+      <image:caption
+        >The last 7 hours of former President of Chile Salvador Allende, and his
+        closest collaborators inside the Palace of La Moneda, during the brutal
+        military coup d'etat on Sept. 11, 1973, the day democracy in Chile
+        ended. Based on true events.</image:caption
+      >
+      <image:title>Allende en su laberinto</image:title>
+    </image:image>
+  </url>
+</urlset>

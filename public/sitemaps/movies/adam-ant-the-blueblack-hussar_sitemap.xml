@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/226538-Adam Ant: The Blueblack Hussar</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/226538-Adam Ant: The Blueblack Hussar</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sifgrUfiFHbuu3cJdIZzp6oSrJp.jpg</image:loc
+      >
+      <image:caption
+        >From Sunrise Pictures, the long awaited Adam Ant documentary film,
+        directed by Jack Bond. Featuring Charlotte Rampling, Mark Ronson, Jamie
+        Reynolds, Allen Jones, John Robb.</image:caption
+      >
+      <image:title>Adam Ant: The Blueblack Hussar</image:title>
+    </image:image>
+  </url>
+</urlset>

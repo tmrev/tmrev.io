@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/699046-A Perfect Plan</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/699046-A Perfect Plan</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wah4b3hDb3ueVNuwNxdplUE8ppQ.jpg</image:loc
+      >
+      <image:caption
+        >Four notorious thieves wake up in a fortified warehouse and are forced
+        by a cunning master thief to plan and commit an extraordinary diamond
+        heist.</image:caption
+      >
+      <image:title>A Perfect Plan</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/163202-A Borrowed Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/163202-A Borrowed Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kjIg6GM1D2p16gWq4isNj4fSggp.jpg</image:loc
+      >
+      <image:caption
+        >Sega's children, born into post-war Chinese rule, can't relate to their
+        father's love for Japanese culture, having grown up under Japanese rule
+        before WWII.</image:caption
+      >
+      <image:title>A Borrowed Life</image:title>
+    </image:image>
+  </url>
+</urlset>

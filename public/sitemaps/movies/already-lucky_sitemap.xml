@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/597735-Already Lucky</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/597735-Already Lucky</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zgnGp5dC5FYoWaFymNsXtQINYK1.jpg</image:loc
+      >
+      <image:caption
+        >Ian Murphy can't find a job. Layla is facing harassment at her job. At
+        home, the two of them can't seem to connect anymore. After one faithful
+        night, she walks out on him leaving him distraught, angry, and self
+        loathing. Through some cosmic shift, he meets Evelyn, who is impossibly
+        positive and helps make life seem bearable for him again.</image:caption
+      >
+      <image:title>Already Lucky</image:title>
+    </image:image>
+  </url>
+</urlset>

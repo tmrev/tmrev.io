@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/324251-A Space Program</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/324251-A Space Program</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xxTpe14rlOlJXY9bnRdfNtiKy2a.jpg</image:loc
+      >
+      <image:caption
+        >The artist Tom Sachs and his team of bricoleurs build a handmade space
+        program and send two female astronauts to Mars</image:caption
+      >
+      <image:title>A Space Program</image:title>
+    </image:image>
+  </url>
+</urlset>

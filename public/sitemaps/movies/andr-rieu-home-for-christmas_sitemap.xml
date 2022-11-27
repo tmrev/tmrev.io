@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/145391-André Rieu - Home for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/145391-André Rieu - Home for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/10vx2yCtpc70PYyoVrHnub3OOxN.jpg</image:loc
+      >
+      <image:caption
+        >Filmed in Maastricht in 2011, the celebrated Dutch violinist and
+        composer plays a selection of his favourite Christmas songs. The
+        selection includes 'Silent Night', 'Walking In The Air', 'Winter
+        Wonderland' and 'O Come All Ye Faithful'.</image:caption
+      >
+      <image:title>André Rieu - Home for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

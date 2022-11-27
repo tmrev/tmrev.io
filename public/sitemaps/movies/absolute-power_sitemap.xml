@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/66-Absolute Power</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/66-Absolute Power</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xX9gmwtnTi0Y8WcTF7Jsg9Hdp6W.jpg</image:loc
+      >
+      <image:caption
+        >A master thief coincidentally is robbing a house where a murder—in
+        which the President of The United States is involved—occurs in front of
+        his eyes. He is forced to run, while holding evidence that could convict
+        the President.</image:caption
+      >
+      <image:title>Absolute Power</image:title>
+    </image:image>
+  </url>
+</urlset>

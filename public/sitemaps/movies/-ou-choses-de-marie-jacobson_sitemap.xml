@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/646456-2 ou 3 choses de Marie Jacobson</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/646456-2 ou 3 choses de Marie Jacobson</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/mJQeUHoNGvU0BqeYuEohHhiRjBU.jpg</image:loc
+      >
+      <image:caption
+        >Marie is a doctor. She smokes and reads a lot. And speaks from time to
+        time with the dead. Today, she learns that it is her turn to die. She
+        only has to live a few weeks. It’s short. She must act quikly, dream,
+        laugh and still live.</image:caption
+      >
+      <image:title>2 ou 3 choses de Marie Jacobson</image:title>
+    </image:image>
+  </url>
+</urlset>

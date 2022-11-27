@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/416358-Andhra Mess</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/416358-Andhra Mess</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yBuWGqhGKEggKXafKW5A2vkDlhi.jpg</image:loc
+      >
+      <image:caption
+        >Four criminals abscond with the money that they have stolen on a job,
+        and end up in a remote village. Meanwhile, the gangster under whom they
+        work is trying to trace their whereabouts.</image:caption
+      >
+      <image:title>Andhra Mess</image:title>
+    </image:image>
+  </url>
+</urlset>

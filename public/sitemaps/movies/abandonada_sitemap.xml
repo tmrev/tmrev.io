@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/398200-Abandonada</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/398200-Abandonada</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kYMxY3m5P4ygVFRQ0UaS1uf8gUH.jpg</image:loc
+      >
+      <image:caption
+        >After finishing prison sentence in Canada and came back to the
+        Philippines, Gemma wants to recover her son after she was abandoned by
+        her husband, Edwin. To do so, she worked as a nanny and was hired by
+        Cindy, new wife of her husband. Being closer to her son in this
+        household, she plans to escape with her son.</image:caption
+      >
+      <image:title>Abandonada</image:title>
+    </image:image>
+  </url>
+</urlset>

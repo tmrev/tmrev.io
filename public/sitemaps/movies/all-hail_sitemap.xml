@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/682344-All Hail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/682344-All Hail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9zVyqx5WKb0iCkk46wDUxuwAiMR.jpg</image:loc
+      >
+      <image:caption
+        >A famous TV weatherman, Miguel Flores, becomes public enemy number one
+        when he fails to predict a terrible hailstorm. He is forced out of the
+        big city, Buenos Aires, fleeing the capital for his birthplace of
+        Córdoba. The result will be a voyage of rediscovery that is as absurd as
+        it is human</image:caption
+      >
+      <image:title>All Hail</image:title>
+    </image:image>
+  </url>
+</urlset>

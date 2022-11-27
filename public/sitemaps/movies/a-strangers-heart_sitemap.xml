@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18375-A Stranger's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18375-A Stranger's Heart</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zdCcrK5dTNEZKi7GTtTCuHmT7uc.jpg</image:loc
+      >
+      <image:caption
+        >Man and woman (Peter Dobson and Samantha Mathis) fall in love in a
+        heart transplant facility. They are both attracted to a little girl
+        (Mary Matilyn Mouser) who turns out to be the orphan of their heart
+        donors...</image:caption
+      >
+      <image:title>A Stranger's Heart</image:title>
+    </image:image>
+  </url>
+</urlset>

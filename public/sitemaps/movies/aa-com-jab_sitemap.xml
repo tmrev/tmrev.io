@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/475615-Açaí Com Jabá</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/475615-Açaí Com Jabá</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ptw22g2nZKAOmuvQasmCGmoF5DV.jpg</image:loc
+      >
+      <image:caption
+        >In a bar in Belém, northern Brazil, a dispute between a local man and a
+        tourist, about who drinks more açaí with jabá.</image:caption
+      >
+      <image:title>Açaí Com Jabá</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/666958-AAA Triplemania XXVII</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/666958-AAA Triplemania XXVII</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/1ANoxQobumu3tiMkZEhxYYG3CQg.jpg</image:loc
+      >
+      <image:caption
+        >AAA's largest annual event took place on August 3, 2019, at the Arena
+        Ciudad de México in Mexico City, Mexico. It was the eighth consecutive
+        Triplemanía to be held at the arena, and marked the 27th year in a row
+        that AAA had held a Triplemanía show, and the 32nd overall show held
+        under the Triplemanía banner since 1993.</image:caption
+      >
+      <image:title>AAA Triplemania XXVII</image:title>
+    </image:image>
+  </url>
+</urlset>

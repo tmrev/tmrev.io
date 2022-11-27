@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/572560-A Head for Business</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/572560-A Head for Business</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hp7LrM99n7wUj7zfnWoYJwHaSgr.jpg</image:loc
+      >
+      <image:caption
+        >A satirical examination of the transformation of a French investment
+        bank into a Hollywood power broker, Le Sens des Affaires begins with a
+        lowly bank clerk's embezzlement of $104 million francs (about $14
+        million dollars) to finance his screen adaptation of Chekhov's Three
+        Sisters. The clerk, Gerard Dutillard, funnels bank funds into three
+        fictional affiliates in a way that makes the bank's president,
+        Jean-Francois de Roquemorel, legally responsible. Financial ruin seems a
+        distinct possibility, but Dutillard has worked out a plan to make the
+        system work in his favor, and soon enough his banking superiors are
+        doing their best to salvage his film and make it marketable, prompting
+        actual investors to fuel the production with cash.</image:caption
+      >
+      <image:title>A Head for Business</image:title>
+    </image:image>
+  </url>
+</urlset>

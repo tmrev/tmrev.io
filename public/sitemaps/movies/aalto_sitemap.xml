@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/683722-Aalto</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/683722-Aalto</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/25O48Z0L4uUIA4MjuMRA2DMLJQf.jpg</image:loc
+      >
+      <image:caption
+        >This captivating exploration of Alvar Aalto, the defining figure in
+        Scandic design and one of Europe's greatest modern architects, focuses
+        on his remarkable and loving partnership with wife, Aino. Theirs was a
+        profoundly humanist vision that put people at the centre of design, and
+        ranged from work in furniture design through to huge architectural
+        projects. They mixed with, and influenced, major figures of modernist
+        art and design including Le Corbusier, Gropius, Moholy-Nagy, and Frank
+        Lloyd Wright. Come on a cinematic tour of their iconic buildings all
+        over the world, from a library in Russia, a student dormitory at MIT, an
+        art collector's private house near Paris, to a pavilion in Venice.
+        Narrated by experts in the field and featuring never before seen archive
+        footage, Aalto tells the love story of an extraordinary couple with a
+        great passion for human scale architecture.</image:caption
+      >
+      <image:title>Aalto</image:title>
+    </image:image>
+  </url>
+</urlset>

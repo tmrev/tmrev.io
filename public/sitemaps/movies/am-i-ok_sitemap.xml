@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/641934-Am I Ok?</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/641934-Am I Ok?</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Lucy and Jane have been best friends for most of their lives and think
+        they know everything there is to know about each other. But when Jane
+        announces she's moving to London, Lucy reveals a long-held secret. As
+        Jane tries to help Lucy, their friendship is thrown into
+        chaos.</image:caption
+      >
+      <image:title>Am I Ok?</image:title>
+    </image:image>
+  </url>
+</urlset>

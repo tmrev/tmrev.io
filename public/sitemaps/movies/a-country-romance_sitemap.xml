@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/800052-A Country Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/800052-A Country Romance</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/sbDuA60gZq8WHJaBiYmooJrOFrR.jpg</image:loc
+      >
+      <image:caption
+        >When Sarah Kress learns her family’s vineyard is up for sale, she
+        leaves her busy urban life and visits her hometown to help with the sale
+        and have her last harvest. With the help of handsome neighbor Gabe, huge
+        challenge becomes fun as she and Gabe fall in love. But when the job is
+        done, Sarah must decide whether to return to her fast-paced life or
+        follow her heart.</image:caption
+      >
+      <image:title>A Country Romance</image:title>
+    </image:image>
+  </url>
+</urlset>

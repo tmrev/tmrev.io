@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/404994-A Decent Arrangement</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/404994-A Decent Arrangement</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This is the story of an American- Indian who travels to India for an
+        arranged marriage. After he meets an American girl traveling through
+        India, he must decide if he should follow cultural traditions or his own
+        heart.</image:caption
+      >
+      <image:title>A Decent Arrangement</image:title>
+    </image:image>
+  </url>
+</urlset>

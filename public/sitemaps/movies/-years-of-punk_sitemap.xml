@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/556834-25 Years of Punk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/556834-25 Years of Punk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7PSoHYNZYoe1PpnK1sVYYdDn07Z.jpg</image:loc
+      >
+      <image:caption
+        >Lou Reed narrates this Television special that takes a look back at the
+        beginnings of the punk rock movements in New York & England, the
+        underground punk scenes in the 70's & 80's, and the punk resurgence in
+        the 90's. A collaboration between VH1 and Spin magazine.</image:caption
+      >
+      <image:title>25 Years of Punk</image:title>
+    </image:image>
+  </url>
+</urlset>

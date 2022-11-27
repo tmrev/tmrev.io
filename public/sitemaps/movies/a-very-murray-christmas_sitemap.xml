@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/364067-A Very Murray Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/364067-A Very Murray Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hJuDYdUnHtCBuQ9Ue8fen92Gf0e.jpg</image:loc
+      >
+      <image:caption
+        >Bill Murray worries no one will show up to his TV show due to a massive
+        snowstorm in New York City. Through luck and perseverance, guests arrive
+        at Gotham’s Carlyle Hotel to help him — dancing and singing in holiday
+        spirit.</image:caption
+      >
+      <image:title>A Very Murray Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

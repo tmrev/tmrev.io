@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/396485-A. K.</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/396485-A. K.</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jEogjj5O7e9F2UYZSF6Ib3cb9Lh.jpg</image:loc
+      >
+      <image:caption
+        >In 1985, Chris Marker traveled to Japan to attend the filming of Ran,
+        directed by Akira Kurosawa. Marker analyzes the progress of filming; the
+        infinite patience of a team under the orders of a meticulous director
+        down to the smallest detail; the antithetical mixture of the modern with
+        the traditional; of the real with the fictitious; of life with cinema…
+        and literature.</image:caption
+      >
+      <image:title>A. K.</image:title>
+    </image:image>
+  </url>
+</urlset>

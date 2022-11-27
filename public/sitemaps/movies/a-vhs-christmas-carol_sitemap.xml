@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/781669-A VHS Christmas Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/781669-A VHS Christmas Carol</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cuRHAEkE3RGo5SDBPFwHgPlDRXp.jpg</image:loc
+      >
+      <image:caption
+        >An adaptation of Charles Dickens’ A Christmas Carol in the style of
+        80’s music videos. This reimagining of the classic tale offers good
+        feelings of Christmas past and an escape from Christmas present. A
+        cutting edge blend of live and filmed performances straight out of
+        Christmas future.</image:caption
+      >
+      <image:title>A VHS Christmas Carol</image:title>
+    </image:image>
+  </url>
+</urlset>

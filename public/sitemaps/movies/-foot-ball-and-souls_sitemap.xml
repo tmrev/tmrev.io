@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/470116-3 Foot Ball and Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/470116-3 Foot Ball and Souls</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lZEuLzBzx49MohxZ9pg4gPb4sRM.jpg</image:loc
+      >
+      <image:caption
+        >A group of four decides to commit suicide using gigantic fireworks. But
+        every time the fireworks explode, they find themselves back in time
+        before they carried out the plan. They suspect the cause to be the young
+        age of one of the members and try to convince the high school girl to
+        quit.</image:caption
+      >
+      <image:title>3 Foot Ball and Souls</image:title>
+    </image:image>
+  </url>
+</urlset>

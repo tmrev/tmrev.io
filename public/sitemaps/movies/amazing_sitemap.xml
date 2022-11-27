@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/259247-Amazing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/259247-Amazing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/hjvZJRvWBUc8rOydEOKK3aDu32Q.jpg</image:loc
+      >
+      <image:caption
+        >"Amazing" centers on a video game company boss, Frank (Eric Mabius of
+        TV's "Ugly Betty"), who is eager to rush his firm's new
+        thought-controlled basketball game to market, despite the objections of
+        the project leader Bingshan (popular Chinese actor Huang Xiaoming), who
+        warns that a bug in the system could escape the computer and infect
+        players' brains.</image:caption
+      >
+      <image:title>Amazing</image:title>
+    </image:image>
+  </url>
+</urlset>

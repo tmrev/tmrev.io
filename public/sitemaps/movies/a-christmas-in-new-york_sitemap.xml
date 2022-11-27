@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/518418-A Christmas in New York</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/518418-A Christmas in New York</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2mTMgYQqct3LLCPqj88xERLn70D.jpg</image:loc
+      >
+      <image:caption
+        >Six romantic stories unfold in a New York hotel during the week leading
+        up to Christmas.</image:caption
+      >
+      <image:title>A Christmas in New York</image:title>
+    </image:image>
+  </url>
+</urlset>

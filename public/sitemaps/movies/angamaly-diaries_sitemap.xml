@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/442000-Angamaly Diaries</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/442000-Angamaly Diaries</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fwxgQakS3vUQIzgJMphQWHxAqr2.jpg</image:loc
+      >
+      <image:caption
+        >Six young friends in the small town of Angamaly tries their luck by
+        starting a pork business lead by Vincent Pepe. They initially strike a
+        business deal with Rajan and Ravi despite the duo having killed a close
+        friend of theirs in a gang fight. Vincent is in love with Sakhi and plan
+        to immigrate abroad with her. But their plans hit a road bump as the
+        deal with the gangsters hits some road bumps.</image:caption
+      >
+      <image:title>Angamaly Diaries</image:title>
+    </image:image>
+  </url>
+</urlset>

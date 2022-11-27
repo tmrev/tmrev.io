@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/376386-All These Sleepless Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/376386-All These Sleepless Nights</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fvvJW25w6ooWAnBHdA9QBIm6J35.jpg</image:loc
+      >
+      <image:caption
+        >What does it mean to be awake in a world that seems satisfied to be
+        asleep? Kris and Michal push their experiences of life and love to a
+        breaking point as they restlessly roam the city streets in search of
+        answers, adrift in the euphoria and uncertainty of youth.</image:caption
+      >
+      <image:title>All These Sleepless Nights</image:title>
+    </image:image>
+  </url>
+</urlset>

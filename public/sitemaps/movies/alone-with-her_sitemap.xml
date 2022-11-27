@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/18206-Alone With Her</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/18206-Alone With Her</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ruBgXH4UDjNFFQkvQjddjF5EAsj.jpg</image:loc
+      >
+      <image:caption
+        >The harrowing story of a disturbed young man's attempts to win the
+        affections of an unsuspecting young woman. When Doug first sees Amy, he
+        instantly falls for her and begins to watch her every move, going so far
+        as to set up spy cameras in her apartment. However, as his fascination
+        grows into obsession he's no longer satisfied with just
+        watching.</image:caption
+      >
+      <image:title>Alone With Her</image:title>
+    </image:image>
+  </url>
+</urlset>

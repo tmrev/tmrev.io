@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/91083-A Reason to Live</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/91083-A Reason to Live</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Apx0x2lHJoKg7g3OI9jVZAphmYW.jpg</image:loc
+      >
+      <image:caption
+        >TV producer Da-hye lived through a miserable childhood. Her parents
+        fought all the time and finally divorced. Da-hye then found her prince
+        charming and was engaged to marry him. Then on a rainy night, the day
+        before her birthday, Da-hye's friend Ji-seok calls and asks for a ride
+        from her fiancé. When her fiance arrives, he finds out that Ji-seok has
+        already gotten a ride from his sister Ji-min. As Da-hye's fiancé walks
+        back to his car he is hit by a motorcycle. The driver of the motorcycle
+        then turns around and fatally runs over her fiance.</image:caption
+      >
+      <image:title>A Reason to Live</image:title>
+    </image:image>
+  </url>
+</urlset>

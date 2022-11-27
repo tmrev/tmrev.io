@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/127460-A Day in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/127460-A Day in Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kxweSXSk8Pj3rftGZTy10WRUp2E.jpg</image:loc
+      >
+      <image:caption
+        >A cartoonist and painter who can not stand out and make a living, among
+        other things, as a photographer of news magazines and a beautiful young
+        woman who comes to Buenos Aires from inside the country to try to make
+        it as a model and actress, living a love as passionate as fraught with
+        disagreements.</image:caption
+      >
+      <image:title>A Day in Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/450994-American Folk</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/450994-American Folk</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fi1cdX4j3Am9tBbWwW2x80QW9c6.jpg</image:loc
+      >
+      <image:caption
+        >Two strangers, both folk musicians stranded in California, take a road
+        trip to New York in the days after 9/11. A story about the kindness of
+        strangers and the power of music.</image:caption
+      >
+      <image:title>American Folk</image:title>
+    </image:image>
+  </url>
+</urlset>

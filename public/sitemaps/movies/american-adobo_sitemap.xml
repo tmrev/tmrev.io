@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/50819-American Adobo</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/50819-American Adobo</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/t87C1II2yO1TfppwXplMbso6m0d.jpg</image:loc
+      >
+      <image:caption
+        >The everyday struggles of people trying to bridge two cultures, as well
+        as their attempt to find happiness in their new homeland. Tere (Cherrie
+        Pie Picache), mid-forties and single, hosts a dinner for a friend
+        visiting from Manila, Lorna. Invited are their New York City-based
+        friends and former college classmates -- Mike (Christopher De Leon), a
+        newspaper editor in his forties, Gerry (Ricky Davao), an advertising
+        copywriter and closeted gay, and Marissa (Dina Bonnevie).</image:caption
+      >
+      <image:title>American Adobo</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62783-A Real Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62783-A Real Dad</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/q2TPvTgH8qVHvjLAwlzICOuSuzJ.jpg</image:loc
+      >
+      <image:caption
+        >Roman Shilo, a known criminal, suddenly must deal with his fourteen
+        years old daughter and not only with her but with her little stepbrother
+        and stepsister as well.</image:caption
+      >
+      <image:title>A Real Dad</image:title>
+    </image:image>
+  </url>
+</urlset>

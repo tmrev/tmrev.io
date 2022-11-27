@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749139-Android Uprising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749139-Android Uprising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/muAHk3CxJBkx0LnLHJR4M4pJ4Ad.jpg</image:loc
+      >
+      <image:caption
+        >After a devastating battle against an army of drones leaves Sergeant
+        Barbara Slade paralyzed, her only chance for survival is to be placed
+        inside an artificial, android body. However, once inside a cybernetic
+        unit, Slade’s identity is mistaken, leading her to a cell of
+        antigovernment activists and to a mind-bending plan that threatens to
+        destroy everything she has made sacrifices to protect.</image:caption
+      >
+      <image:title>Android Uprising</image:title>
+    </image:image>
+  </url>
+</urlset>

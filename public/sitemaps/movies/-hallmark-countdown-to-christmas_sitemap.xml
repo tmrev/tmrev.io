@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/763711-2020 Hallmark Countdown to Christmas</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/763711-2020 Hallmark Countdown to Christmas</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Db2juSN95ecNDtYA0iqR3Rg3Qh.jpg</image:loc
+      >
+      <image:caption
+        >A preview special offering a sneak peek at Hallmark Channel's upcoming
+        Countdown to Christmas holiday movies hosted by Candace Cameron Bure
+        (not to be confused with their sister channel Hallmark Movies &
+        Mysteries' Christmas preview special)</image:caption
+      >
+      <image:title>2020 Hallmark Countdown to Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

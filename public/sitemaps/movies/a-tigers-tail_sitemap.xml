@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/270600-A Tiger's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/270600-A Tiger's Tail</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wZZvyJr7oFQo1bXOqoLmsF7mIg1.jpg</image:loc
+      >
+      <image:caption
+        >A boy goes on an adventure of a lifetime when Luna, a baby tiger cub,
+        escapes from an animal sanctuary and follows him home. It is up to one
+        boy, his friend, and his dog to return Luna to her home before she
+        destroys his parents' home.</image:caption
+      >
+      <image:title>A Tiger's Tail</image:title>
+    </image:image>
+  </url>
+</urlset>

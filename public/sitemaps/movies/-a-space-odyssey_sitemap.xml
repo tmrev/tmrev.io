@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/62-2001: A Space Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/62-2001: A Space Odyssey</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg</image:loc
+      >
+      <image:caption
+        >Humanity finds a mysterious object buried beneath the lunar surface and
+        sets off to find its origins with the help of HAL 9000, the world's most
+        advanced super computer.</image:caption
+      >
+      <image:title>2001: A Space Odyssey</image:title>
+    </image:image>
+  </url>
+</urlset>

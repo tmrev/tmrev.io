@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/871885-A Call to Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/871885-A Call to Arms</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/oTwuTM6vQHZW7z4h5Rdz67Gl9Mu.jpg</image:loc
+      >
+      <image:caption
+        >A documentary which traces the controversial Anthrax Vaccine
+        Immunization Program (AVIP) in the United States and the United
+        Kingdom.</image:caption
+      >
+      <image:title>A Call to Arms</image:title>
+    </image:image>
+  </url>
+</urlset>

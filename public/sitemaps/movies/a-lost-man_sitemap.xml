@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/112411-A Lost Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/112411-A Lost Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/jZXGIOz7jQrPqOXe12yKgjZ9bE5.jpg</image:loc
+      >
+      <image:caption
+        >Inspired by the photographic travels of Antione d'Agata, Danielle
+        Arbid's worldly drama follows a French photographer who travels the
+        globe to seek out the most extreme experiences imaginable. Thomas is a
+        fearless shutterbug who's always willing to put his life on the line for
+        the sake of a good shot. Upon falling under the spell of an enigmatic
+        old man named Fouad Saleh, the photographer travels to the Far East in
+        hopes of uncovering the secrets of the man who can no longer recall his
+        own past. As the photographer soon finds out, it's often the most
+        innocent endeavors that yield the most profound and transformative
+        results.</image:caption
+      >
+      <image:title>A Lost Man</image:title>
+    </image:image>
+  </url>
+</urlset>

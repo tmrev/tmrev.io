@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68127-7 Suns</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68127-7 Suns</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kNnueRDVHV4OMtMfTSZXMiuPext.jpg</image:loc
+      >
+      <image:caption
+        >A man called "The Black" is hired to smuggle a group of undocumented
+        migrants into the United States. He wants to quit the smuggling business
+        and claims this is his last trip. His superiors, now suspicious, send
+        Gavilan, a younger smuggler, to keep an eye on him. During the troubled
+        crossing, the smugglers fight and eventually lose part of their human
+        cargo. "The Black" escapes from his former associates but also needs to
+        ecape from the Border Patrol.</image:caption
+      >
+      <image:title>7 Suns</image:title>
+    </image:image>
+  </url>
+</urlset>

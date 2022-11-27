@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1010065-Acorda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1010065-Acorda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/Bs61nFmLEC7gTVbXwcwx3BRJUt.jpg</image:loc
+      >
+      <image:caption
+        >Sidney is a 16 years old boy from the northern Brazilian coast who
+        dreams to fly away from his provincial hometown. He sell birds on the
+        Fortaleza beach where, one day, he meets a foreigner man who wants more
+        from him than to just buy his birds. That can be Sidney chance to fly
+        away.</image:caption
+      >
+      <image:title>Acorda</image:title>
+    </image:image>
+  </url>
+</urlset>

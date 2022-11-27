@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/498276-A Frozen Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/498276-A Frozen Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/acBwTd4U8PcjYViK9xE6KBml9HN.jpg</image:loc
+      >
+      <image:caption
+        >A Frozen Christmas is the perfect way to get the family in the Holiday
+        spirit with the most beloved animated Christmas characters, including
+        Santa Claus, the Snowman, Elves, Santa's Reindeer, and more. Gather
+        around and listen as Santa and his young elf pals narrate time honored
+        Christmas story classics such as, The Elves and the Shoemaker, Little
+        Girls' Christmas and more.</image:caption
+      >
+      <image:title>A Frozen Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

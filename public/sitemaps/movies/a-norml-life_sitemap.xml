@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/99180-A Norml Life</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/99180-A Norml Life</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/A43FiVMR0dFHoUsbiTJWIDiEDgj.jpg</image:loc
+      >
+      <image:caption
+        >A documentary on the current state of medical marijuana in America.
+        Personal stories from patients, doctors and caregivers verify its
+        medical effectiveness while leading activist rally support to end
+        prohibition.</image:caption
+      >
+      <image:title>A Norml Life</image:title>
+    </image:image>
+  </url>
+</urlset>

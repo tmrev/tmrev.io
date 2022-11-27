@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/296834-An Alternative Reality: The Football
+      Manager Documentary</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/296834-An Alternative Reality: The Football
+      Manager Documentary</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/m2i30JQsHvbjg1pTelYJdCmfIhx.jpg</image:loc
+      >
+      <image:caption
+        >"It’s the story of the people who escape to the alternative reality of
+        being a football manager, and the effect this has had on their lives.
+        It’s also the story of how a computer game made by football fans has
+        become a part of the world it set out to replicate." - Miles
+        Jacobson</image:caption
+      >
+      <image:title
+        >An Alternative Reality: The Football Manager Documentary</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

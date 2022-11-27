@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/82666-4 Days in May</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/82666-4 Days in May</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5aeeBdCGFRUCuk0sSkhU9Y3Sl3S.jpg</image:loc
+      >
+      <image:caption
+        >Germany, Baltic Sea coast, May 1945, a few days before the end of World
+        War II. A small Soviet patrol arrives at an isolated house where an
+        elderly baroness gives shelter to a group of orphan girls and a boy who
+        is determined to continue the fight.</image:caption
+      >
+      <image:title>4 Days in May</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/393518-Album</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/393518-Album</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/66pFJfvfvasHBW64c7WU9gjbJmy.jpg</image:loc
+      >
+      <image:caption
+        >A couple in their late 30’s sets out to prepare a fake photo album of a
+        pseudo pregnancy period in order to prove their biological tie to the
+        baby they’re planning to adopt.</image:caption
+      >
+      <image:title>Album</image:title>
+    </image:image>
+  </url>
+</urlset>

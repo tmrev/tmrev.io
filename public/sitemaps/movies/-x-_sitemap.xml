@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1035209-3 X 1</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1035209-3 X 1</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >3x1 shows three different views on one single swing bridge. It could be
+        seen as a series out of Telemach Wiesinger`s past experimental film,
+        titled "LANDED“. Composer Tobias Schwab adds the soundtrack to this art
+        film with three episodes.</image:caption
+      >
+      <image:title>3 X 1</image:title>
+    </image:image>
+  </url>
+</urlset>

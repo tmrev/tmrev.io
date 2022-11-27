@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/15039-Against the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/15039-Against the Dark</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/ArDIjJMH7dwXJT7sYpAx51g708z.jpg</image:loc
+      >
+      <image:caption
+        >When most of the population of Earth is infected by a virus and
+        transformed into flesh eaters and blood drinking creatures, a group of
+        hunters lead by Tao and his sword chase the vampire zombies to eliminate
+        them. Six non-infected survivors try to find the exit of an abandoned
+        hospital crowded of the infected creatures. Meanwhile, the military is
+        ready to bomb the whole area.</image:caption
+      >
+      <image:title>Against the Dark</image:title>
+    </image:image>
+  </url>
+</urlset>

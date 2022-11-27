@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/687699-Amants des hommes</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/687699-Amants des hommes</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/uti1mqRV6WIa1bDHl5ITZ6DFkEX.jpg</image:loc
+      >
+      <image:caption
+        >During the Nazi regime, 100,000 men were arrested for homosexuality and
+        15,000 were deported, including 210 Frenchmen. After the depenalization
+        of homosexuality, only one of the deported men from France had the
+        courage to go public about an extradition that even now is not
+        officially recognised. Alternating excerpts from Pierre Seel's
+        autobiography "Moi Pierre Seel, déporté homosexuel" and conversations
+        with militant gays, "Amants des hommes" seeks to shed light on a
+        forgotten history, linking the past with the present and yesterday's
+        homophobia with that of today.</image:caption
+      >
+      <image:title>Amants des hommes</image:title>
+    </image:image>
+  </url>
+</urlset>

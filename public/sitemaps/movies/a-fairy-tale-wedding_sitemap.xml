@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/264001-A Fairy Tale Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/264001-A Fairy Tale Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4qhQL8DgUArAK21PrtjAS4N1F8Z.jpg</image:loc
+      >
+      <image:caption
+        >After twenty years, five high school classmates meet again at Daniele's
+        wedding, the only one who has built a career for himself. During a long
+        weekend in Switzerland, the five friends rediscover the affection and
+        complicity of the past, and they get a chance to straighten out their
+        destinies. A whirlwind of misunderstandings will bring down their shaky
+        balances, and they'll all find the courage to put themselves on the line
+        and start their lives afresh</image:caption
+      >
+      <image:title>A Fairy Tale Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>

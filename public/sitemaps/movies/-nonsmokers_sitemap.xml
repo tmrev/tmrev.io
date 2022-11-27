@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/614272-6 Nonsmokers</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/614272-6 Nonsmokers</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kO1RVTolurm0oYsESzhukS1zOa9.jpg</image:loc
+      >
+      <image:caption
+        >Dr. Henry Caldwell, the world's foremost mediator, faces the biggest
+        challenge of his career when he takes on six roommates whose only thing
+        in common is that none of them smoke.</image:caption
+      >
+      <image:title>6 Nonsmokers</image:title>
+    </image:image>
+  </url>
+</urlset>

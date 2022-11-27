@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/499857-All or Nothin’</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/499857-All or Nothin’</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4pg2plZ77U1EMotpwjbkS6SGCVk.jpg</image:loc
+      >
+      <image:caption
+        >In 1853, 28 slaves escaped from Boone County, Kentucky. Unwilling to
+        accept their departure, wealthy plantation owners set out to locate the
+        28, following them through Ohio, Indiana and Michigan.</image:caption
+      >
+      <image:title>All or Nothin’</image:title>
+    </image:image>
+  </url>
+</urlset>

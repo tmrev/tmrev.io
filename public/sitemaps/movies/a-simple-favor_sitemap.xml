@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/484247-A Simple Favor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/484247-A Simple Favor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/5EJWZQ8dh99hfgXP9zAD5Ak5Hrn.jpg</image:loc
+      >
+      <image:caption
+        >Stephanie, a dedicated mother and popular vlogger, befriends Emily, a
+        mysterious upper-class woman whose son Nicky attends the same school as
+        Miles, Stephanie's son. When Emily asks her to pick Nicky up from school
+        and then disappears, Stephanie undertakes an investigation that will
+        dive deep into Emily's cloudy past.</image:caption
+      >
+      <image:title>A Simple Favor</image:title>
+    </image:image>
+  </url>
+</urlset>

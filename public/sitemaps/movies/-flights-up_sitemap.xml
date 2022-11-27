@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/286521-5 Flights Up</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/286521-5 Flights Up</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2WI5oq2QswLB0kJFOcL7ZA5ndKr.jpg</image:loc
+      >
+      <image:caption
+        >A long-time married couple who've spent their lives together in the
+        same New York apartment become overwhelmed by personal and real
+        estate-related issues when they plan to move away.</image:caption
+      >
+      <image:title>5 Flights Up</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/256665-Alles Chefsache!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/256665-Alles Chefsache!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/u99yTVhEO3OpVXdH7BE943fdVYT.jpg</image:loc
+      >
+      <image:caption
+        >For decades, "Soups Hansen" was on everyone's lips, but now threatens
+        the old-established operation of the end. The reasons for the decline
+        are homemade: in modern times the tastes have changed, the soup of the
+        idiosyncratic manufacturer unfortunately not. The bank wants to save the
+        traditional house, but the new loan is subject to one condition: company
+        boss Theo Hansen must hand over the business to his son, who now cooks
+        his own soup ... Edzard Onneken staged this comedy with Günther Maria
+        Halmer in the role of aging patriarch who can not let go.</image:caption
+      >
+      <image:title>Alles Chefsache!</image:title>
+    </image:image>
+  </url>
+</urlset>

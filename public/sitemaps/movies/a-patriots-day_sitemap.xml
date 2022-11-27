@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/860954-A Patriot's Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/860954-A Patriot's Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pA1a0K6w5USSKQEblWrkIUf4Iyf.jpg</image:loc
+      >
+      <image:caption
+        >After serving in the Iraq War, a father grapples with PTSD and
+        struggles to come to terms with the horrors he has
+        witnessed.</image:caption
+      >
+      <image:title>A Patriot's Day</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/21575-A Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/21575-A Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg</image:loc
+      >
+      <image:caption
+        >Sentenced to six years in prison, Malik El Djebena is alone in the
+        world and can neither read nor write. On his arrival at the prison, he
+        seems younger and more brittle than the others detained there. At once
+        he falls under the sway of a group of Corsicans who enforce their rule
+        in the prison. As the 'missions' go by, he toughens himself and wins the
+        confidence of the Corsican group.</image:caption
+      >
+      <image:title>A Prophet</image:title>
+    </image:image>
+  </url>
+</urlset>

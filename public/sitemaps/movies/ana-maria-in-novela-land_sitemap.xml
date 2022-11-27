@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/312770-Ana Maria in Novela Land</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/312770-Ana Maria in Novela Land</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4GvBAsv0ZneN162YxVJnTqlQZts.jpg</image:loc
+      >
+      <image:caption
+        >Ana Maria is having a bad day until she magically switches places with
+        the main character of her favorite telenovela. As she struggles to
+        escape from Novela Land, Ana Maria finally understands why her real life
+        was such a mess.</image:caption
+      >
+      <image:title>Ana Maria in Novela Land</image:title>
+    </image:image>
+  </url>
+</urlset>

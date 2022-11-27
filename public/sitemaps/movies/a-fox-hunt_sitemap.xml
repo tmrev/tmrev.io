@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/158714-A Fox Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/158714-A Fox Hunt</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8k3T71HaYXw5lyz90fBr81ZDzlq.jpg</image:loc
+      >
+      <image:caption
+        >A provincial Soviet town. Factory worker Victor Belov is beaten up by
+        two teenagers in the park. One of them, Vladimir Belikov, goes to a
+        correction labor settlement for two years, the other is put on
+        probation. Belov goes on with his life and work. Life is simple and
+        unambiguous: the factory, the wife, regular factory sports competitions.
+        But the memories of the trial keep coming back. Everything was not done
+        as properly as it had seemed then. He wants to change the fate of the
+        accused, goes to the labor camp, obtains the right to visit him there
+        and advocates his early release…</image:caption
+      >
+      <image:title>A Fox Hunt</image:title>
+    </image:image>
+  </url>
+</urlset>

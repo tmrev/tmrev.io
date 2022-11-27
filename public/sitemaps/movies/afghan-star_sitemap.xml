@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/24225-Afghan Star</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/24225-Afghan Star</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4cGSPnd4xSRdKrS2zl7zdSdX3VP.jpg</image:loc
+      >
+      <image:caption
+        >This documentary on the effect the talent competition "Afghan Star" has
+        on the incredibly diverse inhabitants of Afghanistan affords a glimpse
+        into a country rarely seen. Contestants risk their lives to appear on
+        the television show that is a raging success with the public and also
+        monitored closely by the government.</image:caption
+      >
+      <image:title>Afghan Star</image:title>
+    </image:image>
+  </url>
+</urlset>

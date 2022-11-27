@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/361522-Althea</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/361522-Althea</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zwy97UMtVmaV3TlDhIzPxXp5I5H.jpg</image:loc
+      >
+      <image:caption
+        >Althea Gibson’s life and achievements transcend sports. A truant from
+        the rough streets of Harlem, Althea emerged as a most unlikely queen of
+        the highly segregated tennis world in the 1950s. Her roots as a
+        sharecropper’s daughter, her family’s migration north to Harlem in the
+        1930s, mentoring from Sugar Ray Robinson, David Dinkins and others, and
+        fame that thrust her unwillingly into the glare of the early Civil
+        Rights movement, all bring her story into a much broader realm of the
+        American story.</image:caption
+      >
+      <image:title>Althea</image:title>
+    </image:image>
+  </url>
+</urlset>

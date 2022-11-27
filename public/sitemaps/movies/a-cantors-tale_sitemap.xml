@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/277293-A Cantor's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/277293-A Cantor's Tale</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >The tradition of Eastern European Jewish cantorial music is alive and
+        well in modern America in no small part thanks to the efforts of
+        Brooklyn-born Cantor Jacob Mendelson. "Jackie," as he is affectionately
+        called by everyone, explores the American roots of "hazzanut" (Jewish
+        liturgical music) while taking us on a musical voyage that spans the
+        Atlantic, originating in his birthplace of Boro Park, Brooklyn and
+        reaching all the way to Jerusalem.</image:caption
+      >
+      <image:title>A Cantor's Tale</image:title>
+    </image:image>
+  </url>
+</urlset>

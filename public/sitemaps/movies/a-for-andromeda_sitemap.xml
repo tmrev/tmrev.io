@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/45158-A for Andromeda</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/45158-A for Andromeda</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/dgZUv8xbs3IjzRrDY5g8nYegBWE.jpg</image:loc
+      >
+      <image:caption
+        >A for Andromeda is a remake of the 1961 BBC science fiction classic A
+        for Andromeda. In the Yorkshire Dales, a group of scientists receive
+        radio signals from the Andromeda Galaxy. Once decoded, these give them a
+        computer program that can design a human clone. One physicist decides it
+        is a Trojan horse and decides to destroy the computer.</image:caption
+      >
+      <image:title>A for Andromeda</image:title>
+    </image:image>
+  </url>
+</urlset>

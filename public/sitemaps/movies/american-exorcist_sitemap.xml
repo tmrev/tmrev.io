@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/515387-American Exorcist</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/515387-American Exorcist</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7l60vcApSLQa7UOmSRoP2xWBJMk.jpg</image:loc
+      >
+      <image:caption
+        >A paranormal investigator, trapped in a haunted skyscraper on Christmas
+        Eve. The skeptical young woman, Georgette Dubois, is horrified once
+        confronted with the reality of the supernatural. She risks life and limb
+        to escape her ghoulish prison, stranded on the 11th
+        floor.</image:caption
+      >
+      <image:title>American Exorcist</image:title>
+    </image:image>
+  </url>
+</urlset>

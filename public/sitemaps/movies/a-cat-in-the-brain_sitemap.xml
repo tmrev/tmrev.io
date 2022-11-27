@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/30870-A Cat in the Brain</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/30870-A Cat in the Brain</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/7slcRVlqFthzjTbnXFLoQ7LE053.jpg</image:loc
+      >
+      <image:caption
+        >The master of Italian horror, Lucio Fulci, stars as... Lucio Fulci, a
+        filmmaker with a reputation for gruesome horror films. His body of work
+        has started to plague his mental state, and he is haunted by the
+        grotesque set-pieces his mind has conjured up during his career. His
+        psychiatrist, Egon Schwarz, uses a hypnotised Fulci as an avatar to
+        carry out his own disturbed fantasies, in hopes of ruining the master’s
+        reputation once and for all.</image:caption
+      >
+      <image:title>A Cat in the Brain</image:title>
+    </image:image>
+  </url>
+</urlset>

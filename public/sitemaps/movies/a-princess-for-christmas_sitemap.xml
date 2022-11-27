@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/79113-A Princess for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/79113-A Princess for Christmas</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8B0GaAebFRWek6tGSqWAeyJOIp6.jpg</image:loc
+      >
+      <image:caption
+        >After her sister and brother-in-law's tragic death, an American woman
+        who is the guardian for her young niece and nephew is invited to a royal
+        European castle for Christmas by her late brother-in-law's father, the
+        Duke of Castlebury. Feeling out of place as a commoner, she is
+        determined to give her family a merry Christmas and surprises herself
+        when she falls for a handsome prince.</image:caption
+      >
+      <image:title>A Princess for Christmas</image:title>
+    </image:image>
+  </url>
+</urlset>

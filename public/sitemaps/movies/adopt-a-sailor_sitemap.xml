@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/70554-Adopt a Sailor</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/70554-Adopt a Sailor</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qNOEaTR3LqI04r2pd3VkuYUztkh.jpg</image:loc
+      >
+      <image:caption
+        >Adopt A Sailor is about Patricia and Richard, a successful and hip
+        couple from New York City who inadvertently "adopt a sailor" during
+        Fleet Week in New York City and the young man form Turkey Scratch,
+        Arkansas who changes their lives forever.</image:caption
+      >
+      <image:title>Adopt a Sailor</image:title>
+    </image:image>
+  </url>
+</urlset>

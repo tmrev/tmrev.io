@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/392116-A Man Like My Father</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/392116-A Man Like My Father</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/RzRszHTEn51dOfyKgOcj7mBGtd.jpg</image:loc
+      >
+      <image:caption
+        >Juan returns to Cape Town with his family from their life in England
+        when he discovers his mother is dying. She insists she wants her
+        conflicted son to reconcile with his alcoholic dad, but all the younger
+        man remembers of his childhood is disappointment and shame and although
+        he wants to be with his mother he intensely dislikes his father, though
+        it's probably more a case of Juan hating who he is himself, because of
+        his father.</image:caption
+      >
+      <image:title>A Man Like My Father</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/265964-96 heures</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/265964-96 heures</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/due6jSfw2O5etnJ0jnrdhxPOL10.jpg</image:loc
+      >
+      <image:caption
+        >Carré is the boss of the BRB (Brigade for the Repression of Banditry).
+        3 years earlier, he arrested a big mobster, Kancel. Today, thanks to an
+        extraction, Kancel kidnaps the cop. He has 96 hours to elicit a single
+        information: know who gave him.</image:caption
+      >
+      <image:title>96 heures</image:title>
+    </image:image>
+  </url>
+</urlset>

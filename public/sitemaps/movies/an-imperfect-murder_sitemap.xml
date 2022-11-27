@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/468291-An Imperfect Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/468291-An Imperfect Murder</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/bB7gOrRintXqYF1ZmLJaPpR0IAr.jpg</image:loc
+      >
+      <image:caption
+        >Successful actress Vera Lockman thrashes during a nightmare in which
+        she struggles with, shoots and kills her drug-dealer ex-boyfriend.
+        Jolted awake, she reveals in her journal that the killing actually
+        occurred the day before and that Sal, dead, lies in a trunk in her
+        living room.</image:caption
+      >
+      <image:title>An Imperfect Murder</image:title>
+    </image:image>
+  </url>
+</urlset>

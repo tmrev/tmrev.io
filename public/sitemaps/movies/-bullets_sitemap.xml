@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/777831-9 Bullets</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/777831-9 Bullets</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/cuFPxoFopAjFUz4oIMUzpzeTA8I.jpg</image:loc
+      >
+      <image:caption
+        >A former burlesque dancer turned author discovers a second chance at
+        life and redemption when she risks everything to rescue her young
+        neighbor after he witnesses his parents’ murder. Now on the run from the
+        local crime boss, who happens to be her longtime ex, she makes a
+        desperate attempt to get the boy to safety.</image:caption
+      >
+      <image:title>9 Bullets</image:title>
+    </image:image>
+  </url>
+</urlset>

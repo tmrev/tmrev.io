@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/76360-6 Days to Air: The Making of South Park</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/76360-6 Days to Air: The Making of South Park</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/itnA0QZio9kzgI3jy1dTwQfutCg.jpg</image:loc
+      >
+      <image:caption
+        >Viewers will get a look at Parker and Stone's thought process as they
+        approach a new episode and the 24/7 grind they subject themselves to
+        each time the show is in production. The documentary also includes
+        in-depth interviews with Parker and Stone about their working
+        partnership and reflections on highlights from their
+        careers.</image:caption
+      >
+      <image:title>6 Days to Air: The Making of South Park</image:title>
+    </image:image>
+  </url>
+</urlset>

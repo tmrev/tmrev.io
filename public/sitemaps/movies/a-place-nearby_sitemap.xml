@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/221487-A Place Nearby</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/221487-A Place Nearby</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lbrkDOZkpVVJdajLRKlSBiLVZd0.jpg</image:loc
+      >
+      <image:caption
+        >The city is gasping for air in the scorching summer heat; everyone is
+        under suspicion; a persistent detective superintendent is burrowing for
+        the truth. A fiercely penetrating drama about a mother's love for her
+        autistic adult son, who is suspected of murdering a local girl. The
+        mother knows her son could have committed the murder, but she conceals
+        her knowledge, and gradually becomes entangled in a thicket of lies. How
+        far is she prepared to go to protect her son who is helpless in so many
+        ways? Does she have it within her to give up the only person she
+        loves?</image:caption
+      >
+      <image:title>A Place Nearby</image:title>
+    </image:image>
+  </url>
+</urlset>

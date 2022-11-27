@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/381351-A Mighty Team</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/381351-A Mighty Team</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/xHQwXpgesjewYDz8bFFyB6gXB68.jpg</image:loc
+      >
+      <image:caption
+        >Sadoun is France’s best soccer player whose extra-curriculum pleasures
+        are damaging his play and new contract negotiations. Dispatched by his
+        scheming agent to his home village, he ends up reconciling with his
+        father, relating to his fatherless niece, who dotes on him, and training
+        his local children’s team, whom he takes to championship
+        glory.</image:caption
+      >
+      <image:title>A Mighty Team</image:title>
+    </image:image>
+  </url>
+</urlset>

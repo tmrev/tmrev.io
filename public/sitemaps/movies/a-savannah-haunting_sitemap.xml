@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/852917-A Savannah Haunting</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/852917-A Savannah Haunting</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/fpxmnwY9mQk05JVya6lsbvUm3mW.jpg</image:loc
+      >
+      <image:caption
+        >Based on true events and filmed in the actual haunted house upon which
+        the script is based, A Savannah Haunting is a chilling supernatural
+        thriller about a family that is torn apart by evil forces inside their
+        new home.</image:caption
+      >
+      <image:title>A Savannah Haunting</image:title>
+    </image:image>
+  </url>
+</urlset>

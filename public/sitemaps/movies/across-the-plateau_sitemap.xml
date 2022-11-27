@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/789684-Across the Plateau</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/789684-Across the Plateau</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wjDBR5mFjqTmT5EZwesdKOQevZo.jpg</image:loc
+      >
+      <image:caption
+        >The extraordinary story of seven Chinese men and women, all of them
+        retired, who embark on a 3,100 kilometre journey from Lanzhou, a smoggy
+        industrial city in north west China, across the Tibetan plateau to
+        Everest Base Camp.</image:caption
+      >
+      <image:title>Across the Plateau</image:title>
+    </image:image>
+  </url>
+</urlset>

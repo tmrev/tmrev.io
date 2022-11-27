@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/388246-All the Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/388246-All the Rage</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/6y5evPNDkyo68d9CQSxgSelXtuy.jpg</image:loc
+      >
+      <image:caption
+        >A mink walks into a fur store. Fantastic Mr. Fox meets The Shining in
+        this stop-motion cautionary tale of what happens when we don’t think
+        enough about what we buy. Inspired by found sound of two dogs growling,
+        proudly animal-friendly, and produced as part of the 10th edition of the
+        NFB’s Hothouse apprenticeship.</image:caption
+      >
+      <image:title>All the Rage</image:title>
+    </image:image>
+  </url>
+</urlset>

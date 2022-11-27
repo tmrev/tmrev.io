@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/480105-47 Meters Down: Uncaged</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/480105-47 Meters Down: Uncaged</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/g4z7mDmJmx23vsVg6XNWcnXb6gc.jpg</image:loc
+      >
+      <image:caption
+        >Four teenage girls go on a diving adventure to explore a submerged
+        Mayan city. Once inside, their rush of excitement turns into a jolt of
+        terror as they discover the sunken ruins are a hunting ground for deadly
+        great white sharks. With their air supply steadily dwindling, the
+        friends must navigate the underwater labyrinth of claustrophobic caves
+        and eerie tunnels in search of a way out of their watery
+        hell.</image:caption
+      >
+      <image:title>47 Meters Down: Uncaged</image:title>
+    </image:image>
+  </url>
+</urlset>

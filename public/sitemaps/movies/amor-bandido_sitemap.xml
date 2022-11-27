@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/792001-Amor bandido</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/792001-Amor bandido</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/qb3YySysqo8ikQoagBIz29BZOmi.jpg</image:loc
+      >
+      <image:caption
+        >Joan is a naïve, 16-year-old who falls in love easily. One day he
+        decides to escape to the provinces with Luciana, a beautiful 35-year-old
+        woman and a teacher at his school, in order to give free rein to his
+        love. Soon, Joan discovers with horror that he has fallen into a trap
+        that is a mix between sex, money, politics and violence.</image:caption
+      >
+      <image:title>Amor bandido</image:title>
+    </image:image>
+  </url>
+</urlset>

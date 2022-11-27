@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/1022198-A Forgotten Man</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/1022198-A Forgotten Man</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Spring 1945, Heinrich Zwygart, Swiss ambassador to Germany flees
+        bombed-out Berlin after eight years of service in the capital of the
+        Reich. This is the end of a terrible mandate, during which he had to
+        make fatal compromises to preserve the neutrality and security of his
+        country. He went through the war, but will he survive the
+        peace?</image:caption
+      >
+      <image:title>A Forgotten Man</image:title>
+    </image:image>
+  </url>
+</urlset>

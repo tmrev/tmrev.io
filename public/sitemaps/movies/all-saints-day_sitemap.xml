@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/624177-All Saints Day</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/624177-All Saints Day</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/txvMnOLCzyk3eACeaa2PRWMEh6X.jpg</image:loc
+      >
+      <image:caption
+        >A collaboration between filmmakers Jon Behrens in Seattle, Washington,
+        and Joel Schlemowitz in Brooklyn, New York, shot on ALL SAINTS DAY,
+        November 1, 2000. They each shot 100 feet of film at the same time of
+        the day 3,000 miles apart, and they did not tell each other what they
+        shot. The film was hand-processed, cut up into two-foot lengths and then
+        cut back together, alternating between Joel's footage and Jon's footage.
+        The soundtrack for this film was done the same way.</image:caption
+      >
+      <image:title>All Saints Day</image:title>
+    </image:image>
+  </url>
+</urlset>

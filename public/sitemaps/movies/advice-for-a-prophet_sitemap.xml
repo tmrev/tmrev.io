@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/749013-Ad-vice for a Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/749013-Ad-vice for a Prophet</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/gtp1kAZ21F8axqdO1G2NEnTNCEG.jpg</image:loc
+      >
+      <image:caption
+        >An anonymous narrator, alone in his apartment, cannot tell if his inner
+        life is composed of memories of dreams or memories of reality. Using a
+        mixture of super-8 Kodachrome and nostalgic 1980's advertisements, the
+        film captures the way pop culture ephemera are repetitively imposed on
+        us until we feel they are our creation.</image:caption
+      >
+      <image:title>Ad-vice for a Prophet</image:title>
+    </image:image>
+  </url>
+</urlset>

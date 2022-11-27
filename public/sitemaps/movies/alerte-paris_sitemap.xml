@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/68204-Alerte à Paris!</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/68204-Alerte à Paris!</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wzZg9YbLiBefD6ogWuw9s8HT6FR.jpg</image:loc
+      >
+      <image:caption
+        >Laurence Renoux, chef du service des maladies tropicales et
+        infectieuses dans un hôpital parisien, est inquiète. Depuis quelques
+        jours, elle est confrontée à une épidémie de source inconnue dont les
+        symptômes s'apparentent à une méningite fulgurante, et qu'elle ne
+        parvient pas à endiguer.</image:caption
+      >
+      <image:title>Alerte à Paris!</image:title>
+    </image:image>
+  </url>
+</urlset>

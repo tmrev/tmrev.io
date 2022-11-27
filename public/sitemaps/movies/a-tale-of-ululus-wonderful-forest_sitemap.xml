@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/139194-A Tale of Ululu's Wonderful Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/139194-A Tale of Ululu's Wonderful Forest</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >A brother and sister leave the big city to live with their veterinarian
+        father when their mother is hospitalized. As they are adjusting to their
+        new life filled with natural beauty, they adopt an abandoned puppy. When
+        it is discovered that the puppy is actually a wolf, they choose to
+        return the baby wolf to its mother in the forest rather than let it live
+        a life in captivity.</image:caption
+      >
+      <image:title>A Tale of Ululu's Wonderful Forest</image:title>
+    </image:image>
+  </url>
+</urlset>

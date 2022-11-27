@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/829254-3 Tickets to Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/829254-3 Tickets to Paradise</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/zQExi7yQz0IVmZyYjkDlnRQCKr8.jpg</image:loc
+      >
+      <image:caption
+        >AJ Parker, her ex-husband and a federal agent head for a ghost town in
+        Mexico called Paradise in search for a hidden cache of 5000 stolen
+        double eagle $20 gold coins.</image:caption
+      >
+      <image:title>3 Tickets to Paradise</image:title>
+    </image:image>
+  </url>
+</urlset>

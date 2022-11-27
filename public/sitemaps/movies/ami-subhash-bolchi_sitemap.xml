@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/244520-Ami Subhash Bolchi</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/244520-Ami Subhash Bolchi</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rajm22lB3daWdqrAQSpz8vZXRq3.jpg</image:loc
+      >
+      <image:caption
+        >Debarata, a conflicted Bengali man, adopts the ideologies of Netaji
+        Subhas Chandra Bose to instill unity among the Bengali community to
+        fight the wrongdoers.</image:caption
+      >
+      <image:title>Ami Subhash Bolchi</image:title>
+    </image:image>
+  </url>
+</urlset>

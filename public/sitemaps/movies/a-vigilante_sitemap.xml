@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/500904-A Vigilante</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/500904-A Vigilante</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/53QtZhtuw0aKu14DukYTtVtcrES.jpg</image:loc
+      >
+      <image:caption
+        >A once-abused woman devotes herself to ridding victims of their
+        domestic abusers while hunting down the one she must kill to be truly
+        free.</image:caption
+      >
+      <image:title>A Vigilante</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/467525-10 Days Without Mom</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/467525-10 Days Without Mom</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/odbCpFKJdMkooE2wnkjyK46NZDI.jpg</image:loc
+      >
+      <image:caption
+        >Vera, the Mom, is stressed out of her mind and she decides to take a
+        vacation away from her family, so Victor, the dad, has to take time off
+        work to take care of the family.</image:caption
+      >
+      <image:title>10 Days Without Mom</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/29983-A New Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/29983-A New Wave</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/k1IgkuQYLGzw4vLArSIrjO3pt32.jpg</image:loc
+      >
+      <image:caption
+        >A frustrated artist is convinced by his eccentric roommate to rob a
+        bank. Having planned the crime by watching bank-robber films, the
+        amateur heist is doomed from the beginning.</image:caption
+      >
+      <image:title>A New Wave</image:title>
+    </image:image>
+  </url>
+</urlset>

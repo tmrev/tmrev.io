@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/583478-2000 Cinématons</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/583478-2000 Cinématons</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/nrXMmJIgUvIYWby5nHpONcpb9tO.jpg</image:loc
+      >
+      <image:caption
+        >A film about an ongoing cinematic adventure that began in 1978: a vast
+        anthology of personality portraits called Cinématons, dealing with
+        people in the arts. Historical, ethnological, sociological and
+        psychological, this anthology is a living record of the artistic
+        community of the last 20th century which attempts to answer these
+        questions: Why film everyone? Why choose cultural personalities? How do
+        the subjects look at their image? How much exhibitionism and narcissism
+        is involved in being filmed?</image:caption
+      >
+      <image:title>2000 Cinématons</image:title>
+    </image:image>
+  </url>
+</urlset>

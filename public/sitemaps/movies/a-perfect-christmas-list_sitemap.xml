@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/314283-A Perfect Christmas List</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/314283-A Perfect Christmas List</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/aR6lVOHd5YRPRkxTPLpl4tquZmP.jpg</image:loc
+      >
+      <image:caption
+        >As a last wish, a recently hospitalized grandmother, Evie, tasks her
+        daughter and granddaughter, Sara, with a list of festive accomplishments
+        to do together before Christmas, hoping that the adventure of the
+        experience will repair their relationship. Along the way, Sara discovers
+        an unlisted Christmas adventure of her own.</image:caption
+      >
+      <image:title>A Perfect Christmas List</image:title>
+    </image:image>
+  </url>
+</urlset>

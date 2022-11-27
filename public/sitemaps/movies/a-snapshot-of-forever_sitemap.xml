@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/883369-A Snapshot of Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/883369-A Snapshot of Forever</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/pRveuauFI9RVuojiWt7wlqqA3p5.jpg</image:loc
+      >
+      <image:caption
+        >Wedding photographer Jessie Brooke's happy small town life is turned
+        upside down when a famous Hollywood actor shows up at her parent's
+        lakeside vineyard for his sister's wedding.</image:caption
+      >
+      <image:title>A Snapshot of Forever</image:title>
+    </image:image>
+  </url>
+</urlset>

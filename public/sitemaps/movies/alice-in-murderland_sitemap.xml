@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/57008-Alice in Murderland</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/57008-Alice in Murderland</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/kYuS3AFmXEn4rpghNaayuoev1ws.jpg</image:loc
+      >
+      <image:caption
+        >It's Alice's birthday and her sorority girlfriends throw her a themed
+        party. Everyone comes as their favorite, sexy character from Wonderland.
+        The Jabberwocky wasn't invited and brings murder and mayhem to the
+        girls' night out.</image:caption
+      >
+      <image:title>Alice in Murderland</image:title>
+    </image:image>
+  </url>
+</urlset>

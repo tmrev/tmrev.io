@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/78248-Adanggaman</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/78248-Adanggaman</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/grO1ifXULhZvpMhfyGG6k4991Ul.jpg</image:loc
+      >
+      <image:caption
+        >In West Africa during the late 17th century, King Adanggaman leads a
+        war against his neighboring tribes, ordering his soldiers to torch enemy
+        villages, kill the elderly and capture the healthy tribesmen to sell to
+        the European slave traders. When his village falls prey to one of
+        Adanggaman's attacks, Ossei manages to escape, but his family is
+        murdered except for his captured mother. Chasing after the soldiers in
+        an effort to free her, Ossei is befriended by a fierce warrior named
+        Naka.</image:caption
+      >
+      <image:title>Adanggaman</image:title>
+    </image:image>
+  </url>
+</urlset>

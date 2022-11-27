@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/823331-A Stroll Thro Ulysses</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/823331-A Stroll Thro Ulysses</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/8MSSVU0nlHX8uS1t8mYjMTn6DDk.jpg</image:loc
+      >
+      <image:caption
+        >Jame Joyce once said of Ulysses, that if Dublin City would disappear
+        from the earth tomorrow, it could be recreated from the pages of his
+        book. This Unique short documentary will take anyone willing to dive
+        into its pages on a geographical tour of the exact locations of Ulysses.
+        One hundred years after the 16th of June 1904 we walk with Bloom through
+        the landscape of the greatest book ever penned.</image:caption
+      >
+      <image:title>A Stroll Thro Ulysses</image:title>
+    </image:image>
+  </url>
+</urlset>

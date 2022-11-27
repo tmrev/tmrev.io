@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/49265-Alien Uprising</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/49265-Alien Uprising</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wLRnGzRg48AWLjIKXPL4Pd4N8Oh.jpg</image:loc
+      >
+      <image:caption
+        >A suspected prisoner uprising brings Marines to the prison planet of
+        Rove 12, but nothing is what it seems. The few surviving prisoners are
+        hiding from a ruthless, blood thirsty creature. Now the prisoners and
+        the marines must fight together to get off the planet
+        ALIVE!</image:caption
+      >
+      <image:title>Alien Uprising</image:title>
+    </image:image>
+  </url>
+</urlset>

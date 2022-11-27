@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/494791-A Murder in Mansfield</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/494791-A Murder in Mansfield</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/4dyi81x4AptlFtGNYfJcnz8I182.jpg</image:loc
+      >
+      <image:caption
+        >Oscar®-winning filmmaker Barbara Kopple explores the legacy of the 1989
+        murder of Noreen Boyle in Mansfield, Ohio. Her 12-year-old son Collier
+        gave a devastating videotaped testimony blaming his father for the
+        murder. Now, over two decades later, Collier returns to Ohio seeking to
+        retrace his past and confront his imprisoned father, who remains in
+        denial of his guilt. Collier’s depth of character is a wonder to behold
+        from childhood to adulthood. Out of this tragic story, we witness the
+        power of human resilience.</image:caption
+      >
+      <image:title>A Murder in Mansfield</image:title>
+    </image:image>
+  </url>
+</urlset>

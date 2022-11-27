@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/495271-3 Days in Quiberon</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/495271-3 Days in Quiberon</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/rdISIv98O0OHAQIFpIphMgPvyh2.jpg</image:loc
+      >
+      <image:caption
+        >1981, Quiberon, a small village on the coast of Brittany, France. Hilde
+        Fritsch arrives to visit her old friend who has retreated to a spa hotel
+        to escape the daily pressures of her life. Her friend is world-famous
+        star Romy Schneider, but together, they appear like two regular women
+        who are just happy to be reunited. Yet it quickly becomes apparent that
+        Hilde is supposed to offer the support the sensitive actress needs to be
+        able to truly face her own demons.</image:caption
+      >
+      <image:title>3 Days in Quiberon</image:title>
+    </image:image>
+  </url>
+</urlset>

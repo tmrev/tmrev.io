@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/884341-Accidentally in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/884341-Accidentally in Love</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/wv3tn1a00EgyoOjeBwqfZQps5nr.jpg</image:loc
+      >
+      <image:caption
+        >Edie finds true love in London just days before she is to return to the
+        US. They are separated, but as fate would have it, they reunite 6 years
+        later in the US.</image:caption
+      >
+      <image:title>Accidentally in Love</image:title>
+    </image:image>
+  </url>
+</urlset>

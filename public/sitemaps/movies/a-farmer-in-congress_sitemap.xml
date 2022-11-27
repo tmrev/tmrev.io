@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/193585-A Farmer in Congress</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/193585-A Farmer in Congress</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >An Egyptian peasant farmer is forced to leave his village for the city
+        in search of better circumstances. While begging, he meets a
+        Al-Manakhily, a con-man who convinces him to take up business running a
+        liver cart. This is his first step into a life of fraud and corruption
+        as he dreams of going to American and one day even visiting the U.S.
+        Congress.</image:caption
+      >
+      <image:title>A Farmer in Congress</image:title>
+    </image:image>
+  </url>
+</urlset>

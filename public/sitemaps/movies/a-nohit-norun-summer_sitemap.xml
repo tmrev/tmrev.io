@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/65663-A No-Hit No-Run Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/65663-A No-Hit No-Run Summer</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/SxyZ0P6DDaN97bR3dozcrLbjKw.jpg</image:loc
+      >
+      <image:caption
+        >Martin is 12 years old and dreams of playing on the neighbourhood
+        baseball team. When he doesn’t make the cut, his father steps in and
+        organizes a B team. Father and son spend a summer full of hope and
+        disappointment, surprises and foul balls.</image:caption
+      >
+      <image:title>A No-Hit No-Run Summer</image:title>
+    </image:image>
+  </url>
+</urlset>

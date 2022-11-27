@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/9582-A Guy Thing</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/9582-A Guy Thing</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/lpv86hQftikE2ecb1OPYFFMr98r.jpg</image:loc
+      >
+      <image:caption
+        >Paul Morse is a good guy. When his friends throw him a wild bachelor
+        party, he just wants to keep his conscience clean -- which is why he's
+        shocked when he wakes up in bed with a beautiful girl named Becky and
+        can't remember the night before. Desperate to keep his fiancée, Karen,
+        from finding out what may or may not be the truth, he tells her a teensy
+        lie. Soon his lies are spiraling out of control and his life is a series
+        of comical misunderstandings.</image:caption
+      >
+      <image:title>A Guy Thing</image:title>
+    </image:image>
+  </url>
+</urlset>

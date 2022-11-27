@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/542544-Angelique's Isle</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/542544-Angelique's Isle</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/yjCMVoAe1BdspulB3W0PLY1f4Tm.jpg</image:loc
+      >
+      <image:caption
+        >Angelique's Isle is a harrowing tale of perseverance and survival that
+        unfolds during the great copper rush of 1845. Newlyweds Angelique, a
+        young Ojibway, and Charlie, her voyager husband, are left stranded
+        throughout a brutal winter on Lake Superior's Isle Royale where
+        Angelique is ultimately forced to face her inner demons and beliefs as
+        the unbelievably beautiful, yet treacherous wilderness threatens to
+        claim her.</image:caption
+      >
+      <image:title>Angelique's Isle</image:title>
+    </image:image>
+  </url>
+</urlset>

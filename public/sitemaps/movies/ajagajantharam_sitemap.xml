@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/843729-Ajagajantharam</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/843729-Ajagajantharam</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/9SKsMvNArp0ytrjrx5h6rCf1wxN.jpg</image:loc
+      >
+      <image:caption
+        >Aranjali is all set to celebrate the annual temple festival. Some
+        unforeseen chain of events involving an elephant, a few young men, a
+        notorious criminal, a drama troop and some trouble-loving villagers
+        brings complete mayhem to the place</image:caption
+      >
+      <image:title>Ajagajantharam</image:title>
+    </image:image>
+  </url>
+</urlset>

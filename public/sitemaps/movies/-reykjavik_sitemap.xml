@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/10989-101 Reykjavik</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/10989-101 Reykjavik</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc
+        >https://image.tmdb.org/t/p/w500/2vLEq5gD90ElBSOqZsj6AAVxoLV.jpg</image:loc
+      >
+      <image:caption
+        >Thirty-year-old Hlynur still lives with his mother and spends his days
+        drinking, watching porn and surfing the net while living off
+        unemployment checks. A girl is interested in him, but he stands back
+        from commitment. His mother's Spanish flamenco teacher, Lola, moves in
+        with them for Christmas. On New Year's Eve, while his mother is away,
+        Hlynur finds out Lola is a lesbian, but also ends up having sex with
+        her. He soon finds out he and his mother are sharing more than a house.
+        Eventually he must find out where he fits into the puzzle, and how to
+        live life less selfishly.</image:caption
+      >
+      <image:title>101 Reykjavik</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc
+      >https://tmrev.io/movie/662735-Anatomy of a Disaster: Explosion at BP
+      Texas City Refinery</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc
+      >https://tmrev.io/movie/662735-Anatomy of a Disaster: Explosion at BP
+      Texas City Refinery</loc
+    >
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >This U.S. Chemical Safety Board (CSB) video uses expert testimony and
+        computer-animated reenactments to describe and discuss its detailed
+        investigation into the March 23 2005 explosion of the ISOM
+        (isomerization) unit at the BP (British Petroleum) refinery at Texas
+        City, Texas. The explosion killed 15 workers, injured 180 others, and
+        cost BP billions of dollars.</image:caption
+      >
+      <image:title
+        >Anatomy of a Disaster: Explosion at BP Texas City Refinery</image:title
+      >
+    </image:image>
+  </url>
+</urlset>

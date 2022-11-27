@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tmrev.io/movie/707534-Alex's Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+  </url>
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://tmrev.io/movie/707534-Alex's Wedding</loc>
+    <lastmod>2022-11-27</lastmod>
+    <image:image>
+      <image:loc>https://image.tmdb.org/t/p/w500null</image:loc>
+      <image:caption
+        >Chronicle of a rather particular afternoon during which the lives of
+        three people change dramatically: Alex, the husband, goes to his
+        in-laws' to bring home his second wife. Elise, Alex's childhood
+        sweetheart and first wife, accompanies him--as she must, according to
+        tradition. And Josephine, the young bride, leaves her parents to begin a
+        new life.</image:caption
+      >
+      <image:title>Alex's Wedding</image:title>
+    </image:image>
+  </url>
+</urlset>
