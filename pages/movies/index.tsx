@@ -1,6 +1,3 @@
-/* eslint-disable no-restricted-syntax */
-/* eslint-disable @typescript-eslint/no-shadow */
-import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
 import React, {
@@ -8,6 +5,8 @@ import React, {
 } from 'react';
 
 import MetaTags from '../../components/common/MetaTag';
+import usePrevious from '../../hooks/usePrevious';
+import { DiscoverMovieResult } from '../../models/tmdb';
 import { getDiscoverMovie, getRunningOperationPromises, useGetDiscoverMovieQuery } from '../../redux/api';
 import { wrapper } from '../../redux/store';
 import { debounce } from '../../utils/common';
@@ -16,23 +15,23 @@ import { createMediaUrl } from '../../utils/mediaID';
 
 const Movies:FunctionComponent = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
-  const lastResult = useGetDiscoverMovieQuery(
-    { page: currentPage - 1 },
-    { skip: currentPage === 1 },
-  );
-  const currentResult = useGetDiscoverMovieQuery({ page: currentPage });
+  const [combined, setCombined] = useState<DiscoverMovieResult[]>([]);
+  const currentResult = useGetDiscoverMovieQuery({ page: currentPage }, { skip: currentPage > 1 });
   const nextResult = useGetDiscoverMovieQuery({ page: currentPage + 1 });
+  const prevPage = usePrevious(currentPage);
 
-  const combined = useMemo(() => {
-    const arr = [];
-    // eslint-disable-next-line no-loops/no-loops
-    for (const data of [lastResult.data, currentResult.data, nextResult.data]) {
-      if (data) {
-        arr.push(...data.results);
-      }
+  useEffect(() => {
+    if (!currentResult.data || !nextResult.data) return;
+
+    if (currentPage === 1) {
+      setCombined([...currentResult.data.results, ...nextResult.data.results]);
     }
-    return arr;
-  }, [currentPage, lastResult.data, currentResult.data, nextResult.data]);
+  }, [currentResult, currentPage, nextResult]);
+
+  useEffect(() => {
+    if (currentPage < 2 || !nextResult.data || prevPage === currentPage) return;
+    setCombined((prevState) => [...prevState, ...nextResult.data!.results]);
+  }, [nextResult, currentPage]);
 
   const onScroll = () => {
     if (window.pageYOffset + window.innerHeight >= document.documentElement.scrollHeight - 100) {
@@ -57,22 +56,18 @@ const Movies:FunctionComponent = () => {
         title="Browsing latest and most popular movies"
         url="/movies"
       />
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
-        {combined.map((value) => (
-          <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-            <a key={value.id} className="flex justify-center items-center">
-              <div className={clsx(
-                'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                'lg:w-[300px] lg:h-[500px]',
-              )}
-              >
-                <Image
-                  alt={`${value.title} poster`}
-                  layout="fill"
-                  objectFit="cover"
-                  src={imageUrl(value.poster_path || '', 500)}
-                />
-              </div>
+      <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
+        {combined.map((value, i) => (
+          // eslint-disable-next-line react/no-array-index-key
+          <Link key={i} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
+            <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
+              <Image
+                alt={`${value.title} poster`}
+                className="rounded"
+                layout="fill"
+                objectFit="cover"
+                src={imageUrl(value.poster_path || '', 300)}
+              />
             </a>
           </Link>
         ))}
