@@ -55,6 +55,44 @@ interface MovieQuery {
   append_to_response?: string
 }
 
+type GetMovieReviewSortBy =
+'averagedAdvancedScore.asc'|
+'averagedAdvancedScore.desc'|
+'acting.asc.advancedScore'|
+'acting.desc.advancedScore'|
+'characters.asc.advancedScore'|
+'characters.desc.advancedScore'|
+'cinematography.asc.advancedScore'|
+'cinematography.desc.advancedScore'|
+'climax.asc.advancedScore'|
+'climax.desc.advancedScore'|
+'ending.asc.advancedScore'|
+'ending.desc.advancedScore'|
+'music.asc.advancedScore'|
+'music.desc.advancedScore'|
+'personalScore.asc.advancedScore'|
+'personalScore.desc.advancedScore'|
+'plot.asc.advancedScore'|
+'plot.desc.advancedScore'|
+'theme.asc.advancedScore'|
+'theme.desc.advancedScore'|
+'visuals.asc.advancedScore'|
+'visuals.desc.advancedScore'|
+'reviewedDate.asc'|
+'reviewedDate.desc'
+
+interface MovieReviewQuery {
+  count?: number;
+  include_user_review?: string;
+  skip?: number;
+  sort_by?: GetMovieReviewSortBy;
+}
+
+interface MovieReviewPayload {
+  movie_id: number
+  query?: MovieReviewQuery
+}
+
 interface Genre {
   id: number;
   name: string;
@@ -166,8 +204,10 @@ interface SpokenLanguage {
 
 export type {
   AuthorDetails, Buy, Cast, Credits,
-  Genre, IMDB,
-  Movie, MovieQuery, OriginalLanguage,
+  Genre, GetMovieReviewSortBy, IMDB,
+  Movie, MovieQuery, MovieReviewPayload,
+  MovieReviewQuery,
+  OriginalLanguage,
   ProductionCompany, ProductionCountry, ReleaseDate,
   ReleaseDates,
   Reviews, ReviewsResult,

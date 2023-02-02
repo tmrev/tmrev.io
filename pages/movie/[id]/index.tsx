@@ -3,7 +3,8 @@ import clsx from 'clsx';
 import { NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import React, { useCallback, useMemo } from 'react';
+import nookies from 'nookies';
+import React, { useCallback, useMemo, useState } from 'react';
 
 import MetaTags from '../../../components/common/MetaTag';
 import HeaderText from '../../../components/common/typography/headerText';
@@ -17,8 +18,10 @@ import MovieRevenue from '../../../components/page-components/movie/[id]/movieRe
 import MovieStats from '../../../components/page-components/movie/[id]/movieStats';
 import MovieReviewList from '../../../components/page-components/movie/reviews/reviewList';
 import WatchedButton from '../../../components/page-components/movie/watched/watchedButton';
+import { firebaseAdmin } from '../../../config/firebaseAdmin';
 import useFirebaseAuth from '../../../hooks/userAuth';
 import { MovieQuery } from '../../../models/tmdb';
+import { MovieReviewPayload, MovieReviewQuery } from '../../../models/tmdb/movie';
 import {
   getAllReviews, getMovie, getRunningOperationPromises, useGetAllReviewsQuery, useGetMovieQuery,
 } from '../../../redux/api';
@@ -35,22 +38,39 @@ const MoviePage: NextPage<Props> = () => {
 
   const { id } = router.query;
 
+  const [query, setQuery] = useState<MovieReviewQuery>({
+    include_user_review: user?.uid,
+    sort_by: 'reviewedDate.desc',
+  });
+
   const payload: MovieQuery | null = useMemo(() => {
     if (typeof id === 'string') {
       return {
         movie_id: parseMediaId(id),
+
       };
     }
 
     return null;
   }, []);
 
+  const movieReviewPayload: MovieReviewPayload | null = useMemo(() => {
+    if (typeof id === 'string') {
+      return {
+        movie_id: parseMediaId(id),
+        query,
+      };
+    }
+
+    return null;
+  }, [query]);
+
   const { data, isLoading, isFetching } = useGetMovieQuery(
     payload || skipToken,
     { skip: router.isFallback },
   );
   const { data: reviewData } = useGetAllReviewsQuery(
-    payload || skipToken,
+    movieReviewPayload || skipToken,
     { skip: router.isFallback },
   );
 
@@ -108,7 +128,7 @@ const MoviePage: NextPage<Props> = () => {
       <div className="dark:bg-black bg-white relative flex flex-col justify-center items-center w-full">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image priority alt={`${data.body.title} backdrop`} layout="fill" objectFit="cover" src={imageUrl(data.body.backdrop_path)} />
-          <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
+          <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-[101%] w-full" />
         </div>
         <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16 z-30">
           <div className={clsx(
@@ -117,7 +137,7 @@ const MoviePage: NextPage<Props> = () => {
           )}
           >
             <div className="flex dark:text-white text-black">
-              <div className="hidden lg:flex lg:flex-col mr-8">
+              <div className="hidden flex-none lg:flex lg:flex-col mr-8">
                 <Image
                   priority
                   alt={`${data.body.title} poster`}
@@ -197,7 +217,11 @@ const MoviePage: NextPage<Props> = () => {
                     isLoading={isLoading}
                     tmrev={reviewData}
                   />
-                  <MovieReviewList reviews={reviewData.body.reviews} />
+                  <MovieReviewList
+                    reviews={reviewData.body.reviews}
+                    setQuery={setQuery}
+                    total={reviewData.body.total}
+                  />
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
@@ -217,10 +241,38 @@ const MoviePage: NextPage<Props> = () => {
 
 export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async (context) => {
+    const { token } = nookies.get(context);
+    let user: any;
+
+    if (token) {
+      user = await firebaseAdmin.auth().verifyIdToken(token);
+    }
+
     const id = context.params?.id;
-    if (typeof id === 'string') {
+
+    if (typeof id === 'string' && token && user) {
       store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
-      store.dispatch(getAllReviews.initiate({ movie_id: parseMediaId(id) }));
+      store.dispatch(getAllReviews.initiate(
+        {
+          movie_id: parseMediaId(id),
+          query: {
+            count: 10,
+            include_user_review: user.uid,
+            sort_by: 'reviewedDate.desc',
+          },
+        },
+      ));
+    } else if (typeof id === 'string') {
+      store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
+      store.dispatch(getAllReviews.initiate(
+        {
+          movie_id: parseMediaId(id),
+          query: {
+            count: 1,
+            sort_by: 'reviewedDate.desc',
+          },
+        },
+      ));
     }
 
     await Promise.all(getRunningOperationPromises());

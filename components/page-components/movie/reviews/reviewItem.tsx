@@ -2,27 +2,27 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, {
-  FunctionComponent, memo,
+  FunctionComponent, memo, useState,
 } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
-import { useAppSelector } from '../../../../hooks';
 import useFirebaseAuth from '../../../../hooks/userAuth';
 import { TmrevReview } from '../../../../models/tmrev';
-import { extractNameFromEmail } from '../../../../utils/common';
+import { capitalize, extractNameFromEmail } from '../../../../utils/common';
 import Button from '../../../common/Button';
 
 interface Props {
-  review: TmrevReview
+  review: TmrevReview | null
 }
 
 const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
+  const [viewMore, setViewMore] = useState<boolean>(false);
+  if (!review) return null;
   const {
     userId, _id, notes, averagedAdvancedScore, profile,
   } = review;
   const { user } = useFirebaseAuth();
-  const { navigationOpen } = useAppSelector((state) => state.navigation);
   const router = useRouter();
 
   const renderUserName = () => {
@@ -42,9 +42,39 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
     );
   };
 
+  const renderViewMore = () => {
+    if (!review.advancedScore) return null;
+
+    return (
+      <div className="space-y-4">
+        <button
+          className=" bg-tmrev-gray-dark p-2 rounded"
+          type="button"
+          onClick={() => setViewMore(!viewMore)}
+        >
+          View
+          {' '}
+          {`${viewMore ? 'Less' : 'Additional'}`}
+          {' '}
+          Ratings
+        </button>
+        { viewMore && (
+          <ul>
+            {Object.keys(review.advancedScore).map((key: string) => {
+              if (!review.advancedScore) return null;
+
+              return <li key={key}>{`${capitalize(key)}: ${(review.advancedScore as any)[key]}`}</li>;
+            })}
+          </ul>
+        )}
+      </div>
+
+    );
+  };
+
   return (
     <div key={_id} className="flex items-start p-3 space-x-3">
-      <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full relative">
+      <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full flex-none relative">
         <Image
           alt={`${profile.firstName} ${profile.lastName}`}
           className="rounded-full"
@@ -52,10 +82,8 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
           src={profile.photoUrl || `https://avatars.dicebear.com/api/identicon/${userId}.svg`}
         />
       </div>
-      <div className={`
-      max-w-xs md:max-w-sm 2xl:max-w-5xl
-      ${navigationOpen && '2xl:!max-w-3xl md:!max-w-xs'} 
-      space-y-4`}
+      <div
+        className="w-full space-y-4"
       >
         <div className="flex space-x-4 items-center">
           <p className="font-semibold max-w-[350px] min-w-[200px]">
@@ -72,7 +100,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
           )}
         </div>
 
-        <div className="max-h-60 overflow-auto">
+        <div className="max-h-60 overflow-auto w-full">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {notes}
           </ReactMarkdown>
@@ -83,6 +111,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
           {' '}
           {averagedAdvancedScore}
         </p>
+        {renderViewMore()}
       </div>
     </div>
   );

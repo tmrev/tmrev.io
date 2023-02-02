@@ -19,7 +19,9 @@ function MyApp({ Component, pageProps }: AppProps) {
       <AuthUserProvider>
         <div className="flex flex-row">
           <Navigation />
-          <Component {...pageProps} />
+          <main className="flex-grow">
+            <Component {...pageProps} />
+          </main>
         </div>
         <Modal />
       </AuthUserProvider>

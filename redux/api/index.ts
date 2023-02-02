@@ -4,6 +4,7 @@ import { HYDRATE } from 'next-redux-wrapper';
 import {
   DiscoverMovie, DiscoverMovieQuery, MovieQuery,
 } from '../../models/tmdb';
+import { MovieReviewPayload } from '../../models/tmdb/movie';
 import {
   CreateTmrevReviewQuery, CreateTmrevReviewResponse,
   SingleReview,
@@ -16,6 +17,7 @@ import { AllReviewsResponse, DeleteReviewQuery } from '../../models/tmrev/review
 import { SearchResponse } from '../../models/tmrev/search';
 import { WatchedDeletePayload, WatchedPayload, WatchedResponse } from '../../models/tmrev/watched';
 import { AddMovieToWatchList, UpdateWatchList } from '../../models/tmrev/watchList';
+import { generateUrl } from '../../utils/common';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 export const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -135,10 +137,10 @@ export const tmrevApi = createApi({
         url: `/user/${data.uid}`,
       }),
     }),
-    getAllReviews: builder.query<AllReviewsResponse, MovieQuery>({
+    getAllReviews: builder.query<AllReviewsResponse, MovieReviewPayload>({
       providesTags: ['REVIEW'],
       query: (data) => ({
-        url: `/movie/reviews/${data.movie_id}`,
+        url: generateUrl(`${tmrevAPI}/movie/reviews/${data.movie_id}`, data.query),
       }),
     }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({

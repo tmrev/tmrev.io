@@ -53,19 +53,19 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/preview/index</loc>
-  </url>
-
-  <url>
-    <loc>https://tmrev.io/user/[id]/reviews/index</loc>
-  </url>
-
-  <url>
     <loc>https://tmrev.io/user/[id]/watched/index</loc>
   </url>
 
   <url>
+    <loc>https://tmrev.io/user/[id]/preview/index</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/user/[id]/watch-list/index</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/user/[id]/reviews/index</loc>
   </url>
 
   <url>
