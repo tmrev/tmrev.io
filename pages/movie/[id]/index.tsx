@@ -117,7 +117,7 @@ const MoviePage: NextPage<Props> = () => {
   if (!data || !reviewData) return null;
 
   return (
-    <div>
+    <>
       <MetaTags
         description={data.body.overview}
         image={imageUrl(data.body.poster_path || '', 400, true)}
@@ -235,7 +235,7 @@ const MoviePage: NextPage<Props> = () => {
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 };
 
