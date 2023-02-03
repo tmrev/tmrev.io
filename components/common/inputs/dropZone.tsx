@@ -5,7 +5,11 @@ interface Props extends
 
 const DropZone: FunctionComponent<Props> = ({ ...props }:Props) => (
   <div className="flex justify-center items-center w-full text-white">
-    <label className="flex flex-col justify-center items-center w-full h-64 bg-black rounded-lg border-2 border-tmrev-gray-light border-dashed cursor-pointer hover:bg-tmrev-gray-dark" htmlFor="dropzone-file">
+    <label
+      className="flex flex-col justify-center items-center w-full h-64 bg-black
+      rounded-lg border-2 border-tmrev-gray-light border-dashed cursor-pointer hover:bg-tmrev-gray-dark"
+      htmlFor="dropzone-file"
+    >
       <div className="flex flex-col justify-center items-center pt-5 pb-6">
         <svg
           aria-hidden="true"
