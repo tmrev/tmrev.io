@@ -11,8 +11,8 @@ interface Props {
 const WatchListPanel: FunctionComponent<Props> = ({ watchlist }:Props) => (
   <Link passHref href={`/user/${watchlist.userId}/list/${watchlist._id}`}>
     <a>
-      <div className="flex flex-col items-center justify-center bg-black hover:bg-tmrev-gray-dark p-4 rounded">
-        <div className="aspect-[2/3] h-[200px] w-[150px] relative rounded">
+      <div className="flex items-center bg-black hover:bg-tmrev-gray-dark space-x-4 p-4 rounded border">
+        <div className="aspect-[2/3] h-[112px] relative rounded">
           <Image
             alt={`${watchlist.title} watchlist`}
             className="rounded"
