@@ -1,10 +1,13 @@
+/* eslint-disable global-require */
 module.exports = {
   content: [
     './pages/**/*.{js,ts,jsx,tsx}',
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   darkMode: 'class',
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')({
+    strategy: 'class',
+  })],
   theme: {
     extend: {
       aspectRatio: {

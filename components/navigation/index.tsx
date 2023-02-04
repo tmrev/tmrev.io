@@ -66,7 +66,7 @@ const Navigation:FunctionComponent<Props> = () => {
         icon: 'list',
         mobileOnly: false,
         title: 'Watch List',
-        url: user ? `/user/${user.uid}/watch-list` : '/login',
+        url: user ? `/user/${user.uid}/list` : '/login',
       },
       {
         auth: false,

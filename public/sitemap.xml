@@ -53,15 +53,19 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/watched/index</loc>
-  </url>
-
-  <url>
     <loc>https://tmrev.io/user/[id]/preview/index</loc>
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/watch-list/index</loc>
+    <loc>https://tmrev.io/user/[id]/watched/index</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/user/[id]/list/create</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/user/[id]/list/index</loc>
   </url>
 
   <url>
@@ -69,11 +73,11 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/watch-list/[watchListId]/edit</loc>
+    <loc>https://tmrev.io/user/[id]/list/[watchListId]/edit</loc>
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/watch-list/[watchListId]/index</loc>
+    <loc>https://tmrev.io/user/[id]/list/[watchListId]/index</loc>
   </url>
 
   <url>
