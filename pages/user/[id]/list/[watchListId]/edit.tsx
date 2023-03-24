@@ -21,45 +21,13 @@ import { UpdateWatchList } from '../../../../../models/tmrev';
 import { GetListPayload } from '../../../../../models/tmrev/watchList';
 import { useAuth } from '../../../../../provider/authUserContext';
 import {
-  apiKey, tmdbAPI, useDeleteWatchListMutation, useGetListQuery, useUpdateWatchListMutation,
+  useDeleteWatchListMutation, useGetListQuery, useUpdateWatchListMutation,
 } from '../../../../../redux/api';
 import {
   Content, setClearModal, setModalContent, setOpenModal,
 } from '../../../../../redux/slice/modalSlice';
 import { capitalize } from '../../../../../utils/common';
 import { ReactSelect } from '../create';
-
-const fetchMovieDetails = async (
-  movieId: number[],
-  setMovies: React.Dispatch<React.SetStateAction<Movie[]>>,
-  sortArray: number[],
-) => {
-  const newMovies: Movie[] = [];
-  const dataPromise: PromiseFulfilledResult<Response>[] = [];
-
-  const resPromise = movieId.map((v) => fetch(`${tmdbAPI}/movie/${v}?api_key=${apiKey}`));
-
-  const settledRes = await Promise.allSettled(resPromise);
-
-  settledRes.forEach((v) => {
-    if (v.status === 'fulfilled') {
-      dataPromise.push(v);
-    }
-  });
-
-  if (dataPromise.length) {
-    const settledData = await Promise.allSettled(dataPromise.map((v) => v.value.json()));
-
-    settledData.forEach((v) => {
-      if (v.status === 'fulfilled') {
-        newMovies.push(v.value);
-      }
-    });
-  }
-
-  // eslint-disable-next-line max-len
-  setMovies((prevState) => [...prevState, ...newMovies].sort((a, b) => sortArray.indexOf(a.id) - sortArray.indexOf(b.id)));
-};
 
 const schema = yup.object().shape({
   description: yup.string().optional(),
@@ -141,27 +109,6 @@ const WatchListEdit: NextPage = () => {
   }, [data]);
 
   useEffect(() => {
-    if (!data) return;
-
-    const missingMovies: number[] = [];
-
-    if (data.movies.length !== data.movieData.length) {
-      const newArray = [...data.movieData];
-      newArray.sort((a, b) => data.movies.indexOf(a.id) - data.movies.indexOf(b.id));
-
-      data.movies.forEach((id, index) => {
-        if (!newArray[index]) return;
-
-        if (id !== newArray[index].id) {
-          missingMovies.push(id);
-        }
-      });
-
-      fetchMovieDetails(missingMovies, setMovies, data.movies);
-    }
-  }, [data]);
-
-  useEffect(() => {
     const formattedArray: number[] = [];
 
     movies.forEach((v) => {
@@ -196,7 +143,7 @@ const WatchListEdit: NextPage = () => {
 
       const updatePayload: UpdateWatchList = {
         description: formData.description,
-        movies: formData.movies,
+        movies: [...new Set(formData.movies)],
         public: formData.public,
         tags: formData.tags,
         title: formData.title,
