@@ -1,3 +1,5 @@
+import { Movie } from '../tmdb';
+
 interface WatchList {
   _id: string,
   description: string,
@@ -14,6 +16,12 @@ interface WatchList {
     _nanoseconds: number
   },
   tags: string[]
+  movieData: Movie[]
+}
+
+interface GetListPayload {
+  id: string
+  authToken: string
 }
 
 interface WatchListSearchQuery {
@@ -34,11 +42,11 @@ interface UpdateWatchList {
   title: string,
   public: boolean,
   tags: string[],
-  userId: string
   movies: number[],
   watchListId?: string
 }
 
 export type {
-  AddMovieToWatchList, UpdateWatchList, WatchList, WatchListSearchQuery,
+  AddMovieToWatchList, GetListPayload,
+  UpdateWatchList, WatchList, WatchListSearchQuery,
 };

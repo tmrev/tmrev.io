@@ -14,6 +14,7 @@ import { WatchList } from '../../../../../models/tmrev';
 import { useAuth } from '../../../../../provider/authUserContext';
 import { apiKey, tmdbAPI, tmrevAPI } from '../../../../../redux/api';
 import { setMovies, setWatchList } from '../../../../../redux/slice/watchListSlice';
+import formatDate from '../../../../../utils/formatDate';
 import imageUrl from '../../../../../utils/imageUrl';
 import { createMediaUrl } from '../../../../../utils/mediaID';
 
@@ -57,7 +58,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
   }, [watchList, movies]);
 
   useEffect(() => {
-    router.prefetch(`/user/${user?.uid}/watch-list/${router.query.watchListId}/edit`);
+    router.prefetch(`/user/${user?.uid}/list/${router.query.watchListId}/edit`);
   }, [router.query.id]);
 
   const renderEdit = () => {
@@ -65,13 +66,11 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
 
     return (
       <Button
-        hoverEffect
-        variant="icon"
-        onClick={() => router.push(`/user/${user?.uid}/watch-list/${router.query.watchListId}/edit`)}
+        className="w-full"
+        variant="secondary"
+        onClick={() => router.push(`/user/${user?.uid}/list/${router.query.watchListId}/edit`)}
       >
-        <span className="material-icons">
-          edit
-        </span>
+        Update List
       </Button>
     );
   };
@@ -79,9 +78,9 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
   if (!watchList || !movies) return null;
 
   return (
-    <div className="w-full">
-      <div className="bg-tmrev-gray-dark p-4 flex items-center space-x-4 text-white w-full">
-        <div>
+    <div className="w-full mt-16 lg:mt-0">
+      <div className="p-4 flex flex-col items-center space-y-4 text-white w-full">
+        <div className="w-full">
           <HeaderText headingType="h1">
             {watchList.title}
           </HeaderText>
@@ -89,24 +88,32 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
         </div>
         {renderEdit()}
       </div>
-      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 xl:grid-cols-4 items-start mt-4">
-        {watchList.movies.map((movieId) => {
-          const value = movies[movieId];
+      <div className="flex flex-col flex-wrap justify-center space-y-4 p-2 md:p-4">
+        {watchList.movies.map((movieId, index) => {
+          const {
+            title, id, poster_path, release_date,
+          } = movies[movieId];
           return (
-            <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
-              <a key={value.id} className="flex justify-center items-center rounded">
+            <Link key={id} passHref href={`/movie/${createMediaUrl(id, title)}`}>
+              <a key={id} className="flex w-full hover:bg-tmrev-gray-dark items-center space-x-4 p-2 border rounded text-white">
+                <div className="p-2">
+                  <p className="text-xl font-bold">{index + 1}</p>
+                </div>
                 <div className={clsx(
-                  'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                  'lg:w-[300px] lg:h-[500px]',
+                  'bg-white relative aspect-[2/3] h-[120px] rounded',
                 )}
                 >
                   <Image
-                    alt={`${value.title} poster`}
+                    priority
+                    alt={`${title} poster`}
                     className="rounded"
                     layout="fill"
                     objectFit="cover"
-                    src={imageUrl(value.poster_path || '', 500)}
+                    src={imageUrl(poster_path || '', 500)}
                   />
+                </div>
+                <div>
+                  <p className="text-lg font-semibold">{`${title} (${formatDate(release_date)})`}</p>
                 </div>
               </a>
             </Link>

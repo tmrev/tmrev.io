@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Movie Review
+TMREV is an engaging movie review platform, centered around user-generated content. It offers film enthusiasts a space to share their opinions, discover new movies, and participate in meaningful discussions with fellow movie lovers.
 
+## Tech Stack
+- [Firebase](https://console.firebase.google.com/project/tmrev-development/overview)
+- [Next.js](https://nextjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vercel](https://vercel.com/guyll/tmrev-io)
+
+## Development Tools
+- [VS Code](https://code.visualstudio.com/download)
+- [Node.js](https://nodejs.org/en/download)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install)
 ## Getting Started
 
-First, run the development server:
+1. Clone the github repo `https://github.com/tmrev/tmrev.io.git`
+2. Create a `.env.local` file at the root of the repository
+    - Reach out to @KegenG#2010 on discord for more information on secrets
+3. This project utilizes [ESLint](https://eslint.org/) to fix problems, and enforces [Airbnb's](https://airbnb.io/javascript/react/) coding standards. *Please download the plugin for your corresponding IDE*
+    - [VS Code Eslint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+4. This application utilizes `yarn`, so make sure you have it installed by running `yarn -v`.
+5. In the root of the repo, run `yarn` to install/update dependencies
+6. Run `yarn dev` to start the server on `localhost:3000`
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Committing
+ - When you make a commit, all stages files will be linted by `eslint` and formatted by `prettier`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## VS Code Extensions
+- JavaScript and TypeScript Nightly `ms-vscode.vscode-typescript-next`
+- Tailwind CSS IntelliSense `bradlc.vscode-tailwindcss`
+- Eslint `dbaeumer.vscode-eslint`
+- Prettier - Code formatter `esbenp.prettier-vscode`
+- GitLens — Git supercharged `eamodio.gitlens`

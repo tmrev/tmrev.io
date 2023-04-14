@@ -61,9 +61,11 @@ export function roundWithMaxPrecision(n:number, precision = 1) {
 export const generateUrl = (url: string, params: any) => {
   const myUrlWithParams = new URL(url);
 
-  Object.keys(params).forEach((value) => {
-    myUrlWithParams.searchParams.append(value, params[value]);
-  });
+  if (params) {
+    Object.keys(params).forEach((value) => {
+      myUrlWithParams.searchParams.append(value, params[value]);
+    });
+  }
 
   return myUrlWithParams.href;
 };
@@ -85,4 +87,12 @@ export function camelCase(str: string) {
     .toLowerCase()
     .replace(/[^\w]+(.)/g, (ltr) => ltr.toUpperCase())
     .replace(/[^a-zA-Z]/g, '');
+}
+
+export function uniqueArray<T>(array:T[], identifier: string): T[] {
+  return [...new Map(array.map((m: any) => [m[identifier], m])).values()];
+}
+
+export function capitalize(str: string) {
+  return str.replace(/(\b[a-z](?!\s))/g, (x) => x.toUpperCase());
 }

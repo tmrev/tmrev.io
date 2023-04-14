@@ -22,6 +22,7 @@ interface AllReviewsResponse {
     avgScore: AdvancedScore
     likes: number
     dislikes: number
+    total: number
   }
 }
 

@@ -6,7 +6,6 @@ import React, { useCallback, useEffect, useState } from 'react';
 import DropZone from '../../components/common/inputs/dropZone';
 import HeaderText from '../../components/common/typography/headerText';
 import { useAppDispatch } from '../../hooks';
-import { UpdateWatchList } from '../../models/tmrev';
 import { BatchMoviesResponse } from '../../models/tmrev/movie';
 import { WatchedPayload } from '../../models/tmrev/watched';
 import { useAuth } from '../../provider/authUserContext';
@@ -111,7 +110,7 @@ const ImportIMDB: NextPage = () => {
 
     batchRequest.forEach((parsedData) => {
       if (parsedData.res.status === 'fulfilled') {
-        const payload: UpdateWatchList = {
+        const payload = {
           description: 'Imported from imdb',
           movies: Object.values(parsedData.res.value.data.body).map((v) => v.id),
           public: true,

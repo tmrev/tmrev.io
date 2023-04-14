@@ -18,7 +18,7 @@ const Input = React.forwardRef<HTMLInputElement, Props>(({
 
   if (variant === 'textarea') {
     return (
-      <div className="w-full relative">
+      <div className="w-full relative text-white">
         <p className=" font-semibold pb-1 text-md">{label}</p>
         <textarea
           ref={ref as any}

@@ -1,6 +1,8 @@
 import { NextPage } from 'next';
+import { useRouter } from 'next/router';
 import React from 'react';
 
+import Button from '../../../../components/common/Button';
 import MetaTags from '../../../../components/common/MetaTag';
 import QuickProfile from '../../../../components/page-components/user/quickProfile';
 import WatchListPanel from '../../../../components/user/watchListPanel';
@@ -11,7 +13,9 @@ import { extractNameFromEmail } from '../../../../utils/common';
 const WatchList:NextPage = () => {
   const { user } = useAuth();
 
-  const { data } = useGetUserQuery({ uid: user?.uid || '' }, { skip: !user });
+  const router = useRouter();
+
+  const { data } = useGetUserQuery({ uid: router.query.id as string || '' }, { skip: !user });
 
   if (!data) return null;
 
@@ -23,12 +27,13 @@ const WatchList:NextPage = () => {
         url="/watch-lists"
       />
       <QuickProfile />
-      <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 items-start mt-4">
-        {data.watchLists.map((watchList) => (
-          <div key={watchList._id} className="flex justify-center">
-            <WatchListPanel watchlist={watchList} />
-          </div>
-        ))}
+      <div className="px-4">
+        <Button className="w-full" variant="primary">Create List</Button>
+        <div className="flex flex-col space-y-4 mt-4">
+          {data.watchLists.length ? data.watchLists.map((watchList) => (
+            <WatchListPanel key={watchList._id} watchlist={watchList} />
+          )) : <p className="w-full text-center border p-6 rounded">No List Created</p>}
+        </div>
       </div>
     </div>
   );

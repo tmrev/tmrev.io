@@ -94,7 +94,7 @@ const Search:NextPage<Props> = ({ q }:Props) => {
     return (
       <>
         {watchList.map((value) => (
-          <Link key={value._id} passHref href={`/user/${value.userId}/watch-list/${value._id}`}>
+          <Link key={value._id} passHref href={`/user/${value.userId}/list/${value._id}`}>
             <a className={
               clsx(
                 'flex flex-col items-center justify-center text-center space-y-4',

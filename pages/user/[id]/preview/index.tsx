@@ -19,7 +19,7 @@ const UserProfile:NextPage = () => {
   if (!data) return null;
 
   return (
-    <div className="my-16 px-0 lg:my-0  text-white overflow-x-hidden w-full">
+    <div className="my-16 px-0 lg:my-0  text-white overflow-x-hidden">
       <MetaTags
         description=""
         image={renderImageSrc(data)}
