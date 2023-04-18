@@ -53,15 +53,15 @@
   </url>
 
   <url>
+    <loc>https://tmrev.io/user/[id]/preview/index</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/user/[id]/list/create</loc>
   </url>
 
   <url>
     <loc>https://tmrev.io/user/[id]/list/index</loc>
-  </url>
-
-  <url>
-    <loc>https://tmrev.io/user/[id]/preview/index</loc>
   </url>
 
   <url>

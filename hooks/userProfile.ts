@@ -1,10 +1,10 @@
-import { useRouter } from 'next/router';
-import { useEffect, useMemo } from 'react';
+import { useRouter } from "next/router";
+import { useEffect, useMemo } from "react";
 
-import { useAuth } from '../provider/authUserContext';
-import { useGetUserQuery } from '../redux/api';
-import { setUserData } from '../redux/slice/userProfileSlice';
-import { useAppDispatch } from '.';
+import { useAuth } from "@/provider/authUserContext";
+import { useGetUserQuery } from "@/redux/api";
+import { setUserData } from "@/redux/slice/userProfileSlice";
+import { useAppDispatch } from ".";
 
 export default function useProfile() {
   const { user } = useAuth();
@@ -12,19 +12,22 @@ export default function useProfile() {
   const dispatch = useAppDispatch();
 
   const payload = useMemo(() => {
-    if (typeof router.query.id === 'string') {
+    if (typeof router.query.id === "string") {
       return {
         uid: router.query.id,
       };
     }
 
     return {
-      uid: '',
+      uid: "",
     };
   }, [router]);
 
   const { data } = useGetUserQuery(payload, { skip: !payload.uid });
-  const { data: currentUserData } = useGetUserQuery({ uid: user?.uid || '' }, { skip: !user });
+  const { data: currentUserData } = useGetUserQuery(
+    { uid: user?.uid || "" },
+    { skip: !user }
+  );
 
   const isUser = useMemo(() => {
     if (!data || !user) return false;
