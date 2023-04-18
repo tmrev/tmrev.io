@@ -1,31 +1,44 @@
-import clsx from 'clsx';
-import dayjs from 'dayjs';
-import { NextPage } from 'next';
-import Image from 'next/image';
-import { useRouter } from 'next/router';
+import clsx from "clsx";
+import dayjs from "dayjs";
+import { NextPage } from "next";
+import Image from "next/image";
+import { useRouter } from "next/router";
 import React, {
-  useCallback, useEffect, useMemo, useRef, useState,
-} from 'react';
+  useCallback,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 
-import Button from '../../../../components/common/Button';
-import MetaTags from '../../../../components/common/MetaTag';
-import HeaderText from '../../../../components/common/typography/headerText';
-import CopyLink from '../../../../components/page-components/movie/[id]/copyLink';
-import UserRating from '../../../../components/page-components/movie/userRating';
-import { useAppDispatch, useAppSelector } from '../../../../hooks';
-import { MovieQuery } from '../../../../models/tmdb';
-import { CreateTmrevReviewQuery, SingleReview } from '../../../../models/tmrev';
-import { useAuth } from '../../../../provider/authUserContext';
+import Button from "@/components/common/Button";
+import MetaTags from "@/components/common/MetaTag";
+import HeaderText from "@/components/common/typography/headerText";
+import CopyLink from "@/components/page-components/movie/[id]/copyLink";
+import UserRating from "@/components/page-components/movie/userRating";
+import { useAppDispatch, useAppSelector } from "@/hooks";
+import { MovieQuery } from "@/models/tmdb";
+import { CreateTmrevReviewQuery, SingleReview } from "@/models/tmrev";
+import { useAuth } from "@/provider/authUserContext";
 import {
   useDeleteTmrevReviewMutation,
-  useGetMovieQuery, useGetSingleReviewQuery, useUpdateTmrevReviewMutation,
-} from '../../../../redux/api';
-import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
-import { setClearCurrentReview, setCurrentReview } from '../../../../redux/slice/reviewsSlice';
-import { setOpenToast, setToastContent } from '../../../../redux/slice/toastSlice';
-import formatDate from '../../../../utils/formatDate';
-import imageUrl from '../../../../utils/imageUrl';
-import { createMediaUrl, parseMediaId } from '../../../../utils/mediaID';
+  useGetMovieQuery,
+  useGetSingleReviewQuery,
+  useUpdateTmrevReviewMutation,
+} from "@/redux/api";
+import {
+  Content,
+  setModalContent,
+  setOpenModal,
+} from "@/redux/slice/modalSlice";
+import {
+  setClearCurrentReview,
+  setCurrentReview,
+} from "@/redux/slice/reviewsSlice";
+import { setOpenToast, setToastContent } from "@/redux/slice/toastSlice";
+import formatDate from "@/utils/formatDate";
+import imageUrl from "@/utils/imageUrl";
+import { createMediaUrl, parseMediaId } from "@/utils/mediaID";
 
 const UpdatePage: NextPage = () => {
   const router = useRouter();
@@ -49,7 +62,7 @@ const UpdatePage: NextPage = () => {
   }, [user]);
 
   const moviePayload: MovieQuery = useMemo(() => {
-    if (typeof id === 'string') {
+    if (typeof id === "string") {
       return {
         movie_id: parseMediaId(id),
       };
@@ -61,7 +74,7 @@ const UpdatePage: NextPage = () => {
   }, [id]);
 
   const reviewPayload: SingleReview = useMemo(() => {
-    if (typeof review_id === 'string' && token) {
+    if (typeof review_id === "string" && token) {
       return {
         authToken: token,
         reviewId: review_id,
@@ -69,25 +82,29 @@ const UpdatePage: NextPage = () => {
     }
 
     return {
-      authToken: '',
-      reviewId: '',
+      authToken: "",
+      reviewId: "",
     };
   }, [token, review_id]);
 
   useEffect(() => {
     if (ref.current) {
       ref.current.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start',
+        behavior: "smooth",
+        block: "start",
       });
     }
   }, [ref]);
 
-  const { data } = useGetMovieQuery(moviePayload, { skip: !moviePayload.movie_id });
+  const { data } = useGetMovieQuery(moviePayload, {
+    skip: !moviePayload.movie_id,
+  });
   const [updateReview] = useUpdateTmrevReviewMutation();
   const [deleteReview] = useDeleteTmrevReviewMutation();
   // eslint-disable-next-line max-len
-  const { data: userReview } = useGetSingleReviewQuery(reviewPayload, { skip: !reviewPayload.authToken });
+  const { data: userReview } = useGetSingleReviewQuery(reviewPayload, {
+    skip: !reviewPayload.authToken,
+  });
   const { currentReview } = useAppSelector((state) => state.reviews);
 
   useEffect(() => {
@@ -103,7 +120,9 @@ const UpdatePage: NextPage = () => {
 
   const canSubmitReview = () => {
     if (!currentReview) return false;
-    const containsNullRatings = Object.values(currentReview.advancedScore).includes(null);
+    const containsNullRatings = Object.values(
+      currentReview.advancedScore
+    ).includes(null);
 
     if (!containsNullRatings) return false;
 
@@ -113,41 +132,59 @@ const UpdatePage: NextPage = () => {
   const averagedAdvancedScore = useMemo(() => {
     if (canSubmitReview() || !currentReview) return null;
     const allValues = Object.values(currentReview.advancedScore);
-    const sum = allValues.reduce((prev, curr) => (
-      prev + curr
-    ), 0);
+    const sum = allValues.reduce((prev, curr) => prev + curr, 0);
 
     return sum / allValues.length;
   }, [currentReview, canSubmitReview()]);
 
   const submitReview = useCallback(async () => {
-    if (canSubmitReview() || !currentReview || !data || !user || !averagedAdvancedScore) return;
+    if (
+      canSubmitReview() ||
+      !currentReview ||
+      !data ||
+      !user ||
+      !averagedAdvancedScore
+    )
+      return;
 
     try {
       const newPayload: CreateTmrevReviewQuery = {
         advancedScore: currentReview.advancedScore,
         notes: currentReview.notes,
         public: moviePublic,
-        release_date: dayjs(data.body.release_date).format('YYYY-MM-DD'),
-        reviewedDate: currentReview.reviewedDate || dayjs().format('YYYY-MM-DD'),
+        release_date: dayjs(data.body.release_date).format("YYYY-MM-DD"),
+        reviewedDate:
+          currentReview.reviewedDate || dayjs().format("YYYY-MM-DD"),
         title: data.body.title,
         tmdbID: data.body.id,
         token,
       };
 
-      updateReview(newPayload).unwrap().then(() => {
-        dispatch(setToastContent('Successfully Updated your review'));
-        dispatch(setOpenToast(true));
-        router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
-      }).catch((err) => {
-        // eslint-disable-next-line no-console
-        console.error(JSON.stringify(err.data));
-      });
+      updateReview(newPayload)
+        .unwrap()
+        .then(() => {
+          dispatch(setToastContent("Successfully Updated your review"));
+          dispatch(setOpenToast(true));
+          router.push(
+            `/movie/${createMediaUrl(data.body.id, data.body.title)}`
+          );
+        })
+        .catch((err) => {
+          // eslint-disable-next-line no-console
+          console.error(JSON.stringify(err.data));
+        });
     } catch (error) {
       // eslint-disable-next-line no-console
       console.error(error);
     }
-  }, [user, currentReview, data, canSubmitReview(), averagedAdvancedScore, moviePublic]);
+  }, [
+    user,
+    currentReview,
+    data,
+    canSubmitReview(),
+    averagedAdvancedScore,
+    moviePublic,
+  ]);
 
   const handleDeleteReview = () => {
     if (!token || !review_id || !data) return;
@@ -156,7 +193,7 @@ const UpdatePage: NextPage = () => {
       .unwrap()
       .then(() => {
         dispatch(setOpenModal(false));
-        dispatch(setToastContent('Successfully Deleted your review'));
+        dispatch(setToastContent("Successfully Deleted your review"));
         dispatch(setOpenToast(true));
         router.push(`/movie/${createMediaUrl(data.body.id, data.body.title)}`);
       });
@@ -167,19 +204,20 @@ const UpdatePage: NextPage = () => {
       buttons: [
         {
           onClick: () => dispatch(setOpenModal(false)),
-          title: 'nvm',
-          variant: 'secondary',
+          title: "nvm",
+          variant: "secondary",
         },
         {
           onClick: handleDeleteReview,
-          title: 'Yes, Delete',
-          variant: 'danger',
+          title: "Yes, Delete",
+          variant: "danger",
         },
       ],
       closeFunc: () => dispatch(setOpenModal(false)),
-      description: 'Once deleted this review will be gone forever and can not be retrieved.',
+      description:
+        "Once deleted this review will be gone forever and can not be retrieved.",
       outsideClick: true,
-      title: 'Are you sure you want to delete this review?',
+      title: "Are you sure you want to delete this review?",
     };
 
     dispatch(setModalContent(content));
@@ -196,20 +234,27 @@ const UpdatePage: NextPage = () => {
     <div className="dark:bg-black bg-white relative flex flex-col w-full">
       <MetaTags
         description={`Reviewing ${data.body.title}`}
-        image={imageUrl(data.body.poster_path || '', 400, true)}
-        largeImage={imageUrl(data.body.backdrop_path || '')}
+        image={imageUrl(data.body.poster_path || "", 400, true)}
+        largeImage={imageUrl(data.body.backdrop_path || "")}
         title={`${data.body.title} | Review`}
         url={createMediaUrl(data.body.id, data.body.title)}
       />
       <div className="relative w-full h-96 lg:h-[500px]">
-        <Image priority alt={`${data.body.title} backdrop`} layout="fill" objectFit="cover" src={imageUrl(data.body.backdrop_path)} />
+        <Image
+          priority
+          alt={`${data.body.title} backdrop`}
+          layout="fill"
+          objectFit="cover"
+          src={imageUrl(data.body.backdrop_path)}
+        />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
       </div>
       <div className="px-4 mb-6 lg:px-8 mt-0 lg:-mt-16 z-30">
-        <div className={clsx(
-          'dark:bg-black bg-white p-0 md:p-8 flex',
-          'lg:rounded',
-        )}
+        <div
+          className={clsx(
+            "dark:bg-black bg-white p-0 md:p-8 flex",
+            "lg:rounded"
+          )}
         >
           <div className="flex dark:text-white text-black">
             <div className="hidden lg:flex lg:flex-col mr-8 space-y-4">
@@ -219,15 +264,21 @@ const UpdatePage: NextPage = () => {
                 className="rounded aspect-[2/3]"
                 height={500}
                 objectFit="cover"
-                src={imageUrl(data.body.poster_path || '', 400, true)}
+                src={imageUrl(data.body.poster_path || "", 400, true)}
                 width={350}
               />
-              <Button disabled={canSubmitReview()} variant="primary" onClick={submitReview}>Update Review</Button>
+              <Button
+                disabled={canSubmitReview()}
+                variant="primary"
+                onClick={submitReview}
+              >
+                Update Review
+              </Button>
               <Button
                 variant="secondary"
                 onClick={() => setMoviePublic(!moviePublic)}
               >
-                {moviePublic ? 'Make Private' : 'Make Public'}
+                {moviePublic ? "Make Private" : "Make Public"}
               </Button>
               <Button variant="danger" onClick={confirmDelete}>
                 Delete Review
@@ -240,18 +291,18 @@ const UpdatePage: NextPage = () => {
                   <CopyLink link={`https://tmrev.io${router.asPath}`} />
                 </span>
                 <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
-                  <span className="mr-2">
-                    {data.body.title}
-                  </span>
+                  <span className="mr-2">{data.body.title}</span>
                   <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
-                    (
-                    {formatDate(data.body.release_date)}
-                    )
+                    ({formatDate(data.body.release_date)})
                   </span>
                 </h1>
                 <p className="mt-8">{data.body.overview}</p>
               </div>
-              <div ref={ref} className="!space-y-16 !mt-16 md:!mt-[7rem]" id="review">
+              <div
+                ref={ref}
+                className="!space-y-16 !mt-16 md:!mt-[7rem]"
+                id="review"
+              >
                 <UserRating />
                 <div className="lg:hidden mt-8">
                   <Button

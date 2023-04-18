@@ -1,22 +1,27 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import React, {
-  FunctionComponent, useEffect, useMemo, useState,
-} from 'react';
+import Image from "next/image";
+import Link from "next/link";
+import React, { FunctionComponent, useEffect, useMemo, useState } from "react";
 
-import MetaTags from '../../components/common/MetaTag';
-import usePrevious from '../../hooks/usePrevious';
-import { DiscoverMovieResult } from '../../models/tmdb';
-import { getDiscoverMovie, getRunningOperationPromises, useGetDiscoverMovieQuery } from '../../redux/api';
-import { wrapper } from '../../redux/store';
-import { debounce } from '../../utils/common';
-import imageUrl from '../../utils/imageUrl';
-import { createMediaUrl } from '../../utils/mediaID';
+import MetaTags from "@/components/common/MetaTag";
+import usePrevious from "@/hooks/usePrevious";
+import { DiscoverMovieResult } from "@/models/tmdb";
+import {
+  getDiscoverMovie,
+  getRunningOperationPromises,
+  useGetDiscoverMovieQuery,
+} from "@/redux/api";
+import { wrapper } from "@/redux/store";
+import { debounce } from "@/utils/common";
+import imageUrl from "@/utils/imageUrl";
+import { createMediaUrl } from "@/utils/mediaID";
 
-const Movies:FunctionComponent = () => {
+const Movies: FunctionComponent = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [combined, setCombined] = useState<DiscoverMovieResult[]>([]);
-  const currentResult = useGetDiscoverMovieQuery({ page: currentPage }, { skip: currentPage > 1 });
+  const currentResult = useGetDiscoverMovieQuery(
+    { page: currentPage },
+    { skip: currentPage > 1 }
+  );
   const nextResult = useGetDiscoverMovieQuery({ page: currentPage + 1 });
   const prevPage = usePrevious(currentPage);
 
@@ -34,7 +39,10 @@ const Movies:FunctionComponent = () => {
   }, [nextResult, currentPage]);
 
   const onScroll = () => {
-    if (window.pageYOffset + window.innerHeight >= document.documentElement.scrollHeight - 100) {
+    if (
+      window.pageYOffset + window.innerHeight >=
+      document.documentElement.scrollHeight - 100
+    ) {
       setCurrentPage((prevState) => prevState + 1);
     }
   };
@@ -42,9 +50,9 @@ const Movies:FunctionComponent = () => {
   const debouncedScroll = useMemo(() => debounce(onScroll, 500), []);
 
   useEffect(() => {
-    window.addEventListener('scroll', debouncedScroll);
+    window.addEventListener("scroll", debouncedScroll);
 
-    return () => window.removeEventListener('scroll', debouncedScroll);
+    return () => window.removeEventListener("scroll", debouncedScroll);
   }, []);
 
   if (!combined) return null;
@@ -59,14 +67,18 @@ const Movies:FunctionComponent = () => {
       <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
         {combined.map((value, i) => (
           // eslint-disable-next-line react/no-array-index-key
-          <Link key={i} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
+          <Link
+            key={i}
+            passHref
+            href={`/movie/${createMediaUrl(value.id, value.title)}`}
+          >
             <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
               <Image
                 alt={`${value.title} poster`}
                 className="rounded"
                 layout="fill"
                 objectFit="cover"
-                src={imageUrl(value.poster_path || '', 300)}
+                src={imageUrl(value.poster_path || "", 300)}
               />
             </a>
           </Link>
@@ -78,12 +90,14 @@ const Movies:FunctionComponent = () => {
 
 export default Movies;
 
-export const getServerSideProps = wrapper.getServerSideProps((store) => async () => {
-  store.dispatch(getDiscoverMovie.initiate({ page: 1 }));
+export const getServerSideProps = wrapper.getServerSideProps(
+  (store) => async () => {
+    store.dispatch(getDiscoverMovie.initiate({ page: 1 }));
 
-  await Promise.all(getRunningOperationPromises());
+    await Promise.all(getRunningOperationPromises());
 
-  return {
-    props: {},
-  };
-});
+    return {
+      props: {},
+    };
+  }
+);
