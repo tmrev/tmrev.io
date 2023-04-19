@@ -1,14 +1,14 @@
-import { NextPage } from "next";
-import { useRouter } from "next/router";
-import React from "react";
+import { NextPage } from 'next';
+import { useRouter } from 'next/router';
+import React from 'react';
 
-import Button from "@/components/common/Button";
-import MetaTags from "@/components/common/MetaTag";
-import QuickProfile from "@/components/page-components/user/quickProfile";
-import WatchListPanel from "@/components/user/watchListPanel";
-import { useAuth } from "@/provider/authUserContext";
-import { useGetUserQuery } from "@/redux/api";
-import { extractNameFromEmail } from "@/utils/common";
+import Button from '@/components/common/Button';
+import MetaTags from '@/components/common/MetaTag';
+import QuickProfile from '@/components/page-components/user/quickProfile';
+import WatchListPanel from '@/components/user/watchListPanel';
+import { useAuth } from '@/provider/authUserContext';
+import { useGetUserQuery } from '@/redux/api';
+import { extractNameFromEmail } from '@/utils/common';
 
 const WatchList: NextPage = () => {
   const { user } = useAuth();
@@ -16,7 +16,7 @@ const WatchList: NextPage = () => {
   const router = useRouter();
 
   const { data } = useGetUserQuery(
-    { uid: (router.query.id as string) || "" },
+    { uid: (router.query.id as string) || '' },
     { skip: !user }
   );
 

@@ -1,63 +1,63 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
-import { yupResolver } from "@hookform/resolvers/yup";
-import { Reorder } from "framer-motion";
-import { NextPage } from "next";
-import { useRouter } from "next/router";
-import React, { useCallback, useEffect, useMemo, useState } from "react";
-import { useForm } from "react-hook-form";
-import * as yup from "yup";
+import { yupResolver } from '@hookform/resolvers/yup';
+import { Reorder } from 'framer-motion';
+import { NextPage } from 'next';
+import { useRouter } from 'next/router';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
+import { useForm } from 'react-hook-form';
+import * as yup from 'yup';
 
-import Button from "@/components/common/Button";
-import Input from "@/components/common/Input";
-import SearchableInput from "@/components/common/inputs/searchable";
-import MovieItem from "@/components/common/movie/MovieItem";
-import TagList from "@/components/common/movie/tags/TagList";
-import HeaderText from "@/components/common/typography/headerText";
-import { useAppDispatch } from "@/hooks";
-import { Movie } from "@/models/tmdb";
-import { UpdateWatchList } from "@/models/tmrev";
-import { GetListPayload } from "@/models/tmrev/watchList";
-import { useAuth } from "@/provider/authUserContext";
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import SearchableInput from '@/components/common/inputs/searchable';
+import MovieItem from '@/components/common/movie/MovieItem';
+import TagList from '@/components/common/movie/tags/TagList';
+import HeaderText from '@/components/common/typography/headerText';
+import { useAppDispatch } from '@/hooks';
+import { Movie } from '@/models/tmdb';
+import { UpdateWatchList } from '@/models/tmrev';
+import { GetListPayload } from '@/models/tmrev/watchList';
+import { useAuth } from '@/provider/authUserContext';
 import {
   useDeleteWatchListMutation,
   useGetListQuery,
   useUpdateWatchListMutation,
-} from "@/redux/api";
+} from '@/redux/api';
 import {
   Content,
   setClearModal,
   setModalContent,
   setOpenModal,
-} from "@/redux/slice/modalSlice";
-import { capitalize } from "@/utils/common";
-import { ReactSelect } from "../create";
+} from '@/redux/slice/modalSlice';
+import { capitalize } from '@/utils/common';
+import { ReactSelect } from '../create';
 
 const schema = yup.object().shape({
   description: yup.string().optional(),
   movies: yup
     .array()
-    .min(1, "You must have at least one movie")
-    .required("You must select a movie to create a list"),
+    .min(1, 'You must have at least one movie')
+    .required('You must select a movie to create a list'),
   public: yup.boolean(),
   tags: yup.array().optional(),
-  title: yup.string().required("Name of List is required"),
+  title: yup.string().required('Name of List is required'),
 });
 
 const defaultValues = {
-  description: "",
+  description: '',
   movies: [] as number[],
   public: true,
   tags: [] as string[],
-  title: "New List",
+  title: 'New List',
 };
 
 const WatchListEdit: NextPage = () => {
   const router = useRouter();
 
-  const [authToken, setAuthToken] = useState<string>("");
+  const [authToken, setAuthToken] = useState<string>('');
   const { user } = useAuth();
   const [searchedMovies, setSearchedMovies] = useState<ReactSelect[]>([]);
-  const [tagInput, setTagInput] = useState<string>("");
+  const [tagInput, setTagInput] = useState<string>('');
   const [tags, setTags] = useState<string[]>([]);
   const [updateList] = useUpdateWatchListMutation();
   const [deleteList] = useDeleteWatchListMutation();
@@ -86,7 +86,7 @@ const WatchListEdit: NextPage = () => {
   }, [createToken]);
 
   const payload: GetListPayload | undefined = useMemo(() => {
-    if (typeof router.query.watchListId !== "string" || !authToken)
+    if (typeof router.query.watchListId !== 'string' || !authToken)
       return undefined;
 
     return {
@@ -112,11 +112,11 @@ const WatchListEdit: NextPage = () => {
   useEffect(() => {
     if (!data) return;
 
-    setValue("title", data.title);
-    setValue("movies", data.movies);
-    setValue("public", data.public);
-    setValue("tags", data.tags);
-    setValue("description", data.description);
+    setValue('title', data.title);
+    setValue('movies', data.movies);
+    setValue('public', data.public);
+    setValue('tags', data.tags);
+    setValue('description', data.description);
     setTags(data.tags);
   }, [data]);
 
@@ -127,11 +127,11 @@ const WatchListEdit: NextPage = () => {
       formattedArray.push(v.id);
     });
 
-    setValue("movies", formattedArray);
+    setValue('movies', formattedArray);
   }, [movies]);
 
   useEffect(() => {
-    setValue("tags", tags);
+    setValue('tags', tags);
   }, [tags]);
 
   const handleTags = (e: React.KeyboardEvent<HTMLInputElement>) => {
@@ -139,7 +139,7 @@ const WatchListEdit: NextPage = () => {
     if (!tagInput) return;
 
     setTags((prevState) => [capitalize(tagInput).trim(), ...prevState]);
-    setTagInput("");
+    setTagInput('');
   };
 
   const handleMovieRemove = (index: number) => {
@@ -213,19 +213,19 @@ const WatchListEdit: NextPage = () => {
       buttons: [
         {
           onClick: () => dispatch(setOpenModal(false)),
-          title: "Cancel",
-          variant: "secondary",
+          title: 'Cancel',
+          variant: 'secondary',
         },
         {
           onClick: () => handleDelete(),
-          title: "Delete",
-          variant: "danger",
+          title: 'Delete',
+          variant: 'danger',
         },
       ],
       closeFunc: () => dispatch(setOpenModal(false)),
-      description: "This action can not be undone",
+      description: 'This action can not be undone',
       outsideClick: true,
-      title: "Please confirm you want to delete this list",
+      title: 'Please confirm you want to delete this list',
     };
 
     dispatch(setModalContent(content));
@@ -240,7 +240,7 @@ const WatchListEdit: NextPage = () => {
           <Input
             error={errors.title}
             placeholder="Give your list a creative name 🖌️"
-            {...register("title")}
+            {...register('title')}
             label="Name of List"
           />
           <Input
@@ -249,7 +249,7 @@ const WatchListEdit: NextPage = () => {
             value={tagInput}
             onChange={(e) => setTagInput(e.currentTarget.value)}
             onKeyDown={(e) => {
-              if (e.key === "Enter") {
+              if (e.key === 'Enter') {
                 handleTags(e);
               }
             }}
@@ -258,14 +258,14 @@ const WatchListEdit: NextPage = () => {
           <Input
             error={errors.description}
             placeholder="Give your list a fancy description 🕺"
-            {...register("description")}
+            {...register('description')}
             label="Description"
             variant="textarea"
           />
           <div>
             <p className="font-semibold pb-1 text-md">Public List</p>
             <input
-              {...register("public")}
+              {...register('public')}
               className="p-2 h-5 w-5 rounded bg-black focus:ring-0"
               type="checkbox"
             />

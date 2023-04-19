@@ -1,19 +1,19 @@
-import Image from "next/image";
-import Link from "next/link";
-import React, { FunctionComponent, useEffect, useMemo, useState } from "react";
+import Image from 'next/image';
+import Link from 'next/link';
+import React, { FunctionComponent, useEffect, useMemo, useState } from 'react';
 
-import MetaTags from "@/components/common/MetaTag";
-import usePrevious from "@/hooks/usePrevious";
-import { DiscoverMovieResult } from "@/models/tmdb";
+import MetaTags from '@/components/common/MetaTag';
+import usePrevious from '@/hooks/usePrevious';
+import { DiscoverMovieResult } from '@/models/tmdb';
 import {
   getDiscoverMovie,
   getRunningOperationPromises,
   useGetDiscoverMovieQuery,
-} from "@/redux/api";
-import { wrapper } from "@/redux/store";
-import { debounce } from "@/utils/common";
-import imageUrl from "@/utils/imageUrl";
-import { createMediaUrl } from "@/utils/mediaID";
+} from '@/redux/api';
+import { wrapper } from '@/redux/store';
+import { debounce } from '@/utils/common';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 const Movies: FunctionComponent = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
@@ -50,9 +50,9 @@ const Movies: FunctionComponent = () => {
   const debouncedScroll = useMemo(() => debounce(onScroll, 500), []);
 
   useEffect(() => {
-    window.addEventListener("scroll", debouncedScroll);
+    window.addEventListener('scroll', debouncedScroll);
 
-    return () => window.removeEventListener("scroll", debouncedScroll);
+    return () => window.removeEventListener('scroll', debouncedScroll);
   }, []);
 
   if (!combined) return null;
@@ -78,7 +78,7 @@ const Movies: FunctionComponent = () => {
                 className="rounded"
                 layout="fill"
                 objectFit="cover"
-                src={imageUrl(value.poster_path || "", 300)}
+                src={imageUrl(value.poster_path || '', 300)}
               />
             </a>
           </Link>

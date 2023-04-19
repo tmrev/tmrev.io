@@ -1,16 +1,16 @@
-import { NextPage } from "next";
-import React from "react";
+import { NextPage } from 'next';
+import React from 'react';
 
-import MetaTags from "@/components/common/MetaTag";
-import HeaderText from "@/components/common/typography/headerText";
-import QuickProfile from "@/components/page-components/user/quickProfile";
-import MoviePanel from "@/components/user/moviePanel";
-import WatchListPanel from "@/components/user/watchListPanel";
-import { useAppSelector } from "@/hooks";
-import useProfile from "@/hooks/userProfile";
-import { getRunningOperationPromises, getUser } from "@/redux/api";
-import { wrapper } from "@/redux/store";
-import { extractNameFromEmail, renderImageSrc } from "@/utils/common";
+import MetaTags from '@/components/common/MetaTag';
+import HeaderText from '@/components/common/typography/headerText';
+import QuickProfile from '@/components/page-components/user/quickProfile';
+import MoviePanel from '@/components/user/moviePanel';
+import WatchListPanel from '@/components/user/watchListPanel';
+import { useAppSelector } from '@/hooks';
+import useProfile from '@/hooks/userProfile';
+import { getRunningOperationPromises, getUser } from '@/redux/api';
+import { wrapper } from '@/redux/store';
+import { extractNameFromEmail, renderImageSrc } from '@/utils/common';
 
 const UserProfile: NextPage = () => {
   const { data, userId } = useProfile();
@@ -64,7 +64,7 @@ const UserProfile: NextPage = () => {
 export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async (context) => {
     const id = context.params?.id;
-    if (typeof id === "string") {
+    if (typeof id === 'string') {
       store.dispatch(getUser.initiate({ uid: id }));
     }
 

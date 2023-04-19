@@ -1,22 +1,22 @@
-import clsx from "clsx";
-import { GetServerSideProps, NextPage } from "next";
-import Image from "next/image";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import nookies from "nookies";
-import React, { useEffect, useMemo } from "react";
-import { useDispatch } from "react-redux";
+import clsx from 'clsx';
+import { GetServerSideProps, NextPage } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import nookies from 'nookies';
+import React, { useEffect, useMemo } from 'react';
+import { useDispatch } from 'react-redux';
 
-import Button from "@/components/common/Button";
-import HeaderText from "@/components/common/typography/headerText";
-import { Movie } from "@/models/tmdb";
-import { WatchList } from "@/models/tmrev";
-import { useAuth } from "@/provider/authUserContext";
-import { apiKey, tmdbAPI, tmrevAPI } from "@/redux/api";
-import { setMovies, setWatchList } from "@/redux/slice/watchListSlice";
-import formatDate from "@/utils/formatDate";
-import imageUrl from "@/utils/imageUrl";
-import { createMediaUrl } from "@/utils/mediaID";
+import Button from '@/components/common/Button';
+import HeaderText from '@/components/common/typography/headerText';
+import { Movie } from '@/models/tmdb';
+import { WatchList } from '@/models/tmrev';
+import { useAuth } from '@/provider/authUserContext';
+import { apiKey, tmdbAPI, tmrevAPI } from '@/redux/api';
+import { setMovies, setWatchList } from '@/redux/slice/watchListSlice';
+import formatDate from '@/utils/formatDate';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 const fetchWatchList = async (
   id: string,
@@ -108,7 +108,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
                 </div>
                 <div
                   className={clsx(
-                    "bg-white relative aspect-[2/3] h-[120px] rounded"
+                    'bg-white relative aspect-[2/3] h-[120px] rounded'
                   )}
                 >
                   <Image
@@ -117,7 +117,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
                     className="rounded"
                     layout="fill"
                     objectFit="cover"
-                    src={imageUrl(poster_path || "", 500)}
+                    src={imageUrl(poster_path || '', 500)}
                   />
                 </div>
                 <div>
@@ -144,7 +144,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   const cookies = nookies.get(context);
 
   try {
-    if (watchListId && typeof watchListId === "string") {
+    if (watchListId && typeof watchListId === 'string') {
       const watchList = await fetchWatchList(watchListId, cookies.token);
       const moviePromises = watchList.movies.map((movieId) =>
         fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) =>

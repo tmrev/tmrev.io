@@ -1,17 +1,17 @@
-import { NextPage } from "next";
-import React, { useMemo } from "react";
+import { NextPage } from 'next';
+import React, { useMemo } from 'react';
 
-import Spinner from "@/components/common/spinner";
-import QuickProfile from "@/components/page-components/user/quickProfile";
-import UserReviews from "@/components/page-components/user/reviews/userReviews";
-import { useAppSelector } from "@/hooks";
-import useProfile from "@/hooks/userProfile";
+import Spinner from '@/components/common/spinner';
+import QuickProfile from '@/components/page-components/user/quickProfile';
+import UserReviews from '@/components/page-components/user/reviews/userReviews';
+import { useAppSelector } from '@/hooks';
+import useProfile from '@/hooks/userProfile';
 import {
   getRunningOperationPromises,
   getUser,
   useBatchMoviesQuery,
-} from "@/redux/api";
-import { wrapper } from "@/redux/store";
+} from '@/redux/api';
+import { wrapper } from '@/redux/store';
 
 interface Props {}
 
@@ -55,7 +55,7 @@ const Reviews: NextPage<Props> = () => {
 export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async (context) => {
     const id = context.params?.id;
-    if (typeof id === "string") {
+    if (typeof id === 'string') {
       store.dispatch(getUser.initiate({ uid: id }));
     }
 

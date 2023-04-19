@@ -1,14 +1,14 @@
-import clsx from "clsx";
-import Image from "next/image";
-import Link from "next/link";
-import React, { FunctionComponent } from "react";
+import clsx from 'clsx';
+import Image from 'next/image';
+import Link from 'next/link';
+import React, { FunctionComponent } from 'react';
 
-import Spinner from "@/components/common/spinner";
-import QuickProfile from "@/components/page-components/user/quickProfile";
-import useProfile from "@/hooks/userProfile";
-import { useGetWatchedQuery } from "@/redux/api";
-import imageUrl from "@/utils/imageUrl";
-import { createMediaUrl } from "@/utils/mediaID";
+import Spinner from '@/components/common/spinner';
+import QuickProfile from '@/components/page-components/user/quickProfile';
+import useProfile from '@/hooks/userProfile';
+import { useGetWatchedQuery } from '@/redux/api';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 const Watched: FunctionComponent = () => {
   const { userId } = useProfile();
@@ -32,15 +32,15 @@ const Watched: FunctionComponent = () => {
               <a className="flex justify-center items-center">
                 <div
                   className={clsx(
-                    "bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded",
-                    "lg:w-[300px] lg:h-[500px]"
+                    'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                    'lg:w-[300px] lg:h-[500px]'
                   )}
                 >
                   <Image
                     className="rounded"
                     layout="fill"
                     objectFit="cover"
-                    src={imageUrl(value.posterPath || "", 500)}
+                    src={imageUrl(value.posterPath || '', 500)}
                   />
                 </div>
               </a>

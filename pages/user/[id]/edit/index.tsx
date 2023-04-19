@@ -1,19 +1,19 @@
-import { yupResolver } from "@hookform/resolvers/yup";
-import axios from "axios";
-import { GetServerSideProps, NextPage } from "next";
-import { useRouter } from "next/router";
-import nookies from "nookies";
-import React, { useMemo, useState } from "react";
-import { useForm } from "react-hook-form";
-import * as yup from "yup";
+import { yupResolver } from '@hookform/resolvers/yup';
+import axios from 'axios';
+import { GetServerSideProps, NextPage } from 'next';
+import { useRouter } from 'next/router';
+import nookies from 'nookies';
+import React, { useMemo, useState } from 'react';
+import { useForm } from 'react-hook-form';
+import * as yup from 'yup';
 
-import Button from "@/components/common/Button";
-import Input from "@/components/common/Input";
-import HeaderText from "@/components/common/typography/headerText";
-import { firebaseAdmin } from "@/config/firebaseAdmin";
-import { User } from "@/models/tmrev";
-import { useAuth } from "@/provider/authUserContext";
-import { tmrevAPI } from "@/redux/api";
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import HeaderText from '@/components/common/typography/headerText';
+import { firebaseAdmin } from '@/config/firebaseAdmin';
+import { User } from '@/models/tmrev';
+import { useAuth } from '@/provider/authUserContext';
+import { tmrevAPI } from '@/redux/api';
 
 interface DefaultValues {
   bio: string;
@@ -32,17 +32,17 @@ interface Props extends User {
 }
 
 const schema = yup.object().shape({
-  bio: yup.string().max(250, "The max number of characters is 250."),
-  firstName: yup.string().required("First name is required"),
-  lastName: yup.string().required("Last name is required"),
+  bio: yup.string().max(250, 'The max number of characters is 250.'),
+  firstName: yup.string().required('First name is required'),
+  lastName: yup.string().required('Last name is required'),
   link: yup
     .object()
     .shape({
-      title: yup.string().required("A link title is required"),
+      title: yup.string().required('A link title is required'),
       url: yup
         .string()
-        .url("A link must have a valid url")
-        .required("Url is required"),
+        .url('A link must have a valid url')
+        .required('Url is required'),
     })
     .nullable(true),
   location: yup.string(),
@@ -109,7 +109,7 @@ const UserEdit: NextPage<Props> = ({
             <Input
               className="px-3 py-1 border rounded"
               label="First Name"
-              {...register("firstName")}
+              {...register('firstName')}
               defaultValue={defaultValues.firstName}
               error={errors.firstName}
               placeholder="First Name"
@@ -118,7 +118,7 @@ const UserEdit: NextPage<Props> = ({
             <Input
               className="px-3 py-1 border rounded"
               label="Last Name"
-              {...register("lastName")}
+              {...register('lastName')}
               error={errors.firstName}
               placeholder="Last Name"
               type="name"
@@ -127,7 +127,7 @@ const UserEdit: NextPage<Props> = ({
           <Input
             className="px-3 py-1 border rounded"
             label="Location"
-            {...register("location")}
+            {...register('location')}
             error={errors.location}
             placeholder="Location"
             type="text"
@@ -135,7 +135,7 @@ const UserEdit: NextPage<Props> = ({
           <Input
             className="px-3 py-1 border rounded"
             label="Bio"
-            {...register("bio")}
+            {...register('bio')}
             error={errors.bio}
             placeholder="Bio"
             type="text"
@@ -149,7 +149,7 @@ const UserEdit: NextPage<Props> = ({
                   title="remove link"
                   variant="icon"
                   onClick={() => {
-                    setValue("link", null);
+                    setValue('link', null);
                     setHasLink(false);
                   }}
                 >
@@ -160,7 +160,7 @@ const UserEdit: NextPage<Props> = ({
                 <Input
                   className="px-3 py-1 border rounded"
                   label="Title"
-                  {...register("link.title")}
+                  {...register('link.title')}
                   error={(errors as any).link?.title}
                   placeholder="Title"
                   type="text"
@@ -168,7 +168,7 @@ const UserEdit: NextPage<Props> = ({
                 <Input
                   className="px-3 py-1 border rounded"
                   label="Url"
-                  {...register("link.url")}
+                  {...register('link.url')}
                   error={(errors as any).link?.url}
                   placeholder="https://..."
                   type="text"
@@ -182,7 +182,7 @@ const UserEdit: NextPage<Props> = ({
               type="submit"
               variant="secondary"
               onClick={() => {
-                setValue("link", null);
+                setValue('link', null);
                 setHasLink(true);
               }}
             >
@@ -205,12 +205,12 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     const { id } = context.query;
     const cookies = nookies.get(context);
 
-    if (!id || typeof id !== "string") throw new Error("no id");
-    if (!cookies.token) throw new Error("no token");
+    if (!id || typeof id !== 'string') throw new Error('no id');
+    if (!cookies.token) throw new Error('no token');
 
     const user = await firebaseAdmin.auth().verifyIdToken(cookies.token);
 
-    if (user.uid !== id) throw new Error("user can not access this page");
+    if (user.uid !== id) throw new Error('user can not access this page');
 
     const userRes = await fetch(`${tmrevAPI}/user/full/${id}`);
 
@@ -225,7 +225,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   } catch (error) {
     return {
       redirect: {
-        destination: "/",
+        destination: '/',
         permanent: false,
       },
     };

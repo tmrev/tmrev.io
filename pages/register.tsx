@@ -1,7 +1,7 @@
-import { NextPage } from "next";
-import React from "react";
+import { NextPage } from 'next';
+import React from 'react';
 
-import RegisterPanel from "@/components/register";
+import RegisterPanel from '@/components/register';
 
 const Register: NextPage = () => (
   <div className="h-screen w-screen flex justify-center items-center bg-white text-black dark:text-white dark:bg-black p-4">

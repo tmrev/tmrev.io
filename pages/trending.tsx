@@ -1,8 +1,8 @@
-import type { NextPage } from "next";
-import React from "react";
+import type { NextPage } from 'next';
+import React from 'react';
 
-import Screen from "@/components/landing-page/screen";
-import { useGetDiscoverMovieQuery } from "@/redux/api";
+import Screen from '@/components/landing-page/screen';
+import { useGetDiscoverMovieQuery } from '@/redux/api';
 
 const Trending: NextPage = () => {
   const { data: movieData } = useGetDiscoverMovieQuery({ page: 1 });

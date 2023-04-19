@@ -1,17 +1,17 @@
-import { NextPage } from "next";
-import Head from "next/head";
-import Image from "next/image";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useEffect } from "react";
+import { NextPage } from 'next';
+import Head from 'next/head';
+import Image from 'next/image';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import React, { useEffect } from 'react';
 
-import HeaderText from "@/components/common/typography/headerText";
+import HeaderText from '@/components/common/typography/headerText';
 
 const Import: NextPage = () => {
   const router = useRouter();
 
   useEffect(() => {
-    router.prefetch("/import/imdb");
+    router.prefetch('/import/imdb');
   }, []);
 
   return (

@@ -1,21 +1,21 @@
-import { NextPage } from "next";
-import Image from "next/image";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useEffect, useMemo } from "react";
+import { NextPage } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import React, { useEffect, useMemo } from 'react';
 
-import MetaTags from "@/components/common/MetaTag";
-import HeaderText from "@/components/common/typography/headerText";
-import InformationCard from "@/components/page-components/home/informationCard";
+import MetaTags from '@/components/common/MetaTag';
+import HeaderText from '@/components/common/typography/headerText';
+import InformationCard from '@/components/page-components/home/informationCard';
 import {
   useBatchMoviesQuery,
   useGetDiscoverMovieQuery,
   useGetJustReviewedQuery,
   useGetTopReviewedQuery,
-} from "@/redux/api";
-import { numberShortHand } from "@/utils/common";
-import imageUrl from "@/utils/imageUrl";
-import { createMediaUrl } from "@/utils/mediaID";
+} from '@/redux/api';
+import { numberShortHand } from '@/utils/common';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 const Home: NextPage = () => {
   const router = useRouter();
@@ -57,7 +57,7 @@ const Home: NextPage = () => {
   });
 
   useEffect(() => {
-    router.prefetch("/register");
+    router.prefetch('/register');
 
     if (topReviewed && topReviewed.body) {
       Object.values(topReviewed.body).forEach((v) => {
@@ -85,7 +85,7 @@ const Home: NextPage = () => {
           className="rounded z-10 opacity-30"
           layout="fill"
           objectFit="cover"
-          src={imageUrl(data?.results[0].backdrop_path || "")}
+          src={imageUrl(data?.results[0].backdrop_path || '')}
         />
         <div className=" absolute text-white z-20 w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
           <h1 className="font-bold text-3xl lg:text-6xl text-center">
@@ -124,7 +124,7 @@ const Home: NextPage = () => {
                       layout="fill"
                       objectFit="cover"
                       src={imageUrl(
-                        topReviewed.body[movie].poster_path || "",
+                        topReviewed.body[movie].poster_path || '',
                         300
                       )}
                     />
@@ -158,7 +158,7 @@ const Home: NextPage = () => {
                       layout="fill"
                       objectFit="cover"
                       src={imageUrl(
-                        justReviewedImages.body[movie.tmdbID].poster_path || "",
+                        justReviewedImages.body[movie.tmdbID].poster_path || '',
                         300
                       )}
                     />

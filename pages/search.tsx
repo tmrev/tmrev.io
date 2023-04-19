@@ -1,28 +1,28 @@
-import clsx from "clsx";
-import { NextPage } from "next";
-import Image from "next/image";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useCallback, useState } from "react";
+import clsx from 'clsx';
+import { NextPage } from 'next';
+import Image from 'next/image';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import React, { useCallback, useState } from 'react';
 
-import Input from "@/components/common/Input";
-import MetaTags from "@/components/common/MetaTag";
+import Input from '@/components/common/Input';
+import MetaTags from '@/components/common/MetaTag';
 import {
   getRunningOperationPromises,
   search,
   useSearchQuery,
-} from "@/redux/api";
-import { wrapper } from "@/redux/store";
-import { debounce, extractNameFromEmail } from "@/utils/common";
-import imageUrl from "@/utils/imageUrl";
-import { createMediaUrl } from "@/utils/mediaID";
+} from '@/redux/api';
+import { wrapper } from '@/redux/store';
+import { debounce, extractNameFromEmail } from '@/utils/common';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 interface Props {
   q?: string;
 }
 
 const Search: NextPage<Props> = ({ q }: Props) => {
-  const [query, setQuery] = useState<string>(q || "");
+  const [query, setQuery] = useState<string>(q || '');
   const router = useRouter();
 
   const { data } = useSearchQuery(query, { skip: !query });
@@ -31,7 +31,7 @@ const Search: NextPage<Props> = ({ q }: Props) => {
     setQuery(e.target.value);
 
     if (!e.target.value) {
-      router.pathname = "/search";
+      router.pathname = '/search';
       router.replace(router, undefined, { shallow: true });
     } else {
       router.query.q = e.target.value;
@@ -60,9 +60,9 @@ const Search: NextPage<Props> = ({ q }: Props) => {
           <Link key={value._id} passHref href={`/user/${value.uuid}/preview`}>
             <a
               className={clsx(
-                "flex flex-col items-center justify-center text-center space-y-4",
-                "m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white",
-                "hover:bg-tmrev-gray-dark p-1"
+                'flex flex-col items-center justify-center text-center space-y-4',
+                'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
+                'hover:bg-tmrev-gray-dark p-1'
               )}
             >
               <div className="relative h-1/2 w-full">
@@ -76,7 +76,7 @@ const Search: NextPage<Props> = ({ q }: Props) => {
                   }
                 />
               </div>
-              <h1 className=" space-x-2">
+              <h1 className="space-x-2">
                 <span className="font-semibold">User</span>
                 <span>|</span>
                 <span className="break-all">{renderName(value)}</span>
@@ -103,9 +103,9 @@ const Search: NextPage<Props> = ({ q }: Props) => {
           >
             <a
               className={clsx(
-                "flex flex-col items-center justify-center text-center space-y-4",
-                "m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white",
-                "hover:bg-tmrev-gray-dark p-1"
+                'flex flex-col items-center justify-center text-center space-y-4',
+                'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
+                'hover:bg-tmrev-gray-dark p-1'
               )}
             >
               <div className="relative h-1/2 w-full">
@@ -150,7 +150,7 @@ const Search: NextPage<Props> = ({ q }: Props) => {
                   className="rounded"
                   layout="fill"
                   objectFit="cover"
-                  src={imageUrl(value.poster_path || "", 300)}
+                  src={imageUrl(value.poster_path || '', 300)}
                 />
               </a>
             </Link>
@@ -186,14 +186,14 @@ const Search: NextPage<Props> = ({ q }: Props) => {
 export default Search;
 
 Search.defaultProps = {
-  q: "",
+  q: '',
 };
 
 export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async (context) => {
     const q = context.query?.q;
 
-    if (typeof q === "string") {
+    if (typeof q === 'string') {
       store.dispatch(search.initiate(q));
     }
 
@@ -201,7 +201,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
 
     return {
       props: {
-        q: q || "",
+        q: q || '',
       },
     };
   }

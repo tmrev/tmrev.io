@@ -1,11 +1,11 @@
-import Image from "next/image";
-import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { FunctionComponent, useEffect } from "react";
+import Image from 'next/image';
+import Link from 'next/link';
+import { useRouter } from 'next/router';
+import React, { FunctionComponent, useEffect } from 'react';
 
-import HeaderText from "@/components/common/typography/headerText";
-import WelcomeExplainer from "@/components/page-components/home/welcome/explainer";
-import imageUrl from "@/utils/imageUrl";
+import HeaderText from '@/components/common/typography/headerText';
+import WelcomeExplainer from '@/components/page-components/home/welcome/explainer';
+import imageUrl from '@/utils/imageUrl';
 
 interface Props {}
 
@@ -13,8 +13,8 @@ const Welcome: FunctionComponent<Props> = () => {
   const router = useRouter();
 
   useEffect(() => {
-    router.prefetch("/login");
-    router.prefetch("/register");
+    router.prefetch('/login');
+    router.prefetch('/register');
   }, []);
 
   return (
@@ -25,7 +25,7 @@ const Welcome: FunctionComponent<Props> = () => {
             alt="spiderman"
             layout="fill"
             objectFit="cover"
-            src={imageUrl("/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg")}
+            src={imageUrl('/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg')}
           />
         </div>
         <div className="absolute bottom-10 left-0 right-0 text-center m-auto">

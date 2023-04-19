@@ -1,23 +1,23 @@
-import { yupResolver } from "@hookform/resolvers/yup";
-import { Reorder } from "framer-motion";
-import { GetServerSideProps, NextPage } from "next";
-import { useRouter } from "next/router";
-import nookies from "nookies";
-import React, { useEffect, useState } from "react";
-import { useForm } from "react-hook-form";
-import * as yup from "yup";
+import { yupResolver } from '@hookform/resolvers/yup';
+import { Reorder } from 'framer-motion';
+import { GetServerSideProps, NextPage } from 'next';
+import { useRouter } from 'next/router';
+import nookies from 'nookies';
+import React, { useEffect, useState } from 'react';
+import { useForm } from 'react-hook-form';
+import * as yup from 'yup';
 
-import Button from "@/components/common/Button";
-import Input from "@/components/common/Input";
-import SearchableInput from "@/components/common/inputs/searchable";
-import MovieItem from "@/components/common/movie/MovieItem";
-import TagList from "@/components/common/movie/tags/TagList";
-import HeaderText from "@/components/common/typography/headerText";
-import { firebaseAdmin } from "@/config/firebaseAdmin";
-import { Movie } from "@/models/tmdb";
-import { useAuth } from "@/provider/authUserContext";
-import { apiKey, tmdbAPI, useCreateWatchListMutation } from "@/redux/api";
-import { capitalize, uniqueArray } from "@/utils/common";
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import SearchableInput from '@/components/common/inputs/searchable';
+import MovieItem from '@/components/common/movie/MovieItem';
+import TagList from '@/components/common/movie/tags/TagList';
+import HeaderText from '@/components/common/typography/headerText';
+import { firebaseAdmin } from '@/config/firebaseAdmin';
+import { Movie } from '@/models/tmdb';
+import { useAuth } from '@/provider/authUserContext';
+import { apiKey, tmdbAPI, useCreateWatchListMutation } from '@/redux/api';
+import { capitalize, uniqueArray } from '@/utils/common';
 
 export type ReactSelect = {
   label: string;
@@ -48,19 +48,19 @@ const schema = yup.object().shape({
   description: yup.string().optional(),
   movies: yup
     .array()
-    .min(1, "You must have at least one movie")
-    .required("You must select a movie to create a list"),
+    .min(1, 'You must have at least one movie')
+    .required('You must select a movie to create a list'),
   public: yup.boolean(),
   tags: yup.array().optional(),
-  title: yup.string().required("Name of List is required"),
+  title: yup.string().required('Name of List is required'),
 });
 
 const defaultValues = {
-  description: "",
+  description: '',
   movies: [] as number[],
   public: true,
   tags: [] as string[],
-  title: "New List",
+  title: 'New List',
 };
 
 const CreateList: NextPage = () => {
@@ -76,7 +76,7 @@ const CreateList: NextPage = () => {
     defaultValues,
     resolver: yupResolver(schema),
   });
-  const [tagInput, setTagInput] = useState<string>("");
+  const [tagInput, setTagInput] = useState<string>('');
   const [tags, setTags] = useState<string[]>([]);
   const [movies, setMovies] = useState<ReactSelect[]>([]);
 
@@ -104,11 +104,11 @@ const CreateList: NextPage = () => {
       formattedArray.push(v.value);
     });
 
-    setValue("movies", formattedArray);
+    setValue('movies', formattedArray);
   }, [movies]);
 
   useEffect(() => {
-    setValue("tags", tags);
+    setValue('tags', tags);
   }, [tags]);
 
   const handleTags = (e: React.KeyboardEvent<HTMLInputElement>) => {
@@ -116,11 +116,11 @@ const CreateList: NextPage = () => {
     if (!tagInput) return;
 
     setTags((prevState) => [...prevState, capitalize(tagInput).trim()]);
-    setTagInput("");
+    setTagInput('');
   };
 
   useEffect(() => {
-    if (typeof router.query.with === "string") {
+    if (typeof router.query.with === 'string') {
       fetchMovieDetails(router.query.with, setMovies);
     }
   }, [router.query]);
@@ -134,11 +134,11 @@ const CreateList: NextPage = () => {
   return (
     <div className="flex h-full w-full justify-center items-center px-2 md:px-4 text-white">
       <div className="p-4 w-full lg:w-1/2 divide-y space-y-4 bg-tmrev-gray-dark h-max rounded mt-16">
-        <HeaderText>{getValues("title")}</HeaderText>
+        <HeaderText>{getValues('title')}</HeaderText>
         <form className="py-4 space-y-4" onSubmit={handleSubmit(onSubmit)}>
           <Input
             error={errors.title}
-            {...register("title")}
+            {...register('title')}
             label="Name of List"
           />
           <Input
@@ -146,7 +146,7 @@ const CreateList: NextPage = () => {
             value={tagInput}
             onChange={(e) => setTagInput(e.currentTarget.value)}
             onKeyDown={(e) => {
-              if (e.key === "Enter") {
+              if (e.key === 'Enter') {
                 handleTags(e);
               }
             }}
@@ -154,14 +154,14 @@ const CreateList: NextPage = () => {
           <TagList setTags={setTags} tags={tags} />
           <Input
             error={errors.description}
-            {...register("description")}
+            {...register('description')}
             label="Description"
             variant="textarea"
           />
           <div>
             <p className="font-semibold pb-1 text-md">Public List</p>
             <input
-              {...register("public")}
+              {...register('public')}
               className="p-2 h-5 w-5 rounded bg-black focus:ring-0"
               type="checkbox"
             />
@@ -185,7 +185,7 @@ const CreateList: NextPage = () => {
               values={movies}
               onReorder={setMovies}
             >
-              {uniqueArray(movies, "value").map((v, i) => (
+              {uniqueArray(movies, 'value').map((v, i) => (
                 <Reorder.Item key={v.value} value={v}>
                   <MovieItem
                     handleMovieRemove={handleMovieRemove}
@@ -214,7 +214,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
     return {
       props: {},
       redirect: {
-        destination: "/login",
+        destination: '/login',
         permanent: false,
       },
     };
