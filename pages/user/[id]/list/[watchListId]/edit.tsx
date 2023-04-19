@@ -9,29 +9,38 @@ import React, {
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
 
-import Button from '../../../../../components/common/Button';
-import Input from '../../../../../components/common/Input';
-import SearchableInput from '../../../../../components/common/inputs/searchable';
-import MovieItem from '../../../../../components/common/movie/MovieItem';
-import TagList from '../../../../../components/common/movie/tags/TagList';
-import HeaderText from '../../../../../components/common/typography/headerText';
-import { useAppDispatch } from '../../../../../hooks';
-import { Movie } from '../../../../../models/tmdb';
-import { UpdateWatchList } from '../../../../../models/tmrev';
-import { GetListPayload } from '../../../../../models/tmrev/watchList';
-import { useAuth } from '../../../../../provider/authUserContext';
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import SearchableInput from '@/components/common/inputs/searchable';
+import MovieItem from '@/components/common/movie/MovieItem';
+import TagList from '@/components/common/movie/tags/TagList';
+import HeaderText from '@/components/common/typography/headerText';
+import { useAppDispatch } from '@/hooks';
+import { Movie } from '@/models/tmdb';
+import { UpdateWatchList } from '@/models/tmrev';
+import { GetListPayload } from '@/models/tmrev/watchList';
+import { useAuth } from '@/provider/authUserContext';
 import {
-  useDeleteWatchListMutation, useGetListQuery, useUpdateWatchListMutation,
-} from '../../../../../redux/api';
+  useDeleteWatchListMutation,
+  useGetListQuery,
+  useUpdateWatchListMutation,
+} from '@/redux/api';
 import {
-  Content, setClearModal, setModalContent, setOpenModal,
-} from '../../../../../redux/slice/modalSlice';
-import { capitalize } from '../../../../../utils/common';
+  Content,
+  setClearModal,
+  setModalContent,
+  setOpenModal,
+} from '@/redux/slice/modalSlice';
+import { capitalize } from '@/utils/common';
+
 import { ReactSelect } from '../create';
 
 const schema = yup.object().shape({
   description: yup.string().optional(),
-  movies: yup.array().min(1, 'You must have at least one movie').required('You must select a movie to create a list'),
+  movies: yup
+    .array()
+    .min(1, 'You must have at least one movie')
+    .required('You must select a movie to create a list'),
   public: yup.boolean(),
   tags: yup.array().optional(),
   title: yup.string().required('Name of List is required'),
@@ -58,7 +67,10 @@ const WatchListEdit: NextPage = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
   const dispatch = useAppDispatch();
   const {
-    register, handleSubmit, formState: { errors }, setValue,
+    register,
+    handleSubmit,
+    formState: { errors },
+    setValue,
   } = useForm({
     defaultValues,
     resolver: yupResolver(schema),
@@ -92,7 +104,9 @@ const WatchListEdit: NextPage = () => {
 
     const newArray = [...data.movieData];
 
-    newArray.sort((a, b) => data.movies.indexOf(a.id) - data.movies.indexOf(b.id));
+    newArray.sort(
+      (a, b) => data.movies.indexOf(a.id) - data.movies.indexOf(b.id),
+    );
 
     setMovies(newArray);
   }, [data]);
@@ -151,9 +165,11 @@ const WatchListEdit: NextPage = () => {
         watchListId: data._id,
       };
 
-      updateList(updatePayload).unwrap().then(() => {
-        router.push(`/user/${user.uid}/list/${data._id}`);
-      });
+      updateList(updatePayload)
+        .unwrap()
+        .then(() => {
+          router.push(`/user/${user.uid}/list/${data._id}`);
+        });
     } catch (error) {
       // eslint-disable-next-line no-console
       console.error(error);
@@ -184,16 +200,18 @@ const WatchListEdit: NextPage = () => {
     deleteList({
       authToken: token,
       id: data._id,
-    }).unwrap().then(() => {
-      dispatch(setOpenModal(false));
-      dispatch(setClearModal());
+    })
+      .unwrap()
+      .then(() => {
+        dispatch(setOpenModal(false));
+        dispatch(setClearModal());
 
-      router.push(`/user/${user.uid}/list`);
-    });
+        router.push(`/user/${user.uid}/list`);
+      });
   };
 
   const handleConfirmDelete = () => {
-    const content:Content = {
+    const content: Content = {
       buttons: [
         {
           onClick: () => dispatch(setOpenModal(false)),
@@ -256,15 +274,25 @@ const WatchListEdit: NextPage = () => {
           </div>
           <div className="w-full relative">
             <p className="font-semibold pb-1 text-md">Add Movie To List</p>
-            <SearchableInput
-              setData={setSearchedMovies}
-            />
+            <SearchableInput setData={setSearchedMovies} />
           </div>
           <div className="flex space-x-2">
-            <Button className="w-full" variant="danger" onClick={() => handleConfirmDelete()}>Delete List</Button>
-            <Button className="w-full" type="submit" variant="primary">Save List</Button>
+            <Button
+              className="w-full"
+              variant="danger"
+              onClick={() => handleConfirmDelete()}
+            >
+              Delete List
+            </Button>
+            <Button className="w-full" type="submit" variant="primary">
+              Save List
+            </Button>
           </div>
-          <Reorder.Group className="space-y-4" values={movies} onReorder={setMovies}>
+          <Reorder.Group
+            className="space-y-4"
+            values={movies}
+            onReorder={setMovies}
+          >
             {movies.map((movie, i) => (
               <Reorder.Item key={movie.id} value={movie}>
                 <MovieItem
@@ -278,7 +306,6 @@ const WatchListEdit: NextPage = () => {
         </form>
       </div>
     </div>
-
   );
 };
 

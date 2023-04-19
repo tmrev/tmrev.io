@@ -2,7 +2,7 @@
 import { User, UserCredential } from 'firebase/auth';
 import React, { createContext, useContext } from 'react';
 
-import useFirebaseAuth from '../hooks/userAuth';
+import useFirebaseAuth from '@/hooks/userAuth';
 
 interface AuthUserContext {
   user: User | null;

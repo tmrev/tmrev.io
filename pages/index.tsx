@@ -4,15 +4,18 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
 
-import MetaTags from '../components/common/MetaTag';
-import HeaderText from '../components/common/typography/headerText';
-import InformationCard from '../components/page-components/home/informationCard';
+import MetaTags from '@/components/common/MetaTag';
+import HeaderText from '@/components/common/typography/headerText';
+import InformationCard from '@/components/page-components/home/informationCard';
 import {
-  useBatchMoviesQuery, useGetDiscoverMovieQuery, useGetJustReviewedQuery, useGetTopReviewedQuery,
-} from '../redux/api';
-import { numberShortHand } from '../utils/common';
-import imageUrl from '../utils/imageUrl';
-import { createMediaUrl } from '../utils/mediaID';
+  useBatchMoviesQuery,
+  useGetDiscoverMovieQuery,
+  useGetJustReviewedQuery,
+  useGetTopReviewedQuery,
+} from '@/redux/api';
+import { numberShortHand } from '@/utils/common';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 const Home: NextPage = () => {
   const router = useRouter();
@@ -23,7 +26,12 @@ const Home: NextPage = () => {
   const { data: justReviewed } = useGetJustReviewedQuery();
 
   const batchedIds = useMemo(() => {
-    if (!topReviewedIds || !justReviewed || !topReviewedIds.body || !justReviewed.body) {
+    if (
+      !topReviewedIds
+      || !justReviewed
+      || !topReviewedIds.body
+      || !justReviewed.body
+    ) {
       return {
         just: [],
         top: [],
@@ -40,9 +48,13 @@ const Home: NextPage = () => {
   }, [topReviewedIds, justReviewed]);
 
   // eslint-disable-next-line max-len
-  const { data: topReviewed } = useBatchMoviesQuery(batchedIds.top, { skip: !batchedIds.top.length });
+  const { data: topReviewed } = useBatchMoviesQuery(batchedIds.top, {
+    skip: !batchedIds.top.length,
+  });
   // eslint-disable-next-line max-len
-  const { data: justReviewedImages } = useBatchMoviesQuery(batchedIds.just, { skip: !batchedIds.just.length });
+  const { data: justReviewedImages } = useBatchMoviesQuery(batchedIds.just, {
+    skip: !batchedIds.just.length,
+  });
 
   useEffect(() => {
     router.prefetch('/register');
@@ -76,7 +88,9 @@ const Home: NextPage = () => {
           src={imageUrl(data?.results[0].backdrop_path || '')}
         />
         <div className=" absolute text-white z-20 w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
-          <h1 className="font-bold text-3xl lg:text-6xl text-center">“ EVERYONE&apos;S A CRITIC ”</h1>
+          <h1 className="font-bold text-3xl lg:text-6xl text-center">
+            “ EVERYONE&apos;S A CRITIC ”
+          </h1>
           <p className="font-light">- TheMovieReview</p>
         </div>
       </div>
@@ -93,54 +107,64 @@ const Home: NextPage = () => {
             <HeaderText>Top reviewed</HeaderText>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 md:space-x-0 md:justify-between items-center overflow-hidden mt-8">
-            {topReviewed && Object.keys(topReviewed.body).map((movie) => (
-              <Link
-                key={topReviewed.body[movie].id}
-                passHref
-                href={`/movie/${createMediaUrl(topReviewed.body[movie].id, topReviewed.body[movie].title)}`}
-              >
-                <a
-                  className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]"
+            {topReviewed
+              && Object.keys(topReviewed.body).map((movie) => (
+                <Link
+                  key={topReviewed.body[movie].id}
+                  passHref
+                  href={`/movie/${createMediaUrl(
+                    topReviewed.body[movie].id,
+                    topReviewed.body[movie].title,
+                  )}`}
                 >
-                  <Image
-                    alt={topReviewed.body[movie].title}
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(topReviewed.body[movie].poster_path || '', 300)}
-                  />
-                </a>
-              </Link>
-            ))}
+                  <a className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]">
+                    <Image
+                      alt={topReviewed.body[movie].title}
+                      className="rounded"
+                      layout="fill"
+                      objectFit="cover"
+                      src={imageUrl(
+                        topReviewed.body[movie].poster_path || '',
+                        300,
+                      )}
+                    />
+                  </a>
+                </Link>
+              ))}
           </div>
         </div>
         <div className="flex flex-col w-full">
           <div className="flex items-center space-x-5">
             <HeaderText>Just reviewed</HeaderText>
             <p className="text-white font-light">
-              {`${numberShortHand(justReviewed ? justReviewed.body.count : 0)} Movies Reviewed`}
+              {`${numberShortHand(
+                justReviewed ? justReviewed.body.count : 0,
+              )} Movies Reviewed`}
             </p>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
-            {justReviewed && justReviewedImages && [...justReviewed.body.movies].map((movie) => (
-              <Link
-                key={movie._id}
-                passHref
-                href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
-              >
-                <a
-                  className="relative m-4 rounded aspect-moviePoster h-[111px]"
+            {justReviewed
+              && justReviewedImages
+              && [...justReviewed.body.movies].map((movie) => (
+                <Link
+                  key={movie._id}
+                  passHref
+                  href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
                 >
-                  <Image
-                    alt={movie.title}
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
-                    src={imageUrl(justReviewedImages.body[movie.tmdbID].poster_path || '', 300)}
-                  />
-                </a>
-              </Link>
-            ))}
+                  <a className="relative m-4 rounded aspect-moviePoster h-[111px]">
+                    <Image
+                      alt={movie.title}
+                      className="rounded"
+                      layout="fill"
+                      objectFit="cover"
+                      src={imageUrl(
+                        justReviewedImages.body[movie.tmdbID].poster_path || '',
+                        300,
+                      )}
+                    />
+                  </a>
+                </Link>
+              ))}
           </div>
         </div>
         <div>

@@ -7,59 +7,77 @@ import React, { useMemo, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
 
-import Button from '../../../../components/common/Button';
-import Input from '../../../../components/common/Input';
-import HeaderText from '../../../../components/common/typography/headerText';
-import { firebaseAdmin } from '../../../../config/firebaseAdmin';
-import { User } from '../../../../models/tmrev';
-import { useAuth } from '../../../../provider/authUserContext';
-import { tmrevAPI } from '../../../../redux/api';
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import HeaderText from '@/components/common/typography/headerText';
+import { firebaseAdmin } from '@/config/firebaseAdmin';
+import { User } from '@/models/tmrev';
+import { useAuth } from '@/provider/authUserContext';
+import { tmrevAPI } from '@/redux/api';
 
 interface DefaultValues {
-  bio: string
-  firstName: string
-  lastName: string
+  bio: string;
+  firstName: string;
+  lastName: string;
   link: {
-    title: string
-    url: string
-  } | null
-  location: string
-  public: boolean
+    title: string;
+    url: string;
+  } | null;
+  location: string;
+  public: boolean;
 }
 
 interface Props extends User {
-  id: string
+  id: string;
 }
 
 const schema = yup.object().shape({
   bio: yup.string().max(250, 'The max number of characters is 250.'),
   firstName: yup.string().required('First name is required'),
   lastName: yup.string().required('Last name is required'),
-  link: yup.object().shape({
-    title: yup.string().required('A link title is required'),
-    url: yup.string().url('A link must have a valid url').required('Url is required'),
-  }).nullable(true),
+  link: yup
+    .object()
+    .shape({
+      title: yup.string().required('A link title is required'),
+      url: yup
+        .string()
+        .url('A link must have a valid url')
+        .required('Url is required'),
+    })
+    .nullable(true),
   location: yup.string(),
   public: yup.boolean(),
 });
 
 const UserEdit: NextPage<Props> = ({
-  bio, firstName, lastName, link, location, public: publicAccount, id,
+  bio,
+  firstName,
+  lastName,
+  link,
+  location,
+  public: publicAccount,
+  id,
 }: Props) => {
   const [hasLink, setHasLink] = useState(!!link);
   const router = useRouter();
   const { user } = useAuth();
-  const defaultValues: DefaultValues = useMemo(() => ({
-    bio,
-    firstName,
-    lastName,
-    link,
-    location,
-    public: publicAccount,
-  }), []);
+  const defaultValues: DefaultValues = useMemo(
+    () => ({
+      bio,
+      firstName,
+      lastName,
+      link,
+      location,
+      public: publicAccount,
+    }),
+    [],
+  );
 
   const {
-    register, handleSubmit, setValue, formState: { errors },
+    register,
+    handleSubmit,
+    setValue,
+    formState: { errors },
   } = useForm({
     defaultValues,
     resolver: yupResolver(schema),
@@ -70,15 +88,11 @@ const UserEdit: NextPage<Props> = ({
 
     try {
       const token = await user.getIdToken();
-      await axios.put(
-        `${tmrevAPI}/user`,
-        data,
-        {
-          headers: {
-            authorization: token,
-          },
+      await axios.put(`${tmrevAPI}/user`, data, {
+        headers: {
+          authorization: token,
         },
-      );
+      });
       router.push(`/user/${id}/preview`);
     } catch (error) {
       // eslint-disable-next-line no-console
@@ -139,9 +153,7 @@ const UserEdit: NextPage<Props> = ({
                     setHasLink(false);
                   }}
                 >
-                  <span className="material-icons-outlined">
-                    cancel
-                  </span>
+                  <span className="material-icons-outlined">cancel</span>
                 </Button>
               </div>
               <div className=" pl-2 pt-2 space-y-2">
@@ -177,11 +189,12 @@ const UserEdit: NextPage<Props> = ({
               Add Link
             </Button>
           )}
-          <Button className="w-full !mt-12" type="submit" variant="primary">Save</Button>
+          <Button className="w-full !mt-12" type="submit" variant="primary">
+            Save
+          </Button>
         </form>
       </div>
     </div>
-
   );
 };
 
@@ -201,7 +214,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
 
     const userRes = await fetch(`${tmrevAPI}/user/full/${id}`);
 
-    const userData = await userRes.json() as User;
+    const userData = (await userRes.json()) as User;
 
     return {
       props: {

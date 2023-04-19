@@ -1,13 +1,17 @@
 import { NextPage } from 'next';
 import React, { useMemo } from 'react';
 
-import Spinner from '../../../../components/common/spinner';
-import QuickProfile from '../../../../components/page-components/user/quickProfile';
-import UserReviews from '../../../../components/page-components/user/reviews/userReviews';
-import { useAppSelector } from '../../../../hooks';
-import useProfile from '../../../../hooks/userProfile';
-import { getRunningOperationPromises, getUser, useBatchMoviesQuery } from '../../../../redux/api';
-import { wrapper } from '../../../../redux/store';
+import Spinner from '@/components/common/spinner';
+import QuickProfile from '@/components/page-components/user/quickProfile';
+import UserReviews from '@/components/page-components/user/reviews/userReviews';
+import { useAppSelector } from '@/hooks';
+import useProfile from '@/hooks/userProfile';
+import {
+  getRunningOperationPromises,
+  getUser,
+  useBatchMoviesQuery,
+} from '@/redux/api';
+import { wrapper } from '@/redux/store';
 
 interface Props {}
 
@@ -21,29 +25,29 @@ const Reviews: NextPage<Props> = () => {
     return reviews.map((review) => review.tmdbID);
   }, [reviews]);
 
-  const { data: movies } = useBatchMoviesQuery(movieIds, { skip: !movieIds.length });
+  const { data: movies } = useBatchMoviesQuery(movieIds, {
+    skip: !movieIds.length,
+  });
 
   return (
     <div className="my-16 px-0 lg:my-0 text-white w-full">
       <QuickProfile />
-      {
-        !data || !movies ? (
-          <div className=" flex w-full items-center justify-center">
-            <Spinner />
-          </div>
-        ) : (
-          <div className="divide-y p-4 md:p-2">
-            {reviews.map((review) => (
-              <UserReviews
-                key={review._id}
-                movie={movies?.body[review.tmdbID]}
-                profile={profile}
-                review={review}
-              />
-            ))}
-          </div>
-        )
-      }
+      {!data || !movies ? (
+        <div className=" flex w-full items-center justify-center">
+          <Spinner />
+        </div>
+      ) : (
+        <div className="divide-y p-4 md:p-2">
+          {reviews.map((review) => (
+            <UserReviews
+              key={review._id}
+              movie={movies?.body[review.tmdbID]}
+              profile={profile}
+              review={review}
+            />
+          ))}
+        </div>
+      )}
     </div>
   );
 };

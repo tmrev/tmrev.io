@@ -7,37 +7,37 @@ import nookies from 'nookies';
 import React, { useEffect, useMemo } from 'react';
 import { useDispatch } from 'react-redux';
 
-import Button from '../../../../../components/common/Button';
-import HeaderText from '../../../../../components/common/typography/headerText';
-import { Movie } from '../../../../../models/tmdb';
-import { WatchList } from '../../../../../models/tmrev';
-import { useAuth } from '../../../../../provider/authUserContext';
-import { apiKey, tmdbAPI, tmrevAPI } from '../../../../../redux/api';
-import { setMovies, setWatchList } from '../../../../../redux/slice/watchListSlice';
-import formatDate from '../../../../../utils/formatDate';
-import imageUrl from '../../../../../utils/imageUrl';
-import { createMediaUrl } from '../../../../../utils/mediaID';
+import Button from '@/components/common/Button';
+import HeaderText from '@/components/common/typography/headerText';
+import { Movie } from '@/models/tmdb';
+import { WatchList } from '@/models/tmrev';
+import { useAuth } from '@/provider/authUserContext';
+import { apiKey, tmdbAPI, tmrevAPI } from '@/redux/api';
+import { setMovies, setWatchList } from '@/redux/slice/watchListSlice';
+import formatDate from '@/utils/formatDate';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
-const fetchWatchList = async (id: string, token?: string): Promise<WatchList> => {
-  const res = await fetch(
-    `${tmrevAPI}/watch-list/${id}`,
-    {
-      headers: {
-        Authorization: token,
-      } as any,
-    },
-  );
+const fetchWatchList = async (
+  id: string,
+  token?: string,
+): Promise<WatchList> => {
+  const res = await fetch(`${tmrevAPI}/watch-list/${id}`, {
+    headers: {
+      Authorization: token,
+    } as any,
+  });
 
   const data = await res.json();
   return data;
 };
 
 interface Props {
-  watchList?: WatchList
-  movies?: Record<string, Movie>
+  watchList?: WatchList;
+  movies?: Record<string, Movie>;
 }
 
-const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
+const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
   const { user } = useAuth();
   const dispatch = useDispatch();
   const router = useRouter();
@@ -68,7 +68,9 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
       <Button
         className="w-full"
         variant="secondary"
-        onClick={() => router.push(`/user/${user?.uid}/list/${router.query.watchListId}/edit`)}
+        onClick={() => router.push(
+          `/user/${user?.uid}/list/${router.query.watchListId}/edit`,
+        )}
       >
         Update List
       </Button>
@@ -81,9 +83,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
     <div className="w-full mt-16 lg:mt-0">
       <div className="p-4 flex flex-col items-center space-y-4 text-white w-full">
         <div className="w-full">
-          <HeaderText headingType="h1">
-            {watchList.title}
-          </HeaderText>
+          <HeaderText headingType="h1">{watchList.title}</HeaderText>
           <p>{watchList.description}</p>
         </div>
         {renderEdit()}
@@ -94,14 +94,22 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
             title, id, poster_path, release_date,
           } = movies[movieId];
           return (
-            <Link key={id} passHref href={`/movie/${createMediaUrl(id, title)}`}>
-              <a key={id} className="flex w-full hover:bg-tmrev-gray-dark items-center space-x-4 p-2 border rounded text-white">
+            <Link
+              key={id}
+              passHref
+              href={`/movie/${createMediaUrl(id, title)}`}
+            >
+              <a
+                key={id}
+                className="flex w-full hover:bg-tmrev-gray-dark items-center space-x-4 p-2 border rounded text-white"
+              >
                 <div className="p-2">
                   <p className="text-xl font-bold">{index + 1}</p>
                 </div>
-                <div className={clsx(
-                  'bg-white relative aspect-[2/3] h-[120px] rounded',
-                )}
+                <div
+                  className={clsx(
+                    'bg-white relative aspect-[2/3] h-[120px] rounded',
+                  )}
                 >
                   <Image
                     priority
@@ -113,7 +121,11 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }:Props) => {
                   />
                 </div>
                 <div>
-                  <p className="text-lg font-semibold">{`${title} (${formatDate(release_date)})`}</p>
+                  <p className="text-lg font-semibold">
+                    {`${title} (${formatDate(
+                      release_date,
+                    )})`}
+                  </p>
                 </div>
               </a>
             </Link>
@@ -140,7 +152,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
 
       const movies = await Promise.all(moviePromises);
 
-      let movieRecord:Record<string, Movie> = {};
+      let movieRecord: Record<string, Movie> = {};
 
       movies.forEach((movie) => {
         movieRecord = {

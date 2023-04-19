@@ -3,13 +3,13 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useEffect } from 'react';
 
-import HeaderText from '../components/common/typography/headerText';
-import WelcomeExplainer from '../components/page-components/home/welcome/explainer';
-import imageUrl from '../utils/imageUrl';
+import HeaderText from '@/components/common/typography/headerText';
+import WelcomeExplainer from '@/components/page-components/home/welcome/explainer';
+import imageUrl from '@/utils/imageUrl';
 
 interface Props {}
 
-const Welcome:FunctionComponent<Props> = () => {
+const Welcome: FunctionComponent<Props> = () => {
   const router = useRouter();
 
   useEffect(() => {
@@ -29,11 +29,9 @@ const Welcome:FunctionComponent<Props> = () => {
           />
         </div>
         <div className="absolute bottom-10 left-0 right-0 text-center m-auto">
-          <h1
-            className="text-3xl md:text-4xl lg:text-5xl font-semibold"
-          >
-            &quot;You have power.
-            And with great power, there must also come great responsibility.&quot;
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-semibold">
+            &quot;You have power. And with great power, there must also come
+            great responsibility.&quot;
           </h1>
           <p>- May Parker</p>
         </div>
@@ -107,7 +105,10 @@ const Welcome:FunctionComponent<Props> = () => {
           title="Profile Preview"
         />
       </div>
-      <div className="w-full flex flex-col text-center items-center justify-center space-y-3 mt-36" id="join">
+      <div
+        className="w-full flex flex-col text-center items-center justify-center space-y-3 mt-36"
+        id="join"
+      >
         <HeaderText>Lets Get Started </HeaderText>
         <div className="flex space-x-2 text-2xl">
           <Link passHref href="/login">

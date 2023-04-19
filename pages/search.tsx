@@ -3,23 +3,25 @@ import { NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import React, {
-  useCallback, useState,
-} from 'react';
+import React, { useCallback, useState } from 'react';
 
-import Input from '../components/common/Input';
-import MetaTags from '../components/common/MetaTag';
-import { getRunningOperationPromises, search, useSearchQuery } from '../redux/api';
-import { wrapper } from '../redux/store';
-import { debounce, extractNameFromEmail } from '../utils/common';
-import imageUrl from '../utils/imageUrl';
-import { createMediaUrl } from '../utils/mediaID';
+import Input from '@/components/common/Input';
+import MetaTags from '@/components/common/MetaTag';
+import {
+  getRunningOperationPromises,
+  search,
+  useSearchQuery,
+} from '@/redux/api';
+import { wrapper } from '@/redux/store';
+import { debounce, extractNameFromEmail } from '@/utils/common';
+import imageUrl from '@/utils/imageUrl';
+import { createMediaUrl } from '@/utils/mediaID';
 
 interface Props {
-  q?: string
+  q?: string;
 }
 
-const Search:NextPage<Props> = ({ q }:Props) => {
+const Search: NextPage<Props> = ({ q }: Props) => {
   const [query, setQuery] = useState<string>(q || '');
   const router = useRouter();
 
@@ -56,28 +58,28 @@ const Search:NextPage<Props> = ({ q }:Props) => {
       <>
         {user.map((value) => (
           <Link key={value._id} passHref href={`/user/${value.uuid}/preview`}>
-            <a className={
-              clsx(
+            <a
+              className={clsx(
                 'flex flex-col items-center justify-center text-center space-y-4',
                 'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
                 'hover:bg-tmrev-gray-dark p-1',
-              )
-            }
+              )}
             >
               <div className="relative h-1/2 w-full">
                 <Image
                   alt={`${value.firstName} ${value.lastName} profile`}
                   layout="fill"
                   objectFit="contain"
-                  src={value.photoUrl || `https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`}
+                  src={
+                    value.photoUrl
+                    || `https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`
+                  }
                 />
               </div>
-              <h1 className=" space-x-2">
+              <h1 className="space-x-2">
                 <span className="font-semibold">User</span>
                 <span>|</span>
-                <span className="break-all">
-                  {renderName(value)}
-                </span>
+                <span className="break-all">{renderName(value)}</span>
               </h1>
             </a>
           </Link>
@@ -94,14 +96,17 @@ const Search:NextPage<Props> = ({ q }:Props) => {
     return (
       <>
         {watchList.map((value) => (
-          <Link key={value._id} passHref href={`/user/${value.userId}/list/${value._id}`}>
-            <a className={
-              clsx(
+          <Link
+            key={value._id}
+            passHref
+            href={`/user/${value.userId}/list/${value._id}`}
+          >
+            <a
+              className={clsx(
                 'flex flex-col items-center justify-center text-center space-y-4',
                 'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
                 'hover:bg-tmrev-gray-dark p-1',
-              )
-            }
+              )}
             >
               <div className="relative h-1/2 w-full">
                 <Image
@@ -114,9 +119,7 @@ const Search:NextPage<Props> = ({ q }:Props) => {
               <h1 className=" space-x-2">
                 <span className="font-semibold">List</span>
                 <span>|</span>
-                <span className="break-all">
-                  {value.title}
-                </span>
+                <span className="break-all">{value.title}</span>
               </h1>
             </a>
           </Link>
@@ -136,7 +139,11 @@ const Search:NextPage<Props> = ({ q }:Props) => {
           if (!value.poster_path) return null;
 
           return (
-            <Link key={value.id} passHref href={`/movie/${createMediaUrl(value.id, value.title)}`}>
+            <Link
+              key={value.id}
+              passHref
+              href={`/movie/${createMediaUrl(value.id, value.title)}`}
+            >
               <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
                 <Image
                   alt={`${value.title} poster`}
@@ -161,7 +168,11 @@ const Search:NextPage<Props> = ({ q }:Props) => {
         url={`https://tmrev.io/search?q=${query}`}
       />
       <div className="sticky mt-16 lg:mt-0 top-0 bg-tmrev-gray-dark p-5 w-full right-0 left-0 rounded z-30 mb-4">
-        <Input defaultValue={query} placeholder="Search..." onChange={debounceQuery} />
+        <Input
+          defaultValue={query}
+          placeholder="Search..."
+          onChange={debounceQuery}
+        />
       </div>
       <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
         {renderWatchListSearchQuery()}

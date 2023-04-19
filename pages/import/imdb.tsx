@@ -3,44 +3,50 @@ import { NextPage } from 'next';
 import Head from 'next/head';
 import React, { useCallback, useEffect, useState } from 'react';
 
-import DropZone from '../../components/common/inputs/dropZone';
-import HeaderText from '../../components/common/typography/headerText';
-import { useAppDispatch } from '../../hooks';
-import { BatchMoviesResponse } from '../../models/tmrev/movie';
-import { WatchedPayload } from '../../models/tmrev/watched';
-import { useAuth } from '../../provider/authUserContext';
-import { tmrevAPI, useCreateWatchedMutation, useCreateWatchListMutation } from '../../redux/api';
-import { setOpenToast, setToastContent } from '../../redux/slice/toastSlice';
-import importIMDB, { IMDBImport } from '../../utils/importIMDB';
+import DropZone from '@/components/common/inputs/dropZone';
+import HeaderText from '@/components/common/typography/headerText';
+import { useAppDispatch } from '@/hooks';
+import { BatchMoviesResponse } from '@/models/tmrev/movie';
+import { WatchedPayload } from '@/models/tmrev/watched';
+import { useAuth } from '@/provider/authUserContext';
+import {
+  tmrevAPI,
+  useCreateWatchedMutation,
+  useCreateWatchListMutation,
+} from '@/redux/api';
+import { setOpenToast, setToastContent } from '@/redux/slice/toastSlice';
+import importIMDB, { IMDBImport } from '@/utils/importIMDB';
 
 type IMDBMovies = {
-  [x: string]: Data[]
-}
+  [x: string]: Data[];
+};
 
 type Data = {
-  imdb: IMDBImport,
-  movieList: string[]
-}
+  imdb: IMDBImport;
+  movieList: string[];
+};
 
 type ParsedData = {
-  res: PromiseSettledResult<AxiosResponse<BatchMoviesResponse, any>>,
-  name: string
-  id: string
-}
+  res: PromiseSettledResult<AxiosResponse<BatchMoviesResponse, any>>;
+  name: string;
+  id: string;
+};
 
 const batchLookUp = async (imdbMovies: IMDBMovies): Promise<ParsedData[]> => {
-  const batchRequests = Object.values(imdbMovies).map((movies) => axios({
-    data: {
-      movieId: movies[0].movieList,
-    },
-    method: 'POST',
-    url: `${tmrevAPI}/import/imdb`,
-  }) as AxiosPromise<BatchMoviesResponse>);
+  const batchRequests = Object.values(imdbMovies).map(
+    (movies) => axios({
+      data: {
+        movieId: movies[0].movieList,
+      },
+      method: 'POST',
+      url: `${tmrevAPI}/import/imdb`,
+    }) as AxiosPromise<BatchMoviesResponse>,
+  );
 
   const res = await Promise.allSettled(batchRequests);
 
   const parsedData = res.map((value, i) => {
-    let returnData:any = {};
+    let returnData: any = {};
     Object.keys(imdbMovies).forEach((key, index) => {
       if (index === i) {
         returnData = {
@@ -71,7 +77,7 @@ const ImportIMDB: NextPage = () => {
 
     Object.values(files).forEach((file) => {
       importIMDB(file).then((data) => {
-        const tempArray:Data[] = [];
+        const tempArray: Data[] = [];
         data.forEach((element) => {
           if (element.const) {
             tempArray.push({
@@ -80,7 +86,10 @@ const ImportIMDB: NextPage = () => {
             });
           }
         });
-        setImdbMovies((prevState) => ({ ...prevState, [file.name.split('.')[0]]: tempArray }));
+        setImdbMovies((prevState) => ({
+          ...prevState,
+          [file.name.split('.')[0]]: tempArray,
+        }));
       });
     });
   }, [files]);
@@ -112,7 +121,9 @@ const ImportIMDB: NextPage = () => {
       if (parsedData.res.status === 'fulfilled') {
         const payload = {
           description: 'Imported from imdb',
-          movies: Object.values(parsedData.res.value.data.body).map((v) => v.id),
+          movies: Object.values(parsedData.res.value.data.body).map(
+            (v) => v.id,
+          ),
           public: true,
           tags: [],
           title: parsedData.name,
@@ -141,7 +152,13 @@ const ImportIMDB: NextPage = () => {
   };
 
   const uploadRatings = async () => {
-    if (!batchRequest || !user || !files || importSelect !== 'ratings' || !imdbMovies) return;
+    if (
+      !batchRequest
+      || !user
+      || !files
+      || importSelect !== 'ratings'
+      || !imdbMovies
+    ) return;
 
     const token = await user.getIdToken();
     const payload: WatchedPayload[] = [];
@@ -152,7 +169,9 @@ const ImportIMDB: NextPage = () => {
 
         imdbMovies[key].forEach((d) => {
           if (parsedData.res.status !== 'fulfilled') return;
-          if (typeof parsedData.res.value.data.body[d.imdb.const] !== 'undefined') {
+          if (
+            typeof parsedData.res.value.data.body[d.imdb.const] !== 'undefined'
+          ) {
             const { title, poster_path, id } = parsedData.res.value.data.body[d.imdb.const];
 
             payload.push({
@@ -204,9 +223,7 @@ const ImportIMDB: NextPage = () => {
       </Head>
       <div className="lg:h-full h-screen text-center w-full flex justify-center items-center">
         <div className=" bg-tmrev-gray-dark p-4 rounded flex flex-col md:min-w-[500px] space-y-4">
-          <HeaderText>
-            IMDB Import
-          </HeaderText>
+          <HeaderText>IMDB Import</HeaderText>
           <select
             className="p-2 rounded bg-black text-white"
             defaultValue={importSelect}
@@ -226,9 +243,8 @@ const ImportIMDB: NextPage = () => {
             }}
           />
           <div className="text-white">
-            {imdbMovies && Object.keys(imdbMovies).map((v) => (
-              <p key={v}>{v}</p>
-            ))}
+            {imdbMovies
+              && Object.keys(imdbMovies).map((v) => <p key={v}>{v}</p>)}
           </div>
         </div>
       </div>
