@@ -1,6 +1,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import React, { FunctionComponent, useEffect, useMemo, useState } from 'react';
+import React, {
+  FunctionComponent, useEffect, useMemo, useState,
+} from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import usePrevious from '@/hooks/usePrevious';
@@ -20,7 +22,7 @@ const Movies: FunctionComponent = () => {
   const [combined, setCombined] = useState<DiscoverMovieResult[]>([]);
   const currentResult = useGetDiscoverMovieQuery(
     { page: currentPage },
-    { skip: currentPage > 1 }
+    { skip: currentPage > 1 },
   );
   const nextResult = useGetDiscoverMovieQuery({ page: currentPage + 1 });
   const prevPage = usePrevious(currentPage);
@@ -40,8 +42,8 @@ const Movies: FunctionComponent = () => {
 
   const onScroll = () => {
     if (
-      window.pageYOffset + window.innerHeight >=
-      document.documentElement.scrollHeight - 100
+      window.pageYOffset + window.innerHeight
+      >= document.documentElement.scrollHeight - 100
     ) {
       setCurrentPage((prevState) => prevState + 1);
     }
@@ -66,8 +68,8 @@ const Movies: FunctionComponent = () => {
       />
       <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
         {combined.map((value, i) => (
-          // eslint-disable-next-line react/no-array-index-key
           <Link
+            // eslint-disable-next-line react/no-array-index-key
             key={i}
             passHref
             href={`/movie/${createMediaUrl(value.id, value.title)}`}
@@ -99,5 +101,5 @@ export const getServerSideProps = wrapper.getServerSideProps(
     return {
       props: {},
     };
-  }
+  },
 );

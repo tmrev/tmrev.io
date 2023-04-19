@@ -9,8 +9,8 @@ const Trending: NextPage = () => {
 
   return (
     <div className="snap-mandatory snap-y h-screen w-screen overflow-scroll overflow-x-hidden">
-      {movieData &&
-        movieData.results.map((movie) => (
+      {movieData
+        && movieData.results.map((movie) => (
           <Screen key={movie.id} movie={movie} />
         ))}
     </div>

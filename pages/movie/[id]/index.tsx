@@ -70,11 +70,11 @@ const MoviePage: NextPage<Props> = () => {
 
   const { data, isLoading, isFetching } = useGetMovieQuery(
     payload || skipToken,
-    { skip: router.isFallback }
+    { skip: router.isFallback },
   );
   const { data: reviewData } = useGetAllReviewsQuery(
     movieReviewPayload || skipToken,
-    { skip: router.isFallback }
+    { skip: router.isFallback },
   );
 
   const directors = useMemo(() => {
@@ -99,7 +99,7 @@ const MoviePage: NextPage<Props> = () => {
     if (!data) return [];
 
     const result = data.body.release_dates.results.find(
-      (dataResults) => dataResults.iso_3166_1 === 'US'
+      (dataResults) => dataResults.iso_3166_1 === 'US',
     );
 
     if (!result) return [];
@@ -145,7 +145,7 @@ const MoviePage: NextPage<Props> = () => {
           <div
             className={clsx(
               'dark:bg-black bg-white p-0 md:p-8 flex',
-              'lg:rounded'
+              'lg:rounded',
             )}
           >
             <div className="flex dark:text-white text-black">
@@ -184,7 +184,9 @@ const MoviePage: NextPage<Props> = () => {
                   <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
                     <span className="mr-2">{data.body.title}</span>
                     <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
-                      ({formatDate(data.body.release_date)})
+                      (
+                      {formatDate(data.body.release_date)}
+                      )
                     </span>
                   </h1>
                   <p className="mt-8">{data.body.overview}</p>
@@ -266,7 +268,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
             include_user_review: user.uid,
             sort_by: 'reviewedDate.desc',
           },
-        })
+        }),
       );
     } else if (typeof id === 'string') {
       store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
@@ -277,7 +279,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
             count: 1,
             sort_by: 'reviewedDate.desc',
           },
-        })
+        }),
       );
     }
 
@@ -286,7 +288,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
     return {
       props: {},
     };
-  }
+  },
 );
 
 export default MoviePage;

@@ -35,3 +35,4 @@ config/firebaseConfig.ts
 # typescript
 *.tsbuildinfo
 /storybook-static/
+public/sitemap.xml

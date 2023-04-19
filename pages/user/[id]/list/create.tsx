@@ -27,7 +27,7 @@ export type ReactSelect = {
 
 const fetchMovieDetails = async (
   movieId: string,
-  setMovies: React.Dispatch<React.SetStateAction<ReactSelect[]>>
+  setMovies: React.Dispatch<React.SetStateAction<ReactSelect[]>>,
 ) => {
   const res = await fetch(`${tmdbAPI}/movie/${movieId}?api_key=${apiKey}`);
   const data = await res.json();

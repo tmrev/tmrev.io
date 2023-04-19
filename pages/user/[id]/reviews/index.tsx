@@ -64,7 +64,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
     return {
       props: {},
     };
-  }
+  },
 );
 
 export default Reviews;

@@ -3,7 +3,9 @@ import { yupResolver } from '@hookform/resolvers/yup';
 import { Reorder } from 'framer-motion';
 import { NextPage } from 'next';
 import { useRouter } from 'next/router';
-import React, { useCallback, useEffect, useMemo, useState } from 'react';
+import React, {
+  useCallback, useEffect, useMemo, useState,
+} from 'react';
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
 
@@ -30,6 +32,7 @@ import {
   setOpenModal,
 } from '@/redux/slice/modalSlice';
 import { capitalize } from '@/utils/common';
+
 import { ReactSelect } from '../create';
 
 const schema = yup.object().shape({
@@ -86,8 +89,7 @@ const WatchListEdit: NextPage = () => {
   }, [createToken]);
 
   const payload: GetListPayload | undefined = useMemo(() => {
-    if (typeof router.query.watchListId !== 'string' || !authToken)
-      return undefined;
+    if (typeof router.query.watchListId !== 'string' || !authToken) return undefined;
 
     return {
       authToken,
@@ -103,7 +105,7 @@ const WatchListEdit: NextPage = () => {
     const newArray = [...data.movieData];
 
     newArray.sort(
-      (a, b) => data.movies.indexOf(a.id) - data.movies.indexOf(b.id)
+      (a, b) => data.movies.indexOf(a.id) - data.movies.indexOf(b.id),
     );
 
     setMovies(newArray);

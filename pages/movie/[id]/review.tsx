@@ -66,24 +66,24 @@ const ReviewPage: NextPage = () => {
       if (typeof id === 'string') {
         localStorage.setItem(
           String(parseMediaId(id as string)),
-          JSON.stringify(currentReview)
+          JSON.stringify(currentReview),
         );
       }
     },
-    [currentReview, id]
+    [currentReview, id],
   );
 
   useEffect(
     () => () => {
       dispatch(setClearCurrentReview());
     },
-    []
+    [],
   );
 
   const canSubmitReview = () => {
     if (!currentReview) return false;
     const containsNullRatings = Object.values(
-      currentReview.advancedScore
+      currentReview.advancedScore,
     ).includes(null);
 
     if (!containsNullRatings) return false;
@@ -101,13 +101,12 @@ const ReviewPage: NextPage = () => {
 
   const submitReview = useCallback(async () => {
     if (
-      canSubmitReview() ||
-      !currentReview ||
-      !data ||
-      !user ||
-      !averagedAdvancedScore
-    )
-      return;
+      canSubmitReview()
+      || !currentReview
+      || !data
+      || !user
+      || !averagedAdvancedScore
+    ) return;
 
     try {
       const token = await user.getIdToken();
@@ -130,7 +129,7 @@ const ReviewPage: NextPage = () => {
           dispatch(setToastContent('Successfully Reviewed Movie'));
           dispatch(setOpenToast(true));
           router.push(
-            `/movie/${createMediaUrl(data.body.id, data.body.title)}`
+            `/movie/${createMediaUrl(data.body.id, data.body.title)}`,
           );
         })
         .catch((err) => {
@@ -157,7 +156,7 @@ const ReviewPage: NextPage = () => {
   if (!data) return null;
 
   return (
-    <div className='dark:bg-black bg-white relative flex flex-col w-full'>
+    <div className="dark:bg-black bg-white relative flex flex-col w-full">
       <MetaTags
         description={`Reviewing ${data.body.title}`}
         image={imageUrl(data.body.poster_path || '', 400, true)}
@@ -165,73 +164,75 @@ const ReviewPage: NextPage = () => {
         title={`${data.body.title} | Review`}
         url={createMediaUrl(data.body.id, data.body.title)}
       />
-      <div className='relative w-full h-96 lg:h-[500px]'>
+      <div className="relative w-full h-96 lg:h-[500px]">
         <Image
           priority
           alt={`${data.body.title} backdrop`}
-          layout='fill'
-          objectFit='cover'
+          layout="fill"
+          objectFit="cover"
           src={imageUrl(data.body.backdrop_path)}
         />
-        <div className=' absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full' />
+        <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />
       </div>
-      <div className='px-4 mb-6 lg:px-8 mt-0 lg:-mt-16 z-30'>
+      <div className="px-4 mb-6 lg:px-8 mt-0 lg:-mt-16 z-30">
         <div
           className={clsx(
             'dark:bg-black bg-white p-0 md:p-8 flex',
-            'lg:rounded'
+            'lg:rounded',
           )}
         >
-          <div className='flex dark:text-white text-black'>
-            <div className='hidden lg:flex lg:flex-col mr-8 space-y-4'>
+          <div className="flex dark:text-white text-black">
+            <div className="hidden lg:flex lg:flex-col mr-8 space-y-4">
               <Image
                 priority
                 alt={`${data.body.title} poster`}
-                className='rounded aspect-[2/3]'
+                className="rounded aspect-[2/3]"
                 height={500}
-                objectFit='cover'
+                objectFit="cover"
                 src={imageUrl(data.body.poster_path || '', 400, true)}
                 width={350}
               />
               <Button
                 disabled={canSubmitReview()}
-                variant='primary'
+                variant="primary"
                 onClick={submitReview}
               >
                 Submit Review
               </Button>
               <Button
-                variant='secondary'
+                variant="secondary"
                 onClick={() => setMoviePublic(!moviePublic)}
               >
                 {moviePublic ? 'Make Private' : 'Make Public'}
               </Button>
             </div>
-            <div className='flex flex-col space-y-3'>
-              <div className='max-w-sm md:max-w-lg 2xl:max-w-5xl'>
-                <span className='flex items-center space-x-2'>
-                  <HeaderText headingType='p'>movie</HeaderText>
+            <div className="flex flex-col space-y-3">
+              <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
+                <span className="flex items-center space-x-2">
+                  <HeaderText headingType="p">movie</HeaderText>
                   <CopyLink link={`https://tmrev.io${router.asPath}`} />
                 </span>
-                <h1 className='flex flex-wrap items-center text-3xl lg:text-6xl font-semibold'>
-                  <span className='mr-2'>{data.body.title}</span>
-                  <span className='text-lg lg:text-2xl dark:opacity-75 opacity-50'>
-                    ({formatDate(data.body.release_date)})
+                <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
+                  <span className="mr-2">{data.body.title}</span>
+                  <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
+                    (
+                    {formatDate(data.body.release_date)}
+                    )
                   </span>
                 </h1>
-                <p className='mt-8'>{data.body.overview}</p>
+                <p className="mt-8">{data.body.overview}</p>
               </div>
               <div
                 ref={ref}
-                className='!space-y-16 !mt-16 md:!mt-[7rem]'
-                id='review'
+                className="!space-y-16 !mt-16 md:!mt-[7rem]"
+                id="review"
               >
                 <UserRating />
-                <div className='lg:hidden mt-8'>
+                <div className="lg:hidden mt-8">
                   <Button
-                    className='w-full'
+                    className="w-full"
                     disabled={canSubmitReview()}
-                    variant='primary'
+                    variant="primary"
                     onClick={submitReview}
                   >
                     Submit Review

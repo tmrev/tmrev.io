@@ -121,7 +121,7 @@ const UpdatePage: NextPage = () => {
   const canSubmitReview = () => {
     if (!currentReview) return false;
     const containsNullRatings = Object.values(
-      currentReview.advancedScore
+      currentReview.advancedScore,
     ).includes(null);
 
     if (!containsNullRatings) return false;
@@ -139,13 +139,12 @@ const UpdatePage: NextPage = () => {
 
   const submitReview = useCallback(async () => {
     if (
-      canSubmitReview() ||
-      !currentReview ||
-      !data ||
-      !user ||
-      !averagedAdvancedScore
-    )
-      return;
+      canSubmitReview()
+      || !currentReview
+      || !data
+      || !user
+      || !averagedAdvancedScore
+    ) return;
 
     try {
       const newPayload: CreateTmrevReviewQuery = {
@@ -166,7 +165,7 @@ const UpdatePage: NextPage = () => {
           dispatch(setToastContent('Successfully Updated your review'));
           dispatch(setOpenToast(true));
           router.push(
-            `/movie/${createMediaUrl(data.body.id, data.body.title)}`
+            `/movie/${createMediaUrl(data.body.id, data.body.title)}`,
           );
         })
         .catch((err) => {
@@ -253,7 +252,7 @@ const UpdatePage: NextPage = () => {
         <div
           className={clsx(
             'dark:bg-black bg-white p-0 md:p-8 flex',
-            'lg:rounded'
+            'lg:rounded',
           )}
         >
           <div className="flex dark:text-white text-black">
@@ -293,7 +292,9 @@ const UpdatePage: NextPage = () => {
                 <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
                   <span className="mr-2">{data.body.title}</span>
                   <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
-                    ({formatDate(data.body.release_date)})
+                    (
+                    {formatDate(data.body.release_date)}
+                    )
                   </span>
                 </h1>
                 <p className="mt-8">{data.body.overview}</p>

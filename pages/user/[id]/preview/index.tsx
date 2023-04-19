@@ -15,7 +15,7 @@ import { extractNameFromEmail, renderImageSrc } from '@/utils/common';
 const UserProfile: NextPage = () => {
   const { data, userId } = useProfile();
   const { watchLists, sortedReviews } = useAppSelector(
-    (state) => state.userProfile
+    (state) => state.userProfile,
   );
 
   if (!data) return null;
@@ -73,7 +73,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
     return {
       props: {},
     };
-  }
+  },
 );
 
 export default UserProfile;

@@ -27,10 +27,10 @@ const Home: NextPage = () => {
 
   const batchedIds = useMemo(() => {
     if (
-      !topReviewedIds ||
-      !justReviewed ||
-      !topReviewedIds.body ||
-      !justReviewed.body
+      !topReviewedIds
+      || !justReviewed
+      || !topReviewedIds.body
+      || !justReviewed.body
     ) {
       return {
         just: [],
@@ -107,14 +107,14 @@ const Home: NextPage = () => {
             <HeaderText>Top reviewed</HeaderText>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 md:space-x-0 md:justify-between items-center overflow-hidden mt-8">
-            {topReviewed &&
-              Object.keys(topReviewed.body).map((movie) => (
+            {topReviewed
+              && Object.keys(topReviewed.body).map((movie) => (
                 <Link
                   key={topReviewed.body[movie].id}
                   passHref
                   href={`/movie/${createMediaUrl(
                     topReviewed.body[movie].id,
-                    topReviewed.body[movie].title
+                    topReviewed.body[movie].title,
                   )}`}
                 >
                   <a className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]">
@@ -125,7 +125,7 @@ const Home: NextPage = () => {
                       objectFit="cover"
                       src={imageUrl(
                         topReviewed.body[movie].poster_path || '',
-                        300
+                        300,
                       )}
                     />
                   </a>
@@ -138,14 +138,14 @@ const Home: NextPage = () => {
             <HeaderText>Just reviewed</HeaderText>
             <p className="text-white font-light">
               {`${numberShortHand(
-                justReviewed ? justReviewed.body.count : 0
+                justReviewed ? justReviewed.body.count : 0,
               )} Movies Reviewed`}
             </p>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
-            {justReviewed &&
-              justReviewedImages &&
-              [...justReviewed.body.movies].map((movie) => (
+            {justReviewed
+              && justReviewedImages
+              && [...justReviewed.body.movies].map((movie) => (
                 <Link
                   key={movie._id}
                   passHref
@@ -159,7 +159,7 @@ const Home: NextPage = () => {
                       objectFit="cover"
                       src={imageUrl(
                         justReviewedImages.body[movie.tmdbID].poster_path || '',
-                        300
+                        300,
                       )}
                     />
                   </a>

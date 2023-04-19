@@ -62,7 +62,7 @@ const Search: NextPage<Props> = ({ q }: Props) => {
               className={clsx(
                 'flex flex-col items-center justify-center text-center space-y-4',
                 'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
-                'hover:bg-tmrev-gray-dark p-1'
+                'hover:bg-tmrev-gray-dark p-1',
               )}
             >
               <div className="relative h-1/2 w-full">
@@ -71,8 +71,8 @@ const Search: NextPage<Props> = ({ q }: Props) => {
                   layout="fill"
                   objectFit="contain"
                   src={
-                    value.photoUrl ||
-                    `https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`
+                    value.photoUrl
+                    || `https://avatars.dicebear.com/api/identicon/${value.uuid}.svg`
                   }
                 />
               </div>
@@ -105,7 +105,7 @@ const Search: NextPage<Props> = ({ q }: Props) => {
               className={clsx(
                 'flex flex-col items-center justify-center text-center space-y-4',
                 'm-4 rounded aspect-moviePoster h-[200px]  md:h-[280px] text-white border border-white',
-                'hover:bg-tmrev-gray-dark p-1'
+                'hover:bg-tmrev-gray-dark p-1',
               )}
             >
               <div className="relative h-1/2 w-full">
@@ -204,5 +204,5 @@ export const getServerSideProps = wrapper.getServerSideProps(
         q: q || '',
       },
     };
-  }
+  },
 );

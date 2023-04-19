@@ -33,7 +33,7 @@ const Watched: FunctionComponent = () => {
                 <div
                   className={clsx(
                     'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                    'lg:w-[300px] lg:h-[500px]'
+                    'lg:w-[300px] lg:h-[500px]',
                   )}
                 >
                   <Image

@@ -17,7 +17,7 @@ const WatchList: NextPage = () => {
 
   const { data } = useGetUserQuery(
     { uid: (router.query.id as string) || '' },
-    { skip: !user }
+    { skip: !user },
   );
 
   if (!data) return null;

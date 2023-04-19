@@ -34,14 +34,13 @@ type ParsedData = {
 
 const batchLookUp = async (imdbMovies: IMDBMovies): Promise<ParsedData[]> => {
   const batchRequests = Object.values(imdbMovies).map(
-    (movies) =>
-      axios({
-        data: {
-          movieId: movies[0].movieList,
-        },
-        method: 'POST',
-        url: `${tmrevAPI}/import/imdb`,
-      }) as AxiosPromise<BatchMoviesResponse>
+    (movies) => axios({
+      data: {
+        movieId: movies[0].movieList,
+      },
+      method: 'POST',
+      url: `${tmrevAPI}/import/imdb`,
+    }) as AxiosPromise<BatchMoviesResponse>,
   );
 
   const res = await Promise.allSettled(batchRequests);
@@ -123,7 +122,7 @@ const ImportIMDB: NextPage = () => {
         const payload = {
           description: 'Imported from imdb',
           movies: Object.values(parsedData.res.value.data.body).map(
-            (v) => v.id
+            (v) => v.id,
           ),
           public: true,
           tags: [],
@@ -154,13 +153,12 @@ const ImportIMDB: NextPage = () => {
 
   const uploadRatings = async () => {
     if (
-      !batchRequest ||
-      !user ||
-      !files ||
-      importSelect !== 'ratings' ||
-      !imdbMovies
-    )
-      return;
+      !batchRequest
+      || !user
+      || !files
+      || importSelect !== 'ratings'
+      || !imdbMovies
+    ) return;
 
     const token = await user.getIdToken();
     const payload: WatchedPayload[] = [];
@@ -174,8 +172,7 @@ const ImportIMDB: NextPage = () => {
           if (
             typeof parsedData.res.value.data.body[d.imdb.const] !== 'undefined'
           ) {
-            const { title, poster_path, id } =
-              parsedData.res.value.data.body[d.imdb.const];
+            const { title, poster_path, id } = parsedData.res.value.data.body[d.imdb.const];
 
             payload.push({
               authToken: token,
@@ -246,8 +243,8 @@ const ImportIMDB: NextPage = () => {
             }}
           />
           <div className="text-white">
-            {imdbMovies &&
-              Object.keys(imdbMovies).map((v) => <p key={v}>{v}</p>)}
+            {imdbMovies
+              && Object.keys(imdbMovies).map((v) => <p key={v}>{v}</p>)}
           </div>
         </div>
       </div>

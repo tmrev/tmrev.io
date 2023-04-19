@@ -20,7 +20,7 @@ import { createMediaUrl } from '@/utils/mediaID';
 
 const fetchWatchList = async (
   id: string,
-  token?: string
+  token?: string,
 ): Promise<WatchList> => {
   const res = await fetch(`${tmrevAPI}/watch-list/${id}`, {
     headers: {
@@ -68,11 +68,9 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
       <Button
         className="w-full"
         variant="secondary"
-        onClick={() =>
-          router.push(
-            `/user/${user?.uid}/list/${router.query.watchListId}/edit`
-          )
-        }
+        onClick={() => router.push(
+          `/user/${user?.uid}/list/${router.query.watchListId}/edit`,
+        )}
       >
         Update List
       </Button>
@@ -92,7 +90,9 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
       </div>
       <div className="flex flex-col flex-wrap justify-center space-y-4 p-2 md:p-4">
         {watchList.movies.map((movieId, index) => {
-          const { title, id, poster_path, release_date } = movies[movieId];
+          const {
+            title, id, poster_path, release_date,
+          } = movies[movieId];
           return (
             <Link
               key={id}
@@ -108,7 +108,7 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
                 </div>
                 <div
                   className={clsx(
-                    'bg-white relative aspect-[2/3] h-[120px] rounded'
+                    'bg-white relative aspect-[2/3] h-[120px] rounded',
                   )}
                 >
                   <Image
@@ -121,9 +121,11 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
                   />
                 </div>
                 <div>
-                  <p className="text-lg font-semibold">{`${title} (${formatDate(
-                    release_date
-                  )})`}</p>
+                  <p className="text-lg font-semibold">
+                    {`${title} (${formatDate(
+                      release_date,
+                    )})`}
+                  </p>
                 </div>
               </a>
             </Link>
@@ -146,11 +148,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   try {
     if (watchListId && typeof watchListId === 'string') {
       const watchList = await fetchWatchList(watchListId, cookies.token);
-      const moviePromises = watchList.movies.map((movieId) =>
-        fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) =>
-          resp.json()
-        )
-      );
+      const moviePromises = watchList.movies.map((movieId) => fetch(`${tmdbAPI}movie/${movieId}?api_key=${apiKey}`).then((resp) => resp.json()));
 
       const movies = await Promise.all(moviePromises);
 
