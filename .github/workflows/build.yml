@@ -22,3 +22,6 @@ jobs:
       - name: Next Build
         run: |
           yarn build
+        env: 
+          NEXT_PUBLIC_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          
