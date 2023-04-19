@@ -1,10 +1,11 @@
 import clsx from 'clsx';
-import { AnimatePresence, motion } from 'framer-motion';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import React, {
   FunctionComponent, useEffect, useMemo, useRef, useState,
 } from 'react';
+import { AnimatePresence, motion } from 'framer-motion';
 
 import { useAppDispatch, useAppSelector } from '../../hooks';
 import { NavItem } from '../../models/web/navigation';
@@ -14,6 +15,7 @@ import Button from '../common/Button';
 import Typography from '../common/typography';
 import NavigationItem from './navItem';
 import Profile from './profile';
+import tmrevIco from '../../public/android-chrome-192x192.png';
 
 const hiddenRoutes = ['login', 'register'];
 
@@ -21,7 +23,7 @@ interface Props {
 
 }
 
-const Navigation:FunctionComponent<Props> = () => {
+const Navigation: FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const router = useRouter();
   const { user } = useAuth();
@@ -126,9 +128,8 @@ const Navigation:FunctionComponent<Props> = () => {
     <AnimatePresence>
       {mobileOpen && (
         <motion.div
-          ref={ref}
           animate={{ x: 0 }}
-          className="fixed shadow rounded bg-white dark:bg-black z-50 left-0 top-0 bottom-0 w-3/4"
+          className="fixed shadow rounded bg-white dark:bg-black z-30 left-0 top-0 bottom-0 w-3/4"
           exit={{ x: -500 }}
           initial={{ x: -100 }}
           transition={{ x: { type: 'tween' } }}
@@ -137,7 +138,7 @@ const Navigation:FunctionComponent<Props> = () => {
             <div className="flex items-center">
               <Button
                 variant="icon"
-                onClick={() => setMobileOpen(false)}
+                onClick={() => setMobileOpen(!mobileOpen)}
               >
                 <span className="material-icons">
                   close
@@ -175,6 +176,7 @@ const Navigation:FunctionComponent<Props> = () => {
 
   return (
     <nav className="bg-black">
+
       <AnimatePresence>
         <motion.nav
           animate={{ y: 0 }}
@@ -189,14 +191,23 @@ const Navigation:FunctionComponent<Props> = () => {
         >
           {renderSideBar()}
           {/* Mobile Menu Button */}
-          <div className="lg:hidden flex bg-black fixed z-40 w-full p-2">
+          <div
+            ref={ref}
+            className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
+            <Link href="/">
+              <Image
+                src={tmrevIco}
+                width="50px"
+                height="25px"
+              />
+            </Link>
             <Button
               className=""
-              variant="icon"
-              onClick={() => setMobileOpen(true)}
+              variant="icon" //setMobileOpen(!mobileOpen)
+              onClick={() => setMobileOpen(!mobileOpen)}
             >
               <span className="material-icons">
-                menu
+                {mobileOpen ? "close" : "menu"}
               </span>
             </Button>
           </div>
