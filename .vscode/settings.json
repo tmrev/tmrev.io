@@ -4,5 +4,11 @@
         "watchlist"
     ],
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "conventionalCommits.scopes": [
+        "Code Style"
+    ]
 }

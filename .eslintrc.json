@@ -9,7 +9,8 @@
     "plugin:react/recommended",
     "plugin:jest/recommended",
     "airbnb",
-    "plugin:@next/next/recommended"
+    "plugin:@next/next/recommended",
+    "prettier"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
@@ -32,7 +33,10 @@
   ],
   "rules": {
     "indent": "off",
-    "@typescript-eslint/indent": ["error", 2], // 2 spaces === 1 tab
+    "@typescript-eslint/indent": [
+      "error",
+      2
+    ], // 2 spaces === 1 tab
     "react/jsx-filename-extension": [
       2,
       {
@@ -94,15 +98,27 @@
     "@typescript-eslint/no-shadow": [
       "error"
     ],
-    "jsx-a11y/label-has-associated-control": ["error", {
-      "required": {
-        "some": ["nesting", "id"]
+    "jsx-a11y/label-has-associated-control": [
+      "error",
+      {
+        "required": {
+          "some": [
+            "nesting",
+            "id"
+          ]
+        }
       }
-    }],
-    "jsx-a11y/label-has-for": ["error", {
-      "required": {
-        "some": ["nesting", "id"]
+    ],
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "some": [
+            "nesting",
+            "id"
+          ]
+        }
       }
-    }]
+    ]
   }
 }
