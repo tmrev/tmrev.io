@@ -34,7 +34,7 @@ import formatDate from '@/utils/formatDate';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '@/utils/mediaID';
 
-interface Props {}
+interface Props { }
 
 const MoviePage: NextPage<Props> = () => {
   const router = useRouter();
@@ -141,7 +141,7 @@ const MoviePage: NextPage<Props> = () => {
           />
           <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-[101%] w-full" />
         </div>
-        <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16 z-30">
+        <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16">
           <div
             className={clsx(
               'dark:bg-black bg-white p-0 md:p-8 flex',

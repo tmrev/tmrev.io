@@ -96,7 +96,8 @@ const Navigation: FunctionComponent<Props> = () => {
   const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
   const dispatch = useAppDispatch();
 
-  const ref = useRef<HTMLDivElement>(null);
+  const mobileRef = useRef<HTMLDivElement>(null);
+  const desktopRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (mobileOpen) {
@@ -105,9 +106,14 @@ const Navigation: FunctionComponent<Props> = () => {
   }, [router]);
 
   const handleClickOutside = (e: MouseEvent) => {
-    if (ref.current && !ref.current.contains(e.target as any)) {
+    if (mobileRef.current && !mobileRef.current.contains(e.target as any)) {
       setMobileOpen(false);
     }
+    if (desktopRef.current && !desktopRef.current.contains(e.target as any)) {
+      dispatch(setOpenNavigation(false))
+    }
+
+
   };
 
   useEffect(() => {
@@ -190,7 +196,7 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          ref={ref}
+          ref={mobileRef}
           className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
           <Link href="/">
             <Image
@@ -209,11 +215,12 @@ const Navigation: FunctionComponent<Props> = () => {
             </span>
           </Button>
         </div>
-        {/* Mobile Expand Button   {`${isNavigationOpen} ?`}*/}
+        {/* Mobile Expand Button */}
 
 
-        <div className={`fixed ${isNavigationOpen ? "w-[200px]" : "w-[40px]"} top-0 left-0 h-full lg:flex lg:flex-col z-20 opacity-100 bg-[#242424] transition-all duration-300`}>
+        <div ref={desktopRef} className={`hidden lg:fixed ${isNavigationOpen ? "w-[200px]" : "lg:w-[40px]"} top-0 left-0 h-full lg:flex lg:flex-col z-20 opacity-100 bg-[#242424] transition-all duration-300`}>
           <Button
+
             className="hidden lg:flex mb-8"
             title={isNavigationOpen ? 'See Less' : 'See More'}
             variant="icon"
