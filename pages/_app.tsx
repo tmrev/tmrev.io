@@ -17,9 +17,11 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <AuthUserProvider>
-        <div className="flex flex-row w-full">
+        <div className="w-full">
           <Navigation />
-          <Component {...pageProps} />
+          <div className="lg:ml-[40px]">
+            <Component {...pageProps} />
+          </div>
         </div>
         <Modal />
       </AuthUserProvider>

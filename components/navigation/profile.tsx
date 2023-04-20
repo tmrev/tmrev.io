@@ -19,7 +19,7 @@ const Profile: FunctionComponent = () => {
     return (
       <div className={clsx(
         'hidden lg:flex fixed items-center text-3xl space-x-4 transition-all duration-300',
-        isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
+        isNavigationOpen ? 'bottom-4 left-10' : 'bottom-4',
       )}
       >
         <Button title="login" variant="icon" onClick={() => router.push('/login')}>
@@ -36,7 +36,7 @@ const Profile: FunctionComponent = () => {
       <a>
         <div className={clsx(
           'hidden lg:flex fixed items-center space-x-4 transition-all duration-300',
-          isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4 left-2',
+          isNavigationOpen ? 'bottom-4 left-8' : 'bottom-4',
         )}
         >
           <Image alt="User" className="rounded-full dark:bg-white" height={45} src={renderImageSrc(user)} width={45} />

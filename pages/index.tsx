@@ -3,7 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
-
+import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
 import InformationCard from '@/components/page-components/home/informationCard';
@@ -79,91 +79,70 @@ const Home: NextPage = () => {
         title="The Movie Review"
         url="https://tmrev.io"
       />
-      <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
-        <Image
-          alt={`${data?.results[0].title} backdrop`}
-          className="rounded z-10 opacity-30"
-          layout="fill"
-          objectFit="cover"
-          src={imageUrl(data?.results[0].backdrop_path || '')}
-        />
-        <div className=" absolute text-white z-20 w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
-          <h1 className="font-bold text-3xl lg:text-6xl text-center">
-            “ EVERYONE&apos;S A CRITIC ”
-          </h1>
-          <p className="font-light">- TheMovieReview</p>
+
+      <div className='flex flex-col'>
+        <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
+          <Image
+            alt={`${data?.results[0].title} backdrop`}
+            className="rounded-lg opacity-30"
+            layout="fill"
+            objectFit="cover"
+            src={imageUrl(data?.results[0].backdrop_path || 'generic alt')}
+          />
+          <div className=" absolute text-white w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
+            <h1 className="font-bold text-3xl lg:text-6xl text-center">“ EVERYONE&apos;S A CRITIC ”</h1>
+            <p className="font-light">- TheMovieReview</p>
+          </div>
         </div>
-      </div>
-      <div className="space-y-36 mt-16">
-        <div className="flex items-center justify-center w-full">
+        <div className="flex items-center justify-center w-full mt-5 ">
           <Link passHref href="/register">
             <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-opacity-90">
-              <p className=" font-semibold text-lg ">Get Started</p>
+              <p className=" font-semibold text-lg ">Start Reviewing</p>
             </a>
           </Link>
         </div>
-        <div className="flex flex-col w-full">
+      </div>
+
+
+      <div className="space-y-24 mt-16">
+
+        <div className="">
           <div>
             <HeaderText>Top reviewed</HeaderText>
           </div>
           <div className="flex flex-wrap justify-start space-x-4 md:space-x-0 md:justify-between items-center overflow-hidden mt-8">
             {topReviewed
               && Object.keys(topReviewed.body).map((movie) => (
-                <Link
+                <HorizontalItems
                   key={topReviewed.body[movie].id}
-                  passHref
-                  href={`/movie/${createMediaUrl(
-                    topReviewed.body[movie].id,
-                    topReviewed.body[movie].title,
-                  )}`}
-                >
-                  <a className="relative m-4 md:m-0 rounded aspect-moviePoster h-[160px]  md:h-[280px]">
-                    <Image
-                      alt={topReviewed.body[movie].title}
-                      className="rounded"
-                      layout="fill"
-                      objectFit="cover"
-                      src={imageUrl(
-                        topReviewed.body[movie].poster_path || '',
-                        300,
-                      )}
-                    />
-                  </a>
-                </Link>
+                  createMediaiId={topReviewed.body[movie].id}
+                  createMediaTitle={topReviewed.body[movie].title}
+                  imgSrc={topReviewed.body[movie].poster_path}
+                />
               ))}
           </div>
         </div>
-        <div className="flex flex-col w-full">
+
+
+        <div className="">
           <div className="flex items-center space-x-5">
-            <HeaderText>Just reviewed</HeaderText>
+            <HeaderText headingType="h2">Just reviewed</HeaderText>
             <p className="text-white font-light">
               {`${numberShortHand(
                 justReviewed ? justReviewed.body.count : 0,
               )} Movies Reviewed`}
             </p>
           </div>
-          <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
+          <div className="grid grid-rows-1 grid-flow-col gap-4 overflow-x-scroll py-5">
             {justReviewed
               && justReviewedImages
               && [...justReviewed.body.movies].map((movie) => (
-                <Link
-                  key={movie._id}
-                  passHref
-                  href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
-                >
-                  <a className="relative m-4 rounded aspect-moviePoster h-[111px]">
-                    <Image
-                      alt={movie.title}
-                      className="rounded"
-                      layout="fill"
-                      objectFit="cover"
-                      src={imageUrl(
-                        justReviewedImages.body[movie.tmdbID].poster_path || '',
-                        300,
-                      )}
-                    />
-                  </a>
-                </Link>
+
+                <HorizontalItems
+                  createMediaTitle={movie.title}
+                  createMediaiId={movie.tmdbID}
+                  imgSrc={justReviewedImages.body[movie.tmdbID].poster_path}
+                />
               ))}
           </div>
         </div>

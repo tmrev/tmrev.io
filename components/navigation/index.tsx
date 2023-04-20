@@ -15,7 +15,7 @@ import Button from '../common/Button';
 import Typography from '../common/typography';
 import NavigationItem from './navItem';
 import Profile from './profile';
-import tmrevIco from '../../public/android-chrome-192x192.png';
+import tmrevIco from '@/public/tmrlogo.svg';
 
 const hiddenRoutes = ['login', 'register'];
 
@@ -175,45 +175,46 @@ const Navigation: FunctionComponent<Props> = () => {
   );
 
   return (
-    <nav className="bg-black">
-
-      <AnimatePresence>
-        <motion.nav
-          animate={{ y: 0 }}
-          className={clsx(
-            'relative',
-            'dark:text-white lg:h-screen  lg:relative transition-all duration-300',
-            isNavigationOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
-          )}
-          exit={{ y: -500 }}
-          initial={{ y: -100 }}
-          transition={{ y: { type: 'tween' } }}
-        >
-          {renderSideBar()}
-          {/* Mobile Menu Button */}
-          <div
-            ref={ref}
-            className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
-            <Link href="/">
-              <Image
-                src={tmrevIco}
-                width="50px"
-                height="25px"
-              />
-            </Link>
-            <Button
-              className=""
-              variant="icon"
-              onClick={() => setMobileOpen(!mobileOpen)}
-            >
-              <span className="material-icons">
-                {mobileOpen ? "close" : "menu"}
-              </span>
-            </Button>
-          </div>
-          {/* Mobile Expand Button */}
+    <AnimatePresence>
+      <motion.nav
+        animate={{ y: 0 }}
+        className={clsx(
+          'relative',
+          'dark:text-white lg:relative transition-all duration-300',
+          !isNavigationOpen ? 'lg:w-16 lg:flex lg:flex-col lg:items-center' : '',
+        )}
+        exit={{ y: -500 }}
+        initial={{ y: -100 }}
+        transition={{ y: { type: 'tween' } }}
+      >
+        {/* Mobile Menu Button */}
+        {renderSideBar()}
+        <div
+          ref={ref}
+          className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
+          <Link href="/">
+            <Image
+              src={tmrevIco}
+              width="50px"
+              height="25px"
+            />
+          </Link>
           <Button
-            className="hidden lg:flex mb-8 fixed"
+            className=""
+            variant="icon"
+            onClick={() => setMobileOpen(!mobileOpen)}
+          >
+            <span className="material-icons">
+              {mobileOpen ? "close" : "menu"}
+            </span>
+          </Button>
+        </div>
+        {/* Mobile Expand Button   {`${isNavigationOpen} ?`}*/}
+
+
+        <div className={`fixed ${isNavigationOpen ? "w-[200px]" : "w-[40px]"} top-0 left-0 h-full lg:flex lg:flex-col z-20 opacity-100 bg-[#242424] transition-all duration-300`}>
+          <Button
+            className="hidden lg:flex mb-8"
             title={isNavigationOpen ? 'See Less' : 'See More'}
             variant="icon"
             onClick={() => dispatch(setOpenNavigation(!isNavigationOpen))}
@@ -223,7 +224,7 @@ const Navigation: FunctionComponent<Props> = () => {
             </span>
           </Button>
           <ul className={clsx(
-            'hidden lg:block space-y-4 fixed',
+            'hidden lg:inline-block space-y-4 ',
             isNavigationOpen ? 'top-36' : 'top-16',
           )}
           >
@@ -240,9 +241,11 @@ const Navigation: FunctionComponent<Props> = () => {
             })}
           </ul>
           <Profile />
-        </motion.nav>
-      </AnimatePresence>
-    </nav>
+        </div>
+        <div className={`${isNavigationOpen || mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`}>
+        </div>
+      </motion.nav>
+    </AnimatePresence>
 
   );
 };
