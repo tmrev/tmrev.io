@@ -22,3 +22,8 @@ jobs:
       - name: Next Build
         run: |
           yarn build
+        env: 
+          NEXT_PUBLIC_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+          NEXT_PUBLIC_CLIENT_EMAIL: ${{ secrets.CLIENT_EMAIL }}
+          NEXT_PUBLIC_PROJECT_ID: ${{ secrets.PROJECT_ID }}
+          
