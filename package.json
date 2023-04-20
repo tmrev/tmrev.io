@@ -10,7 +10,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "prepare": "husky install",
-    "pre-commit": "next lint --fix && git add -A ."
+    "pre-commit": "next lint --fix"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.6",
