@@ -1,6 +1,7 @@
 import { combineReducers } from 'redux';
 
 import { tmrevApi } from '../api';
+import { peopleApi } from '../api/tmdb/peopleAPI';
 import modalSlice from '../slice/modalSlice';
 import navigationSlice from '../slice/navigationSlice';
 import reviewsSlice from '../slice/reviewsSlice';
@@ -10,6 +11,7 @@ import watchListSlice from '../slice/watchListSlice';
 
 const rootReducer = combineReducers({
   [tmrevApi.reducerPath]: tmrevApi.reducer,
+  [peopleApi.reducerPath]: peopleApi.reducer,
   modal: modalSlice,
   navigation: navigationSlice,
   reviews: reviewsSlice,

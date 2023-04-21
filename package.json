@@ -10,12 +10,13 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "prepare": "husky install",
-    "pre-commit": "next lint --fix && git add -A ."
+    "pre-commit": "next lint --fix"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.6",
     "@reduxjs/toolkit": "^1.8.2",
     "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/line-clamp": "^0.4.4",
     "axios": "^0.27.2",
     "chart.js": "^3.8.0",
     "clsx": "^1.1.1",
