@@ -276,6 +276,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
+  reducerPath: 'tmrevApi',
   tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW'],
 });
 

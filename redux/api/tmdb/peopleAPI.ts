@@ -26,7 +26,7 @@ export const peopleApi = createApi({
     getLatestPeople: builder.query({
       query: () => ({
         params: {
-          apiKey
+          api_key: apiKey
         },
         url: `/person/latest`
       })
@@ -34,7 +34,7 @@ export const peopleApi = createApi({
     getPerson: builder.query<PersonDetail, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}`
@@ -43,7 +43,7 @@ export const peopleApi = createApi({
     getPersonCredits: builder.query<PersonCombineCredit, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/combined_credits`
@@ -52,7 +52,7 @@ export const peopleApi = createApi({
     getPersonExternalIds: builder.query<PersonExternalIds, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/external_ids`
@@ -61,16 +61,26 @@ export const peopleApi = createApi({
     getPersonImages: builder.query<PersonImages, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/images`
       })
     }),
+    getPersonMostPopularMovies: builder.query({
+      query: ({ personId, ...params }) => ({
+        params: {
+          api_key: apiKey,
+          ...params
+        },
+        url: `/person/${personId}/movie_credits`
+      }),
+      transformResponse: (response: PersonMovieCredit) => response.cast.sort((a, b) => b.popularity - a.popularity)
+    }),
     getPersonMovieCredits: builder.query<PersonMovieCredit, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/movie_credits`
@@ -79,7 +89,7 @@ export const peopleApi = createApi({
     getPersonTVCredits: builder.query<PersonTVCredit, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/tv_credits`
@@ -88,7 +98,7 @@ export const peopleApi = createApi({
     getPersonTaggedImages: builder.query<PersonTaggedImages, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/tagged_images`
@@ -97,7 +107,7 @@ export const peopleApi = createApi({
     getPersonTranslations: builder.query<PersonTranslations, PersonQuery>({
       query: ({ personId, ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/${personId}/translations`
@@ -106,7 +116,7 @@ export const peopleApi = createApi({
     getPopularPeople: builder.query<PopularPeople, PeopleQuery>({
       query: ({ ...params }) => ({
         params: {
-          apiKey,
+          api_key: apiKey,
           ...params
         },
         url: `/person/popular`
@@ -120,6 +130,7 @@ export const peopleApi = createApi({
 
     return null;
   },
+  reducerPath: 'peopleApi'
 })
 
 
@@ -134,6 +145,7 @@ export const {
   useGetPersonTaggedImagesQuery,
   useGetPersonTranslationsQuery,
   useGetPopularPeopleQuery,
+  useGetPersonMostPopularMoviesQuery,
   util: { getRunningOperationPromises },
 } = peopleApi
 
