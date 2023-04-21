@@ -7,9 +7,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  background-color: #242424;
+  background-color: #1d1d1d;
 }
-
 
 .typography--variant-h1 {
   font-size: 60px;
@@ -55,13 +54,13 @@ body {
 
 @layer components {
   ::-webkit-scrollbar {
-  -webkit-appearance: none;
-  width: 12px;
-  background-color: theme('colors.black');
-}
-::-webkit-scrollbar-thumb {
-  border-radius: 4px;
-  background-color: theme('colors.tmrev.gray.dark');
-  -webkit-box-shadow: 0 0 1px rgba(8, 8, 8, 0.5);
-}
+    -webkit-appearance: none;
+    width: 12px;
+    background-color: theme('colors.black');
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: theme('colors.tmrev.gray.dark');
+    -webkit-box-shadow: 0 0 1px rgba(8, 8, 8, 0.5);
+  }
 }

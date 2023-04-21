@@ -163,7 +163,7 @@ export const tmrevApi = createApi({
         url: '/movie/just-reviewed',
       }),
     }),
-    getList: builder.query<WatchList, GetListPayload >({
+    getList: builder.query<WatchList, GetListPayload>({
       providesTags: ['WATCH_LIST'],
       query: (body) => ({
         headers: {
@@ -276,6 +276,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
+  reducerPath: 'tmrevApi',
   tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW'],
 });
 
