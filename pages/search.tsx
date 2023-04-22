@@ -2,10 +2,8 @@ import clsx from 'clsx';
 import { NextPage } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
-import React, { useCallback, useState } from 'react';
+import React from 'react';
 
-import Input from '@/components/common/Input';
 import MetaTags from '@/components/common/MetaTag';
 import {
   getRunningOperationPromises,
@@ -13,7 +11,7 @@ import {
   useSearchQuery,
 } from '@/redux/api';
 import { wrapper } from '@/redux/store';
-import { debounce, extractNameFromEmail } from '@/utils/common';
+import { extractNameFromEmail } from '@/utils/common';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl } from '@/utils/mediaID';
 
@@ -22,24 +20,8 @@ interface Props {
 }
 
 const Search: NextPage<Props> = ({ q }: Props) => {
-  const [query, setQuery] = useState<string>(q || '');
-  const router = useRouter();
+  const { data } = useSearchQuery(q || '', { skip: !q });
 
-  const { data } = useSearchQuery(query, { skip: !query });
-
-  const queryChnageHandler = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setQuery(e.target.value);
-
-    if (!e.target.value) {
-      router.pathname = '/search';
-      router.replace(router, undefined, { shallow: true });
-    } else {
-      router.query.q = e.target.value;
-      router.replace(router, undefined, { shallow: true });
-    }
-  };
-
-  const debounceQuery = useCallback(debounce(queryChnageHandler, 300), []);
 
   const renderName = (value: any) => {
     if (value.firstName) {
@@ -161,20 +143,13 @@ const Search: NextPage<Props> = ({ q }: Props) => {
   };
 
   return (
-    <div className="flex-col w-full h-screen bg-black">
+    <div className="flex-col">
       <MetaTags
         description="Looking for the best movies? Reviews from real users can help you find the right one. Lists from experts can help you find what you're looking for."
         title="Find the latest movies and user lists on the world's largest movie review site."
-        url={`https://tmrev.io/search?q=${query}`}
+        url={`https://tmrev.io/search?q=${q}`}
       />
-      <div className="sticky mt-16 lg:mt-0 top-0 bg-tmrev-gray-dark p-5 w-full right-0 left-0 rounded z-30 mb-4">
-        <Input
-          defaultValue={query}
-          placeholder="Search..."
-          onChange={debounceQuery}
-        />
-      </div>
-      <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden mt-8">
+      <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden">
         {renderWatchListSearchQuery()}
         {renderUserListQuery()}
         {renderMovieSearchQuery()}

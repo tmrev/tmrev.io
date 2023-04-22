@@ -15,7 +15,6 @@ import { useAuth } from '../../provider/authUserContext';
 import { setOpenNavigation } from '../../redux/slice/navigationSlice';
 import Button from '../common/Button';
 import Typography from '../common/typography';
-import NavigationItem from './navItem';
 import Profile from './profile';
 
 const hiddenRoutes = ['login', 'register'];
@@ -26,18 +25,12 @@ interface Props {
 
 const Navigation: FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [search, setSearch] = useState<string>("")
   const router = useRouter();
   const { user } = useAuth();
 
   const urlLinks: NavItem[] = useMemo(() => (
     [
-      {
-        auth: false,
-        icon: 'search',
-        mobileOnly: false,
-        title: 'Search',
-        url: '/search',
-      },
       {
         auth: false,
         icon: 'movie',
@@ -113,8 +106,6 @@ const Navigation: FunctionComponent<Props> = () => {
     if (desktopRef.current && !desktopRef.current.contains(e.target as any)) {
       dispatch(setOpenNavigation(false))
     }
-
-
   };
 
   useEffect(() => {
@@ -129,6 +120,12 @@ const Navigation: FunctionComponent<Props> = () => {
     hiddenRoutes.some((value) => router.pathname.includes(value))
   ), [router.pathname]);
 
+  const handleSearch = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+
+    router.push(`/search?q=${search}`)
+  }
+
   if (isIncluded) return null;
 
   const renderSideBar = () => (
@@ -136,13 +133,13 @@ const Navigation: FunctionComponent<Props> = () => {
       {mobileOpen && (
         <motion.div
           animate={{ x: 0 }}
-          className="fixed shadow rounded bg-white dark:bg-black z-30 left-0 top-0 bottom-0 w-3/4"
-          exit={{ x: -500 }}
-          initial={{ x: -100 }}
+          className="fixed shadow rounded bg-white dark:bg-black z-40 right-0 top-0 bottom-0 w-1/2 text-white"
+          exit={{ x: 500 }}
+          initial={{ x: 100 }}
           transition={{ x: { type: 'tween' } }}
         >
-          <div className="p-4">
-            <div className="flex items-center">
+          <div ref={mobileRef} className="p-4">
+            <div className="flex items-center float-right">
               <Button
                 variant="icon"
                 onClick={() => setMobileOpen(!mobileOpen)}
@@ -185,11 +182,6 @@ const Navigation: FunctionComponent<Props> = () => {
     <AnimatePresence>
       <motion.nav
         animate={{ y: 0 }}
-        className={clsx(
-          'relative',
-          'dark:text-white lg:relative transition-all duration-300',
-          !isNavigationOpen ? 'lg:w-16 lg:flex lg:flex-col lg:items-center' : '',
-        )}
         exit={{ y: -500 }}
         initial={{ y: -100 }}
         transition={{ y: { type: 'tween' } }}
@@ -197,8 +189,7 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          ref={mobileRef}
-          className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
+          className="flex justify-between bg-black w-full p-2">
           <Link href="/">
             <Image
               height="25px"
@@ -206,49 +197,35 @@ const Navigation: FunctionComponent<Props> = () => {
               width="50px"
             />
           </Link>
-          <Button
-            className=""
-            variant="icon"
-            onClick={() => setMobileOpen(!mobileOpen)}
-          >
-            <span className="material-icons">
-              {mobileOpen ? "close" : "menu"}
-            </span>
-          </Button>
-        </div>
-        {/* Mobile Expand Button */}
-
-
-        <div ref={desktopRef} className={`hidden lg:fixed ${isNavigationOpen ? "w-[200px]" : "lg:w-[40px]"} top-0 left-0 h-full lg:flex lg:flex-col z-20 opacity-100 bg-[#242424] transition-all duration-300`}>
-          <Button
-
-            className="hidden lg:flex mb-8"
-            title={isNavigationOpen ? 'See Less' : 'See More'}
-            variant="icon"
-            onClick={() => dispatch(setOpenNavigation(!isNavigationOpen))}
-          >
-            <span className="material-icons -rotate-90">
-              {isNavigationOpen ? 'expand_less' : 'expand_more'}
-            </span>
-          </Button>
-          <ul className={clsx(
-            'hidden lg:inline-block space-y-4 ',
-            isNavigationOpen ? 'top-36' : 'top-16',
-          )}
-          >
-            {urlLinks.map((link) => {
-              if (link.mobileOnly || !link.title) return null;
-
-              return (
-                <NavigationItem
-                  key={link.icon}
-                  isNavigationOpen={isNavigationOpen}
-                  item={link}
-                />
-              );
-            })}
+          <form onSubmit={handleSearch}>
+            <div className='flex items-center h-full space-x-1 bg-tmrev-gray-mid px-2 rounded text-white'>
+              <span className="material-icons">search</span>
+              <input
+                className={clsx(
+                  'w-full',
+                  ' bg-transparent text-white',
+                  'focus:outline-white focus:outline-0',
+                )}
+                placeholder='Search...'
+                value={search} onChange={(e) => setSearch(e.currentTarget.value)}/>
+            </div>
+          </form>
+          <ul className='flex items-center space-x-2'>
+            <li>
+              <Button
+                variant="icon"
+                onClick={() => setMobileOpen(!mobileOpen)}
+              >
+                <span className="material-icons">
+              menu
+                </span>
+              </Button>
+            </li>
+            <li>
+              <Profile/>
+            </li>
           </ul>
-          <Profile />
+
         </div>
         <div className={`${isNavigationOpen || mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
       </motion.nav>

@@ -17,9 +17,9 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <AuthUserProvider>
-        <div className="w-full">
+        <div className="w-full flex flex-col max-h-screen">
           <Navigation />
-          <div className="lg:ml-[40px]">
+          <div className='w-full h-full overflow-auto'>
             <Component {...pageProps} />
           </div>
         </div>
