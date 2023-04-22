@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
+
 import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
@@ -115,8 +116,8 @@ const Home: NextPage = () => {
               && Object.keys(topReviewed.body).map((movie) => (
                 <HorizontalItems
                   key={topReviewed.body[movie].id}
-                  createMediaiId={topReviewed.body[movie].id}
                   createMediaTitle={topReviewed.body[movie].title}
+                  createMediaiId={topReviewed.body[movie].id}
                   imgSrc={topReviewed.body[movie].poster_path}
                 />
               ))}
@@ -139,6 +140,7 @@ const Home: NextPage = () => {
               && [...justReviewed.body.movies].map((movie) => (
 
                 <HorizontalItems
+                  key={movie._id}
                   createMediaTitle={movie.title}
                   createMediaiId={movie.tmdbID}
                   imgSrc={justReviewedImages.body[movie.tmdbID].poster_path}

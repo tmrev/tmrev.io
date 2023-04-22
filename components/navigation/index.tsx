@@ -1,12 +1,14 @@
 import clsx from 'clsx';
-import Link from 'next/link';
+import { AnimatePresence, motion } from 'framer-motion';
 import Image from 'next/image';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, {
   FunctionComponent, useEffect, useMemo, useRef, useState,
 } from 'react';
 
-import { AnimatePresence, motion } from 'framer-motion';
+import tmrevIco from '@/public/tmrlogo.svg';
+
 import { useAppDispatch, useAppSelector } from '../../hooks';
 import { NavItem } from '../../models/web/navigation';
 import { useAuth } from '../../provider/authUserContext';
@@ -15,7 +17,6 @@ import Button from '../common/Button';
 import Typography from '../common/typography';
 import NavigationItem from './navItem';
 import Profile from './profile';
-import tmrevIco from '@/public/tmrlogo.svg';
 
 const hiddenRoutes = ['login', 'register'];
 
@@ -200,9 +201,9 @@ const Navigation: FunctionComponent<Props> = () => {
           className="lg:hidden flex justify-between bg-black fixed z-40 w-full p-1">
           <Link href="/">
             <Image
+              height="25px"
               src={tmrevIco}
               width="50px"
-              height="25px"
             />
           </Link>
           <Button
@@ -249,8 +250,7 @@ const Navigation: FunctionComponent<Props> = () => {
           </ul>
           <Profile />
         </div>
-        <div className={`${isNavigationOpen || mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`}>
-        </div>
+        <div className={`${isNavigationOpen || mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
       </motion.nav>
     </AnimatePresence>
 
