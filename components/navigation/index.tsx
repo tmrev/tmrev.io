@@ -124,7 +124,7 @@ const Navigation: FunctionComponent<Props> = () => {
       {mobileOpen && (
         <motion.div
           animate={{ x: 0 }}
-          className="fixed shadow rounded bg-white dark:bg-black z-40 right-0 top-0 bottom-0 w-1/2 text-white"
+          className="fixed shadow rounded bg-black z-40 right-0 top-0 bottom-0 w-1/2 text-white"
           exit={{ x: 500 }}
           initial={{ x: 100 }}
           transition={{ x: { type: 'tween' } }}
@@ -180,7 +180,7 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          className="flex justify-between w-full p-2 ">
+          className="flex justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
           <Link href="/">
             <Image
               height="25px"
