@@ -29,9 +29,9 @@ const Home: NextPage = () => {
   const batchedIds = useMemo(() => {
     if (
       !topReviewedIds
-      || !justReviewed
-      || !topReviewedIds.body
-      || !justReviewed.body
+            || !justReviewed
+            || !topReviewedIds.body
+            || !justReviewed.body
     ) {
       return {
         just: [],
@@ -52,10 +52,10 @@ const Home: NextPage = () => {
   const { data: topReviewed } = useBatchMoviesQuery(batchedIds.top, {
     skip: !batchedIds.top.length,
   });
-  // eslint-disable-next-line max-len
-  const { data: justReviewedImages } = useBatchMoviesQuery(batchedIds.just, {
-    skip: !batchedIds.just.length,
-  });
+    // eslint-disable-next-line max-len
+    // const { data: justReviewedImages } = useBatchMoviesQuery(batchedIds.just, {
+    //     skip: !batchedIds.just.length,
+    // });
 
   useEffect(() => {
     router.prefetch('/register');
@@ -97,7 +97,7 @@ const Home: NextPage = () => {
         </div>
         <div className="flex items-center justify-center w-full mt-5 ">
           <Link passHref href="/register">
-            <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-opacity-90">
+            <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-sky-700">
               <p className=" font-semibold text-lg ">Start Reviewing</p>
             </a>
           </Link>
@@ -111,17 +111,10 @@ const Home: NextPage = () => {
           <div>
             <HeaderText>Top reviewed</HeaderText>
           </div>
-          <div className="flex flex-wrap justify-start space-x-4 md:space-x-0 md:justify-between items-center overflow-hidden mt-8">
-            {topReviewed
-              && Object.keys(topReviewed.body).map((movie) => (
-                <HorizontalItems
-                  key={topReviewed.body[movie].id}
-                  createMediaTitle={topReviewed.body[movie].title}
-                  createMediaiId={topReviewed.body[movie].id}
-                  imgSrc={topReviewed.body[movie].poster_path}
-                />
-              ))}
-          </div>
+          <HorizontalItems
+            batchedIds={batchedIds}
+            content={topReviewed}
+          />
         </div>
 
 
@@ -134,19 +127,10 @@ const Home: NextPage = () => {
               )} Movies Reviewed`}
             </p>
           </div>
-          <div className="grid grid-rows-1 grid-flow-col gap-4 overflow-x-scroll py-5">
-            {justReviewed
-              && justReviewedImages
-              && [...justReviewed.body.movies].map((movie) => (
-
-                <HorizontalItems
-                  key={movie._id}
-                  createMediaTitle={movie.title}
-                  createMediaiId={movie.tmdbID}
-                  imgSrc={justReviewedImages.body[movie.tmdbID].poster_path}
-                />
-              ))}
-          </div>
+          <HorizontalItems
+            batchedIds={batchedIds}
+            content={justReviewed}
+          />
         </div>
         <div>
           <HeaderText>What we do</HeaderText>

@@ -9,10 +9,8 @@ import React, {
 
 import tmrevIco from '@/public/tmrlogo.svg';
 
-import { useAppDispatch, useAppSelector } from '../../hooks';
 import { NavItem } from '../../models/web/navigation';
 import { useAuth } from '../../provider/authUserContext';
-import { setOpenNavigation } from '../../redux/slice/navigationSlice';
 import Button from '../common/Button';
 import Typography from '../common/typography';
 import Profile from './profile';
@@ -87,11 +85,7 @@ const Navigation: FunctionComponent<Props> = () => {
     ]
   ), [user]);
 
-  const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
-  const dispatch = useAppDispatch();
-
   const mobileRef = useRef<HTMLDivElement>(null);
-  const desktopRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (mobileOpen) {
@@ -102,9 +96,6 @@ const Navigation: FunctionComponent<Props> = () => {
   const handleClickOutside = (e: MouseEvent) => {
     if (mobileRef.current && !mobileRef.current.contains(e.target as any)) {
       setMobileOpen(false);
-    }
-    if (desktopRef.current && !desktopRef.current.contains(e.target as any)) {
-      dispatch(setOpenNavigation(false))
     }
   };
 
@@ -145,7 +136,7 @@ const Navigation: FunctionComponent<Props> = () => {
                 onClick={() => setMobileOpen(!mobileOpen)}
               >
                 <span className="material-icons">
-                  close
+                                    close
                 </span>
               </Button>
             </div>
@@ -189,7 +180,7 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          className="flex justify-between bg-black w-full p-2">
+          className="flex justify-between w-full p-2 ">
           <Link href="/">
             <Image
               height="25px"
@@ -198,7 +189,7 @@ const Navigation: FunctionComponent<Props> = () => {
             />
           </Link>
           <form onSubmit={handleSearch}>
-            <div className='flex items-center h-full space-x-1 bg-tmrev-gray-mid px-2 rounded text-white'>
+            <div className='flex items-center w-[200px] sm:w-[300px] h-full py-1 space-x-1 bg-tmrev-gray-mid px-2 rounded text-white'>
               <span className="material-icons">search</span>
               <input
                 className={clsx(
@@ -207,7 +198,7 @@ const Navigation: FunctionComponent<Props> = () => {
                   'focus:outline-white focus:outline-0',
                 )}
                 placeholder='Search...'
-                value={search} onChange={(e) => setSearch(e.currentTarget.value)}/>
+                value={search} onChange={(e) => setSearch(e.currentTarget.value)} />
             </div>
           </form>
           <ul className='flex items-center space-x-2'>
@@ -217,17 +208,17 @@ const Navigation: FunctionComponent<Props> = () => {
                 onClick={() => setMobileOpen(!mobileOpen)}
               >
                 <span className="material-icons">
-              menu
+                                    menu
                 </span>
               </Button>
             </li>
             <li>
-              <Profile/>
+              <Profile />
             </li>
           </ul>
 
         </div>
-        <div className={`${isNavigationOpen || mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
+        <div className={`${mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
       </motion.nav>
     </AnimatePresence>
 
