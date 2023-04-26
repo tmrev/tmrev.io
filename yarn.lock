@@ -12670,6 +12670,11 @@ react-hook-form@^7.33.1:
   resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.33.1.tgz#8c4410e3420788d3b804d62cc4c142915c2e46d0"
   integrity sha512-ydTfTxEJdvgjCZBj5DDXRc58oTEfnFupEwwTAQ9FSKzykEJkX+3CiAkGtAMiZG7IPWHuzgT6AOBfogiKhUvKgg==
 
+react-icons@^4.8.0:
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.8.0.tgz#621e900caa23b912f737e41be57f27f6b2bff445"
+  integrity sha512-N6+kOLcihDiAnj5Czu637waJqSnwlMNROzVZMhfX68V/9bu9qHaMIJC4UdozWoOk57gahFCNHwVvWzm0MTzRjg==
+
 react-inspector@^5.1.0:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/react-inspector/-/react-inspector-5.1.1.tgz#58476c78fde05d5055646ed8ec02030af42953c8"
@@ -14116,6 +14121,11 @@ table@^6.0.9:
     slice-ansi "^4.0.0"
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
+
+tailwind-scrollbar-hide@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/tailwind-scrollbar-hide/-/tailwind-scrollbar-hide-1.1.7.tgz#90b481fb2e204030e3919427416650c54f56f847"
+  integrity sha512-X324n9OtpTmOMqEgDUEA/RgLrNfBF/jwJdctaPZDzB3mppxJk7TLIDmOreEDm1Bq4R9LSPu4Epf8VSdovNU+iA==
 
 tailwindcss@^3.1.5:
   version "3.1.5"
