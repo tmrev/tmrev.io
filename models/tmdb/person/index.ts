@@ -76,16 +76,18 @@ interface PersonTranslations {
   translations: Translations[]
 }
 
+type PeopleGeneral = {
+  profile_path: string
+  adult: boolean
+  id: number
+  known_for: KnownForMovie | KnownForTV
+  name: string
+  popularity: number
+}
+
 interface PopularPeople {
   page: number
-  results: {
-    profile_path: string
-    adult: boolean
-    id: number
-    known_for: KnownForMovie | KnownForTV
-    name: string
-    popularity: number
-  }[]
+  results: PeopleGeneral[]
   total_results: number
   total_pages: number
 }
@@ -182,6 +184,7 @@ type Translations = {
 }
 
 export type {
+  PeopleGeneral,
   PeopleQuery,
   PersonCombineCredit,
   PersonDetail,

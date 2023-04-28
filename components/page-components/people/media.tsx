@@ -6,6 +6,7 @@ import HeaderText from '@/components/common/typography/headerText'
 import { PersonQuery } from '@/models/tmdb/person'
 import { useGetPersonImagesQuery } from '@/redux/api/tmdb/peopleAPI'
 import imageUrl from '@/utils/imageUrl'
+import { parseMediaId } from '@/utils/mediaID'
 
 
 const PersonMedia = () => {
@@ -13,7 +14,7 @@ const PersonMedia = () => {
   const { id } = router.query
 
   const payload: PersonQuery = useMemo(() => ({  
-    personId: Number(id)
+    personId: parseMediaId(id as string)
   }), [id])
 
   const { data } = useGetPersonImagesQuery(payload)

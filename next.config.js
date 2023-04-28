@@ -11,6 +11,7 @@ const nextConfig = {
       'www.rottentomatoes.com',
       'avatars.dicebear.com',
       'image.tmdb.org',
+      'encrypted-tbn0.gstatic.com'
     ],
   },
   optimizeFonts: false,

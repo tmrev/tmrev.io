@@ -4,6 +4,7 @@ import { useEffect, useMemo } from "react";
 import { useAuth } from "@/provider/authUserContext";
 import { useGetUserQuery } from "@/redux/api";
 import { setUserData } from "@/redux/slice/userProfileSlice";
+
 import { useAppDispatch } from ".";
 
 export default function useProfile() {

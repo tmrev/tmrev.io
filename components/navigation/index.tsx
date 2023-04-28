@@ -13,6 +13,7 @@ import { NavItem } from '../../models/web/navigation';
 import { useAuth } from '../../provider/authUserContext';
 import Button from '../common/Button';
 import Typography from '../common/typography';
+import NavSearch from './navSearch';
 import Profile from './profile';
 
 const hiddenRoutes = ['login', 'register'];
@@ -23,7 +24,6 @@ interface Props {
 
 const Navigation: FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [search, setSearch] = useState<string>("")
   const router = useRouter();
   const { user } = useAuth();
 
@@ -111,11 +111,6 @@ const Navigation: FunctionComponent<Props> = () => {
     hiddenRoutes.some((value) => router.pathname.includes(value))
   ), [router.pathname]);
 
-  const handleSearch = (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault()
-
-    router.push(`/search?q=${search}`)
-  }
 
   if (isIncluded) return null;
 
@@ -180,27 +175,17 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          className="flex justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
-          <Link href="/">
-            <Image
-              height="25px"
-              src={tmrevIco}
-              width="50px"
-            />
+          className="flex items-center justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
+          <Link passHref href="/">
+            <a className='flex items-center justify-center flex-shrink-0'>
+              <Image
+                height="25px"
+                src={tmrevIco}
+                width="50px"
+              />
+            </a>
           </Link>
-          <form onSubmit={handleSearch}>
-            <div className='flex items-center w-[200px] sm:w-[300px] h-full py-1 space-x-1 bg-tmrev-gray-mid px-2 rounded text-white'>
-              <span className="material-icons">search</span>
-              <input
-                className={clsx(
-                  'w-full',
-                  ' bg-transparent text-white',
-                  'focus:outline-white focus:outline-0',
-                )}
-                placeholder='Search...'
-                value={search} onChange={(e) => setSearch(e.currentTarget.value)} />
-            </div>
-          </form>
+          <NavSearch/>
           <ul className='flex items-center space-x-2'>
             <li>
               <Button
@@ -212,7 +197,7 @@ const Navigation: FunctionComponent<Props> = () => {
                 </span>
               </Button>
             </li>
-            <li>
+            <li className=' flex-shrink-0'>
               <Profile />
             </li>
           </ul>
