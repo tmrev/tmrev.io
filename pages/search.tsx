@@ -61,6 +61,7 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
 
   useEffect(() => {
     setYearList([])
+    setPage(1)
   }, [q])
 
 
