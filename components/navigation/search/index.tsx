@@ -119,7 +119,13 @@ const NavSearch: FunctionComponent<Props> = () => {
       onFocus={() => setFocused(true)}
     >
       <form 
-        className='h-full w-full'
+        className={
+          clsx(
+            'h-full w-full',
+            focused && 'h-[63px]',
+            'transition-all duration-100'
+          )
+        }
         onSubmit={onSubmit}
       >
         <div className={clsx(
@@ -133,12 +139,12 @@ const NavSearch: FunctionComponent<Props> = () => {
           )}
           <input
             className={clsx(
-              'w-full h-full',
+              'w-full lg:h-full',
               ' bg-transparent text-white',
               'focus:outline-white focus:outline-0',
-              "focus:ring-0"
+              "focus:ring-0",
             )}
-            placeholder={`Search ${capitalize(searchTopic?.topic || '')}...`}
+            placeholder={`searching by ${capitalize(`${searchTopic?.topic}s` || '')}...`}
             onChange={debouncedSearch} 
           />
         </div>
