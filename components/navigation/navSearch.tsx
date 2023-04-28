@@ -1,27 +1,24 @@
 import clsx from 'clsx';
 import { useRouter } from 'next/router';
-import React, { FunctionComponent, useEffect, useRef, useState } from 'react'
+import React, { FunctionComponent, useCallback, useEffect, useRef, useState } from 'react'
 
 import NavSearchChip from '@/components/navigation/search/navSearchChip'
+import { ConstantSearchTopic, Topic } from '@/constants/search';
 import useOutsideClick from '@/hooks/useOutsideClick';
+import { debounce } from '@/utils/common';
 
-export enum Topic {
-  // eslint-disable-next-line no-unused-vars
-  MOVIE = 'movie',
-  // eslint-disable-next-line no-unused-vars
-  PEOPLE = 'people',
-  // eslint-disable-next-line no-unused-vars
-  YEAR = 'year',
-}
+import AutoCompleteSuggest from './search/searchSuggestions';
+
+
 
 export interface SearchTopic {
   label: string
   icon: string
   // eslint-disable-next-line react/no-unused-prop-types
-  topic?: Topic
+  topic: Topic
 }
 
-interface SavedSearches {
+export interface SavedSearches {
   search: string
   context?: SearchTopic
 }
@@ -47,19 +44,9 @@ const NavSearch: FunctionComponent<Props> = () => {
 
   const router = useRouter();
 
-
-  useEffect(() => {
+  const setLocalStorage = () => {
     const results = localStorage.getItem(localStorageSearch)
 
-    if(results) {
-      setPrevSearches(JSON.parse(results))
-    }
-  }, [router])
-
-  const handleSearch = (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault()
-
-    const results = localStorage.getItem(localStorageSearch)
     const searchContent: SavedSearches = {
       context: searchTopic,
       search
@@ -73,8 +60,21 @@ const NavSearch: FunctionComponent<Props> = () => {
   
     } else {
       localStorage.setItem(localStorageSearch, JSON.stringify([{...searchContent}]))
-    }
+    }    
+  }
 
+  useEffect(() => {
+    const results = localStorage.getItem(localStorageSearch)
+
+    if(results) {
+      setPrevSearches(JSON.parse(results))
+    }
+  }, [router])
+
+  const onSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault()
+
+    setLocalStorage()
     setFocused(false)
     divRef.current?.blur()
 
@@ -82,6 +82,12 @@ const NavSearch: FunctionComponent<Props> = () => {
       router.push(`/search?q=${search}&topic=${searchTopic?.topic || Topic.MOVIE}`)
     }
   }
+
+  const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearch(e.target.value)
+  }
+
+  const debouncedSearch = useCallback(debounce(handleSearch, 300), [])
 
   const handlePrevSearch = (s: SavedSearches) => {
     setFocused(false)
@@ -108,7 +114,7 @@ const NavSearch: FunctionComponent<Props> = () => {
       onFocus={() => setFocused(true)}>
       <form 
         className='h-full w-full'
-        onSubmit={handleSearch}
+        onSubmit={onSubmit}
       >
         <div className={clsx(
           'flex items-center h-full w-full  py-1 space-x-2 px-2 text-white',
@@ -126,7 +132,8 @@ const NavSearch: FunctionComponent<Props> = () => {
               'focus:outline-white focus:outline-0',
             )}
             placeholder='Search...'
-            value={search} onChange={(e) => setSearch(e.currentTarget.value)} />
+            onChange={debouncedSearch} 
+          />
         </div>
         <div className={
           clsx(
@@ -139,26 +146,21 @@ const NavSearch: FunctionComponent<Props> = () => {
           <div>
             <span className='text-xs lg:text-sm'>I&apos;m searching by:</span>
             <div className='flex-wrap flex'>
-              <NavSearchChip icon="movie" label='Movies' 
-                onClick={() => setSearchTopic({
-                  icon: "movie",
-                  label: "Movies",
-                  topic: Topic.MOVIE
-                })} />
-              <NavSearchChip icon='people' label='People' 
-                onClick={() => setSearchTopic({
-                  icon: "people",
-                  label: "People",
-                  topic: Topic.PEOPLE
-                })}  />
-              <NavSearchChip icon='calendar_today' label='Years' 
-                onClick={() => setSearchTopic({
-                  icon: "calendar_today",
-                  label: "Years",
-                  topic: Topic.YEAR
-                })}  />
+              {Object.values(ConstantSearchTopic).map((value) => (
+                <NavSearchChip 
+                  key={value.label} 
+                  {...value}
+                  onClick={() => setSearchTopic(ConstantSearchTopic[value.topic])} />
+              ))}
             </div>
           </div>
+          <AutoCompleteSuggest 
+            handleClose={() => setFocused(false)} 
+            handlePrevSearch={handlePrevSearch} 
+            searchValue={search}
+            setLocalStorage={setLocalStorage}
+            topic={searchTopic?.topic}
+          />
           {!!prevSearches.length && (
             <div>
               <div className='flex items-center py-3'>

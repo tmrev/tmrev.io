@@ -5,8 +5,8 @@ import React, { useEffect, useMemo, useState } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import Spinner from '@/components/common/spinner';
-import { Topic } from '@/components/navigation/navSearch';
 import { NoImage } from '@/constants';
+import { Topic } from '@/constants/search';
 import useScroll from '@/hooks/useScroll';
 import { SortBy } from '@/models/tmdb/discover';
 import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
