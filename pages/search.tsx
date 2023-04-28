@@ -56,7 +56,7 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
   } = useFindMovieYearQuery({
     page,
     primary_release_year: Number(q),
-    sort_by: SortBy.PopularityDesc
+    sort_by: SortBy.VoteCountDesc
   }, {skip: payload.topic !== Topic.YEAR})
 
   useEffect(() => {
@@ -213,7 +213,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
       store.dispatch(findMovieYear.initiate({
         page,
         primary_release_year: Number(q),
-        sort_by: SortBy.PopularityDesc
+        sort_by: SortBy.VoteCountDesc
       }))
     }
 
