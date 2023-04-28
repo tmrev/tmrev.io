@@ -176,10 +176,11 @@ const MoviePage: NextPage<Props> = () => {
                 />
               </div>
               <div className="flex flex-col space-y-3">
-                <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl">
+                <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl lg:mt-12">
                   <span className="flex items-center space-x-2">
                     <HeaderText headingType="p">movie</HeaderText>
                     <CopyLink link={`https://tmrev.io${router.asPath}`} />
+                    <CreateReviewButton iconButton hasReviewed={hasReviewed()} />
                   </span>
                   <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
                     <span className="mr-2">{data.body.title}</span>
