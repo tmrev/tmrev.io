@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useEffect, useRef, useState } from 'react'
 
+import NavSearchChip from '@/components/navigation/search/navSearchChip'
 import useOutsideClick from '@/hooks/useOutsideClick';
 
 export enum Topic {
@@ -13,7 +14,7 @@ export enum Topic {
   YEAR = 'year',
 }
 
-interface SearchTopic {
+export interface SearchTopic {
   label: string
   icon: string
   // eslint-disable-next-line react/no-unused-prop-types
@@ -27,42 +28,8 @@ interface SavedSearches {
 
 interface Props {}
 
-
-
-interface ChipProps extends SearchTopic {
-  onClick: () => void
-  compact?: boolean
-}
-
 const localStorageSearch = 'searches'
 
-const NavSearchChip: FunctionComponent<ChipProps> = ({label, icon, onClick, compact}: ChipProps) => (
-  <button 
-    className={
-      clsx(
-        'rounded-full border border-tmrev-gray-dark hover:bg-tmrev-gray-dark',
-        'flex space-x-1 items-center justify-center mr-2',
-        compact ? 'w-max px-2' : 'w-24'
-      )
-    }
-    type='button' 
-    onClick={onClick}>
-    <span className='text-sm material-icons'>
-      {icon}
-    </span>
-    {!compact && (
-      <span className='text-xs'>
-        {label}
-      </span>
-    )}
-
-  </button>
-)
-
-NavSearchChip.defaultProps = {
-  compact: false,
-  topic: undefined
-}
 
 const NavSearch: FunctionComponent<Props> = () => {
   const [search, setSearch] = useState<string>("")
