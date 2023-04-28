@@ -2,7 +2,7 @@ import Iso6391Code from "../ISO639-1";
 import ISO3166_1 from "../ISO3166-1";
 import { MovieGeneral } from "../movie/tmdbMovie";
 
-enum SortBy {
+export enum SortBy {
   PopularityAsc = 'popularity.asc',
   PopularityDesc = 'popularity.desc',
   ReleaseDateAsc = 'release_date.asc',
@@ -20,7 +20,7 @@ enum SortBy {
 }
 
 
-interface DiscoverMovieQuery {
+export interface DiscoverMovieQuery {
   language?: Iso6391Code
   region?: ISO3166_1
   sort_by?: SortBy
@@ -37,11 +37,10 @@ interface DiscoverMovieQuery {
   year?: number
 }
 
-interface IDiscoverMovieResponse {
+export interface IDiscoverMovieResponse {
   page: number
   results: MovieGeneral[]
   total_results: number
   total_pages: number
 }
 
-export { DiscoverMovieQuery, IDiscoverMovieResponse, SortBy }
