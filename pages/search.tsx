@@ -218,12 +218,6 @@ export const getServerSideProps = wrapper.getServerSideProps(
       }))
     }
 
-    // if (typeof q === 'string' && topic) {
-    //   store.dispatch(search.initiate({q, topic}));
-    // } else if (typeof q === 'string') {
-    //   store.dispatch(search.initiate({q}));
-    // }
-
     await Promise.all(getRunningOperationPromises());
 
     return {
