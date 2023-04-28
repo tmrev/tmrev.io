@@ -214,10 +214,18 @@ export const tmrevApi = createApi({
         url: `/movie/watched/${userId}`,
       }),
     }),
-    search: builder.query<SearchResponse, string>({
-      query: (data) => ({
-        url: `/search?q=${data}`,
-      }),
+    search: builder.query<SearchResponse, { q?: string, topic?: string }>({
+      query: ({ q, topic }) => {
+        let url = `/search?q=${q}`
+
+        if (topic) {
+          url = `${url}&topic=${topic}`
+        }
+
+        return {
+          url
+        }
+      },
     }),
     updateTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
       invalidatesTags: ['MOVIE'],

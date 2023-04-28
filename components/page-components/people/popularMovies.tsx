@@ -7,7 +7,7 @@ import HeaderText from '@/components/common/typography/headerText'
 import { PersonQuery } from '@/models/tmdb/person'
 import { useGetPersonMostPopularMoviesQuery } from '@/redux/api/tmdb/peopleAPI'
 import imageUrl from '@/utils/imageUrl'
-import { createMediaUrl } from '@/utils/mediaID'
+import { createMediaUrl, parseMediaId } from '@/utils/mediaID'
 
 
 const PopularMovies = () => {
@@ -15,7 +15,7 @@ const PopularMovies = () => {
   const { id } = router.query
 
   const payload: PersonQuery = useMemo(() => ({  
-    personId: Number(id)
+    personId: parseMediaId(id as string)
   }), [id])
 
   const { data } = useGetPersonMostPopularMoviesQuery(payload)
