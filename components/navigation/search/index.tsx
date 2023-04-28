@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/no-static-element-interactions */
 import clsx from 'clsx';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useCallback, useEffect, useRef, useState } from 'react'
@@ -5,7 +6,7 @@ import React, { FunctionComponent, useCallback, useEffect, useRef, useState } fr
 import NavSearchChip from '@/components/navigation/search/navSearchChip'
 import { ConstantSearchTopic, Topic } from '@/constants/search';
 import useOutsideClick from '@/hooks/useOutsideClick';
-import { debounce } from '@/utils/common';
+import { capitalize, debounce } from '@/utils/common';
 
 import AutoCompleteSuggest from './searchSuggestions';
 
@@ -91,8 +92,6 @@ const NavSearch: FunctionComponent<Props> = () => {
 
   const handlePrevSearch = (s: SavedSearches) => {
     setFocused(false)
-    divRef.current?.blur()
-
 
     router.push(`/search?q=${s.search}&topic=${s.context?.topic || Topic.MOVIE}`)
 
@@ -106,17 +105,19 @@ const NavSearch: FunctionComponent<Props> = () => {
     setPrevSearches([])
   }
 
-  const renderSearchBar = () => (
+
+  return (
     <div       
-      ref={divRef}
+      ref={divRef as any}
       className={
         clsx(
           'md:w-full md:relative max-w-lg md:mx-4 h-10',
-          focused ? 'absolute top-0 left-0 right-0 z-40' : 'w-20',
-          'transition-all duration-300'
+          focused ? 'absolute top-0 left-0 right-0 z-40' : ' w-48',
+          'transition-all duration-300 text-left'
         )
       }
-      onFocus={() => setFocused(true)}>
+      onFocus={() => setFocused(true)}
+    >
       <form 
         className='h-full w-full'
         onSubmit={onSubmit}
@@ -135,8 +136,9 @@ const NavSearch: FunctionComponent<Props> = () => {
               'w-full h-full',
               ' bg-transparent text-white',
               'focus:outline-white focus:outline-0',
+              "focus:ring-0"
             )}
-            placeholder='Search...'
+            placeholder={`Search ${capitalize(searchTopic?.topic || '')}...`}
             onChange={debouncedSearch} 
           />
         </div>
@@ -193,12 +195,6 @@ const NavSearch: FunctionComponent<Props> = () => {
         </div>
       </form>
     </div>
-  )
-
-  return (
-    <>
-      {renderSearchBar()}
-    </>
   )
 }
 
