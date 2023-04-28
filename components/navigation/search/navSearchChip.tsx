@@ -1,7 +1,7 @@
 import clsx from 'clsx'
 import React, { FunctionComponent } from 'react'
 
-import { SearchTopic } from '../navSearch'
+import { SearchTopic } from '.'
 
 interface ChipProps extends SearchTopic {
   onClick: () => void

@@ -13,8 +13,8 @@ import { NavItem } from '../../models/web/navigation';
 import { useAuth } from '../../provider/authUserContext';
 import Button from '../common/Button';
 import Typography from '../common/typography';
-import NavSearch from './navSearch';
 import Profile from './profile';
+import NavSearch from './search';
 
 const hiddenRoutes = ['login', 'register'];
 

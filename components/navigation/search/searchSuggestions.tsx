@@ -9,7 +9,7 @@ import useSuggestion from '@/hooks/useSuggestions'
 import imageUrl from '@/utils/imageUrl'
 import { createMediaUrl } from '@/utils/mediaID'
 
-import { SavedSearches } from '../navSearch'
+import { SavedSearches } from '.'
 
 interface Props {
   searchValue: string
@@ -127,6 +127,8 @@ const AutoCompleteSuggest: FunctionComponent<Props> = ({
       </>
     )
   }
+
+  if(!suggestMovies.length && !suggestPeople.length && !suggestYears.length) return null
  
   return (
     <div className='flex flex-col space-y-1'>

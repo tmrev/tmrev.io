@@ -1,4 +1,4 @@
-import { SearchTopic } from "@/components/navigation/navSearch";
+import { SearchTopic } from "@/components/navigation/search";
 
 export enum Topic {
   // eslint-disable-next-line no-unused-vars

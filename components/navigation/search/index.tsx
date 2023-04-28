@@ -7,7 +7,7 @@ import { ConstantSearchTopic, Topic } from '@/constants/search';
 import useOutsideClick from '@/hooks/useOutsideClick';
 import { debounce } from '@/utils/common';
 
-import AutoCompleteSuggest from './search/searchSuggestions';
+import AutoCompleteSuggest from './searchSuggestions';
 
 
 
@@ -106,11 +106,16 @@ const NavSearch: FunctionComponent<Props> = () => {
     setPrevSearches([])
   }
 
-
-  return (
+  const renderSearchBar = () => (
     <div       
       ref={divRef}
-      className='lg:w-full max-w-lg mx-4 relative h-10'
+      className={
+        clsx(
+          'md:w-full md:relative max-w-lg md:mx-4 h-10',
+          focused ? 'absolute top-0 left-0 right-0 z-40' : 'w-20',
+          'transition-all duration-300'
+        )
+      }
       onFocus={() => setFocused(true)}>
       <form 
         className='h-full w-full'
@@ -140,11 +145,11 @@ const NavSearch: FunctionComponent<Props> = () => {
             'absolute rounded-b z-30 bg-tmrev-gray-mid w-full',
             focused ? "flex flex-col space-y-3" : "hidden",
             'transition-all duration-300',
-            'p-1 lg:p-3 text-white'
+            'p-3 text-white'
           )
         }>
           <div>
-            <span className='text-xs lg:text-sm'>I&apos;m searching by:</span>
+            <span className='text-sm'>I&apos;m searching by:</span>
             <div className='flex-wrap flex'>
               {Object.values(ConstantSearchTopic).map((value) => (
                 <NavSearchChip 
@@ -188,7 +193,12 @@ const NavSearch: FunctionComponent<Props> = () => {
         </div>
       </form>
     </div>
+  )
 
+  return (
+    <>
+      {renderSearchBar()}
+    </>
   )
 }
 
