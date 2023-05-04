@@ -88,7 +88,7 @@ const NavSearch: FunctionComponent<Props> = () => {
     setSearch(e.target.value)
   }
 
-  const debouncedSearch = useCallback(debounce(handleSearch, 300), [])
+  const debouncedSearch = useCallback(debounce(handleSearch, 100), [])
 
   const handlePrevSearch = (s: SavedSearches) => {
     setFocused(false)
