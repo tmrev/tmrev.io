@@ -14,7 +14,6 @@ import { debounce, uniqueArray } from '@/utils/common'
 
 
 const News: NextPage = () => {
-
   const router = useRouter()
 
   const { q } = router.query
@@ -78,7 +77,7 @@ const News: NextPage = () => {
     <div className='p-3 space-y-3'>
       <div className='text-white'>
         <h1 className='text-2xl font-semibold' >Discover</h1>
-        <p className='text-sm font-light' >Movie news from around the county</p>
+        <p className='text-sm font-light' >Movie news from around the world.</p>
       </div>
       <div className='w-full relative text-white flex items-center p-2 rounded bg-black space-x-3'>
         <span className="material-icons">
