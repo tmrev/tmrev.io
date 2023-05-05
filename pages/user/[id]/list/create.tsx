@@ -7,23 +7,23 @@ import React, { useEffect, useState } from 'react';
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
 
-import Button from '../../../../components/common/Button';
-import Input from '../../../../components/common/Input';
-import SearchableInput from '../../../../components/common/inputs/searchable';
-import MovieItem from '../../../../components/common/movie/MovieItem';
-import TagList from '../../../../components/common/movie/tags/TagList';
-import HeaderText from '../../../../components/common/typography/headerText';
-import { firebaseAdmin } from '../../../../config/firebaseAdmin';
-import { Movie } from '../../../../models/tmdb';
-import { useAuth } from '../../../../provider/authUserContext';
-import { apiKey, tmdbAPI, useCreateWatchListMutation } from '../../../../redux/api';
-import { capitalize, uniqueArray } from '../../../../utils/common';
+import Button from '@/components/common/Button';
+import Input from '@/components/common/Input';
+import SearchableInput from '@/components/common/inputs/searchable';
+import MovieItem from '@/components/common/movie/MovieItem';
+import TagList from '@/components/common/movie/tags/TagList';
+import HeaderText from '@/components/common/typography/headerText';
+import { firebaseAdmin } from '@/config/firebaseAdmin';
+import { Movie } from '@/models/tmdb';
+import { useAuth } from '@/provider/authUserContext';
+import { apiKey, tmdbAPI, useCreateWatchListMutation } from '@/redux/api';
+import { capitalize, uniqueArray } from '@/utils/common';
 
 export type ReactSelect = {
-  label: string
-  value: number
-  movie: Movie
-}
+  label: string;
+  value: number;
+  movie: Movie;
+};
 
 const fetchMovieDetails = async (
   movieId: string,
@@ -33,17 +33,23 @@ const fetchMovieDetails = async (
   const data = await res.json();
 
   if (data) {
-    setMovies((prevState) => [...prevState, {
-      label: data.title,
-      movie: data,
-      value: data.id,
-    }]);
+    setMovies((prevState) => [
+      ...prevState,
+      {
+        label: data.title,
+        movie: data,
+        value: data.id,
+      },
+    ]);
   }
 };
 
 const schema = yup.object().shape({
   description: yup.string().optional(),
-  movies: yup.array().min(1, 'You must have at least one movie').required('You must select a movie to create a list'),
+  movies: yup
+    .array()
+    .min(1, 'You must have at least one movie')
+    .required('You must select a movie to create a list'),
   public: yup.boolean(),
   tags: yup.array().optional(),
   title: yup.string().required('Name of List is required'),
@@ -57,11 +63,15 @@ const defaultValues = {
   title: 'New List',
 };
 
-const CreateList:NextPage = () => {
+const CreateList: NextPage = () => {
   const router = useRouter();
   const { user } = useAuth();
   const {
-    register, handleSubmit, formState: { errors }, setValue, getValues,
+    register,
+    handleSubmit,
+    formState: { errors },
+    setValue,
+    getValues,
   } = useForm({
     defaultValues,
     resolver: yupResolver(schema),
@@ -80,9 +90,11 @@ const CreateList:NextPage = () => {
     addWatchList({
       ...data,
       token,
-    }).unwrap().then((v) => {
-      router.push(`/user/${user.uid}/list/${v._id}`);
-    });
+    })
+      .unwrap()
+      .then((v) => {
+        router.push(`/user/${user.uid}/list/${v._id}`);
+      });
   };
 
   useEffect(() => {
@@ -162,9 +174,17 @@ const CreateList:NextPage = () => {
               <p className="text-red-500 mt-1">{errors.movies.message}</p>
             )}
           </div>
-          <Button className="w-full" type="submit" variant="primary">Create List</Button>
+          <Button className="w-full" type="submit" variant="primary">
+            Create List
+          </Button>
           <div className="text-white py-2">
-            <Reorder.Group as="ol" axis="y" className="space-y-4" values={movies} onReorder={setMovies}>
+            <Reorder.Group
+              as="ol"
+              axis="y"
+              className="space-y-4"
+              values={movies}
+              onReorder={setMovies}
+            >
               {uniqueArray(movies, 'value').map((v, i) => (
                 <Reorder.Item key={v.value} value={v}>
                   <MovieItem

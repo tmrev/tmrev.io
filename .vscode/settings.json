@@ -1,8 +1,16 @@
 {
-    "cSpell.words": [
-        "imdb",
-        "watchlist"
-    ],
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "cSpell.words": [
+    "imdb",
+    "tmdb",
+    "watchlist"
+  ],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "conventionalCommits.scopes": [
+    "Code Style"
+  ],
+  "editor.detectIndentation": false
 }

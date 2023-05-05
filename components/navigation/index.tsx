@@ -1,19 +1,20 @@
 import clsx from 'clsx';
 import { AnimatePresence, motion } from 'framer-motion';
+import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, {
   FunctionComponent, useEffect, useMemo, useRef, useState,
 } from 'react';
 
-import { useAppDispatch, useAppSelector } from '../../hooks';
+import tmrevIco from '@/public/tmrlogo.svg';
+
 import { NavItem } from '../../models/web/navigation';
 import { useAuth } from '../../provider/authUserContext';
-import { setOpenNavigation } from '../../redux/slice/navigationSlice';
 import Button from '../common/Button';
 import Typography from '../common/typography';
-import NavigationItem from './navItem';
 import Profile from './profile';
+import NavSearch from './search';
 
 const hiddenRoutes = ['login', 'register'];
 
@@ -21,7 +22,7 @@ interface Props {
 
 }
 
-const Navigation:FunctionComponent<Props> = () => {
+const Navigation: FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const router = useRouter();
   const { user } = useAuth();
@@ -30,10 +31,10 @@ const Navigation:FunctionComponent<Props> = () => {
     [
       {
         auth: false,
-        icon: 'search',
+        icon: 'newspaper',
         mobileOnly: false,
-        title: 'Search',
-        url: '/search',
+        title: 'News',
+        url: '/news',
       },
       {
         auth: false,
@@ -91,10 +92,7 @@ const Navigation:FunctionComponent<Props> = () => {
     ]
   ), [user]);
 
-  const isNavigationOpen = useAppSelector((state) => state.navigation.navigationOpen);
-  const dispatch = useAppDispatch();
-
-  const ref = useRef<HTMLDivElement>(null);
+  const mobileRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (mobileOpen) {
@@ -103,7 +101,7 @@ const Navigation:FunctionComponent<Props> = () => {
   }, [router]);
 
   const handleClickOutside = (e: MouseEvent) => {
-    if (ref.current && !ref.current.contains(e.target as any)) {
+    if (mobileRef.current && !mobileRef.current.contains(e.target as any)) {
       setMobileOpen(false);
     }
   };
@@ -120,27 +118,27 @@ const Navigation:FunctionComponent<Props> = () => {
     hiddenRoutes.some((value) => router.pathname.includes(value))
   ), [router.pathname]);
 
+
   if (isIncluded) return null;
 
   const renderSideBar = () => (
     <AnimatePresence>
       {mobileOpen && (
         <motion.div
-          ref={ref}
           animate={{ x: 0 }}
-          className="fixed shadow rounded bg-white dark:bg-black z-50 left-0 top-0 bottom-0 w-3/4"
-          exit={{ x: -500 }}
-          initial={{ x: -100 }}
+          className="fixed shadow rounded bg-black z-40 right-0 top-0 bottom-0 w-1/2 text-white"
+          exit={{ x: 500 }}
+          initial={{ x: 100 }}
           transition={{ x: { type: 'tween' } }}
         >
-          <div className="p-4">
-            <div className="flex items-center">
+          <div ref={mobileRef} className="p-4">
+            <div className="flex items-center float-right">
               <Button
                 variant="icon"
-                onClick={() => setMobileOpen(false)}
+                onClick={() => setMobileOpen(!mobileOpen)}
               >
                 <span className="material-icons">
-                  close
+                                    close
                 </span>
               </Button>
             </div>
@@ -174,64 +172,47 @@ const Navigation:FunctionComponent<Props> = () => {
   );
 
   return (
-    <nav className="bg-black">
-      <AnimatePresence>
-        <motion.nav
-          animate={{ y: 0 }}
-          className={clsx(
-            'relative',
-            'dark:text-white lg:h-screen  lg:relative transition-all duration-300',
-            isNavigationOpen ? 'lg:w-80 lg:p-8' : 'lg:w-16 lg:p-2 lg:flex lg:flex-col lg:items-center',
-          )}
-          exit={{ y: -500 }}
-          initial={{ y: -100 }}
-          transition={{ y: { type: 'tween' } }}
-        >
-          {renderSideBar()}
-          {/* Mobile Menu Button */}
-          <div className="lg:hidden flex bg-black fixed z-40 w-full p-2">
-            <Button
-              className=""
-              variant="icon"
-              onClick={() => setMobileOpen(true)}
-            >
-              <span className="material-icons">
-                menu
-              </span>
-            </Button>
-          </div>
-          {/* Mobile Expand Button */}
-          <Button
-            className="hidden lg:flex mb-8 fixed"
-            title={isNavigationOpen ? 'See Less' : 'See More'}
-            variant="icon"
-            onClick={() => dispatch(setOpenNavigation(!isNavigationOpen))}
-          >
-            <span className="material-icons -rotate-90">
-              {isNavigationOpen ? 'expand_less' : 'expand_more'}
-            </span>
-          </Button>
-          <ul className={clsx(
-            'hidden lg:block space-y-4 fixed',
-            isNavigationOpen ? 'top-36' : 'top-16',
-          )}
-          >
-            {urlLinks.map((link) => {
-              if (link.mobileOnly || !link.title) return null;
-
-              return (
-                <NavigationItem
-                  key={link.icon}
-                  isNavigationOpen={isNavigationOpen}
-                  item={link}
-                />
-              );
-            })}
+    <AnimatePresence>
+      <motion.nav
+        animate={{ y: 0 }}
+        exit={{ y: -500 }}
+        initial={{ y: -100 }}
+        transition={{ y: { type: 'tween' } }}
+      >
+        {/* Mobile Menu Button */}
+        {renderSideBar()}
+        <div
+          className="flex items-center justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
+          <Link passHref href="/">
+            <a className='flex items-center justify-center flex-shrink-0'>
+              <Image
+                height="25px"
+                src={tmrevIco}
+                width="50px"
+              />
+            </a>
+          </Link>
+          <NavSearch/>
+          <ul className='flex items-center space-x-2'>
+            <li>
+              <Button
+                variant="icon"
+                onClick={() => setMobileOpen(!mobileOpen)}
+              >
+                <span className="material-icons">
+                                    menu
+                </span>
+              </Button>
+            </li>
+            <li className=' flex-shrink-0'>
+              <Profile />
+            </li>
           </ul>
-          <Profile />
-        </motion.nav>
-      </AnimatePresence>
-    </nav>
+
+        </div>
+        <div className={`${mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
+      </motion.nav>
+    </AnimatePresence>
 
   );
 };

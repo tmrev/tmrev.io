@@ -9,9 +9,10 @@ import LoginPanel from '../../../login';
 
 interface Props {
   hasReviewed?: string
+  iconButton?: boolean
 }
 
-const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed }) => {
+const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed, iconButton }) => {
   const router = useRouter();
   const { user } = useAuth();
   const dispatch = useAppDispatch();
@@ -34,6 +35,18 @@ const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed }) => {
   };
 
   if (hasReviewed) {
+    if(iconButton){
+      return (
+        <Button title='edit review' variant='icon' onClick={() => router.push(`${router.asPath}/update/${hasReviewed}`)} >
+          <span className="material-icons">
+            <span className="material-icons-outlined">
+            edit
+            </span> 
+          </span>
+        </Button>
+      )
+    }
+
     return (
       <Button
         className="mt-4 w-full"
@@ -43,6 +56,18 @@ const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed }) => {
         Update Review
       </Button>
     );
+  }
+
+  if(iconButton){
+    return(
+      <Button title='create review' variant='icon' onClick={() => router.push(`${router.asPath}/review`)} >
+        <span className="material-icons">
+          <span className="material-icons-outlined">
+          add_circle_outline
+          </span> 
+        </span>
+      </Button>
+    ) 
   }
 
   return (
@@ -60,4 +85,5 @@ export default CreateReviewButton;
 
 CreateReviewButton.defaultProps = {
   hasReviewed: '',
+  iconButton: false
 };

@@ -20,6 +20,6 @@ const navigationSlice = createSlice({
 
 export const { setOpenNavigation } = navigationSlice.actions;
 
-export const isNavigationOpen = (state:RootState) => state.navigation.navigationOpen;
+export const isNavigationOpen = (state: RootState) => state.navigation.navigationOpen;
 
 export default navigationSlice.reducer;

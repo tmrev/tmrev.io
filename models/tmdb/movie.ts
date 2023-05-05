@@ -1,4 +1,4 @@
-import { TmrevReview } from '../tmrev';
+import { TmrevReview } from "../tmrev";
 
 /* eslint-disable no-unused-vars */
 interface Movie {
@@ -27,59 +27,59 @@ interface Movie {
   video: boolean;
   vote_average: number;
   vote_count: number;
-  imdb?: IMDB
+  imdb?: IMDB;
   credits: Credits;
   release_dates: ReleaseDates;
   reviews: Reviews;
-  tmrevReviews: TmrevReview[]
+  tmrevReviews: TmrevReview[];
 }
 
 interface IMDB {
-  '_id': string,
-  'uid': string,
-  'titleType': string,
-  'primaryTitle': string,
-  'originalTitle': string,
-  'isAdult': string,
-  'startYear': string,
-  'endYear': string,
-  'runtimeMinutes': string,
-  'genres': string,
-  'averageRating': string,
-  'numVotes': string
+  _id: string;
+  uid: string;
+  titleType: string;
+  primaryTitle: string;
+  originalTitle: string;
+  isAdult: string;
+  startYear: string;
+  endYear: string;
+  runtimeMinutes: string;
+  genres: string;
+  averageRating: string;
+  numVotes: string;
 }
 
 interface MovieQuery {
   movie_id: number;
-  language?: string
-  append_to_response?: string
+  language?: string;
+  append_to_response?: string;
 }
 
 type GetMovieReviewSortBy =
-'averagedAdvancedScore.asc'|
-'averagedAdvancedScore.desc'|
-'acting.asc.advancedScore'|
-'acting.desc.advancedScore'|
-'characters.asc.advancedScore'|
-'characters.desc.advancedScore'|
-'cinematography.asc.advancedScore'|
-'cinematography.desc.advancedScore'|
-'climax.asc.advancedScore'|
-'climax.desc.advancedScore'|
-'ending.asc.advancedScore'|
-'ending.desc.advancedScore'|
-'music.asc.advancedScore'|
-'music.desc.advancedScore'|
-'personalScore.asc.advancedScore'|
-'personalScore.desc.advancedScore'|
-'plot.asc.advancedScore'|
-'plot.desc.advancedScore'|
-'theme.asc.advancedScore'|
-'theme.desc.advancedScore'|
-'visuals.asc.advancedScore'|
-'visuals.desc.advancedScore'|
-'reviewedDate.asc'|
-'reviewedDate.desc'
+  | "averagedAdvancedScore.asc"
+  | "averagedAdvancedScore.desc"
+  | "acting.asc.advancedScore"
+  | "acting.desc.advancedScore"
+  | "characters.asc.advancedScore"
+  | "characters.desc.advancedScore"
+  | "cinematography.asc.advancedScore"
+  | "cinematography.desc.advancedScore"
+  | "climax.asc.advancedScore"
+  | "climax.desc.advancedScore"
+  | "ending.asc.advancedScore"
+  | "ending.desc.advancedScore"
+  | "music.asc.advancedScore"
+  | "music.desc.advancedScore"
+  | "personalScore.asc.advancedScore"
+  | "personalScore.desc.advancedScore"
+  | "plot.asc.advancedScore"
+  | "plot.desc.advancedScore"
+  | "theme.asc.advancedScore"
+  | "theme.desc.advancedScore"
+  | "visuals.asc.advancedScore"
+  | "visuals.desc.advancedScore"
+  | "reviewedDate.asc"
+  | "reviewedDate.desc";
 
 interface MovieReviewQuery {
   count?: number;
@@ -89,8 +89,8 @@ interface MovieReviewQuery {
 }
 
 interface MovieReviewPayload {
-  movie_id: number
-  query?: MovieReviewQuery
+  movie_id: number;
+  query?: MovieReviewQuery;
 }
 
 interface Genre {
@@ -148,11 +148,11 @@ interface Cast {
 }
 
 enum OriginalLanguage {
-  CS = 'cs',
-  Empty = '',
-  En = 'en',
-  Es = 'es',
-  Fr = 'fr',
+  CS = "cs",
+  Empty = "",
+  En = "en",
+  Es = "es",
+  Fr = "fr",
 }
 
 interface ReleaseDates {
@@ -203,13 +203,24 @@ interface SpokenLanguage {
 }
 
 export type {
-  AuthorDetails, Buy, Cast, Credits,
-  Genre, GetMovieReviewSortBy, IMDB,
-  Movie, MovieQuery, MovieReviewPayload,
+  AuthorDetails,
+  Buy,
+  Cast,
+  Credits,
+  Genre,
+  GetMovieReviewSortBy,
+  IMDB,
+  Movie,
+  MovieQuery,
+  MovieReviewPayload,
   MovieReviewQuery,
   OriginalLanguage,
-  ProductionCompany, ProductionCountry, ReleaseDate,
+  ProductionCompany,
+  ProductionCountry,
+  ReleaseDate,
   ReleaseDates,
-  Reviews, ReviewsResult,
-  SpokenLanguage, WatchProviderResponse,
+  Reviews,
+  ReviewsResult,
+  SpokenLanguage,
+  WatchProviderResponse,
 };

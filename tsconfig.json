@@ -1,11 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -19,14 +15,23 @@
     "jsx": "preserve",
     "incremental": true,
     "strictNullChecks": true,
-    "downlevelIteration": true
+    "downlevelIteration": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["*"],
+      "@/config/*": ["config/*"],
+      "@/components/*": ["components/*"],
+      "@/constants/*": ["constants/*"],
+      "@/data/*": ["data/*"],
+      "@/hooks/*": ["hooks/*"],
+      "@/models/*": ["models/*"],
+      "@/pages/*": ["pages/*"],
+      "@/provider/*": ["provider/*"],
+      "@/redux/*": ["redux/*"],
+      "@/tmrev/*": ["tmrev/*"],
+      "@/utils/*": ["utils/*"]
+    }
   },
-  "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx"
-, "utils/firebase.js"  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "utils/firebase.js"],
+  "exclude": ["node_modules"]
 }

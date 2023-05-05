@@ -16,7 +16,7 @@ const Crew:FunctionComponent<Props> = ({ title, cast }: Props) => {
       <span className="w-max">{`${title}: `}</span>
       <div className="flex flex-col md:flex-row flex-wrap">
         {cast.map((castMember) => (
-          <Link key={castMember.id} passHref href="/">
+          <Link key={castMember.id} passHref href={`/people/${castMember.id}`}>
             <a className="text-white hover:underline mr-3">{castMember.original_name}</a>
           </Link>
         ))}

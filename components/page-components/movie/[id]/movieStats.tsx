@@ -1,7 +1,6 @@
 import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
-import { useAppSelector } from '../../../../hooks';
 import { AllReviewsResponse } from '../../../../models/tmrev';
 import { useAuth } from '../../../../provider/authUserContext';
 import { roundWithMaxPrecision } from '../../../../utils/common';
@@ -22,7 +21,6 @@ const MovieStats:FunctionComponent<Props> = ({
   const { reviews, avgScore } = tmrev.body;
 
   const { user } = useAuth();
-  const { navigationOpen } = useAppSelector((state) => state.navigation);
 
   const userReview = useMemo(() => {
     if (!reviews || !user) return [];
@@ -172,7 +170,7 @@ const MovieStats:FunctionComponent<Props> = ({
   }
 
   return (
-    <div className={` ${navigationOpen ? 'xl:max-w-4xl' : 'max-w-full'}  space-y-8`}>
+    <div className="max-w-full  space-y-8">
       {!previewMode && (
         <div className="flex-col items-center relative">
           <HeaderText headingType="h2">

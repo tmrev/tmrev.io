@@ -163,7 +163,7 @@ export const tmrevApi = createApi({
         url: '/movie/just-reviewed',
       }),
     }),
-    getList: builder.query<WatchList, GetListPayload >({
+    getList: builder.query<WatchList, GetListPayload>({
       providesTags: ['WATCH_LIST'],
       query: (body) => ({
         headers: {
@@ -216,7 +216,7 @@ export const tmrevApi = createApi({
     }),
     search: builder.query<SearchResponse, string>({
       query: (data) => ({
-        url: `/search?q=${data}`,
+        url: `/search?q=${data}`
       }),
     }),
     updateTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
@@ -276,6 +276,7 @@ export const tmrevApi = createApi({
 
     return null;
   },
+  reducerPath: 'tmrevApi',
   tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW'],
 });
 

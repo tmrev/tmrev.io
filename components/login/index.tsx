@@ -10,7 +10,9 @@ import { useAuth } from '../../provider/authUserContext';
 import { tmrevAPI } from '../../redux/api';
 import {
   Content,
-  setClearModal, setModalContent, setOpenModal,
+  setClearModal,
+  setModalContent,
+  setOpenModal,
 } from '../../redux/slice/modalSlice';
 import { handleError } from '../../utils/firebase';
 import Button from '../common/Button';
@@ -19,12 +21,15 @@ import HeaderText from '../common/typography/headerText';
 import RegisterPanel, { createTMREVAccount } from '../register';
 
 interface Props {
-  isModal: boolean
-  redirectPath: string
+  isModal: boolean;
+  redirectPath: string;
 }
 
 const schema = yup.object().shape({
-  email: yup.string().email('Must have a valid Email').required('Email is required'),
+  email: yup
+    .string()
+    .email('Must have a valid Email')
+    .required('Email is required'),
   password: yup.string().required('Password is required'),
 });
 
@@ -33,9 +38,14 @@ const defaultValues = {
   password: '',
 };
 
-const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) => {
+const LoginPanel: FunctionComponent<Props> = ({
+  isModal,
+  redirectPath,
+}: Props) => {
   const {
-    register, handleSubmit, formState: { errors },
+    register,
+    handleSubmit,
+    formState: { errors },
   } = useForm({
     defaultValues,
     resolver: yupResolver(schema),
@@ -62,8 +72,10 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
   };
 
   const openRegisterModal = () => {
-    const content:Content = {
-      children: <RegisterPanel isModal redirectPath={`${router.asPath}/review`} />,
+    const content: Content = {
+      children: (
+        <RegisterPanel isModal redirectPath={`${router.asPath}/review`} />
+      ),
       closeFunc: () => dispatch(setOpenModal(false)),
       description: 'enorder to review a movie on trmev you need to login',
       outsideClick: true,
@@ -99,7 +111,10 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
 
   return (
     <div className="px-4 py-8 bg-gray-100 dark:bg-tmrev-gray-dark rounded w-full max-w-2xl flex justify-center items-center">
-      <form className="flex flex-col w-full space-y-4" onSubmit={handleSubmit(onSubmit)}>
+      <form
+        className="flex flex-col w-full space-y-4"
+        onSubmit={handleSubmit(onSubmit)}
+      >
         <HeaderText headingType="h1">The Movie Review (Login)</HeaderText>
         <Button onClick={onGoogle}>Login With Google</Button>
         <Input
@@ -109,11 +124,16 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
           placeholder="Email"
           type="email"
         />
-        <Input error={errors.password} {...register('password')} placeholder="Password" type="password" />
-        <Button type="submit" variant="primary">Login</Button>
-        {firebaseError && (
-          <p className="text-red-500 mt-1">{firebaseError}</p>
-        )}
+        <Input
+          error={errors.password}
+          {...register('password')}
+          placeholder="Password"
+          type="password"
+        />
+        <Button type="submit" variant="primary">
+          Login
+        </Button>
+        {firebaseError && <p className="text-red-500 mt-1">{firebaseError}</p>}
         {!isModal ? (
           <Link passHref href="/register">
             <a className="w-full text-center text-blue-400">
@@ -121,11 +141,13 @@ const LoginPanel:FunctionComponent<Props> = ({ isModal, redirectPath }:Props) =>
             </a>
           </Link>
         ) : (
-          <Button className="w-full text-center hover:no-underline " onClick={openRegisterModal}>
+          <Button
+            className="w-full text-center hover:no-underline "
+            onClick={openRegisterModal}
+          >
             <p className="text-blue-400">Need an account?</p>
           </Button>
         )}
-
       </form>
     </div>
   );

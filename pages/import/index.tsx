@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect } from 'react';
 
-import HeaderText from '../../components/common/typography/headerText';
+import HeaderText from '@/components/common/typography/headerText';
 
 const Import: NextPage = () => {
   const router = useRouter();
@@ -24,10 +24,7 @@ const Import: NextPage = () => {
         />
       </Head>
       <div className="lg:h-full h-screen text-center w-full flex justify-center items-center">
-        <Link
-          passHref
-          href="/import/imdb"
-        >
+        <Link passHref href="/import/imdb">
           <a className="bg-tmrev-gray-dark p-4 rounded w-1/2 h-1/2 flex flex-col space-y-6 items-center justify-center">
             <HeaderText>import imdb files</HeaderText>
             <div className="relative h-16 w-16 md:w-32">
@@ -42,7 +39,6 @@ const Import: NextPage = () => {
         </Link>
       </div>
     </>
-
   );
 };
 
