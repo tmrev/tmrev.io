@@ -73,7 +73,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
   };
 
   return (
-    <div key={_id} className="flex items-start p-3 space-x-3">
+    <div key={_id} className="flex items-start p-3 space-x-3 bg-tmrev-gray-dark rounded">
       <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full flex-none relative">
         <Image
           alt={`${profile.firstName} ${profile.lastName}`}

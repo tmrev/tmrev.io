@@ -45,7 +45,7 @@ const MovieReviewList:FunctionComponent<Props> = ({ reviews, setQuery, total }:P
   };
 
   return (
-    <div className="divide-y space-y-8">
+    <div className="space-y-8">
       <div className="flex space-y-2 lg:items-center flex-col lg:flex-row">
         <HeaderText headingType="h2">POPULAR REVIEWS</HeaderText>
         <div className="flex-grow" />

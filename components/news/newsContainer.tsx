@@ -22,9 +22,9 @@ const NewsContainer: FunctionComponent<Props> = ({movieTitle}: Props) => {
   if(!newsData?.body.results.length) return null
 
   return (
-    <div className='w-full'>
+    <div className='w-full space-y-3'>
       <HeaderText>Related News</HeaderText>
-      <div className="flex flex-wrap w-full justify-center bg-black ">
+      <div className="flex flex-wrap w-full justify-center space-y-3">
         {newsData?.body.results.map((news) => (
           <NewsCard key={news._id} news={news}/>
         ))}

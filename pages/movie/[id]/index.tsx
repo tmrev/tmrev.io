@@ -131,7 +131,7 @@ const MoviePage: NextPage<Props> = () => {
         title={data.body.title}
         url={createMediaUrl(data.body.id, data.body.title)}
       />
-      <div className="dark:bg-black bg-white relative flex flex-col justify-center items-center w-full">
+      <div className="relative flex flex-col justify-center items-center w-full">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image
             priority
@@ -140,17 +140,18 @@ const MoviePage: NextPage<Props> = () => {
             objectFit="cover"
             src={imageUrl(data.body.backdrop_path)}
           />
-          <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-[101%] w-full" />
+          <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-blacker h-[101%] w-full" />
         </div>
         <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16">
           <div
             className={clsx(
-              'dark:bg-black bg-white p-0 md:p-8 flex',
-              'lg:rounded',
+              'p-0 md:p-8 flex',
+              'rounded',
+              'lg:bg-gradient-to-b to-blacker from-black',
             )}
           >
-            <div className="flex dark:text-white text-black">
-              <div className="hidden flex-none lg:flex lg:flex-col mr-8">
+            <div className="flex text-white">
+              <div className="hidden flex-shrink-0 lg:flex lg:flex-col mr-8">
                 <Image
                   priority
                   alt={`${data.body.title} poster`}
@@ -177,7 +178,7 @@ const MoviePage: NextPage<Props> = () => {
                 />
               </div>
               <div className="flex flex-col space-y-3">
-                <div className="max-w-sm md:max-w-lg 2xl:max-w-5xl lg:mt-12">
+                <div className="w-full lg:mt-12">
                   <span className="flex items-center space-x-2">
                     <HeaderText headingType="p">movie</HeaderText>
                     <CopyLink link={`https://tmrev.io${router.asPath}`} />
@@ -186,22 +187,15 @@ const MoviePage: NextPage<Props> = () => {
                   <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
                     <span className="mr-2">{data.body.title}</span>
                     <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
-                      (
-                      {formatDate(data.body.release_date)}
-                      )
+                      ({formatDate(data.body.release_date)})
                     </span>
                   </h1>
-                  <p className="mt-8">{data.body.overview}</p>
+                  <p className="mt-3 md:mt-8">{data.body.overview}</p>
                   <WatchedButton movie={data} review={reviewData} />
                   <div className="w-full lg:hidden">
                     <CreateReviewButton hasReviewed={hasReviewed()} />
                     <AddToWatchList movie={data.body} />
                   </div>
-                </div>
-                <div className="divide-y mt-8 mb-40 md:flex flex-col">
-                  <Crew cast={directors} title="Directors" />
-                  <Crew cast={producers} title="Producers" />
-                  <Crew cast={writers} title="Writers" />
                 </div>
                 <div className="!space-y-16 !mt-16 md:!mt-[7rem]">
                   <div className="block lg:hidden">
@@ -222,7 +216,7 @@ const MoviePage: NextPage<Props> = () => {
                       }}
                     />
                   </div>
-                  <MovieStats
+                  {/* <MovieStats
                     isFetching={isFetching}
                     isLoading={isLoading}
                     tmrev={reviewData}
@@ -237,12 +231,13 @@ const MoviePage: NextPage<Props> = () => {
                     id={parseMediaId(id as string)}
                     title={data.body.title}
                     year={data.body.release_date.split('-')[0]}
-                  />
+                  /> */}
                   <NewsContainer movieTitle={data.body.title} />
-                  <AdditionalData movie={data.body} />
+                  {/* <AdditionalData movie={data.body} /> */}
                 </div>
               </div>
             </div>
+
           </div>
         </div>
       </div>

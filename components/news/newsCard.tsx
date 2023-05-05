@@ -14,7 +14,7 @@ const NewsCard: FunctionComponent<Props> = ({news}: Props) => {
 
 
   return (
-    <a className='w-full rounded m-3 bg-tmrev-gray-dark text-white h-max' href={news.url} rel="noreferrer" target='_blank'>
+    <a className='w-full rounded bg-black text-white h-max' href={news.url} rel="noreferrer" target='_blank'>
       <div className='flex flex-row'>
         {news.img && (
           <img 
