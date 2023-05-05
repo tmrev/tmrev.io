@@ -19,7 +19,7 @@ const News: NextPage = () => {
 
   const { q } = router.query
 
-  const [search, setSearch] = useState<string>( String(q) || '')
+  const [search, setSearch] = useState<string>(q as string || '')
   const [page, setPage] = useState<number>(1)
   const [results, setResults] = useState<DiscoverMovieResult[]>([])
 
@@ -93,7 +93,6 @@ const News: NextPage = () => {
             )
           }
           placeholder='Search'
-          value={search}
           onChange={debouncedSearch}
         />
       </div>
