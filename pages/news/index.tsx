@@ -4,6 +4,7 @@ import { useRouter } from 'next/router'
 import React, { useCallback, useEffect, useState } from 'react'
 import { twMerge } from 'tailwind-merge'
 
+import MetaTags from '@/components/common/MetaTag'
 import NewsPanel from '@/components/page-components/news/newsPanel'
 import NewsPanelCard from '@/components/page-components/news/newsPanelCard'
 import useScroll from '@/hooks/useScroll'
@@ -74,32 +75,41 @@ const News: NextPage = () => {
   }
 
   return (
-    <div className='p-3 space-y-3'>
-      <div className='text-white'>
-        <h1 className='text-2xl font-semibold' >Discover</h1>
-        <p className='text-sm font-light' >Movie news from around the world.</p>
-      </div>
-      <div className='w-full relative text-white flex items-center p-2 rounded bg-black space-x-3'>
-        <span className="material-icons">
+    <>
+      <MetaTags
+        description=
+          "Stay up-to-date with the latest movie news, trailers, and reviews at TMREV. Explore in-depth analysis, exclusive interviews, and expert insights from the world of cinema. Uncover hidden gems and upcoming blockbusters with our comprehensive coverage of both indie films and Hollywood hits. Dive into the world of movies like never before - only on TMREV."
+        title='Latest Movie News, Trailers & Reviews | In-Depth Film Coverage - TMREV'
+        url='https://tmrev.io/news'
+      />
+      <div className='p-3 space-y-3'>
+        <div className='text-white'>
+          <h1 className='text-2xl font-semibold' >Discover</h1>
+          <p className='text-sm font-light' >Movie news from around the world.</p>
+        </div>
+        <div className='w-full relative text-white flex items-center p-2 rounded bg-black space-x-3'>
+          <span className="material-icons">
           search
-        </span>
-        <input 
-          className={
-            twMerge('bg-transparent text-white',
-              'focus:outline-white focus:outline-0',
-              "focus:ring-0",
-              'w-full h-full'
-            )
-          }
-          placeholder='Search'
-          onChange={debouncedSearch}
-        />
+          </span>
+          <input 
+            className={
+              twMerge('bg-transparent text-white',
+                'focus:outline-white focus:outline-0',
+                "focus:ring-0",
+                'w-full h-full'
+              )
+            }
+            placeholder='Search'
+            onChange={debouncedSearch}
+          />
+        </div>
+        <div className='space-y-3'>
+          {renderDiscover()}
+          {renderSearch()}
+        </div>
       </div>
-      <div className='space-y-3'>
-        {renderDiscover()}
-        {renderSearch()}
-      </div>
-    </div>
+    </>
+
   )
 
 }
