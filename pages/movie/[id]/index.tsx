@@ -8,7 +8,6 @@ import React, { useCallback, useMemo, useState } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
-import NewsCard from '@/components/news/newsCard';
 import NewsContainer from '@/components/news/newsContainer';
 import AdditionalData from '@/components/page-components/movie/[id]/additionalData';
 import AddToWatchList from '@/components/page-components/movie/[id]/addToWatchListButton';
@@ -31,7 +30,6 @@ import {
   useGetAllReviewsQuery,
   useGetMovieQuery,
 } from '@/redux/api';
-import { useSearchNewsQuery } from '@/redux/api/news';
 import { wrapper } from '@/redux/store';
 import formatDate from '@/utils/formatDate';
 import imageUrl from '@/utils/imageUrl';
@@ -79,8 +77,6 @@ const MoviePage: NextPage<Props> = () => {
     movieReviewPayload || skipToken,
     { skip: router.isFallback },
   );
-
-  const {data: newsData} = useSearchNewsQuery({q: data?.body.title || ''}, {skip: !data})
 
   const directors = useMemo(() => {
     if (!data) return [];
@@ -236,24 +232,18 @@ const MoviePage: NextPage<Props> = () => {
                     setQuery={setQuery}
                     total={reviewData.body.total}
                   />
-
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
                     title={data.body.title}
                     year={data.body.release_date.split('-')[0]}
                   />
+                  <NewsContainer movieTitle={data.body.title} />
                   <AdditionalData movie={data.body} />
                 </div>
               </div>
             </div>
-
           </div>
-          <NewsContainer>
-            {newsData?.body.results.map((news) => (
-              <NewsCard key={news._id} news={news}/>
-            ))}
-          </NewsContainer>
         </div>
       </div>
     </>

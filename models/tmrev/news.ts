@@ -55,4 +55,6 @@ export interface GatherNewsResponse {
 
 export interface NewsQuery {
   q: string
+  limit?: number,
+  offset?: number
 }

@@ -31,6 +31,13 @@ const Navigation: FunctionComponent<Props> = () => {
     [
       {
         auth: false,
+        icon: 'newspaper',
+        mobileOnly: false,
+        title: 'News',
+        url: '/news',
+      },
+      {
+        auth: false,
         icon: 'movie',
         mobileOnly: false,
         title: 'Movies',
