@@ -64,6 +64,10 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
     setPage(1)
   }, [q])
 
+  useEffect(() => {
+    setPage(page + 1)
+  }, [q])
+
 
   useEffect(() => {
     if(!yearData || topic !== Topic.YEAR) return
