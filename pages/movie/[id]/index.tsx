@@ -31,7 +31,7 @@ import {
   useGetMovieQuery,
 } from '@/redux/api';
 import { wrapper } from '@/redux/store';
-import { numberShortHand } from '@/utils/common';
+import { numberShortHand, roundWithMaxPrecision } from '@/utils/common';
 import formatDate from '@/utils/formatDate';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '@/utils/mediaID';
@@ -171,7 +171,7 @@ const MoviePage: NextPage<Props> = () => {
                         width={32}
                       />
                       <div className='space-x-1'>
-                        <span className='font-bold text-2xl' >{reviewData.body.avgScore.totalScore}</span> 
+                        <span className='font-bold text-2xl' >{roundWithMaxPrecision(reviewData.body.avgScore.totalScore, 1)}</span> 
                         <span className='font-light text-sm' >/</span>
                         <span className='font-light text-sm'>10</span>
                       </div>
