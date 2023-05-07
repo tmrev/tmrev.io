@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { skipToken } from '@reduxjs/toolkit/query';
 import clsx from 'clsx';
 import { NextPage } from 'next';
@@ -9,12 +10,10 @@ import React, { useCallback, useMemo, useState } from 'react';
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
 import NewsContainer from '@/components/news/newsContainer';
-import AdditionalData from '@/components/page-components/movie/[id]/additionalData';
 import AddToWatchList from '@/components/page-components/movie/[id]/addToWatchListButton';
 import CopyLink from '@/components/page-components/movie/[id]/copyLink';
 import CreateReviewButton from '@/components/page-components/movie/[id]/createReviewButton';
-import Crew from '@/components/page-components/movie/[id]/crew';
-import MetaData from '@/components/page-components/movie/[id]/metaData';
+import MovieDescription from '@/components/page-components/movie/[id]/movieDescription';
 import MovieRevenue from '@/components/page-components/movie/[id]/movieRevenue';
 import MovieStats from '@/components/page-components/movie/[id]/movieStats';
 import MovieReviewList from '@/components/page-components/movie/reviews/reviewList';
@@ -23,6 +22,7 @@ import { firebaseAdmin } from '@/config/firebaseAdmin';
 import useFirebaseAuth from '@/hooks/userAuth';
 import { MovieQuery } from '@/models/tmdb';
 import { MovieReviewPayload, MovieReviewQuery } from '@/models/tmdb/movie';
+import tmrevIco from '@/public/tmrlogo.svg';
 import {
   getAllReviews,
   getMovie,
@@ -31,6 +31,7 @@ import {
   useGetMovieQuery,
 } from '@/redux/api';
 import { wrapper } from '@/redux/store';
+import { numberShortHand } from '@/utils/common';
 import formatDate from '@/utils/formatDate';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '@/utils/mediaID';
@@ -43,6 +44,7 @@ const MoviePage: NextPage<Props> = () => {
 
   const { id } = router.query;
 
+  // eslint-disable-next-line no-unused-vars
   const [query, setQuery] = useState<MovieReviewQuery>({
     include_user_review: user?.uid,
     sort_by: 'reviewedDate.desc',
@@ -77,24 +79,6 @@ const MoviePage: NextPage<Props> = () => {
     movieReviewPayload || skipToken,
     { skip: router.isFallback },
   );
-
-  const directors = useMemo(() => {
-    if (!data) return [];
-
-    return data.body.credits.crew.filter((cast) => cast.job === 'Director');
-  }, [data]);
-
-  const producers = useMemo(() => {
-    if (!data) return [];
-
-    return data.body.credits.crew.filter((cast) => cast.job === 'Producer');
-  }, [data]);
-
-  const writers = useMemo(() => {
-    if (!data) return [];
-
-    return data.body.credits.crew.filter((cast) => cast.job === 'Screenplay');
-  }, [data]);
 
   const ageRating = useMemo(() => {
     if (!data) return [];
@@ -131,7 +115,7 @@ const MoviePage: NextPage<Props> = () => {
         title={data.body.title}
         url={createMediaUrl(data.body.id, data.body.title)}
       />
-      <div className="relative flex flex-col justify-center items-center w-full">
+      <div className="relative flex flex-col justify-center items-center">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image
             priority
@@ -145,7 +129,7 @@ const MoviePage: NextPage<Props> = () => {
         <div className="px-4 lg:px-8 mb-6 mt-0 lg:-mt-16">
           <div
             className={clsx(
-              'p-0 md:p-8 flex',
+              'p-0 md:p-8 flex w-full lg:max-w-5xl',
               'rounded',
               'lg:bg-gradient-to-b to-blacker from-black',
             )}
@@ -163,50 +147,47 @@ const MoviePage: NextPage<Props> = () => {
                 />
                 <CreateReviewButton hasReviewed={hasReviewed()} />
                 <AddToWatchList movie={data.body} />
-                <MetaData
-                  ageRating={ageRating.length ? ageRating[0].certification : ''}
-                  genres={data.body.genres}
-                  imdb={data.body.imdb}
-                  movie={data.body}
-                  runtime={data.body.runtime}
-                  tmdb={{
-                    id: data.body.id,
-                    title: data.body.title,
-                    vote_average: data.body.vote_average,
-                    vote_count: data.body.vote_count,
-                  }}
-                />
               </div>
               <div className="flex flex-col space-y-3">
-                <div className="w-full lg:mt-12">
+                <div className=" lg:mt-12">
                   <span className="flex items-center space-x-2">
                     <HeaderText headingType="p">movie</HeaderText>
                     <CopyLink link={`https://tmrev.io${router.asPath}`} />
                     <CreateReviewButton iconButton hasReviewed={hasReviewed()} />
                   </span>
-                  <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
-                    <span className="mr-2">{data.body.title}</span>
-                    <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
+                  <div className='space-y-3'>
+                    <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
+                      <span className="mr-2">{data.body.title}</span>
+                      <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
                       ({formatDate(data.body.release_date)})
-                    </span>
-                  </h1>
-                  <p className="mt-3 md:mt-8">{data.body.overview}</p>
-                  <WatchedButton movie={data} review={reviewData} />
-                  <div className="w-full lg:hidden">
-                    <CreateReviewButton hasReviewed={hasReviewed()} />
-                    <AddToWatchList movie={data.body} />
-                  </div>
-                </div>
-                <div className="!space-y-16 !mt-16 md:!mt-[7rem]">
-                  <div className="block lg:hidden">
-                    <HeaderText headingType="h2">Information</HeaderText>
-                    <MetaData
+                      </span>
+                    </h1>
+                    <div className='bg-black rounded p-1 flex items-center space-x-3 w-full'>
+
+                      <Image
+                        height={32}
+                        layout='fixed'
+                        src={tmrevIco}
+                        width={32}
+                      />
+                      <div className='space-x-1'>
+                        <span className='font-bold text-2xl' >{reviewData.body.avgScore.totalScore}</span> 
+                        <span className='font-light text-sm' >/</span>
+                        <span className='font-light text-sm'>10</span>
+                      </div>
+           
+
+                      <span className='text-xs opacity-50' >({numberShortHand(reviewData.body.total)})</span>
+                    </div>
+                    <WatchedButton movie={data} review={reviewData} />
+                    <MovieDescription
                       ageRating={
                         ageRating.length ? ageRating[0].certification : ''
                       }
                       genres={data.body.genres}
                       imdb={data.body.imdb}
                       movie={data.body}
+                      overview={data.body.overview}
                       runtime={data.body.runtime}
                       tmdb={{
                         id: data.body.id,
@@ -216,28 +197,33 @@ const MoviePage: NextPage<Props> = () => {
                       }}
                     />
                   </div>
-                  {/* <MovieStats
+                  <div className="w-full lg:hidden">
+                    <CreateReviewButton hasReviewed={hasReviewed()} />
+                    <AddToWatchList movie={data.body} />
+                  </div>
+                </div>
+                <div className=" space-y-3">
+                  <MovieReviewList
+                    reviews={reviewData.body.reviews}
+                    // setQuery={setQuery}
+                    // total={reviewData.body.total}
+                  />
+                  <MovieStats
                     isFetching={isFetching}
                     isLoading={isLoading}
                     tmrev={reviewData}
                   />
-                  <MovieReviewList
-                    reviews={reviewData.body.reviews}
-                    setQuery={setQuery}
-                    total={reviewData.body.total}
-                  />
+
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
                     title={data.body.title}
                     year={data.body.release_date.split('-')[0]}
-                  /> */}
+                  />
                   <NewsContainer movieTitle={data.body.title} />
-                  {/* <AdditionalData movie={data.body} /> */}
                 </div>
               </div>
             </div>
-
           </div>
         </div>
       </div>

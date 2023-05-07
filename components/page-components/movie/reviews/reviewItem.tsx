@@ -1,29 +1,25 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import React, {
   FunctionComponent, memo, useState,
 } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
-import useFirebaseAuth from '../../../../hooks/userAuth';
 import { TmrevReview } from '../../../../models/tmrev';
 import { capitalize, extractNameFromEmail } from '../../../../utils/common';
-import Button from '../../../common/Button';
 
 interface Props {
   review: TmrevReview | null
+  compact?: boolean
 }
 
-const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
+const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
   const [viewMore, setViewMore] = useState<boolean>(false);
   if (!review) return null;
   const {
     userId, _id, notes, averagedAdvancedScore, profile,
   } = review;
-  const { user } = useFirebaseAuth();
-  const router = useRouter();
 
   const renderUserName = () => {
     if (!profile) return 'Error';
@@ -48,15 +44,13 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
     return (
       <div className="space-y-4">
         <button
-          className=" bg-tmrev-gray-dark p-2 rounded"
+          className="text-white hover:underline"
           type="button"
           onClick={() => setViewMore(!viewMore)}
         >
-          View
+          See
           {' '}
-          {`${viewMore ? 'Less' : 'Additional'}`}
-          {' '}
-          Ratings
+          {`${viewMore ? 'Less' : 'More'}`}
         </button>
         { viewMore && (
           <ul>
@@ -72,9 +66,41 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
     );
   };
 
+  if(compact) {
+    return (
+      <div className='flex items-center space-x-3'>
+        <div className="h-8 w-8 bg-white rounded-full flex-none relative">
+          <Image
+            alt={`${profile.firstName} ${profile.lastName}`}
+            className="rounded-full"
+            layout="fill"
+            src={profile.photoUrl || `https://avatars.dicebear.com/api/identicon/${userId}.svg`}
+          />
+        </div>
+        {review.notes ? (
+          <div>
+            <p className='line-clamp-1'>{review.notes}</p>
+          </div>
+        ): (
+          <div className="flex items-center divide-x">
+            <p className="font-semibold pr-1">
+              {renderUserName()}
+            </p>
+            <p className="opacity-75 pl-1">
+          User Rating
+              {' '}
+              {averagedAdvancedScore}
+            </p>
+          </div>
+        )}
+
+      </div>
+    )
+  }
+
   return (
-    <div key={_id} className="flex items-start p-3 space-x-3 bg-tmrev-gray-dark rounded">
-      <div className="lg:h-16 lg:w-16 h-8 w-8 bg-white rounded-full flex-none relative">
+    <div key={_id} className="flex items-start space-x-3">
+      <div className="h-8 w-8 bg-white rounded-full flex-none relative">
         <Image
           alt={`${profile.firstName} ${profile.lastName}`}
           className="rounded-full"
@@ -83,38 +109,33 @@ const ReviewItem:FunctionComponent<Props> = ({ review }:Props) => {
         />
       </div>
       <div
-        className="w-full space-y-4"
+        className="w-full"
       >
-        <div className="flex space-x-4 items-center">
-          <p className="font-semibold max-w-[350px] min-w-[200px]">
-            <span className="font-normal opacity-75">Reviewed by</span>
-            {' '}
+        <div className="flex items-center divide-x">
+          <p className="font-semibold pr-1">
             {renderUserName()}
           </p>
-          {user?.uid === userId && (
-            <Button title="edit" variant="icon" onClick={() => router.push(`${router.asPath}/update/${_id}`)}>
-              <span className="material-icons">
-                edit
-              </span>
-            </Button>
-          )}
+          <p className="opacity-75 pl-1">
+          User Rating
+            {' '}
+            {averagedAdvancedScore}
+          </p>
         </div>
-
-        <div className="max-h-60 overflow-auto w-full">
+        <div className="max-h-60 overflow-auto">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {notes}
           </ReactMarkdown>
         </div>
-
-        <p className="opacity-75">
-          User Rating
-          {' '}
-          {averagedAdvancedScore}
-        </p>
-        {renderViewMore()}
+        <div className='mt-3'>
+          {renderViewMore()}
+        </div>
       </div>
     </div>
   );
 };
+
+ReviewItem.defaultProps = {
+  compact: false
+}
 
 export default memo(ReviewItem);

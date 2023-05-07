@@ -37,13 +37,17 @@ module.exports = {
         },
         white: '#FFFDFA',
       },
+      transitionProperty: {
+        'height': 'height',
+        'spacing': 'margin, padding',
+      },
       zIndex: {
         "15": "15",
         "25": "25",
         "35": "35",
         "45": "45",
         "5": "5",
-      },
+      }
     },
   },
 };
