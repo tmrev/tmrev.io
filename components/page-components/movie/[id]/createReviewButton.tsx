@@ -1,6 +1,8 @@
 import { useRouter } from 'next/router';
 import React, { FunctionComponent } from 'react';
 
+import FilledButton from '@/components/button/filled';
+
 import { useAppDispatch } from '../../../../hooks';
 import { useAuth } from '../../../../provider/authUserContext';
 import { Content, setModalContent, setOpenModal } from '../../../../redux/slice/modalSlice';
@@ -48,13 +50,12 @@ const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed, iconButton }
     }
 
     return (
-      <Button
+      <FilledButton
         className="mt-4 w-full"
-        variant="primary"
         onClick={() => router.push(`${router.asPath}/update/${hasReviewed}`)}
       >
         Update Review
-      </Button>
+      </FilledButton>
     );
   }
 
@@ -71,13 +72,12 @@ const CreateReviewButton:FunctionComponent<Props> = ({ hasReviewed, iconButton }
   }
 
   return (
-    <Button
+    <FilledButton
       className="mt-4 w-full"
-      variant="primary"
       onClick={handleMovieReview}
     >
       Review Movie
-    </Button>
+    </FilledButton>
   );
 };
 

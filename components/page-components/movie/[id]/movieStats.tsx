@@ -3,7 +3,6 @@ import Skeleton from 'react-loading-skeleton';
 
 import { AllReviewsResponse } from '../../../../models/tmrev';
 import { useAuth } from '../../../../provider/authUserContext';
-import { roundWithMaxPrecision } from '../../../../utils/common';
 import { getMedian, getStandardDeviation } from '../../../../utils/math';
 import RadarChart from '../../../common/charts/radar';
 import HeaderText from '../../../common/typography/headerText';
@@ -170,16 +169,8 @@ const MovieStats:FunctionComponent<Props> = ({
   }
 
   return (
-    <div className="max-w-full  space-y-8">
-      {!previewMode && (
-        <div className="flex-col items-center relative">
-          <HeaderText headingType="h2">
-            THE MOVIE REVIEW (
-            {roundWithMaxPrecision(avgScore.totalScore, 1)}
-            )
-          </HeaderText>
-        </div>
-      )}
+    <div className="max-w-[578px] bg-black rounded p-2 overflow-auto">
+      <h2 className='text-lg font-semibold' >Plotted Reviews</h2>
       <RadarChart
         datasets={datasets}
         labels={labels}
