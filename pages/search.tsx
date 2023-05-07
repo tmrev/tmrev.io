@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { useEffect, useMemo, useState } from 'react';
 
+import Button from '@/components/common/Button';
 import MetaTags from '@/components/common/MetaTag';
 import Spinner from '@/components/common/spinner';
 import { NoImage } from '@/constants';
@@ -64,6 +65,13 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
     setPage(1)
   }, [q])
 
+  useEffect(() => {
+    setPage(page + 1)
+  }, [q])
+
+  const handleLoadMore = () => {
+    setPage(page + 1)
+  }
 
   useEffect(() => {
     if(!yearData || topic !== Topic.YEAR) return
@@ -183,6 +191,9 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
         {renderMovieData()}
         {renderPeopleData()}
         {renderYearData()}
+        <div className='w-full flex justify-center' >
+          <Button variant='primary' onClick={handleLoadMore} >Load More Data</Button>
+        </div>
       </div>
     </div>
   );
