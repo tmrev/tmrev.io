@@ -5,7 +5,7 @@ import { GatherNewsResponse, NewsQuery, NewsResponse, NewsSearchResponse, Trendi
 
 export const newsApi = createApi({
   baseQuery: fetchBaseQuery({
-    baseUrl: 'http://localhost:8081',
+    baseUrl: process.env.NEXT_PUBLIC_NEWS_API,
     prepareHeaders: (headers) => {
       headers.set('sources', 'ULTRA_SOURCES')
       headers.set('sentiment', 'false')
