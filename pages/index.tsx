@@ -4,16 +4,19 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
 
+import Chip from '@/components/chip';
 import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
 import InformationCard from '@/components/page-components/home/informationCard';
+import { NoImage } from '@/constants';
 import {
   useBatchMoviesQuery,
   useGetDiscoverMovieQuery,
   useGetJustReviewedQuery,
   useGetTopReviewedQuery,
 } from '@/redux/api';
+import { useTrendingQuery } from '@/redux/api/news';
 import { numberShortHand } from '@/utils/common';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl } from '@/utils/mediaID';
@@ -25,6 +28,7 @@ const Home: NextPage = () => {
 
   const { data: topReviewedIds } = useGetTopReviewedQuery();
   const { data: justReviewed } = useGetJustReviewedQuery();
+  const {data: trendingNews} = useTrendingQuery({limit: 50})
 
   const batchedIds = useMemo(() => {
     if (
@@ -52,10 +56,6 @@ const Home: NextPage = () => {
   const { data: topReviewed } = useBatchMoviesQuery(batchedIds.top, {
     skip: !batchedIds.top.length,
   });
-    // eslint-disable-next-line max-len
-    // const { data: justReviewedImages } = useBatchMoviesQuery(batchedIds.just, {
-    //     skip: !batchedIds.just.length,
-    // });
 
   useEffect(() => {
     router.prefetch('/register');
@@ -103,11 +103,8 @@ const Home: NextPage = () => {
           </Link>
         </div>
       </div>
-
-
       <div className="space-y-24 mt-16">
-
-        <div className="">
+        <div>
           <div>
             <HeaderText>Top reviewed</HeaderText>
           </div>
@@ -116,9 +113,7 @@ const Home: NextPage = () => {
             content={topReviewed}
           />
         </div>
-
-
-        <div className="">
+        <div>
           <div className="flex items-center space-x-5">
             <HeaderText headingType="h2">Just reviewed</HeaderText>
             <p className="text-white font-light">
@@ -132,6 +127,42 @@ const Home: NextPage = () => {
             content={justReviewed}
           />
         </div>
+        <div>
+          <div>
+            <HeaderText headingType='h2' >Trending News</HeaderText>
+          </div>
+          <div className="grid grid-rows-1 grid-flow-col gap-3 overflow-x-auto pb-3 mt-8" >
+            {trendingNews?.body.map((news) => {
+
+              if(!news.url) return null
+
+              return (<Link key={news.url} href={news.url} target='_blank' >
+                <a className='bg-black rounded text-white md:w-60 w-32'>
+                  <img
+                    alt={news.title}
+                    className='aspect-square object-cover rounded-t'
+                    src={news.img || NoImage}
+                    width="100%"
+                  />
+                  <div className='p-2'>
+                    <h3 className=' line-clamp-2 hover:line-clamp-none' >{news.title}</h3>
+                    <div className='hidden md:block'>
+                      <Chip className='w-min'>
+                        <div className='flex items-center space-x-2'>
+                          <span className="material-icons">
+                            today
+                          </span>
+                          <span>{news.publishedDate}</span>
+                        </div>
+                      </Chip>
+                    </div>
+                  </div>
+                </a>
+              </Link>)
+            })}
+          </div>
+        </div>
+
         <div>
           <HeaderText>What we do</HeaderText>
           <div className="grid grid-cols-1  md:grid-cols-2 gap-4 mt-8">

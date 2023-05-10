@@ -1,12 +1,17 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
-import { GatherNewsResponse, NewsQuery, NewsResponse, NewsSearchResponse } from '@/models/tmrev/news';
+import { GatherNewsResponse, NewsQuery, NewsResponse, NewsSearchResponse, TrendingNewsQuery, TrendingNewsResponse } from '@/models/tmrev/news';
 
 export const newsApi = createApi({
   baseQuery: fetchBaseQuery({
-    baseUrl: 'https://news.tmrev.io',
-    prepareHeaders: (headers) => headers
+    baseUrl: 'http://localhost:8081',
+    prepareHeaders: (headers) => {
+      headers.set('sources', 'ULTRA_SOURCES')
+      headers.set('sentiment', 'false')
+
+      return headers
+    }
   }),
   endpoints: (builder) => ({
     gatherNews: builder.query<GatherNewsResponse, NewsQuery>({
@@ -27,7 +32,15 @@ export const newsApi = createApi({
         params: {
           ...params
         },
-        url: '/news/search'
+        url: '/news/advanced/search'
+      })
+    }),
+    trending: builder.query<TrendingNewsResponse, TrendingNewsQuery>({
+      query: ({ ...params }) => ({
+        params: {
+          ...params
+        },
+        url: '/news/trending'
       })
     })
   }),
@@ -45,6 +58,7 @@ export const {
   useGetNewsQuery,
   useSearchNewsQuery,
   useGatherNewsQuery,
+  useTrendingQuery,
   util: { getRunningOperationPromise }
 } = newsApi
 
