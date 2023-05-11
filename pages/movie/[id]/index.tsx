@@ -5,7 +5,7 @@ import { NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import nookies from 'nookies';
-import React, { useCallback, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
@@ -45,10 +45,18 @@ const MoviePage: NextPage<Props> = () => {
   const { id } = router.query;
 
   // eslint-disable-next-line no-unused-vars
-  const [query, setQuery] = useState<MovieReviewQuery>({
-    include_user_review: user?.uid,
-    sort_by: 'reviewedDate.desc',
-  });
+  const [query, setQuery] = useState<MovieReviewQuery>();
+
+  useEffect(() => {
+    if(!user) return
+
+    setQuery(
+      {
+        include_user_review: user.uid,
+        sort_by: 'reviewedDate.desc',
+      }
+    )
+  }, [user])
 
   const payload: MovieQuery | null = useMemo(() => {
     if (typeof id === 'string') {
@@ -162,23 +170,23 @@ const MoviePage: NextPage<Props> = () => {
                       ({formatDate(data.body.release_date)})
                       </span>
                     </h1>
-                    <div className='bg-black rounded p-1 flex items-center space-x-3 w-full'>
-
-                      <Image
-                        height={32}
-                        layout='fixed'
-                        src={tmrevIco}
-                        width={32}
-                      />
-                      <div className='space-x-1'>
-                        <span className='font-bold text-2xl' >{roundWithMaxPrecision(reviewData.body.avgScore.totalScore, 1)}</span> 
-                        <span className='font-light text-sm' >/</span>
-                        <span className='font-light text-sm'>10</span>
+                    {reviewData.body.avgScore && (
+                      <div className='bg-black rounded p-1 flex items-center space-x-3 w-full'>
+                        <Image
+                          height={32}
+                          layout='fixed'
+                          src={tmrevIco}
+                          width={32}
+                        />
+                        <div className='space-x-1'>
+                          <span className='font-bold text-2xl' >{roundWithMaxPrecision(reviewData.body.avgScore?.totalScore, 1)}</span> 
+                          <span className='font-light text-sm' >/</span>
+                          <span className='font-light text-sm'>10</span>
+                        </div>
+                        <span className='text-xs opacity-50' >({numberShortHand(reviewData.body.total)})</span>
                       </div>
-           
+                    )}
 
-                      <span className='text-xs opacity-50' >({numberShortHand(reviewData.body.total)})</span>
-                    </div>
                     <WatchedButton movie={data} review={reviewData} />
                     <MovieDescription
                       ageRating={
@@ -233,45 +241,55 @@ const MoviePage: NextPage<Props> = () => {
 
 export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async (context) => {
-    const { token } = nookies.get(context);
-    let user: any;
-
-    if (token) {
-      user = await firebaseAdmin.auth().verifyIdToken(token);
+    try {
+      const { token } = nookies.get(context);
+      let user: any;
+  
+      if (token) {
+        user = await firebaseAdmin.auth().verifyIdToken(token);
+      }
+  
+      const id = context.params?.id;
+  
+      if (typeof id === 'string' && token && user) {
+        store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
+        store.dispatch(
+          getAllReviews.initiate({
+            movie_id: parseMediaId(id),
+            query: {
+              count: 10,
+              include_user_review: user.uid,
+              sort_by: 'reviewedDate.desc',
+            },
+          }),
+        );
+      } else if (typeof id === 'string') {
+        store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
+        store.dispatch(
+          getAllReviews.initiate({
+            movie_id: parseMediaId(id),
+            query: {
+              count: 1,
+              sort_by: 'reviewedDate.desc',
+            },
+          }),
+        );
+      }
+  
+      await Promise.all(getRunningOperationPromises());
+  
+      return {
+        props: {},
+      };
+    } catch (error) {
+      return {
+        props: {},
+        redirect: {
+          destination: '/login'
+        }
+      }
     }
 
-    const id = context.params?.id;
-
-    if (typeof id === 'string' && token && user) {
-      store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
-      store.dispatch(
-        getAllReviews.initiate({
-          movie_id: parseMediaId(id),
-          query: {
-            count: 10,
-            include_user_review: user.uid,
-            sort_by: 'reviewedDate.desc',
-          },
-        }),
-      );
-    } else if (typeof id === 'string') {
-      store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
-      store.dispatch(
-        getAllReviews.initiate({
-          movie_id: parseMediaId(id),
-          query: {
-            count: 1,
-            sort_by: 'reviewedDate.desc',
-          },
-        }),
-      );
-    }
-
-    await Promise.all(getRunningOperationPromises());
-
-    return {
-      props: {},
-    };
   },
 );
 

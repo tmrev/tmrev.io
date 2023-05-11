@@ -19,7 +19,7 @@ interface AllReviewsResponse {
   success: boolean
   body: {
     reviews: TmrevReview[]
-    avgScore: AdvancedScore
+    avgScore: AdvancedScore | null
     likes: number
     dislikes: number
     total: number
@@ -37,8 +37,8 @@ interface CreateTmrevReviewQuery {
   token?: string
 }
 interface CreateTmrevReviewResponse {
-  acknowledged:boolean,
-  insertedId:string
+  acknowledged: boolean,
+  insertedId: string
 }
 
 interface AdvancedScore {
