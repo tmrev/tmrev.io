@@ -1,13 +1,20 @@
+import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
 import React, {
-  FunctionComponent, memo, useState,
+  FunctionComponent, memo, useEffect, useRef, useState,
 } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
+import Chip from '@/components/chip';
+import Input from '@/components/common/Input';
+import { Profile } from '@/models/tmrev/movie';
+import { useAuth } from '@/provider/authUserContext';
+import { useAddCommentMutation } from '@/redux/api';
+
 import { TmrevReview } from '../../../../models/tmrev';
-import { capitalize, extractNameFromEmail } from '../../../../utils/common';
+import { capitalize, extractNameFromEmail, renderImageSrc } from '../../../../utils/common';
 
 interface Props {
   review: TmrevReview | null
@@ -16,24 +23,56 @@ interface Props {
 
 const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
   const [viewMore, setViewMore] = useState<boolean>(false);
+  const [viewReplies, setViewReplies] = useState<boolean>(false)
+  const [reply, setReply] = useState<boolean>(false)
+
+  const { user } = useAuth()
+
+  const [commentText, setCommentText] = useState<string>('')
+
+  const [addComment] = useAddCommentMutation()
+
+  const inputRef = useRef<HTMLInputElement>(null)
+
+  const handleSubmit = async (ev: React.FormEvent<HTMLFormElement>) => {
+    ev.preventDefault()
+
+    if(!commentText || !review || !user) return
+
+    const token = await user.getIdToken()
+
+    await addComment({comment: commentText, id: review._id, token})
+    
+    setReply(false)
+    setViewReplies(true)
+    setCommentText('')
+  }
+
+  useEffect(() => {
+    if(!reply || !inputRef.current) return
+
+    inputRef.current.focus()
+
+  }, [reply, inputRef])
+
   if (!review) return null;
   const {
     userId, _id, notes, averagedAdvancedScore, profile,
   } = review;
 
-  const renderUserName = () => {
-    if (!profile) return 'Error';
-    if (!profile.firstName || !profile.lastName) {
+  const renderUserName = (userProfile:Profile) => {
+    if (!userProfile) return 'Error';
+    if (!userProfile.firstName || !userProfile.lastName) {
       return (
         <Link passHref href={`/user/${userId}/preview`}>
-          <a>{extractNameFromEmail(profile.email)}</a>
+          <a>{extractNameFromEmail(userProfile.email)}</a>
         </Link>
       );
     }
 
     return (
       <Link passHref href={`/user/${userId}/preview`}>
-        <a>{`${profile.firstName} ${profile.lastName}`}</a>
+        <a>{`${userProfile.firstName} ${userProfile.lastName}`}</a>
       </Link>
     );
   };
@@ -42,27 +81,19 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
     if (!review.advancedScore) return null;
 
     return (
-      <div className="space-y-4">
-        <button
-          className="text-white hover:underline"
-          type="button"
-          onClick={() => setViewMore(!viewMore)}
-        >
-          See
-          {' '}
-          {`${viewMore ? 'Less' : 'More'}`}
-        </button>
-        { viewMore && (
-          <ul>
-            {Object.keys(review.advancedScore).map((key: string) => {
-              if (!review.advancedScore) return null;
+      <Chip
+        className="text-white text-sm md:text-base flex items-center"
+        role='button' tabIndex={0}
+        onClick={() => setViewMore(!viewMore)}
+      >
 
-              return <li key={key}>{`${capitalize(key)}: ${(review.advancedScore as any)[key]}`}</li>;
-            })}
-          </ul>
-        )}
-      </div>
-
+        <span className="material-icons-outlined">
+          {viewMore ? 'expand_less' : 'expand_more'}
+        </span>
+        <div className='space-x-3'>
+          <span>User Score</span>
+        </div>
+      </Chip>
     );
   };
 
@@ -84,7 +115,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
         ): (
           <div className="flex items-center divide-x">
             <p className="font-semibold pr-1">
-              {renderUserName()}
+              {renderUserName(profile)}
             </p>
             <p className="opacity-75 pl-1">
           User Rating
@@ -113,7 +144,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
       >
         <div className="flex items-center divide-x">
           <p className="font-semibold pr-1">
-            {renderUserName()}
+            {renderUserName(profile)}
           </p>
           <p className="opacity-75 pl-1">
           User Rating
@@ -126,9 +157,75 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
             {notes}
           </ReactMarkdown>
         </div>
-        <div className='mt-3'>
+        <div className='mt-3 flex items-center space-x-3'>
+          <Chip role='button' tabIndex={0} onClick={() => setReply(true)}>Reply</Chip>
+          {!!review.comments?.length && (
+            <Chip className='space-x-1 flex items-center' role='button' tabIndex={0} onClick={() => setViewReplies(!viewReplies)} >
+              <span className="material-icons-outlined">
+                {viewReplies ? 'expand_less' : 'expand_more'}
+              </span>
+              <div className='space-x-3'>
+                <span>Replies</span>
+                <span>{review.comments.length}</span>
+              </div>
+            </Chip>
+          )}
           {renderViewMore()}
         </div>
+        {reply && (
+          <div className='space-y-3 mt-3 mb-8'>
+            <form className='flex flex-col space-y-3 items-end p-2 rounded' onSubmit={(ev) => handleSubmit(ev)}>
+              <Input ref={inputRef} className=' bg-tmrev-gray-dark' placeholder='Add Reply...' variant='textarea' onChange={(e) => setCommentText(e.target.value)}/>
+              <div className='space-x-3'>
+                <button
+                  className='hover:bg-tmrev-gray-dark rounded-full px-3 py-1' type='button' onClick={() => setReply(false)}>
+                  Cancel
+                </button>
+                <button 
+                  className={
+                    clsx('rounded-full px-3 py-1  font-semibold',
+                      "disabled:bg-tmrev-gray-dark disabled:text-blacker",
+                      "hover:bg-tmrev-alt-yellow hover:text-blacker"
+                    )
+                  }
+                  disabled={!commentText} 
+                  type='submit' >
+                  Reply
+                </button>
+              </div>
+            </form>
+          </div>
+        )}
+        {viewReplies && (
+          <div className='space-y-3 mt-8 mb-8'>
+            {review.comments?.map((comment) => (
+              <div key={comment._id} className='flex items-center space-x-3'>
+                <div className=' flex-shrink-0'>
+                  <Image className='rounded-full bg-white' height={32} layout='fixed' src={renderImageSrc(comment.profile[0])} width={32}/>
+                </div>
+               
+                <div className='flex flex-col'>
+                  <span className='font-semibold'>{renderUserName(comment.profile[0])}</span>
+                  {comment.comment}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+        {viewMore && review.advancedScore && (
+          <div className='space-y-3 mt-3 mb-8'>
+            <h4 className='font-semibold' >User Score</h4>
+            <div className='pl-3'>
+              <ul>
+                {Object.keys(review.advancedScore).map((key: string) => {
+                  if (!review.advancedScore) return null;
+
+                  return <li key={key}>{`${capitalize(key)}: ${(review.advancedScore as any)[key]}`}</li>;
+                })}
+              </ul>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

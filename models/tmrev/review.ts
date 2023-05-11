@@ -1,3 +1,4 @@
+import { Comment } from './comments';
 import { Profile } from './movie';
 
 interface TmrevReview {
@@ -13,6 +14,7 @@ interface TmrevReview {
   userId: string
   reviewedDate: string
   profile: Profile
+  comments?: Comment[]
 }
 
 interface AllReviewsResponse {
@@ -25,6 +27,7 @@ interface AllReviewsResponse {
     total: number
   }
 }
+
 
 interface CreateTmrevReviewQuery {
   title: string,

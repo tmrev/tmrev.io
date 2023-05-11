@@ -83,6 +83,13 @@ const Navigation: FunctionComponent<Props> = () => {
         title: 'Profile',
         url: user ? `/user/${user.uid}/preview` : '/login',
       },
+      {
+        auth: true,
+        icon: 'logout',
+        mobileOnly: false,
+        title: "Logout",
+        url: '/logout'
+      }
       // {
       //   auth: false,
       //   icon: 'how_to_vote',
@@ -200,7 +207,7 @@ const Navigation: FunctionComponent<Props> = () => {
                 onClick={() => setMobileOpen(!mobileOpen)}
               >
                 <span className="material-icons">
-                                    menu
+                  menu
                 </span>
               </Button>
             </li>

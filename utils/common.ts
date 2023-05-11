@@ -75,6 +75,10 @@ export const renderImageSrc = (user: any) => {
 
   if (user?.photoUrl) return user.photoUrl;
 
+  if (user?.uid) return `https://avatars.dicebear.com/api/identicon/${user.uid}.svg`
+
+  if (user?.uuid) return `https://avatars.dicebear.com/api/identicon/${user.uuid}.svg`
+
   if (user?.displayName) return `https://avatars.dicebear.com/api/identicon/${user.displayName}.svg`;
 
   if (user?.email) return `https://avatars.dicebear.com/api/identicon/${extractNameFromEmail(user.email)}.svg`;
