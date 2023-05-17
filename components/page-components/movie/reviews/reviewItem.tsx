@@ -2,16 +2,22 @@ import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
 import React, {
-  FunctionComponent, memo, useEffect, useRef, useState,
+  FunctionComponent,
+  memo,
+  useEffect, 
+  useRef, 
+  useState,
 } from 'react';
 import ReactMarkdown from 'react-markdown';
+import OutsideClickHandler from 'react-outside-click-handler';
 import remarkGfm from 'remark-gfm';
 
 import Chip from '@/components/chip';
+import Button from '@/components/common/Button';
 import Input from '@/components/common/Input';
 import { Profile } from '@/models/tmrev/movie';
 import { useAuth } from '@/provider/authUserContext';
-import { useAddCommentMutation } from '@/redux/api';
+import { useAddCommentMutation, useVoteTmrevReviewMutation } from '@/redux/api';
 
 import { TmrevReview } from '../../../../models/tmrev';
 import { capitalize, extractNameFromEmail, renderImageSrc } from '../../../../utils/common';
@@ -24,13 +30,16 @@ interface Props {
 const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
   const [viewMore, setViewMore] = useState<boolean>(false);
   const [viewReplies, setViewReplies] = useState<boolean>(false)
+  const [openDropDown, setOpenDropDown] = useState<boolean>(false)
   const [reply, setReply] = useState<boolean>(false)
 
   const { user } = useAuth()
 
+
   const [commentText, setCommentText] = useState<string>('')
 
   const [addComment] = useAddCommentMutation()
+  const [addVote] = useVoteTmrevReviewMutation()
 
   const inputRef = useRef<HTMLInputElement>(null)
 
@@ -48,6 +57,15 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
     setCommentText('')
   }
 
+  const handleVote = async (vote: boolean) => {
+
+    if(!review || !user) return
+
+    const token = await user.getIdToken()
+
+    await addVote({reviewId: review._id, token, vote})
+  }
+
   useEffect(() => {
     if(!reply || !inputRef.current) return
 
@@ -59,6 +77,8 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
   const {
     userId, _id, notes, averagedAdvancedScore, profile,
   } = review;
+
+
 
   const renderUserName = (userProfile:Profile) => {
     if (!userProfile) return 'Error';
@@ -77,25 +97,7 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
     );
   };
 
-  const renderViewMore = () => {
-    if (!review.advancedScore) return null;
 
-    return (
-      <Chip
-        className="text-white text-sm md:text-base flex items-center"
-        role='button' tabIndex={0}
-        onClick={() => setViewMore(!viewMore)}
-      >
-
-        <span className="material-icons-outlined">
-          {viewMore ? 'expand_less' : 'expand_more'}
-        </span>
-        <div className='space-x-3'>
-          <span>User Score</span>
-        </div>
-      </Chip>
-    );
-  };
 
   if(compact) {
     return (
@@ -142,25 +144,72 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
       <div
         className="w-full"
       >
-        <div className="flex items-center divide-x">
-          <p className="font-semibold pr-1">
-            {renderUserName(profile)}
-          </p>
-          <p className="opacity-75 pl-1">
-          User Rating
-            {' '}
-            {averagedAdvancedScore}
-          </p>
+        <div className="flex items-center ">
+          <div className='divide-x flex items-center flex-grow'>
+            <p className="font-semibold pr-1">
+              {renderUserName(profile)}
+            </p>
+            <p className="opacity-75 pl-1">
+              User Rating
+              {' '}
+              {averagedAdvancedScore}
+            </p>            
+          </div>
+          <div className=' relative'>
+            <Button variant='icon' onClick={() => setOpenDropDown(true)}>
+              <span className="material-icons-outlined">
+              more_vert
+              </span>
+            </Button>
+            <OutsideClickHandler onOutsideClick={() => setOpenDropDown(false)}>
+              {openDropDown && (
+                <div className="bg-tmrev-gray-dark text-white p-2 absolute rounded right-0 flex-col w-max">
+                  <Button onClick={() => {
+                    setViewMore(!viewMore)
+                    setOpenDropDown(false)
+                  }}>
+                    {`${viewMore ? 'Hide' : 'View'} User Score`}
+                  </Button>
+                </div>
+              )}
+            </OutsideClickHandler>
+          </div>
         </div>
         <div className="max-h-60 overflow-auto">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>
             {notes}
           </ReactMarkdown>
         </div>
-        <div className='mt-3 flex items-center space-x-3'>
-          <Chip role='button' tabIndex={0} onClick={() => setReply(true)}>Reply</Chip>
+        <div className='mt-3 -m-1 flex items-center flex-wrap'>
+          <div className='flex items-center space-x-1 md:space-x-3 m-1' >
+            <div className='flex items-center space-x-1'>
+              <Button type='button' variant='icon' onClick={() => handleVote(true)}>
+                <span className="material-icons-outlined">
+                  thumb_up
+                </span>
+              </Button>
+              {!!review.votes.upVote.length && (
+                <span>
+                  {review.votes.upVote.length}
+                </span>
+              )}
+            </div>
+            <div className='flex items-center space-x-1 m-2'>
+              <Button type='button' variant='icon' onClick={() => handleVote(false)}>
+                <span className="material-icons-outlined">
+                  thumb_down
+                </span>
+              </Button>
+              {!!review.votes.downVote.length && (
+                <span>
+                  {review.votes.downVote.length}
+                </span>
+              )}
+            </div>
+          </div>
+          <Chip className='m-1' role='button' tabIndex={0} onClick={() => setReply(true)}>Reply</Chip>
           {!!review.comments?.length && (
-            <Chip className='space-x-1 flex items-center' role='button' tabIndex={0} onClick={() => setViewReplies(!viewReplies)} >
+            <Chip className='space-x-1 flex items-center m-1' role='button' tabIndex={0} onClick={() => setViewReplies(!viewReplies)} >
               <span className="material-icons-outlined">
                 {viewReplies ? 'expand_less' : 'expand_more'}
               </span>
@@ -170,7 +219,6 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
               </div>
             </Chip>
           )}
-          {renderViewMore()}
         </div>
         {reply && (
           <div className='space-y-3 mt-3 mb-8'>

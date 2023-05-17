@@ -50,7 +50,7 @@ const MovieReviewList:FunctionComponent<Props> = ({ reviews }:Props) => {
           Reviews
         </span>
         <span className='opacity-50 flex-grow'>
-          {reviews.length}
+          {uniqueArray(reviews, '_id').length}
         </span>
         <span className="material-icons-outlined">
           {open ? 'expand_less' : 'expand_more'}

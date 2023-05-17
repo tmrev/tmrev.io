@@ -1,4 +1,4 @@
-import { Comment } from './comments';
+import { Comment, Vote } from './comments';
 import { Profile } from './movie';
 
 interface TmrevReview {
@@ -15,6 +15,7 @@ interface TmrevReview {
   reviewedDate: string
   profile: Profile
   comments?: Comment[]
+  votes: Vote
 }
 
 interface AllReviewsResponse {

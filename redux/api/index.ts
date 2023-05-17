@@ -283,6 +283,19 @@ export const tmrevApi = createApi({
         url: `/movie/watched/${body._id}`,
       }),
     }),
+    voteTmrevReview: builder.mutation<void, { vote: boolean, token: string, reviewId: string }>({
+      invalidatesTags: ['COMMENT', 'REVIEW', 'MOVIE'],
+      query: (data) => ({
+        body: {
+          vote: data.vote
+        },
+        headers: {
+          authorization: data.token,
+        },
+        method: 'POST',
+        url: `/movie/review/vote/${data.reviewId}`
+      })
+    }),
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -321,6 +334,7 @@ export const {
   useGetListQuery,
   useDeleteWatchListMutation,
   useAddCommentMutation,
+  useVoteTmrevReviewMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

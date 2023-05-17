@@ -110,7 +110,7 @@ const MovieRevenue:FunctionComponent<Props> = ({
       <div className="flex items-center relative">
         <h2 className='text-lg font-semibold' >{data[dataIndex].title}</h2>
         <div className="flex-grow" />
-        <div className=" relative">
+        <div className="relative">
           <Button variant="icon" onClick={() => setOpenDropDown(!openDropDown)}>
             <span className="material-icons">
               more_vert
@@ -138,7 +138,6 @@ const MovieRevenue:FunctionComponent<Props> = ({
               </Button>
             </div>
           )}
-
         </div>
       </div>
       <BarChart
