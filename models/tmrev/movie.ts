@@ -122,6 +122,10 @@ export enum Note {
   Netflix = 'Netflix',
 }
 
+export type Vote = {
+  upVote: string[]
+  downVote: string[]
+}
 export interface Reviews {
   page: number;
   results: ReviewsResult[];
@@ -218,7 +222,7 @@ export interface Profile {
   photoUrl?: string
 }
 
-export type BatchMovies = {[x: string]: Movie }
+export type BatchMovies = { [x: string]: Movie }
 
 export interface BatchMoviesResponse {
   success: boolean

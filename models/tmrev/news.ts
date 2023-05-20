@@ -26,6 +26,17 @@ export type NewsResults = {
   sentiment: Sentiment
 }
 
+export type TrendingResults = {
+  title: string
+  url: string
+  snippet: string
+  img: string
+  hashtags: string[]
+  publishedDate: string
+  author: string
+  type: "Twitter"
+}
+
 type GatherNewsBody = {
   consensus: Consensus
   totalResults: number
@@ -57,4 +68,13 @@ export interface NewsQuery {
   q: string
   limit?: number,
   offset?: number
+}
+
+export interface TrendingNewsQuery {
+  limit?: number
+}
+
+export interface TrendingNewsResponse {
+  success: boolean
+  body: TrendingResults[]
 }

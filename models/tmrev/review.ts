@@ -1,3 +1,4 @@
+import { Comment, Vote } from './comments';
 import { Profile } from './movie';
 
 interface TmrevReview {
@@ -13,18 +14,21 @@ interface TmrevReview {
   userId: string
   reviewedDate: string
   profile: Profile
+  comments?: Comment[]
+  votes: Vote
 }
 
 interface AllReviewsResponse {
   success: boolean
   body: {
     reviews: TmrevReview[]
-    avgScore: AdvancedScore
+    avgScore: AdvancedScore | null
     likes: number
     dislikes: number
     total: number
   }
 }
+
 
 interface CreateTmrevReviewQuery {
   title: string,
@@ -37,8 +41,8 @@ interface CreateTmrevReviewQuery {
   token?: string
 }
 interface CreateTmrevReviewResponse {
-  acknowledged:boolean,
-  insertedId:string
+  acknowledged: boolean,
+  insertedId: string
 }
 
 interface AdvancedScore {

@@ -2,6 +2,8 @@ import { useRouter } from 'next/router';
 import React, { FunctionComponent, useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 
+import OutlineButton from '@/components/button/outline';
+
 import { Body } from '../../../../models/tmrev/movie';
 import { useAuth } from '../../../../provider/authUserContext';
 import { useAddMovieToWatchListMutation, useGetUserWatchListsQuery } from '../../../../redux/api';
@@ -94,7 +96,7 @@ const AddToWatchList:FunctionComponent<Props> = ({ movie }:Props) => {
     dispatch(setModalContent(content));
   };
 
-  return <Button className="mt-4 w-full" variant="secondary" onClick={addToList}>Add To list</Button>;
+  return <OutlineButton className="mt-4 w-full" onClick={addToList}>Add To list</OutlineButton>;
 };
 
 export default AddToWatchList;

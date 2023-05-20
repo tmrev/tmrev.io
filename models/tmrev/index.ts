@@ -15,15 +15,22 @@ type Timestamp = {
 }
 
 export type {
-  AdvancedScore, AllReviewsResponse,
-  CreatedAt, CreateTmrevReviewQuery,
+  AdvancedScore,
+  AllReviewsResponse,
+  CreatedAt,
+  CreateTmrevReviewQuery,
   CreateTmrevReviewResponse,
   MovieScore,
   SingleReview,
-  TheNumberData, TheNumbers, Timestamp,
+  TheNumberData,
+  TheNumbers,
+  Timestamp,
   Title,
-  TmrevReview, UpdatedAt, UpdateWatchList,
+  TmrevReview,
+  UpdatedAt,
+  UpdateWatchList,
   User,
   UserQuery,
-  WatchList, WatchListSearchQuery,
+  WatchList,
+  WatchListSearchQuery,
 };

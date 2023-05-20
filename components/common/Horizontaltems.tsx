@@ -65,49 +65,46 @@ export default function HorizontalItems({ content, batchedIds }: any) {
   if (content?.body?.movies) {
     return (
       <HorizontalScrollContainer>
-        {content
-                    && justReviewedImages
-                    && [...content.body.movies].map((movie) => (
-                      <Link
-                        key={movie._id}
-                        passHref
-                        href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
-                      >
-                        <div className="aspect-[2/3] h-[200px] w-[110px] md:h-[300px] md:w-[210px] relative rounded">
-                          <Image
-                            alt={movie.title}
-                            className='rounded-md cursor-pointer'
-                            layout="fill"
-                            objectFit="contain"
-                            src={imageUrl(justReviewedImages.body[movie.tmdbID]?.poster_path ?? NoImage, 300)}
-                          />
-                        </div>
-                      </Link>
-                    ))}
+        {content && justReviewedImages && [...content.body.movies].map((movie) => (
+          <Link
+            key={movie._id}
+            passHref
+            href={`/movie/${createMediaUrl(movie.tmdbID, movie.title)}`}
+          >
+            <div className="aspect-[2/3] h-[200px] w-[110px] md:h-[300px] md:w-[210px] relative rounded">
+              <Image
+                alt={movie.title}
+                className='rounded-md cursor-pointer'
+                layout="fill"
+                objectFit="contain"
+                src={imageUrl(justReviewedImages.body[movie.tmdbID]?.poster_path ?? NoImage, 300)}
+              />
+            </div>
+          </Link>
+        ))}
       </HorizontalScrollContainer>
 
     )
   }
   return (
     <HorizontalScrollContainer>
-      {content
-                && Object.keys(content.body).map((movie) => (
-                  <Link
-                    key={content.body[movie].id}
-                    passHref
-                    href={`/movie/${createMediaUrl(content.body[movie].id, content.body[movie].title)}`}
-                  >
-                    <div className="aspect-[2/3] h-[200px] w-[110px] md:h-[300px] md:w-[210px] relative rounded">
-                      <Image
-                        alt={content.body[movie].title}
-                        className='rounded-md cursor-pointer'
-                        layout="fill"
-                        objectFit="contain"
-                        src={imageUrl(content.body[movie]?.poster_path ?? NoImage, 300)}
-                      />
-                    </div>
-                  </Link>
-                ))}
+      {content && Object.keys(content.body).map((movie) => (
+        <Link
+          key={content.body[movie].id}
+          passHref
+          href={`/movie/${createMediaUrl(content.body[movie].id, content.body[movie].title)}`}
+        >
+          <div className="aspect-[2/3] h-[200px] w-[110px] md:h-[300px] md:w-[210px] relative rounded">
+            <Image
+              alt={content.body[movie].title}
+              className='rounded-md cursor-pointer'
+              layout="fill"
+              objectFit="contain"
+              src={imageUrl(content.body[movie]?.poster_path ?? NoImage, 300)}
+            />
+          </div>
+        </Link>
+      ))}
     </HorizontalScrollContainer>
   )
 

@@ -1,11 +1,13 @@
 import '../styles/globals.css';
 import 'react-loading-skeleton/dist/skeleton.css';
 import '../config/firebaseInit';
+import 'react-tooltip/dist/react-tooltip.css'
 
 import type { AppProps } from 'next/app';
 import Script from 'next/script';
 import NextNProgress from 'nextjs-progressbar';
 import React, { useEffect, useRef } from 'react';
+import { Tooltip as ReactTooltip } from 'react-tooltip'
 
 import Modal from '@/components/common/Modal';
 import Toast from '@/components/common/Toast';
@@ -46,6 +48,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       </AuthUserProvider>
       <NextNProgress color="#FFC000" />
       <Toast />
+      <ReactTooltip id="my-tooltip" />
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
       />

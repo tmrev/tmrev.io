@@ -14,7 +14,7 @@ export function formatRuntime(runtime: number): string {
   return `${rhours}h ${rminutes}m`;
 }
 
-export function extractNameFromEmail(email: string | null):string {
+export function extractNameFromEmail(email: string | null): string {
   if (!email) return '';
 
   return email.split('@')[0];
@@ -53,7 +53,7 @@ export const debounce = (fn: Function, ms = 300) => {
   };
 };
 
-export function roundWithMaxPrecision(n:number, precision = 1) {
+export function roundWithMaxPrecision(n: number, precision = 1) {
   const precisionWithPow10 = 10 ** precision;
   return Math.round(n * precisionWithPow10) / precisionWithPow10;
 }
@@ -75,6 +75,10 @@ export const renderImageSrc = (user: any) => {
 
   if (user?.photoUrl) return user.photoUrl;
 
+  if (user?.uid) return `https://avatars.dicebear.com/api/identicon/${user.uid}.svg`
+
+  if (user?.uuid) return `https://avatars.dicebear.com/api/identicon/${user.uuid}.svg`
+
   if (user?.displayName) return `https://avatars.dicebear.com/api/identicon/${user.displayName}.svg`;
 
   if (user?.email) return `https://avatars.dicebear.com/api/identicon/${extractNameFromEmail(user.email)}.svg`;
@@ -89,7 +93,7 @@ export function camelCase(str: string) {
     .replace(/[^a-zA-Z]/g, '');
 }
 
-export function uniqueArray<T>(array:T[], identifier: string): T[] {
+export function uniqueArray<T>(array: T[], identifier: string): T[] {
   return [...new Map(array.map((m: any) => [m[identifier], m])).values()];
 }
 

@@ -6,7 +6,6 @@ import Skeleton from 'react-loading-skeleton';
 import { TheNumbers, Title } from '../../../../models/tmrev';
 import Button from '../../../common/Button';
 import BarChart, { Datasets } from '../../../common/charts/bar';
-import HeaderText from '../../../common/typography/headerText';
 
 const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
 
@@ -100,19 +99,18 @@ const MovieRevenue:FunctionComponent<Props> = ({
     }
 
     return (
-      <div className="hidden lg:block lg:max-w-xl xl:w-full xl:max-w-none space-y-8">
-        <HeaderText headingType="h2">THE NUMBERS</HeaderText>
-        <Skeleton baseColor="#3B3B3B" className=" mt-8" height={512} highlightColor="#555555" />
+      <div className="max-w-[502px] bg-black rounded p-2 overflow-auto">
+        <Skeleton baseColor="#3B3B3B" className=" mt-8" height={243} highlightColor="#555555" />
       </div>
     );
   }
 
   return (
-    <div className="lg:block lg:max-w-xl xl:w-full xl:max-w-none space-y-8">
+    <div className=" bg-black rounded p-2 overflow-auto">
       <div className="flex items-center relative">
-        <HeaderText headingType="h2">{data[dataIndex].title.toUpperCase()}</HeaderText>
+        <h2 className='text-lg font-semibold' >{data[dataIndex].title}</h2>
         <div className="flex-grow" />
-        <div className=" relative">
+        <div className="relative">
           <Button variant="icon" onClick={() => setOpenDropDown(!openDropDown)}>
             <span className="material-icons">
               more_vert
@@ -140,7 +138,6 @@ const MovieRevenue:FunctionComponent<Props> = ({
               </Button>
             </div>
           )}
-
         </div>
       </div>
       <BarChart

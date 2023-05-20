@@ -17,7 +17,6 @@ import { AllReviewsResponse, DeleteReviewQuery } from '../../models/tmrev/review
 import { SearchResponse } from '../../models/tmrev/search';
 import { WatchedDeletePayload, WatchedPayload, WatchedResponse } from '../../models/tmrev/watched';
 import { AddMovieToWatchList, GetListPayload, UpdateWatchList } from '../../models/tmrev/watchList';
-import { generateUrl } from '../../utils/common';
 
 export const apiKey = process.env.NEXT_PUBLIC_TMDB_API_KEY;
 export const tmrevAPI = process.env.NEXT_PUBLIC_TMREV_API;
@@ -29,6 +28,19 @@ export const tmrevApi = createApi({
     prepareHeaders: (headers) => headers,
   }),
   endpoints: (builder) => ({
+    addComment: builder.mutation<void, { id: string, comment: string, token: string }>({
+      invalidatesTags: ['COMMENT', 'REVIEW', 'MOVIE'],
+      query: (data) => ({
+        body: {
+          comment: data.comment
+        },
+        headers: {
+          authorization: data.token,
+        },
+        method: 'POST',
+        url: `/movie/review/${data.id}/comment`
+      })
+    }),
     addMovieToWatchList: builder.mutation<void, AddMovieToWatchList>({
       invalidatesTags: ['WATCH_LIST'],
       query: (body) => ({
@@ -41,7 +53,7 @@ export const tmrevApi = createApi({
       }),
     }),
     addTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
-      invalidatesTags: ['TMREV_SCORE'],
+      invalidatesTags: ['TMREV_SCORE', 'REVIEW', 'MOVIE'],
       query: (body) => {
         const newBody = structuredClone(body);
         delete newBody.token;
@@ -147,9 +159,12 @@ export const tmrevApi = createApi({
       }),
     }),
     getAllReviews: builder.query<AllReviewsResponse, MovieReviewPayload>({
-      providesTags: ['REVIEW'],
-      query: (data) => ({
-        url: generateUrl(`${tmrevAPI}/movie/reviews/${data.movie_id}`, data.query),
+      providesTags: ['REVIEW', 'MOVIE', 'COMMENT'],
+      query: ({ movie_id, query }) => ({
+        params: {
+          ...query
+        },
+        url: `/movie/reviews/${movie_id}`
       }),
     }),
     getDiscoverMovie: builder.query<DiscoverMovie, DiscoverMovieQuery>({
@@ -220,7 +235,7 @@ export const tmrevApi = createApi({
       }),
     }),
     updateTmrevReview: builder.mutation<CreateTmrevReviewResponse, CreateTmrevReviewQuery>({
-      invalidatesTags: ['MOVIE'],
+      invalidatesTags: ['MOVIE', 'COMMENT'],
       query: (body) => {
         const newBody = structuredClone(body);
         delete newBody.token;
@@ -268,6 +283,19 @@ export const tmrevApi = createApi({
         url: `/movie/watched/${body._id}`,
       }),
     }),
+    voteTmrevReview: builder.mutation<void, { vote: boolean, token: string, reviewId: string }>({
+      invalidatesTags: ['COMMENT', 'REVIEW', 'MOVIE'],
+      query: (data) => ({
+        body: {
+          vote: data.vote
+        },
+        headers: {
+          authorization: data.token,
+        },
+        method: 'POST',
+        url: `/movie/review/vote/${data.reviewId}`
+      })
+    }),
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -277,7 +305,7 @@ export const tmrevApi = createApi({
     return null;
   },
   reducerPath: 'tmrevApi',
-  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW'],
+  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW', 'COMMENT'],
 });
 
 export const {
@@ -305,6 +333,8 @@ export const {
   useGetAllReviewsQuery,
   useGetListQuery,
   useDeleteWatchListMutation,
+  useAddCommentMutation,
+  useVoteTmrevReviewMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 
