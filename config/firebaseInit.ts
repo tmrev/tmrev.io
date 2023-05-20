@@ -1,6 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
+
 const config = {
   apiKey: process.env.NEXT_PUBLIC_API_KEY,
   appId: process.env.NEXT_PUBLIC_APP_ID,
@@ -12,8 +13,7 @@ const config = {
 };
 
 const app = initializeApp(config);
-// const analytics = getAnalytics(app);
-// logEvent(analytics, 'notification_received');
 const db = getFirestore(app);
 
+export { app }
 export default db;
