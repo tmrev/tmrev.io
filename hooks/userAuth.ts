@@ -96,7 +96,14 @@ export default function useFirebaseAuth() {
     }
   }
 
+  const isSupportedBrowser = () =>
+    'Notification' in window &&
+    'serviceWorker' in navigator &&
+    'PushManager' in window
+
   function requestPermission() {
+    if (!isSupportedBrowser()) return
+
 
     if (Notification.permission === 'granted') generateToken()
 
