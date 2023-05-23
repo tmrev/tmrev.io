@@ -12,6 +12,7 @@ import { Tooltip as ReactTooltip } from 'react-tooltip'
 import Modal from '@/components/common/Modal';
 import Toast from '@/components/common/Toast';
 import Navigation from '@/components/navigation';
+import usePushNotification from '@/hooks/usePushNotification';
 import useScroll from '@/hooks/useScroll';
 import { AuthUserProvider } from '@/provider/authUserContext';
 import ScrollProvider from '@/provider/scrollContext';
@@ -19,6 +20,7 @@ import { wrapper } from '@/redux/store';
 
 function App({children, divRef}: any) {
   const { setDivRef } = useScroll()
+  usePushNotification()
 
   useEffect(() => {
     setDivRef(divRef)

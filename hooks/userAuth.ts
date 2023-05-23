@@ -8,7 +8,7 @@ import {
   signInWithPopup,
   User,
 } from 'firebase/auth';
-import { getMessaging, getToken, isSupported, onMessage } from "firebase/messaging";
+import { getMessaging, getToken, isSupported } from "firebase/messaging";
 import nookies from 'nookies';
 import { useEffect, useState } from 'react';
 
@@ -16,6 +16,7 @@ import { app } from '@/config/firebaseInit';
 
 export default function useFirebaseAuth() {
   const [user, setUser] = useState<User | null>(null);
+  const [deviceToken, setDeviceToken] = useState<string | null>(null)
   const [loading, setLoading] = useState(true);
   const auth = getAuth();
   const googleProvider = new GoogleAuthProvider();
@@ -59,25 +60,15 @@ export default function useFirebaseAuth() {
     }
   })();
 
-  const onMessageListener = async () => (
-    new Promise((resolve) => (
-      // eslint-disable-next-line no-promise-executor-return
-      async () => {
-        const messageResolve = await messaging
-
-        if (!messageResolve) return
-
-        onMessage(messageResolve, (payload) => {
-          // eslint-disable-next-line no-console
-          console.log(payload, 'message payload')
-          resolve(payload)
-        })
-      }
-    ))
-  )
-
   const generateToken = async () => {
     if (!user) return
+
+    const localDeviceToken = localStorage.getItem('device-token')
+
+    if (localDeviceToken) {
+      setDeviceToken(localDeviceToken)
+      return
+    }
 
     try {
       const message = await messaging
@@ -87,7 +78,7 @@ export default function useFirebaseAuth() {
       const token = await getToken(message, { vapidKey: process.env.NEXT_PUBLIC_VAPIDKEY })
       const authToken = await user.getIdToken()
 
-      if (token) {
+      if (token && !localDeviceToken) {
         axios.post(`${process.env.NEXT_PUBLIC_TMREV_API}/user/device`, {
           deviceToken: token,
           userId: user.uid
@@ -96,6 +87,8 @@ export default function useFirebaseAuth() {
             authorization: authToken
           }
         })
+        setDeviceToken(token)
+        localStorage.setItem('device-token', token)
       }
     } catch (error) {
       // eslint-disable-next-line no-console
@@ -139,8 +132,8 @@ export default function useFirebaseAuth() {
 
   return {
     createUserWithEmailAndPassword,
+    deviceToken,
     loading,
-    onMessageListener,
     signInAnonymously,
     signInWithEmailAndPassword,
     signInWithGoogle,

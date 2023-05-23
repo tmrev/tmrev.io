@@ -23,6 +23,7 @@ interface Auth {
   ) => Promise<UserCredential>;
   signInAnonymously: () => Promise<UserCredential>;
   signInWithGoogle: () => Promise<UserCredential>;
+  deviceToken: string | null
 }
 
 const authUserContext = createContext<AuthUserContext>({
