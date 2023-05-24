@@ -10,7 +10,8 @@
     "source.fixAll.eslint": true
   },
   "conventionalCommits.scopes": [
-    "Code Style"
+    "Code Style",
+    "Profile"
   ],
   "editor.detectIndentation": false
 }
