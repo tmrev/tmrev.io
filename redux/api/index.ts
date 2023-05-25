@@ -155,7 +155,8 @@ export const tmrevApi = createApi({
         headers: {
           authorization: data.authToken,
         },
-        url: `/user/${data.uid}`,
+        method: 'POST',
+        url: `/user/follow/${data.uid}`
       }),
     }),
     getAllReviews: builder.query<AllReviewsResponse, MovieReviewPayload>({
