@@ -1,9 +1,11 @@
 import React, { FunctionComponent, useMemo } from 'react';
 import Skeleton from 'react-loading-skeleton';
 
+import { uniqueArray } from '@/utils/common';
+
 import { AllReviewsResponse } from '../../../../models/tmrev';
 import { useAuth } from '../../../../provider/authUserContext';
-import { getMedian, getStandardDeviation } from '../../../../utils/math';
+import { getAverage, getStandardDeviation } from '../../../../utils/math';
 import RadarChart from '../../../common/charts/radar';
 import HeaderText from '../../../common/typography/headerText';
 
@@ -19,22 +21,24 @@ const MovieStats:FunctionComponent<Props> = ({
 }) => {
   const { reviews, avgScore } = tmrev.body;
 
+  const uniqueReviews = useMemo(() => uniqueArray(reviews, '_id'), [reviews])
+
   const { user } = useAuth();
 
   const userReview = useMemo(() => {
-    if (!reviews || !user) return [];
+    if (!uniqueReviews || !user) return [];
 
-    const findReview = reviews.filter((value) => value.userId === user.uid);
+    const findReview = uniqueReviews.filter((value) => value.userId === user.uid);
 
     if (findReview.length) {
       return findReview;
     }
 
     return [];
-  }, [user, reviews]);
+  }, [user, uniqueReviews]);
 
   const formatReviews = useMemo(() => {
-    if (!reviews) return null;
+    if (!uniqueReviews) return null;
 
     const plot: number[] = [];
     const acting: number[] = [];
@@ -47,7 +51,7 @@ const MovieStats:FunctionComponent<Props> = ({
     const visuals: number[] = [];
     const personalScore: number[] = [];
 
-    reviews.forEach((value) => {
+    uniqueReviews.forEach((value) => {
       if (!value.advancedScore) return;
 
       plot.push(value.advancedScore.plot);
@@ -74,7 +78,7 @@ const MovieStats:FunctionComponent<Props> = ({
       theme,
       visuals,
     };
-  }, [reviews]);
+  }, [uniqueReviews]);
 
   const labels: string[] = useMemo(() => {
     if (!avgScore) return [];
@@ -88,23 +92,23 @@ const MovieStats:FunctionComponent<Props> = ({
   }, [avgScore]);
 
   const datasets: any[] = useMemo(() => {
-    if (!avgScore || !reviews || !formatReviews) return [];
+    if (!avgScore || !uniqueReviews || !formatReviews) return [];
 
     const chartData = [
       {
         backgroundColor: 'rgba(255, 192, 0, 1)',
         borderColor: 'rgba(255, 192, 0, 1)',
         data: [
-          getMedian(formatReviews.plot),
-          getMedian(formatReviews.theme),
-          getMedian(formatReviews.climax),
-          getMedian(formatReviews.ending),
-          getMedian(formatReviews.acting),
-          getMedian(formatReviews.chars),
-          getMedian(formatReviews.music),
-          getMedian(formatReviews.cinema),
-          getMedian(formatReviews.visuals),
-          getMedian(formatReviews.personalScore),
+          getAverage(formatReviews.plot),
+          getAverage(formatReviews.theme),
+          getAverage(formatReviews.climax),
+          getAverage(formatReviews.ending),
+          getAverage(formatReviews.acting),
+          getAverage(formatReviews.chars),
+          getAverage(formatReviews.music),
+          getAverage(formatReviews.cinema),
+          getAverage(formatReviews.visuals),
+          getAverage(formatReviews.personalScore),
         ],
         fill: false,
         label: 'Average Scores',
@@ -129,7 +133,7 @@ const MovieStats:FunctionComponent<Props> = ({
       },
     ];
 
-    if (userReview.length) {
+    if (userReview.length && userReview[0].advancedScore) {
       chartData.push(
         {
           backgroundColor: '#FD4C55',

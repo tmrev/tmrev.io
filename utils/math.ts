@@ -9,6 +9,17 @@ export const getMedian = (arr: number[]): number | undefined => {
   return s.length % 2 === 0 ? ((s[mid - 1] + s[mid]) / 2) : s[mid];
 };
 
+export function getAverage(numbers: number[]): number {
+  if (numbers.length === 0) {
+    return 0;
+  }
+
+  const sum = numbers.reduce((acc, num) => acc + num, 0);
+  const average = sum / numbers.length;
+
+  return average;
+}
+
 export function getStandardDeviation(numbersArr: number[]): number {
   // CALCULATE AVERAGE
   let total = 0;
@@ -22,5 +33,7 @@ export function getStandardDeviation(numbersArr: number[]): number {
   const SDresult = Math.sqrt(SDprep / (numbersArr.length - 1));
   // CALCULATE STANDARD DEVIATION
 
-  return SDresult;
+  const visualScale = SDresult * 2
+
+  return visualScale > 10 ? 10 : visualScale
 }
