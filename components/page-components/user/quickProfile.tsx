@@ -45,7 +45,7 @@ const QuickProfile:FunctionComponent = () => {
       };
     }
 
-    if (currentUser && currentUser.following.includes(userId)) {
+    if (currentUser && currentUser.following?.includes(userId)) {
       return {
         path: '/unfollow',
         title: 'Unfollow',
