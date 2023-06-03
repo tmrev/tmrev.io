@@ -1,16 +1,15 @@
 import { NextPage } from 'next';
-import Image from 'next/image';
-import Link from 'next/link';
-import React, { useEffect, useMemo, useState } from 'react';
+import { useRouter } from 'next/router';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 
 import Button from '@/components/common/Button';
 import MetaTags from '@/components/common/MetaTag';
 import Spinner from '@/components/common/spinner';
-import { NoImage } from '@/constants';
+import MoviePoster, { LocationPath } from '@/components/poster';
 import { Topic } from '@/constants/search';
+import { useAppDispatch, useAppSelector } from '@/hooks';
 import useScroll from '@/hooks/useScroll';
 import { SortBy } from '@/models/tmdb/discover';
-import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
 import {
   findMovies,   
   findMovieYear,
@@ -20,23 +19,25 @@ import {
   useFindMovieYearQuery,  
   useFindPeopleQuery,  
 } from '@/redux/api/tmdb/searchAPI';
+import { addData, incrementPage } from '@/redux/slice/searchResultSlice';
 import { wrapper } from '@/redux/store';
-import { capitalize, uniqueArray } from '@/utils/common';
-import imageUrl from '@/utils/imageUrl';
-import { createMediaUrl } from '@/utils/mediaID';
+import { capitalize } from '@/utils/common';
 
 interface Props {
   q?: string;
   topic?: Topic
-  page?: number
 }
 
-const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
-  const [page, setPage] = useState<number>(propPage || 1)
+const Search: NextPage<Props> = ({ q, topic }: Props) => {
+  const { data, page } = useAppSelector((state) => state.searchResult);
+  const dispatch = useAppDispatch()
+  const router = useRouter()
 
-  const [yearList, setYearList] = useState<MovieGeneral[]>([])
+  const [isScrolling, setIsScrolling] = useState<boolean>(false)
 
-  const { isBottom } = useScroll()
+  // const [yearList, setYearList] = useState<MovieGeneral[]>([])
+
+  const { isBottom, scrollPosition, handleScrollTo } = useScroll()
 
   const payload: any = useMemo(() => ({
     query: q,
@@ -60,27 +61,46 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
     sort_by: SortBy.VoteCountDesc
   }, {skip: payload.topic !== Topic.YEAR})
 
-  useEffect(() => {
-    setYearList([])
-    setPage(1)
-  }, [q])
+  const handleRouteChange = useCallback(() => {
+    if(!scrollPosition) return
+
+    // When user navigates away, save the current scroll position
+    localStorage.setItem('scrollPosX', scrollPosition.x.toString());
+    localStorage.setItem('scrollPosY', scrollPosition.y.toString());
+  }, [scrollPosition])
 
   useEffect(() => {
-    setPage(page + 1)
-  }, [q])
+    setIsScrolling(true)
+  }, [scrollPosition])
+
+  useEffect(() => {
+    const scrollPosX = localStorage.getItem('scrollPosX');
+    const scrollPosY = localStorage.getItem('scrollPosY');
+
+    // Check if scroll position data exists in localStorage
+    if (scrollPosX !== null && scrollPosY !== null && !isScrolling) {
+      handleScrollTo(Number(scrollPosX), Number(scrollPosY));
+    }
+
+    // Listen for route changes
+    router.events.on('routeChangeStart', handleRouteChange)
+
+    return () => {
+      router.events.off('routeChangeStart', handleRouteChange)
+    }
+  }, [handleRouteChange])
 
   const handleLoadMore = () => {
-    setPage(page + 1)
+    dispatch(incrementPage())
   }
 
   useEffect(() => {
     if(!yearData || topic !== Topic.YEAR) return
 
-    setYearList((prevState) => {
-      const newArr = uniqueArray([...prevState, ...yearData.results], 'id') 
+    const newArr = [...yearData.results]
 
-      return newArr
-    })
+    dispatch(addData(newArr));
+
   }, [yearData])
 
   useEffect(() => {
@@ -88,7 +108,7 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
 
     if(isBottom){
       if(page !== yearData?.total_pages) {
-        setPage(page + 1)
+        dispatch(incrementPage())
       }
     }
   }, [isBottom])
@@ -99,19 +119,14 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
     return (
       <>
         {
-          movieData.results.map((movie) => (
-            <Link key={movie.id} passHref href={`/movie/${createMediaUrl(movie.id, movie.title)}`}>
-              <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
-                <Image
-                  priority
-                  alt={`${movie.title} poster`}
-                  className="rounded"
-                  layout="fill"
-                  objectFit="cover"
-                  src={movie.poster_path ? imageUrl(movie.poster_path, 300) : NoImage}
-                />
-              </a>
-            </Link>
+          movieData.results.map(({id, title, poster_path}) => (
+            <MoviePoster 
+              key={id}
+              id={id}
+              imgUrl={poster_path}
+              location={LocationPath.PEOPLE}
+              name={title}
+            />
           ))
         }
       </>
@@ -119,24 +134,19 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
   }
 
   const renderYearData = () => {
-    if(payload.topic !== Topic.YEAR || !yearList.length) return null
+    if(payload.topic !== Topic.YEAR || !data.length) return null
 
     return (
       <>
         {
-          yearList.map((movie) => (
-            <Link key={movie.id} passHref href={`/movie/${createMediaUrl(movie.id, movie.title)}`}>
-              <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
-                <Image
-                  priority
-                  alt={`${movie.title} poster`}
-                  className="rounded"
-                  layout="fill"
-                  objectFit="cover"
-                  src={movie.poster_path ? imageUrl(movie.poster_path, 300) : NoImage}
-                />
-              </a>
-            </Link>
+          data.map(({id, title, poster_path}) => (
+            <MoviePoster 
+              key={id}
+              id={id}
+              imgUrl={poster_path}
+              location={LocationPath.MOVIE}
+              name={title}
+            />
           ))
         }
         <div className='flex w-full items-center justify-center text-white'>
@@ -153,19 +163,14 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
     return (
       <>
         {
-          peopleData.results.map((people) => (
-            <Link key={people.id} passHref href={`/people/${createMediaUrl(people.id, people.name)}`}>
-              <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
-                <Image
-                  priority
-                  alt={`${people.name}`}
-                  className="rounded"
-                  layout="fill"
-                  objectFit="cover"
-                  src={people.profile_path ? imageUrl(people.profile_path, 300) : NoImage}
-                />
-              </a>
-            </Link>
+          peopleData.results.map(({name, id, profile_path}) => (
+            <MoviePoster 
+              key={id}
+              id={id}
+              imgUrl={profile_path}
+              location={LocationPath.PEOPLE}
+              name={name}
+            />
           ))
         }
       </>
@@ -173,13 +178,13 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
   }
 
   return (
-    <div className="flex-col p-3">
+    <div className="flex-col p-1 md:p-3 text-center">
       <MetaTags
         description="Looking for the best movies? Reviews from real users can help you find the right one. Lists from experts can help you find what you're looking for."
         title="Find the latest movies and user lists on the world's largest movie review site."
         url={`https://tmrev.io/search?q=${q}&topic=${topic}`}
       />
-      <h1 className='flex text-white text-3xl space-x-3'>
+      <h1 className='flex text-white text-3xl space-x-3 w-full'>
         {topic && (
           <span className='opacity-75' >{capitalize(topic)}:</span>
         )}
@@ -187,13 +192,15 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
           <span>{capitalize(q)}</span>
         )}
       </h1>
-      <div className="flex flex-wrap justify-start space-x-4 items-center overflow-hidden">
+      <div className="flex flex-wrap gap-1 justify-center">
         {renderMovieData()}
         {renderPeopleData()}
         {renderYearData()}
-        <div className='w-full flex justify-center' >
-          <Button variant='primary' onClick={handleLoadMore} >Load More Data</Button>
-        </div>
+      </div>
+      <div className="flex justify-center mt-4">
+        <Button variant="primary" onClick={handleLoadMore}>
+          Load More Data
+        </Button>
       </div>
     </div>
   );
@@ -202,7 +209,6 @@ const Search: NextPage<Props> = ({ q, topic, page: propPage }: Props) => {
 export default Search;
 
 Search.defaultProps = {
-  page: 1,
   q: '',
   topic: undefined
 };
@@ -233,7 +239,6 @@ export const getServerSideProps = wrapper.getServerSideProps(
 
     return {
       props: {
-        page,
         q: q || '',
         topic
       },

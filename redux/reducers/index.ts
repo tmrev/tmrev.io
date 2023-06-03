@@ -7,6 +7,7 @@ import { searchApi } from '../api/tmdb/searchAPI';
 import modalSlice from '../slice/modalSlice';
 import navigationSlice from '../slice/navigationSlice';
 import reviewsSlice from '../slice/reviewsSlice';
+import searchResultSlice from '../slice/searchResultSlice';
 import toastSlice from '../slice/toastSlice';
 import userProfileSlice from '../slice/userProfileSlice';
 import watchListSlice from '../slice/watchListSlice';
@@ -19,9 +20,10 @@ const rootReducer = combineReducers({
   modal: modalSlice,
   navigation: navigationSlice,
   reviews: reviewsSlice,
+  searchResult: searchResultSlice,
   toast: toastSlice,
   userProfile: userProfileSlice,
-  watchList: watchListSlice,
+  watchList: watchListSlice
 });
 
 export type RootState = ReturnType<typeof rootReducer>;
