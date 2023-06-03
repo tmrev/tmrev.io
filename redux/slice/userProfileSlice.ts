@@ -60,22 +60,8 @@ const userProfileSlice = createSlice({
         return value.public === true;
       })];
 
-      const getSortedRatedMovies = () => {
-        // eslint-disable-next-line max-len
-        const sortedReviews = [...reviews].sort((a, b) => (a.averagedAdvancedScore || 0) - (b.averagedAdvancedScore || 0));
-
-        return {
-          highestRated: sortedReviews.slice(-10).reverse(),
-          lowestRated: sortedReviews.slice(0, 10),
-        };
-      };
-
       state.reviews = getReviews();
       state.watchLists = getWatchList();
-      state.sortedReviews = {
-        highest: getSortedRatedMovies().highestRated,
-        lowest: getSortedRatedMovies().lowestRated,
-      };
       state.profile = {
         _id,
         email,

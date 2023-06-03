@@ -8,7 +8,7 @@ import {
   Title,
   Tooltip,
 } from 'chart.js';
-import React, { FunctionComponent, useMemo } from 'react';
+import React, { forwardRef, useMemo } from 'react';
 import { Bar } from 'react-chartjs-2';
 
 export type Datasets = {
@@ -26,6 +26,7 @@ interface Props {
   labels: string[]
   datasets: Datasets[]
   options?: ChartOptions
+  onClick?: React.MouseEventHandler<HTMLCanvasElement> | undefined
 }
 
 ChartJS.register(
@@ -37,18 +38,19 @@ ChartJS.register(
   Legend,
 );
 
-const BarChart:FunctionComponent<Props> = ({ labels, datasets, options }: Props) => {
+const BarChart = forwardRef<any, Props> (({datasets, labels, options, onClick}: Props, ref) => {
   const data:Data = useMemo(() => ({
     datasets,
     labels,
   }), [labels, datasets]);
 
   return (
-    <Bar data={data} options={options as any} />
+    <Bar ref={ref} data={data} options={options as any} onClick={onClick} />
   );
-};
+});
 
 BarChart.defaultProps = {
+  onClick: undefined,
   options: {
     plugins: {
       legend: {
@@ -60,7 +62,7 @@ BarChart.defaultProps = {
       },
     },
     responsive: true,
-  },
+  }
 };
 
 export default BarChart;

@@ -1,6 +1,8 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
+import { CategoryDataResponse } from '@/models/tmrev/categories';
+
 import {
   DiscoverMovie, DiscoverMovieQuery, MovieQuery,
 } from '../../models/tmdb';
@@ -85,6 +87,12 @@ export const tmrevApi = createApi({
         method: 'POST',
         url: '/movie/batch',
       }),
+    }),
+    categoryRatings: builder.query<CategoryDataResponse, string>({
+      providesTags: ['REVIEW', 'MOVIE'],
+      query: (uid) => ({
+        url: `/user/${uid}/categoryRatings`
+      })
     }),
     createWatchList: builder.mutation<WatchList, UpdateWatchList>({
       invalidatesTags: ['WATCH_LIST'],
@@ -336,6 +344,7 @@ export const {
   useDeleteWatchListMutation,
   useAddCommentMutation,
   useVoteTmrevReviewMutation,
+  useCategoryRatingsQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 
