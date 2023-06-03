@@ -4,12 +4,11 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
 
-import Chip from '@/components/chip';
+import NewsCard from '@/components/card/newsCard';
 import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
 import InformationCard from '@/components/page-components/home/informationCard';
-import { NoImage } from '@/constants';
 import {
   useBatchMoviesQuery,
   useGetDiscoverMovieQuery,
@@ -129,36 +128,16 @@ const Home: NextPage = () => {
         </div>
         <div>
           <div>
-            <HeaderText headingType='h2' >Trending News</HeaderText>
+            <HeaderText headingType='h2'>Trending News</HeaderText>
           </div>
-          <div className="grid grid-rows-1 grid-flow-col gap-3 overflow-x-auto pb-3 mt-8" >
+          <div className="grid grid-rows-1 grid-flow-col gap-3 overflow-x-auto pb-3 mt-8 snap-x-mandatory">
             {trendingNews?.body.map((news) => {
-
-              if(!news.url) return null
-
-              return (<Link key={news.url} href={news.url} target='_blank' >
-                <a className='bg-black rounded text-white md:w-60 w-32'>
-                  <img
-                    alt={news.title}
-                    className='aspect-square object-cover rounded-t'
-                    src={news.img || NoImage}
-                    width="100%"
-                  />
-                  <div className='p-2'>
-                    <h3 className=' line-clamp-2 hover:line-clamp-none' >{news.title}</h3>
-                    <div className='hidden md:block'>
-                      <Chip className='w-min'>
-                        <div className='flex items-center space-x-2'>
-                          <span className="material-icons">
-                            today
-                          </span>
-                          <span>{news.publishedDate}</span>
-                        </div>
-                      </Chip>
-                    </div>
-                  </div>
-                </a>
-              </Link>)
+              if (!news.url) return null;
+              return (
+                <div key={news.url} className="scroll-snap-align-start h-full">
+                  <NewsCard news={news} />
+                </div>
+              );
             })}
           </div>
         </div>
