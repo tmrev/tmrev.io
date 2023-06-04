@@ -3,6 +3,7 @@ import { createWrapper } from 'next-redux-wrapper';
 
 import { tmrevApi } from '../api';
 import { newsApi } from '../api/news';
+import { movieApi } from '../api/tmdb/movieAPI';
 import { peopleApi } from '../api/tmdb/peopleAPI';
 import { searchApi } from '../api/tmdb/searchAPI';
 import rootReducer, { RootState } from '../reducers';
@@ -14,7 +15,8 @@ export const store = () => configureStore({
       .concat(tmrevApi.middleware)
       .concat(peopleApi.middleware)
       .concat(searchApi.middleware)
-      .concat(newsApi.middleware),
+      .concat(newsApi.middleware)
+      .concat(movieApi.middleware),
   reducer: rootReducer,
 });
 

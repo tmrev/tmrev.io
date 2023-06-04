@@ -3,7 +3,16 @@ import { HYDRATE } from 'next-redux-wrapper';
 
 import { tmdbAPIKey, tmdbBaseUrl } from '@/constants';
 import { DiscoverMovieQuery, IDiscoverMovieResponse } from '@/models/tmdb/discover';
-import { IBaseSearchQuery, IFindCollectionResponse, IFindCompanyResponse, IFindKeywordsResponse, IFindMoviesResponse, IFindMultiResponse, IFindPeopleResponse, IFindTvResponse } from '@/models/tmdb/search';
+import {
+  IBaseSearchQuery,
+  IFindCollectionResponse,
+  IFindCompanyResponse,
+  IFindKeywordsResponse,
+  IFindMoviesResponse,
+  IFindMultiResponse,
+  IFindPeopleResponse,
+  IFindTvResponse
+} from '@/models/tmdb/search';
 
 export const searchApi = createApi({
   baseQuery: fetchBaseQuery({

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import Iso6391Code from "../ISO639-1";
 import ISO3166_1 from "../ISO3166-1";
 import { MovieGeneral } from "../movie/tmdbMovie";

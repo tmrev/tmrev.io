@@ -2,6 +2,7 @@ import { combineReducers } from 'redux';
 
 import { tmrevApi } from '../api';
 import { newsApi } from '../api/news';
+import { movieApi } from '../api/tmdb/movieAPI';
 import { peopleApi } from '../api/tmdb/peopleAPI';
 import { searchApi } from '../api/tmdb/searchAPI';
 import modalSlice from '../slice/modalSlice';
@@ -17,6 +18,7 @@ const rootReducer = combineReducers({
   [peopleApi.reducerPath]: peopleApi.reducer,
   [searchApi.reducerPath]: searchApi.reducer,
   [newsApi.reducerPath]: newsApi.reducer,
+  [movieApi.reducerPath]: movieApi.reducer,
   modal: modalSlice,
   navigation: navigationSlice,
   reviews: reviewsSlice,

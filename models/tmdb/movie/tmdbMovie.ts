@@ -1,3 +1,8 @@
+/* eslint-disable camelcase */
+
+interface IMovieQueryGeneral {
+  movie_id: number
+}
 
 type MovieGeneral = {
   poster_path?: string
@@ -9,7 +14,7 @@ type MovieGeneral = {
   original_title: string
   original_language: string
   title: string
-  backdrop_path: string
+  backdrop_path?: string
   popularity: number
   vote_count: number
   video: boolean
@@ -17,4 +22,4 @@ type MovieGeneral = {
 }
 
 
-export type { MovieGeneral }
+export type { IMovieQueryGeneral, MovieGeneral }

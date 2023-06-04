@@ -1,5 +1,4 @@
 import { NextPage } from 'next';
-import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect, useMemo } from 'react';
@@ -8,22 +7,21 @@ import NewsCard from '@/components/card/newsCard';
 import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
+import IntroHeader from '@/components/intro-header';
 import InformationCard from '@/components/page-components/home/informationCard';
+import { useAuth } from '@/provider/authUserContext';
 import {
   useBatchMoviesQuery,
-  useGetDiscoverMovieQuery,
   useGetJustReviewedQuery,
   useGetTopReviewedQuery,
 } from '@/redux/api';
 import { useTrendingQuery } from '@/redux/api/news';
 import { numberShortHand } from '@/utils/common';
-import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl } from '@/utils/mediaID';
 
 const Home: NextPage = () => {
   const router = useRouter();
-
-  const { data } = useGetDiscoverMovieQuery({ page: 1 });
+  const { user } = useAuth()
 
   const { data: topReviewedIds } = useGetTopReviewedQuery();
   const { data: justReviewed } = useGetJustReviewedQuery();
@@ -73,36 +71,25 @@ const Home: NextPage = () => {
   }, [topReviewed, justReviewed]);
 
   return (
-    <div className="px-4 lg:px-10 py-6">
+    <div className="pb-6">
       <MetaTags
         description="An in-depth analysis of the latest movies, movies you would like to see, or movies that simply blew you away."
         title="The Movie Review"
         url="https://tmrev.io"
       />
-
       <div className='flex flex-col'>
-        <div className="w-full relative bg-tmrev-gray-dark h-96 rounded">
-          <Image
-            alt={`${data?.results[0].title} backdrop`}
-            className="rounded-lg opacity-30"
-            layout="fill"
-            objectFit="cover"
-            src={imageUrl(data?.results[0].backdrop_path || 'generic alt')}
-          />
-          <div className=" absolute text-white w-full bottom-0 left-0 right-0 m-auto flex flex-col items-center justify-center space-y-2">
-            <h1 className="font-bold text-3xl lg:text-6xl text-center">“ EVERYONE&apos;S A CRITIC ”</h1>
-            <p className="font-light">- TheMovieReview</p>
+        <IntroHeader/>
+        {!user && (
+          <div className="flex items-center justify-center w-full mt-5 ">
+            <Link passHref href="/register">
+              <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded">
+                <p className=" font-semibold text-lg ">Start Reviewing</p>
+              </a>
+            </Link>
           </div>
-        </div>
-        <div className="flex items-center justify-center w-full mt-5 ">
-          <Link passHref href="/register">
-            <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded hover:bg-sky-700">
-              <p className=" font-semibold text-lg ">Start Reviewing</p>
-            </a>
-          </Link>
-        </div>
+        )}
       </div>
-      <div className="space-y-24 mt-16">
+      <div className="space-y-24 mt-16 px-4">
         <div>
           <div>
             <HeaderText>Top reviewed</HeaderText>
@@ -113,7 +100,7 @@ const Home: NextPage = () => {
           />
         </div>
         <div>
-          <div className="flex items-center space-x-5">
+          <div className="flex items-center space-x-3">
             <HeaderText headingType="h2">Just reviewed</HeaderText>
             <p className="text-white font-light">
               {`${numberShortHand(
