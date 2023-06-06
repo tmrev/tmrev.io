@@ -99,10 +99,11 @@ const MovieDescription: FunctionComponent<Props> = ({
         )}
       </div>
       {movie.watchProvider && watchProvider && watchProvider.flatrate?.length && (
-        <div className='flex rounded-full space-x-2 bg-black m-1'>
+        <div className='flex rounded-full bg-black -m-1 flex-wrap'>
           {watchProvider.flatrate?.map((provider) => (
             <ProviderItem
               key={provider.provider_id}
+              className="m-1"
               data={provider}
               link={watchProvider.link}
             />
