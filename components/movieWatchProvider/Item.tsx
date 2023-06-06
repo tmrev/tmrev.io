@@ -1,20 +1,21 @@
 import Image from "next/image"
 import Link from "next/link";
 import React,  { FunctionComponent } from "react";
+import { twMerge } from "tailwind-merge";
 
 import { Buy } from "@/models/tmdb";
 import imageUrl from "@/utils/imageUrl";
 
 import Chip from "../chip";
 
-interface ProviderItemProps {
+interface ProviderItemProps extends React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, HTMLDivElement> {
   data: Buy
   link: string
 }
 
 
-const ProviderItem: FunctionComponent<ProviderItemProps> = ({ data, link }) => (
-  <Chip className='max-w-xs'>
+const ProviderItem: FunctionComponent<ProviderItemProps> = ({ data, link, className }) => (
+  <Chip className={twMerge('max-w-xs', className)}>
     <Link key={data.provider_id} passHref href={link}>
       <a rel="noopener" target="_blank">
         <div key={data.provider_id} className="flex items-center">
