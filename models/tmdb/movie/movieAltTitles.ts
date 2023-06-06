@@ -1,4 +1,4 @@
-import ISO3166_1 from "../ISO3166-1"
+import { Titles } from ".."
 import { IMovieQueryGeneral } from "./tmdbMovie"
 
 interface IMovieAltTitlesQuery extends IMovieQueryGeneral {
@@ -12,10 +12,6 @@ interface IMovieAltTitlesResponse {
   titles: Titles[]
 }
 
-type Titles = {
-  iso_3166_1: ISO3166_1
-  title: string,
-  type: string
-}
+
 
 export type { IMovieAltTitlesQuery, IMovieAltTitlesResponse, Titles }

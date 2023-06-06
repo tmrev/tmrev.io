@@ -1,5 +1,6 @@
 import type { DiscoverMovie, DiscoverMovieQuery, DiscoverMovieResult } from './discoverMovie';
 import type { DiscoverTv, DiscoverTvQuery } from './discoverTv';
+import ISO3166_1 from './ISO3166-1';
 import type {
   Buy, Cast, Credits,
   Genre, IMDB,
@@ -19,6 +20,24 @@ enum MediaType {
   MOVIE = 'movie',
   // eslint-disable-next-line no-unused-vars
   TV = 'tv'
+}
+
+interface TVGeneric {
+  adult: boolean
+  backdrop: string
+  id: number
+  name: string
+  original_language: string
+  original_name: string
+  overview: string
+  poster_path: string
+  media_type: MediaType
+  genre_ids: number[]
+  popularity: number
+  first_air_date: string
+  vote_average: number
+  vote_count: number
+  origin_county: string[]
 }
 
 type KnownForGeneric = {
@@ -50,6 +69,12 @@ type KnownForTV = KnownForGeneric & {
   original_name: string
 }
 
+type Titles = {
+  iso_3166_1: ISO3166_1
+  title: string,
+  type: string
+}
+
 export type {
   Buy,
   Cast,
@@ -75,5 +100,7 @@ export type {
   SearchMovieQuery,
   SearchMovieResponse,
   SpokenLanguage,
+  Titles,
+  TVGeneric,
   WatchProviderResponse
 };
