@@ -126,7 +126,8 @@ const NavSearch: FunctionComponent<Props> = () => {
           'md:hidden'
         )
       } 
-      variant='icon'>
+      variant='icon'
+      onClick={() => setFocused(true)}>
         <span className='material-icons'>
           search
         </span>
