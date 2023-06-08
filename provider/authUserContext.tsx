@@ -3,6 +3,7 @@ import { User, UserCredential } from 'firebase/auth';
 import React, { createContext, useContext } from 'react';
 
 import useFirebaseAuth from '@/hooks/userAuth';
+import { INotificationResponse } from '@/models/tmrev/notifications';
 
 interface AuthUserContext {
   user: User | null;
@@ -23,6 +24,10 @@ interface Auth {
   ) => Promise<UserCredential>;
   signInAnonymously: () => Promise<UserCredential>;
   signInWithGoogle: () => Promise<UserCredential>;
+  notification: {
+    data: INotificationResponse | undefined;
+    isLoading: boolean;
+  }
 }
 
 const authUserContext = createContext<AuthUserContext>({

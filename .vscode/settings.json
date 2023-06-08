@@ -12,7 +12,8 @@
   "conventionalCommits.scopes": [
     "Code Style",
     "Movie",
-    "Profile"
+    "Profile",
+    "Notifications"
   ],
   "editor.detectIndentation": false
 }

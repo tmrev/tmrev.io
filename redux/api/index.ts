@@ -2,6 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
 import { CategoryDataResponse } from '@/models/tmrev/categories';
+import { INotificationResponse, IRetrieveNotificationQuery, IUpdateNotificationQuery } from '@/models/tmrev/notifications';
 
 import {
   DiscoverMovie, DiscoverMovieQuery, MovieQuery,
@@ -238,6 +239,29 @@ export const tmrevApi = createApi({
         url: `/movie/watched/${userId}`,
       }),
     }),
+    readNotification: builder.mutation<void, IUpdateNotificationQuery>({
+      invalidatesTags: ['NOTIFICATIONS'],
+      query: ({ authToken, notificationId }) => ({
+        headers: {
+          authorization: authToken,
+        },
+        method: 'POST',
+        url: `/notification/${notificationId}/read`
+      })
+    }),
+    retrieveNotifications: builder.query<INotificationResponse, IRetrieveNotificationQuery>({
+      providesTags: ['NOTIFICATIONS'],
+      query: ({ authToken, params }) => ({
+        headers: {
+          authorization: authToken,
+        },
+        method: 'GET',
+        params: {
+          ...params
+        },
+        url: `/notification`
+      })
+    }),
     search: builder.query<SearchResponse, string>({
       query: (data) => ({
         url: `/search?q=${data}`
@@ -304,7 +328,7 @@ export const tmrevApi = createApi({
         method: 'POST',
         url: `/movie/review/vote/${data.reviewId}`
       })
-    }),
+    })
   }),
   extractRehydrationInfo(action, { reducerPath }) {
     if (action.type === HYDRATE) {
@@ -314,7 +338,15 @@ export const tmrevApi = createApi({
     return null;
   },
   reducerPath: 'tmrevApi',
-  tagTypes: ['MOVIE', 'TMREV_SCORE', 'WATCH_LIST', 'WATCHED', 'USER', 'REVIEW', 'COMMENT'],
+  tagTypes: [
+    'MOVIE',
+    'TMREV_SCORE',
+    'WATCH_LIST',
+    'WATCHED',
+    'USER',
+    'REVIEW',
+    'COMMENT',
+    'NOTIFICATIONS'],
 });
 
 export const {
@@ -345,6 +377,8 @@ export const {
   useAddCommentMutation,
   useVoteTmrevReviewMutation,
   useCategoryRatingsQuery,
+  useRetrieveNotificationsQuery,
+  useReadNotificationMutation,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

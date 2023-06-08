@@ -1,5 +1,22 @@
 import type { TmrevReview, WatchList } from '.';
 
+type Link = {
+  title: string
+  link: string
+}
+interface TmrevUser {
+  _id: string
+  email: string
+  uuid: string
+  following: string[]
+  firstName: string
+  lastName: string
+  public: boolean
+  bio: string
+  location: string
+  link?: Link
+}
+
 interface User {
   displayName?: string
   photoUrl?: string
@@ -26,4 +43,4 @@ interface UserQuery {
   authToken?: string
 }
 
-export type { User, UserQuery };
+export type { Link, TmrevUser, User, UserQuery };

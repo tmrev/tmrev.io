@@ -10,22 +10,32 @@ import {
 import nookies from 'nookies';
 import { useEffect, useState } from 'react';
 
+import { useRetrieveNotificationsQuery } from '@/redux/api';
+
 export default function useFirebaseAuth() {
   const [user, setUser] = useState<User | null>(null);
+  const [token, setToken] = useState<string>("")
   const [loading, setLoading] = useState(true);
   const auth = getAuth();
   const googleProvider = new GoogleAuthProvider();
+
+  const {
+    data: notificationData,
+    isFetching: isNotificationLoading
+  } = useRetrieveNotificationsQuery({ authToken: token }, { pollingInterval: 30000, skip: !token })
 
   const authStateChanged = async (authState: User | null) => {
     if (!authState) {
       setUser(null);
       setLoading(false);
+      setToken("")
       nookies.set(undefined, 'token', '', { path: '/' });
     } else {
       setLoading(true);
       setUser(authState);
-      const token = await authState.getIdToken();
-      nookies.set(undefined, 'token', token, { path: '/' });
+      const refreshedToken = await authState.getIdToken();
+      setToken(refreshedToken)
+      nookies.set(undefined, 'token', refreshedToken, { path: '/' });
       setLoading(false);
     }
   };
@@ -37,7 +47,10 @@ export default function useFirebaseAuth() {
 
   useEffect(() => {
     const handle = setInterval(async () => {
-      if (user) await user.getIdToken(true);
+      if (user) {
+        const refreshedToken = await user.getIdToken(true);
+        setToken(refreshedToken)
+      }
     }, 10 * 60 * 1000);
 
     return () => clearInterval(handle);
@@ -64,10 +77,14 @@ export default function useFirebaseAuth() {
   return {
     createUserWithEmailAndPassword,
     loading,
+    notification: {
+      data: notificationData,
+      isLoading: isNotificationLoading
+    },
     signInAnonymously,
     signInWithEmailAndPassword,
     signInWithGoogle,
     signOut,
-    user,
+    user
   };
 }

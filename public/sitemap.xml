@@ -13,6 +13,10 @@
   </url>
 
   <url>
+    <loc>https://tmrev.io/notifications</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/register</loc>
   </url>
 
@@ -37,11 +41,11 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/movies/index</loc>
+    <loc>https://tmrev.io/news/index</loc>
   </url>
 
   <url>
-    <loc>https://tmrev.io/news/index</loc>
+    <loc>https://tmrev.io/movies/index</loc>
   </url>
 
   <url>
@@ -77,11 +81,11 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/preview/index</loc>
+    <loc>https://tmrev.io/user/[id]/watched/index</loc>
   </url>
 
   <url>
-    <loc>https://tmrev.io/user/[id]/watched/index</loc>
+    <loc>https://tmrev.io/user/[id]/preview/index</loc>
   </url>
 
   <url>

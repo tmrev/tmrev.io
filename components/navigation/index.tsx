@@ -25,7 +25,7 @@ interface Props {
 const Navigation: FunctionComponent<Props> = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   const router = useRouter();
-  const { user } = useAuth();
+  const { user, notification } = useAuth();
 
   const urlLinks: NavItem[] = useMemo(() => (
     [
@@ -55,13 +55,13 @@ const Navigation: FunctionComponent<Props> = () => {
       //   title: 'People',
       //   url: '/people',
       // },
-      {
-        auth: false,
-        icon: 'trending_up',
-        mobileOnly: false,
-        title: 'Trending',
-        url: '/trending',
-      },
+      // {
+      //   auth: false,
+      //   icon: 'trending_up',
+      //   mobileOnly: false,
+      //   title: 'Trending',
+      //   url: '/trending',
+      // },
       {
         auth: false,
         icon: 'list',
@@ -189,9 +189,9 @@ const Navigation: FunctionComponent<Props> = () => {
         {/* Mobile Menu Button */}
         {renderSideBar()}
         <div
-          className="flex items-center justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
+          className="flex items-center justify-end md:justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
           <Link passHref href="/">
-            <a className='flex items-center justify-center flex-shrink-0'>
+            <a className='flex items-center md:justify-center flex-shrink-0 flex-grow md:flex-grow-0'>
               <Image
                 height="25px"
                 src={tmrevIco}
@@ -199,8 +199,24 @@ const Navigation: FunctionComponent<Props> = () => {
               />
             </a>
           </Link>
-          <NavSearch/>
+          <NavSearch/>  
           <ul className='flex items-center space-x-2'>
+            <li>
+              <Button
+                className=' relative'
+                variant='icon'
+                onClick={() => router.push('/notifications')}
+              >
+                <span className="material-icons">
+                  notifications
+                </span>
+                {notification.data && !!notification.data.body.length && (
+                  <div className=' absolute -top-1 -right-1 bg-red-500 rounded-full h-6 w-6'>
+                    <span className=' text-xs'>{notification.data.body.length}</span>
+                  </div>
+                )}
+              </Button>
+            </li>
             <li>
               <Button
                 variant="icon"
@@ -215,7 +231,6 @@ const Navigation: FunctionComponent<Props> = () => {
               <Profile />
             </li>
           </ul>
-
         </div>
         <div className={`${mobileOpen ? "absolute min-w-full min-h-screen backdrop-blur-md z-10" : "hidden"}`} />
       </motion.nav>

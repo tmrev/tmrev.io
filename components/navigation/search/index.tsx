@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import { useRouter } from 'next/router';
 import React, { FunctionComponent, useCallback, useEffect, useRef, useState } from 'react'
 
+import Button from '@/components/common/Button';
 import NavSearchChip from '@/components/navigation/search/navSearchChip'
 import { ConstantSearchTopic, Topic } from '@/constants/search';
 import useOutsideClick from '@/hooks/useOutsideClick';
@@ -111,18 +112,32 @@ const NavSearch: FunctionComponent<Props> = () => {
       ref={divRef as any}
       className={
         clsx(
+          !focused && 'w-min md:w-max rounded pr-2',
           'md:w-full md:relative max-w-lg md:mx-4 h-10',
-          focused ? 'absolute top-0 left-0 right-0 z-40' : ' w-48',
+          focused ? 'absolute top-0 left-0 right-0 z-40' : 'md:w-48',
           'transition-all duration-300 text-left'
         )
       }
       onFocus={() => setFocused(true)}
     >
+      <Button className={
+        clsx(
+          focused ? 'hidden' : 'flex',
+          'md:hidden'
+        )
+      } 
+      variant='icon'>
+        <span className='material-icons'>
+          search
+        </span>
+      </Button>
       <form 
         className={
           clsx(
+            !focused && 'hidden',
             'h-full w-full',
             focused && 'h-[63px]',
+            'md:block',
             'transition-all duration-100'
           )
         }
@@ -135,7 +150,7 @@ const NavSearch: FunctionComponent<Props> = () => {
         )}>
           <span className="material-icons">search</span>
           {searchTopic && (
-            <NavSearchChip compact onClick={() => setSearchTopic(undefined)} {...searchTopic}/>
+            <NavSearchChip compact onClick={() => {}} {...searchTopic}/>
           )}
           <input
             className={clsx(
