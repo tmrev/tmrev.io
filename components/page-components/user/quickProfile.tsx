@@ -1,10 +1,11 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
-import React, { FunctionComponent } from 'react';
+import React, { FunctionComponent, useMemo } from 'react';
 
 import useProfile from '../../../hooks/userProfile';
 import { useAuth } from '../../../provider/authUserContext';
-import { useFollowUserMutation } from '../../../redux/api';
+import { useFollowUserMutation, useRetrieveFollowerQuery, useRetrieveFollowingQuery } from '../../../redux/api';
 import { renderImageSrc } from '../../../utils/common';
 import Button from '../../common/Button';
 import CopyLink from '../movie/[id]/copyLink';
@@ -13,13 +14,17 @@ import UserNavigation from './userNavigation';
 interface NumberIndicatorsProps {
   title: string
   number: number | string
+  href: string
+  currentPath: string
 }
 
-const NumberIndicators = ({ title, number }: NumberIndicatorsProps) => (
-  <div className="flex flex-col items-center">
-    <p>{number}</p>
-    <p className="opacity-70 tracking-tight md:tracking-wider">{title}</p>
-  </div>
+const NumberIndicators = ({ title, number, href, currentPath }: NumberIndicatorsProps) => (
+  <Link passHref href={`${currentPath}${href}`}>
+    <a className="flex flex-col items-center" >
+      <p>{number}</p>
+      <p className="opacity-70 tracking-tight md:tracking-wider">{title}</p> 
+    </a>
+  </Link>
 );
 
 const QuickProfile:FunctionComponent = () => {
@@ -29,6 +34,17 @@ const QuickProfile:FunctionComponent = () => {
   const { user } = useAuth();
   const router = useRouter();
   const [followUser] = useFollowUserMutation();
+
+  const accountId = useMemo(() => {
+    if(!data) return ''
+
+    return data._id
+  }, [data])
+
+  const {data: following } = useRetrieveFollowingQuery({accountId, page: 1, pageSize:10}, {skip: !accountId})
+  const {data: followers} = useRetrieveFollowerQuery({accountId, page: 1, pageSize:10},{skip: !accountId})
+
+  const currentPath = useMemo(() => `/user/${userId}`, [userId])
 
   const displayMessage = () => {
     if (!data) {
@@ -80,18 +96,26 @@ const QuickProfile:FunctionComponent = () => {
           </div>
           <div className="flex justify-evenly w-full">
             <NumberIndicators
-              number={data.followers || 0}
+              currentPath={currentPath}
+              href='/followers'
+              number={followers?.body?.total || 0}
               title="FOLLOWERS"
             />
             <NumberIndicators
-              number={data.following.length}
+              currentPath={currentPath}
+              href='/following'
+              number={following?.body?.total || 0}
               title="FOLLOWING"
             />
             <NumberIndicators
+              currentPath={currentPath}
+              href='/reviews'
               number={data.reviews.length}
               title="REVIEWS"
             />
             <NumberIndicators
+              currentPath={currentPath}
+              href='/list'
               number={data.watchLists.length}
               title="LISTS"
             />

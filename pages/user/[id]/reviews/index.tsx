@@ -42,7 +42,7 @@ const Reviews: NextPage<Props> = () => {
   }, [isBottom])
 
   return (
-    <div className="my-16 px-0 lg:my-0 text-white w-full">
+    <div className="mb-16 px-0 lg:my-0 text-white w-full">
       <QuickProfile />
       {!data || !movies ? (
         <div className='flex items-center justify-center w-full pb-4'>

@@ -15,7 +15,7 @@ const Watched: FunctionComponent = () => {
   const { data } = useGetWatchedQuery(userId, { skip: !userId });
 
   return (
-    <div className="my-16 px-0 lg:my-0 text-white">
+    <div className="mb-16 px-0 lg:my-0 text-white">
       <QuickProfile />
       {!data ? (
         <div className="flex w-full justify-center items-center">
