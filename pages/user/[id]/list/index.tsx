@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 import { useRouter } from 'next/router';
 import React from 'react';
 
-import Button from '@/components/common/Button';
+import OutlineButton from '@/components/button/outline';
 import MetaTags from '@/components/common/MetaTag';
 import QuickProfile from '@/components/page-components/user/quickProfile';
 import WatchListPanel from '@/components/user/watchListPanel';
@@ -33,9 +33,9 @@ const WatchList: NextPage = () => {
       />
       <QuickProfile />
       <div className="px-4">
-        <Button className="w-full" variant="primary">
+        <OutlineButton className="w-full" onClick={() => router.push(`${router.asPath}/create`)}>
           Create List
-        </Button>
+        </OutlineButton>
         <div className="flex flex-col space-y-4 mt-4">
           {data.watchLists.length ? (
             data.watchLists.map((watchList) => (
