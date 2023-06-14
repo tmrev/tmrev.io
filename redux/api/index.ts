@@ -2,6 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
 import { CategoryDataResponse } from '@/models/tmrev/categories';
+import { RetrieveFollowerResponse, RetrieveFollowingResponse, RetrieveFollowQuery } from '@/models/tmrev/follow';
 import { INotificationResponse, IRetrieveNotificationQuery, IUpdateNotificationQuery } from '@/models/tmrev/notifications';
 
 import {
@@ -249,6 +250,24 @@ export const tmrevApi = createApi({
         url: `/notification/${notificationId}/read`
       })
     }),
+    retrieveFollower: builder.query<RetrieveFollowerResponse, RetrieveFollowQuery>({
+      providesTags: ['FOLLOW'],
+      query: ({ accountId, ...params }) => ({
+        params: {
+          ...params
+        },
+        url: `/follow/${accountId}/followers`
+      })
+    }),
+    retrieveFollowing: builder.query<RetrieveFollowingResponse, RetrieveFollowQuery>({
+      providesTags: ['FOLLOW'],
+      query: ({ accountId, ...params }) => ({
+        params: {
+          ...params
+        },
+        url: `/follow/${accountId}/following`
+      })
+    }),
     retrieveNotifications: builder.query<INotificationResponse, IRetrieveNotificationQuery>({
       providesTags: ['NOTIFICATIONS'],
       query: ({ authToken, params }) => ({
@@ -346,7 +365,9 @@ export const tmrevApi = createApi({
     'USER',
     'REVIEW',
     'COMMENT',
-    'NOTIFICATIONS'],
+    'NOTIFICATIONS',
+    'FOLLOW'
+  ],
 });
 
 export const {
@@ -379,6 +400,8 @@ export const {
   useCategoryRatingsQuery,
   useRetrieveNotificationsQuery,
   useReadNotificationMutation,
+  useRetrieveFollowerQuery,
+  useRetrieveFollowingQuery,
   util: { getRunningOperationPromises },
 } = tmrevApi;
 

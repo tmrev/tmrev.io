@@ -24,34 +24,34 @@ export default function useProfile() {
     };
   }, [router]);
 
-  const { data } = useGetUserQuery(payload, { skip: !payload.uid });
+  const { data: tmrevUserData } = useGetUserQuery(payload, { skip: !payload.uid });
   const { data: currentUserData } = useGetUserQuery(
     { uid: user?.uid || "" },
     { skip: !user }
   );
 
   const isUser = useMemo(() => {
-    if (!data || !user) return false;
+    if (!tmrevUserData || !user) return false;
 
-    if (data.uuid === user.uid) return true;
+    if (tmrevUserData.uuid === user.uid) return true;
 
     return false;
-  }, [data, user]);
+  }, [tmrevUserData, user]);
 
   useEffect(() => {
-    if (!data) return;
+    if (!tmrevUserData) return;
 
     const newData = {
-      ...data,
+      ...tmrevUserData,
       isUser,
     };
 
     dispatch(setUserData(newData));
-  }, [data, isUser]);
+  }, [tmrevUserData, isUser]);
 
   return {
     currentUser: currentUserData,
-    data,
+    data: tmrevUserData,
     isUser,
     userId: payload.uid,
   };
