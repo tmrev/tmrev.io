@@ -125,7 +125,7 @@ export const {
   useFindPeopleQuery,
   useFindTvQuery,
   useFindMovieYearQuery,
-  util: { getRunningOperationPromises }
+  util: { getRunningQueriesThunk }
 } = searchApi
 
 export const {

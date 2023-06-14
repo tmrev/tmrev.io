@@ -9,7 +9,7 @@ import usePrevious from '@/hooks/usePrevious';
 import { DiscoverMovieResult } from '@/models/tmdb';
 import {
   getDiscoverMovie,
-  getRunningOperationPromises,
+  getRunningQueriesThunk,
   useGetDiscoverMovieQuery,
 } from '@/redux/api';
 import { wrapper } from '@/redux/store';
@@ -96,7 +96,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
   (store) => async () => {
     store.dispatch(getDiscoverMovie.initiate({ page: 1 }));
 
-    await Promise.all(getRunningOperationPromises());
+    await Promise.all(store.dispatch(getRunningQueriesThunk()));
 
     return {
       props: {},
