@@ -402,7 +402,7 @@ export const {
   useReadNotificationMutation,
   useRetrieveFollowerQuery,
   useRetrieveFollowingQuery,
-  util: { getRunningOperationPromises },
+  util: { getRunningQueriesThunk },
 } = tmrevApi;
 
 export const {

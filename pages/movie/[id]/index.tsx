@@ -26,7 +26,7 @@ import tmrevIco from '@/public/tmrlogo.svg';
 import {
   getAllReviews,
   getMovie,
-  getRunningOperationPromises,
+  getRunningQueriesThunk,
   useGetAllReviewsQuery,
   useGetMovieQuery,
 } from '@/redux/api';
@@ -276,7 +276,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
         );
       }
   
-      await Promise.all(getRunningOperationPromises());
+      await Promise.all(store.dispatch(getRunningQueriesThunk()));
   
       return {
         props: {},

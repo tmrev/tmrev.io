@@ -8,7 +8,7 @@ import { useAppSelector } from '@/hooks';
 import useProfile from '@/hooks/userProfile';
 import useScroll from '@/hooks/useScroll';
 import {
-  getRunningOperationPromises,
+  getRunningQueriesThunk,
   getUser,
   useBatchMoviesQuery,
 } from '@/redux/api';
@@ -75,7 +75,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
       store.dispatch(getUser.initiate({ uid: id }));
     }
 
-    await Promise.all(getRunningOperationPromises());
+    await Promise.all(store.dispatch(getRunningQueriesThunk()));
 
     return {
       props: {},
