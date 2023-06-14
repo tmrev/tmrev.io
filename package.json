@@ -21,7 +21,7 @@
     "chart.js": "^3.8.0",
     "clsx": "^1.1.1",
     "csvtojson": "^2.0.10",
-    "dayjs": "^1.11.3",
+    "dayjs": "^1.11.8",
     "dompurify": "^2.3.8",
     "firebase": "^9.9.0",
     "firebase-admin": "^11.0.0",
