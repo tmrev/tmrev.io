@@ -10,7 +10,7 @@ import WatchListPanel from '@/components/user/watchListPanel';
 import { useAppSelector } from '@/hooks';
 import useProfile from '@/hooks/userProfile';
 import { TmrevReview } from '@/models/tmrev';
-import { getRunningOperationPromises, getUser, useCategoryRatingsQuery } from '@/redux/api';
+import { getRunningQueriesThunk, getUser, useCategoryRatingsQuery } from '@/redux/api';
 import { wrapper } from '@/redux/store';
 import { extractNameFromEmail, renderImageSrc } from '@/utils/common';
 
@@ -95,7 +95,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
 
     const data = await response.json()
 
-    await Promise.all(getRunningOperationPromises());
+    await Promise.all(store.dispatch(getRunningQueriesThunk()));
 
     return {
       props: {

@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unused-prop-types */
 import clsx from 'clsx';
 import React from 'react';
 

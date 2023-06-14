@@ -14,7 +14,7 @@ import {
   findMovies,   
   findMovieYear,
   findPeople,   
-  getRunningOperationPromises,
+  getRunningQueriesThunk,
   useFindMoviesQuery,  
   useFindMovieYearQuery,  
   useFindPeopleQuery,  
@@ -235,7 +235,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
       }))
     }
 
-    await Promise.all(getRunningOperationPromises());
+    await Promise.all(store.dispatch(getRunningQueriesThunk()));
 
     return {
       props: {
