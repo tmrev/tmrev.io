@@ -8,6 +8,7 @@ import HorizontalItems from "@/components/common/Horizontaltems";
 import MetaTags from '@/components/common/MetaTag';
 import HeaderText from '@/components/common/typography/headerText';
 import IntroHeader from '@/components/intro-header';
+import Feed from '@/components/page-components/home/feed';
 import InformationCard from '@/components/page-components/home/informationCard';
 import { useAuth } from '@/provider/authUserContext';
 import {
@@ -21,7 +22,7 @@ import { createMediaUrl } from '@/utils/mediaID';
 
 const Home: NextPage = () => {
   const router = useRouter();
-  const { user } = useAuth()
+  const { user, tmrevUser } = useAuth()
 
   const { data: topReviewedIds } = useGetTopReviewedQuery();
   const { data: justReviewed } = useGetJustReviewedQuery();
@@ -90,6 +91,10 @@ const Home: NextPage = () => {
         )}
       </div>
       <div className="space-y-24 mt-16 px-4">
+        {tmrevUser && (
+          <Feed accountId={tmrevUser._id} />
+        )}
+        
         <div>
           <div>
             <HeaderText>Top reviewed</HeaderText>

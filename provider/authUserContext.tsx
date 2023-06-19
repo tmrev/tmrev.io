@@ -4,6 +4,7 @@ import React, { createContext, useContext } from 'react';
 
 import useFirebaseAuth from '@/hooks/userAuth';
 import { INotificationResponse } from '@/models/tmrev/notifications';
+import { TmrevUser } from '@/models/tmrev/user';
 
 interface AuthUserContext {
   user: User | null;
@@ -12,6 +13,7 @@ interface AuthUserContext {
 
 interface Auth {
   user: User | null;
+  tmrevUser: TmrevUser | null
   loading: boolean;
   signOut: () => Promise<void>;
   createUserWithEmailAndPassword: (

@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 import { HYDRATE } from 'next-redux-wrapper';
 
 import { CategoryDataResponse } from '@/models/tmrev/categories';
-import { RetrieveFollowerResponse, RetrieveFollowingResponse, RetrieveFollowQuery } from '@/models/tmrev/follow';
+import { RetrieveFollowerFeedResponse, RetrieveFollowerResponse, RetrieveFollowingResponse, RetrieveFollowQuery } from '@/models/tmrev/follow';
 import { INotificationResponse, IRetrieveNotificationQuery, IUpdateNotificationQuery } from '@/models/tmrev/notifications';
 
 import {
@@ -259,6 +259,12 @@ export const tmrevApi = createApi({
         url: `/follow/${accountId}/followers`
       })
     }),
+    retrieveFollowerFeed: builder.query<RetrieveFollowerFeedResponse, string>({
+      providesTags: ['FOLLOW', 'REVIEW', 'MOVIE'],
+      query: (accountId) => ({
+        url: `/follow/${accountId}/feed`,
+      })
+    }),
     retrieveFollowing: builder.query<RetrieveFollowingResponse, RetrieveFollowQuery>({
       providesTags: ['FOLLOW'],
       query: ({ accountId, ...params }) => ({
@@ -402,6 +408,7 @@ export const {
   useReadNotificationMutation,
   useRetrieveFollowerQuery,
   useRetrieveFollowingQuery,
+  useRetrieveFollowerFeedQuery,
   util: { getRunningQueriesThunk },
 } = tmrevApi;
 

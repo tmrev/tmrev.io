@@ -41,11 +41,11 @@
   </url>
 
   <url>
-    <loc>https://tmrev.io/news/index</loc>
+    <loc>https://tmrev.io/movies/index</loc>
   </url>
 
   <url>
-    <loc>https://tmrev.io/movies/index</loc>
+    <loc>https://tmrev.io/news/index</loc>
   </url>
 
   <url>
@@ -54,6 +54,14 @@
 
   <url>
     <loc>https://tmrev.io/movie/[id]/review</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/user/[id]/followers</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/user/[id]/following</loc>
   </url>
 
   <url>
@@ -77,15 +85,15 @@
   </url>
 
   <url>
+    <loc>https://tmrev.io/user/[id]/preview/index</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/user/[id]/reviews/index</loc>
   </url>
 
   <url>
     <loc>https://tmrev.io/user/[id]/watched/index</loc>
-  </url>
-
-  <url>
-    <loc>https://tmrev.io/user/[id]/preview/index</loc>
   </url>
 
   <url>

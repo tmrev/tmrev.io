@@ -122,9 +122,9 @@ const Search: NextPage<Props> = ({ q, topic }: Props) => {
           movieData.results.map(({id, title, poster_path}) => (
             <MoviePoster 
               key={id}
-              id={id}
               imgUrl={poster_path}
-              location={LocationPath.PEOPLE}
+              location={LocationPath.MOVIE}
+              movieId={id}
               name={title}
             />
           ))
@@ -142,9 +142,9 @@ const Search: NextPage<Props> = ({ q, topic }: Props) => {
           data.map(({id, title, poster_path}) => (
             <MoviePoster 
               key={id}
-              id={id}
               imgUrl={poster_path}
               location={LocationPath.MOVIE}
+              movieId={id}
               name={title}
             />
           ))
@@ -166,9 +166,9 @@ const Search: NextPage<Props> = ({ q, topic }: Props) => {
           peopleData.results.map(({name, id, profile_path}) => (
             <MoviePoster 
               key={id}
-              id={id}
               imgUrl={profile_path}
               location={LocationPath.PEOPLE}
+              movieId={id}
               name={name}
             />
           ))

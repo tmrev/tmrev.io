@@ -1,3 +1,4 @@
+import axios, { AxiosResponse } from 'axios';
 import {
   createUserWithEmailAndPassword as createEmailPassword,
   getAuth,
@@ -8,12 +9,21 @@ import {
   User,
 } from 'firebase/auth';
 import nookies from 'nookies';
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 
+import { TmrevUser } from '@/models/tmrev/user';
 import { useRetrieveNotificationsQuery } from '@/redux/api';
+
+const handleFetchUser = async (uid: string) => {
+
+  const response: AxiosResponse<TmrevUser> = await axios.get(`${process.env.NEXT_PUBLIC_TMREV_API}/user/${uid}`)
+
+  return response.data
+}
 
 export default function useFirebaseAuth() {
   const [user, setUser] = useState<User | null>(null);
+  const [tmrevUser, setTmrevUser] = useState<TmrevUser | null>(null)
   const [token, setToken] = useState<string>("")
   const [loading, setLoading] = useState(true);
   const auth = getAuth();
@@ -22,9 +32,21 @@ export default function useFirebaseAuth() {
   const {
     data: notificationData,
     isFetching: isNotificationLoading
-  } = useRetrieveNotificationsQuery({ authToken: token }, { pollingInterval: 30000, skip: !token })
+  } = useRetrieveNotificationsQuery({ authToken: token }, { pollingInterval: 300000, skip: !token })
 
-  const authStateChanged = async (authState: User | null) => {
+  const handleTmrevUser = useCallback(async () => {
+    if (!user) return
+
+    const data = await handleFetchUser(user.uid)
+
+    setTmrevUser(data)
+  }, [user])
+
+  useEffect(() => {
+    handleTmrevUser()
+  }, [handleTmrevUser])
+
+  const authStateChanged = useCallback(async (authState: User | null) => {
     if (!authState) {
       setUser(null);
       setLoading(false);
@@ -38,7 +60,7 @@ export default function useFirebaseAuth() {
       nookies.set(undefined, 'token', refreshedToken, { path: '/' });
       setLoading(false);
     }
-  };
+  }, []);
 
   const clear = () => {
     setUser(null);
@@ -85,6 +107,7 @@ export default function useFirebaseAuth() {
     signInWithEmailAndPassword,
     signInWithGoogle,
     signOut,
+    tmrevUser,
     user
   };
 }

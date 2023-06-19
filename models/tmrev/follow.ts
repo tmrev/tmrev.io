@@ -1,3 +1,4 @@
+import { TmrevReview } from "./review"
 import { TmrevUser } from "./user"
 
 export interface RetrieveFollowerResponse {
@@ -28,4 +29,24 @@ export interface RetrieveFollowQuery {
   page: number
   pageSize: number
   accountId: string
+}
+
+export type ReviewFeed = {
+  reviewData: TmrevReview
+  author: TmrevUser
+  timestamp: string
+}
+
+
+export interface RetrieveFollowerFeedResponse {
+  success: boolean
+  body: {
+    _id: string
+    userId: string
+    reviews: ReviewFeed[]
+    comments: []
+    polls: []
+    lists: []
+    watched: []
+  }
 }
