@@ -61,7 +61,7 @@ const QuickProfile:FunctionComponent = () => {
       };
     }
 
-    if (currentUser && currentUser.following?.includes(userId)) {
+    if (currentUser && currentUser.following?.includes(data._id)) {
       return {
         path: '/unfollow',
         title: 'Unfollow',
@@ -75,11 +75,11 @@ const QuickProfile:FunctionComponent = () => {
   };
 
   const handleActionButton = async () => {
-    if (!user || !currentUser) return;
+    if (!user || !currentUser || !data) return;
 
     const authToken = await user.getIdToken();
     if (displayMessage().title !== 'Edit Profile') {
-      followUser({ authToken, uid: userId });
+      followUser({ authToken, uid: data?._id });
     } else {
       router.push(`/user/${currentUser.uuid}/edit`);
     }
