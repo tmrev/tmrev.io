@@ -53,7 +53,7 @@ const FeedCard: React.FC<FeedCardProps> = ({reviewFeed}: FeedCardProps) => {
   }
 
   return (
-    <div className='flex border rounded space-x-3  text-white border-black my-12 w-full' >
+    <div className='flex border rounded space-x-3 text-white border-black w-full mb-3' >
       <MoviePoster 
         imgUrl={data.poster_path} 
         location={LocationPath.MOVIE} 
@@ -114,14 +114,14 @@ const Feed: React.FC<Props> = ({accountId}: Props) => {
   if(!data || !data.body.reviews.length) return null
 
   return (
-    <div className='w-full'>
+    <section className='space-y-8'>
       <HeaderText>Feed</HeaderText>
       <div className='flex overflow-auto space-x-3 w-full'>
         {data.body.reviews.map((review) => (
           <FeedCard key={review.reviewData._id} reviewFeed={review} />
         ))}
       </div>
-    </div>
+    </section>
   )
 
 }

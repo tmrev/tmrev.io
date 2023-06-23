@@ -5,6 +5,7 @@ import { tmdbAPIKey, tmdbBaseUrl } from '@/constants';
 import { IMovieAltTitlesQuery, IMovieAltTitlesResponse } from '@/models/tmdb/movie/movieAltTitles';
 import { IMovieCreditsQuery, IMovieCreditsResponse } from '@/models/tmdb/movie/movieCredits';
 import { IMovieDetailQuery, IMovieDetailResponse } from '@/models/tmdb/movie/movieDetails';
+import { IMovieDiscoverQuery, IMovieDiscoverResponse } from '@/models/tmdb/movie/movieDiscover';
 import { IMovieExternalIdsQuery, IMovieExternalIdsResponse } from '@/models/tmdb/movie/movieExternalIds';
 import { IMovieImageResponse, IMovieImagesQuery } from '@/models/tmdb/movie/movieImages';
 import { IMovieKeywordsQuery, IMovieKeywordsResponse } from '@/models/tmdb/movie/movieKeywords';
@@ -57,6 +58,15 @@ export const movieApi = createApi({
           ...params
         },
         url: `/movie/${movie_id}`
+      })
+    }),
+    getMovieDiscover: builder.query<IMovieDiscoverResponse, IMovieDiscoverQuery>({
+      query: ({ params }) => ({
+        params: {
+          api_key: tmdbAPIKey,
+          ...params
+        },
+        url: `/discover/movie`
       })
     }),
     getMovieExternalIds: builder.query<IMovieExternalIdsResponse, IMovieExternalIdsQuery>({
@@ -199,5 +209,6 @@ export const {
   useGetMovieTranslationsQuery,
   useGetMovieVideosQuery,
   useGetMovieWatchProvidersQuery,
-  useGetPopularMoviesQuery
+  useGetPopularMoviesQuery,
+  useGetMovieDiscoverQuery
 } = movieApi
