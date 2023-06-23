@@ -79,7 +79,7 @@ const QuickProfile:FunctionComponent = () => {
 
     const authToken = await user.getIdToken();
     if (displayMessage().title !== 'Edit Profile') {
-      followUser({ authToken, uid: currentUser?._id });
+      followUser({ authToken, uid: accountId });
     } else {
       router.push(`/user/${currentUser.uuid}/edit`);
     }
