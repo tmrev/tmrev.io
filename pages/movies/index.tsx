@@ -72,16 +72,15 @@ const Movies: FunctionComponent = () => {
             // eslint-disable-next-line react/no-array-index-key
             key={i}
             passHref
+            className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]"
             href={`/movie/${createMediaUrl(value.id, value.title)}`}
           >
-            <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
-              <Image
-                fill
-                alt={`${value.title} poster`}
-                className="rounded object-cover"
-                src={imageUrl(value.poster_path || '', 300)}
-              />
-            </a>
+            <Image
+              fill
+              alt={`${value.title} poster`}
+              className="rounded object-cover"
+              src={imageUrl(value.poster_path || '', 300)}
+            />
           </Link>
         ))}
       </div>

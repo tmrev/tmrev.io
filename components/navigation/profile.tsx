@@ -24,10 +24,8 @@ const Profile: FunctionComponent = () => {
   }
 
   return (
-    <Link passHref href={`/user/${user.uid}/preview`}>
-      <a className=' flex-none'>
-        <Image alt="User" className="rounded-full dark:bg-white" height={40} src={renderImageSrc(user)} width={40} />
-      </a>
+    <Link passHref className='flex-none' href={`/user/${user.uid}/preview`}>
+      <Image alt="User" className="rounded-full dark:bg-white" height={40} src={renderImageSrc(user)} width={40} />
     </Link>
   );
 };

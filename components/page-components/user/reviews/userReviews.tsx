@@ -24,14 +24,14 @@ const renderUserName = (profile: Profile | null, userId: string) => {
   if (!profile.firstName || !profile.lastName) {
     return (
       <Link passHref href={`/user/${userId}/preview`}>
-        <a>{extractNameFromEmail(profile.email)}</a>
+        {extractNameFromEmail(profile.email)}
       </Link>
     );
   }
 
   return (
     <Link passHref href={`/user/${userId}/preview`}>
-      <a>{`${profile.firstName} ${profile.lastName}`}</a>
+      {`${profile.firstName} ${profile.lastName}`}
     </Link>
   );
 };
@@ -40,26 +40,22 @@ const UserReviews:FunctionComponent<Props> = ({ review, profile, movie, userId }
   <div>
     <div key={review._id} className="flex items-start justify-start space-x-4">
       <Link passHref href={`/movie/${createMediaUrl(review.tmdbID, review.title)}`}>
-        <a>
-          <div className="rounded aspect-moviePoster relative h-64 w-max mx-4">
-            <Image
-              fill
-              priority
-              alt={`${review.title} poster`}
-              className="rounded object-contain"
-              src={movie?.poster_path ? imageUrl(movie.poster_path || '', 300, true) : NoImage}
-            />
-          </div>
-        </a>
+        <div className="rounded aspect-moviePoster relative h-64 w-max mx-4">
+          <Image
+            fill
+            priority
+            alt={`${review.title} poster`}
+            className="rounded object-contain"
+            src={movie?.poster_path ? imageUrl(movie.poster_path || '', 300, true) : NoImage}
+          />
+        </div>
       </Link>
       <div className="space-y-4">
         <div>
           <Link passHref href={`/movie/${createMediaUrl(review.tmdbID, review.title)}`}>
-            <a>
-              <h1 className="font-semibold text-xl">
-                {review.title}
-              </h1>
-            </a>
+            <h1 className="font-semibold text-xl">
+              {review.title}
+            </h1>
           </Link>
         </div>
         <div className="flex flex-col md:flex-row items-start md:items-center space-y-2 md:space-x-2">

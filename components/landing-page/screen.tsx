@@ -15,15 +15,11 @@ interface Props {
 
 const renderTitle = (title: string, url: string) => (
   <>
-    <Link passHref href={`/movie/${url}`}>
-      <a className="hover:underline text-white hidden lg:block">
-        <Typography variant="h1">{title}</Typography>
-      </a>
+    <Link passHref className='hover:underline text-white hidden lg:block' href={`/movie/${url}`}>
+      <Typography variant="h1">{title}</Typography>
     </Link>
-    <Link passHref href={`/movie/${url}`}>
-      <a className="hover:underline text-white lg:hidden block">
-        <Typography variant="h3">{title}</Typography>
-      </a>
+    <Link passHref className="hover:underline text-white lg:hidden block" href={`/movie/${url}`}>
+      <Typography variant="h3">{title}</Typography>
     </Link>
   </>
 );

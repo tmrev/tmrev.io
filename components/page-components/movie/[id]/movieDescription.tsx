@@ -114,45 +114,41 @@ const MovieDescription: FunctionComponent<Props> = ({
         <div className='flex flex-col space-y-3'>
           {imdb && (
             <Chip className='m-1 w-min'>      
-              <Link passHref href={`https://www.imdb.com/title/${imdb?.uid}/`}>
-                <a className="flex items-center space-x-2">
-                  <Image
-                    alt="imdb"
-                    className='object-contain'
-                    height={32}
-                    src="/images/icons/imdb/imdb-icon.svg"
-                    width={32}
-                  />
-                  <p className="opacity-75">
-                    {imdb?.averageRating}
-                  </p>
-                  <p className="opacity-75">
+              <Link passHref className="flex items-center space-x-2" href={`https://www.imdb.com/title/${imdb?.uid}/`}>
+                <Image
+                  alt="imdb"
+                  className='object-contain'
+                  height={32}
+                  src="/images/icons/imdb/imdb-icon.svg"
+                  width={32}
+                />
+                <p className="opacity-75">
+                  {imdb?.averageRating}
+                </p>
+                <p className="opacity-75">
                   (
-                    {numberShortHand(Number(imdb?.numVotes)) }
+                  {numberShortHand(Number(imdb?.numVotes)) }
                   )
-                  </p>
-                </a>
+                </p>
               </Link>
             </Chip>
           )}
           {tmdb && (
             <Chip className='m-1'>
-              <Link passHref href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
-                <a className="flex items-center  space-x-2">
-                  <Image
-                    alt="tmdb"
-                    className='flex-grow object-contain'
-                    height={24}
-                    src="/images/icons/tmdb/tmdb-icon.svg"
-                    width={24}
-                  />
-                  <p className="opacity-75">
-                    {tmdb.vote_average}
-                  </p>
-                  <p className="opacity-75">
+              <Link  passHref className="flex items-center  space-x-2" href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
+                <Image
+                  alt="tmdb"
+                  className='flex-grow object-contain'
+                  height={24}
+                  src="/images/icons/tmdb/tmdb-icon.svg"
+                  width={24}
+                />
+                <p className="opacity-75">
+                  {tmdb.vote_average}
+                </p>
+                <p className="opacity-75">
                 ({numberShortHand(Number(tmdb.vote_count))})
-                  </p>
-                </a>
+                </p>
               </Link>
             </Chip>
           )}

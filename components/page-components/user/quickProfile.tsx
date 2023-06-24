@@ -19,11 +19,9 @@ interface NumberIndicatorsProps {
 }
 
 const NumberIndicators = ({ title, number, href, currentPath }: NumberIndicatorsProps) => (
-  <Link passHref href={`${currentPath}${href}`}>
-    <a className="flex flex-col items-center" >
-      <p>{number}</p>
-      <p className="opacity-70 tracking-tight md:tracking-wider">{title}</p> 
-    </a>
+  <Link passHref className="flex flex-col items-center" href={`${currentPath}${href}`}>
+    <p>{number}</p>
+    <p className="opacity-70 tracking-tight md:tracking-wider">{title}</p> 
   </Link>
 );
 

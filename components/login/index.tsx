@@ -135,10 +135,8 @@ const LoginPanel: FunctionComponent<Props> = ({
         </Button>
         {firebaseError && <p className="text-red-500 mt-1">{firebaseError}</p>}
         {!isModal ? (
-          <Link passHref href="/register">
-            <a className="w-full text-center text-blue-400">
-              <p>Need an account?</p>
-            </a>
+          <Link passHref className="w-full text-center text-blue-400" href="/register">
+            <p>Need an account?</p>
           </Link>
         ) : (
           <Button

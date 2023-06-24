@@ -9,13 +9,11 @@ interface Props {
 
 const NavigationItem = memo(({ item }: Props) => (
   <li key={item.url}>
-    <Link passHref href={item.url}>
-      <a
-        className="flex p-2 rounded hover:bg-tmrev-gray-dark items-center select-none"
-        title={item.title}
-      >
-        <span className="material-icons">{item.icon}</span>
-      </a>
+    <Link
+      passHref
+      className="flex p-2 rounded hover:bg-tmrev-gray-dark items-center select-none"
+      href={item.url} title={item.title}>
+      <span className="material-icons">{item.icon}</span>
     </Link>
   </li>
 ));

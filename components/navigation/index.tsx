@@ -153,21 +153,19 @@ const Navigation: FunctionComponent<Props> = () => {
               {urlLinks.map((link, i) => (
                 // eslint-disable-next-line react/no-array-index-key
                 <li key={i}>
-                  <Link passHref href={link.url}>
-                    <a
-                      className={
-                        clsx(
-                          'flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none',
-                          'dark:hover:bg-tmrev-gray-dark',
-                        )
-                      }
-                      title={link.title}
-                    >
-                      <span className="material-icons">
-                        {link.icon}
-                      </span>
-                      <Typography variant="h5">{link.title}</Typography>
-                    </a>
+                  <Link 
+                    passHref
+                    className={
+                      clsx(
+                        'flex p-2 rounded hover:bg-gray-100 items-center space-x-4 select-none',
+                        'dark:hover:bg-tmrev-gray-dark',
+                      )
+                    }
+                    href={link.url} title={link.title}>
+                    <span className="material-icons">
+                      {link.icon}
+                    </span>
+                    <Typography variant="h5">{link.title}</Typography>
                   </Link>
                 </li>
               ))}
@@ -190,15 +188,13 @@ const Navigation: FunctionComponent<Props> = () => {
         {renderSideBar()}
         <div
           className="flex items-center justify-end md:justify-between bg-black shadow w-full p-2 md:px-4  xl:px-6">
-          <Link passHref href="/">
-            <a className='flex items-center md:justify-center flex-shrink-0 flex-grow md:flex-grow-0'>
-              <Image
-                alt='TMREV Brand'
-                height={25}
-                src={tmrevIco}
-                width={50}
-              />
-            </a>
+          <Link passHref className='flex items-center md:justify-center flex-shrink-0 flex-grow md:flex-grow-0' href="/">
+            <Image
+              alt='TMREV Brand'
+              height={25}
+              src={tmrevIco}
+              width={50}
+            />
           </Link>
           <NavSearch/>  
           <ul className='flex items-center space-x-2'>

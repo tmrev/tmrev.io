@@ -27,23 +27,22 @@ const Watched: FunctionComponent = () => {
             <Link
               key={value._id}
               passHref
+              className="flex justify-center items-center"
               href={`/movie/${createMediaUrl(value.tmdbID, value.title)}`}
             >
-              <a className="flex justify-center items-center">
-                <div
-                  className={clsx(
-                    'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
-                    'lg:w-[300px] lg:h-[500px]',
-                  )}
-                >
-                  <Image
-                    fill
-                    alt={value.title}
-                    className="rounded object-cover"
-                    src={imageUrl(value.posterPath || '', 500)}
-                  />
-                </div>
-              </a>
+              <div
+                className={clsx(
+                  'bg-white relative aspect-[2/3] w-[250px] h-[400px]  rounded',
+                  'lg:w-[300px] lg:h-[500px]',
+                )}
+              >
+                <Image
+                  fill
+                  alt={value.title}
+                  className="rounded object-cover"
+                  src={imageUrl(value.posterPath || '', 500)}
+                />
+              </div>
             </Link>
           ))}
         </div>

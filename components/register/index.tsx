@@ -154,10 +154,8 @@ const RegisterPanel: FunctionComponent<Props> = ({ isModal, redirectPath }: Prop
           <p className="text-red-500 mt-1">{firebaseError}</p>
         )}
         {!isModal ? (
-          <Link passHref href="/login">
-            <a className="w-full text-center text-blue-400">
-              <p>All ready have an account?</p>
-            </a>
+          <Link passHref className="w-full text-center text-blue-400" href="/login">
+            <p>All ready have an account?</p>
           </Link>
         ) : (
           <Button className="w-full text-center hover:no-underline " onClick={openLoginModal}>

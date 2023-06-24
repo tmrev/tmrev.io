@@ -15,18 +15,16 @@ const NewsCard: FC<Props> = ({ news }: Props) => {
 
   return (
     <Link passHref href={url}>
-      <a >
-        <div className='bg-tmrev-gray-dark  relative rounded flex w-[325px] text-white h-full'>
-          <div className="absolute inset-0 rounded">
-            <img alt={title} className="w-full h-full object-cover rounded" src={img}/>
-            <div className="absolute inset-0 bg-black opacity-90" />
-          </div>
-          <div className='p-2 space-y-3 relative'>
-            <h1 className=' font-bold text-lg' >{title}</h1>
-            <p className=' line-clamp-2 max-w-sm text-lg font-semibold' >{snippet}</p>
-          </div>  
+      <div className='bg-tmrev-gray-dark  relative rounded flex w-[325px] text-white h-full'>
+        <div className="absolute inset-0 rounded">
+          <img alt={title} className="w-full h-full object-cover rounded" src={img}/>
+          <div className="absolute inset-0 bg-black opacity-90" />
         </div>
-      </a>
+        <div className='p-2 space-y-3 relative'>
+          <h1 className=' font-bold text-lg' >{title}</h1>
+          <p className=' line-clamp-2 max-w-sm text-lg font-semibold' >{snippet}</p>
+        </div>  
+      </div>
     </Link>
 
   )

@@ -27,16 +27,16 @@ const PopularMovies = () => {
       <HeaderText>Popular Movies</HeaderText>
       <div className="grid grid-rows-1 grid-flow-col gap-3 overflow-x-auto pb-3">
         {data.slice(0, 10).map((movie) => (
-          <Link key={movie.id} passHref href={`/movie/${createMediaUrl(movie.id, movie.title)}`}>
-            <a className="aspect-[2/3] w-[150px] lg:w-[185px] relative rounded">
-              <Image
-                fill
-                priority
-                alt={`${movie.title} poster`}
-                className="rounded object-contain"
-                src={imageUrl(movie.poster_path || '', 300, true)}
-              />
-            </a>
+          <Link 
+            key={movie.id}
+            passHref className="aspect-[2/3] w-[150px] lg:w-[185px] relative rounded" href={`/movie/${createMediaUrl(movie.id, movie.title)}`}>
+            <Image
+              fill
+              priority
+              alt={`${movie.title} poster`}
+              className="rounded object-contain"
+              src={imageUrl(movie.poster_path || '', 300, true)}
+            />
           </Link>
         ))}
       </div>

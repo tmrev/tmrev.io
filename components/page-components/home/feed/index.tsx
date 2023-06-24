@@ -63,13 +63,11 @@ const FeedCard: React.FC<FeedCardProps> = ({reviewFeed}: FeedCardProps) => {
       />
       <div className='p-3 space-y-3 w-64'>
         <div>
-          <Link passHref href={`/user/${reviewFeed.author.uuid}/preview`}>
-            <a className='flex items-center space-x-3'>
-              <Avatar className='flex-grow' user={reviewFeed.author} />
-              <span className='font-semibold md:font-bold md:text-lg' >
-                {`${reviewFeed.author.firstName} ${reviewFeed.author.lastName}`}
-              </span>
-            </a>
+          <Link passHref className='flex items-center space-x-3' href={`/user/${reviewFeed.author.uuid}/preview`}>
+            <Avatar className='flex-grow' user={reviewFeed.author} />
+            <span className='font-semibold md:font-bold md:text-lg' >
+              {`${reviewFeed.author.firstName} ${reviewFeed.author.lastName}`}
+            </span>
           </Link>
         </div>
         {reviewFeed.reviewData.averagedAdvancedScore && (

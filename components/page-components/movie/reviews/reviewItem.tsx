@@ -85,14 +85,14 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
     if (!userProfile.firstName || !userProfile.lastName) {
       return (
         <Link passHref href={`/user/${userId}/preview`}>
-          <a>{extractNameFromEmail(userProfile.email)}</a>
+          {extractNameFromEmail(userProfile.email)}
         </Link>
       );
     }
 
     return (
       <Link passHref href={`/user/${userId}/preview`}>
-        <a>{`${userProfile.firstName} ${userProfile.lastName}`}</a>
+        {`${userProfile.firstName} ${userProfile.lastName}`}
       </Link>
     );
   };

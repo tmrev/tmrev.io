@@ -57,10 +57,8 @@ const Home: NextPage<Props> = ({ user }: Props) => {
         <IntroHeader/>
         {!user && (
           <div className="flex items-center justify-center w-full mt-5 ">
-            <Link passHref href="/register">
-              <a className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded">
-                <p className=" font-semibold text-lg ">Start Reviewing</p>
-              </a>
+            <Link passHref className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded" href="/register">
+              <p className=" font-semibold text-lg ">Start Reviewing</p>
             </Link>
           </div>
         )}

@@ -111,12 +111,12 @@ const Welcome: FunctionComponent<Props> = () => {
       >
         <HeaderText>Lets Get Started </HeaderText>
         <div className="flex space-x-2 text-2xl">
-          <Link passHref href="/login">
-            <a className=" underline">Log In</a>
+          <Link passHref className="underline" href="/login">
+            Log In
           </Link>
           <p>or</p>
-          <Link passHref href="/register">
-            <a className="underline">Create an Account</a>
+          <Link passHref className="underline" href="/register">
+            Create an Account
           </Link>
           <p>to join.</p>
         </div>

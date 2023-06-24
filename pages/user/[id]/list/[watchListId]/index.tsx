@@ -97,36 +97,32 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
             <Link
               key={id}
               passHref
+              className="flex w-full hover:bg-tmrev-gray-dark items-center space-x-4 p-2 border rounded text-white"
               href={`/movie/${createMediaUrl(id, title)}`}
             >
-              <a
-                key={id}
-                className="flex w-full hover:bg-tmrev-gray-dark items-center space-x-4 p-2 border rounded text-white"
+              <div className="p-2">
+                <p className="text-xl font-bold">{index + 1}</p>
+              </div>
+              <div
+                className={clsx(
+                  'bg-white relative aspect-[2/3] h-[120px] rounded',
+                )}
               >
-                <div className="p-2">
-                  <p className="text-xl font-bold">{index + 1}</p>
-                </div>
-                <div
-                  className={clsx(
-                    'bg-white relative aspect-[2/3] h-[120px] rounded',
-                  )}
-                >
-                  <Image
-                    fill
-                    priority
-                    alt={`${title} poster`}
-                    className="rounded object-cover"
-                    src={imageUrl(poster_path || '', 500)}
-                  />
-                </div>
-                <div>
-                  <p className="text-lg font-semibold">
-                    {`${title} (${formatDate(
-                      release_date,
-                    )})`}
-                  </p>
-                </div>
-              </a>
+                <Image
+                  fill
+                  priority
+                  alt={`${title} poster`}
+                  className="rounded object-cover"
+                  src={imageUrl(poster_path || '', 500)}
+                />
+              </div>
+              <div>
+                <p className="text-lg font-semibold">
+                  {`${title} (${formatDate(
+                    release_date,
+                  )})`}
+                </p>
+              </div>
             </Link>
           );
         })}
