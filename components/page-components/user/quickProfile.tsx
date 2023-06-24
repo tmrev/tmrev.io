@@ -92,7 +92,12 @@ const QuickProfile:FunctionComponent = () => {
       <div className="flex flex-col w-full bg-black p-6">
         <div className="flex items-center space-x-4 ml-2 text-xs md:text-base w-full mt-8">
           <div className="relative h-16 w-16 flex-none">
-            <Image alt={`${data.firstName} ${data.lastName}`} className="rounded-full" layout="fill" objectFit="cover" src={renderImageSrc(data)} />
+            <Image 
+              fill 
+              alt={`${data.firstName} ${data.lastName}`} 
+              className="rounded-full object-cover"
+              src={renderImageSrc(data)} 
+            />
           </div>
           <div className="flex justify-evenly w-full">
             <NumberIndicators

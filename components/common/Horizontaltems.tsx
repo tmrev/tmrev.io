@@ -96,10 +96,9 @@ export default function HorizontalItems({ content, batchedIds }: any) {
         >
           <div className="aspect-[2/3] h-[200px] w-[110px] md:h-[300px] md:w-[210px] relative rounded">
             <Image
+              fill
               alt={content.body[movie].title}
-              className='rounded-md cursor-pointer'
-              layout="fill"
-              objectFit="contain"
+              className='rounded-md cursor-pointer object-contain'
               src={imageUrl(content.body[movie]?.poster_path ?? NoImage, 300)}
             />
           </div>

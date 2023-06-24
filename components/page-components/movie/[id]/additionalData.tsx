@@ -29,9 +29,9 @@ const AdditionalData:FunctionComponent<AdditionalDataProps> = ({ movie }: Additi
               {company.logo_path ? (
                 <div className="relative h-16 w-16 md:h-32 md:w-32">
                   <Image
+                    fill
                     alt={company.name}
-                    layout="fill"
-                    objectFit="contain"
+                    className='object-contain'
                     src={imageUrl(company.logo_path)}
                   />
                 </div>

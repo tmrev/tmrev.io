@@ -37,9 +37,9 @@ const Watched: FunctionComponent = () => {
                   )}
                 >
                   <Image
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
+                    fill
+                    alt={value.title}
+                    className="rounded object-cover"
                     src={imageUrl(value.posterPath || '', 500)}
                   />
                 </div>

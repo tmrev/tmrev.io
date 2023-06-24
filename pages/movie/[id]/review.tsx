@@ -166,10 +166,10 @@ const ReviewPage: NextPage = () => {
       />
       <div className="relative w-full h-96 lg:h-[500px]">
         <Image
+          fill
           priority
           alt={`${data.body.title} backdrop`}
-          layout="fill"
-          objectFit="cover"
+          className='object-cover'
           src={imageUrl(data.body.backdrop_path)}
         />
         <div className=" absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent dark:to-black to-white h-full w-full" />

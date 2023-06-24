@@ -112,11 +112,10 @@ const UserWatchList: NextPage<Props> = ({ watchList, movies }: Props) => {
                   )}
                 >
                   <Image
+                    fill
                     priority
                     alt={`${title} poster`}
-                    className="rounded"
-                    layout="fill"
-                    objectFit="cover"
+                    className="rounded object-cover"
                     src={imageUrl(poster_path || '', 500)}
                   />
                 </div>

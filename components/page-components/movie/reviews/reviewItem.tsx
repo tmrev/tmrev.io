@@ -104,9 +104,9 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
       <div className='flex items-center space-x-3'>
         <div className="h-8 w-8 bg-white rounded-full flex-none relative">
           <Image
+            fill
             alt={`${profile.firstName} ${profile.lastName}`}
             className="rounded-full"
-            layout="fill"
             src={profile.photoUrl || `https://avatars.dicebear.com/api/identicon/${userId}.svg`}
           />
         </div>
@@ -249,7 +249,13 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
             {review.comments?.map((comment) => (
               <div key={comment._id} className='flex items-center space-x-3'>
                 <div className=' flex-shrink-0'>
-                  <Image className='rounded-full bg-white' height={32} layout='fixed' src={renderImageSrc(comment.profile[0])} width={32}/>
+                  <Image 
+                    alt='User Profile' 
+                    className='rounded-full bg-white' 
+                    height={32}
+                    src={renderImageSrc(comment.profile[0])} 
+                    width={32}
+                  />
                 </div>
                
                 <div className='flex flex-col'>

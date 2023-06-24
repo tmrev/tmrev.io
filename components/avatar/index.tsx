@@ -17,10 +17,9 @@ const Avatar:FC<Props> = ({user, size = 48, className, ...other}: Props) => {
   return (
     <Image
       {...other as any}
-      alt='User Avater'
+      alt='User Avatar'
       className={twMerge('bg-white rounded-full object-contain', className)}
       height={size}
-      objectFit='contain'
       src={userProfileImageUrl}
       width={size}
     />

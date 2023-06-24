@@ -31,10 +31,9 @@ const WelcomeExplainer: FunctionComponent<Props> = ({
     </div>
     <div className="w-full h-[500px] relative odd:order-first">
       <Image
+        fill
         alt={`${title} explainer`}
-        className="rounded"
-        layout="fill"
-        objectFit="cover"
+        className="rounded object-cover"
         quality="100"
         src={imagePath}
       />

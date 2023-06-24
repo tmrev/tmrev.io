@@ -22,9 +22,9 @@ const Welcome: FunctionComponent<Props> = () => {
       <div className="relative">
         <div className="w-full bg-tmrev-gray-dark h-96 rounded opacity-10">
           <Image
+            fill
             alt="spiderman"
-            layout="fill"
-            objectFit="cover"
+            className='object-cover'
             src={imageUrl('/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg')}
           />
         </div>

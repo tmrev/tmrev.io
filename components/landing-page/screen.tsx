@@ -37,7 +37,13 @@ const Screen:FunctionComponent<Props> = ({ movie }: Props) => {
 
   return (
     <div key={movie.id} className="snap-center relative flex justify-center items-center h-screen w-full transition-all duration-300">
-      <Image priority alt={`${movie.title} backdrop`} layout="fill" objectFit="cover" src={imageUrl(movie.backdrop_path || '', undefined, false)} />
+      <Image 
+        fill 
+        priority
+        alt={`${movie.title} backdrop`} 
+        className=' object-cover'
+        src={imageUrl(movie.backdrop_path || '', undefined, false)} 
+      />
       <div className=" absolute bottom-0 top-0 right-0 left-0 bg-black opacity-40" />
       <div className="absolute z-40 bottom-8 left-8 max-w-[50%]">
         <HeaderText headingType="p">MOVIE</HeaderText>

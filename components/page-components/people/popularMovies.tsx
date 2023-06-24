@@ -30,11 +30,10 @@ const PopularMovies = () => {
           <Link key={movie.id} passHref href={`/movie/${createMediaUrl(movie.id, movie.title)}`}>
             <a className="aspect-[2/3] w-[150px] lg:w-[185px] relative rounded">
               <Image
+                fill
                 priority
                 alt={`${movie.title} poster`}
-                className="rounded"
-                layout="fill"
-                objectFit="contain"
+                className="rounded object-contain"
                 src={imageUrl(movie.poster_path || '', 300, true)}
               />
             </a>

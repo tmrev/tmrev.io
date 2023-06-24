@@ -101,11 +101,10 @@ const IntroHeader: FC<Props> = () => {
   return (
     <div className="w-full relative bg-tmrev-gray-dark h-[400px] md:h-[500px]">
       <Image
+        fill
         priority
         alt={`${firstMovie.title} backdrop`}
-        className="opacity-30"
-        layout="fill"
-        objectFit="cover"
+        className="opacity-30 object-cover"
         src={imageUrl(firstMovie.backdrop_path || 'generic alt')}
       />
       <div className="absolute top-0 pointer-events-none left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-blacker h-[101%] w-full" />

@@ -19,7 +19,12 @@ const MovieItem = ({ movie, index, handleMovieRemove }:MovieItemProps) => (
       <p className="text-2xl font-bold">{index + 1}</p>
     </div>
     <div className="rounded relative aspect-moviePoster h-28 z-0">
-      <Image className="rounded select-none" layout="fill" objectFit="cover" src={imageUrl(movie.poster_path || '')} />
+      <Image
+        fill 
+        alt={movie.title} 
+        className="rounded select-none object-cover" 
+        src={imageUrl(movie.poster_path || '')} 
+      />
     </div>
     <div className="flex-grow">
       <h3 className="text-lg lg:text-xl font-semibold">

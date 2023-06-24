@@ -193,9 +193,10 @@ const Navigation: FunctionComponent<Props> = () => {
           <Link passHref href="/">
             <a className='flex items-center md:justify-center flex-shrink-0 flex-grow md:flex-grow-0'>
               <Image
-                height="25px"
+                alt='TMREV Brand'
+                height={25}
                 src={tmrevIco}
-                width="50px"
+                width={50}
               />
             </a>
           </Link>

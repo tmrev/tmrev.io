@@ -118,8 +118,8 @@ const MovieDescription: FunctionComponent<Props> = ({
                 <a className="flex items-center space-x-2">
                   <Image
                     alt="imdb"
+                    className='object-contain'
                     height={32}
-                    objectFit="contain"
                     src="/images/icons/imdb/imdb-icon.svg"
                     width={32}
                   />
@@ -141,9 +141,8 @@ const MovieDescription: FunctionComponent<Props> = ({
                 <a className="flex items-center  space-x-2">
                   <Image
                     alt="tmdb"
-                    className='flex-grow'
+                    className='flex-grow object-contain'
                     height={24}
-                    objectFit="contain"
                     src="/images/icons/tmdb/tmdb-icon.svg"
                     width={24}
                   />

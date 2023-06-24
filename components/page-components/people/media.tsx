@@ -28,11 +28,10 @@ const PersonMedia = () => {
         {data.profiles.map((image) => (
           <div key={image.file_path} className="aspect-[2/3] w-[150px] lg:w-[185px] relative rounded">
             <Image
+              fill
               priority
               alt={`${image.file_path} poster`}
-              className="rounded"
-              layout="fill"
-              objectFit="contain"
+              className="rounded object-contain"
               src={imageUrl(image.file_path || '', 300, true)}
             />
           </div>

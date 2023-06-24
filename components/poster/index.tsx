@@ -39,16 +39,16 @@ const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, clas
           <Skeleton className=' absolute z-50 bottom-1' height="101%" width="100%" />
         )}
         <Image
+          fill
           priority
           alt={`${name}`}
           className={
             clsx(
               loading && 'hidden',
-              'rounded'
+              'rounded',
+              'object-cover'
             )
           }
-          layout="fill"
-          objectFit="cover"
           src={imgUrl ? imageUrl(imgUrl, imageSize ?? 300) : NoImage}
           onLoad={handleImageLoad}
         />

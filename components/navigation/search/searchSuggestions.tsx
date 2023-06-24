@@ -54,10 +54,9 @@ const AutoCompleteSuggest: FunctionComponent<Props> = ({
               <span className='material-icons' >search</span>
               <div className='relative aspect-square w-12 rounded'>
                 <Image
+                  fill
                   alt={people.name}
-                  className='rounded'
-                  layout='fill'
-                  objectFit='cover'
+                  className='rounded object-cover'
                   src={people.profile_path ? imageUrl(people.profile_path, 300, true) : NoImage}
                 />
               </div>
@@ -84,10 +83,9 @@ const AutoCompleteSuggest: FunctionComponent<Props> = ({
               <span className='material-icons' >search</span>
               <div className='relative aspect-moviePoster w-12 rounded'>
                 <Image
+                  fill
                   alt={movie.title}
-                  className='rounded'
-                  layout='fill'
-                  objectFit='cover'
+                  className='rounded object-cover'
                   src={movie.poster_path ? imageUrl(movie.poster_path , 300, true) : NoImage}
                 />
               </div>

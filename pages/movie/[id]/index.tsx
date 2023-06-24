@@ -126,10 +126,10 @@ const MoviePage: NextPage<Props> = () => {
       <div className="relative flex flex-col justify-center items-center">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image
+            fill
             priority
             alt={`${data.body.title} backdrop`}
-            layout="fill"
-            objectFit="cover"
+            className='object-cover'
             src={imageUrl(data.body.backdrop_path)}
           />
           <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-blacker h-[101%] w-full" />
@@ -147,9 +147,8 @@ const MoviePage: NextPage<Props> = () => {
                 <Image
                   priority
                   alt={`${data.body.title} poster`}
-                  className="rounded aspect-[2/3]"
+                  className="rounded aspect-[2/3] object-cover"
                   height={500}
-                  objectFit="cover"
                   src={imageUrl(data.body.poster_path || '', 400, true)}
                   width={350}
                 />
@@ -173,8 +172,9 @@ const MoviePage: NextPage<Props> = () => {
                     {reviewData.body.avgScore && (
                       <div className='bg-black rounded p-1 flex items-center space-x-3 w-full'>
                         <Image
+                          alt='TMREV'
+                          className='flex-shrink-0'
                           height={32}
-                          layout='fixed'
                           src={tmrevIco}
                           width={32}
                         />

@@ -22,11 +22,10 @@ const MoviePanel: FunctionComponent<Props> = ({ movie }:Props) => {
         <div>
           <div className="aspect-[2/3] h-[200px] w-[150px] md:h-[300px] md:w-[250px] relative rounded">
             <Image
+              fill
               priority
               alt={`${data.body.title} poster`}
-              className="rounded"
-              layout="fill"
-              objectFit="contain"
+              className="rounded object-contain"
               src={imageUrl(data.body.poster_path || '', 300, true)}
             />
             <h3

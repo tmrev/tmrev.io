@@ -76,10 +76,9 @@ const Movies: FunctionComponent = () => {
           >
             <a className="relative m-4 rounded aspect-moviePoster h-[200px]  md:h-[280px]">
               <Image
+                fill
                 alt={`${value.title} poster`}
-                className="rounded"
-                layout="fill"
-                objectFit="cover"
+                className="rounded object-cover"
                 src={imageUrl(value.poster_path || '', 300)}
               />
             </a>

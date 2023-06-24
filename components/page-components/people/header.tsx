@@ -28,10 +28,10 @@ const PeopleHeader = () => {
       <div className='w-32 lg:w-44 shrink-0'>
         <div className='w-full h-full relative'>
           <Image
+            fill
             priority
-            className='rounded-l'
-            layout='fill'
-            objectFit='cover'
+            alt='Profile'
+            className='rounded-l object-cover'
             src={imageUrl(data.profile_path || '')}
           />
         </div>

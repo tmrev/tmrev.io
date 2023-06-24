@@ -29,9 +29,9 @@ const Import: NextPage = () => {
             <HeaderText>import imdb files</HeaderText>
             <div className="relative h-16 w-16 md:w-32">
               <Image
+                fill
                 alt="IMDB"
-                layout="fill"
-                objectFit="contain"
+                className='object-contain'
                 src="/images/icons/imdb/imdb-icon.svg"
               />
             </div>

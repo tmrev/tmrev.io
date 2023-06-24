@@ -14,13 +14,11 @@ const WatchListPanel: FunctionComponent<Props> = ({ watchlist }:Props) => (
       <div className="flex items-center bg-black hover:bg-tmrev-gray-dark space-x-4 p-4 rounded border">
         <div className="aspect-[2/3] h-[112px] relative rounded">
           <Image
+            fill
             alt={`${watchlist.title} watchlist`}
-            className="rounded"
-            layout="fill"
-            objectFit="contain"
+            className="rounded object-contain"
             src={`https://avatars.dicebear.com/api/identicon/${watchlist._id}.svg`}
           />
-
         </div>
         <h3
           className="w-max font-semibold text-lg text-white p-1 whitespace-pre-wrap rounded"
