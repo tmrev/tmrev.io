@@ -13,11 +13,9 @@ const FollowerCard: FC<Props> = ({user}: Props) => {
   const name = `${user.firstName} ${user.lastName}`
 
   return (
-    <Link  href={`/user/${user.uuid}/preview`}>
-      <a className='py-3 flex items-center space-x-3'>
-        <Avatar user={user} />
-        <span>{name}</span>
-      </a>
+    <Link className='py-3 flex items-center space-x-3' href={`/user/${user.uuid}/preview`}>
+      <Avatar user={user} />
+      <span>{name}</span>
     </Link>
   )
 }
