@@ -1,12 +1,15 @@
 /* eslint-disable no-unused-vars */
+import clsx from 'clsx';
 import Image from 'next/image'
 import Link from "next/link";
-import React, { FC } from "react";
+import React, { FC, useState } from "react";
 import { twMerge } from 'tailwind-merge';
 
 import { NoImage } from "@/constants";
 import imageUrl from "@/utils/imageUrl";
 import { createMediaUrl } from "@/utils/mediaID";
+
+import Skeleton from '../skeleton';
 
 export enum LocationPath {
   MOVIE = '/movie',
@@ -22,20 +25,38 @@ interface Props extends React.AnchorHTMLAttributes<HTMLAnchorElement> {
   imageSize?: number
 }
 
-const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, className}: Props) => (
-  <Link key={movieId} passHref href={`${location}/${createMediaUrl(movieId, name)}`}>
-    <a className={twMerge("relative rounded aspect-moviePoster h-[173px]  md:h-[280px]",className )}>
-      <Image
-        priority
-        alt={`${name}`}
-        className="rounded"
-        layout="fill"
-        objectFit="cover"
-        src={imgUrl ? imageUrl(imgUrl, imageSize ?? 300) : NoImage}
-      />
-    </a>
-  </Link>
-)
+const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, className}: Props) => {
+  const [loading, setLoading] = useState(true)
+
+  const handleImageLoad = () => {
+    setLoading(false)
+  }
+
+  return (
+    <Link key={movieId} passHref href={`${location}/${createMediaUrl(movieId, name)}`}>
+      <a className={twMerge("relative rounded aspect-moviePoster h-[173px]  md:h-[280px]",className )}>
+        {loading && (
+          <Skeleton className=' absolute z-50 bottom-1' height="101%" width="100%" />
+        )}
+        <Image
+          priority
+          alt={`${name}`}
+          className={
+            clsx(
+              loading && 'hidden',
+              'rounded'
+            )
+          }
+          layout="fill"
+          objectFit="cover"
+          src={imgUrl ? imageUrl(imgUrl, imageSize ?? 300) : NoImage}
+          onLoad={handleImageLoad}
+        />
+      </a>
+    </Link>
+  )
+  
+}
 
 MoviePoster.defaultProps = {
   imageSize: 300,

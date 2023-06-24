@@ -2,12 +2,13 @@ import React, { useMemo } from 'react'
 
 import HorizontalScroll from '@/components/common/scroll/horizontalScroll';
 import HeaderText from '@/components/common/typography/headerText';
+import HorizontalSkeleton from '@/components/skeleton/horizontalSkeleton';
 import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
 import { useBatchMoviesQuery, useGetTopReviewedQuery } from '@/redux/api';
 
 
 const MostReviewedMovies: React.FC = () => {
-  const { data } = useGetTopReviewedQuery();
+  const { data, isFetching } = useGetTopReviewedQuery();
 
   const batchedIds = useMemo(() => {
     if (!data|| !data.body) return []
@@ -17,7 +18,7 @@ const MostReviewedMovies: React.FC = () => {
     return top
   }, [data]);
 
-  const { data: movieData } = useBatchMoviesQuery(batchedIds, {skip: !batchedIds.length})
+  const { data: movieData, isFetching: isLoadingBatch } = useBatchMoviesQuery(batchedIds, {skip: !batchedIds.length})
 
   const formatMovies = useMemo(() => {
     if(!movieData) return []
@@ -43,8 +44,10 @@ const MostReviewedMovies: React.FC = () => {
       <div>
         <HeaderText>Most reviewed</HeaderText>
       </div>
-      {data && (
-        <HorizontalScroll movies={formatMovies} />
+      {isFetching || isLoadingBatch ? (
+        <HorizontalSkeleton className='aspect-moviePoster' skeletonHeight={173} skeletonWidth={115}/>
+      ) : (
+        <HorizontalScroll movies={formatMovies}/>
       )}
     </section>
   )

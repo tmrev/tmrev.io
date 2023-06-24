@@ -1,16 +1,34 @@
 import { NextPage } from 'next';
+import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import React, { useEffect } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import IntroHeader from '@/components/intro-header';
-import Feed from '@/components/page-components/home/feed';
-import JustReviewedMovies from '@/components/page-components/home/justReviewed';
-import MostReviewedMovies from '@/components/page-components/home/mostReviewed';
-import WeekendReleases from '@/components/page-components/home/weekReleases';
 import WelcomeSection from '@/components/page-components/home/welcome';
+import HorizontalSkeleton from '@/components/skeleton/horizontalSkeleton';
 import { useAuth } from '@/provider/authUserContext';
+
+const Feed = dynamic(() => import("@/components/page-components/home/feed"))
+
+const JustReviewedMovies = dynamic(() => import("@/components/page-components/home/justReviewed"), {
+  loading: () => (
+    <HorizontalSkeleton skeletonHeight={115} skeletonWidth={173}/>
+  )
+})
+
+const MostReviewedMovies = dynamic(() => import("@/components/page-components/home/mostReviewed"), {
+  loading: () => (
+    <HorizontalSkeleton skeletonHeight={115} skeletonWidth={173}/>
+  )
+})
+
+const WeekendReleases = dynamic(() => import("@/components/page-components/home/weekReleases"), {
+  loading: () => (
+    <HorizontalSkeleton skeletonHeight={115} skeletonWidth={173}/>
+  )
+})
 
 const Home: NextPage = () => {
   const router = useRouter();

@@ -6,6 +6,7 @@ import Button from '@/components/common/Button';
 import HeaderText from '@/components/common/typography/headerText';
 import MoviePoster, { LocationPath } from '@/components/poster';
 import Skeleton from '@/components/skeleton';
+import HorizontalSkeleton from '@/components/skeleton/horizontalSkeleton';
 import { ReviewFeed } from '@/models/tmrev/follow';
 import { useAuth } from '@/provider/authUserContext';
 import { useRetrieveFollowerFeedQuery, useVoteTmrevReviewMutation } from '@/redux/api'
@@ -109,7 +110,7 @@ const FeedCard: React.FC<FeedCardProps> = ({reviewFeed}: FeedCardProps) => {
 const Feed: React.FC<Props> = ({accountId}: Props) => {
 
 
-  const { data } = useRetrieveFollowerFeedQuery(accountId, {skip: !accountId});
+  const { data, isFetching } = useRetrieveFollowerFeedQuery(accountId, {skip: !accountId});
 
   if(!data || !data.body.reviews.length) return null
 
@@ -117,9 +118,13 @@ const Feed: React.FC<Props> = ({accountId}: Props) => {
     <section className='space-y-8'>
       <HeaderText>Feed</HeaderText>
       <div className='flex overflow-auto space-x-3 w-full'>
-        {data.body.reviews.map((review) => (
-          <FeedCard key={review.reviewData._id} reviewFeed={review} />
-        ))}
+        {!data || !data.body.reviews.length || !isFetching ? (
+          data.body.reviews.map((review) => (
+            <FeedCard key={review.reviewData._id} reviewFeed={review} />
+          ))
+        ) : (
+          <HorizontalSkeleton skeletonHeight={350} skeletonWidth={500}/>
+        )}
       </div>
     </section>
   )

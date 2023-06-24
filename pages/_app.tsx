@@ -1,3 +1,4 @@
+/* eslint-disable react/no-danger */
 import '../styles/globals.css';
 import 'react-loading-skeleton/dist/skeleton.css';
 import '../config/firebaseInit';
@@ -60,7 +61,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', ${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS});`,
+        gtag('config',"${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}");`,
         }}
       />
     </>

@@ -2,6 +2,7 @@ import React from "react";
 
 import HorizontalScroll from "@/components/common/scroll/horizontalScroll";
 import HeaderText from "@/components/common/typography/headerText";
+import HorizontalSkeleton from "@/components/skeleton/horizontalSkeleton";
 import { SortBy } from "@/models/tmdb/movie/movieDiscover";
 import { useGetMovieDiscoverQuery } from "@/redux/api/tmdb/movieAPI";
 import getThursdayAndNextSunday from "@/utils/date/weekendReleaseDays";
@@ -10,7 +11,7 @@ import getThursdayAndNextSunday from "@/utils/date/weekendReleaseDays";
 const WeekendReleases: React.FC = () => {
   const dates = getThursdayAndNextSunday()
 
-  const {data} = useGetMovieDiscoverQuery({params: {
+  const {data, isFetching} = useGetMovieDiscoverQuery({params: {
     include_adult: false,
     language: 'en-US',
     page: 1,
@@ -26,7 +27,9 @@ const WeekendReleases: React.FC = () => {
       <div>
         <HeaderText>Weekend Releases</HeaderText>
       </div>
-      {data && (
+      {!data || isFetching ? (
+        <HorizontalSkeleton className='aspect-moviePoster' skeletonHeight={173} skeletonWidth={115}/>
+      ) : (
         <HorizontalScroll movies={data.results}/>
       )}
     </section>
