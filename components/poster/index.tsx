@@ -52,6 +52,7 @@ const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, clas
             'object-cover'
           )
         }
+        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         src={imgUrl ? imageUrl(imgUrl, imageSize ?? 300) : NoImage}
         onLoad={handleImageLoad}
       />
