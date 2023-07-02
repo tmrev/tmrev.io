@@ -1,14 +1,29 @@
 import Image from 'next/image'
 import React, { FC, useMemo } from 'react'
 
-import { useGetPopularMoviesQuery } from '@/redux/api/tmdb/movieAPI'
+import { SortBy } from '@/models/tmdb/movie/movieDiscover'
+import { useGetMovieDiscoverQuery } from '@/redux/api/tmdb/movieAPI'
+import getThursdayAndNextSunday from '@/utils/date/weekendReleaseDays'
 import imageUrl from '@/utils/imageUrl'
 
 interface Props {}
 
 const IntroHeader: FC<Props> = () => {
-  const {data: popularMovies} = useGetPopularMoviesQuery({params: {page: 1}});
+  // const {data: popularMovies} = useGetPopularMoviesQuery({params: {page: 1}});
   // const { windowWidth } = useWindowWidth()
+  const dates = getThursdayAndNextSunday()
+
+  const {data: popularMovies} = useGetMovieDiscoverQuery({params: {
+    include_adult: false,
+    language: 'en-US',
+    page: 1,
+    region: 'US',
+    "release_date.gte": dates.thursday,
+    "release_date.lte": dates.sunday,
+    sort_by: SortBy.MOST_POPULAR,
+    with_release_type: '3|2'
+  }})
+
 
 
   const firstMovie = useMemo(() => {
