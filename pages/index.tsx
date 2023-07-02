@@ -1,19 +1,15 @@
-import { DecodedIdToken } from 'firebase-admin/lib/auth/token-verifier';
-import { GetServerSideProps, NextPage } from 'next';
+import { NextPage } from 'next';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import nookies from 'nookies'
 import React, { useEffect } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
 import IntroHeader from '@/components/intro-header';
 import WelcomeSection from '@/components/page-components/home/welcome';
 import HorizontalSkeleton from '@/components/skeleton/horizontalSkeleton';
-import { firebaseAdmin } from '@/config/firebaseAdmin';
 import { useAuth } from '@/provider/authUserContext';
 
-const Feed = dynamic(() => import("@/components/page-components/home/feed"))
 
 const JustReviewedMovies = dynamic(() => import("@/components/page-components/home/justReviewed"), {
   loading: () => (
@@ -33,13 +29,14 @@ const WeekendReleases = dynamic(() => import("@/components/page-components/home/
   )
 })
 
-interface Props {
-  user?: DecodedIdToken
-}
 
-const Home: NextPage<Props> = ({ user }: Props) => {
+const Home: NextPage = () => {
   const router = useRouter();
-  const { tmrevUser } = useAuth()
+  const { user, tmrevUser } = useAuth()
+
+  const Feed = dynamic(() => import("@/components/page-components/home/feed"))
+
+
 
   useEffect(() => {
     router.prefetch('/register');
@@ -76,25 +73,3 @@ const Home: NextPage<Props> = ({ user }: Props) => {
   );
 };
 export default Home;
-
-Home.defaultProps = {
-  user: undefined
-}
-
-export const getServerSideProps: GetServerSideProps<Props> = async (context) => {
-  try {
-    const { token } = nookies.get(context);
-
-    const user = await firebaseAdmin.auth().verifyIdToken(token)
-
-    return {
-      props: {
-        user
-      }
-    }
-  } catch (error) {
-    return {
-      props: {}
-    }
-  }
-}
