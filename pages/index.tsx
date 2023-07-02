@@ -52,11 +52,20 @@ const Home: NextPage = () => {
       />
       <div className='flex flex-col'>
         <IntroHeader/>
-        {!user && (
+        {!user ? (
           <div className="flex items-center justify-center w-full mt-5 ">
             <Link passHref className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded" href="/register">
               <p className=" font-semibold text-lg ">Start Reviewing</p>
             </Link>
+          </div>
+        ) : (
+          <div className="flex items-center justify-center mt-5 relative ">
+            <Link passHref className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded" href="/discover">
+              <p className=" font-semibold text-lg ">Find something new</p>
+            </Link>
+            <div className=' p-1 absolute -top-2 right-8 bg-tmrev-alt-red rounded text-white font-bold'>
+              NEW
+            </div>
           </div>
         )}
       </div>

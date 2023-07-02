@@ -1,9 +1,7 @@
 import ISO3166_1 from "../ISO3166-1";
 import { IMovieQueryGeneral } from "./tmdbMovie";
 
-interface IMovieWatchProvidersQuery extends IMovieQueryGeneral {
-
-}
+interface IMovieWatchProvidersQuery extends IMovieQueryGeneral { }
 
 type MovieWatchProviders = Record<ISO3166_1, MovieWatchProvidersResult>
 
@@ -24,9 +22,30 @@ interface IMovieWatchProvidersResponse {
   results: MovieWatchProviders
 }
 
+interface IRetrieveWatchProvidersQuery {
+  params?: {
+    language?: string
+    watch_region?: string
+  }
+}
+
+type RetrieveWatchProvidersResult = {
+  display_priorities: Record<ISO3166_1, number>
+  display_priority: number
+  logo_path: string
+  provider_name: string
+  provider_id: number
+}
+
+interface IRetrieveWatchProvidersResponse {
+  results: RetrieveWatchProvidersResult[]
+}
+
 export type {
   IMovieWatchProvidersQuery,
   IMovieWatchProvidersResponse,
+  IRetrieveWatchProvidersQuery,
+  IRetrieveWatchProvidersResponse,
   MovieBuy,
   MovieWatchProvidersResult
 }

@@ -1,4 +1,6 @@
 /* eslint-disable no-unused-vars */
+
+import ISO3166_1 from "../ISO3166-1";
 import { MovieGeneral } from "./tmdbMovie";
 
 export enum SortBy {
@@ -32,12 +34,18 @@ interface IMovieDiscoverQuery {
     "release_date.lte"?: string
     sort_by?: SortBy
     with_release_type?: string
+    watch_region?: ISO3166_1
+    with_watch_providers?: string
+    with_genres?: string
+    with_people?: string
   }
 }
 
 interface IMovieDiscoverResponse {
   page: number
   results: MovieGeneral[]
+  total_pages: number
+  total_results: number
 }
 
 export type { IMovieDiscoverQuery, IMovieDiscoverResponse }

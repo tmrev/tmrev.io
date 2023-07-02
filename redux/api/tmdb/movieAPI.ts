@@ -7,6 +7,7 @@ import { IMovieCreditsQuery, IMovieCreditsResponse } from '@/models/tmdb/movie/m
 import { IMovieDetailQuery, IMovieDetailResponse } from '@/models/tmdb/movie/movieDetails';
 import { IMovieDiscoverQuery, IMovieDiscoverResponse } from '@/models/tmdb/movie/movieDiscover';
 import { IMovieExternalIdsQuery, IMovieExternalIdsResponse } from '@/models/tmdb/movie/movieExternalIds';
+import { IMovieGenreListQuery, IMovieGenreListResponse } from '@/models/tmdb/movie/movieGenres';
 import { IMovieImageResponse, IMovieImagesQuery } from '@/models/tmdb/movie/movieImages';
 import { IMovieKeywordsQuery, IMovieKeywordsResponse } from '@/models/tmdb/movie/movieKeywords';
 import { IMovieListQuery, IMovieListResponse } from '@/models/tmdb/movie/movieList';
@@ -17,7 +18,7 @@ import { IMovieReviewsQuery, IMovieReviewsResponse } from '@/models/tmdb/movie/m
 import { IMovieSimilarQuery, IMovieSimilarResponse } from '@/models/tmdb/movie/movieSimilar';
 import { IMovieTranslationsQuery, IMovieTranslationsResponse } from '@/models/tmdb/movie/movieTranslations';
 import { IMovieVideosQuery, IMovieVideosResponse } from '@/models/tmdb/movie/movieVideos';
-import { IMovieWatchProvidersQuery, IMovieWatchProvidersResponse } from '@/models/tmdb/movie/movieWatchProviders';
+import { IMovieWatchProvidersQuery, IMovieWatchProvidersResponse, IRetrieveWatchProvidersQuery, IRetrieveWatchProvidersResponse } from '@/models/tmdb/movie/movieWatchProviders';
 
 export const movieApi = createApi({
   baseQuery: fetchBaseQuery({
@@ -75,6 +76,14 @@ export const movieApi = createApi({
           api_key: tmdbAPIKey,
         },
         url: `/movie/${movie_id}/external_ids`
+      })
+    }),
+    getMovieGenreList: builder.query<IMovieGenreListResponse, IMovieGenreListQuery>({
+      query: () => ({
+        params: {
+          api_key: tmdbAPIKey,
+        },
+        url: `/genre/movie/list`
       })
     }),
     getMovieImages: builder.query<IMovieImageResponse, IMovieImagesQuery>({
@@ -179,6 +188,18 @@ export const movieApi = createApi({
         },
         url: `/movie/popular`
       })
+    }),
+    getWatchProviderList: builder.query<IRetrieveWatchProvidersResponse, IRetrieveWatchProvidersQuery>({
+      query: ({ params }) => ({
+        params: {
+          api_key: tmdbAPIKey,
+          ...params
+        },
+        url: `/watch/providers/movie`
+      }),
+      transformResponse: (response: IRetrieveWatchProvidersResponse) => ({
+        results: response.results.sort((a, b) => a.display_priorities.US - b.display_priorities.US)
+      })
     })
   }),
   extractRehydrationInfo(action, { reducerPath }) {
@@ -210,5 +231,7 @@ export const {
   useGetMovieVideosQuery,
   useGetMovieWatchProvidersQuery,
   useGetPopularMoviesQuery,
-  useGetMovieDiscoverQuery
+  useGetMovieDiscoverQuery,
+  useGetMovieGenreListQuery,
+  useGetWatchProviderListQuery
 } = movieApi

@@ -44,7 +44,7 @@ const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, clas
     <Link 
       key={movieId} 
       passHref 
-      className={twMerge("relative rounded aspect-moviePoster h-[173px]  md:h-[280px]",className )} 
+      className={twMerge("relative flex rounded aspect-moviePoster h-[173px]  md:h-[280px]",className )} 
       href={`${location}/${createMediaUrl(movieId, name)}`}>
       {loading && (
         <Skeleton className=' absolute z-50 bottom-1' height="101%" width="100%" />
