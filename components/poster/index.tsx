@@ -27,10 +27,18 @@ interface Props extends React.AnchorHTMLAttributes<HTMLAnchorElement> {
 
 const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, className}: Props) => {
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(false)
 
   const handleImageLoad = () => {
     setLoading(false)
   }
+
+  const handleImageError = () => {
+    setLoading(false)
+    setError(true)
+  }
+
+  if(error) return null
 
   return (
     <Link 
@@ -54,6 +62,7 @@ const MoviePoster:FC<Props> = ({location, imgUrl, imageSize, name, movieId, clas
         }
         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         src={imgUrl ? imageUrl(imgUrl, imageSize ?? 300) : NoImage}
+        onError={handleImageError}
         onLoad={handleImageLoad}
       />
     </Link>
