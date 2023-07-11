@@ -188,9 +188,9 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
                   thumb_up
                 </span>
               </Button>
-              {!!review.votes.upVote.length && (
+              {!!review.votes?.upVote.length && (
                 <span>
-                  {review.votes.upVote.length}
+                  {review.votes?.upVote.length}
                 </span>
               )}
             </div>
@@ -200,9 +200,9 @@ const ReviewItem:FunctionComponent<Props> = ({ review, compact }:Props) => {
                   thumb_down
                 </span>
               </Button>
-              {!!review.votes.downVote.length && (
+              {!!review.votes?.downVote.length && (
                 <span>
-                  {review.votes.downVote.length}
+                  {review.votes?.downVote.length}
                 </span>
               )}
             </div>
