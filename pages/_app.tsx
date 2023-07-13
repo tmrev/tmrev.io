@@ -28,9 +28,8 @@ function App({children, divRef}: any) {
   return children
 }
 
-function MyApp({ Component, pageProps }: AppProps) {
+function MyApp({ Component, pageProps}: AppProps) {
   const divRef = useRef<HTMLDivElement>(null)
-
 
   return (
     <>

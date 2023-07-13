@@ -2,9 +2,10 @@ import React, {
   FunctionComponent, useEffect, useMemo, useState,
 } from 'react';
 
+import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
+
 import { useAppDispatch } from '../../../../hooks';
 import { AllReviewsResponse } from '../../../../models/tmrev';
-import { MovieResponse } from '../../../../models/tmrev/movie';
 import { Watched, WatchedPayload } from '../../../../models/tmrev/watched';
 import { useAuth } from '../../../../provider/authUserContext';
 import { useCreateWatchedMutation, useGetWatchedQuery, useUpdateWatchedMutation } from '../../../../redux/api';
@@ -13,7 +14,7 @@ import { numberShortHand } from '../../../../utils/common';
 import Button from '../../../common/Button';
 
 interface Props {
-  movie: MovieResponse
+  movie: MovieGeneral
   review: AllReviewsResponse
 }
 
@@ -49,7 +50,7 @@ const WatchedButton: FunctionComponent<Props> = ({
     const result: Watched[] = [];
 
     data.body.forEach((value) => {
-      if (value.tmdbID === movie.body.id) {
+      if (value.tmdbID === movie.id) {
         result.push(value);
       }
     });
@@ -82,9 +83,9 @@ const WatchedButton: FunctionComponent<Props> = ({
       _id: hasUserRated?._id,
       authToken,
       liked,
-      posterPath: movie.body.poster_path,
-      title: movie.body.title,
-      tmdbID: movie.body.id,
+      posterPath: movie.poster_path ?? '',
+      title: movie.title,
+      tmdbID: movie.id,
     };
 
     if (hasUserRated) {

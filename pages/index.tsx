@@ -48,7 +48,6 @@ const Home: NextPage = () => {
       <MetaTags
         description="An in-depth analysis of the latest movies, movies you would like to see, or movies that simply blew you away."
         title="The Movie Review"
-        url="https://tmrev.io"
       />
       <div className='flex flex-col'>
         <IntroHeader/>
@@ -63,9 +62,6 @@ const Home: NextPage = () => {
             <Link passHref className="bg-tmrev-alt-yellow uppercase py-2 px-10 rounded" href="/discover">
               <p className=" font-semibold text-lg ">Find something new</p>
             </Link>
-            <div className=' p-1 absolute -top-2 right-8 bg-tmrev-alt-red rounded text-white font-bold'>
-              NEW
-            </div>
           </div>
         )}
       </div>

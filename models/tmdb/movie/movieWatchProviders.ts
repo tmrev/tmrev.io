@@ -7,10 +7,12 @@ type MovieWatchProviders = Record<ISO3166_1, MovieWatchProvidersResult>
 
 type MovieWatchProvidersResult = {
   link: string
-  buy: MovieBuy[]
+  buy?: Provider[]
+  flatrate?: Provider[]
+  rent?: Provider[]
 }
 
-type MovieBuy = {
+type Provider = {
   logo_path: string
   provider_id: number
   provider_name: string
@@ -46,6 +48,6 @@ export type {
   IMovieWatchProvidersResponse,
   IRetrieveWatchProvidersQuery,
   IRetrieveWatchProvidersResponse,
-  MovieBuy,
+  Provider as MovieBuy,
   MovieWatchProvidersResult
 }
