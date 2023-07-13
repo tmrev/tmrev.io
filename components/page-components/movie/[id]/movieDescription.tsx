@@ -1,53 +1,29 @@
 import clsx from 'clsx';
 import Image from 'next/image';
 import Link from 'next/link';
-import React, { FunctionComponent, useMemo, useState } from 'react'
+import React, { FunctionComponent, useState } from 'react'
 
 import Chip from '@/components/chip';
 import ProviderItem from '@/components/movieWatchProvider/Item';
 import { MOVIE_GENRE } from '@/constants/movies';
-import { Genre, IMDB } from '@/models/tmdb'
-import { Body } from '@/models/tmrev/movie';
+import ISO3166_1 from '@/models/tmdb/ISO3166-1';
+import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
+import { useGetMovieReleaseDatesQuery, useGetMovieWatchProvidersQuery } from '@/redux/api/tmdb/movieAPI';
 import { formatRuntime, numberShortHand } from '@/utils/common';
-import getCounty from '@/utils/getCounty';
 import { createMediaUrl } from '@/utils/mediaID';
 
 interface Props {
-  overview: string
-  imdb?: IMDB
-  tmdb: {
-    vote_average: number;
-    vote_count: number;
-    id: number
-    title: string;
-  }
-  genres: Genre[]
-  runtime: number
-  ageRating?: string
-  movie: Body
+  movie: MovieGeneral
 }
 
 const MovieDescription: FunctionComponent<Props> = ({
-  overview,
-  imdb,
-  tmdb,
-  genres,
-  runtime,
-  ageRating,
   movie
 }: Props) => {
   const [open, setOpen] = useState<boolean>(false)
+  const {runtime, vote_average, vote_count, id, title, genres, overview} = movie
 
-  const watchProvider = useMemo(() => {
-    const county = getCounty();
-
-    if (county && movie.watchProvider) {
-      return movie.watchProvider[county];
-    }
-
-    return null;
-  }, []);
-
+  const { data: watchProvider } = useGetMovieWatchProvidersQuery({movie_id: id})
+  const { data: releaseDates } = useGetMovieReleaseDatesQuery({movie_id: id})
 
   return (
     <button 
@@ -85,34 +61,36 @@ const MovieDescription: FunctionComponent<Props> = ({
             </div> 
           </Chip>
         )}
-        {ageRating && (
+        {releaseDates && (
           <Chip data-tooltip-id='age rating'> 
             <div className='flex items-center space-x-3'>
               <span className="material-icons">
                 personal_video
               </span>
               <span>
-                {ageRating}
+                {releaseDates.results.find((dataResults) => 
+                  dataResults.iso_3166_1 === ISO3166_1.UNITED_STATES)?.release_dates[0].certification
+                }
               </span>   
             </div> 
           </Chip>
         )}
       </div>
-      {movie.watchProvider && watchProvider && watchProvider.flatrate?.length && (
+      {watchProvider && watchProvider.results[ISO3166_1.UNITED_STATES] && (
         <div className='flex rounded-full bg-black -m-1 flex-wrap'>
-          {watchProvider.flatrate?.map((provider) => (
+          {watchProvider.results[ISO3166_1.UNITED_STATES].flatrate?.map((provider) => (
             <ProviderItem
               key={provider.provider_id}
               className="m-1"
               data={provider}
-              link={watchProvider.link}
+              link={watchProvider.results[ISO3166_1.UNITED_STATES].link}
             />
           ))}
         </div>
       )}
       {open && (
         <div className='flex flex-col space-y-3'>
-          {imdb && (
+          {/* {imdb && (
             <Chip className='m-1 w-min'>      
               <Link passHref className="flex items-center space-x-2" href={`https://www.imdb.com/title/${imdb?.uid}/`}>
                 <Image
@@ -132,26 +110,24 @@ const MovieDescription: FunctionComponent<Props> = ({
                 </p>
               </Link>
             </Chip>
-          )}
-          {tmdb && (
-            <Chip className='m-1'>
-              <Link  passHref className="flex items-center  space-x-2" href={`https://www.themoviedb.org/movie/${createMediaUrl(tmdb.id, tmdb.title)}`}>
-                <Image
-                  alt="tmdb"
-                  className='flex-grow object-contain'
-                  height={24}
-                  src="/images/icons/tmdb/tmdb-icon.svg"
-                  width={24}
-                />
-                <p className="opacity-75">
-                  {tmdb.vote_average}
-                </p>
-                <p className="opacity-75">
-                ({numberShortHand(Number(tmdb.vote_count))})
-                </p>
-              </Link>
-            </Chip>
-          )}
+          )} */}
+          <Chip className='m-1'>
+            <Link  passHref className="flex items-center  space-x-2" href={`https://www.themoviedb.org/movie/${createMediaUrl(id, title)}`}>
+              <Image
+                alt="tmdb"
+                className='flex-grow object-contain'
+                height={24}
+                src="/images/icons/tmdb/tmdb-icon.svg"
+                width={24}
+              />
+              <p className="opacity-75">
+                {vote_average}
+              </p>
+              <p className="opacity-75">
+                ({numberShortHand(Number(vote_count))})
+              </p>
+            </Link>
+          </Chip>
           {!!genres.length && (
             <div className='flex rounded-full space-x-2 bg-black m-1 w-min'>
               {genres.map((value) => (
@@ -171,11 +147,6 @@ const MovieDescription: FunctionComponent<Props> = ({
       )}
     </button>
   )
-}
-
-MovieDescription.defaultProps = {
-  ageRating: undefined,
-  imdb: undefined,
 }
 
 export default MovieDescription

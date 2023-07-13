@@ -48,7 +48,6 @@ const Home: NextPage = () => {
       <MetaTags
         description="An in-depth analysis of the latest movies, movies you would like to see, or movies that simply blew you away."
         title="The Movie Review"
-        url="https://tmrev.io"
       />
       <div className='flex flex-col'>
         <IntroHeader/>

@@ -16,6 +16,7 @@ interface TmrevReview {
   profile: Profile
   comments?: Comment[]
   votes?: Vote
+  user: string
 }
 
 interface AllReviewsResponse {

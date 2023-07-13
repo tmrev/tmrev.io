@@ -1,10 +1,9 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { skipToken } from '@reduxjs/toolkit/query';
 import clsx from 'clsx';
-import { NextPage } from 'next';
+import { GetServerSideProps, NextPage } from 'next';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import nookies from 'nookies';
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 
 import MetaTags from '@/components/common/MetaTag';
@@ -18,29 +17,25 @@ import MovieRevenue from '@/components/page-components/movie/[id]/movieRevenue';
 import MovieStats from '@/components/page-components/movie/[id]/movieStats';
 import MovieReviewList from '@/components/page-components/movie/reviews/reviewList';
 import WatchedButton from '@/components/page-components/movie/watched/watchedButton';
-import { firebaseAdmin } from '@/config/firebaseAdmin';
 import useFirebaseAuth from '@/hooks/userAuth';
-import { MovieQuery } from '@/models/tmdb';
 import { MovieReviewPayload, MovieReviewQuery } from '@/models/tmdb/movie';
+import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
 import tmrevIco from '@/public/tmrlogo.svg';
 import {
-  getAllReviews,
-  getMovie,
-  getRunningQueriesThunk,
   useGetAllReviewsQuery,
-  useGetMovieQuery,
 } from '@/redux/api';
-import { wrapper } from '@/redux/store';
 import { numberShortHand, roundWithMaxPrecision } from '@/utils/common';
 import formatDate from '@/utils/formatDate';
 import imageUrl from '@/utils/imageUrl';
 import { createMediaUrl, parseMediaId } from '@/utils/mediaID';
 
-interface Props { }
+interface Props {
+  movie?: MovieGeneral
+}
 
-const MoviePage: NextPage<Props> = () => {
+const MoviePage: NextPage<Props> = ({movie}: Props) => {
   const router = useRouter();
-  const { user } = useFirebaseAuth();
+  const { user, tmrevUser } = useFirebaseAuth();
 
   const { id } = router.query;
 
@@ -52,21 +47,11 @@ const MoviePage: NextPage<Props> = () => {
 
     setQuery(
       {
-        include_user_review: user.uid,
         sort_by: 'reviewedDate.desc',
       }
     )
   }, [user])
 
-  const payload: MovieQuery | null = useMemo(() => {
-    if (typeof id === 'string') {
-      return {
-        movie_id: parseMediaId(id),
-      };
-    }
-
-    return null;
-  }, []);
 
   const movieReviewPayload: MovieReviewPayload | null = useMemo(() => {
     if (typeof id === 'string') {
@@ -79,58 +64,43 @@ const MoviePage: NextPage<Props> = () => {
     return null;
   }, [query]);
 
-  const { data, isLoading, isFetching } = useGetMovieQuery(
-    payload || skipToken,
-    { skip: router.isFallback },
-  );
-  const { data: reviewData } = useGetAllReviewsQuery(
+  const { data: reviewData, isLoading, isFetching } = useGetAllReviewsQuery(
     movieReviewPayload || skipToken,
     { skip: router.isFallback },
   );
 
-  const ageRating = useMemo(() => {
-    if (!data) return [];
-
-    const result = data.body.release_dates.results.find(
-      (dataResults) => dataResults.iso_3166_1 === 'US',
-    );
-
-    if (!result) return [];
-
-    return result.release_dates;
-  }, [data]);
-
   const hasReviewed = useCallback(() => {
-    if (!user || !reviewData || !reviewData.body.reviews.length) return '';
+    if (!tmrevUser || !reviewData) return '';
 
     let reviewId = '';
 
     reviewData.body.reviews.forEach((review) => {
-      if (review.userId === user.uid) reviewId = review._id;
+      if (review.user === tmrevUser._id) reviewId = review._id;
     });
 
     return reviewId;
-  }, [user, data]);
+  }, [tmrevUser, reviewData]);
 
-  if (!data || !reviewData) return null;
+
+  if(!movie) return null
 
   return (
     <>
       <MetaTags
-        description={data.body.overview}
-        image={imageUrl(data.body.poster_path || '', 400, true)}
-        largeImage={imageUrl(data.body.backdrop_path || '')}
-        title={data.body.title}
-        url={createMediaUrl(data.body.id, data.body.title)}
+        description={movie.overview}
+        image={imageUrl(movie.poster_path || '', 400, true)}
+        largeImage={imageUrl(movie.backdrop_path || '')}
+        title={movie.title}
+        url={createMediaUrl(movie.id, movie.title)}
       />
       <div className="relative flex flex-col justify-center items-center">
         <div className="relative w-full h-96 lg:h-[500px]">
           <Image
             fill
             priority
-            alt={`${data.body.title} backdrop`}
+            alt={`${movie.title} backdrop`}
             className='object-cover'
-            src={imageUrl(data.body.backdrop_path)}
+            src={imageUrl(movie.backdrop_path || '')}
           />
           <div className="absolute top-0 left-0 right-0 bottom-0 bg-gradient-to-b from-transparent to-blacker h-[101%] w-full" />
         </div>
@@ -146,14 +116,14 @@ const MoviePage: NextPage<Props> = () => {
               <div className="hidden flex-shrink-0 lg:flex lg:flex-col mr-8">
                 <Image
                   priority
-                  alt={`${data.body.title} poster`}
+                  alt={`${movie.title} poster`}
                   className="rounded aspect-[2/3] object-cover"
                   height={500}
-                  src={imageUrl(data.body.poster_path || '', 400, true)}
+                  src={imageUrl(movie.poster_path || '', 400, true)}
                   width={350}
                 />
                 <CreateReviewButton hasReviewed={hasReviewed()} />
-                <AddToWatchList movie={data.body} />
+                <AddToWatchList movie={movie} />
               </div>
               <div className="flex flex-col space-y-3">
                 <div className=" lg:mt-12">
@@ -164,12 +134,12 @@ const MoviePage: NextPage<Props> = () => {
                   </span>
                   <div className='space-y-3'>
                     <h1 className="flex flex-wrap items-center text-3xl lg:text-6xl font-semibold">
-                      <span className="mr-2">{data.body.title}</span>
+                      <span className="mr-2">{movie.title}</span>
                       <span className="text-lg lg:text-2xl dark:opacity-75 opacity-50">
-                      ({formatDate(data.body.release_date)})
+                      ({formatDate(movie.release_date)})
                       </span>
                     </h1>
-                    {reviewData.body.avgScore && (
+                    {reviewData && reviewData.body.avgScore && (
                       <div className='bg-black rounded p-1 flex items-center space-x-3 w-full'>
                         <Image
                           alt='TMREV'
@@ -187,48 +157,37 @@ const MoviePage: NextPage<Props> = () => {
                       </div>
                     )}
 
-                    <WatchedButton movie={data} review={reviewData} />
-                    <MovieDescription
-                      ageRating={
-                        ageRating.length ? ageRating[0].certification : ''
-                      }
-                      genres={data.body.genres}
-                      imdb={data.body.imdb}
-                      movie={data.body}
-                      overview={data.body.overview}
-                      runtime={data.body.runtime}
-                      tmdb={{
-                        id: data.body.id,
-                        title: data.body.title,
-                        vote_average: data.body.vote_average,
-                        vote_count: data.body.vote_count,
-                      }}
-                    />
+                    {reviewData && (
+                      <WatchedButton movie={movie} review={reviewData} />
+                    )}
+                 
+                    <MovieDescription movie={movie} />
                   </div>
                   <div className="w-full lg:hidden">
                     <CreateReviewButton hasReviewed={hasReviewed()} />
-                    <AddToWatchList movie={data.body} />
+                    <AddToWatchList movie={movie} />
                   </div>
                 </div>
                 <div className=" space-y-3">
-                  <MovieReviewList
-                    reviews={reviewData.body.reviews}
-                    // setQuery={setQuery}
-                    // total={reviewData.body.total}
-                  />
-                  <MovieStats
-                    isFetching={isFetching}
-                    isLoading={isLoading}
-                    tmrev={reviewData}
-                  />
-
+                  {reviewData && (
+                    <>
+                      <MovieReviewList
+                        reviews={reviewData.body.reviews}
+                      />
+                      <MovieStats
+                        isFetching={isFetching}
+                        isLoading={isLoading}
+                        tmrev={reviewData}
+                      />
+                    </>
+                  )}
                   <MovieRevenue
                     dataSet="Weekend Box Office Performance"
                     id={parseMediaId(id as string)}
-                    title={data.body.title}
-                    year={data.body.release_date.split('-')[0]}
+                    title={movie.title}
+                    year={movie.release_date.split('-')[0]}
                   />
-                  <NewsContainer movieTitle={data.body.title} />
+                  <NewsContainer movieTitle={movie.title} />
                 </div>
               </div>
             </div>
@@ -239,58 +198,33 @@ const MoviePage: NextPage<Props> = () => {
   );
 };
 
-export const getServerSideProps = wrapper.getServerSideProps(
-  (store) => async (context) => {
-    try {
-      const { token } = nookies.get(context);
-      let user: any;
-  
-      if (token) {
-        user = await firebaseAdmin.auth().verifyIdToken(token);
-      }
-  
-      const id = context.params?.id;
-  
-      if (typeof id === 'string' && token && user) {
-        store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
-        store.dispatch(
-          getAllReviews.initiate({
-            movie_id: parseMediaId(id),
-            query: {
-              count: 10,
-              include_user_review: user.uid,
-              sort_by: 'reviewedDate.desc',
-            },
-          }),
-        );
-      } else if (typeof id === 'string') {
-        store.dispatch(getMovie.initiate({ movie_id: parseMediaId(id) }));
-        store.dispatch(
-          getAllReviews.initiate({
-            movie_id: parseMediaId(id),
-            query: {
-              count: 1,
-              sort_by: 'reviewedDate.desc',
-            },
-          }),
-        );
-      }
-  
-      await Promise.all(store.dispatch(getRunningQueriesThunk()));
-  
-      return {
-        props: {},
-      };
-    } catch (error) {
-      return {
-        props: {},
-        redirect: {
-          destination: '/login'
-        }
+MoviePage.defaultProps = {
+  movie: undefined
+}
+
+export const getServerSideProps: GetServerSideProps<Props> = async (context) => {
+  try {
+    const { id } = context.query
+
+    const fetchMovie = await fetch(`${process.env.TMDB_API_URL}/movie/${parseMediaId(id?.toString())}?api_key=${process.env.TMDB_API_KEY}`)
+
+    const movieData: MovieGeneral = await fetchMovie.json()
+
+    return {
+      props: {
+        movie: movieData
+      },
+    };
+  } catch (error) {
+    return {
+      props: {
+        movie: undefined
+      },
+      redirect: {
+        destination: '/'
       }
     }
-
-  },
-);
+  }
+}
 
 export default MoviePage;

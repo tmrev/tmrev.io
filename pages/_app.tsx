@@ -5,6 +5,7 @@ import '../config/firebaseInit';
 import 'react-tooltip/dist/react-tooltip.css'
 
 import type { AppProps } from 'next/app';
+import Head from 'next/head';
 import Script from 'next/script';
 import NextNProgress from 'nextjs-progressbar';
 import React, { useEffect, useRef } from 'react';
@@ -28,12 +29,14 @@ function App({children, divRef}: any) {
   return children
 }
 
-function MyApp({ Component, pageProps }: AppProps) {
+function MyApp({ Component, pageProps}: AppProps) {
   const divRef = useRef<HTMLDivElement>(null)
-
 
   return (
     <>
+      <Head>
+        <title>test</title>
+      </Head>
       <AuthUserProvider>
         <ScrollProvider>
           <App divRef={divRef}>
