@@ -49,7 +49,7 @@ const MovieDescription: FunctionComponent<Props> = ({
             </div> 
           </Chip>
         )}
-        {runtime && (
+        {!!runtime && (
           <Chip data-tooltip-id='runtime'> 
             <div className='flex items-center space-x-3'>
               <span className="material-icons-outlined">
@@ -61,7 +61,8 @@ const MovieDescription: FunctionComponent<Props> = ({
             </div> 
           </Chip>
         )}
-        {releaseDates && (
+        {releaseDates && releaseDates.results.find((dataResults) => 
+          dataResults.iso_3166_1 === ISO3166_1.UNITED_STATES)?.release_dates[0].certification && (
           <Chip data-tooltip-id='age rating'> 
             <div className='flex items-center space-x-3'>
               <span className="material-icons">
@@ -111,14 +112,16 @@ const MovieDescription: FunctionComponent<Props> = ({
               </Link>
             </Chip>
           )} */}
-          <Chip className='m-1'>
+          <Chip className='m-1 w-fit'>
             <Link  passHref className="flex items-center  space-x-2" href={`https://www.themoviedb.org/movie/${createMediaUrl(id, title)}`}>
               <Image
                 alt="tmdb"
-                className='flex-grow object-contain'
+                className='object-contain'
+                fetchPriority='low'
                 height={24}
                 src="/images/icons/tmdb/tmdb-icon.svg"
                 width={24}
+                
               />
               <p className="opacity-75">
                 {vote_average}
