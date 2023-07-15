@@ -1,5 +1,7 @@
 /* eslint-disable camelcase */
 
+import { Genre } from "../movie"
+
 interface IMovieQueryGeneral {
   movie_id: number
 }
@@ -19,6 +21,11 @@ type MovieGeneral = {
   vote_count: number
   video: boolean
   vote_average: number
+  budget?: number
+  tagline?: string
+  status?: string
+  genres: Genre[]
+  runtime: number
 }
 
 

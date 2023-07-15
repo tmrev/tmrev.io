@@ -3,8 +3,8 @@ import React, { FunctionComponent, useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
 
 import OutlineButton from '@/components/button/outline';
+import { MovieGeneral } from '@/models/tmdb/movie/tmdbMovie';
 
-import { Body } from '../../../../models/tmrev/movie';
 import { useAuth } from '../../../../provider/authUserContext';
 import { useAddMovieToWatchListMutation, useGetUserWatchListsQuery } from '../../../../redux/api';
 import {
@@ -14,7 +14,7 @@ import { parseMediaId } from '../../../../utils/mediaID';
 import Button from '../../../common/Button';
 
 interface Props {
-  movie: Body
+  movie: MovieGeneral
 }
 
 const AddToWatchList:FunctionComponent<Props> = ({ movie }:Props) => {
