@@ -164,6 +164,7 @@ const MovieRevenue:FunctionComponent<Props> = ({
                 ticks: { color: 'white' },
               },
               y: {
+                grid: {color: "#3B3B3B"},
                 ticks: { color: 'white' },
               },
             },
