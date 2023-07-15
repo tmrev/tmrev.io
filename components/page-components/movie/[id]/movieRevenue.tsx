@@ -161,9 +161,11 @@ const MovieRevenue:FunctionComponent<Props> = ({
             responsive: true,
             scales: {
               x: {
+                grid: {color: "#3B3B3B"},
                 ticks: { color: 'white' },
               },
               y: {
+                grid: {color: "#3B3B3B"},
                 ticks: { color: 'white' },
               },
             },
