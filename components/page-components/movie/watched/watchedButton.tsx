@@ -8,7 +8,7 @@ import { useAppDispatch } from '../../../../hooks';
 import { AllReviewsResponse } from '../../../../models/tmrev';
 import { Watched, WatchedPayload } from '../../../../models/tmrev/watched';
 import { useAuth } from '../../../../provider/authUserContext';
-import { useCreateWatchedMutation, useGetWatchedQuery, useUpdateWatchedMutation } from '../../../../redux/api';
+import { useCreateWatchedMutation, useDeleteWatchedMutation, useGetWatchedQuery, useUpdateWatchedMutation } from '../../../../redux/api';
 import { setOpenToast, setToastContent } from '../../../../redux/slice/toastSlice';
 import { numberShortHand } from '../../../../utils/common';
 import Button from '../../../common/Button';
@@ -39,6 +39,7 @@ const WatchedButton: FunctionComponent<Props> = ({
   const [token, setToken] = useState<string>('');
   const [addWatched] = useCreateWatchedMutation();
   const [updateWatched] = useUpdateWatchedMutation();
+  const [deleteWatched] = useDeleteWatchedMutation();
   const [success, setSuccess] = useState<boolean>(false);
   const dispatch = useAppDispatch();
   const { data } = useGetWatchedQuery(token, { skip: !token });
@@ -89,8 +90,15 @@ const WatchedButton: FunctionComponent<Props> = ({
     };
 
     if (hasUserRated) {
-      await updateWatched(payload);
-      setSuccess(true);
+      if(hasUserRated.liked === liked){
+        await deleteWatched({
+          authToken: payload.authToken,
+          watchedId: hasUserRated._id
+        })
+      } else {
+        await updateWatched(payload);
+        setSuccess(true);
+      }
     } else {
       await addWatched(payload);
       setSuccess(true);
