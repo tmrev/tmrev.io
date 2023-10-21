@@ -51,7 +51,7 @@ const Welcome: FunctionComponent<Props> = () => {
         you've seen within the last year or see how your favorite film stacks
         up to others with thoughtful data visualization."
           howTo={`${howToSearch} Once you select your film just click the "review movie"
-          button and fill out the scorecard. Want to know what each category means? Click here.`}
+          button and fill out the scorecard.`}
           id="review"
           imagePath="/images/welcome/rating-system.png"
           title="Unique Review System"
