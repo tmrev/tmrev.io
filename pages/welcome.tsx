@@ -83,10 +83,10 @@ const Welcome: FunctionComponent<Props> = () => {
         />
         <WelcomeExplainer
           description="Keep track of every movie you've seen and look back on them in your user profile."
-          howTo={`${howToSearch} Once you select your film just click the 
-        "thumbs up" or "thumbs down" button to register that 
+          howTo={`${howToSearch} Once you select your film, just click the 
+        "thumbs up" or "thumbs down" button to confirm that 
         you've seen this movie before.
-         You'll be able to view this list from your profile page. The last button on the side navigation.`}
+         You'll be able to view this list from your profile page (The last button on the side navigation).`}
           id="watched"
           imagePath="/images/welcome/watched.png"
           title="Watched"
