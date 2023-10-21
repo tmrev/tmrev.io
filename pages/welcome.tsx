@@ -1,21 +1,23 @@
-import Image from 'next/image';
-import Link from 'next/link';
-import { useRouter } from 'next/router';
-import React, { FunctionComponent, useEffect } from 'react';
+import Image from 'next/image'
+import Link from 'next/link'
+import { useRouter } from 'next/router'
+import React, { FunctionComponent, useEffect } from 'react'
 
-import HeaderText from '@/components/common/typography/headerText';
-import WelcomeExplainer from '@/components/page-components/home/welcome/explainer';
-import imageUrl from '@/utils/imageUrl';
+import HeaderText from '@/components/common/typography/headerText'
+import WelcomeExplainer from '@/components/page-components/home/welcome/explainer'
+import imageUrl from '@/utils/imageUrl'
 
 interface Props {}
 
+const howToSearch: string =
+  'You can start by selecting the search option from the left-side navigation and searching for your desired film.'
 const Welcome: FunctionComponent<Props> = () => {
-  const router = useRouter();
+  const router = useRouter()
 
   useEffect(() => {
-    router.prefetch('/login');
-    router.prefetch('/register');
-  }, []);
+    router.prefetch('/login')
+    router.prefetch('/register')
+  }, [])
 
   return (
     <div className="p-8 text-white space-y-32">
@@ -24,7 +26,7 @@ const Welcome: FunctionComponent<Props> = () => {
           <Image
             fill
             alt="spiderman"
-            className='object-cover'
+            className="object-cover"
             src={imageUrl('/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg')}
           />
         </div>
@@ -41,17 +43,15 @@ const Welcome: FunctionComponent<Props> = () => {
           description="In a world driven by data,
         it seems like movie reviews have been left behind,
         with most of the major movie review platforms only
-        letting you review out of 5 or out of 10, with a
-        review system like this, it leaves much to be desired.
-        The TMREV team has crafted 10 categories each with a 1 - 10 scale
+        letting you review out of 5 or out of 10. With a
+        review system like this, much is left to be desired.
+        The TMREV team has crafted 10 categories each with a 1-10 scale,
         allowing a user to go more in-depth than ever before.
         For example, at a glance with TMREV, you could see which movie had the best plot
-        you've seen within the last year or see how your favorite film stack
+        you've seen within the last year or see how your favorite film stacks
         up to others with thoughtful data visualization."
-          howTo='You can start by selecting the search from the left-side navigation and searching for your
-        desired film. Once you select your film just click the "review movie"
-         button and fill out the scorecard. Want
-         to know what each category means click here.'
+          howTo={`${howToSearch} Once you select your film just click the "review movie"
+          button and fill out the scorecard. Want to know what each category means? Click here.`}
           id="review"
           imagePath="/images/welcome/rating-system.png"
           title="Unique Review System"
@@ -122,7 +122,7 @@ const Welcome: FunctionComponent<Props> = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Welcome;
+export default Welcome
