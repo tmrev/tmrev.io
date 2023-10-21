@@ -92,12 +92,11 @@ const Welcome: FunctionComponent<Props> = () => {
           title="Watched"
         />
         <WelcomeExplainer
-          description="You can now look into the mind of a fellow movie
-          review with the profile preview this will give you the
-          ability to quickly see what a user's top ten favorite and
-            least favorite movies are and you'll also be able to view a user's public lists they have created. "
-          howTo="You can start by selecting the search from the left-side navigation and searching for a user.
-            Once you select a user you'll be taken directly to the profile preview page."
+          description="You can now look into the mind of a fellow movie reviewer with the profile preview.
+          This will give you the ability to quickly see what a user's top ten favorite and least favorite
+          movies are, and you'll also be able to view a user's public lists they have created."
+          howTo="You can start by selecting the search bar at the top of the page and searching for a user.
+          Once you select a user, you'll be taken directly to the profile preview page."
           id="profile-preview"
           imagePath="/images/welcome/profile-preview.png"
           title="Profile Preview"
