@@ -74,13 +74,12 @@ const Welcome: FunctionComponent<Props> = () => {
         <WelcomeExplainer
           description="Creating your list is a great way
         to share a collection of your favorite films, actors, genres, or just anything you can dream up."
-          howTo={`You can start by selecting the search from 
-        the left-side navigation and searching for your desired film. Once you select your film just click the 
-        "Add to List" button and you'll be prompted to 
+          howTo={`${howToSearch} Once you select your film, just click the 
+        "Add to List" button, and you'll be prompted to 
         either create a new list or add to a pre-existing list.`}
           id="list"
           imagePath="/images/welcome/list.png"
-          title="List"
+          title="Lists"
         />
         <WelcomeExplainer
           description="Keep track of every movie you've seen and look back on them in your user profile."
