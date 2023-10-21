@@ -62,11 +62,10 @@ const Welcome: FunctionComponent<Props> = () => {
         spider chart that allows a user to gain a vast amount of knowledge at a glance.
         A user will be able to determine the strong and weak points of a movie and be able
         to compare their own opinion with the general audience."
-          howTo="You can start by selecting the search from the left-side navigation and
-          searching for your desired film. Once you select your film scroll down until
+          howTo={`${howToSearch} Once you select your film scroll down until
           you see “THE MOVIE REVIEW”. If you don't see this then congratulations
           you can be the first person to review this movie.
-          After you review this movie then the chart will automatically appear."
+          After you review this movie then the chart will automatically appear.`}
           id="data-visualization"
           imagePath="/images/welcome/data-visual.png"
           title="Data Visualization"
@@ -84,8 +83,7 @@ const Welcome: FunctionComponent<Props> = () => {
         />
         <WelcomeExplainer
           description="Keep track of every movie you've seen and look back on them in your user profile."
-          howTo={`You can start by selecting the search from the left-side navigation and 
-        searching for your desired film. Once you select your film just click the 
+          howTo={`${howToSearch} Once you select your film just click the 
         "thumbs up" or "thumbs down" button to register that 
         you've seen this movie before.
          You'll be able to view this list from your profile page. The last button on the side navigation.`}
