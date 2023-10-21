@@ -57,14 +57,15 @@ const Welcome: FunctionComponent<Props> = () => {
           title="Unique Review System"
         />
         <WelcomeExplainer
-          description="With more data comes more responsibilities to the
-        user and how we present that data. Each movie will display a
-        spider chart that allows a user to gain a vast amount of knowledge at a glance.
-        A user will be able to determine the strong and weak points of a movie and be able
-        to compare their own opinion with the general audience."
-          howTo={`${howToSearch} Once you select your film scroll down until
-          you see “THE MOVIE REVIEW”. If you don't see this then congratulations
-          you can be the first person to review this movie.
+          description="With more data comes more responsibility for the user and
+          how we present that data. Each movie will display a spider chart that
+          allows a user to gain a vast amount of knowledge at a glance. A user
+          will be able to determine the strong and weak points of a movie and compare
+          their own opinion to the general audience's."
+          howTo={`${howToSearch} Once you select your film, scroll down until you see
+          the “Plotted Reviews” section. If you don't see this, then congratulations!
+          You can be the first person to review this movie. After you review this movie,
+          the chart will appear automatically.
           After you review this movie then the chart will automatically appear.`}
           id="data-visualization"
           imagePath="/images/welcome/data-visual.png"
