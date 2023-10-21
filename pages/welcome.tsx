@@ -10,7 +10,7 @@ import imageUrl from '@/utils/imageUrl'
 interface Props {}
 
 const howToSearch: string =
-  'You can start by selecting the search option from the left-side navigation and searching for your desired film.'
+  'You can start by selecting the search bar at the top of the page and searching for your desired film.'
 const Welcome: FunctionComponent<Props> = () => {
   const router = useRouter()
 
