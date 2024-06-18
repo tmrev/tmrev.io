@@ -17,6 +17,10 @@
   </url>
 
   <url>
+    <loc>https://tmrev.io/privacy-policy</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/register</loc>
   </url>
 
@@ -30,6 +34,10 @@
 
   <url>
     <loc>https://tmrev.io/welcome</loc>
+  </url>
+
+  <url>
+    <loc>https://tmrev.io/discover/index</loc>
   </url>
 
   <url>
@@ -57,15 +65,15 @@
   </url>
 
   <url>
+    <loc>https://tmrev.io/people/[id]/index</loc>
+  </url>
+
+  <url>
     <loc>https://tmrev.io/user/[id]/followers</loc>
   </url>
 
   <url>
     <loc>https://tmrev.io/user/[id]/following</loc>
-  </url>
-
-  <url>
-    <loc>https://tmrev.io/people/[id]/index</loc>
   </url>
 
   <url>
