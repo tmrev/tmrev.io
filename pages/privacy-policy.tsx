@@ -1,7 +1,7 @@
 import React from 'react'
 
 const PrivacyPolicy: React.FC = () => (
-  <div className="text-white space-y-8 mt-8">
+  <div className="text-white space-y-8 mt-8 p-16">
     <h1 className="text-xl font-semibold">
       The Movie Review App Privacy Policy (Beta)
     </h1>
@@ -89,7 +89,14 @@ const PrivacyPolicy: React.FC = () => (
       <h2 className="text-lg font-semibold">Contact Us</h2>
       <p>
         If you have any questions or concerns about this Privacy Policy, please
-        contact us at [your contact email address].
+        contact us at{' '}
+        <a
+          className="text-blue-500 hover:underline"
+          href="mailto:tmrevcontact007@gmail.com"
+        >
+          tmrevcontact007@gmail.com
+        </a>
+        .
       </p>
     </div>
   </div>
